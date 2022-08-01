@@ -1,0 +1,519 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/50-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd-\u0baa\u0bbf\u0ba9\u0bcd-\u0baa\u0bc2\u0bae\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0b9a\u0bc1\u0bb4\u0bb1\u0bcd\u0b9a\u0bbf-\u0bb5\u0bc7\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/50-301478",
+  "time_ut": 1659337195,
+  "original_lang": "ta",
+  "original_title": "50 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0ba9\u0bcd \u0baa\u0bc2\u0bae\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bc1\u0bb4\u0bb1\u0bcd\u0b9a\u0bbf \u0bb5\u0bc7\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "Change in Earth's rotation speed after 50 years",
+      "author": "unknown",
+      "body_lines": [
+        "Scientists say Earth is spinning faster than it did 50 years ago. In that way, Earth completes its one-day cycle in less than 24 hours.",
+        "It is a scientific fact that the earth rotates in its orbit and revolves around the sun in 365 days.",
+        "Earth takes 365 days to orbit the Sun once and 24 hours to orbit itself.",
+        "That means scientists have discovered that there is a one-second variation in rotation speed. Scientists say that the change in the Earth's rotation speed is caused by various factors such as the Earth's core, the oceans, the movement of the atmosphere and the gravitational pull of the Moon.",
+        "On July 29, Earth broke its record for the shortest day. It was considered the shortest month since 1960.",
+        "On July 29, Earth recorded its shortest day. This again revealed that the earth rotates rapidly.",
+        "On July 19, 2020, the Earth rotated so fast that it completed one day in less than 24 hours. That means Earth completed its rotation 1.47 milliseconds earlier.",
+        "In this situation, yesterday the Earth completed its one-day rotation 1.59 milliseconds earlier. Scientists have predicted that next year the earth will rotate faster than this and break this record. (R)"
+      ],
+      "title_ents": [
+        {
+          "text": "Earth",
+          "label": "LOC"
+        },
+        {
+          "text": "50 years",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Earth",
+            "label": "LOC"
+          },
+          {
+            "text": "50 years ago",
+            "label": "DATE"
+          },
+          {
+            "text": "Earth",
+            "label": "LOC"
+          },
+          {
+            "text": "one-day",
+            "label": "DATE"
+          },
+          {
+            "text": "less than 24 hours",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "365 days",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Earth",
+            "label": "LOC"
+          },
+          {
+            "text": "365 days",
+            "label": "DATE"
+          },
+          {
+            "text": "Sun",
+            "label": "ORG"
+          },
+          {
+            "text": "24 hours",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "one-second",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Earth",
+            "label": "LOC"
+          },
+          {
+            "text": "Earth",
+            "label": "LOC"
+          },
+          {
+            "text": "Moon",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "July 29",
+            "label": "DATE"
+          },
+          {
+            "text": "Earth",
+            "label": "LOC"
+          },
+          {
+            "text": "the shortest day",
+            "label": "DATE"
+          },
+          {
+            "text": "the shortest month",
+            "label": "DATE"
+          },
+          {
+            "text": "1960",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "July 29",
+            "label": "DATE"
+          },
+          {
+            "text": "Earth",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "July 19, 2020",
+            "label": "DATE"
+          },
+          {
+            "text": "Earth",
+            "label": "LOC"
+          },
+          {
+            "text": "one day",
+            "label": "DATE"
+          },
+          {
+            "text": "less than 24 hours",
+            "label": "TIME"
+          },
+          {
+            "text": "Earth",
+            "label": "LOC"
+          },
+          {
+            "text": "1.47",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "Earth",
+            "label": "LOC"
+          },
+          {
+            "text": "one-day",
+            "label": "DATE"
+          },
+          {
+            "text": "1.59",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "next year",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc0\u0dc3\u0dbb 50\u0d9a\u0da7 \u0db4\u0dc3\u0dd4 \u0db4\u0dd8\u0dae\u0dd2\u0dc0\u0dd2 \u0db7\u0dca\u200d\u0dbb\u0db8\u0dab \u0dc0\u0dda\u0d9c\u0dba \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0\u0dd3\u0db8",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dba\u0db1\u0dca \u0db4\u0dc0\u0dc3\u0db1\u0dca\u0db1\u0dda \u0db4\u0dd8\u0dae\u0dd2\u0dc0\u0dd2\u0dba \u0db8\u0dd3\u0da7 \u0dc0\u0dc3\u0dbb 50\u0d9a\u0da7 \u0db4\u0dd9\u0dbb \u0db7\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba \u0dc0\u0dd6\u0dc0\u0dcf\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0db7\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba \u0dc0\u0db1 \u0db6\u0dc0\u0dba\u0dd2. \u0d92 \u0d86\u0d9a\u0dcf\u0dbb\u0dba\u0da7 \u0db4\u0dd8\u0dae\u0dd2\u0dc0\u0dd2\u0dba \u0db4\u0dd0\u0dba 24\u0d9a\u0da7 \u0d85\u0da9\u0dd4 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dba \u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1 \u0da0\u0d9a\u0dca\u200d\u0dbb\u0dba \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0d9a\u0dbb\u0dba\u0dd2.",
+        "\u0db4\u0dd8\u0dae\u0dd2\u0dc0\u0dd2\u0dba \u0dc3\u0dd2\u0dba \u0d9a\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0db7\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0daf\u0dd2\u0db1 365 \u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0dd6\u0dbb\u0dca\u0dba\u0dba\u0dcf \u0dc0\u0da7\u0dcf \u0db7\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba \u0dc0\u0db1 \u0db6\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc3\u0dad\u0dca\u200d\u0dba\u0dba\u0d9a\u0dd2.",
+        "\u0db4\u0dd8\u0dae\u0dd2\u0dc0\u0dd2\u0dba \u0dc3\u0dd6\u0dbb\u0dca\u0dba\u0dba\u0dcf \u0dc0\u0da7\u0dcf \u0d91\u0d9a\u0dca \u0dc0\u0dbb\u0d9a\u0dca \u0db4\u0dbb\u0dd2\u0db7\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba \u0dc0\u0dd3\u0db8\u0da7 \u0daf\u0dd2\u0db1 365\u0d9a\u0dca \u0d9c\u0dad \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0dad\u0db8\u0dcf \u0dc0\u0da7\u0dcf \u0db4\u0dbb\u0dd2\u0db7\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba \u0dc0\u0dd3\u0db8\u0da7 \u0db4\u0dd0\u0dba 24\u0d9a\u0dca \u0d9c\u0dad\u0dc0\u0dda.",
+        "\u0d92 \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1\u0dda \u0db7\u0dca\u200d\u0dbb\u0db8\u0dab \u0dc0\u0dda\u0d9c\u0dba\u0dda \u0dad\u0dad\u0dca\u0db4\u0dbb\u0dba\u0d9a \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dba\u0db1\u0dca \u0dc3\u0ddc\u0dba\u0dcf\u0d9c\u0dd9\u0db1 \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf. \u0db4\u0dd8\u0dae\u0dd2\u0dc0\u0dd2 \u0dc4\u0dbb\u0dba, \u0dc3\u0dcf\u0d9c\u0dbb, \u0dc0\u0dcf\u0dba\u0dd4\u0d9c\u0ddd\u0dbd\u0dba\u0dda \u0da0\u0dbd\u0db1\u0dba, \u0da0\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0dba\u0dcf\u0d9c\u0dda \u0d9c\u0dd4\u0dbb\u0dd4\u0dad\u0dca\u0dc0\u0dcf\u0d9a\u0dbb\u0dca\u0dc2\u0dab \u0db6\u0dbd\u0dba \u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0dd2\u0dc0\u0dd2\u0db0 \u0dc3\u0dcf\u0db0\u0d9a \u0db1\u0dd2\u0dc3\u0dcf \u0db4\u0dd8\u0dae\u0dd2\u0dc0\u0dd2\u0dba\u0dda \u0db7\u0dca\u200d\u0dbb\u0db8\u0dab \u0dc0\u0dda\u0d9c\u0dba \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0\u0db1 \u0db6\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dba\u0ddd \u0db4\u0dc0\u0dc3\u0dad\u0dd2.",
+        "\u0da2\u0dd6\u0dbd\u0dd2 29 \u0dc0\u0db1 \u0daf\u0dd2\u0db1 \u0db4\u0dd8\u0dae\u0dd2\u0dc0\u0dd2\u0dba \u0d9a\u0dd9\u0da7\u0dd2\u0db8 \u0daf\u0dd2\u0db1\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd6 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0 \u0db6\u0dd2\u0db3 \u0daf\u0dd0\u0db8\u0dd3\u0dba. \u0d91\u0dba 1960 \u0dc3\u0dd2\u0da7 \u0d9a\u0dd9\u0da7\u0dd2\u0db8 \u0db8\u0dcf\u0dc3\u0dba \u0dbd\u0dd9\u0dc3 \u0dc3\u0dd0\u0dbd\u0d9a\u0dda.",
+        "\u0da2\u0dd6\u0dbd\u0dd2 29 \u0dc0\u0db1 \u0daf\u0dd2\u0db1 \u0db4\u0dd8\u0dae\u0dd2\u0dc0\u0dd2\u0dba \u0d91\u0dc4\u0dd2 \u0d9a\u0dd9\u0da7\u0dd2\u0db8 \u0daf\u0dd2\u0db1\u0dba \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dc5\u0dda\u0dba. \u0db4\u0dd8\u0dae\u0dd2\u0dc0\u0dd2\u0dba \u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0db7\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba \u0dc0\u0db1 \u0db6\u0dc0 \u0db8\u0dd9\u0dba\u0dd2\u0db1\u0dca \u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca \u0dc4\u0dd9\u0dc5\u0dd2 \u0dc0\u0dd2\u0dba.",
+        "2020 \u0da2\u0dd6\u0dbd\u0dd2 19 \u0dc0\u0db1 \u0daf\u0dd2\u0db1 \u0db4\u0dd8\u0dae\u0dd2\u0dc0\u0dd2\u0dba \u0d9a\u0dd9\u0dad\u0dbb\u0db8\u0dca \u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0db7\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba \u0dc0\u0dd6\u0dc0\u0dcf\u0daf \u0d9a\u0dd2\u0dc0\u0dc4\u0ddc\u0dad\u0dca \u0d91\u0dba \u0db4\u0dd0\u0dba 24\u0d9a\u0da7 \u0d85\u0da9\u0dd4 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0daf\u0dd3 \u0d91\u0d9a\u0dca \u0daf\u0dd2\u0db1\u0d9a\u0dca \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0d9a\u0dc5\u0dda\u0dba. \u0d92 \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1\u0dda \u0db4\u0dd8\u0dae\u0dd2\u0dc0\u0dd2\u0dba \u0db8\u0dd2\u0dbd\u0dd2 \u0dad\u0dad\u0dca\u0db4\u0dbb 1.47\u0d9a\u0da7 \u0d9a\u0dbd\u0dd2\u0db1\u0dca \u0db7\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0d9a\u0dc5\u0dcf.",
+        "\u0db8\u0dda \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dad\u0dd4\u0dc5 \u0d8a\u0dba\u0dda \u0db4\u0dd8\u0dae\u0dd2\u0dc0\u0dd2\u0dba \u0db8\u0dd2\u0dbd\u0dd2 \u0dad\u0dad\u0dca\u0db4\u0dbb 1.59\u0d9a\u0da7 \u0db4\u0dd9\u0dbb \u0dc3\u0dd2\u0dba \u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1 \u0db7\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dc5\u0dcf. \u0dbd\u0db6\u0db1 \u0dc0\u0dc3\u0dbb\u0dda \u0db4\u0dd8\u0dae\u0dd2\u0dc0\u0dd2\u0dba \u0db8\u0dd3\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0db7\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba \u0dc0\u0dd3 \u0db8\u0dd9\u0db8 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0 \u0db6\u0dd2\u0db3 \u0daf\u0db8\u0db1\u0dd4 \u0d87\u0dad\u0dd0\u0dba\u0dd2 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dba\u0db1\u0dca \u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2 \u0db4\u0dc5 \u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dda. (\u0d86)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0db4\u0ddc\u0dc5\u0ddc\u0dc0\u0dda",
+          "label": "LOC"
+        },
+        {
+          "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 50 \u0dba\u0dd2",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db4\u0ddc\u0dc5\u0ddc\u0dc0\u0dda",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 50\u0d9a\u0da7 \u0d9a\u0dbd\u0dd2\u0db1\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0ddc\u0dc5\u0ddc\u0dc0\u0dda",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0d91\u0d9a \u0daf\u0dc0\u0dc3\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 24 \u0da7 \u0d85\u0da9\u0dd4",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd2\u0db1 365 \u0dba\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0ddc\u0dc5\u0ddc\u0dc0\u0dda",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0daf\u0dd2\u0db1 365 \u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc4\u0dd2\u0dbb\u0dd4",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 24",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0d9a\u0dca \u0dad\u0dad\u0dca\u0db4\u0dbb\u0dba\u0d9a\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0ddc\u0dc5\u0ddc\u0dc0\u0dda",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0db4\u0ddc\u0dc5\u0ddc\u0dc0\u0dda",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dc3\u0db3",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 29",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0ddc\u0dc5\u0ddc\u0dc0\u0dda",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0d9a\u0dd9\u0da7\u0dd2\u0db8 \u0daf\u0dc0\u0dc3",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0dd9\u0da7\u0dd2\u0db8 \u0db8\u0dcf\u0dc3\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "1960",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 29",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0ddc\u0dc5\u0ddc\u0dc0\u0dda",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 19, 2020",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0ddc\u0dc5\u0ddc\u0dc0\u0dda",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0d91\u0d9a \u0daf\u0dc0\u0dc3\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 24 \u0da7 \u0d85\u0da9\u0dd4",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0db4\u0ddc\u0dc5\u0ddc\u0dc0\u0dda",
+            "label": "LOC"
+          },
+          {
+            "text": "1.47",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0ddc\u0dc5\u0ddc\u0dc0\u0dda",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0d91\u0d9a \u0daf\u0dc0\u0dc3\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "1.59",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbd\u0db6\u0db1 \u0dc0\u0dc3\u0dbb",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "50 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0ba9\u0bcd \u0baa\u0bc2\u0bae\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bc1\u0bb4\u0bb1\u0bcd\u0b9a\u0bbf \u0bb5\u0bc7\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+      "author": "unknown",
+      "body_lines": [
+        "\u0baa\u0bc2\u0bae\u0bbf 50 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc8 \u0bb5\u0bbf\u0b9f \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95 \u0b9a\u0bc1\u0bb4\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95 \u0bb5\u0bbf\u0b9e\u0bcd\u0b9e\u0bbe\u0ba9\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd. \u0b85\u0ba8\u0bcd\u0ba4 \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0baa\u0bc2\u0bae\u0bbf 24 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd \u0b9a\u0bc1\u0bb4\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bc8 \u0bae\u0bc1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0baa\u0bc2\u0bae\u0bbf \u0ba4\u0ba9\u0bcd \u0bb5\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0bb4\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9a\u0bc2\u0bb0\u0bbf\u0baf\u0ba9\u0bc8\u0baf\u0bc1\u0bae\u0bcd 365 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc7 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0b89\u0ba3\u0bcd\u0bae\u0bc8.",
+        "\u0baa\u0bc2\u0bae\u0bbf \u0b9a\u0bc2\u0bb0\u0bbf\u0baf\u0ba9\u0bc8 \u0b92\u0bb0\u0bc1 \u0bae\u0bc1\u0bb1\u0bc8 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf \u0bb5\u0bb0\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 365 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd, \u0ba4\u0ba9\u0bcd\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bc7 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 24 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1.",
+        "\u0b85\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1 \u0b9a\u0bc1\u0bb4\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0bc7\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf \u0bae\u0bbe\u0bb1\u0bc1\u0baa\u0bbe\u0b9f\u0bc1 \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bc8 \u0bb5\u0bbf\u0b9e\u0bcd\u0b9e\u0bbe\u0ba9\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd. \u0baa\u0bc2\u0bae\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc8\u0baf\u0baa\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf, \u0baa\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0b9f\u0bb2\u0bcd\u0b95\u0bb3\u0bcd, \u0bb5\u0bb3\u0bbf\u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bbf\u0ba9\u0bcd \u0b88\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0b9a\u0bc8 \u0b86\u0b95\u0bbf\u0baf \u0baa\u0bb2\u0bcd\u0bb5\u0bc7\u0bb1\u0bc1 \u0b95\u0bbe\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bc2\u0bae\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bc1\u0bb4\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0bc7\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0bb5\u0bbf\u0b9e\u0bcd\u0b9e\u0bbe\u0ba9\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0b9c\u0bc2\u0bb2\u0bc8 29 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1, \u0baa\u0bc2\u0bae\u0bbf \u0b85\u0ba4\u0ba9\u0bcd \u0b95\u0bc1\u0bb1\u0bc1\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0bb3\u0bcd \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8\u0baf\u0bc8 \u0bae\u0bc1\u0bb1\u0bbf\u0baf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1. 1960 \u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc1\u0b95\u0bbf\u0baf \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4 \u0bae\u0bbe\u0ba4\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bc1 \u0b95\u0bb0\u0bc1\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9c\u0bc2\u0bb2\u0bc8 29, \u0baa\u0bc2\u0bae\u0bbf \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc1\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0bb3\u0bc8 \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1. \u0b87\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0baa\u0bc2\u0bae\u0bbf \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95 \u0b9a\u0bc1\u0bb4\u0bb2\u0bcd\u0bb5\u0ba4\u0bc1 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "2020 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9c\u0bc2\u0bb2\u0bc8 19 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bc2\u0bae\u0bbf \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95 \u0b9a\u0bc1\u0bb4\u0ba9\u0bcd\u0bb1\u0bc1, 24 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b92\u0bb0\u0bc1 \u0ba8\u0bbe\u0bb3\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1. \u0b85\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1 1.47 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf \u0b9a\u0bc6\u0b95\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba4\u0bbe\u0b95\u0bb5\u0bc7 \u0baa\u0bc2\u0bae\u0bbf \u0ba4\u0ba9\u0ba4\u0bc1 \u0b9a\u0bc1\u0bb4\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0baa\u0bc2\u0bae\u0bbf 1.59 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf \u0b9a\u0bc6\u0b95\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba4\u0bbe\u0b95\u0bb5\u0bc7 \u0ba4\u0ba9\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \u0ba8\u0bbe\u0bb3\u0bcd \u0b9a\u0bc1\u0bb4\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0baa\u0bc2\u0bae\u0bbf \u0b87\u0ba4\u0bc8\u0bb5\u0bbf\u0b9f \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95 \u0b9a\u0bc1\u0bb4\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4 \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8\u0baf\u0bc8 \u0bae\u0bc1\u0bb1\u0bbf\u0baf\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0bb5\u0bbf\u0b9e\u0bcd\u0b9e\u0bbe\u0ba9\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.\u00a0 (R)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0baa\u0bc2\u0bae\u0bbf",
+          "label": "LOC"
+        },
+        {
+          "text": "50 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0baa\u0bc2\u0bae\u0bbf",
+            "label": "LOC"
+          },
+          {
+            "text": "50 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bc2\u0bae\u0bbf",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0ba8\u0bbe\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "24 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "365 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bc2\u0bae\u0bbf",
+            "label": "LOC"
+          },
+          {
+            "text": "365 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9a\u0bc2\u0bb0\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "24 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bc2\u0bae\u0bbf",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0baa\u0bc2\u0bae\u0bbf",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0bb2\u0bbe",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 29",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bc2\u0bae\u0bbf",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb1\u0bc1\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb1\u0bc1\u0b95\u0bbf\u0baf \u0bae\u0bbe\u0ba4\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "1960",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 29",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bc2\u0bae\u0bbf",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 19, 2020",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bc2\u0bae\u0bbf",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0ba8\u0bbe\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "24 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0baa\u0bc2\u0bae\u0bbf",
+            "label": "LOC"
+          },
+          {
+            "text": "1.47",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bc2\u0bae\u0bbf",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0ba8\u0bbe\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "1.59",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
