@@ -81,6 +81,14 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe-\u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0ba9-113-\u0baa\u0bc7\u0bb0\u0bcd-\u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd/175-301446",
+    "time_ut": 1659289912,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0ba9 113 \u0baa\u0bc7\u0bb0\u0bcd \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b3/b307e47b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbf\u0bae\u0bb2\u0bcd-\u0bae\u0bc0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8-\u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd/175-301445",
     "time_ut": 1659289125,
     "original_lang": "ta",
@@ -504,6 +512,38 @@
     "file_name": "/tmp/news_lk2/articles/6b/6b4d1c3d.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/daraz-buy1give1-reaches-out-to-more-than-1000-families-in-vulnerable-communities-2/",
+    "time_ut": 1659271680,
+    "original_lang": "en",
+    "original_title": "Daraz Buy1Give1 reaches out to more than 1000 families in vulnerable communities",
+    "file_name": "/tmp/news_lk2/articles/30/308b0394.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sri-lankan-organic-companies-shine-at-biofach-2022/",
+    "time_ut": 1659271620,
+    "original_lang": "en",
+    "original_title": "Sri Lankan organic companies shine at BIOFACH 2022",
+    "file_name": "/tmp/news_lk2/articles/62/62c5ee54.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/indias-nod-for-close-to-80-fdi-proposals-from-china/",
+    "time_ut": 1659271560,
+    "original_lang": "en",
+    "original_title": "India\u2019s nod for close to 80 FDI proposals from China",
+    "file_name": "/tmp/news_lk2/articles/be/be004f75.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dialogs-zero-worries-on-data-solution-enabling-educational-institutions-to-provide-seamless-online-learning-experience/",
+    "time_ut": 1659271500,
+    "original_lang": "en",
+    "original_title": "Dialog\u2019s \u2018Zero Worries on Data\u2019 solution enabling educational institutions to provide seamless online learning experience",
+    "file_name": "/tmp/news_lk2/articles/9f/9f442ab5.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83999/committee-report-on-bribery-allegations-against-nimal-siripala-handed-over",
     "time_ut": 1659270300,
@@ -568,6 +608,14 @@
     "file_name": "/tmp/news_lk2/articles/ea/eacac1f9.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sri-lanka-resumes-bailout-discussions-with-imf/",
+    "time_ut": 1659267660,
+    "original_lang": "en",
+    "original_title": "Sri Lanka resumes bailout discussions with IMF",
+    "file_name": "/tmp/news_lk2/articles/38/38938e43.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0b87-\u0ba4\u0bca-\u0b95\u0bbe-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8/76-301420",
     "time_ut": 1659267539,
@@ -582,6 +630,22 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcb\u0bb0\u0bcd \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b87.\u0ba4\u0bca.\u0b95\u0bbe \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
     "file_name": "/tmp/news_lk2/articles/54/542282b4.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/president-motivates-mass-movement-at-ground-level-to-form-inclusive-government/",
+    "time_ut": 1659267480,
+    "original_lang": "en",
+    "original_title": "President motivates mass movement at ground level to form inclusive government",
+    "file_name": "/tmp/news_lk2/articles/f9/f9adde24.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/cbsl-reiterates-importance-of-fair-play-by-all-stakeholders-of-economy-in-countering-economic-crisis/",
+    "time_ut": 1659267360,
+    "original_lang": "en",
+    "original_title": "CBSL reiterates importance of \u2018fair play\u2019 by all stakeholders of economy in countering economic crisis",
+    "file_name": "/tmp/news_lk2/articles/69/699c86f2.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -1616,6 +1680,14 @@
     "file_name": "/tmp/news_lk2/articles/ee/ee0847dc.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/ranils-repression-return-to-the-80s-2/",
+    "time_ut": 1659200880,
+    "original_lang": "en",
+    "original_title": "RANIL\u2019S REPRESSION: RETURN TO THE \u201980s",
+    "file_name": "/tmp/news_lk2/articles/7e/7e32ec7b.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-to-fully-implement-qr-code-system-in-fuel-rationing-from-aug-1-98038/",
     "time_ut": 1659200820,
@@ -1881,6 +1953,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/will-freedom-of-assembly-in-sri-lanka-come-up-this-september-in-geneva/",
+    "time_ut": 1659192240,
+    "original_lang": "en",
+    "original_title": "Will \u2018Freedom of Assembly\u2019 in Sri Lanka come up this September in Geneva?",
+    "file_name": "/tmp/news_lk2/articles/17/17c8052a.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/the-ambassador-his-swanky-new-embassy-and-the-limits-of-diplomatic-immunity/",
     "time_ut": 1659192180,
     "original_lang": "en",
@@ -1926,6 +2006,14 @@
     "original_lang": "en",
     "original_title": "FLYING TACKLES AND BANDSTAND BEATS",
     "file_name": "/tmp/news_lk2/articles/c2/c2a43556.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/will-the-usa-continue-to-be-a-democracy/",
+    "time_ut": 1659191460,
+    "original_lang": "en",
+    "original_title": "Will the USA Continue to be a Democracy?",
+    "file_name": "/tmp/news_lk2/articles/3f/3f26e0ae.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -5536,6 +5624,14 @@
     "file_name": "/tmp/news_lk2/articles/e2/e2734f5e.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dreams-and-dreamers/",
+    "time_ut": 1659023340,
+    "original_lang": "en",
+    "original_title": "Dreams and dreamers",
+    "file_name": "/tmp/news_lk2/articles/c2/c2959cfa.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/President-prorogues-parliament-until-Aug-3/108-241974",
     "time_ut": 1659023340,
@@ -7902,101 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka Parliament approves state of emergency",
     "file_name": "/tmp/news_lk2/articles/74/748261f4.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-treasury-bill-yields-ease-across-maturities-97962/",
-    "time_ut": 1658923980,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Treasury bill yields ease across maturities",
-    "file_name": "/tmp/news_lk2/articles/fa/faf7bdf6.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0daf\u0dd2\u0dc3\u0dd3-\u0db1\u0dd3\u0dad\u0dd2-\u0db4\u0db1\u0dad-\u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2/11-395797",
-    "time_ut": 1658923905,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0daf\u0dd2\u0dc3\u0dd3 \u0db1\u0dd3\u0dad\u0dd2 \u0db4\u0db1\u0dad \u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/de/def7c700.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Parliament-approves-emergency-regulations/342-241901",
-    "time_ut": 1658923704,
-    "original_lang": "en",
-    "original_title": "Parliament approves emergency regulations",
-    "file_name": "/tmp/news_lk2/articles/cb/cbdc1ee4.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d86\u0db6\u0dcf\u0db0\u0dd2\u0dad\u0dba\u0db1\u0dca\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8-\u0dc4\u0dd9\u0dc5\u0dcf-\u0daf\u0d9a\u0dd3/101-617142",
-    "time_ut": 1658923580,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0db6\u0dcf\u0db0\u0dd2\u0dad\u0dba\u0db1\u0dca\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8 \u0dc4\u0dd9\u0dc5\u0dcf \u0daf\u0d9a\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/f0/f095a43e.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d86\u0db6\u0dcf\u0db0\u0dd2\u0dad\u0dba\u0db1\u0dca\u0da7-\u0db4\u0dc4\u0dbb-\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0d9a\u0dd3\u0db8-\u0db6\u0ddc\u0dbb\u0dd4/101-617142",
-    "time_ut": 1658923580,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0db6\u0dcf\u0db0\u0dd2\u0dad\u0dba\u0db1\u0dca\u0da7 \u0db4\u0dc4\u0dbb \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0d9a\u0dd3\u0db8 \u0db6\u0ddc\u0dbb\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/49/49cd0bf0.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dd3\u0d9d\u0dc0\u0dcf\u0db4\u0dd3-\u0d87\u0dad\u0dd4\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dd9\u0db1\u0dca-\u0d91\u0d9a\u0dca-\u0d87\u0dad\u0dd9\u0d9a\u0dca-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0dbb\u0dd0\u0dc4\u0dd0\u0db1\u0d9a\u0da7-\u0db6\u0dd2\u0dbd\u0dd2/11-395796",
-    "time_ut": 1658923496,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd3\u0d9d\u0dc0\u0dcf\u0db4\u0dd3 \u0d87\u0dad\u0dd4\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0d91\u0d9a\u0dca \u0d87\u0dad\u0dd9\u0d9a\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dbb\u0dd0\u0dc4\u0dd0\u0db1\u0d9a\u0da7 \u0db6\u0dd2\u0dbd\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/8b/8b522b28.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0bb5\u0bb2\u0bc8/175-301243",
-    "time_ut": 1658923344,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0bb5\u0bb2\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/4d/4d4912fd.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132365",
-    "time_ut": 1658923249,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0b95\u0bca\u0b9f\u0bbf\u0baf\u0bc8 \u0b87\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0b9f\u0bae\u0bbe\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bc8 \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/5b/5b22b06a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-stocks-fall-for-4th-straight-session-to-end-at-over-1-week-low-foreigners-buy-97961/",
-    "time_ut": 1658923200,
-    "original_lang": "en",
-    "original_title": "Sri Lanka stocks fall for 4th straight session to end at over 1-week low; foreigners buy",
-    "file_name": "/tmp/news_lk2/articles/ba/ba316f59.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83908/police-seek-public-assistance-to-apprehend-suspects-over-torching-of-presidents-house",
-    "time_ut": 1658922960,
-    "original_lang": "en",
-    "original_title": "Police seek public assistance to apprehend suspects over torching of President\u2019s house",
-    "file_name": "/tmp/news_lk2/articles/db/db5f86e9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83908/police-seek-public-assistance-to-apprehend-suspects-who-torched-presidents-private-residence",
-    "time_ut": 1658922960,
-    "original_lang": "en",
-    "original_title": "Police seek public assistance to apprehend suspects who torched President\u2019s private residence",
-    "file_name": "/tmp/news_lk2/articles/71/718b4332.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe-\u0bae\u0bb0\u0ba3\u0bae\u0bcd-\u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301241",
-    "time_ut": 1658922357,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0bae\u0bb0\u0ba3\u0bae\u0bcd, \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/2c/2cf4978c.json"
   }
 ]
