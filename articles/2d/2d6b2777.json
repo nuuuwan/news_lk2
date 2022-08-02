@@ -1,0 +1,591 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/birmingham_2022_cwg/Yupun-Abeykoon-qualifies-for-CWG-semis-fastest-in-100m-heats/488-242272",
+  "time_ut": 1659438008,
+  "original_lang": "en",
+  "original_title": "Yupun Abeykoon qualifies for CWG semis, fastest in 100m heats",
+  "text_idx": {
+    "en": {
+      "title": "Yupun Abeykoon qualifies for CWG semis, fastest in 100m heats",
+      "author": "unknown",
+      "body_lines": [
+        "Sri Lankan sprinter Yupun Abeykoon produced an excellent performance to win Heat 6 of the Men\u2019s 100m event at the 22nd Commonwealth Games in Birmingham, England today.",
+        "The fastest athlete in the South Asian region returned a superb time of 10.06s and qualified to compete in tomorrow\u2019s semi-finals, scheduled for 11.40 p.m. Sri Lanka time with the fastest time in the Heats.",
+        "Third placed Godson Oke Oghenebrume (10.36s) of Nigeria and second placed Kion Benjamin (10.34s) of the Trinidad and Tobago were the real threats for Abeykoon in this heat, but he managed to storm past them to secure the top spot.",
+        "The top two athletes of each heat (10 heats) progressed to the semi-finals while the next seven semi-final spots were awarded to the fastest losers.",
+        "Abeykoon said that now that he had cleared his initial hurdle, he would target a medal when he competes in the finals tomorrow.",
+        "\u201cI am happy to reach the semi-finals and my next goal is to reach the final and win a medal for Sri Lanka,\u201d Abeykoon revealed soon after the event.",
+        "Meanwhile, the other Sri Lankan athlete to take part today, Gayanthika Abeyratne clocked a Personal Best time of 2:01.20 secs in the Heats of the Women\u2019s 800m but it was not enough to take her to the next round.",
+        "Natoya Goule of Jamaica was placed first in the Heat, with a time of 1:58.39, ahead of Scotland\u2019s Laura Muir, 1:58.84, and Alexandra Bell of England, who clocked 1:59.76."
+      ],
+      "title_ents": [
+        {
+          "text": "Yupun Abeykoon",
+          "label": "PERSON"
+        },
+        {
+          "text": "100m heats",
+          "label": "QUANTITY"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Sri Lankan",
+            "label": "NORP"
+          },
+          {
+            "text": "Yupun Abeykoon",
+            "label": "PERSON"
+          },
+          {
+            "text": "6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Men\u2019s",
+            "label": "ORG"
+          },
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "22nd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Commonwealth Games",
+            "label": "EVENT"
+          },
+          {
+            "text": "Birmingham",
+            "label": "GPE"
+          },
+          {
+            "text": "England",
+            "label": "GPE"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "South Asian",
+            "label": "NORP"
+          },
+          {
+            "text": "tomorrow",
+            "label": "DATE"
+          },
+          {
+            "text": "11.40 p.m.",
+            "label": "TIME"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Heats",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Third",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Godson Oke Oghenebrume",
+            "label": "PERSON"
+          },
+          {
+            "text": "Nigeria",
+            "label": "GPE"
+          },
+          {
+            "text": "second",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Kion Benjamin",
+            "label": "PERSON"
+          },
+          {
+            "text": "Tobago",
+            "label": "GPE"
+          },
+          {
+            "text": "Abeykoon",
+            "label": "EVENT"
+          }
+        ],
+        [
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10 heats",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "tomorrow",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lankan",
+            "label": "LOC"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "Gayanthika Abeyratne",
+            "label": "PERSON"
+          },
+          {
+            "text": "2:01.20",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Natoya Goule",
+            "label": "PERSON"
+          },
+          {
+            "text": "Jamaica",
+            "label": "GPE"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Scotland",
+            "label": "GPE"
+          },
+          {
+            "text": "Laura Muir",
+            "label": "PERSON"
+          },
+          {
+            "text": "1:58.84",
+            "label": "DATE"
+          },
+          {
+            "text": "Alexandra Bell",
+            "label": "PERSON"
+          },
+          {
+            "text": "1:59.76",
+            "label": "PRODUCT"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dba\u0dd4\u0db4\u0dd4\u0db1\u0dca \u0d85\u0db6\u0dda\u0d9a\u0ddd\u0db1\u0dca \u0db8\u0dd3\u0da7\u0dbb\u0dca 100 \u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca \u0d89\u0dc3\u0dc0\u0dca\u0dc0\u0dda \u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca\u0db8 CWG \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0db4\u0dd6\u0dbb\u0dca\u0dc0 \u0dc0\u0da7\u0dba\u0da7 \u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dbd\u0db6\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d91\u0d82\u0d9c\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda \u0db6\u0dbb\u0dca\u0db8\u0dd2\u0db1\u0dca\u0dc4\u0dd0\u0db8\u0dca \u0dc4\u0dd2 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd9\u0db1 22 \u0dc0\u0dd0\u0db1\u0dd2 \u0db4\u0ddc\u0daf\u0dd4\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dd3\u0dba \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0d8b\u0dc5\u0dd9\u0dbd\u0dda \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2 \u0db8\u0dd3\u0da7\u0dbb\u0dca 100 \u0d89\u0dc3\u0dc0\u0dca\u0dc0\u0dda \u0dc4\u0dd3\u0da7\u0dca 6 \u0dad\u0dbb\u0d9c\u0dba \u0da2\u0dba \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0dd9\u0da7\u0dd2 \u0daf\u0dd4\u0dbb \u0db0\u0dcf\u0dc0\u0db1 \u0dc1\u0dd6\u0dbb \u0dba\u0dd6\u0db4\u0dd4\u0db1\u0dca \u0d85\u0db6\u0dda\u0d9a\u0ddd\u0db1\u0dca \u0d85\u0daf \u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da7 \u0daf\u0dc3\u0dca\u0d9a\u0db8\u0dca \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd6\u0dc0\u0dcf.",
+        "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0dda \u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca\u0db8 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a\u0dba\u0dcf \u0dad\u0dad\u0dca\u0db4\u0dbb 10.06 \u0d9a \u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da7 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dc5 \u0d85\u0dad\u0dbb \u0dc4\u0dd9\u0da7 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3 11.40 \u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0db4\u0dd6\u0dbb\u0dca\u0dc0 \u0dad\u0dbb\u0d9c\u0dba\u0da7 \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd2 \u0dc0\u0dd3\u0db8\u0da7 \u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca\u0dad\u0dda\u0dba. \u0dc4\u0dd3\u0da7\u0dca\u0dc3\u0dca \u0dc4\u0dd2 \u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca\u0db8 \u0d9a\u0dcf\u0dbd\u0dba \u0dc3\u0db8\u0d9c \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dda\u0dbd\u0dcf\u0dc0.",
+        "\u0dad\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0db1\u0dba\u0dd2\u0da2\u0dd3\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dda Godson Oke Oghenebrume (\u0dad\u0dad\u0dca\u0db4\u0dbb 10.36) \u0dc3\u0dc4 \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba Trinidad and Tobago \u0dc4\u0dd2 Kion Benjamin (\u0dad\u0dad\u0dca\u0db4\u0dbb 10.34) \u0db8\u0dd9\u0db8 \u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dda \u0daf\u0dd3 \u0d85\u0db6\u0dda\u0d9a\u0ddd\u0db1\u0dca\u0da7 \u0dc3\u0dd0\u0db6\u0dd1 \u0dad\u0dbb\u0dca\u0da2\u0db1 \u0dc0\u0dd6 \u0db1\u0db8\u0dd4\u0dad\u0dca \u0d94\u0dc4\u0dd4 \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0d9a\u0dbb \u0d9c\u0ddc\u0dc3\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd2\u0dba.",
+        "\u0d91\u0d9a\u0dca \u0d91\u0d9a\u0dca \u0dc4\u0dd3\u0da7\u0dca \u0d91\u0d9a\u0d9a (\u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca \u0dad\u0dbb\u0d9c 10) \u0d89\u0dc4\u0dc5\u0db8 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dd2\u0d9a\u0dcf\u0dc0\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0db4\u0dd6\u0dbb\u0dca\u0dc0 \u0dc0\u0da7\u0dba\u0da7 \u0db4\u0dd2\u0dc0\u0dd2\u0dc3\u0dd2 \u0d85\u0dad\u0dbb \u0db8\u0dd3\u0dc5\u0d9f \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0db4\u0dd6\u0dbb\u0dca\u0dc0 \u0dc0\u0da7\u0dba\u0dda \u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0dc4\u0dad \u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca\u0db8 \u0db4\u0dbb\u0dcf\u0da2\u0dd2\u0dad\u0dba\u0db1\u0dca\u0da7 \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0dd0\u0db8\u0dd2\u0dab\u0dd2.",
+        "\u0d85\u0db6\u0dda\u0d9a\u0ddd\u0db1\u0dca \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0db8\u0dda \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0dad\u0db8 \u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0db6\u0dcf\u0db0\u0d9a\u0dba \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0dc4\u0dd9\u0da7 \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0db8\u0dc4\u0dcf \u0dad\u0dbb\u0d9c\u0dba\u0da7 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8\u0d9a\u0dca \u0d89\u0dbd\u0d9a\u0dca\u0d9a \u0d9a\u0dbb \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0db6\u0dc0\u0dba\u0dd2.",
+        "\"\u0db8\u0db8 \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0db4\u0dd6\u0dbb\u0dca\u0dc0 \u0dc0\u0da7\u0dba\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0dc3\u0dad\u0dd4\u0da7\u0dd4 \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0db8\u0d9c\u0dda \u0db8\u0dd3\u0dc5\u0d9f \u0d89\u0dbd\u0d9a\u0dca\u0d9a\u0dba \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0db8\u0dc4\u0dcf \u0dad\u0dbb\u0d9c\u0dba\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8\u0d9a\u0dca \u0daf\u0dd2\u0db1\u0dcf \u0daf\u0dd3\u0db8\u0dba\u0dd2\" \u0dba\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d89\u0dc3\u0dc0\u0dca\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0dc0 \u0d85\u0db6\u0dda\u0d9a\u0ddd\u0db1\u0dca \u0dc4\u0dd9\u0dc5\u0dd2 \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0db8\u0dda \u0d85\u0dad\u0dbb, \u0d85\u0daf \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd2 \u0dc0\u0db1 \u0d85\u0db1\u0dd9\u0d9a\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dd2\u0d9a\u0dcf\u0dc0 \u0dc0\u0db1 \u0d9c\u0dba\u0db1\u0dca\u0dad\u0dd2\u0d9a\u0dcf \u0d85\u0db6\u0dda\u0dbb\u0dad\u0dca\u0db1 \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf \u0db8\u0dd3\u0da7\u0dbb\u0dca 800 \u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca \u0d89\u0dc3\u0dc0\u0dca\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dad\u0dca\u0db4\u0dbb 2:01.20 \u0d9a \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0dc4\u0ddc\u0db3\u0db8 \u0d9a\u0dcf\u0dbd\u0dba \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dc5 \u0db1\u0db8\u0dd4\u0dad\u0dca \u0d87\u0dba\u0dc0 \u0db8\u0dd3\u0dc5\u0d9f \u0dc0\u0da7\u0dba\u0da7 \u0dbb\u0dd0\u0d9c\u0dd9\u0db1 \u0dba\u0dcf\u0db8\u0da7 \u0d91\u0dba \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dc0\u0dad\u0dca \u0db1\u0ddc\u0dc0\u0dd3\u0dba.",
+        "\u0da2\u0dd0\u0db8\u0dd9\u0dba\u0dd2\u0d9a\u0dcf\u0dc0\u0dda Natoya Goule \u0dc4\u0dd3\u0da7\u0dca \u0dc4\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb, 1:58.39 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dd2\u0db1\u0dca, \u0dc3\u0dca\u0d9a\u0ddc\u0da7\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda Laura Muir, 1:58.84, \u0dc3\u0dc4 1:59.76 \u0db1\u0dd2\u0db8\u0dcf \u0d9a\u0dc5 \u0d91\u0d82\u0d9c\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda Alexandra Bell \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dc4."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dba\u0dd4\u0db4\u0dd4\u0db1\u0dca \u0d85\u0db6\u0dda\u0d9a\u0ddd\u0db1\u0dca",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0db8\u0dd3\u0da7\u0dbb\u0dca 100 \u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca",
+          "label": "QUANTITY"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0db4\u0dd4\u0db1\u0dca \u0d85\u0db6\u0dda\u0d9a\u0ddd\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2\u0db1\u0dca\u0d9c\u0dda",
+            "label": "ORG"
+          },
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "22 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db4\u0ddc\u0daf\u0dd4\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dd3\u0dba \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0d8b\u0dc5\u0dd9\u0dbd",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0db6\u0dbb\u0dca\u0db8\u0dd2\u0db1\u0dca\u0dc4\u0dd0\u0db8\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d91\u0d82\u0d9c\u0dbd\u0db1\u0dca\u0dad\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc4\u0dd9\u0da7",
+            "label": "DATE"
+          },
+          {
+            "text": "11.40 \u0db4.\u0dc0.",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dad\u0dd9\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d9c\u0ddc\u0da9\u0dca\u0dc3\u0db1\u0dca Oke Oghenebrume",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db1\u0dba\u0dd2\u0da2\u0dd3\u0dbb\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dba\u0ddd\u0db1\u0dca \u0db6\u0dd9\u0db1\u0dca\u0da2\u0db8\u0dd2\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da7\u0ddc\u0db6\u0dd0\u0d9c\u0ddd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0db6\u0dda\u0d9a\u0ddd\u0db1\u0dca",
+            "label": "EVENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dad\u0dcf\u0db4 10 \u0d9a\u0dca",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc4\u0dd9\u0da7",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9c\u0dba\u0db1\u0dca\u0dad\u0dd2\u0d9a\u0dcf \u0d85\u0db6\u0dda\u0dbb\u0dad\u0dca\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "2:01.20",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Natoya Goule",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da2\u0dd0\u0db8\u0dd9\u0dba\u0dd2\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dca\u0d9a\u0ddc\u0da7\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbd\u0ddd\u0dbb\u0dcf \u0db8\u0dd4\u0dba\u0dbb\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "1:58.84",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d87\u0dbd\u0dd9\u0d9a\u0dca\u0dc3\u0dd0\u0db1\u0dca\u0da9\u0dca\u200d\u0dbb\u0dcf \u0db6\u0dd9\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "1:59.76",
+            "label": "PRODUCT"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0baf\u0bc2\u0baa\u0bc1\u0ba9\u0bcd \u0b85\u0baa\u0bc7\u0b95\u0bcb\u0ba9\u0bcd CWG \u0b85\u0bb0\u0bc8\u0baf\u0bbf\u0bb1\u0bc1\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0b95\u0bc1\u0ba4\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd, 100 \u0bae\u0bc0 \u0bb9\u0bc0\u0b9f\u0bcd\u0bb8\u0bbf\u0bb2\u0bcd \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bb0\u0bcd\u0bae\u0bbf\u0b99\u0bcd\u0bb9\u0bbe\u0bae\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 22\u0bb5\u0ba4\u0bc1 \u0baa\u0bca\u0ba4\u0bc1\u0ba8\u0bb2\u0bb5\u0bbe\u0baf \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd, \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b93\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0baf \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd \u0baf\u0bc1\u0baa\u0bc1\u0ba9\u0bcd \u0b85\u0baa\u0bc7\u0b95\u0bcb\u0ba9\u0bcd, \u0b86\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 100 \u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb9\u0bc0\u0b9f\u0bcd 6 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bbe\u0b9a\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0ba9 \u0ba4\u0b9f\u0b95\u0bb3 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd 10.06 \u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf, \u0ba8\u0bbe\u0bb3\u0bc8 \u0b87\u0bb0\u0bb5\u0bc1 11.40 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b85\u0bb0\u0bc8\u0baf\u0bbf\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0b95\u0bc1\u0ba4\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd. \u0bb9\u0bc0\u0b9f\u0bcd\u0bb8\u0bbf\u0bb2\u0bcd \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0ba9 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd.",
+        "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bc8\u0b9c\u0bc0\u0bb0\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0ba9\u0bcd \u0b93\u0b95\u0bc7 \u0b93\u0b95\u0bc6\u0ba9\u0bc6\u0baa\u0bcd\u0bb0\u0bc2\u0bae\u0bcd (10.36 \u0bb5\u0bbf) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9f\u0bbf\u0bb0\u0bbf\u0ba9\u0bbf\u0b9f\u0bbe\u0b9f\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9f\u0bca\u0baa\u0bbe\u0b95\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bbf\u0baf\u0bcb\u0ba9\u0bcd \u0baa\u0bc6\u0b9e\u0bcd\u0b9a\u0bae\u0bbf\u0ba9\u0bcd (10.34 \u0bb5\u0bbf) \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bc6\u0baa\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0baa\u0bc7\u0b95\u0bcb\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd, \u0b86\u0ba9\u0bbe\u0bb2\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1 \u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0bb5\u0bc6\u0baa\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd (10 \u0bb9\u0bc0\u0b9f\u0bcd\u0bb8\u0bcd) \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba4\u0b9f\u0b95\u0bb3 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb0\u0bc8\u0baf\u0bbf\u0bb1\u0bc1\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bbf\u0ba9\u0bb0\u0bcd, \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b8f\u0bb4\u0bc1 \u0b85\u0bb0\u0bc8\u0baf\u0bbf\u0bb1\u0bc1\u0ba4\u0bbf \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95 \u0ba4\u0bcb\u0bb2\u0bcd\u0bb5\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0ba4\u0ba9\u0ba4\u0bc1 \u0b86\u0bb0\u0bae\u0bcd\u0baa \u0ba4\u0b9f\u0bc8\u0baf\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0ba8\u0bbe\u0bb3\u0bc8 \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0baa\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0baa\u0ba4\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bbe\u0b95 \u0b85\u0baa\u0bc7\u0b95\u0bcb\u0ba9\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\"\u0ba8\u0bbe\u0ba9\u0bcd \u0b85\u0bb0\u0bc8\u0baf\u0bbf\u0bb1\u0bc1\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0b95\u0bbf\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b85\u0b9f\u0bc8\u0b95\u0bbf\u0bb1\u0bc7\u0ba9\u0bcd, \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0ba4\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0bb5\u0bc6\u0bb2\u0bcd\u0bb5\u0ba4\u0bc7 \u0b8e\u0ba9\u0ba4\u0bc1 \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0b95\u0bc1\u0bae\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1 \u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0b85\u0baa\u0bc7\u0b95\u0bcb\u0ba9\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba4\u0bc7\u0bb5\u0bc7\u0bb3\u0bc8, \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0baa\u0bb1\u0bcd\u0bb1\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0bae\u0bb1\u0bcd\u0bb1\u0bc8\u0baf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bc0\u0bb0\u0bbe\u0b99\u0bcd\u0b95\u0ba9\u0bc8\u0baf\u0bbe\u0ba9 \u0b95\u0baf\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bbe \u0b85\u0baa\u0bc7\u0bb0\u0ba4\u0bcd\u0ba9, \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 800 \u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0bb9\u0bc0\u0b9f\u0bcd\u0bb8\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 2:01.20 \u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4\u0bc1, \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bbe\u0ba9\u0ba4\u0bbe\u0b95 \u0b87\u0bb2\u0bcd\u0bb2\u0bc8.",
+        "\u0bb9\u0bc0\u0b9f\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b9c\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0ba8\u0bbe\u0b9f\u0bcb\u0baf\u0bbe \u0b95\u0bb5\u0bc1\u0bb2\u0bcd 1:58.39 \u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0b9f\u0bae\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd, \u0bb8\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb2\u0bbe\u0bb0\u0bbe \u0bae\u0bc1\u0baf\u0bb0\u0bcd, 1:58.84 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0bb2\u0bc6\u0b95\u0bcd\u0bb8\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe \u0baa\u0bc6\u0bb2\u0bcd, 1:59.76 \u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0baf\u0bc2\u0baa\u0bc1\u0ba9\u0bcd \u0b85\u0baa\u0bc7\u0b95\u0bcb\u0ba9\u0bcd",
+          "label": "PERSON"
+        },
+        {
+          "text": "100 \u0bae\u0bc0 \u0bb9\u0bc0\u0b9f\u0bcd\u0bb8\u0bcd",
+          "label": "QUANTITY"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0baf\u0bc2\u0baa\u0bc1\u0ba9\u0bcd \u0b85\u0baa\u0bc7\u0b95\u0bcb\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "22\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bae\u0ba9\u0bcd\u0bb5\u0bc6\u0bb2\u0bcd\u0ba4\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0baa\u0bb0\u0bcd\u0bae\u0bbf\u0b99\u0bcd\u0b95\u0bbe\u0bae\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bbe\u0b9a\u0bbf\u0baf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0bb3\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "11.40 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb5\u0bc6\u0baa\u0bcd\u0baa\u0bae\u0b9f\u0bc8\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0ba9\u0bcd \u0b93\u0b95\u0bc7 \u0b93\u0b95\u0bc6\u0ba9\u0bc6\u0baa\u0bcd\u0bb0\u0bc2\u0bae\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bc8\u0b9c\u0bc0\u0bb0\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0baf\u0bcb\u0ba9\u0bcd \u0baa\u0bc6\u0b9e\u0bcd\u0b9a\u0bae\u0bbf\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9f\u0bca\u0baa\u0bbe\u0b95\u0bcb",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b85\u0baa\u0bc7\u0b95\u0bcb\u0ba9\u0bcd",
+            "label": "EVENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10 \u0bb5\u0bc6\u0baa\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba8\u0bbe\u0bb3\u0bc8",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0baf\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bbe \u0b85\u0baa\u0bc7\u0bb0\u0ba4\u0bcd\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "2:01.20",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba8\u0bbe\u0b9f\u0bcb\u0baf\u0bbe \u0b95\u0bcb\u0bb2\u0bc7",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9c\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb2\u0bbe\u0bb0\u0bbe \u0bae\u0bc1\u0baf\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "1:58.84",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b85\u0bb2\u0bc6\u0b95\u0bcd\u0bb8\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe \u0baa\u0bc6\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "1:59.76",
+            "label": "PRODUCT"
+          }
+        ]
+      ]
+    }
+  }
+}
