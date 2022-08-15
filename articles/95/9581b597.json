@@ -1,0 +1,165 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca-96-\u0d9a\u0dca/101-618078",
+  "time_ut": 1660491313,
+  "original_lang": "si",
+  "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca 96 \u0d9a\u0dca",
+  "text_idx": {
+    "en": {
+      "title": "96 people infected with Covid",
+      "author": "unknown",
+      "body_lines": [
+        "The Director General of Health Services announced in the afternoon that 96 patients infected with the 'Covid' virus were newly identified today (14).",
+        "According to the report of the Director General of Health Services, the total number of 'Covid' patients reported in Sri Lanka is 668,012."
+      ],
+      "title_ents": [
+        {
+          "text": "96",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Covid",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Health Services",
+            "label": "ORG"
+          },
+          {
+            "text": "the afternoon",
+            "label": "TIME"
+          },
+          {
+            "text": "96",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "668,012",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca 96 \u0d9a\u0dca",
+      "author": "unknown",
+      "body_lines": [
+        "\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca\u2019 \u0dc0\u0dba\u0dd2\u0dbb\u0dc3\u0dba \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca 96 \u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0d85\u0daf (14) \u0d85\u0dbd\u0dd4\u0dad\u0dd2\u0db1\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dcf\u0d9c\u0dad\u0dca \u0db6\u0dc0 \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca\u0dc0\u0dbb\u0dba\u0dcf \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4\u0dc0\u0dda \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0db8\u0dd9\u0dbb\u0da7\u0dd2\u0db1\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd6 \u0db8\u0dd4\u0dc5\u0dd4 \u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca\u2019 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 668,012 \u0d9a\u0dca \u0db6\u0dc0 \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca\u0dc0\u0dbb\u0dba\u0dcf\u0d9c\u0dda \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0\u0dda \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dda."
+      ],
+      "title_ents": [
+        {
+          "text": "96",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc3\u0dde\u0d9b\u0dca\u0dba \u0dc3\u0dda\u0dc0\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4\u0dc0",
+            "label": "TIME"
+          },
+          {
+            "text": "96",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "668,012 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "96 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd \u0ba8\u0bcb\u0baf\u0bbe\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "'\u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd' \u0bb5\u0bc8\u0bb0\u0bb8\u0bcd \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0ba9 96 \u0ba8\u0bcb\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (14) \u0baa\u0bc1\u0ba4\u0bbf\u0ba4\u0bbe\u0b95 \u0b87\u0ba9\u0b99\u0bcd\u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd \u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0ba9 \u0bae\u0bca\u0ba4\u0bcd\u0ba4 '\u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd' \u0ba8\u0bcb\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 668,012 \u0b86\u0b95\u0bc1\u0bae\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "96",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "96",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "668,012",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}

@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db8\u0dd3\u0dc5\u0d9f-\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0dc3\u0da7\u0db1\u0dda-\u0da7\u0dca\u200d\u0dbb\u0dc3\u0dca-\u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca\u0dbd\u0dd4/3-396305",
+    "time_ut": 1660541807,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd3\u0dc5\u0d9f \u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0dc3\u0da7\u0db1\u0dda \u0da7\u0dca\u200d\u0dbb\u0dc3\u0dca \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca\u0dbd\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/0d/0da64a48.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda-\u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb-\u0db1\u0dd2\u0dc3\u0dcf-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0db1\u0dca-31\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/3-396304",
+    "time_ut": 1660541700,
+    "original_lang": "si",
+    "original_title": "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb \u0db1\u0dd2\u0dc3\u0dcf \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0db1\u0dca 31\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/c3/c3e2102f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/15/authorities-concerned-over-rising-egg-chicken-prices/",
+    "time_ut": 1660541580,
+    "original_lang": "en",
+    "original_title": "Authorities concerned over rising egg & chicken prices",
+    "file_name": "/tmp/news_lk2/articles/16/1683b66c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/monday_meeting/\u0d86\u0dc4\u0dcf\u0dbb-\u0d85\u0dc4\u0dda\u0db1\u0dd2\u0dba\u0d9a-\u0d85\u0db1\u0dad\u0dd4\u0dbb/118-618098",
+    "time_ut": 1660541539,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dc4\u0dcf\u0dbb \u0d85\u0dc4\u0dda\u0db1\u0dd2\u0dba\u0d9a \u0d85\u0db1\u0dad\u0dd4\u0dbb",
+    "file_name": "/tmp/news_lk2/articles/a3/a37b6b16.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Fuel-price-revision-likely-today/342-243073",
+    "time_ut": 1660541433,
+    "original_lang": "en",
+    "original_title": "Fuel price revision likely today",
+    "file_name": "/tmp/news_lk2/articles/cd/cdeb0e91.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/15/schools-open-from-monday-to-friday/",
+    "time_ut": 1660541280,
+    "original_lang": "en",
+    "original_title": "Schools open from Monday to Friday",
+    "file_name": "/tmp/news_lk2/articles/1f/1fec0ecd.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/editorial/\u0dc3\u0dd3\u0db1\u0dd2-\u0dc0\u0d82\u0da0\u0dcf\u0dc0\u0dda-\u0db8\u0dc4\u0db8\u0ddc\u0dc5-\u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dd4/117-618096",
     "time_ut": 1660540939,
@@ -70,6 +118,14 @@
     "original_lang": "si",
     "original_title": "\u0db1\u0ddc\u0dbb\u0ddc\u0da0\u0dca\u0da0\u0ddd\u0dbd\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dba\u0dda \u0db6\u0dd2\u0db3 \u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/3f/3ff39e4f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dd4\u0dc0\u0dba-\u0dbd\u0dd0\u0db6\u0dd6-\u0d9a\u0dd0\u0dc3\u0dca\u0db6\u0dd1\u0dc0\u0dcf-\u0dba\u0dc5\u0dd2\u0dad\u0dca--\u0daf\u0dd2\u0dba\u0db9-\u0db6\u0dbd\u0dcf/11-396297",
+    "time_ut": 1660539704,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dd4\u0dc0\u0dba \u0dbd\u0dd0\u0db6\u0dd6 \u0d9a\u0dd0\u0dc3\u0dca\u0db6\u0dd1\u0dc0\u0dcf \u0dba\u0dc5\u0dd2\u0dad\u0dca  \u0daf\u0dd2\u0dba\u0db9 \u0db6\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/cd/cd704ae4.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -289,11 +345,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0daf-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3-\u0db1\u0dd1/1-618088",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0daf-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3-\u0db1\u0dd1/101-618088",
     "time_ut": 1660530566,
     "original_lang": "si",
     "original_title": "\u0d85\u0daf \u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/c3/c3876be7.json"
+    "file_name": "/tmp/news_lk2/articles/6c/6cb7fb1a.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -337,11 +393,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/President-a-prisoner-of-the-SLPP-Jayasekara/108-243035",
+    "url": "https://www.dailymirror.lk/latest_news/President-a-prisoner-of-the-SLPP-Jayasekara/342-243035",
     "time_ut": 1660527192,
     "original_lang": "en",
     "original_title": "President a prisoner of the SLPP: Jayasekara",
-    "file_name": "/tmp/news_lk2/articles/8b/8b524044.json"
+    "file_name": "/tmp/news_lk2/articles/d0/d01c97dd.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -609,11 +665,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca-96-\u0d9a\u0dca/1-618078",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca-96-\u0d9a\u0dca/101-618078",
     "time_ut": 1660491313,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca 96 \u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/98/986e2e35.json"
+    "file_name": "/tmp/news_lk2/articles/95/9581b597.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -641,11 +697,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Universal-Social-Welfare-vs-Targeted-Social-Protection/172-243007",
+    "url": "https://www.dailymirror.lk/opinion/Universal-Social-Welfare-vs-Targeted-Social-Protection/231-243007",
     "time_ut": 1660489379,
     "original_lang": "en",
     "original_title": "Universal Social Welfare vs. Targeted Social Protection",
-    "file_name": "/tmp/news_lk2/articles/f9/f9c92f3d.json"
+    "file_name": "/tmp/news_lk2/articles/db/dbf6e4d6.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -681,11 +737,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0db8\u0dca\u0db6\u0daf-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db6\u0dc3\u0dca-\u0db1\u0dd0\u0dad\u0dd2\u0dc0\u0dd4\u0dc0\u0dc4\u0ddc\u0dad\u0dca-\u2018\u0dc3\u0dd2\u0db4\u0dd9\u0da7\u0dca\u0d9a\u0ddd\u2019-\u0dc0\u0d9c\u0d9a\u0dd2\u0dc0-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/1-618077",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0db8\u0dca\u0db6\u0daf-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db6\u0dc3\u0dca-\u0db1\u0dd0\u0dad\u0dd2\u0dc0\u0dd4\u0dc0\u0dc4\u0ddc\u0dad\u0dca-\u2018\u0dc3\u0dd2\u0db4\u0dd9\u0da7\u0dca\u0d9a\u0ddd\u2019-\u0dc0\u0d9c\u0d9a\u0dd2\u0dc0-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/101-618077",
     "time_ut": 1660483070,
     "original_lang": "si",
     "original_title": "\u0d9c\u0db8\u0dca\u0db6\u0daf \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0db6\u0dc3\u0dca \u0db1\u0dd0\u0dad\u0dd2\u0dc0\u0dd4\u0dc0\u0dc4\u0ddc\u0dad\u0dca \u2018\u0dc3\u0dd2\u0db4\u0dd9\u0da7\u0dca\u0d9a\u0ddd\u2019 \u0dc0\u0d9c\u0d9a\u0dd2\u0dc0 \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/0a/0a0b35a7.json"
+    "file_name": "/tmp/news_lk2/articles/65/65a8a170.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -1321,11 +1377,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Strengthen-tug-boat-fleet-to-boost-efficacy-of-the-port-Minister/342-242998",
+    "url": "https://www.dailymirror.lk/breaking_news/Strengthen-tug-boat-fleet-to-boost-efficacy-of-the-port-Minister/108-242998",
     "time_ut": 1660454348,
     "original_lang": "en",
     "original_title": "Strengthen tug-boat fleet to boost efficacy of the port: Minister",
-    "file_name": "/tmp/news_lk2/articles/62/62e00cda.json"
+    "file_name": "/tmp/news_lk2/articles/63/63d38ebd.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -1929,11 +1985,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/SL-grants-permission-for-entry-of-Chinese-tracking-vessel/155-242982",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-grants-permission-for-entry-of-Chinese-tracking-vessel/108-242982",
     "time_ut": 1660361459,
     "original_lang": "en",
     "original_title": "SL grants permission for entry of Chinese tracking vessel",
-    "file_name": "/tmp/news_lk2/articles/31/312ba20c.json"
+    "file_name": "/tmp/news_lk2/articles/4a/4abf4613.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -1993,11 +2049,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Wickremesinghe-Alahapperuma-and-the-2022-Presidential-Election/172-242980",
+    "url": "https://www.dailymirror.lk/opinion/Wickremesinghe-Alahapperuma-and-the-2022-Presidential-Election/231-242980",
     "time_ut": 1660332898,
     "original_lang": "en",
     "original_title": "Wickremesinghe, Alahapperuma and the 2022 Presidential Election",
-    "file_name": "/tmp/news_lk2/articles/3d/3d27293c.json"
+    "file_name": "/tmp/news_lk2/articles/ba/ba79841f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2273,11 +2329,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Like-Pharaoh-Israel-also-kills-children/172-242894",
+    "url": "https://www.dailymirror.lk/opinion/Like-Pharaoh-Israel-also-kills-children/231-242894",
     "time_ut": 1660251548,
     "original_lang": "en",
     "original_title": "Like Pharaoh, Israel also kills children",
-    "file_name": "/tmp/news_lk2/articles/fd/fdfe2e2b.json"
+    "file_name": "/tmp/news_lk2/articles/6b/6b40c1c8.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -2425,11 +2481,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/GR-to-return-to-SL-in-3-months-as-options-run-out/155-242850",
+    "url": "https://www.dailymirror.lk/breaking_news/GR-to-return-to-SL-in-3-months-as-options-run-out/108-242850",
     "time_ut": 1660189760,
     "original_lang": "en",
     "original_title": "GR to return to SL in 3 months as options run out",
-    "file_name": "/tmp/news_lk2/articles/6b/6b28847e.json"
+    "file_name": "/tmp/news_lk2/articles/74/745d4262.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -3049,11 +3105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Colombo-allows-Pakistani-frigate-Taimur-to-dock-Dhaka-says-no/108-242642",
+    "url": "https://www.dailymirror.lk/latest_news/Colombo-allows-Pakistani-frigate-Taimur-to-dock-Dhaka-says-no/342-242642",
     "time_ut": 1659962140,
     "original_lang": "en",
     "original_title": "Colombo allows Pakistani frigate Taimur to dock, Dhaka says no",
-    "file_name": "/tmp/news_lk2/articles/44/4499c031.json"
+    "file_name": "/tmp/news_lk2/articles/82/82a682eb.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -3745,19 +3801,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/thaksalawa/\u0d89\u0dc0\u0dad-\u0daf\u0db8\u0db1-\u0db4\u0dca\u0dbd\u0dcf\u0dc3\u0dca\u0da7\u0dd2\u0d9a\u0dca-\u0db6\u0ddd\u0dad\u0dbd\u0dd9\u0db1\u0dca-\u0dbb\u0da7\u0da7-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0d9c\u0dd9\u0db1\u0dd9\u0db1-\u0dbb\u0da2-\u0dc0\u0dd0\u0da9-\u0d9a\u0dcf\u0dbb\u0dba\u0ddd/55-617291",
+    "url": "https://www.lankadeepa.lk/features/\u0d89\u0dc0\u0dad-\u0daf\u0db8\u0db1-\u0db4\u0dca\u0dbd\u0dcf\u0dc3\u0dca\u0da7\u0dd2\u0d9a\u0dca-\u0db6\u0ddd\u0dad\u0dbd\u0dd9\u0db1\u0dca-\u0dbb\u0da7\u0da7-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0d9c\u0dd9\u0db1\u0dd9\u0db1-\u0dbb\u0da2-\u0dc0\u0dd0\u0da9-\u0d9a\u0dcf\u0dbb\u0dba\u0ddd/2-617291",
     "time_ut": 1659170333,
     "original_lang": "si",
     "original_title": "\u0d89\u0dc0\u0dad \u0daf\u0db8\u0db1 \u0db4\u0dca\u0dbd\u0dcf\u0dc3\u0dca\u0da7\u0dd2\u0d9a\u0dca \u0db6\u0ddd\u0dad\u0dbd\u0dd9\u0db1\u0dca \u0dbb\u0da7\u0da7 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0d9c\u0dd9\u0db1\u0dd9\u0db1 \u0dbb\u0da2 \u0dc0\u0dd0\u0da9 \u0d9a\u0dcf\u0dbb\u0dba\u0ddd",
-    "file_name": "/tmp/news_lk2/articles/b8/b8bddba2.json"
+    "file_name": "/tmp/news_lk2/articles/07/07415a31.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/thaksalawa/\u0dad\u0dd9\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0db8\u0dbb\u0dab-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1-\u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0d9a\u0dca/55-617289",
+    "url": "https://www.lankadeepa.lk/features/\u0dad\u0dd9\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0db8\u0dbb\u0dab-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1-\u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0d9a\u0dca/2-617289",
     "time_ut": 1659169811,
     "original_lang": "si",
     "original_title": "\u0dad\u0dd9\u0dbd\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0db8\u0dbb\u0dab \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1 \u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/cc/ccf2eb4b.json"
+    "file_name": "/tmp/news_lk2/articles/a5/a5a5377f.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
