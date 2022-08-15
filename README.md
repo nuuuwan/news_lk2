@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-16 00:04:03 (LK time)*
+*As of 2022-08-16 00:20:32 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** ada-derana-lk ([President orders to strictly limit state sector expenditures](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29d6a7f4.json))
-
-* **1** economy-next-com ([Sri Lanka rupee guidance peg edges up; market sees dull trade in govt securities](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/626d125d.json))
 
 ## Last Hour (4 Articles)
 
@@ -18,21 +16,19 @@
 
 * **1** daily-mirror-lk ([Certain elements spreading malicious propaganda to destroy confectionery industry: Association](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef662582.json))
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (13 Articles)
 
-* **4** daily-mirror-lk ([Joes beat Wesley, finish league runners-up](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2c3bc9f.json))
+* **8** daily-mirror-lk ([Joes beat Wesley, finish league runners-up](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2c3bc9f.json))
 
 * **3** ada-derana-lk ([William Ruto declared Kenya’s new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3744aa85.json))
 
 * **2** economy-next-com ([Sri Lanka stocks rally continues for 12th straight session on political stability hopes](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16a9ab5d.json))
 
-* **2** lankadeepa-lk ([පොලිසියෙ 7ක් නීතිඥවරු ලෙස දිවුරති](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/728bb0e1.json))
-
-## Last 24 Hours (204 Articles)
+## Last 24 Hours (208 Articles)
 
 * **44** lankadeepa-lk ([හරක් කටාගේ වෙඩික්කරු අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a01760c.json))
 
-* **33** daily-mirror-lk ([Recent 75% electricity tariff is a farce: CEB Trade Union Alliance](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e44f66c4.json))
+* **37** daily-mirror-lk ([Recent 75% electricity tariff is a farce: CEB Trade Union Alliance](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e44f66c4.json))
 
 * **31** ada-lk ([ජොනී, නාමල්, මහින්දානන්ද, රෝහිත, පවිත්‍රා ඇතුළු පිරිසකට ඇමතිධුර දෙන්නැයි බැසිල් ජනපතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5ffadcf1.json))
 
@@ -48,9 +44,9 @@
 
 * **1** colombo-telegraph-com ([A True Democratic Leadership](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e696b38d.json))
 
-## Last Week (524 Articles)
+## Last Week (528 Articles)
 
-* **79** daily-mirror-lk ([Chinese social media platform bars a promotional campaign by SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7fce83a2.json))
+* **83** daily-mirror-lk ([Chinese social media platform bars a promotional campaign by SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7fce83a2.json))
 
 * **78** daily-ft-lk ([The Aragalaya:  A sceptic’s notes](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac359902.json))
 
@@ -72,11 +68,11 @@
 
 * **13** colombo-telegraph-com ([The Aragalaya & Morality](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9788f39.json))
 
-## All Time (814 Articles)
+## All Time (818 Articles)
 
 * **136** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **118** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
+* **122** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
 * **115** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 

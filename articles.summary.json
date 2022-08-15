@@ -32,12 +32,44 @@
     "file_name": "/tmp/news_lk2/articles/ef/ef662582.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/JVP-Support-Surges-with-the-Collapse-of-the-Economy-and-the-Gotabaya-Presidency/172-243127",
+    "time_ut": 1660585104,
+    "original_lang": "en",
+    "original_title": "JVP Support Surges with the Collapse of  the Economy and the Gotabaya Presidency",
+    "file_name": "/tmp/news_lk2/articles/38/380bfa89.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/How-India-came-out-of-the-1991-economic-crisis-Liberalization-greatly-helped-but-consistency-is-required-for-full-benefits/172-243126",
+    "time_ut": 1660584618,
+    "original_lang": "en",
+    "original_title": "How India came out of the 1991 economic crisis Liberalization greatly helped, but consistency is required for full benefits",
+    "file_name": "/tmp/news_lk2/articles/fc/fcfe3c0d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84323/uk-becomes-first-to-approve-covid-vaccine-targeting-both-omicron-and-original-strain",
     "time_ut": 1660584420,
     "original_lang": "en",
     "original_title": "UK becomes first to approve COVID vaccine targeting both Omicron and original strain",
     "file_name": "/tmp/news_lk2/articles/ed/edc28e40.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Colombos-deferral-of-the-port-of-call-by-Chinese-ship-Is-an-act-of-irrational-appeasement/172-243125",
+    "time_ut": 1660584404,
+    "original_lang": "en",
+    "original_title": "Colombo\u2019s deferral of the port of call by Chinese ship Is an act of irrational appeasement?",
+    "file_name": "/tmp/news_lk2/articles/1d/1d139f35.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Have-an-objective-policy-on-Tamil-diaspora/172-243124",
+    "time_ut": 1660584171,
+    "original_lang": "en",
+    "original_title": "Have an objective policy on Tamil diaspora",
+    "file_name": "/tmp/news_lk2/articles/43/43c8aebe.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
