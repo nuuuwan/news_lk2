@@ -1,0 +1,168 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/caption_story/Isipathana-emerges-champions/110-243062",
+  "time_ut": 1660534870,
+  "original_lang": "en",
+  "original_title": "Isipathana emerges champions",
+  "text_idx": {
+    "en": {
+      "title": "Isipathana emerges champions",
+      "author": "unknown",
+      "body_lines": [
+        "Isipathana College emerged the Dialog Schools Rugby 2022 league champions when they defeated defending and three time champions Royal College by 21 points to 15 in the deciding match played at the Havelock Park yesterday. Pix by Kushan Pathiraja"
+      ],
+      "title_ents": [
+        {
+          "text": "Isipathana",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Isipathana College",
+            "label": "ORG"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Royal College",
+            "label": "ORG"
+          },
+          {
+            "text": "21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Havelock Park",
+            "label": "FAC"
+          },
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "Kushan Pathiraja",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1\u0dba \u0dc1\u0dd6\u0dbb\u0dba\u0db1\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc4\u0dd0\u0dc0\u0dca\u0dbd\u0ddc\u0d9a\u0dca \u0db4\u0dcf\u0dbb\u0dca\u0d9a\u0dca \u0db4\u0dd2\u0da7\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0d8a\u0dba\u0dda \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dd2 \u0dad\u0dd3\u0dbb\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dad\u0dbb\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba 2022 \u0da9\u0dba\u0dbd\u0ddc\u0d9c\u0dca \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dbb\u0d9c\u0dca\u0db6\u0dd2 \u0dbd\u0dd3\u0d9c\u0dca \u0dc1\u0dd6\u0dbb\u0dba\u0db1\u0dca \u0db6\u0dc0\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd6\u0dba\u0dda \u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0dc3\u0dc4 \u0dad\u0dd4\u0db1\u0dca \u0dc0\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0dc1\u0dd6\u0dbb\u0dba\u0db1\u0dca \u0dc0\u0dd6 \u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 21\u0da7 15\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dbb\u0dcf\u0da2\u0dba \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dd2. \u0db4\u0dd2\u0d9a\u0dca\u0dc3\u0dca - \u0d9a\u0dd4\u0dc2\u0dcf\u0db1\u0dca \u0db4\u0dad\u0dd2\u0dbb\u0dcf\u0da2"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1\u0dba",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc4\u0dd0\u0dc0\u0dca\u0dbd\u0ddc\u0d9a\u0dca \u0d8b\u0daf\u0dca\u200d\u0dba\u0dcf\u0db1\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0dd4\u0dc2\u0dcf\u0db1\u0dca \u0db4\u0dad\u0dd2\u0dbb\u0dcf\u0da2",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9 \u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bbe\u0b95\u0bbf\u0baf\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb9\u0bc6\u0bb5\u0bcd\u0bb2\u0bca\u0b95\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b86\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 21\u0b95\u0bcd\u0b95\u0bc1 15 \u0b8e\u0ba9\u0bcd\u0bb1 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0bb1\u0bc8 \u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bbe\u0ba9 \u0bb1\u0bcb\u0baf\u0bb2\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf\u0baf\u0bc8 \u0ba4\u0bcb\u0bb1\u0bcd\u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9 \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0b9f\u0baf\u0bb2\u0bca\u0b95\u0bcd \u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0bb0\u0b95\u0bcd\u0baa\u0bbf 2022 \u0bb2\u0bc0\u0b95\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bbe\u0b95\u0bbf\u0baf\u0ba4\u0bc1. \u0b95\u0bc1\u0bb7\u0bbe\u0ba9\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0b9c\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9 \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bb2\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb9\u0bc7\u0bb5\u0bcd\u0bb2\u0bbe\u0b95\u0bcd \u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb7\u0bbe\u0ba9\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0b9c\u0bbe",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}

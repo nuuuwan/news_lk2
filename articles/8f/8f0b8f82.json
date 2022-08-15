@@ -1,0 +1,213 @@
+{
+  "newspaper_id": "ada-lk",
+  "url": "https://www.ada.lk/international/12-\u0dc0\u0dd0\u0db1\u0dd2-\u0db6\u0dd3\u0da2\u0dd2\u0d82-\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0dc3\u0dd2\u0db1\u0db8\u0dcf-\u0d8b\u0dc5\u0dd9\u0dbd-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/3-396270",
+  "time_ut": 1660458531,
+  "original_lang": "si",
+  "original_title": "12 \u0dc0\u0dd0\u0db1\u0dd2 \u0db6\u0dd3\u0da2\u0dd2\u0d82 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0dd2\u0db1\u0db8\u0dcf \u0d8b\u0dc5\u0dd9\u0dbd \u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2",
+  "text_idx": {
+    "en": {
+      "title": "The 12th Beijing International Film Festival begins",
+      "author": "unknown",
+      "body_lines": [
+        "Shen Haixiong, Chairman of China Media Group (CMG) and Chairman of the 12th BJIFF Organizing Committee, gave a speech and announced the opening of the Beijing International Film Festival.",
+        "Mao Gaoi, a member of the Standing Committee of the Beijing Municipal Committee of the Communist Party of China (CPC) and Director General of the Propaganda Department of the CPC Beijing Municipal Committee, also attended the event and delivered a speech."
+      ],
+      "title_ents": [
+        {
+          "text": "12th",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "Beijing International Film Festival",
+          "label": "EVENT"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Shen Haixiong",
+            "label": "PERSON"
+          },
+          {
+            "text": "China Media Group",
+            "label": "ORG"
+          },
+          {
+            "text": "12th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "BJIFF Organizing Committee",
+            "label": "LAW"
+          },
+          {
+            "text": "the Beijing International Film Festival",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "Mao Gaoi",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Standing Committee of the Beijing Municipal Committee",
+            "label": "ORG"
+          },
+          {
+            "text": "the Communist Party of China",
+            "label": "ORG"
+          },
+          {
+            "text": "CPC",
+            "label": "ORG"
+          },
+          {
+            "text": "the Propaganda Department",
+            "label": "ORG"
+          },
+          {
+            "text": "the CPC Beijing Municipal Committee",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "12 \u0dc0\u0dd0\u0db1\u0dd2 \u0db6\u0dd3\u0da2\u0dd2\u0d82 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0dd2\u0db1\u0db8\u0dcf \u0d8b\u0dc5\u0dd9\u0dbd \u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2",
+      "author": "unknown",
+      "body_lines": [
+        "\u0da0\u0dd3\u0db1 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0dda (CMG) \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0dc3\u0dc4 12 \u0dc0\u0dd0\u0db1\u0dd2 BJIFF \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 Shen Haixiong \u0daf\u0dda\u0dc1\u0db1\u0dba\u0d9a\u0dca \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0db6\u0dd3\u0da2\u0dd2\u0d82 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0dd2\u0db1\u0db8\u0dcf \u0d8b\u0dc5\u0dd9\u0dbd\u0dda \u0dc3\u0db8\u0dcf\u0dbb\u0db8\u0dca\u0db7\u0dba \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0da0\u0dd3\u0db1 \u0d9a\u0ddc\u0db8\u0dd2\u0dba\u0dd4\u0db1\u0dd2\u0dc3\u0dca\u0da7\u0dca \u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda (CPC) \u0db6\u0dd3\u0da2\u0dd2\u0d82 \u0db1\u0dcf\u0d9c\u0dbb\u0dd2\u0d9a \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda \u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4 \u0dc3\u0dc4 CPC \u0db6\u0dd3\u0da2\u0dd2\u0d82 \u0db1\u0dcf\u0d9c\u0dbb\u0dd2\u0d9a \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0da0\u0dcf\u0dbb\u0d9a \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0db8\u0dcf\u0d95 \u0d9c\u0d95\u0dba\u0dd2 \u0daf \u0db8\u0dd9\u0db8 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0da7 \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3 \u0dc0\u0dd3 \u0daf\u0dda\u0dc1\u0db1\u0dba\u0d9a\u0dca \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "12 \u0dc0\u0dd0\u0db1\u0dd2",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "\u0db6\u0dd3\u0da2\u0dd2\u0d82 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0dd2\u0db1\u0db8\u0dcf \u0d8b\u0dc5\u0dd9\u0dbd",
+          "label": "EVENT"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Shen Haixiong",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "12 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "BJIFF \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0db6\u0dd3\u0da2\u0dd2\u0d82 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0dd2\u0db1\u0db8\u0dcf \u0d8b\u0dc5\u0dd9\u0dbd",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dcf\u0d95 \u0d9c\u0dcf\u0d95\u0dba\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db6\u0dd3\u0da2\u0dd2\u0d82 \u0db1\u0dcf\u0d9c\u0dbb\u0dd2\u0d9a \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda \u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1\u0dba\u0dda \u0d9a\u0ddc\u0db8\u0dd2\u0dba\u0dd4\u0db1\u0dd2\u0dc3\u0dca\u0da7\u0dca \u0db4\u0d9a\u0dca\u0dc2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "CPC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dca\u200d\u0dbb\u0da0\u0dcf\u0dbb\u0d9a \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "CPC \u0db6\u0dd3\u0da2\u0dd2\u0d82 \u0db1\u0dcf\u0d9c\u0dbb\u0dd2\u0d9a \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "12\u0bb5\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bcd\u0b9c\u0bbf\u0b99\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bbf\u0bb4\u0bbe \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b9a\u0bc0\u0ba9\u0bbe \u0bae\u0bc0\u0b9f\u0bbf\u0baf\u0bbe \u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd (CMG) \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bc1\u0bae\u0bcd, 12\u0bb5\u0ba4\u0bc1 BJIFF \u0b8f\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9 Shen Haixiong \u0b89\u0bb0\u0bc8 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf, \u0baa\u0bc6\u0baf\u0bcd\u0b9c\u0bbf\u0b99\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b9a\u0bc0\u0ba9 \u0b95\u0bae\u0bcd\u0baf\u0bc2\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd (CPC) \u0baa\u0bc6\u0baf\u0bcd\u0b9c\u0bbf\u0b99\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bc1\u0bae\u0bcd, CPC \u0baa\u0bc6\u0baf\u0bcd\u0b9c\u0bbf\u0b99\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bc1\u0bae\u0bbe\u0ba9 Mao Gaoi \u0b87\u0ba8\u0bcd\u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0b89\u0bb0\u0bc8 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "12\u0bb5\u0ba4\u0bc1",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "\u0baa\u0bc6\u0baf\u0bcd\u0b9c\u0bbf\u0b99\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bbf\u0bb4\u0bbe",
+          "label": "EVENT"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Shen Haixiong",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9\u0bbe \u0bae\u0bc0\u0b9f\u0bbf\u0baf\u0bbe \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "12\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "BJIFF \u0b8f\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0baa\u0bc6\u0baf\u0bcd\u0b9c\u0bbf\u0b99\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bbf\u0bb4\u0bbe",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bbe\u0bb5\u0bcb \u0b95\u0bb5\u0bcb\u0baf\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bc6\u0baf\u0bcd\u0b9c\u0bbf\u0b99\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9 \u0b95\u0bae\u0bcd\u0baf\u0bc2\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "CPC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "CPC \u0baa\u0bc6\u0baf\u0bcd\u0b9c\u0bbf\u0b99\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
