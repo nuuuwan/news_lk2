@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-16 04:17:15 (LK time)*
+*As of 2022-08-16 04:35:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (3 Articles)
 
-* **11** daily-ft-lk ([StrEdge promotes ‘SMART’ restructuring of businesses](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0e53b30.json))
+* **3** daily-ft-lk ([Committee on High Posts approves five new Ministry Secretaries, one Ambassador](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abf35d13.json))
 
 ## Last 24 Hours (212 Articles)
 
