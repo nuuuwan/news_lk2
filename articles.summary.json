@@ -1,5 +1,93 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Power-cut-will-extend-from-tomorrow/108-243076",
+    "time_ut": 1660548141,
+    "original_lang": "en",
+    "original_title": "Power cut will extend from tomorrow",
+    "file_name": "/tmp/news_lk2/articles/f0/f08d5c61.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bb0\u0bcd-228-\u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1/175-302362",
+    "time_ut": 1660548095,
+    "original_lang": "ta",
+    "original_title": "\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bb0\u0bcd-228 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/f8/f8edab21.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/15/dhaniz-ali-granted-bail/",
+    "time_ut": 1660548060,
+    "original_lang": "en",
+    "original_title": "Dhaniz Ali granted bail",
+    "file_name": "/tmp/news_lk2/articles/f5/f50aa8b0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca--\u0d9a\u0db4\u0db1-\u0da0\u0d9a\u0dca\u200d\u0dbb\u0dbd\u0dda\u0d9b\u0dba-\u0db8\u0dd9\u0db1\u0dca\u0db1/1-618127",
+    "time_ut": 1660547998,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca  \u0d9a\u0db4\u0db1 \u0da0\u0d9a\u0dca\u200d\u0dbb\u0dbd\u0dda\u0d9b\u0dba \u0db8\u0dd9\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/3f/3fae32b0.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-coal-power-plant-breakdown-wont-affect-aug-15-power-cut-98611/",
+    "time_ut": 1660547940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka coal power plant breakdown won\u2019t affect Aug 15 power cut",
+    "file_name": "/tmp/news_lk2/articles/18/182b45c9.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-shares-gain-over-1-pct-in-mid-day-trade-98610/",
+    "time_ut": 1660547880,
+    "original_lang": "en",
+    "original_title": "Sri Lanka shares gain over 1-pct in mid-day trade",
+    "file_name": "/tmp/news_lk2/articles/6b/6bfd561d.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bb5\u0ba4\u0bbe\u0b95-\u0b86\u0bb3\u0bc1\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf-\u0b8e\u0bae\u0bcd-\u0baa\u0bbf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302361",
+    "time_ut": 1660547393,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0b86\u0bb3\u0bc1\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b8e\u0bae\u0bcd.\u0baa\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/0a/0a21d42f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0ddc\u0dbb\u0ddc\u0da0\u0dca\u0da0\u0ddd\u0dbd-\u0db6\u0dbd\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dda-\u0db6\u0dd2\u0db3\u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0d9a\u0dca/1-618126",
+    "time_ut": 1660547362,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0ddc\u0dbb\u0ddc\u0da0\u0dca\u0da0\u0ddd\u0dbd \u0db6\u0dbd\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dda \u0db6\u0dd2\u0db3\u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/f0/f0010324.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0dd9\u0da7-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2/1-618125",
+    "time_ut": 1660547283,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd9\u0da7 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/03/030deb42.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/15/india-hands-over-dornier-reconnaissance-aircraft-to-sri-lanka/",
+    "time_ut": 1660547040,
+    "original_lang": "en",
+    "original_title": "India hands over Dornier Reconnaissance Aircraft to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/a1/a155bd93.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/15/power-cuts-to-be-extended-from-tuesday-16/",
+    "time_ut": 1660547040,
+    "original_lang": "en",
+    "original_title": "Power Cuts to be extended from Tuesday (16)",
+    "file_name": "/tmp/news_lk2/articles/31/31740832.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/cannot-support-sri-lankas-imf-bound-caretaker-president-mp-vasudeva-n-98602/",
     "time_ut": 1660546740,
@@ -3529,11 +3617,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Versatile-Filmmaker-Vasantha-Obeysekeras-Dadayama-The-Hunt/172-242534",
+    "url": "https://www.dailymirror.lk/dbs-jeyaraj-column/Versatile-Filmmaker-Vasantha-Obeysekeras-Dadayama-The-Hunt/192-242534",
     "time_ut": 1659730314,
     "original_lang": "en",
     "original_title": "Versatile Filmmaker Vasantha Obeysekera\u2019s \u201cDadayama\u201d (The Hunt)",
-    "file_name": "/tmp/news_lk2/articles/8f/8ffa61eb.json"
+    "file_name": "/tmp/news_lk2/articles/e2/e20ad2d3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
