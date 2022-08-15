@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-16 04:01:51 (LK time)*
+*As of 2022-08-16 04:17:15 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (11 Articles)
 
-* **15** daily-ft-lk ([Lankan motorists deprived of super diesel: A penny wise pound foolish move?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fae6a4b6.json))
+* **11** daily-ft-lk ([StrEdge promotes ‘SMART’ restructuring of businesses](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0e53b30.json))
 
 ## Last 24 Hours (212 Articles)
 
 * **44** lankadeepa-lk ([හරක් කටාගේ වෙඩික්කරු අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a01760c.json))
 
-* **35** daily-mirror-lk ([President a prisoner of the SLPP: Jayasekara](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d01c97dd.json))
+* **35** daily-mirror-lk ([President a prisoner of the SLPP: Jayasekara](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b524044.json))
 
 * **31** ada-lk ([ජොනී, නාමල්, මහින්දානන්ද, රෝහිත, පවිත්‍රා ඇතුළු පිරිසකට ඇමතිධුර දෙන්නැයි බැසිල් ජනපතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5ffadcf1.json))
 
@@ -32,9 +32,9 @@
 
 * **86** daily-ft-lk ([Ranil’s three-stage return and rise to the top](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13c5b609.json))
 
-* **83** daily-mirror-lk ([Chinese social media platform bars a promotional campaign by SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7fce83a2.json))
+* **83** daily-mirror-lk ([Chinese social media platform bars a promotional campaign by SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17129807.json))
 
-* **75** lankadeepa-lk ([කෝටි හැටක කැකුළු හාල් කුකුළන්ට දුන් නරුමයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23151b46.json))
+* **75** lankadeepa-lk ([කෝටි හැටක කැකුළු හාල් කුකුළන්ට දුන් නරුමයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95fd375f.json))
 
 * **57** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
 
