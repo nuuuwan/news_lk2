@@ -1,32 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-15 20:36:15 (LK time)*
+*As of 2022-08-15 21:01:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (3 Articles)
 
-* **1** lankadeepa-lk ([ශ්‍රී ලංකාව තව පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c169e7c1.json))
-
-* **1** tamil-mirror-lk (['உறவினை மேலும் வலுப்படுத்த எதிர்பார்த்துள்ளோம்'](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4a13f75.json))
-
-## Last Hour (7 Articles)
-
-* **5** lankadeepa-lk ([කාන්තාවකගේ පා පහරින් කොන්දොස්තට බසයෙන් එළියට විසි වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/6652df89.json))
+* **2** lankadeepa-lk ([බීමත් සිවු දෙනෙක් යාල් දේවිය පැයක් ප්‍රමාද කරති](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8263a87a.json))
 
 * **1** tamil-mirror-lk (['உறவினை மேலும் வலுப்படுத்த எதிர்பார்த்துள்ளோம்'](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4a13f75.json))
 
-* **1** ada-derana-lk ([COVID: Three deaths and 129 cases confirmed](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6e69745.json))
-
-## Last 3 Hours (28 Articles)
+## Last 3 Hours (25 Articles)
 
 * **10** lankadeepa-lk ([ක්‍රිකට් ආයතනය අර්ජුනගෙන් කෝටි 200ක් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1a3e5b8.json))
 
-* **8** daily-mirror-lk ([Deployment of Dornier 220 Aircraft gifted by India to SLAF](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e05e9a66.json))
-
-* **3** tamil-mirror-lk ([6 வயது சிறுமியின் கழுத்தில் கத்தியை வைத்த தந்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/322d6033.json))
+* **6** daily-mirror-lk ([Expose corrupt deals...](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b299779.json))
 
 * **3** ada-derana-lk ([S&P pushes Sri Lankan bonds deeper into junk territory with ‘default’ rating](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c679bd0.json))
+
+* **2** tamil-mirror-lk ([வியக்க வைத்த பூப்புனித நீராட்டு விழா](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/547dbcef.json))
 
 * **2** news-first-lk ([Admiral (Prof) Jayanath Colombage for Ambassador to Indonesia](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a715e05e.json))
 
@@ -34,7 +26,7 @@
 
 * **1** economy-next-com ([Sri Lanka’s Laugfs Gas makes a loss of 94-pct in June 2022 quarter](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a69fa27.json))
 
-## Last 24 Hours (210 Articles)
+## Last 24 Hours (209 Articles)
 
 * **44** lankadeepa-lk ([කොවිඩ් ආසාදිතයන් 96 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/9581b597.json))
 
@@ -44,7 +36,7 @@
 
 * **28** tamil-mirror-lk ([பாகிஸ்தான் கப்பலுடன் போர் பயிற்சி இல்லை: இலங்கை கடற்படை](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96d36a5d.json))
 
-* **26** ada-derana-lk ([Another diesel shipment to reach the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7ac4b242.json))
+* **25** ada-derana-lk ([Woman found murdered inside her home in Kandy](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c7cc2b5.json))
 
 * **22** news-first-lk ([1 hour Power cut for today (15), tomorrow (16)](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4994f786.json))
 
