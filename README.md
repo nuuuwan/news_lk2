@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-15 21:18:07 (LK time)*
+*As of 2022-08-15 21:35:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,27 +8,25 @@
 
 * **1** lankadeepa-lk ([පොලිසියෙ 7ක් නීතිඥවරුන් වශයෙන් දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34fb01a5.json))
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
-* **2** lankadeepa-lk ([ශ්‍රී ලංකාව තව පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0df75c48.json))
+* **1** lankadeepa-lk ([පොලිසියෙ 7ක් නීතිඥවරුන් වශයෙන් දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34fb01a5.json))
 
-## Last 3 Hours (21 Articles)
+## Last 3 Hours (18 Articles)
 
-* **10** lankadeepa-lk ([පාසල් දැරියකට කැත වැඩක් කළ පහක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a80a9e85.json))
+* **10** lankadeepa-lk ([පාසල් දැරියකට කැත වැඩක් කළ පහක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86499491.json))
 
-* **5** daily-mirror-lk ([S&P pushes Sri Lankan bonds deeper into junk territory with ’default’ rating](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/165dcf51.json))
-
-* **2** ada-derana-lk ([Revised postal charges effective from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/200f4392.json))
+* **4** daily-mirror-lk ([UK becomes the first country to approve a dual Covid vaccine targeting omicron](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01a41388.json))
 
 * **1** tamil-mirror-lk (['உறவினை மேலும் வலுப்படுத்த எதிர்பார்த்துள்ளோம்'](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4a13f75.json))
+
+* **1** ada-derana-lk ([COVID: Three deaths and 129 cases confirmed](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6e69745.json))
 
 * **1** ada-lk ([ඉන්දියාව හා ලංකාව එකම කාසියේ දෙපැත්තක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e376d53.json))
 
 * **1** news-first-lk ([India and Sri Lanka two sides of the same coin, must forge ahead together –President](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d1eeac2.json))
 
-* **1** economy-next-com ([Sri Lanka’s Laugfs Gas makes a loss of 94-pct in June 2022 quarter](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a69fa27.json))
-
-## Last 24 Hours (207 Articles)
+## Last 24 Hours (205 Articles)
 
 * **42** lankadeepa-lk ([ඇවෙන්ඩ්‍රා හෝටලයෙන් මැයි 9 වැනි දා ගිනි අවි 4 ක් උත්සලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e923b94.json))
 
@@ -42,7 +40,7 @@
 
 * **22** news-first-lk ([1 hour Power cut for today (15), tomorrow (16)](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4994f786.json))
 
-* **14** economy-next-com ([Sri Lanka tea sold at historic high prices in July 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe1ef683.json))
+* **13** economy-next-com ([Sri Lanka police nabs man for making death-threat video using 5-year old son](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4bc462f5.json))
 
 * **11** daily-ft-lk ([‘Nadagamkarayo’: A management perspective](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee6d9431.json))
 
@@ -50,15 +48,13 @@
 
 * **1** colombo-telegraph-com ([A True Democratic Leadership](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e696b38d.json))
 
-* **1** d-b-s-jeyaraj-com ([Ranil Wickremesinghe, Dulles Alahapperuma and the Historic 2022 Presidential Election](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9e215e0.json))
-
 ## Last Week (514 Articles)
 
 * **78** daily-ft-lk ([The Aragalaya:  A sceptic’s notes](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac359902.json))
 
 * **77** daily-mirror-lk ([First formulate common policy, not sharing portfolios](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35fc81b1.json))
 
-* **72** lankadeepa-lk ([කෝටි හැටක කැකුළු හාල් කුකුළන්ට දුන් නරුමයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23151b46.json))
+* **72** lankadeepa-lk ([කෝටි හැටක කැකුළු හාල් කුකුළන්ට දුන් නරුමයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95fd375f.json))
 
 * **56** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
 
