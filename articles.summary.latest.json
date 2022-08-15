@@ -1,11 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84312/power-cut-duration-to-be-extended",
+    "time_ut": 1660549140,
+    "original_lang": "en",
+    "original_title": "Power cut duration to be extended?",
+    "file_name": "/tmp/news_lk2/articles/b9/b9fc1bc2.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Power-cut-will-extend-from-tomorrow/108-243076",
+    "url": "https://www.dailymirror.lk/latest_news/Power-cut-will-extend-from-tomorrow/342-243076",
     "time_ut": 1660548141,
     "original_lang": "en",
     "original_title": "Power cut will extend from tomorrow",
-    "file_name": "/tmp/news_lk2/articles/f0/f08d5c61.json"
+    "file_name": "/tmp/news_lk2/articles/14/149feef6.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -112,6 +120,14 @@
     "file_name": "/tmp/news_lk2/articles/67/67140fcf.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u2019\u0db6\u0dba\u0dd2\u0d9a\u0dca-\u0dbb\u0dda\u0dc3\u0dca\u2019-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dd4-\u0db8\u0dbb\u0dd4\u0da7/11-396309",
+    "time_ut": 1660546570,
+    "original_lang": "si",
+    "original_title": "\u2019\u0db6\u0dba\u0dd2\u0d9a\u0dca \u0dbb\u0dda\u0dc3\u0dca\u2019 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dd4 \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/34/348d2e12.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db0\u0dcf\u0db1\u0dd2\u0dc1\u0dca-\u0d85\u0dbd\u0dd3\u0da7-\u0d87\u0db4/101-618122",
     "time_ut": 1660546174,
@@ -166,6 +182,14 @@
     "original_lang": "si",
     "original_title": "\u0db7\u0dd6\u0dad\u0dba\u0dcf \u0d9c\u0dab\u0db1\u0dca \u0d8b\u0dc3\u0dca\u0dc3\u0dba\u0dd2:\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca \u0db1\u0db1\u0dca\u0db1\u0dad\u0dca\u0dad\u0dcf\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/07/079fe1db.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84309/fuel-prices-to-be-revised-today",
+    "time_ut": 1660544520,
+    "original_lang": "en",
+    "original_title": "Fuel prices to be revised today?",
+    "file_name": "/tmp/news_lk2/articles/66/6674e343.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
