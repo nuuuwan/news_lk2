@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/President-says-India-and-Sri-Lanka-two-sides-of-the-same-coin-must-forge-ahead-together/56-738719",
+    "time_ut": 1660593793,
+    "original_lang": "en",
+    "original_title": "President says India and  Sri Lanka two sides of the same coin, must forge ahead together",
+    "file_name": "/tmp/news_lk2/articles/5b/5b7c4870.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Celebration-of-75-glorious-years-of-India-s-independence-in-Sri-Lanka/56-738718",
+    "time_ut": 1660593750,
+    "original_lang": "en",
+    "original_title": "Celebration of 75 glorious years of India\u2019s independence in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/51/511d15c8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/India-gifts-Dornier-aircraft-to-strengthen-maritime-security-of-SL/56-738717",
     "time_ut": 1660593688,
     "original_lang": "en",
@@ -222,6 +238,14 @@
     "original_lang": "si",
     "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dad\u0dc0 \u0db4\u0dc4\u0dc5\u0da7",
     "file_name": "/tmp/news_lk2/articles/0d/0df75c48.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/jaffna-bishop-instructs-manipay-hospital-board-to-sever-ties-with-uk-charity-fomh/",
+    "time_ut": 1660574281,
+    "original_lang": "en",
+    "original_title": "Jaffna Bishop Instructs Manipay Hospital Board To Sever Ties With UK Charity FOMH",
+    "file_name": "/tmp/news_lk2/articles/01/0162468a.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
