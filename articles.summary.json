@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Kirinda-beach-draws-large-group-of-holiday-makers/110-243085",
+    "time_ut": 1660562683,
+    "original_lang": "en",
+    "original_title": "Kirinda beach draws large group of holiday makers",
+    "file_name": "/tmp/news_lk2/articles/49/495a3eda.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/19-\u0bb5\u0bb0\u0bc8-3-\u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bcd-\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1/175-302378",
+    "time_ut": 1660562531,
+    "original_lang": "ta",
+    "original_title": "19 \u0bb5\u0bb0\u0bc8 3 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/d9/d9969316.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dbb\u0dca-228\u2019\u2019-\u0dbd\u0d82\u0d9a\u0dcf-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf-\u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dba\u0dda-\u0d87\u0dbb\u0dd0\u0db9\u0dd4\u0db8\u0d9a\u0dca/101-618150",
+    "time_ut": 1660562515,
+    "original_lang": "si",
+    "original_title": "\u2019\u2019\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dbb\u0dca 228\u2019\u2019 \u0dbd\u0d82\u0d9a\u0dcf \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dba\u0dda \u0d87\u0dbb\u0dd0\u0db9\u0dd4\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/01/0176d76f.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0dca\u0dad\u0dcf\u0db4\u0dbd\u0dca-\u0dbd\u0ddc\u0d9a\u0dd4\u0dbd\u0dd6\u0dab-\u0dc3\u0dc4-\u0db4\u0dbb\u0dd2\u0db4\u0dca\u0db4\u0dd4-\u0db8\u0dd2\u0dbd-\u0dba\u0dc5\u0dd2-\u0db4\u0dc4\u0dad\u0da7/101-618149",
     "time_ut": 1660561233,
@@ -40,12 +64,20 @@
     "file_name": "/tmp/news_lk2/articles/ae/aea2f190.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd9\u0da7-\u0dc3\u0dd2\u0da7-\u0db4\u0dd0\u0dba-03\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca/11-396319",
+    "time_ut": 1660559567,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd9\u0da7 \u0dc3\u0dd2\u0da7 \u0db4\u0dd0\u0dba 03\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/8c/8cfe1307.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Power-cut-to-be-extended-from-tomorrow/108-243083",
+    "url": "https://www.dailymirror.lk/latest_news/Power-cut-to-be-extended-from-tomorrow/342-243083",
     "time_ut": 1660559465,
     "original_lang": "en",
     "original_title": "Power cut to be extended from tomorrow",
-    "file_name": "/tmp/news_lk2/articles/f4/f4945de3.json"
+    "file_name": "/tmp/news_lk2/articles/7c/7c499c99.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -238,6 +270,14 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d86\u0dba\u0dad\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3\u0db1\u0dca \u201c\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca \u0db4\u0dcf\u0dbd\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u201d \u0da0\u0d9a\u0dca\u200d\u0dbb\u0dbd\u0dda\u0d9b\u0dba\u0da7  \u0d85\u0db1\u0dd4\u0dc0 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d9a\u0dc5 \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/b2/b26a6116.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd0\u0da9\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca-\u0d9a\u0dc5\u0ddc\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd2\u0dba\u0dcf\u0d9c\u0dda-\u0d85\u0dad\u0dd2\u0db1\u0dca-\u0d9c\u0dd9\u0dc0\u0db1\u0dca\u0db1-\u0dc0\u0dd9\u0dba\u0dd2---\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca/11-396313",
+    "time_ut": 1660552658,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd0\u0da9\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca \u0d9a\u0dc5\u0ddc\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd2\u0dba\u0dcf\u0d9c\u0dda \u0d85\u0dad\u0dd2\u0db1\u0dca \u0d9c\u0dd9\u0dc0\u0db1\u0dca\u0db1 \u0dc0\u0dd9\u0dba\u0dd2 - \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/29/29304a15.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
