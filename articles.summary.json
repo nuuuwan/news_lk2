@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/15/pns-taimur-leaves-sri-lanka/",
+    "time_ut": 1660560240,
+    "original_lang": "en",
+    "original_title": "PNS Taimur leaves Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/ae/aea2f190.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Power-cut-to-be-extended-from-tomorrow/108-243083",
+    "time_ut": 1660559465,
+    "original_lang": "en",
+    "original_title": "Power cut to be extended from tomorrow",
+    "file_name": "/tmp/news_lk2/articles/f4/f4945de3.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bb5\u0b9f\u0bae\u0bc7\u0bb2\u0bcd-\u0bb5\u0b9f\u0bae\u0ba4\u0bcd\u0ba4\u0bbf/\u0b95\u0ba3\u0bcd\u0b9f\u0bc6\u0baf\u0bcd\u0ba9\u0bb0\u0bcd-\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/94-302376",
+    "time_ut": 1660559410,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0ba3\u0bcd\u0b9f\u0bc6\u0baf\u0bcd\u0ba9\u0bb0\u0bcd \u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/33/33906785.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/main_picture/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0db1\u0dca-\u0dad\u0dd1\u0d9c\u0dca\u0d9c-\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0da7/11-618147",
+    "time_ut": 1660559358,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0db1\u0dca \u0dad\u0dd1\u0d9c\u0dca\u0d9c \u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0da7",
+    "file_name": "/tmp/news_lk2/articles/9f/9f3e4ecc.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dad\u0dca\u200d\u0dba\u0dcf\u0d9c\u0dba\u0d9a\u0dca-\u0dbd\u0dd9\u0dc3-\u0dc3\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb-\u0db1\u0dd2\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dba\u0d9a\u0dca/11-396318",
+    "time_ut": 1660558776,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dca\u200d\u0dba\u0dcf\u0d9c\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0dc3\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb \u0db1\u0dd2\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/f8/f8499481.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-schedules-3-hour-power-cuts-from-aug-16-to-19-98649/",
     "time_ut": 1660558500,
