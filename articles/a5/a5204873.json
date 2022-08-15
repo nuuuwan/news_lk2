@@ -1,0 +1,201 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/latest_news/COVID-19-Five-more-deaths-181-new-cases-reported/342-242988",
+  "time_ut": 1660406207,
+  "original_lang": "en",
+  "original_title": "COVID-19: Five more deaths, 181 new cases reported",
+  "text_idx": {
+    "en": {
+      "title": "COVID-19: Five more deaths, 181 new cases reported",
+      "author": "unknown",
+      "body_lines": [
+        "Five more Covid-19 deaths that occurred yesterday(12) were confirmed by the Director General of Health Services today increasing the Civid-19 death toll in Sri Lanka to 16, 954.",
+        "Meanwhile, 181 fresh Covid-19 patients were identified today, increasing the total number of Covid patients in Sri Lanka to 667, 916."
+      ],
+      "title_ents": [
+        {
+          "text": "Five",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "181",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Five",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "16",
+            "label": "DATE"
+          },
+          {
+            "text": "954",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "181",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "667",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "916",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "COVID-19: \u0dad\u0dc0\u0dad\u0dca \u0db8\u0dbb\u0dab \u0db4\u0dc4\u0d9a\u0dca, \u0db1\u0dc0 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca 181\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd3 \u0d87\u0dad",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d8a\u0dba\u0dda (12) \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd6 \u0dad\u0dc0\u0dad\u0dca \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19 \u0db8\u0dbb\u0dab 5\u0d9a\u0dca \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca\u0dc0\u0dbb\u0dba\u0dcf \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d85\u0daf \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0d85\u0dad\u0dbb, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda Civd-19 \u0db8\u0dbb\u0dab \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 16,954 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0db8\u0dda \u0d85\u0dad\u0dbb, \u0d85\u0daf \u0daf\u0dd2\u0db1\u0dba\u0dda\u0daf\u0dd3 \u0db1\u0dc0 \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca 181\u0d9a\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dcf\u0d9c\u0dd9\u0db1 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc3\u0db8\u0dc3\u0dca\u0dad \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 667,916 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0dad\u0dd2\u0db6\u0dda."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0db4\u0dc4",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "181",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db4\u0dc4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "16",
+            "label": "DATE"
+          },
+          {
+            "text": "954",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "181",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "667",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "916",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd-19: \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd, 181 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 (12) \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd-19 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd-19 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 16,954 \u0b86\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba4\u0bc7\u0bb5\u0bc7\u0bb3\u0bc8, \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0ba4\u0bbe\u0b95 181 \u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd-19 \u0ba8\u0bcb\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0b99\u0bcd\u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc8\u0baf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd \u0ba8\u0bcb\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 667,916 \u0b86\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "181",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "16",
+            "label": "DATE"
+          },
+          {
+            "text": "954",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "181",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "667",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "916",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}

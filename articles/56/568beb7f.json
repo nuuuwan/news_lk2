@@ -1,0 +1,522 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/08/14/isipathana-crowned-winners-of-schools-rugby-league-2022/",
+  "time_ut": 1660489560,
+  "original_lang": "en",
+  "original_title": "Isipathana crowned winners of Schools Rugby League 2022",
+  "text_idx": {
+    "en": {
+      "title": "Isipathana crowned winners of Schools Rugby League 2022",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st);\u00a0Isipathana School Colombo were crowned the 2022 Schools Rugby League winners today (14), defeating the\u00a0defending Champions Royal College Colombo.",
+        "The decisive Super Round encounter to decide the Champions of the Schools Rugby League tournament was held at the Havelock Park in Colombo on Sunday (14).",
+        "Isipathana remained undefeated after winning all 6 games held since the preliminary round; Royal lost just one match.",
+        "In the first half of the game, Royal College were on top ending the half on 10-6.\u00a0In the second half, Isipathana took over scoring 15 points, while\u00a0Royal managed just 5 points in the second.",
+        "Ultimately, the undefeated Isipathana side clinched the match 21 to 15, and regained the Major Milroy Fernando Memorial Shield.",
+        "Isipathana College have not won the tournament since 2017; while Royal College were crowned champions in the last tournament which was held in 2019.",
+        "Will support from Opposition until Tamil people are satisfied: C.V. Wigneswaran"
+      ],
+      "title_ents": [
+        {
+          "text": "Isipathana",
+          "label": "PERSON"
+        },
+        {
+          "text": "Schools Rugby League",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "Isipathana School Colombo",
+            "label": "ORG"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "Schools Rugby League",
+            "label": "ORG"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Super Round",
+            "label": "ORG"
+          },
+          {
+            "text": "the Champions of the Schools Rugby League",
+            "label": "EVENT"
+          },
+          {
+            "text": "the Havelock Park in Colombo",
+            "label": "FAC"
+          },
+          {
+            "text": "Sunday",
+            "label": "DATE"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Isipathana",
+            "label": "GPE"
+          },
+          {
+            "text": "6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Royal",
+            "label": "ORG"
+          },
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "the first half",
+            "label": "DATE"
+          },
+          {
+            "text": "Royal College",
+            "label": "ORG"
+          },
+          {
+            "text": "top ending the half",
+            "label": "DATE"
+          },
+          {
+            "text": "the second half",
+            "label": "DATE"
+          },
+          {
+            "text": "Isipathana",
+            "label": "GPE"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Royal",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "second",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Isipathana",
+            "label": "GPE"
+          },
+          {
+            "text": "21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Fernando Memorial Shield",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Isipathana College",
+            "label": "ORG"
+          },
+          {
+            "text": "2017",
+            "label": "DATE"
+          },
+          {
+            "text": "Royal College",
+            "label": "ORG"
+          },
+          {
+            "text": "2019",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "C.V. Wigneswaran",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "2022 \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dbb\u0d9c\u0dca\u0db6\u0dd2 \u0dbd\u0dd3\u0d9c\u0dba\u0dda \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0db1\u0dca \u0dbd\u0dd9\u0dc3 \u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd4\u0dc5 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb \u0d9c\u0dad\u0dca\u0dad\u0dda\u0dba",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0d9a\u0ddc\u0dc5\u0db9 \u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1 \u0db4\u0dcf\u0dc3\u0dbd 2022 \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dbb\u0d9c\u0dca\u0db6\u0dd2 \u0dbd\u0dd3\u0d9c\u0dca \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dbd\u0dd9\u0dc3 \u0d85\u0daf (14) \u0d9a\u0dd2\u0dbb\u0dd4\u0dc5\u0dd4 \u0db4\u0dd0\u0dc5\u0db3\u0dd3\u0db8\u0da7 \u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb, \u0d9a\u0ddc\u0dc5\u0db9 \u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0dc1\u0dd6\u0dbb\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba \u0db4\u0dbb\u0dcf\u0da2\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dbb\u0d9c\u0dca\u0db6\u0dd2 \u0dbd\u0dd3\u0d9c\u0dca \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0dc1\u0dd6\u0dbb\u0dba\u0dd2\u0db1\u0dca \u0dad\u0dda\u0dbb\u0dd3\u0db8\u0dda \u0dad\u0dd3\u0dbb\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2 \u0dc0\u0da7\u0dba\u0dda \u0dad\u0dbb\u0d9c\u0dba \u0d89\u0dbb\u0dd2\u0daf\u0dcf (14) \u0d9a\u0ddc\u0dc5\u0db9 \u0dc4\u0dd0\u0dc0\u0dca\u0dbd\u0ddc\u0d9a\u0dca \u0db4\u0dd2\u0da7\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd2\u0dab\u0dd2.",
+        "\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dc0\u0da7\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dd2 \u0dad\u0dbb\u0d9c 6\u0db8 \u0da2\u0dba\u0d9c\u0dad\u0dca \u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1 \u0db4\u0dd2\u0dbd \u0d85\u0db4\u0dbb\u0dcf\u0da2\u0dd2\u0dad\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda\u0dba. \u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba \u0db4\u0dbb\u0dcf\u0da2\u0dba \u0dc0\u0dd6\u0dba\u0dda \u0d91\u0d9a\u0dca \u0dad\u0dbb\u0d9c\u0dba\u0d9a\u0dca \u0db4\u0db8\u0dab\u0dd2.",
+        "\u0dad\u0dbb\u0d9c\u0dba\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0db7\u0dcf\u0d9c\u0dba\u0dda\u0daf\u0dd3 \u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 10-6\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0d85\u0dbb\u0dca\u0db0\u0dba \u0db1\u0dd2\u0db8\u0dcf \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab\u0dda \u0db4\u0dc3\u0dd4\u0dc0\u0dd2\u0dba. \u0daf\u0dd9\u0dc0\u0db1 \u0d85\u0dbb\u0dca\u0db0\u0dba\u0dda \u0daf\u0dd3 \u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 15\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca \u0d85\u0dad\u0dbb \u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0da7 \u0daf\u0dd9\u0dc0\u0db1 \u0d85\u0dbb\u0dca\u0db0\u0dba\u0dda\u0daf\u0dd3 \u0dbd\u0db6\u0dcf \u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0dd6\u0dba\u0dda \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 5\u0d9a\u0dca \u0db4\u0db8\u0dab\u0dd2.",
+        "\u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0dda \u0d85\u0db4\u0dbb\u0dcf\u0da2\u0dd2\u0dad \u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1 \u0db4\u0dd2\u0dbd \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 21\u0da7 15\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0dad\u0dbb\u0d9c\u0dba \u0da2\u0dba\u0d9c\u0dad\u0dca \u0d85\u0dad\u0dbb \u0db8\u0dda\u0da2\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dca\u0dbb\u0ddd\u0dba\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4 \u0d85\u0db1\u0dd4\u0dc3\u0dca\u0db8\u0dbb\u0dab \u0db4\u0dc5\u0dd2\u0dc4 \u0dba\u0dc5\u0dd2 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb \u0d9c\u0dad\u0dca\u0dad\u0dda\u0dba.",
+        "\u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba 2017 \u0dc0\u0dc3\u0dbb\u0dda \u0dc3\u0dd2\u0da7 \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba \u0da2\u0dba\u0d9c\u0dd9\u0db1 \u0db1\u0dd0\u0dad. \u0d92 \u0d85\u0dad\u0dbb 2019 \u0dc0\u0dc3\u0dbb\u0dda \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dad\u0dbb\u0d9f\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba \u0dc1\u0dd6\u0dbb\u0dba\u0dd2\u0db1\u0dca \u0db6\u0dc0\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd4\u0dab\u0dcf.",
+        "\u0daf\u0dd9\u0db8\u0dc5 \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0dad\u0dd8\u0db4\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0dc0\u0db1 \u0dad\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0dc3\u0dc4\u0dba \u0daf\u0dd9\u0db1\u0dc0\u0dcf: \u0dc3\u0dd3.\u0dc0\u0dd3. \u0dc0\u0dd2\u0d9c\u0dca\u0db1\u0dda\u0dc2\u0dca\u0dc0\u0dbb\u0db1\u0dca"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1\u0dba",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dbb\u0d9c\u0dca\u0db6\u0dd2 \u0dbd\u0dd3\u0d9c\u0dba",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1 \u0db4\u0dcf\u0dc3\u0dbd",
+            "label": "ORG"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dbb\u0d9c\u0dca\u0db6\u0dd2 \u0dbd\u0dd3\u0d9c\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2 \u0dc0\u0da7\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dbb\u0d9c\u0dca\u0db6\u0dd2 \u0dbd\u0dd3\u0d9c\u0dba\u0dda \u0dc1\u0dd6\u0dbb\u0dba\u0db1\u0dca",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dc4\u0dd0\u0dc0\u0dca\u0dbd\u0ddc\u0d9a\u0dca \u0d8b\u0daf\u0dca\u200d\u0dba\u0dcf\u0db1\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0d89\u0dbb\u0dd2\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4 \u0db7\u0dcf\u0d9c\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dbb\u0dca\u0db0 \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d89\u0dc4\u0dc5",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0db1 \u0db7\u0dcf\u0d9c\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4 \u0d85\u0db1\u0dd4\u0dc3\u0dca\u0db8\u0dbb\u0dab \u0db4\u0dbd\u0dd2\u0dc4",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0dc3\u0dd2\u0db4\u0dad\u0db1 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2017",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2019",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "CV. \u0dc0\u0dd2\u0d9c\u0dca\u0db1\u0dda\u0dc2\u0dca\u0dc0\u0dbb\u0db1\u0dca",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0bb0\u0b95\u0bcd\u0baa\u0bbf \u0bb2\u0bc0\u0b95\u0bcd 2022 \u0b87\u0bb2\u0bcd \u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9 \u0baa\u0bb3\u0bcd\u0bb3\u0bbf 2022 \u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0bb0\u0b95\u0bcd\u0baa\u0bbf \u0bb2\u0bc0\u0b95\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (14), \u00a0\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb8\u0bcd \u0bb0\u0bcb\u0baf\u0bb2\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0bc8 \u0ba4\u0bcb\u0bb1\u0bcd\u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bb0\u0b95\u0bcd\u0baa\u0bbf \u0bb2\u0bc0\u0b95\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bc8\u0ba4\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba9 \u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf \u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (14) \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bb9\u0bc6\u0bb5\u0bcd\u0bb2\u0bca\u0b95\u0bcd \u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1.",
+        "\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0b9a\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 6 \u0b86\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9 \u0ba4\u0bcb\u0bb1\u0bcd\u0b95\u0bbe\u0bae\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1; \u0bb0\u0bbe\u0baf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bcb\u0bb2\u0bcd\u0bb5\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b86\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd, \u0bb1\u0bcb\u0baf\u0bb2\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf 10-6 \u0b8e\u0ba9 \u0baa\u0bbe\u0ba4\u0bbf \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0baa\u0bbe\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd, \u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9 15 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd, \u0b85\u0ba4\u0bc7 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd\u00a0\u0bb1\u0bcb\u0baf\u0bb2\u0bcd 5 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bc8 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0baa\u0bc6\u0bb1 \u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd, \u0ba4\u0bcb\u0bb1\u0bcd\u0b95\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4 \u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9 \u0b85\u0ba3\u0bbf 21 \u0b95\u0bcd\u0b95\u0bc1 15 \u0b8e\u0ba9\u0bcd\u0bb1 \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc8 \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bc1, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0b9c\u0bb0\u0bcd \u0bae\u0bbf\u0bb2\u0bcd\u0bb0\u0bcb\u0baf\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1 \u0b95\u0bc7\u0b9f\u0baf\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1.",
+        "2017\u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9 \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baa\u0bc6\u0bb1\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8; \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 2019 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bcb\u0baf\u0bb2\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1.",
+        "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0ba4\u0bbf \u0b85\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b86\u0ba4\u0bb0\u0bb5\u0bc1: \u0b9a\u0bbf.\u0bb5\u0bbf. \u0bb5\u0bbf\u0b95\u0bcd\u0ba9\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0ba9\u0bcd"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0bb0\u0b95\u0bcd\u0baa\u0bbf \u0bb2\u0bc0\u0b95\u0bcd",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0bb0\u0b95\u0bcd\u0baa\u0bbf \u0bb2\u0bc0\u0b95\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc2\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u0bb0\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0bb0\u0b95\u0bcd\u0baa\u0bbf \u0bb2\u0bc0\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0bb9\u0bc6\u0bb5\u0bcd\u0bb2\u0bbe\u0b95\u0bcd \u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9",
+            "label": "GPE"
+          },
+          {
+            "text": "6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bb2\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc7\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0baa\u0bbe\u0ba4\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9",
+            "label": "GPE"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9",
+            "label": "GPE"
+          },
+          {
+            "text": "21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1\u0b95\u0bcd \u0b95\u0bc7\u0b9f\u0baf\u0bae\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0b9a\u0bbf\u0baa\u0ba4\u0ba9 \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "2017",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bb2\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "2019",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc1\u0baf\u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd. \u0bb5\u0bbf\u0b95\u0bcd\u0ba9\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0ba9\u0bcd",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}

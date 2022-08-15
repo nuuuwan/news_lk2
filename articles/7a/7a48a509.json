@@ -1,0 +1,291 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/08/14/covid-19-5-deaths-181-cases-reported-on-saturday-13/",
+  "time_ut": 1660456020,
+  "original_lang": "en",
+  "original_title": "COVID-19: 5 deaths, 181 cases reported on Saturday (13)",
+  "text_idx": {
+    "en": {
+      "title": "COVID-19: 5 deaths, 181 cases reported on Saturday (13)",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st); The Government Information Department says that five COVID-19 deaths have been reported for Friday (13).",
+        "The deceased are two females and three males over the age of 60.",
+        "Moreover, 181 COVID-19 patients have also been reported on Saturday (13), the Government Information Department added, which brings the total number of patients reported to 667,735.",
+        "Will support from Opposition until Tamil people are satisfied: C.V. Wigneswaran"
+      ],
+      "title_ents": [
+        {
+          "text": "5",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "181",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Saturday",
+          "label": "DATE"
+        },
+        {
+          "text": "13",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "The Government Information Department",
+            "label": "ORG"
+          },
+          {
+            "text": "five",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Friday",
+            "label": "DATE"
+          },
+          {
+            "text": "13",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the age of 60",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "181",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Saturday",
+            "label": "DATE"
+          },
+          {
+            "text": "13",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Government Information Department",
+            "label": "ORG"
+          },
+          {
+            "text": "667,735",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "C.V. Wigneswaran",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "COVID-19: \u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf (13) \u0db8\u0dbb\u0dab 5 \u0d9a\u0dca, \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca 181 \u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd2\u0dba",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf (13) \u0daf\u0dd2\u0db1\u0dba\u0dda\u0daf\u0dd3 COVID-19 \u0db8\u0dbb\u0dab \u0db4\u0dc4\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dbb\u0da2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0db8\u0dd2\u0dba\u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dca\u0dad\u0dda \u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 60\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0dc3\u0dc4 \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2 \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd2.",
+        "\u0dad\u0dc0\u0daf, \u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf (13) \u0daf\u0dd2\u0db1\u0dba\u0dda\u0daf\u0dd3 \u0daf \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca 181 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0d91\u0db8\u0d9f\u0dd2\u0db1\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd6 \u0db8\u0dd4\u0dc5\u0dd4 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 667,735 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dbb\u0da2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0daf\u0dd9\u0db8\u0dc5 \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0dad\u0dd8\u0db4\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0dc0\u0db1 \u0dad\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0dc3\u0dc4\u0dba \u0daf\u0dd9\u0db1\u0dc0\u0dcf: \u0dc3\u0dd3.\u0dc0\u0dd3. \u0dc0\u0dd2\u0d9c\u0dca\u0db1\u0dda\u0dc2\u0dca\u0dc0\u0dbb\u0db1\u0dca"
+      ],
+      "title_ents": [
+        {
+          "text": "5",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "181",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+          "label": "DATE"
+        },
+        {
+          "text": "13",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0da2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dc4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "13",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 60 \u0dba\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "181",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "13",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0da2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "667,735 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "CV. \u0dc0\u0dd2\u0d9c\u0dca\u0db1\u0dda\u0dc2\u0dca\u0dc0\u0dbb\u0db1\u0dca",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd-19: \u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (13) 5 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd, 181 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (13) \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 COVID-19 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd 60 \u0bb5\u0baf\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0b86\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b86\u0bb5\u0bb0\u0bcd.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, \u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (13) 181 \u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd-19 \u0ba8\u0bcb\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b87\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0ba8\u0bcb\u0baf\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 667,735 \u0b86\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0ba4\u0bbf \u0b85\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b86\u0ba4\u0bb0\u0bb5\u0bc1: \u0b9a\u0bbf.\u0bb5\u0bbf. \u0bb5\u0bbf\u0b95\u0bcd\u0ba9\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0ba9\u0bcd"
+      ],
+      "title_ents": [
+        {
+          "text": "5",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "181",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+          "label": "DATE"
+        },
+        {
+          "text": "13",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "13",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0baf\u0ba4\u0bc1 60",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "181",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "13",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "667,735",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc1\u0baf\u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd. \u0bb5\u0bbf\u0b95\u0bcd\u0ba9\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0ba9\u0bcd",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
