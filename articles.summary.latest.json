@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0dca\u0dad\u0dcf\u0db4\u0dbd\u0dca-\u0dbd\u0ddc\u0d9a\u0dd4\u0dbd\u0dd6\u0dab-\u0dc3\u0dc4-\u0db4\u0dbb\u0dd2\u0db4\u0dca\u0db4\u0dd4-\u0db8\u0dd2\u0dbd-\u0dba\u0dc5\u0dd2-\u0db4\u0dc4\u0dad\u0da7/101-618149",
+    "time_ut": 1660561233,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0dca\u0dad\u0dcf\u0db4\u0dbd\u0dca,\u0dbd\u0ddc\u0d9a\u0dd4\u0dbd\u0dd6\u0dab \u0dc3\u0dc4 \u0db4\u0dbb\u0dd2\u0db4\u0dca\u0db4\u0dd4 \u0db8\u0dd2\u0dbd \u0dba\u0dc5\u0dd2 \u0db4\u0dc4\u0dad\u0da7",
+    "file_name": "/tmp/news_lk2/articles/0f/0f67935a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84317/four-more-arrested-over-fuel-racketeering-9200-litres-of-petrol-seized",
+    "time_ut": 1660560840,
+    "original_lang": "en",
+    "original_title": "Four more arrested over fuel racketeering; 9,200 litres of petrol seized",
+    "file_name": "/tmp/news_lk2/articles/1a/1af0e89a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/15/sri-lanka-navy-marines-complete-rimpac-2022-hosted-by-the-us-pacific-fleet/",
+    "time_ut": 1660560660,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Navy Marines complete RIMPAC 2022 hosted by the US Pacific Fleet",
+    "file_name": "/tmp/news_lk2/articles/38/3879286b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84316/jayanath-colombage-approved-as-new-ambassador-to-indonesia",
+    "time_ut": 1660560420,
+    "original_lang": "en",
+    "original_title": "Jayanath Colombage approved as new ambassador to Indonesia",
+    "file_name": "/tmp/news_lk2/articles/b7/b7e622e0.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/15/pns-taimur-leaves-sri-lanka/",
     "time_ut": 1660560240,
@@ -121,11 +153,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/world_news/\u0d9a\u0dd4\u0dbb\u0dd4\u0dbd\u0dca\u0dbd\u0dcf-\u0db6\u0dda\u0dbb\u0dcf-\u0d9c\u0db1\u0dca\u0db1-\u0db4\u0dd6\u0dc3\u0ddd-\u2018\u0dbd\u0ddc\u0d9a\u0dca\u0da9\u0dc0\u0dd4\u0db1\u0dca\u2019/14-618142",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd4\u0dbb\u0dd4\u0dbd\u0dca\u0dbd\u0dcf-\u0db6\u0dda\u0dbb\u0dcf-\u0d9c\u0db1\u0dca\u0db1-\u0db4\u0dd6\u0dc3\u0ddd-\u2018\u0dbd\u0ddc\u0d9a\u0dca\u0da9\u0dc0\u0dd4\u0db1\u0dca\u2019/101-618142",
     "time_ut": 1660556208,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dd4\u0dbb\u0dd4\u0dbd\u0dca\u0dbd\u0dcf \u0db6\u0dda\u0dbb\u0dcf \u0d9c\u0db1\u0dca\u0db1 \u0db4\u0dd6\u0dc3\u0ddd \u2018\u0dbd\u0ddc\u0d9a\u0dca\u0da9\u0dc0\u0dd4\u0db1\u0dca\u2019",
-    "file_name": "/tmp/news_lk2/articles/73/730ed553.json"
+    "file_name": "/tmp/news_lk2/articles/16/164d7f33.json"
   },
   {
     "newspaper_id": "economy-next-com",
