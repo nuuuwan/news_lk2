@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Dhaniz-Ali-released-on-bail/342-243080",
+    "time_ut": 1660551327,
+    "original_lang": "en",
+    "original_title": "Dhaniz Ali released on bail",
+    "file_name": "/tmp/news_lk2/articles/6b/6ba9d979.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84313/india-officially-hands-over-dornier-228-maritime-patrol-aircraft-",
+    "time_ut": 1660550940,
+    "original_lang": "en",
+    "original_title": "India officially hands over Dornier 228 Maritime Patrol Aircraft",
+    "file_name": "/tmp/news_lk2/articles/0e/0e5384b2.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0db1\u0ddc\u0dc0\u0dda-\u0db8\u0dd9\u0dc0\u0db1\u0dca-\u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dba\u0dd9\u0d9a\u0dca-\u0dbd\u0ddc\u0dc0\u0dda/2-618134",
+    "time_ut": 1660550816,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0ddc\u0dc0\u0dda \u0db8\u0dd9\u0dc0\u0db1\u0dca \u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dba\u0dd9\u0d9a\u0dca \u0dbd\u0ddc\u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/bd/bdb00cce.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/SL-receives-Dornier-228-Aircraft-donated-by-India/342-243079",
     "time_ut": 1660550627,
     "original_lang": "en",
@@ -33,11 +57,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Opposition-nominates-Eran-Kabir-as-COPE-COPA-heads/108-243078",
+    "url": "https://www.dailymirror.lk/latest_news/Opposition-nominates-Eran-Kabir-as-COPE-COPA-heads/342-243078",
     "time_ut": 1660549578,
     "original_lang": "en",
     "original_title": "Opposition nominates Eran, Kabir as COPE, COPA heads",
-    "file_name": "/tmp/news_lk2/articles/9e/9ee929ea.json"
+    "file_name": "/tmp/news_lk2/articles/64/64868e50.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -670,6 +694,14 @@
     "original_lang": "en",
     "original_title": "President in a hurry to rope in Jaffna MPs to showcase to Geneva: Wigneswaran",
     "file_name": "/tmp/news_lk2/articles/59/597ae7cc.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/a-true-democratic-leadership/",
+    "time_ut": 1660532108,
+    "original_lang": "en",
+    "original_title": "A True Democratic Leadership",
+    "file_name": "/tmp/news_lk2/articles/e6/e696b38d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
