@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Prez-has-not-learned-anything-from-the-past-Ven-Sobitha-Thera/108-243103",
+    "time_ut": 1660581657,
+    "original_lang": "en",
+    "original_title": "Prez has not learned anything from the past: Ven. Sobitha Thera",
+    "file_name": "/tmp/news_lk2/articles/90/903dcb78.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/caption_story/Joes-beat-Wesley-finish-league-runners-up/110-243102",
     "time_ut": 1660580829,
     "original_lang": "en",
@@ -22,6 +30,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9 7\u0d9a\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0da5\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/34/34fb01a5.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9-7\u0d9a\u0dca-\u0db1\u0dd3\u0dad\u0dd2\u0da5\u0dc0\u0dbb\u0dd4-\u0dbd\u0dd9\u0dc3-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dad\u0dd2/1-618168",
+    "time_ut": 1660578146,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9 7\u0d9a\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0da5\u0dc0\u0dbb\u0dd4 \u0dbd\u0dd9\u0dc3 \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/72/728bb0e1.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -142,6 +158,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0da7 \u0d9a\u0dd0\u0dad \u0dc0\u0dd0\u0da9\u0d9a\u0dca \u0d9a\u0dc5 \u0db4\u0dc4\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/a8/a80a9e85.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd2\u0dba\u0d9a-\u0d85\u0db4\u0dba\u0ddd\u0da2\u0db1\u0dba--\u0d9a\u0dc5-\u0db4\u0dc4\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-618158",
+    "time_ut": 1660570379,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd2\u0dba\u0d9a \u0d85\u0db4\u0dba\u0ddd\u0da2\u0db1\u0dba  \u0d9a\u0dc5 \u0db4\u0dc4\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/40/40005bcd.json"
   },
   {
     "newspaper_id": "news-first-lk",
