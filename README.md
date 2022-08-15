@@ -1,34 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-15 23:18:18 (LK time)*
+*As of 2022-08-15 23:36:15 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** daily-mirror-lk ([Certain elements spreading malicious propaganda to destroy confectionery industry: Association](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef662582.json))
+
+## Last Hour (3 Articles)
+
+* **2** daily-mirror-lk ([2500 academics and professionals identified to advise govt. : NMSJ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1486de3.json))
 
 * **1** ada-derana-lk ([UK becomes first to approve COVID vaccine targeting both Omicron and original strain](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edc28e40.json))
-
-* **1** daily-mirror-lk ([2500 academics and professionals identified to advise govt. : NMSJ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1486de3.json))
-
-## Last Hour (2 Articles)
-
-* **1** ada-derana-lk ([UK becomes first to approve COVID vaccine targeting both Omicron and original strain](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edc28e40.json))
-
-* **1** daily-mirror-lk ([2500 academics and professionals identified to advise govt. : NMSJ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1486de3.json))
 
 ## Last 3 Hours (8 Articles)
 
-* **3** daily-mirror-lk ([Joes beat Wesley, finish league runners-up](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2c3bc9f.json))
-
-* **3** lankadeepa-lk ([ශ්‍රී ලංකාව තව පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0df75c48.json))
+* **4** daily-mirror-lk ([Joes beat Wesley, finish league runners-up](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/457854be.json))
 
 * **2** ada-derana-lk ([William Ruto declared Kenya’s new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3744aa85.json))
 
-## Last 24 Hours (205 Articles)
+* **2** lankadeepa-lk ([පොලිසියෙ 7ක් නීතිඥවරුන් වශයෙන් දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34fb01a5.json))
 
-* **43** lankadeepa-lk ([හරක් කටාගේ වෙඩික්කරු අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a01760c.json))
+## Last 24 Hours (204 Articles)
 
-* **34** daily-mirror-lk ([Tourist arrivals from August 1 – 11 cross 16,000 mark](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c28f5fcd.json))
+* **44** lankadeepa-lk ([හරක් කටාගේ වෙඩික්කරු අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a01760c.json))
+
+* **34** daily-mirror-lk ([T.N. BJP will continue to press for retrieval of Katchatheevu: Annamalai](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/995ce60c.json))
 
 * **31** ada-lk ([ජොනී, නාමල්, මහින්දානන්ද, රෝහිත, පවිත්‍රා ඇතුළු පිරිසකට ඇමතිධුර දෙන්නැයි බැසිල් ජනපතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5ffadcf1.json))
 
@@ -40,17 +38,17 @@
 
 * **11** economy-next-com ([Sri Lanka’s bond yields steady; rupee guidance peg appreciates by 7 cents](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66cb130f.json))
 
-* **10** daily-ft-lk ([Fixing the Sri Lankan economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6b0ae3d.json))
+* **8** daily-ft-lk ([Can State-owned CEB be effectively regulated unless restructured?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8a58c6e.json))
 
 * **1** colombo-telegraph-com ([A True Democratic Leadership](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e696b38d.json))
 
-## Last Week (523 Articles)
+## Last Week (521 Articles)
 
-* **81** daily-mirror-lk ([First formulate common policy, not sharing portfolios](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35fc81b1.json))
+* **79** daily-mirror-lk ([Chinese social media platform bars a promotional campaign by SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17129807.json))
 
 * **78** daily-ft-lk ([The Aragalaya:  A sceptic’s notes](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac359902.json))
 
-* **74** lankadeepa-lk ([කෝටි හැටක කැකුළු හාල් කුකුළන්ට දුන් නරුමයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23151b46.json))
+* **75** lankadeepa-lk ([කෝටි හැටක කැකුළු හාල් කුකුළන්ට දුන් නරුමයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95fd375f.json))
 
 * **57** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
 
@@ -62,17 +60,17 @@
 
 * **43** economy-next-com ([Sri Lanka cabinet nod for cost-based cooking gas pricing formula](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1569b68.json))
 
-* **18** island-lk ([Mahadenamutta and his golayas](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/0691c8cd.json))
+* **17** island-lk ([Reds at sea](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce6b75f.json))
 
 * **17** d-b-s-jeyaraj-com ([Any attempts to push through an IMF reform programme without clear articulation of its rationale, expected outcomes, and measures to protect the vulnerable will be met with resistance by politicians and the public.](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d81b4f5c.json))
 
 * **13** colombo-telegraph-com ([The Aragalaya & Morality](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9788f39.json))
 
-## All Time (809 Articles)
+## All Time (811 Articles)
 
-* **135** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **136** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **117** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
+* **118** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
 * **115** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
