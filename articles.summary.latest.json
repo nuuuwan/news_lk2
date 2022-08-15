@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1-\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bb0\u0bcd-228/175-302346",
+    "time_ut": 1660537142,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 \u201c\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bb0\u0bcd 228\u201d",
+    "file_name": "/tmp/news_lk2/articles/58/5848b614.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bc1\u0bb9\u0bc1\u0ba3\u0bc1-\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bbf-\u0ba4\u0b9f\u0bae\u0bcd\u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1/175-302342",
+    "time_ut": 1660534967,
+    "original_lang": "ta",
+    "original_title": "\u201c\u0bb0\u0bc1\u0bb9\u0bc1\u0ba3\u0bc1 \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bbf\u201d \u0ba4\u0b9f\u0bae\u0bcd\u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ab/ab91b190.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/caption_story/Isipathana-emerges-champions/110-243062",
     "time_ut": 1660534870,
@@ -8,12 +24,28 @@
     "file_name": "/tmp/news_lk2/articles/da/daa29682.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0bb0\u0b95\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0bbe-\u0bb5\u0bbf\u0ba9\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0ba4\u0bbe\u0bb0\u0bbf-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-302341",
+    "time_ut": 1660534139,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0bb9\u0bb0\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bbe\u2019\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0ba4\u0bbe\u0bb0\u0bbf \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/46/4699e072.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/STF-arrest-Harak-Katas-sniper-Kadira/108-243061",
     "time_ut": 1660533936,
     "original_lang": "en",
     "original_title": "STF arrest \u2019Harak Kata\u2019s sniper \u2019Kadira\u2019",
     "file_name": "/tmp/news_lk2/articles/20/208a3873.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbe\u0bb3\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd/71-302339",
+    "time_ut": 1660532874,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0bb3\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1: \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b6/b6b6db46.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -112,12 +144,132 @@
     "file_name": "/tmp/news_lk2/articles/e4/e44f66c4.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd-\u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0ba4\u0bcd-\u0ba4\u0bc1\u0bb0\u0bcb\u0b95\u0bae\u0bcd/175-302336",
+    "time_ut": 1660508439,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0ba4\u0bcd \u0ba4\u0bc1\u0bb0\u0bcb\u0b95\u0bae\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/a9/a9fae959.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/NFF-wants-MOD-to-explain-ban-lift-on-proscribed-organisations/56-738687",
+    "time_ut": 1660508015,
+    "original_lang": "en",
+    "original_title": "NFF wants MOD to explain ban lift on proscribed organisations",
+    "file_name": "/tmp/news_lk2/articles/ce/ce6baf98.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Cardinal-says-SL-will-not-achieve-true-freedom-till-supremacy-of-law-maintained/56-738686",
+    "time_ut": 1660507964,
+    "original_lang": "en",
+    "original_title": "Cardinal says SL will not achieve true freedom till supremacy of law maintained",
+    "file_name": "/tmp/news_lk2/articles/81/811ec87d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/UN-rights-chief-in-Bangladesh-to-visit-Rohingya-camps/56-738685",
+    "time_ut": 1660507853,
+    "original_lang": "en",
+    "original_title": "UN rights chief in Bangladesh, to visit Rohingya camps",
+    "file_name": "/tmp/news_lk2/articles/7e/7ecddcfa.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/President-orders-strict-limits-to-Government-expenses/56-738684",
+    "time_ut": 1660507816,
+    "original_lang": "en",
+    "original_title": "President orders strict limits to Government expenses",
+    "file_name": "/tmp/news_lk2/articles/9c/9c5a08e1.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Navy-rejects-reports-of-War-Game-with-Pakistan/56-738683",
+    "time_ut": 1660507695,
+    "original_lang": "en",
+    "original_title": "Navy rejects reports of \u2018War Game\u2019 with Pakistan",
+    "file_name": "/tmp/news_lk2/articles/f0/f01a3018.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1/175-302335",
+    "time_ut": 1660507542,
+    "original_lang": "ta",
+    "original_title": "\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ec/ec2bf21a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Foreign-Ministry-justifies-approval-for-Chinese-vessel-YUAN-WANG-5-dock-at-Hambantota/56-738678",
+    "time_ut": 1660506419,
+    "original_lang": "en",
+    "original_title": "Foreign Ministry justifies approval for Chinese vessel YUAN WANG 5 dock at Hambantota",
+    "file_name": "/tmp/news_lk2/articles/14/146ece6f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Celebration-of-75th-anniversary-of-Independence-Day-of-Pakistan-in-Sri-Lanka/56-738677",
+    "time_ut": 1660506272,
+    "original_lang": "en",
+    "original_title": "Celebration of 75th anniversary of Independence Day of Pakistan in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/9f/9f93e8d3.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-302334",
+    "time_ut": 1660506195,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/fd/fd92939c.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc0\u0ba9-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd-\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd-\u0b9a\u0bb5\u0bbe\u0bb2\u0bcd\u0b95\u0bb3\u0bc8-\u0b9a\u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bcd\u0b95-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe-\u0ba4\u0baf\u0bbe\u0bb0\u0bcd/175-302333",
+    "time_ut": 1660505585,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bc0\u0ba9 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd: \u0b9a\u0bb5\u0bbe\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bcd\u0b95 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0ba4\u0baf\u0bbe\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/6e/6e19f8d7.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0b89\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbe\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/175-302331",
+    "time_ut": 1660504611,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b89\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ea/ea994e18.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0b9f\u0ba9\u0bcd-\u0baa\u0bcb\u0bb0\u0bcd-\u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf-\u0b87\u0bb2\u0bcd\u0bb2\u0bc8-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8/175-302330",
+    "time_ut": 1660501927,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bcd \u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf \u0b87\u0bb2\u0bcd\u0bb2\u0bc8: \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/96/96d36a5d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Can-State-owned-CEB-be-effectively-regulated-unless-restructured/4-738658",
+    "time_ut": 1660501357,
+    "original_lang": "en",
+    "original_title": "Can State-owned CEB be effectively regulated unless restructured?",
+    "file_name": "/tmp/news_lk2/articles/d8/d8a58c6e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/T-N-BJP-will-continue-to-press-for-retrieval-of-Katchatheevu-Annamalai/108-243031",
     "time_ut": 1660500504,
     "original_lang": "en",
     "original_title": "T.N. BJP will continue to press for retrieval of Katchatheevu: Annamalai",
     "file_name": "/tmp/news_lk2/articles/99/995ce60c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/JR-and-expert-advice-Failing-to-implement-Goh-Keng-Swee-Report-of-1980/4-738656",
+    "time_ut": 1660500321,
+    "original_lang": "en",
+    "original_title": "JR and expert advice: Failing to implement Goh Keng Swee Report of 1980",
+    "file_name": "/tmp/news_lk2/articles/c6/c6977939.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -128,12 +280,52 @@
     "file_name": "/tmp/news_lk2/articles/c2/c28f5fcd.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Fixing-the-Sri-Lankan-economy/4-738655",
+    "time_ut": 1660499495,
+    "original_lang": "en",
+    "original_title": "Fixing the Sri Lankan economy",
+    "file_name": "/tmp/news_lk2/articles/e6/e6b0ae3d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Nadagamkarayo-A-management-perspective/4-738654",
+    "time_ut": 1660498994,
+    "original_lang": "en",
+    "original_title": "\u2018Nadagamkarayo\u2019: A management perspective",
+    "file_name": "/tmp/news_lk2/articles/ee/ee6d9431.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/salman-rushdie-recovering-well-after-an-assassination-attempt-reports-98564/",
+    "time_ut": 1660496700,
+    "original_lang": "en",
+    "original_title": "Salman Rushdie recovering well after an assassination attempt: reports",
+    "file_name": "/tmp/news_lk2/articles/38/3842e514.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d87\u0dc0\u0dd9\u0db1\u0dca\u0da9\u0dca\u200d\u0dbb\u0dcf-\u0dc4\u0ddd\u0da7\u0dbd\u0dba\u0dd9\u0db1\u0dca-\u0db8\u0dd0\u0dba\u0dd2-9-\u0dc0\u0dd0\u0db1\u0dd2-\u0daf\u0dcf-\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2-4-\u0d9a\u0dca-\u0d8b\u0dad\u0dca\u0dc3\u0dbd\u0dcf/1-618081",
     "time_ut": 1660493981,
     "original_lang": "si",
     "original_title": "\u0d87\u0dc0\u0dd9\u0db1\u0dca\u0da9\u0dca\u200d\u0dbb\u0dcf \u0dc4\u0ddd\u0da7\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd0\u0dba\u0dd2 9 \u0dc0\u0dd0\u0db1\u0dd2 \u0daf\u0dcf \u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2 4 \u0d9a\u0dca \u0d8b\u0dad\u0dca\u0dc3\u0dbd\u0dcf",
     "file_name": "/tmp/news_lk2/articles/8e/8e923b94.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-police-nabs-man-for-making-death-threat-video-using-5-year-old-son-98553/",
+    "time_ut": 1660493580,
+    "original_lang": "en",
+    "original_title": "Sri Lanka police nabs man for making death-threat video using 5-year old son",
+    "file_name": "/tmp/news_lk2/articles/4b/4bc462f5.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-tea-sold-at-historic-high-prices-in-july-2022-98554/",
+    "time_ut": 1660492560,
+    "original_lang": "en",
+    "original_title": "Sri Lanka tea sold at historic high prices in July 2022",
+    "file_name": "/tmp/news_lk2/articles/fe/fe1ef683.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -248,6 +440,14 @@
     "file_name": "/tmp/news_lk2/articles/95/95887d00.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-fuel-qr-system-upgraded-multiple-company-vehicles-under-single-brn-98505/",
+    "time_ut": 1660478760,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s fuel QR system upgraded; multiple company vehicles under single-BRN",
+    "file_name": "/tmp/news_lk2/articles/73/73fd3f1d.json"
+  },
+  {
     "newspaper_id": "colombo-telegraph-com",
     "url": "https://www.colombotelegraph.com/index.php/ripples-in-the-indian-ocean-yuan-wang-5-easter-sunday-2019/",
     "time_ut": 1660478696,
@@ -270,6 +470,14 @@
     "original_lang": "en",
     "original_title": "School buses will resume services on schedule: SLTB",
     "file_name": "/tmp/news_lk2/articles/89/89e7174a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9a\u0bb2\u0bc2\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbe\u0ba9\u0bcd-\u0ba8\u0bc1\u0bb4\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd-\u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b85\u0b9a\u0bae\u0bcd\u0baa\u0bbe\u0bb5\u0bbf\u0ba4\u0bae\u0bcd/76-302307",
+    "time_ut": 1660476207,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb2\u0bc2\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0bb5\u0bbe\u0ba9\u0bcd \u0ba8\u0bc1\u0bb4\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b85\u0b9a\u0bae\u0bcd\u0baa\u0bbe\u0bb5\u0bbf\u0ba4\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/81/81406f13.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -320,6 +528,14 @@
     "file_name": "/tmp/news_lk2/articles/7c/7c792809.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd/175-302299",
+    "time_ut": 1660472948,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c2/c2ec28ac.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbd\u0dd2-\u0dc0\u0dd0\u0da7-\u0dc4\u0daf\u0db1\u0dca\u0db1-\u0d9c\u0dd9\u2063\u0db1\u0dcf-\u0db6\u0da9\u0dd4-\u2019\u2019\u0dc3\u0dd4\u0daf\u0dd4-\u0d85\u0dbd\u0dd2\u2019\u2019-\u0dc0\u0dd9\u0dbd\u0dcf/1-618074",
     "time_ut": 1660472902,
@@ -344,6 +560,30 @@
     "file_name": "/tmp/news_lk2/articles/b7/b76b0769.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-bakers-want-price-controls-on-poultry-farmers-in-shortage-solution-98548/",
+    "time_ut": 1660471500,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s bakers want price controls on poultry farmers in shortage solution",
+    "file_name": "/tmp/news_lk2/articles/fc/fce1e845.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0ba9\u0ba4\u0bc1-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b87\u0ba9\u0bcd\u0ba9\u0bc1\u0bae\u0bcd-\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0b9f\u0bc8\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/175-302298",
+    "time_ut": 1660471272,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0ba9\u0ba4\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0ba9\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0b9f\u0bc8\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/a8/a8d69828.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-should-focus-on-locally-sourcing-animal-products-poultry-association-98549/",
+    "time_ut": 1660471260,
+    "original_lang": "en",
+    "original_title": "Sri Lanka should focus on locally sourcing animal products: poultry association",
+    "file_name": "/tmp/news_lk2/articles/88/88b725ce.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dbb\u0dca\u0dc0-\u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0da7-\u0dc3\u0dc4\u0dcf\u0dba-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0dc1\u0dca\u200d\u0dbb\u0dd3\u0dbd\u0db1\u0dd2\u0db4\u0dd9\u0db1\u0dca-\u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2/11-396281",
     "time_ut": 1660469696,
@@ -352,12 +592,28 @@
     "file_name": "/tmp/news_lk2/articles/96/968026e4.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/100-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4-\u0baa\u0bb8\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0bae\u0bcd/175-302297",
+    "time_ut": 1660468982,
+    "original_lang": "ta",
+    "original_title": "100 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4 \u0baa\u0bb8\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/7b/7bf3d724.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf-\u0dad\u0dbb\u0d9c\u0dd9\u0da7-\u0d9c\u0dd2\u0dba-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dcf-\u0daf\u0dd0\u0daf\u0dd4\u0dbb\u0dd4-\u0d94\u0dba\u0da7-\u0db6\u0dd2\u0dbd\u0dd2/1-618071",
     "time_ut": 1660468506,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0dad\u0dbb\u0d9c\u0dd9\u0da7 \u0d9c\u0dd2\u0dba \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dcf \u0daf\u0dd0\u0daf\u0dd4\u0dbb\u0dd4 \u0d94\u0dba\u0da7 \u0db6\u0dd2\u0dbd\u0dd2",
     "file_name": "/tmp/news_lk2/articles/a8/a881ed36.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0baa\u0bbe\u0ba3\u0ba8\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb2\u0bc8-\u0ba8\u0b9f\u0ba8\u0bcd\u0ba4-\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0b9a\u0bcd-\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd/95-302295",
+    "time_ut": 1660467781,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0ba3\u0ba8\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb2\u0bc8 \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4 \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0b9a\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/01/01562be3.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -374,6 +630,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dd0\u0dba\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dad\u0dc0 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 20\u0d9a\u0dca \u0daf\u0dd2\u0d9c\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/76/7689a32b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-1-hour-20-minutes-of-power-cuts-for-aug-15-16-98544/",
+    "time_ut": 1660466640,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules 1 hour 20 minutes of power cuts for Aug 15, 16",
+    "file_name": "/tmp/news_lk2/articles/14/1430b111.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -422,6 +686,22 @@
     "original_lang": "si",
     "original_title": "\u0dc4\u0dd9\u0da7 \u0dc4\u0dcf \u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 80\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/9c/9cf4b2df.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-lifts-ban-on-six-tamil-diaspora-groups-316-individuals-report-98542/",
+    "time_ut": 1660464420,
+    "original_lang": "en",
+    "original_title": "Sri Lanka lifts ban on six Tamil diaspora groups, 316 individuals: report",
+    "file_name": "/tmp/news_lk2/articles/8f/8faf4af7.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-and-undp-in-talks-to-help-those-made-vulnerable-by-soft-peg-98543/",
+    "time_ut": 1660464360,
+    "original_lang": "en",
+    "original_title": "Sri Lanka and UNDP in talks to help those made vulnerable by soft-peg",
+    "file_name": "/tmp/news_lk2/articles/46/46cf65e6.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -486,6 +766,14 @@
     "original_lang": "en",
     "original_title": "Cardinal calls for a fresh probe on Easter attack",
     "file_name": "/tmp/news_lk2/articles/37/37ad8cb4.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/ICTA-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd/175-302292",
+    "time_ut": 1660461547,
+    "original_lang": "ta",
+    "original_title": "ICTA \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd.",
+    "file_name": "/tmp/news_lk2/articles/54/545af311.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -592,6 +880,22 @@
     "file_name": "/tmp/news_lk2/articles/6d/6d0ac276.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/explainer-sri-lankas-electricity-tariff-hike-and-how-it-works-98500/",
+    "time_ut": 1660457460,
+    "original_lang": "en",
+    "original_title": "Explainer: Sri Lanka\u2019s electricity tariff hike and how it works",
+    "file_name": "/tmp/news_lk2/articles/15/1525f393.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0b9f\u0bc8-\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b86\u0bb1\u0bc1-\u0baa\u0bc1\u0bb2\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd-\u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd/175-302288",
+    "time_ut": 1660457228,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0b9f\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b86\u0bb1\u0bc1 \u0baa\u0bc1\u0bb2\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/da/da6a7631.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/14/vehicle-fleets-can-use-bri-for-fuel-pass/",
     "time_ut": 1660456860,
@@ -600,12 +904,28 @@
     "file_name": "/tmp/news_lk2/articles/c9/c9909bd9.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/move-to-pay-117-mn-in-compensation-to-victimised-sri-lanka-officials-report-98511/",
+    "time_ut": 1660456680,
+    "original_lang": "en",
+    "original_title": "Move to pay 117 mn in compensation to \u201cvictimised\u201d Sri Lanka officials: report",
+    "file_name": "/tmp/news_lk2/articles/78/78513ae0.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0db6\u0dca\u200d\u0dbb\u0dc3\u0dd3\u0dbd\u0dba\u0dda-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0daf\u0dc4\u0dc3\u0dca-\u0d9c\u0dab\u0db1\u0d9a\u0dca-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0dba\u0dda/3-396268",
     "time_ut": 1660456570,
     "original_lang": "si",
     "original_title": "\u0db6\u0dca\u200d\u0dbb\u0dc3\u0dd3\u0dbd\u0dba\u0dda \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0daf\u0dc4\u0dc3\u0dca \u0d9c\u0dab\u0db1\u0d9a\u0dca \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0dba\u0dda",
     "file_name": "/tmp/news_lk2/articles/f7/f726002f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0b9a\u0baf-\u0b95\u0bcb\u0bb4\u0bbf\u0b95\u0bcd-\u0b95\u0bc1\u0b9e\u0bcd\u0b9a\u0bc1/71-302287",
+    "time_ut": 1660456338,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b9a\u0baf \u0b95\u0bcb\u0bb4\u0bbf\u0b95\u0bcd \u0b95\u0bc1\u0b9e\u0bcd\u0b9a\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/b9/b9b0e9e2.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -640,6 +960,14 @@
     "file_name": "/tmp/news_lk2/articles/62/62e00cda.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd-\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd/175-302283",
+    "time_ut": 1660454194,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/78/788ad2de.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Sapugaskanda-refinery-to-resume-operation-mid-next-week/342-242997",
     "time_ut": 1660454110,
@@ -654,6 +982,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 3\u0da7 \u0dc0\u0db1 \u0d85\u0dbd\u0dd2 \u0db8\u0dbb\u0dab 1110\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/26/26d1f8dd.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4-\u0b87\u0bb0\u0bc1-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-302282",
+    "time_ut": 1660453805,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/fe/feca54bb.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -696,6 +1032,14 @@
     "file_name": "/tmp/news_lk2/articles/c6/c657bdcb.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0ba8\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bcd-\u0b89\u0bb1\u0bcd\u0b9a\u0bb5\u0bae\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc1\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0ba4\u0bcd\u0ba4\u0ba9\u0bae\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/71-302280",
+    "time_ut": 1660451843,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bcd \u0b89\u0bb1\u0bcd\u0b9a\u0bb5\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0ba4\u0bcd\u0ba4\u0ba9\u0bae\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/bf/bfcb3863.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/14/sri-lanka-lifts-ban-on-six-proscribed-organizations/",
     "time_ut": 1660451640,
@@ -712,12 +1056,60 @@
     "file_name": "/tmp/news_lk2/articles/97/9780363e.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1-\u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bcb\u0b9a\u0b9f\u0bbf-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4-\u0ba8\u0baa\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/76-302279",
+    "time_ut": 1660450874,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bcb\u0b9a\u0b9f\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/89/890f4766.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1-\u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc8-\u0b8f\u0bb1\u0bcd\u0b95\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bcb\u0bae\u0bcd/76-302278",
+    "time_ut": 1660450391,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0b95\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bcb\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/fd/fd571188.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Prices-of-bakery-products-could-be-lowered-drastically-if-govt-intervenes-Bakery-owners-Assn/342-242993",
     "time_ut": 1660450072,
     "original_lang": "en",
     "original_title": "Prices of bakery products  could be lowered drastically, if govt. intervenes: Bakery owners Assn",
     "file_name": "/tmp/news_lk2/articles/e2/e2fda0cf.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b9a\u0b95\u0bc1-\u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd-\u0bae\u0bbe\u0ba4\u0bbf\u0bb0\u0bbf-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0baa\u0bb0\u0bbf\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8/175-302275",
+    "time_ut": 1660447963,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b9a\u0b95\u0bc1 \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd \u0bae\u0bbe\u0ba4\u0bbf\u0bb0\u0bbf \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bb0\u0bbf\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/e2/e2c6485b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b95-\u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0bae\u0bca\u0ba9\u0bb0\u0bbe\u0b95\u0bb2\u0bc8-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/76-302274",
+    "time_ut": 1660447949,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bca\u0ba9\u0bb0\u0bbe\u0b95\u0bb2\u0bc8 \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/3d/3d88a56b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba8\u0bb2\u0ba9\u0bcd-\u0b95\u0bb0\u0bc1\u0ba4\u0bbf-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0b8e\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd-\u0b89\u0ba4\u0baf\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd/76-302273",
+    "time_ut": 1660447009,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bb2\u0ba9\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bbf \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd: \u0b89\u0ba4\u0baf\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/11/1133a293.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-jet-fuel-shortages-costing-srilankan-airlines-us7mmn-a-month-98499/",
+    "time_ut": 1660446660,
+    "original_lang": "en",
+    "original_title": "Sri Lanka jet fuel shortages costing SriLankan Airlines US$7mmn a month",
+    "file_name": "/tmp/news_lk2/articles/44/4462428f.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -744,12 +1136,36 @@
     "file_name": "/tmp/news_lk2/articles/5f/5f17f974.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302271",
+    "time_ut": 1660442992,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/e1/e18dea11.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Two-Sri-Lankan-nationals-arrested-on-robbery-charge-in-Chennai/108-242991",
     "time_ut": 1660442874,
     "original_lang": "en",
     "original_title": "Two Sri Lankan nationals arrested on robbery charge in Chennai",
     "file_name": "/tmp/news_lk2/articles/24/242bbdc8.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0ba8\u0bbe-\u0bae\u0ba9\u0bbf\u0ba4-\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd-\u0baa\u0bc7\u0bb0\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-302269",
+    "time_ut": 1660440790,
+    "original_lang": "ta",
+    "original_title": "\u0b90.\u0ba8\u0bbe \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/4c/4c07e8a8.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0baf\u0bc8-\u0ba4\u0bb5\u0bb1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1/175-302268",
+    "time_ut": 1660421870,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0baf\u0bc8 \u0ba4\u0bb5\u0bb1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/97/9796202e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -776,12 +1192,36 @@
     "file_name": "/tmp/news_lk2/articles/70/7043d63a.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0b87\u0bb0\u0bb5\u0bc1-\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd/175-302255",
+    "time_ut": 1660401201,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0bb0\u0bb5\u0bc1 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/bf/bfd994c3.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/13/there-cannot-be-two-rules-cardinal/",
     "time_ut": 1660401000,
     "original_lang": "en",
     "original_title": "There cannot be two rules \u2013 Cardinal",
     "file_name": "/tmp/news_lk2/articles/ed/ed58f009.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-coconut-auction-prices-continue-to-climb-98494/",
+    "time_ut": 1660401000,
+    "original_lang": "en",
+    "original_title": "Sri Lanka coconut auction prices continue to climb",
+    "file_name": "/tmp/news_lk2/articles/24/24cc2027.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/chinese-tracking-vessel-cleared-to-dock-at-sri-lankas-hambantota-port-98495/",
+    "time_ut": 1660399680,
+    "original_lang": "en",
+    "original_title": "Chinese tracking vessel cleared to dock at Sri Lanka\u2019s Hambantota Port",
+    "file_name": "/tmp/news_lk2/articles/7f/7ffdcdda.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -912,6 +1352,30 @@
     "file_name": "/tmp/news_lk2/articles/f3/f3065cbd.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-looking-to-provide-relief-to-bona-fide-protestors-justice-minister-98485/",
+    "time_ut": 1660381200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka looking to provide relief to bona fide protestors: justice minister",
+    "file_name": "/tmp/news_lk2/articles/a3/a3882035.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-chicken-egg-prices-soar-due-to-demand-spike-animal-feed-shortage-98486/",
+    "time_ut": 1660380240,
+    "original_lang": "en",
+    "original_title": "Sri Lanka chicken, egg prices soar due to demand spike, animal feed shortage",
+    "file_name": "/tmp/news_lk2/articles/4c/4cecc007.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-imprisoned-ex-mps-presidential-pardon-likely-after-court-vacation-lawyer-98484/",
+    "time_ut": 1660377240,
+    "original_lang": "en",
+    "original_title": "Sri Lanka imprisoned ex MP\u2019s presidential pardon likely after court vacation: lawyer",
+    "file_name": "/tmp/news_lk2/articles/a7/a783dc74.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/features/\u0dc4\u0ddc\u0db3-\u0db1\u0dbb\u0d9a\u0da7-\u0db1\u0dbb\u0d9a-\u0dc4\u0ddc\u0db3\u0da7-\u0dc4\u0dbb\u0dc0\u0db1\u0dca\u0db1\u0ddd/2-618042",
     "time_ut": 1660369674,
@@ -926,6 +1390,14 @@
     "original_lang": "si",
     "original_title": "\u0d9c\u0dcf\u0dbd\u0dd4 \u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb \u0d85\u0dbb\u0d9c\u0dbd\u0dba \u0dbb\u0da7\u0da7 \u0daf\u0dd4\u0db1\u0dca \u0db4\u0dab\u0dd2\u0dc0\u0dd2\u0da9\u0dba",
     "file_name": "/tmp/news_lk2/articles/ec/ec6a4acf.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/india-gifts-dornier-228-maritime-patrol-aircraft-to-sri-lanka-air-force-98482/",
+    "time_ut": 1660369080,
+    "original_lang": "en",
+    "original_title": "India gifts Dornier 228 maritime patrol aircraft to Sri Lanka Air Force",
+    "file_name": "/tmp/news_lk2/articles/ed/ed90b98d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -944,12 +1416,28 @@
     "file_name": "/tmp/news_lk2/articles/fc/fcde0fb6.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-permits-entry-to-controversial-chinese-tracking-vessel-yuang-wang-5-98481/",
+    "time_ut": 1660364040,
+    "original_lang": "en",
+    "original_title": "Sri Lanka permits entry to controversial Chinese tracking vessel Yuang Wang 5",
+    "file_name": "/tmp/news_lk2/articles/4d/4d7c5f55.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/top_story/SL-grants-permission-for-entry-of-Chinese-tracking-vessel/155-242982",
     "time_ut": 1660361459,
     "original_lang": "en",
     "original_title": "SL grants permission for entry of Chinese tracking vessel",
     "file_name": "/tmp/news_lk2/articles/31/312ba20c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-free-trade-zone-manufacturers-alarmed-by-electricity-tariff-hike-98474/",
+    "time_ut": 1660358580,
+    "original_lang": "en",
+    "original_title": "Sri Lanka free trade zone manufacturers alarmed by electricity tariff hike",
+    "file_name": "/tmp/news_lk2/articles/1b/1b84d885.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
@@ -974,6 +1462,22 @@
     "original_lang": "en",
     "original_title": "\u201cDadayama\u201d(The Hunt)\u201d : Versatile  Filmmaker Vasantha Obeysekera\u2019s Milestone Movie",
     "file_name": "/tmp/news_lk2/articles/ab/ab00f2c0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/22A-Composition-of-CC-problematic-ensures-Government-domination/4-738641",
+    "time_ut": 1660333459,
+    "original_lang": "en",
+    "original_title": "22A: Composition of CC problematic; ensures Government domination",
+    "file_name": "/tmp/news_lk2/articles/65/65219396.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Fallout-of-a-showdown/4-738640",
+    "time_ut": 1660333366,
+    "original_lang": "en",
+    "original_title": "Fallout of a showdown",
+    "file_name": "/tmp/news_lk2/articles/df/df79cebe.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -1040,6 +1544,86 @@
     "file_name": "/tmp/news_lk2/articles/e2/e2bdccc7.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Prime-Minister-urges-UNDP-assistance-to-develop-small-and-medium-sector-enterprises/56-738631",
+    "time_ut": 1660330217,
+    "original_lang": "en",
+    "original_title": "Prime Minister urges UNDP assistance to develop small and medium sector enterprises",
+    "file_name": "/tmp/news_lk2/articles/99/9934ed23.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Kandy-Esala-Perahera-concludes-successfully/56-738630",
+    "time_ut": 1660330178,
+    "original_lang": "en",
+    "original_title": "Kandy Esala Perahera concludes successfully",
+    "file_name": "/tmp/news_lk2/articles/ca/ca5a1d57.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SC-grants-leave-to-proceed-in-CPA-case-against-Emergency/56-738629",
+    "time_ut": 1660330093,
+    "original_lang": "en",
+    "original_title": "SC grants leave to proceed in CPA case against Emergency",
+    "file_name": "/tmp/news_lk2/articles/cf/cf08971b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Pakistan-naval-ship-PNS-Taimur-arrives-at-Colombo-Port/56-738628",
+    "time_ut": 1660330053,
+    "original_lang": "en",
+    "original_title": "Pakistan naval ship PNS Taimur arrives at Colombo Port",
+    "file_name": "/tmp/news_lk2/articles/1f/1f971fdc.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SC-grants-leave-to-proceed-on-FR-cases-against-Emergency/56-738627",
+    "time_ut": 1660330007,
+    "original_lang": "en",
+    "original_title": "SC grants leave to proceed on FR cases against Emergency",
+    "file_name": "/tmp/news_lk2/articles/0f/0ff0c186.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/UNDP-Sri-Lanka-launches-two-programs-calling-young-innovators-to-act-on-climate-change/34-738626",
+    "time_ut": 1660329983,
+    "original_lang": "en",
+    "original_title": "UNDP Sri Lanka launches two programs calling young innovators to act on climate change",
+    "file_name": "/tmp/news_lk2/articles/c7/c739e4a5.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/LMD-ranks-ComBank-the-Most-Respected-Bank-in-Sri-Lanka-for-18th-year/34-738625",
+    "time_ut": 1660329887,
+    "original_lang": "en",
+    "original_title": "LMD ranks ComBank the Most Respected Bank in Sri Lanka for 18th year",
+    "file_name": "/tmp/news_lk2/articles/f1/f1bbcebe.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/NDB-Wealth-Money-Fund-encourages-financial-planning-practices/34-738624",
+    "time_ut": 1660329880,
+    "original_lang": "en",
+    "original_title": "NDB Wealth Money Fund encourages financial planning practices",
+    "file_name": "/tmp/news_lk2/articles/44/446fc9cf.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Lest-we-forget-not-Gotabaya-Rajapaksa-but-the-political-system-failed-the-country/4-738616",
+    "time_ut": 1660329068,
+    "original_lang": "en",
+    "original_title": "Lest we forget, not Gotabaya Rajapaksa, but the political system failed the country",
+    "file_name": "/tmp/news_lk2/articles/a6/a6ff6c9c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Dollar-chase-Reforms-and-audits/4-738615",
+    "time_ut": 1660328940,
+    "original_lang": "en",
+    "original_title": "Dollar chase: Reforms and audits",
+    "file_name": "/tmp/news_lk2/articles/f9/f9a9b109.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/front_page/Those-who-could-not-work-in-Ypalana-Govt-with-Ranil-as-PM-now-trying-to-secure-positions-MP-Dayasiri/238-242946",
     "time_ut": 1660324674,
@@ -1104,6 +1688,62 @@
     "file_name": "/tmp/news_lk2/articles/f9/f9712eda.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Expedite-action-against-X-Press-Pearl-disaster-Wijeyadasa-tells-officials/56-738598",
+    "time_ut": 1660254230,
+    "original_lang": "en",
+    "original_title": "Expedite action against X-Press Pearl disaster, Wijeyadasa tells officials",
+    "file_name": "/tmp/news_lk2/articles/f1/f1f2e520.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/AKD-fires-off-missive-to-PresidentRanil/56-738597",
+    "time_ut": 1660254106,
+    "original_lang": "en",
+    "original_title": "AKD fires off missive to President\u00a0Ranil",
+    "file_name": "/tmp/news_lk2/articles/60/6046e0c6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Dilan-blames-elitist-group-for-Aragalaya-fizzling-out/56-738596",
+    "time_ut": 1660253765,
+    "original_lang": "en",
+    "original_title": "Dilan blames elitist group for Aragalaya fizzling out",
+    "file_name": "/tmp/news_lk2/articles/b6/b65d0363.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Japan-provides-Rs-761-m-grant-aid-for-Human-Resource-Development-Scholarship-project/56-738595",
+    "time_ut": 1660253670,
+    "original_lang": "en",
+    "original_title": "Japan provides Rs. 761 m grant aid for Human Resource Development Scholarship project",
+    "file_name": "/tmp/news_lk2/articles/2f/2f6a564f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/JAT-Holdings-posts-highest-ever-revenue-for-1Q-amidst-economic-crisis/34-738594",
+    "time_ut": 1660253067,
+    "original_lang": "en",
+    "original_title": "JAT Holdings posts highest-ever revenue for 1Q amidst economic crisis",
+    "file_name": "/tmp/news_lk2/articles/01/014e0a7c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Vidullanka-reports-Rs-218-m-PAT-for-1Q/34-738593",
+    "time_ut": 1660252473,
+    "original_lang": "en",
+    "original_title": "Vidullanka reports  Rs. 218 m PAT for 1Q",
+    "file_name": "/tmp/news_lk2/articles/96/96471cb5.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Sunshine-Healthcare-appoints-T-Sayandhan-as-CEO-of-Lina-Manufacturing/34-738592",
+    "time_ut": 1660252238,
+    "original_lang": "en",
+    "original_title": "Sunshine Healthcare appoints T. Sayandhan as CEO of Lina Manufacturing",
+    "file_name": "/tmp/news_lk2/articles/31/31195ea7.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/We-must-learn-to-survive-Hiran-Cooray/172-242896",
     "time_ut": 1660252228,
@@ -1120,12 +1760,68 @@
     "file_name": "/tmp/news_lk2/articles/4c/4c40092b.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/AmCham-Sri-Lanka-hosts-US-member-roundtable-with-Ambassador/34-738591",
+    "time_ut": 1660251589,
+    "original_lang": "en",
+    "original_title": "AmCham Sri Lanka hosts US member roundtable with Ambassador",
+    "file_name": "/tmp/news_lk2/articles/c2/c2539e11.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Like-Pharaoh-Israel-also-kills-children/172-242894",
     "time_ut": 1660251548,
     "original_lang": "en",
     "original_title": "Like Pharaoh, Israel also kills children",
     "file_name": "/tmp/news_lk2/articles/fd/fdfe2e2b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Energy-Minister-applauds-LIOC-for-its-contribution-to-sector-development/34-738590",
+    "time_ut": 1660251232,
+    "original_lang": "en",
+    "original_title": "Energy Minister applauds LIOC for its contribution to sector development",
+    "file_name": "/tmp/news_lk2/articles/e7/e7aa8131.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Sri-Lanka-Pakistan-Business-Council-hosts-interactive-session/34-738589",
+    "time_ut": 1660251086,
+    "original_lang": "en",
+    "original_title": "Sri Lanka-Pakistan Business Council hosts interactive session",
+    "file_name": "/tmp/news_lk2/articles/89/895f76d8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/National-Chamber-to-host-Malaysian-High-Commissioner-on-16-August/34-738588",
+    "time_ut": 1660250776,
+    "original_lang": "en",
+    "original_title": "National Chamber to host Malaysian High Commissioner on 16 August",
+    "file_name": "/tmp/news_lk2/articles/07/07f31306.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Dismissing-Ranil/4-738580",
+    "time_ut": 1660249730,
+    "original_lang": "en",
+    "original_title": "Dismissing Ranil",
+    "file_name": "/tmp/news_lk2/articles/3b/3b57cc95.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Let-s-take-back-our-nation-before-it-perishes/4-738578",
+    "time_ut": 1660248783,
+    "original_lang": "en",
+    "original_title": "Let\u2019s take back our nation before it perishes",
+    "file_name": "/tmp/news_lk2/articles/a6/a62bea43.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/President-must-withdraw-emergency-as-it-sends-out-a-wrong-message-Prof-Uyangoda/14-738577",
+    "time_ut": 1660248418,
+    "original_lang": "en",
+    "original_title": "\u201cPresident must withdraw emergency as it sends out a wrong message\u201d: Prof. Uyangoda",
+    "file_name": "/tmp/news_lk2/articles/68/685b8e6d.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -1224,6 +1920,142 @@
     "file_name": "/tmp/news_lk2/articles/6b/6b28847e.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-food-prices-down-over-open-account-imports-minister-98427/",
+    "time_ut": 1660184160,
+    "original_lang": "en",
+    "original_title": "Sri Lanka food prices down over open account imports: Minister",
+    "file_name": "/tmp/news_lk2/articles/6b/6b8f4c2e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Supporting-Effective-Dispute-Resolution-project-completes-phase-1-of-Active-Citizens-program/56-738552",
+    "time_ut": 1660178948,
+    "original_lang": "en",
+    "original_title": "Supporting Effective Dispute Resolution project completes phase 1 of Active Citizens program",
+    "file_name": "/tmp/news_lk2/articles/c0/c0889f6e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/WFP-welcomes-Norway-s-support-to-address-rising-food-insecurity-in-SL/56-738551",
+    "time_ut": 1660178798,
+    "original_lang": "en",
+    "original_title": "WFP welcomes Norway\u2019s support to address rising food insecurity in SL",
+    "file_name": "/tmp/news_lk2/articles/c0/c081884c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Community-Kitchen-hosted-by-Rotary-Club-of-Colombo-Mid-Town-and-Meal-Care/56-738550",
+    "time_ut": 1660178785,
+    "original_lang": "en",
+    "original_title": "Community Kitchen hosted by Rotary Club of Colombo Mid Town and Meal Care",
+    "file_name": "/tmp/news_lk2/articles/51/51102d92.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/AmCham-SL-and-Habitat-for-Humanity-join-hands-for-Humanitarian-Emergency-Relief-mission/56-738549",
+    "time_ut": 1660178731,
+    "original_lang": "en",
+    "original_title": "AmCham SL and Habitat for Humanity join hands for Humanitarian Emergency Relief mission",
+    "file_name": "/tmp/news_lk2/articles/d2/d2bac5bc.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/UNFPA-Japan-provide-medication-to-bridge-gap-in-critical-sexual-reproductive-health-needs/56-738548",
+    "time_ut": 1660178558,
+    "original_lang": "en",
+    "original_title": "UNFPA, Japan provide medication to bridge gap in critical sexual, reproductive health needs",
+    "file_name": "/tmp/news_lk2/articles/8c/8c8117ec.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Israel-plays-with-fire/14-738541",
+    "time_ut": 1660177713,
+    "original_lang": "en",
+    "original_title": "Israel plays with fire",
+    "file_name": "/tmp/news_lk2/articles/33/339b6f25.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-President-IMF-and-system-change/4-738540",
+    "time_ut": 1660177635,
+    "original_lang": "en",
+    "original_title": "The President, IMF and system change",
+    "file_name": "/tmp/news_lk2/articles/d5/d51ed6ac.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Union-Bank-wins-Most-Campaign-Partnerships-award-from-Daraz/34-738537",
+    "time_ut": 1660176674,
+    "original_lang": "en",
+    "original_title": "Union Bank wins Most Campaign Partnerships award from Daraz",
+    "file_name": "/tmp/news_lk2/articles/91/91176699.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/HNBGI-holds-series-of-mini-awards-ceremonies/34-738536",
+    "time_ut": 1660176608,
+    "original_lang": "en",
+    "original_title": "HNBGI holds series of mini awards ceremonies",
+    "file_name": "/tmp/news_lk2/articles/7e/7e5de802.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Union-Assurance-wins-top-accolades-for-Most-Comprehensive-Health-Insurance-Solution-Health-360/34-738535",
+    "time_ut": 1660176539,
+    "original_lang": "en",
+    "original_title": "Union Assurance wins top accolades for Most Comprehensive Health Insurance Solution Health 360",
+    "file_name": "/tmp/news_lk2/articles/b2/b297dc97.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Kitchen-Bedroom-Group-CEO-conferred-with-Doctorate-in-Interior-Designing/34-738534",
+    "time_ut": 1660176373,
+    "original_lang": "en",
+    "original_title": "Kitchen & Bedroom Group CEO conferred with Doctorate in Interior Designing",
+    "file_name": "/tmp/news_lk2/articles/23/236f23d0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Dialog-Smart-Home-brings-you-a-Smart-Security-Doorbell-to-ensure-the-security-of-your-home/34-738533",
+    "time_ut": 1660176301,
+    "original_lang": "en",
+    "original_title": "Dialog Smart Home brings you a Smart Security Doorbell to ensure the security of your home",
+    "file_name": "/tmp/news_lk2/articles/ca/ca192e0b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Informative-webinar-on-opportunities-in-Israeli-market/34-738532",
+    "time_ut": 1660176288,
+    "original_lang": "en",
+    "original_title": "Informative webinar on opportunities in Israeli market",
+    "file_name": "/tmp/news_lk2/articles/b6/b6afb293.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Sri-Lanka-s-top-textile-maker-Teejay-knits-strong-start-to-FY23/34-738531",
+    "time_ut": 1660176173,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s top textile maker Teejay  knits strong start to FY23",
+    "file_name": "/tmp/news_lk2/articles/28/28204d42.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Wijeyadasa-presents-22A-to-Parliament/56-738530",
+    "time_ut": 1660176034,
+    "original_lang": "en",
+    "original_title": "Wijeyadasa presents 22A to Parliament",
+    "file_name": "/tmp/news_lk2/articles/50/50972b83.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/BASL-calls-on-IGP-to-ensure-all-arrests-happen-according-to-legal-procedures/56-738529",
+    "time_ut": 1660175943,
+    "original_lang": "en",
+    "original_title": "BASL calls on IGP to ensure all arrests happen according to legal procedures",
+    "file_name": "/tmp/news_lk2/articles/d7/d7990ab2.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/China-and-India-Friendship-andfriendship/172-242817",
     "time_ut": 1660161440,
@@ -1256,6 +2088,30 @@
     "file_name": "/tmp/news_lk2/articles/7a/7a9d70d1.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-sapugaskanda-oil-refinery-to-resume-operations-on-aug-15-minister-98409/",
+    "time_ut": 1660125360,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s Sapugaskanda oil refinery to resume operations on Aug 15: minister",
+    "file_name": "/tmp/news_lk2/articles/15/15e14cec.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/japan-halts-12-jaica-projects-in-sri-lanka-until-imf-provides-roadmap-minister-98408/",
+    "time_ut": 1660121340,
+    "original_lang": "en",
+    "original_title": "Japan halts 12 JAICA projects in Sri Lanka until IMF provides roadmap: minister",
+    "file_name": "/tmp/news_lk2/articles/5d/5dc9dc2a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/unfpa-appeals-for-over-10-million-dollars-to-assist-sri-lankas-vulnerable-women-98406/",
+    "time_ut": 1660117440,
+    "original_lang": "en",
+    "original_title": "UNFPA appeals for over 10 million dollars to assist Sri Lanka\u2019s vulnerable women",
+    "file_name": "/tmp/news_lk2/articles/f1/f186ce63.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lankas-ousted-president-expected-to-go-to-Thailand-sources/108-242793",
     "time_ut": 1660115273,
@@ -1278,6 +2134,102 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0dc3\u0db8\u0dca\u0db8\u0dd4\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dca\u0db8\u0dd4\u0dad\u0dd2\u0dba\u0da7 \u0d87\u0dc0\u0dd2\u0dad\u0dca \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba \u0db1\u0d82\u0dc0\u0db8\u0dd4",
     "file_name": "/tmp/news_lk2/articles/17/17266770.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-air-travellers-warned-of-confiscation-fines-by-customs-98399/",
+    "time_ut": 1660100820,
+    "original_lang": "en",
+    "original_title": "Sri Lanka air travellers warned of confiscation, fines by Customs",
+    "file_name": "/tmp/news_lk2/articles/96/960228c8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Eastern-Brokers-sets-all-time-record-price-for-Luckyland-Estate/34-738509",
+    "time_ut": 1660088721,
+    "original_lang": "en",
+    "original_title": "Eastern Brokers sets all-time record price for Luckyland Estate",
+    "file_name": "/tmp/news_lk2/articles/c9/c9cd5888.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Gunawardana-Tea-Factory-celebrates-yet-another-all-time-record-price/34-738508",
+    "time_ut": 1660088656,
+    "original_lang": "en",
+    "original_title": "Gunawardana Tea Factory celebrates yet another all-time record price",
+    "file_name": "/tmp/news_lk2/articles/a0/a0734ead.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Eastern-Brokers-sets-all-time-record-price-for-Uva-Highlands-Estate-at-Colombo-Tea-Auctions/34-738507",
+    "time_ut": 1660088599,
+    "original_lang": "en",
+    "original_title": "Eastern Brokers sets all-time record price for Uva Highlands Estate at Colombo Tea Auctions",
+    "file_name": "/tmp/news_lk2/articles/66/66149868.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/St-James-achieves-highest-price-for-Uva-Pekoe1/34-738506",
+    "time_ut": 1660088539,
+    "original_lang": "en",
+    "original_title": "St. James achieves highest price for Uva Pekoe1",
+    "file_name": "/tmp/news_lk2/articles/d3/d3e36d33.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Avissawella-Tea-Factory-establishes-new-record-price-for-BOP1-grade/34-738505",
+    "time_ut": 1660088464,
+    "original_lang": "en",
+    "original_title": "Avissawella Tea Factory establishes new record price for BOP1 grade",
+    "file_name": "/tmp/news_lk2/articles/ac/ac8cc10e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Varna-Packaging-strengthens-competitive-edge-with-BOBST-NOVA-D-800-Laminator/34-738504",
+    "time_ut": 1660088302,
+    "original_lang": "en",
+    "original_title": "Varna Packaging strengthens competitive edge with BOBST NOVA D 800 Laminator",
+    "file_name": "/tmp/news_lk2/articles/79/7918c499.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/JVP-aligned-TUCC-issues-Citizen-s-Edict-against-Govt/56-738503",
+    "time_ut": 1660088124,
+    "original_lang": "en",
+    "original_title": "JVP-aligned TUCC issues \u2018Citizen\u2019s Edict\u2019 against Govt.",
+    "file_name": "/tmp/news_lk2/articles/c3/c37a5a67.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Sri-Lanka-celebrates-55thASEAN-Day/56-738502",
+    "time_ut": 1660088015,
+    "original_lang": "en",
+    "original_title": "Sri Lanka celebrates 55th\u00a0ASEAN Day",
+    "file_name": "/tmp/news_lk2/articles/2b/2b6776b6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SJB-protests-against-Emergency/56-738501",
+    "time_ut": 1660087953,
+    "original_lang": "en",
+    "original_title": "SJB protests against Emergency",
+    "file_name": "/tmp/news_lk2/articles/23/23144f55.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Court-grants-bail-to-8-protesters-including-Damita-and-Ratta/56-738500",
+    "time_ut": 1660087861,
+    "original_lang": "en",
+    "original_title": "Court grants bail to 8 protesters including Damita and Ratta",
+    "file_name": "/tmp/news_lk2/articles/00/0032db3c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/President-makes-first-official-visit-to-Army-HQ-at-Akuregoda/56-738499",
+    "time_ut": 1660087848,
+    "original_lang": "en",
+    "original_title": "President makes first official visit to Army HQ at Akuregoda",
+    "file_name": "/tmp/news_lk2/articles/68/68590e23.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1328,6 +2280,62 @@
     "file_name": "/tmp/news_lk2/articles/7f/7fce83a2.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-teach-japanese-at-school-level-targeting-jobs-in-japan-98391/",
+    "time_ut": 1660048860,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to teach Japanese at school level targeting jobs in Japan",
+    "file_name": "/tmp/news_lk2/articles/85/85ae3654.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-revise-petroleum-law-to-allow-new-distributors-98389/",
+    "time_ut": 1660044060,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to revise petroleum law to allow new distributors",
+    "file_name": "/tmp/news_lk2/articles/94/94a39db6.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-allocate-land-from-13-industrial-zones-for-25-sme-investors-98388/",
+    "time_ut": 1660042500,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to allocate land from 13 industrial zones for 25 SME investors",
+    "file_name": "/tmp/news_lk2/articles/14/142cc0cb.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-revise-water-tariffs-to-reflect-operational-costs-98386/",
+    "time_ut": 1660039560,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to revise water tariffs to reflect operational costs",
+    "file_name": "/tmp/news_lk2/articles/64/64a5c278.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-hikes-electricity-prices-75-pct-after-soft-peg-collapse-98364/",
+    "time_ut": 1660030260,
+    "original_lang": "en",
+    "original_title": "Sri Lanka hikes electricity prices 75-pct after soft-peg collapse",
+    "file_name": "/tmp/news_lk2/articles/36/3681ecc7.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-new-president-to-reallocate-funds-in-interim-budget-98365/",
+    "time_ut": 1660030200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka new president to reallocate funds in interim budget",
+    "file_name": "/tmp/news_lk2/articles/ca/ca14d55a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-cabinet-nod-for-cost-based-cooking-gas-pricing-formula-98360/",
+    "time_ut": 1660026660,
+    "original_lang": "en",
+    "original_title": "Sri Lanka cabinet nod for cost-based cooking gas pricing formula",
+    "file_name": "/tmp/news_lk2/articles/d1/d1569b68.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/visheshanga/\u0d91\u0d9a\u0db8\u0dd4\u0dad\u0dd4\u0dc0-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba-\u0db8\u0ddc\u0dc4\u0ddc\u0dad\u0d9a\u0dca/26-617803",
     "time_ut": 1660020141,
@@ -1342,6 +2350,38 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 \u0dc4\u0dd0\u0da7\u0d9a \u0d9a\u0dd0\u0d9a\u0dd4\u0dc5\u0dd4 \u0dc4\u0dcf\u0dbd\u0dca \u0d9a\u0dd4\u0d9a\u0dd4\u0dc5\u0db1\u0dca\u0da7 \u0daf\u0dd4\u0db1\u0dca \u0db1\u0dbb\u0dd4\u0db8\u0dba\u0ddd",
     "file_name": "/tmp/news_lk2/articles/95/95fd375f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Debt-sustainability-essential-for-fix-SJB-supports-right-economic-policy-Eran/56-738470",
+    "time_ut": 1659996325,
+    "original_lang": "en",
+    "original_title": "Debt sustainability essential for fix; SJB supports right economic policy: Eran",
+    "file_name": "/tmp/news_lk2/articles/24/2436ff36.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Stalin-released-on-bail-after-arrest-draws-outcry/56-738469",
+    "time_ut": 1659996277,
+    "original_lang": "en",
+    "original_title": "Stalin released on bail after arrest draws outcry",
+    "file_name": "/tmp/news_lk2/articles/de/de3fc294.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/The-10th-World-Construction-Symposium-2022-concludes-in-Colombo/34-738466",
+    "time_ut": 1659995993,
+    "original_lang": "en",
+    "original_title": "The 10th World Construction Symposium 2022 concludes in Colombo",
+    "file_name": "/tmp/news_lk2/articles/ca/ca6b42ba.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/SLID-webinar-on-Company-Secretary-in-the-Digital-Age/34-738465",
+    "time_ut": 1659995818,
+    "original_lang": "en",
+    "original_title": "SLID webinar on \u2018Company Secretary in the Digital Age\u2019",
+    "file_name": "/tmp/news_lk2/articles/af/af36987d.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -1400,6 +2440,14 @@
     "file_name": "/tmp/news_lk2/articles/44/4499c031.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-state-run-litro-announces-cooking-gas-price-drop-98350/",
+    "time_ut": 1659961620,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s state-run Litro announces cooking gas price drop",
+    "file_name": "/tmp/news_lk2/articles/7e/7e28cc92.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Govt-permits-to-open-50-new-LIOC-filling-stations/108-242634",
     "time_ut": 1659951392,
@@ -1416,6 +2464,14 @@
     "file_name": "/tmp/news_lk2/articles/6d/6d3fcde6.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-lifts-import-ban-on-glyphosate-98338/",
+    "time_ut": 1659934560,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President lifts import ban on glyphosate",
+    "file_name": "/tmp/news_lk2/articles/9d/9da5d69c.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/visheshanga/\u0daf\u0dd0\u0da9\u0dd2-\u0dad\u0dd3\u0dbb\u0dab-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0db8-\u0db8\u0ddc\u0dc4\u0ddc\u0dad\u0d9a\u0dca/26-617737",
     "time_ut": 1659932888,
@@ -1430,6 +2486,14 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0da9\u0dd4\u0dc0\u0dbd \u0dad\u0ddc\u0d9c \u0db8\u0dd2\u0dbd \u0d85\u0da9\u0dd4\u0dc0\u0dd3\u0db8\u0dda \u0dc0\u0dcf\u0dc3\u0dd2\u0dba \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7\u0dad\u0dca \u0dbd\u0db6\u0dcf\u0daf\u0dd9\u0db1\u0dca\u0db1",
     "file_name": "/tmp/news_lk2/articles/30/3033f6ad.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-should-not-create-a-banking-crisis-in-trying-to-reach-debt-sustainability-eran-98328/",
+    "time_ut": 1659929340,
+    "original_lang": "en",
+    "original_title": "Sri Lanka should not create a banking crisis in trying to reach debt sustainability: Eran",
+    "file_name": "/tmp/news_lk2/articles/c3/c39e7bf1.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
@@ -1478,6 +2542,14 @@
     "original_lang": "en",
     "original_title": "China  says it  is \u201csenseless and unreasonable\u201d to \u201cpressure\u201d Sri Lanka to defer the planned docking of Chinese space and satellite tracking research vessel Yuan Wang 5 at the Hambantota Port citing security concerns, in a thinly veiled reference to India, which has expressed strong objection to Sri Lanka over the planned docking.",
     "file_name": "/tmp/news_lk2/articles/75/75ce1be7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Sunshine-Holdings-records-59-top-line-growth-in-1Q-despite-macro-challenges/34-738393",
+    "time_ut": 1659898926,
+    "original_lang": "en",
+    "original_title": "Sunshine Holdings records 59% top-line growth in 1Q despite macro challenges",
+    "file_name": "/tmp/news_lk2/articles/95/95c1c0b2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1616,6 +2688,62 @@
     "file_name": "/tmp/news_lk2/articles/2e/2e9e85f9.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Port-City-Colombo-SEZ-showcased-at-Commonwealth-Business-Forum-2022-Kigali-Rwanda/34-738365",
+    "time_ut": 1659724973,
+    "original_lang": "en",
+    "original_title": "Port City Colombo SEZ showcased at Commonwealth Business Forum 2022 Kigali, Rwanda",
+    "file_name": "/tmp/news_lk2/articles/3c/3c35041f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/LCB-Finance-opens-Kegalle-Branch/34-738364",
+    "time_ut": 1659724906,
+    "original_lang": "en",
+    "original_title": "LCB Finance opens Kegalle Branch",
+    "file_name": "/tmp/news_lk2/articles/dd/dd42b498.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/BOI-to-host-Partnership-Finder-to-help-investor-find-new-business-partners/34-738363",
+    "time_ut": 1659724857,
+    "original_lang": "en",
+    "original_title": "BOI to host \u201cPartnership Finder\u201d to help investor find new business partners",
+    "file_name": "/tmp/news_lk2/articles/48/48b75d1d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Unilever-launches-all-new-Surf-Excel-2-in-1-laundry-detergent/34-738361",
+    "time_ut": 1659724777,
+    "original_lang": "en",
+    "original_title": "Unilever launches all new Surf Excel 2-in-1 laundry detergent",
+    "file_name": "/tmp/news_lk2/articles/70/702268f8.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/private-buses-on-strike-in-sri-lanka-over-fuel-issue-fare-revision-98247/",
+    "time_ut": 1659694260,
+    "original_lang": "en",
+    "original_title": "Private buses on strike in Sri Lanka over fuel issue, fare revision",
+    "file_name": "/tmp/news_lk2/articles/ed/edadae21.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-hints-on-possible-wealth-tax-for-economic-social-stability-98245/",
+    "time_ut": 1659689580,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President hints on possible wealth tax for economic, social stability",
+    "file_name": "/tmp/news_lk2/articles/30/30d813e9.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-seeks-broader-consensus-for-imf-deal-98229/",
+    "time_ut": 1659679560,
+    "original_lang": "en",
+    "original_title": "Sri Lanka president seeks broader consensus for IMF deal",
+    "file_name": "/tmp/news_lk2/articles/88/88425ecf.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/friday/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda-\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1-\u0db6\u0dc4\u0dd4\u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0dca\u0daf-/122-617623",
     "time_ut": 1659678647,
@@ -1630,6 +2758,22 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0da7\u0da7 \u0db6\u0dbd\u0dcf\u0db4\u0ddc\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4\u0dc0\u0d9a\u0dca \u0d87\u0dad\u0dd2\u0d9a\u0dc5 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9a\u0dad\u0dcf\u0dc0",
     "file_name": "/tmp/news_lk2/articles/e2/e205c50e.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-debt-advisors-looking-at-local-debt-president-98230/",
+    "time_ut": 1659674880,
+    "original_lang": "en",
+    "original_title": "Sri Lanka debt advisors looking at local debt: President",
+    "file_name": "/tmp/news_lk2/articles/c9/c92a8313.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/reset-sri-lanka-reform-conference-by-advocata-institute-98227/",
+    "time_ut": 1659669540,
+    "original_lang": "en",
+    "original_title": "Reset Sri Lanka reform conference by Advocata Institute",
+    "file_name": "/tmp/news_lk2/articles/e8/e86a8b16.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1849,6 +2993,14 @@
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78712",
+    "time_ut": 1659296460,
+    "original_lang": "en",
+    "original_title": "How Kumar Gunaratnam alias \u201cGemunu\u201d Fought a Guerilla War  against the Indian Army in Trinco",
+    "file_name": "/tmp/news_lk2/articles/55/55349e5b.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/78822",
     "time_ut": 1659294360,
     "original_lang": "en",
@@ -1937,11 +3089,27 @@
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/73773",
+    "time_ut": 1658955120,
+    "original_lang": "en",
+    "original_title": "JR Jayewardene, the Kanatte Mass Funeral and the July 1983 Anti-Tamil Pogrom",
+    "file_name": "/tmp/news_lk2/articles/b5/b5842d76.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/78783",
     "time_ut": 1658949840,
     "original_lang": "en",
     "original_title": "India sends \u201cclear message\u201d that it is monitoring the ship\u2019s progress \u201ccarefully\u201d of Chinese space and satellite tracking research vessel \u201cYuan Wang 5\u201d expected to dock in Sri Lanka\u2019s Hambantota port from August 11-17 for \u201creplenishment\u201d but  Sri Lanka Defence Ministry  Spolesman says \u201cWe have no confirmation of such a vessel calling at the Hambantota port,\u201d",
     "file_name": "/tmp/news_lk2/articles/01/01e4622e.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78785",
+    "time_ut": 1658949300,
+    "original_lang": "en",
+    "original_title": "Full Text of Civil Society Statement on attacks and reprisals against peaceful protesters Signed by 165 Individuals and 10 Organizations",
+    "file_name": "/tmp/news_lk2/articles/f4/f4af35f3.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -1976,12 +3144,116 @@
     "file_name": "/tmp/news_lk2/articles/22/22b51c0b.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78753",
+    "time_ut": 1658862360,
+    "original_lang": "en",
+    "original_title": "The International Monetary Fund (IMF) says  Sri Lanka should Commence debt restructuring talks with its bilateral lender China,",
+    "file_name": "/tmp/news_lk2/articles/6b/6b656c7c.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78751",
+    "time_ut": 1658861820,
+    "original_lang": "en",
+    "original_title": "Singapore extends  short-stay visa for Sri Lanka\u2019s deposed president Gotabaya Rajapaksa by a further Fourteen Days Until August 11 Reports  \u201cStraits Times\u201d",
+    "file_name": "/tmp/news_lk2/articles/d6/d673e59b.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78755",
+    "time_ut": 1658861280,
+    "original_lang": "en",
+    "original_title": "Following  dramatic arrest by CID officers aboard a flight to Dubai UAE on 26th, Dhaniz Ali remanded till 5 August by the Colombo Fort Magistrate\u2019s Court; Suspect allegedly entered the Sri Lanka Rupavahini (Television) Corporation (SLRC) premises in Colombo 7 and interfered with its broadcasting",
+    "file_name": "/tmp/news_lk2/articles/14/142c76bc.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78757",
+    "time_ut": 1658860740,
+    "original_lang": "en",
+    "original_title": "Wajira Abeywardana sworn in as the United National Party\u2019s (UNP) National List Parliamentarian in place of Ranil Wickremesinghe; Minister of Education Dr. Susil Premajayantha appointed as the new Leader of the House; Minister of Urban Development and Housing Prasanna Ranatunga  re-appointed Chief Government Whip",
+    "file_name": "/tmp/news_lk2/articles/6d/6de5362c.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78620",
+    "time_ut": 1658778060,
+    "original_lang": "en",
+    "original_title": "Tenacious \u201cAragalaya\u201d (Struggle) of FSP Leader Kumar Gunaratnam Alias Kumar/Kumara.",
+    "file_name": "/tmp/news_lk2/articles/03/038b709a.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78744",
+    "time_ut": 1658775960,
+    "original_lang": "en",
+    "original_title": "President Wickremesinghe said \u2013 and perhaps quite rightly \u2013 after assuming office that he will not permit unlawful occupation of State buildings.He also made a clear distinction between \u2018peaceful dissenters\u2019 and \u2018violent agitators.\u2019Those distinctions were thrown to the winds on Friday.",
+    "file_name": "/tmp/news_lk2/articles/cf/cf621289.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78742",
+    "time_ut": 1658775420,
+    "original_lang": "en",
+    "original_title": "Ranil Wickremesinghe  Staged  one of the all-time great comebacks in politics when Parliament elected him as Sri Lanka\u2019s 8th Executive President.",
+    "file_name": "/tmp/news_lk2/articles/f3/f36b1bd0.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78740",
+    "time_ut": 1658774880,
+    "original_lang": "en",
+    "original_title": "The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.",
+    "file_name": "/tmp/news_lk2/articles/4f/4f93260b.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78738",
+    "time_ut": 1658774340,
+    "original_lang": "en",
+    "original_title": "Indian Prime Minister Narendra Modi sends Congratulatory Message to New Sri Lankan President Ranil Wickremesinghe days after Chinese President Xi Jinping and Russian President Vladimir Putin sent messages; Modi says India would continue to be supportive of the quest of the people of Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/2a/2ae2dc8c.json"
+  },
+  {
     "newspaper_id": "colombo-telegraph-com",
     "url": "https://www.colombotelegraph.com/index.php/president-wickremesinghe-the-current-pohottuwa-government-the-way-forward-a-call-from-citizens/",
     "time_ut": 1658713595,
     "original_lang": "en",
     "original_title": "President Wickremesinghe, The Current Pohottuwa Government & The Way Forward \u2013 A Call From Citizens",
     "file_name": "/tmp/news_lk2/articles/58/586171b0.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78735",
+    "time_ut": 1658690640,
+    "original_lang": "en",
+    "original_title": "Clinging to Ranil-phobia is bad tactics. It has already caused enough damage \u2013 to the opposition. It enabled the obscene travesty of making Dulles Alahapperuma \u2013 a Rajapaksa acolyte for over 25 years \u2013  the standard bearer of the anti-Rajapaksa camp.",
+    "file_name": "/tmp/news_lk2/articles/10/10f49439.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78727",
+    "time_ut": 1658690100,
+    "original_lang": "en",
+    "original_title": "Ambassador Jaliya Wickramasuriya,, His Swanky New Embassy and the Limits of Diplomatic Immunity",
+    "file_name": "/tmp/news_lk2/articles/e5/e5b49c54.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78731",
+    "time_ut": 1658689560,
+    "original_lang": "en",
+    "original_title": "\u201cPresident Wickremesinghe is economically very literate. He knows what has to be done. At times, it has been difficult for him or any other politician to get it done.But, if President Wickremesinghe understands, he can get it done\u201d \u2013 Dr.Indrajit  Coomaraswamy",
+    "file_name": "/tmp/news_lk2/articles/6b/6b60a531.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78733",
+    "time_ut": 1658687940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s New  President  Ranil Wickremesinghe  \u2018swings\u2019 into action on his day one in office to restore law and order and  shows  who is the boss",
+    "file_name": "/tmp/news_lk2/articles/7e/7e993069.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -2008,6 +3280,46 @@
     "file_name": "/tmp/news_lk2/articles/d7/d7d5f553.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78691",
+    "time_ut": 1658432460,
+    "original_lang": "en",
+    "original_title": "Ranil Wickremesinghe\u2019s  election raises hopes that Sri Lanka, which has been in economic and political turmoil for months, will at last regain the political stability required to solve its economic problems. But Mr Wickremesinghe\u2019s chances of success are complicated\u201d- The Economist.",
+    "file_name": "/tmp/news_lk2/articles/32/32d690eb.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78682",
+    "time_ut": 1658431440,
+    "original_lang": "en",
+    "original_title": "It appears that the Aragalaya hijackers have become a law unto themselves and do not seem to respect the rule of law. They expect government leaders to genuflect before them and carry out their commands. This is not Aragalaya.",
+    "file_name": "/tmp/news_lk2/articles/e3/e33bb4c4.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78685",
+    "time_ut": 1658430900,
+    "original_lang": "en",
+    "original_title": "Sajith Denies Allegation that he blocked Karu  Jayasuriya from Entering Parliament by Vetoing Moves by Mayantha  Dissanayake and Harin Fernando to Resign their National List MP Seats  for  Karu to be Appointed",
+    "file_name": "/tmp/news_lk2/articles/3f/3fee4fc3.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78688",
+    "time_ut": 1658430360,
+    "original_lang": "en",
+    "original_title": "The question that is in the minds of observers of the Sri Lankan Aragalaya movement is: Will it go the way of violent populist  movements in other countries in the past or will it have a lasting salutary effect?",
+    "file_name": "/tmp/news_lk2/articles/db/dba7357d.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78681",
+    "time_ut": 1658429820,
+    "original_lang": "en",
+    "original_title": "Thousands of police and troops armed with riot gear  attack  protest  venue  known as Gota Go Gama, beating protesters, destroying tents and arresting nine people. More than 50 people  injured and three people hospitalized  in the attack, according to St John Ambulance",
+    "file_name": "/tmp/news_lk2/articles/83/836af719.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/business/\u0da2\u0dd4\u0db1\u0dd2-\u0db8\u0dcf\u0dc3\u0dba\u0dda-\u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba-\u0dc3\u0dd2\u0dba\u0dba\u0da7-58-9\u0d9a\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/7-395632",
     "time_ut": 1658418178,
@@ -2016,12 +3328,84 @@
     "file_name": "/tmp/news_lk2/articles/3f/3fc84d88.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78673",
+    "time_ut": 1658346060,
+    "original_lang": "en",
+    "original_title": "Army and Police  Crack Down  Aggressively on Galle Face Protest with Brute Force  in the night at 2 am;Tents dismantled, protesters assaulted, at least 8 persons  arrested,agitation site sealed off,lawyers,media denied entry",
+    "file_name": "/tmp/news_lk2/articles/e0/e074e53a.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78675",
+    "time_ut": 1658345520,
+    "original_lang": "en",
+    "original_title": "Military takes control of  presidential secretariat after \u201cbrutally assaulting\u201d  protesters;\u201cthe IT Center,  Disabled Soldiers Tent, Community Kitchen that fed people every day for free, SYU Tent,  Hearing Impaired Tent and the Gate Zero Tent structures  at \u201cGotaGo Gama\u201d demolished",
+    "file_name": "/tmp/news_lk2/articles/4e/4eb39cd6.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78678",
+    "time_ut": 1658345040,
+    "original_lang": "en",
+    "original_title": "18 Sworn in as Cabinet Ministers Before President Ranil Wickremesinghe;GL Peiris Replaced by  Ali Sabry as Foreign Minister; Prime Minister Dinesh Gunawardena Gets Public Administration, Home Affairs, Provincial Councils, and Local Government",
+    "file_name": "/tmp/news_lk2/articles/93/93cfda8f.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78666",
+    "time_ut": 1658343960,
+    "original_lang": "en",
+    "original_title": "Ranil Wickremesinghe Sworn in as 8th Executive President of Sri Lanka;Old cabinet to continue until opposition \u2018ready\u2019 to cooperate in all-party govt;Dinesh Gunawardena Likely to be Prime Ministe",
+    "file_name": "/tmp/news_lk2/articles/26/261e1ec7.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/editorial/\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0dc0\u0d9c\u0d9a\u0dd3\u0db8\u0dca-\u0dc3\u0db8\u0dca\u0db7\u0dcf\u0dbb\u0dba\u0d9a\u0dca/117-616736",
     "time_ut": 1658299832,
     "original_lang": "si",
     "original_title": "\u0db1\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0dc0\u0d9c\u0d9a\u0dd3\u0db8\u0dca \u0dc3\u0db8\u0dca\u0db7\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/16/16eeda63.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78650",
+    "time_ut": 1658258640,
+    "original_lang": "en",
+    "original_title": "Six-time Prime Minister and acting President Ranil Wickremesinghe elected President by the  Sri Lanka Parliament on July 20; Defeats  Dullas Alahapperuma by 134 Votes to 82 While Anura Kumara Dissanayake gets 3 Votes",
+    "file_name": "/tmp/news_lk2/articles/36/36906a5b.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78660",
+    "time_ut": 1658257560,
+    "original_lang": "en",
+    "original_title": "\u201cMy life has been in this Parliament for 45 years . Hence I like to extend a special gratitude to have been honoured with the Presidency by the very  same Parliament.\u201d -President  Ranil Wickremesinghe",
+    "file_name": "/tmp/news_lk2/articles/02/02c31231.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78658",
+    "time_ut": 1658257020,
+    "original_lang": "en",
+    "original_title": "President and United National Party Leader Ranil Wickremesinghe while thanking the majority in Parliament for electing him as the 8th Executive President of the country  invites all political parties in Parliament to join hands for the betterment of the country",
+    "file_name": "/tmp/news_lk2/articles/18/18adeb66.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78656",
+    "time_ut": 1658256120,
+    "original_lang": "en",
+    "original_title": "Protesters intent on harming the armed forces or  public property are  earnestly urged to desist from all forms of violence immediately or be prepared to face consequences as members of the armed forces are legitimately empowered to exercise  force if the situation deems necessary",
+    "file_name": "/tmp/news_lk2/articles/44/44053df3.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78654",
+    "time_ut": 1658255580,
+    "original_lang": "en",
+    "original_title": "Mahinda  Rajapaksa says SLPP Candidate Dullas Alahapperuma was unable  to win the Presidential Elections.\u201cWe presented Dullas. We voted for him, but lost. Somebody has to win,\u201d Mahinda tells media in parliament.",
+    "file_name": "/tmp/news_lk2/articles/e4/e43bccf9.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2040,6 +3424,38 @@
     "file_name": "/tmp/news_lk2/articles/6e/6ed4f376.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78642",
+    "time_ut": 1658172240,
+    "original_lang": "en",
+    "original_title": "Three-way contest for Presidential Election  with Ranil Wickremesinghe, Dullas Alahapperuma and Anura Kumara Dissanayake in the fray after  Sajith Premadasa withdraws bid",
+    "file_name": "/tmp/news_lk2/articles/33/33453388.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78640",
+    "time_ut": 1658171700,
+    "original_lang": "en",
+    "original_title": "Parliament\u2019s role in electing the President When the Office became vacant",
+    "file_name": "/tmp/news_lk2/articles/98/98f1e3ed.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78644",
+    "time_ut": 1658171160,
+    "original_lang": "en",
+    "original_title": "Prime Minister and Acting President Ranil Wickremesinghe issues Special Statement briefly recapping his  multiple achievements during the past 67 days in office.",
+    "file_name": "/tmp/news_lk2/articles/3f/3f0699fd.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78647",
+    "time_ut": 1658170080,
+    "original_lang": "en",
+    "original_title": "A new President will be elected by MPs  through  secret ballot today(July 20) morning in Parliament with a close fight expected among the top two contenders  Wickremesinghe and Alahapperuma in the three-cornered battle.",
+    "file_name": "/tmp/news_lk2/articles/cd/cde8827e.json"
+  },
+  {
     "newspaper_id": "colombo-telegraph-com",
     "url": "https://www.colombotelegraph.com/index.php/obligations-of-225-mps-the-party-leaders-to-the-people-of-sri-lanka/",
     "time_ut": 1658059456,
@@ -2056,6 +3472,54 @@
     "file_name": "/tmp/news_lk2/articles/86/8624e076.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78579",
+    "time_ut": 1657922580,
+    "original_lang": "en",
+    "original_title": "Rajanayagam: From Trotskyite Lawyer  to \u201cTamil Times\u201d Editor.",
+    "file_name": "/tmp/news_lk2/articles/cb/cb1d1c1b.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78594",
+    "time_ut": 1657913040,
+    "original_lang": "en",
+    "original_title": "\u201cJanatha Aragalaya\u201d(Peoples Struggle) : The Mass Movement that  Wrote the Political Obituary of President Gotabaya  Rajapaksa",
+    "file_name": "/tmp/news_lk2/articles/c8/c8876612.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78598",
+    "time_ut": 1657912500,
+    "original_lang": "en",
+    "original_title": "Sri Lanka teetered unsteadily on the edge of anarchy but  sanity prevailed and the country stepped back from the edge.",
+    "file_name": "/tmp/news_lk2/articles/c5/c51f6eab.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78600",
+    "time_ut": 1657910880,
+    "original_lang": "en",
+    "original_title": "The Great Escape of Gotabaya Rajapaksa and the Failed Attempt of  Basil  Rajapaksa.",
+    "file_name": "/tmp/news_lk2/articles/c4/c48a62e5.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78592",
+    "time_ut": 1657888200,
+    "original_lang": "en",
+    "original_title": "Acting President Ranil Wickremesinghe   Officially Prohibits  the use of \u2018His Excellency\u2019  or Her Excellency\u201dto introduce the President ; also abolishes  the separate  presidential flag  saying Country  should have only the National flag.",
+    "file_name": "/tmp/news_lk2/articles/7f/7f960dbb.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78590",
+    "time_ut": 1657878960,
+    "original_lang": "en",
+    "original_title": "Prime Minister Ranil Wickremesinghe Sworn in as Acting President Before Chief Justice Jayantha Jayasuriya;  new President  to be  elected on July 20 by Parliament",
+    "file_name": "/tmp/news_lk2/articles/35/357fefcc.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/editorial/\u0d85\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda-\u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2-\u0dba\u0dc4\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0d9a\u0da7-\u0dbb\u0dd4\u0d9a\u0dd4\u0dbd\u0d9a\u0dca/117-616447",
     "time_ut": 1657863864,
@@ -2064,12 +3528,52 @@
     "file_name": "/tmp/news_lk2/articles/a3/a31ff50c.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78586",
+    "time_ut": 1657827660,
+    "original_lang": "en",
+    "original_title": "Widespread Celebrations in Sri Lanka as Speaker Mahinda Yapa Abeywardena announces Official Resignation of  President Gotabaya Rajapaksa;Prime Minister Ranil Wickremesinghe Sworn in as Acting President Until  Parliament Elects a new President Next Week",
+    "file_name": "/tmp/news_lk2/articles/a7/a7a9db20.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78559",
+    "time_ut": 1657798740,
+    "original_lang": "en",
+    "original_title": "Gota going into hiding in an unknown country is an indication that he cannot rely on his own service chiefs to guarantee his safety. Gotabaya Rajapaksa has effectively made himself a lame duck of a President.",
+    "file_name": "/tmp/news_lk2/articles/b8/b8b960d8.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78564",
+    "time_ut": 1657792980,
+    "original_lang": "en",
+    "original_title": "Presiden Gotabaya  Rajapaksa  emails  his resignation letter via the Sri Lanka High Commission in Singapore  to Speaker Mahinda Yapa Abeywardena.Speaker will formally announce that Rajapaksa has vacated the post of President to the public after verifying the authenticity of the letter;Speaker\u2019s office  Consults Attorney General in this connection",
+    "file_name": "/tmp/news_lk2/articles/0b/0bae09cf.json"
+  },
+  {
     "newspaper_id": "colombo-telegraph-com",
     "url": "https://www.colombotelegraph.com/index.php/sri-lankan-authorities-must-refrain-from-use-of-military-to-police-protests-amnesty-international/",
     "time_ut": 1657792676,
     "original_lang": "en",
     "original_title": "Sri Lankan Authorities Must Refrain From Use Of Military To Police Protests: Amnesty International",
     "file_name": "/tmp/news_lk2/articles/83/837fa13d.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78557",
+    "time_ut": 1657791900,
+    "original_lang": "en",
+    "original_title": "President Gotabaya Rajapaksa  Sends Resignation Letter by E-mail to Speaker from Singapore; official announcement on July 15 after verifying authenticity of emailed document",
+    "file_name": "/tmp/news_lk2/articles/0b/0b6188f2.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78561",
+    "time_ut": 1657780920,
+    "original_lang": "en",
+    "original_title": "Saudi Arabian Airlines flight 788  from Maldives to Singapore believed to be carrying Sri Lanka\u2019s President Gotabaya Rajapaksa was the world\u2019s most-tracked flight on Thursday July 14",
+    "file_name": "/tmp/news_lk2/articles/39/39d5a592.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -2088,12 +3592,116 @@
     "file_name": "/tmp/news_lk2/articles/12/12787411.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78550",
+    "time_ut": 1657722660,
+    "original_lang": "en",
+    "original_title": "Gotabaya Rajapaksa\u2019s Much Anticipated Resignation Does Not Materialise but President Appoints Premier Ranil Wickremesinghe as Acting President, to be in charge during his period of absence from Sri Lanka; Ranil Imposes Curfew after Protests Escalate",
+    "file_name": "/tmp/news_lk2/articles/ad/ad549fa5.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78547",
+    "time_ut": 1657714980,
+    "original_lang": "en",
+    "original_title": "The departure of . Gotabaya   Rajapaksa from the Island  has not reduced the uncertainty prevailing in Sri Lanka because  the President is yet to officially resign, though he had promised to do so on Wednesday.",
+    "file_name": "/tmp/news_lk2/articles/cd/cd3a09d4.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78544",
+    "time_ut": 1657712940,
+    "original_lang": "en",
+    "original_title": "President   Gotabaya Rajapaksa  appoints Prime Minister  Ranil Wickremesinghe  as Acting President to \u201cexercise, perform and discharge the powers, duties and functions of the Office of President\u201d with effect from Wednesday, during his absence from Sri Lanka.",
+    "file_name": "/tmp/news_lk2/articles/74/74afdc76.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/business/\u0dbb\u0da7\u0da7-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0d9c\u0dda\u0db1\u0dca\u0db1\u0da7-\u0daf\u0dda\u0dc1\u0dd3\u0dba-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca/7-395372",
     "time_ut": 1657681894,
     "original_lang": "si",
     "original_title": "\u0dbb\u0da7\u0da7 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0d9c\u0dda\u0db1\u0dca\u0db1\u0da7 \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/ba/bac4505f.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/77159",
+    "time_ut": 1657663380,
+    "original_lang": "en",
+    "original_title": "Is the  Medamulana \u201cHouse of Rajapaksa\u201d Falling Down, Falling Down?",
+    "file_name": "/tmp/news_lk2/articles/07/07e6e7fa.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78554",
+    "time_ut": 1657659120,
+    "original_lang": "en",
+    "original_title": "Acting President and Premier Ranil Wickremesinghe says  they had  received reports from the Intelligence agencies that some elements within the Aragalaya community were planning to take over and occupy the Prime Minister\u2019s Office and the official residences of the Commanders of the Air Force, Army, and Navy/",
+    "file_name": "/tmp/news_lk2/articles/af/afc54986.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78552",
+    "time_ut": 1657654860,
+    "original_lang": "en",
+    "original_title": "Ranil Says a mob was instigated to attack his house by a private media institution which misreported what had happened at the party leaders meeting held on 9 July and even gave the directions to the mob to reach his house.",
+    "file_name": "/tmp/news_lk2/articles/aa/aabcc478.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78537",
+    "time_ut": 1657641600,
+    "original_lang": "en",
+    "original_title": "\u201cI do not believe that those who celebrate the events of Saturday 9 July 2022 as \u201cPeople\u2019s Victory\u201d have stopped for a moment to consider or analyse the long-term consequences and repercussions of those events and the socio-economic upheaval that is coming our way\u201d",
+    "file_name": "/tmp/news_lk2/articles/19/196417c3.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78533",
+    "time_ut": 1657640340,
+    "original_lang": "en",
+    "original_title": "Would not the sensible course be for the Prime Minister to remain in office (as Acting President and Head of the Government) until Parliament elects a new President and he or she proceeds to constitute the so-called and hitherto unattainable \u201cAll Party Government\u201d?",
+    "file_name": "/tmp/news_lk2/articles/a6/a60821bb.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78530",
+    "time_ut": 1657630080,
+    "original_lang": "en",
+    "original_title": "President Gotabaya Rajapaksa, his wife and a bodyguard  among four passengers on board an Antonov-32 military aircraft which took off from Katunayake international airport heading for the neighbouring Maldives, according to immigration sources.",
+    "file_name": "/tmp/news_lk2/articles/94/94de6d1f.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78539",
+    "time_ut": 1657629000,
+    "original_lang": "en",
+    "original_title": "Fight at \u201cTemple Trees\u201d between factions supporting Fonseka and JVP over food served to visiting crowds  Results in 10  Pewrsons Being Hospitalised with Injuries",
+    "file_name": "/tmp/news_lk2/articles/2a/2ad9378b.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78524",
+    "time_ut": 1657621500,
+    "original_lang": "en",
+    "original_title": "Katunayake  Airport Staff Block Gotabaya Rajapaksa from  Entering VIP area to Stamp his Passport and Leave for Dubai:Basil Rajapaksa prevented from boarding a flight to the US via Dubai after other passengers protest",
+    "file_name": "/tmp/news_lk2/articles/88/88643077.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78525",
+    "time_ut": 1657621260,
+    "original_lang": "en",
+    "original_title": "The United States rejects  Former US Citizen and Current  Sri Lankan President Gotabaya Rajapaksa\u2019s  request for a visa,\u201cHe sought a safe passage to the U.S. after the recent events, but it was denied,\u201d says Colombo-based official",
+    "file_name": "/tmp/news_lk2/articles/3c/3c5b0898.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78528",
+    "time_ut": 1657609560,
+    "original_lang": "en",
+    "original_title": "President Gotabaya Rajapaksa  signs  resignation letter  dated for July 13 and  Submits it to the Speaker of Parliament Mahinda Yapa Abeywardena   who is expected to  publicly announce it to the nation On Wednesday",
+    "file_name": "/tmp/news_lk2/articles/0c/0cf87a7d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -2112,12 +3720,44 @@
     "file_name": "/tmp/news_lk2/articles/f8/f8a7400d.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78519",
+    "time_ut": 1657481040,
+    "original_lang": "en",
+    "original_title": "Samagi Jana Balawegaya leader Sajith Premadasa  to contest for the post of President; MP\u2019s will vote to elect a new President by secret ballot on 20 July if no consensus is reached on a single candidate to take over the Presidency after the resignation of President Gotabaya Rajapaksa.",
+    "file_name": "/tmp/news_lk2/articles/15/1520f94c.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78520",
+    "time_ut": 1657479960,
+    "original_lang": "en",
+    "original_title": "If Gotabaya Resigns on July 13, Parliament would be summoned on July 15.  nominations for Presidency would be made on July 19 and a parliamentary vote will be held on July 20 to elect a new President",
+    "file_name": "/tmp/news_lk2/articles/8d/8d86e4f0.json"
+  },
+  {
     "newspaper_id": "colombo-telegraph-com",
     "url": "https://www.colombotelegraph.com/index.php/torching-ranils-residence-questions-surface-about-another-arabi-wasantha-incident/",
     "time_ut": 1657429099,
     "original_lang": "en",
     "original_title": "Torching Ranil\u2019s Residence: Questions Surface About Another \u2018Arabi Wasantha\u2019 Incident",
     "file_name": "/tmp/news_lk2/articles/37/37b7150e.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78489",
+    "time_ut": 1657395660,
+    "original_lang": "en",
+    "original_title": "Dragged into the darkness by dictatorship, democracy is the only way out into the light",
+    "file_name": "/tmp/news_lk2/articles/45/455f55dd.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78512",
+    "time_ut": 1657394640,
+    "original_lang": "en",
+    "original_title": "UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support",
+    "file_name": "/tmp/news_lk2/articles/87/87c39278.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",

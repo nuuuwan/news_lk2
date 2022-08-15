@@ -1,0 +1,432 @@
+{
+  "newspaper_id": "daily-ft-lk",
+  "url": "https://www.ft.lk/business/Eastern-Brokers-sets-all-time-record-price-for-Uva-Highlands-Estate-at-Colombo-Tea-Auctions/34-738507",
+  "time_ut": 1660088599,
+  "original_lang": "en",
+  "original_title": "Eastern Brokers sets all-time record price for Uva Highlands Estate at Colombo Tea Auctions",
+  "text_idx": {
+    "en": {
+      "title": "Eastern Brokers sets all-time record price for Uva Highlands Estate at Colombo Tea Auctions",
+      "author": "unknown",
+      "body_lines": [
+        "At the recently concluded Colombo Tea Auction yesterday, Uva Highlands Estate established an all-time record price of Rs. 3,550/- for a BOP grade with fine seasonal quality and flavour.\u00a0 This line of Tea was purchased by M/s. Enura Trading Company.",
+        "Uva Highlands tea Estate is situated in the Uva hills of the Uva Province of Sri Lanka between Bandarawela and Ettampitiya main road 12 km away from Bandarawela town.",
+        "The elevation of Uva highlands Estate is between 1,219-1,250 m (4,100 feet) above mean sea level. The total extent of Uva Highlands Estate is 400 hectares of which the cultivated extent is 335 hectares. With an annual production of 1 million kg of made tea.",
+        "The first planter of Uva Highlands Estate was Jainudeen who was in charge from 1915 to 1925, and at present Uva Highlands Estate comes under the stewardship of Group Manager Daminda Wanigasekara who has been the person behind the success of Uva Highlands Estate in the recent past.",
+        "Uva Highlands Estate is managed and owned by Malwatte Valley Plantations PLC. This line of tea was marketed and sold by Eastern Brokers Ltd."
+      ],
+      "title_ents": [
+        {
+          "text": "Eastern Brokers",
+          "label": "NORP"
+        },
+        {
+          "text": "Uva Highlands Estate at Colombo Tea Auctions",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Colombo Tea Auction",
+            "label": "ORG"
+          },
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "Uva Highlands Estate",
+            "label": "ORG"
+          },
+          {
+            "text": "3,550/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Tea",
+            "label": "ORG"
+          },
+          {
+            "text": "Enura Trading Company",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Uva",
+            "label": "GPE"
+          },
+          {
+            "text": "the Uva Province of Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Bandarawela",
+            "label": "GPE"
+          },
+          {
+            "text": "Ettampitiya",
+            "label": "PERSON"
+          },
+          {
+            "text": "12 km",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Bandarawela",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "between 1,219-1,250",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4,100 feet",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Uva Highlands Estate",
+            "label": "ORG"
+          },
+          {
+            "text": "400",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "335",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1 million kg",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Uva Highlands Estate",
+            "label": "FAC"
+          },
+          {
+            "text": "1915",
+            "label": "DATE"
+          },
+          {
+            "text": "1925",
+            "label": "DATE"
+          },
+          {
+            "text": "Uva Highlands Estate",
+            "label": "FAC"
+          },
+          {
+            "text": "Group",
+            "label": "ORG"
+          },
+          {
+            "text": "Daminda Wanigasekara",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Malwatte Valley Plantations PLC",
+            "label": "ORG"
+          },
+          {
+            "text": "Eastern Brokers Ltd.",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d8a\u0dc3\u0dca\u0da7\u0dbb\u0dca\u0db1\u0dca \u0db6\u0dca\u200d\u0dbb\u0ddd\u0d9a\u0dbb\u0dca\u0dc3\u0dca \u0d9a\u0ddc\u0dc5\u0db9 \u0dad\u0dda \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0d8c\u0dc0 \u0dc4\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dbb\u0dca\u0dc0\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0d9c\u0dad \u0db8\u0dd2\u0dbd\u0d9a\u0dca \u0db1\u0dd2\u0dba\u0db8 \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba\u0daf\u0dcf \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0dd6 \u0d9a\u0ddc\u0dc5\u0db9 \u0dad\u0dda \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0d8c\u0dc0 \u0dc4\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad \u0dc3\u0dbb\u0dca\u0dc0\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0d9c\u0dad \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 3,550/- \u0dc4\u0ddc\u0db3 \u0dc3\u0dd8\u0dad\u0dd4\u0db8\u0dba \u0d9c\u0dd4\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db7\u0dcf\u0dc0\u0dba \u0dc3\u0dc4 \u0dbb\u0dc3\u0dba \u0dc3\u0dc4\u0dd2\u0dad BOP \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0dcf. \u0db8\u0dd9\u0db8 \u0dad\u0dda \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba M/s \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0dbd\u0daf\u0dd3. \u0d91\u0db1\u0dd4\u0dbb \u0dc0\u0dd9\u0dc5\u0db3 \u0dc3\u0db8\u0dcf\u0d9c\u0db8.",
+        "\u0d8c\u0dc0 \u0dc4\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca \u0dad\u0dda \u0dc0\u0dad\u0dd4\u0dba\u0dcf\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d8c\u0dc0 \u0db4\u0dc5\u0dcf\u0dad\u0dda \u0d8c\u0dc0 \u0d9a\u0db3\u0dd4\u0d9a\u0dbb\u0dba\u0dda \u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0dc0\u0dd9\u0dbd \u0dc3\u0dc4 \u0d91\u0da7\u0dca\u0da7\u0db8\u0dca\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba \u0d85\u0dad\u0dbb \u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0dc0\u0dd9\u0dbd \u0db1\u0d9c\u0dbb\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0d9a\u0dd2\u0dbd\u0ddd\u0db8\u0dd3\u0da7\u0dbb\u0dca 12 \u0d9a\u0dca \u0daf\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dcf \u0d87\u0dad.",
+        "\u0d8c\u0dc0 \u0dc4\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca \u0dc0\u0dad\u0dd4\u0dba\u0dcf\u0dba\u0dda \u0d8b\u0db1\u0dca\u0db1\u0dad\u0dcf\u0d82\u0dc1\u0dba \u0db8\u0db0\u0dca\u200d\u0dba\u0db1\u0dca\u200d\u0dba \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0db8\u0da7\u0dca\u0da7\u0db8\u0dda \u0dc3\u0dd2\u0da7 \u0db8\u0dd3\u0da7\u0dbb\u0dca 1,219-1,250 (\u0d85\u0da9\u0dd2 4,100) \u0d85\u0dad\u0dbb \u0dc0\u0dda. \u0d8c\u0dc0 \u0dc4\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca \u0dc0\u0dad\u0dd4\u0dba\u0dcf\u0dba\u0dda \u0db8\u0dd4\u0dc5\u0dd4 \u0db7\u0dd6\u0db8\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dc4\u0dd9\u0d9a\u0dca\u0da7\u0dba\u0dcf\u0dbb\u0dca 400\u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d89\u0db1\u0dca \u0dc0\u0d9c\u0dcf \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dc4\u0dd9\u0d9a\u0dca\u0da7\u0dba\u0dcf\u0dbb\u0dca 335\u0d9a\u0dd2. \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0dad\u0dda \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0d9a \u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0d9f.",
+        "\u0d8c\u0dc0 \u0dc4\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad\u0dda \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc0\u0dd0\u0dc0\u0dd2\u0dbd\u0dd2\u0d9a\u0dbb\u0dd4 1915 \u0dc3\u0dd2\u0da7 1925 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db7\u0dcf\u0dbb\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2 \u0da2\u0dba\u0dd2\u0db1\u0dd4\u0daf\u0dd3\u0db1\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0dc0\u0dbb\u0dca\u0dad\u0db8\u0dcf\u0db1\u0dba\u0dda \u0d8c\u0dc0 \u0dc4\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0d8c\u0dc0 \u0dc4\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad\u0dda \u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0db4\u0dd2\u0da7\u0dd4\u0db4\u0dc3 \u0dc3\u0dd2\u0da7\u0dd2 \u0dc3\u0db8\u0dd6\u0dc4 \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dd4 \u0daf\u0db8\u0dd2\u0db1\u0dca\u0daf \u0dc0\u0db1\u0dd2\u0d9c\u0dc3\u0dda\u0d9a\u0dbb\u0d9c\u0dda \u0db7\u0dcf\u0dbb\u0d9a\u0dcf\u0dbb\u0dad\u0dca\u0dc0\u0dba \u0dba\u0da7\u0dad\u0dda \u0db4\u0dc0\u0dad\u0dd3.",
+        "\u0d8c\u0dc0 \u0dc4\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca \u0dc0\u0dad\u0dd4\u0dba\u0dcf\u0dba \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba \u0dc3\u0dc4 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dcf\u0dbb\u0dd3\u0dad\u0dca\u0dc0\u0dba \u0db8\u0dbd\u0dca\u0dc0\u0dad\u0dca\u0dad \u0dc0\u0dd0\u0dbd\u0dd2 \u0db4\u0dca\u0dbd\u0dcf\u0db1\u0dca\u0da7\u0dda\u0dc2\u0db1\u0dca \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3 \u0dc3\u0dad\u0dd4 \u0dc0\u0dda. \u0db8\u0dd9\u0db8 \u0dad\u0dda \u0db4\u0dd9\u0dc5 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0d9a\u0dbb \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dca\u0daf\u0dda \u0dc3\u0dd3\u0db8\u0dcf\u0dc3\u0dc4\u0dd2\u0dad East Brokers \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0dad\u0dd0\u0dbb\u0dd0\u0dc0\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca",
+          "label": "NORP"
+        },
+        {
+          "text": "\u0d8c\u0dc0 \u0dc4\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad \u0d9a\u0ddc\u0dc5\u0db9 \u0dad\u0dda \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda\u0daf\u0dd3",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dad\u0dda \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d8c\u0dc0 \u0dc4\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad",
+            "label": "ORG"
+          },
+          {
+            "text": "3,550/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dad\u0dda",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0db1\u0dd4\u0dbb \u0dc0\u0dd9\u0dc5\u0db3 \u0dc3\u0db8\u0dcf\u0d9c\u0db8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d8c\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d8c\u0dc0 \u0db4\u0dc5\u0dcf\u0dad",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0dc0\u0dd9\u0dbd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d91\u0da7\u0dca\u0da7\u0db8\u0dca\u0db4\u0dd2\u0da7\u0dd2\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "12 \u0d9a\u0dd2.\u0db8\u0dd3",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0dc0\u0dd9\u0dbd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "1,219-1,250 \u0d85\u0dad\u0dbb",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0da9\u0dd2 4,100 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d8c\u0dc0 \u0dc4\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad",
+            "label": "ORG"
+          },
+          {
+            "text": "400",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "335",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d8c\u0dc0 \u0dc4\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad",
+            "label": "FAC"
+          },
+          {
+            "text": "1915",
+            "label": "DATE"
+          },
+          {
+            "text": "1925",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d8c\u0dc0 \u0dc4\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "Daminda Wanigasekara",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dbd\u0dca\u0dc0\u0dad\u0dca\u0dad \u0dc0\u0dd0\u0dbd\u0dd2 \u0dc0\u0dd0\u0dc0\u0dd2\u0dbd\u0dd2 \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d8a\u0dc3\u0dca\u0da7\u0dbb\u0dca\u0db1\u0dca \u0db6\u0dca\u200d\u0dbb\u0ddd\u0d9a\u0dbb\u0dca\u0dc3\u0dca \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8a\u0bb5\u0bbe \u0bb9\u0bc8\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0bb2 \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b88\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd\u0ba9\u0bcd \u0baa\u0bc1\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bb0\u0bcd\u0bb8\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0ba3\u0baf\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b85\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8a\u0bb5\u0bbe \u0bb9\u0bc8\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8 \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0baa\u0bb0\u0bc1\u0bb5\u0b95\u0bbe\u0bb2 \u0ba4\u0bb0\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0bb5\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd BOP \u0ba4\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 3,550/-. \u0b87\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 M/s \u0b86\u0bb2\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0b8e\u0ba9\u0bc1\u0bb0\u0bbe \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd.",
+        "\u0b8a\u0bb5\u0bbe \u0bb9\u0bc8\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b8a\u0bb5\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b8a\u0bb5\u0bbe \u0bae\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bb5\u0bb3\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0b9f\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0bb5\u0bc0\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bb5\u0bb3\u0bc8 \u0ba8\u0b95\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 12 \u0b95\u0bbf.\u0bae\u0bc0 \u0ba4\u0bca\u0bb2\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b8a\u0bb5\u0bbe \u0bb9\u0bc8\u0bb2\u0bc7\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b89\u0baf\u0bb0\u0bae\u0bcd \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf \u0b95\u0b9f\u0bb2\u0bcd \u0bae\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 1,219-1,250 \u0bae\u0bc0 (4,100 \u0b85\u0b9f\u0bbf) \u0b87\u0b9f\u0bc8\u0baf\u0bc7 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b8a\u0bb5\u0bbe \u0bb9\u0bc8\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bb3\u0bb5\u0bc1 400 \u0bb9\u0bc6\u0b95\u0bcd\u0b9f\u0bc7\u0baf\u0bb0\u0bcd \u0b86\u0b95\u0bc1\u0bae\u0bcd, \u0b87\u0ba4\u0bbf\u0bb2\u0bcd 335 \u0bb9\u0bc6\u0b95\u0bcd\u0b9f\u0bc7\u0bb0\u0bcd \u0baa\u0baf\u0bbf\u0bb0\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 1 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bbf\u0bb2\u0bcb \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b8a\u0bb5\u0bbe \u0bb9\u0bc8\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd 1915 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 1925 \u0bb5\u0bb0\u0bc8 \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b9c\u0bc6\u0baf\u0bcd\u0ba9\u0bc1\u0ba4\u0bc0\u0ba9\u0bcd \u0b86\u0bb5\u0bbe\u0bb0\u0bcd, \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b8a\u0bb5\u0bbe \u0bb9\u0bc8\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b85\u0ba3\u0bcd\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8a\u0bb5\u0bbe \u0bb9\u0bc8\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b95\u0bc1\u0bb4\u0bc1 \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0ba8\u0bcd\u0ba4 \u0bb5\u0ba3\u0bbf\u0b95\u0b9a\u0bc7\u0b95\u0bb0\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b8a\u0bb5\u0bbe \u0bb9\u0bc8\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bae\u0bb2\u0bcd\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bc7\u0bb2\u0bbf \u0baa\u0bbf\u0bb3\u0bbe\u0ba9\u0bcd\u0b9f\u0bc7\u0bb7\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bca\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b87\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8 \u0b88\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd\u0ba9\u0bcd \u0baa\u0bc1\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bb0\u0bcd\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bb0\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+          "label": "NORP"
+        },
+        {
+          "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8a\u0bb5\u0bbe \u0bb9\u0bc8\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b8f\u0bb2\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b8a\u0bb5\u0bbe \u0bb9\u0bc8\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "3,550/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bc7\u0ba8\u0bc0\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0ba9\u0bc1\u0bb0\u0bbe \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8a\u0bb5\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b8a\u0bb5\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bb5\u0bb3\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8e\u0b9f\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf",
+            "label": "PERSON"
+          },
+          {
+            "text": "12 \u0b95\u0bbf.\u0bae\u0bc0",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bb5\u0bb3\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "1,219-1,250 \u0b87\u0b9f\u0bc8\u0baf\u0bc7",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4,100 \u0b85\u0b9f\u0bbf",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b8a\u0bb5\u0bbe \u0bb9\u0bc8\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "400",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "335",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b8a\u0bb5\u0bbe \u0bb9\u0bc8\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "1915",
+            "label": "DATE"
+          },
+          {
+            "text": "1925",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b8a\u0bb5\u0bbe \u0bb9\u0bc8\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "Daminda Wanigasekara",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Malwatte Valley Plantations PLC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b88\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd\u0ba9\u0bcd \u0baa\u0bc1\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bb0\u0bcd\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd.",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}

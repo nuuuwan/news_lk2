@@ -1,0 +1,1275 @@
+{
+  "newspaper_id": "daily-ft-lk",
+  "url": "https://www.ft.lk/business/Sri-Lanka-s-top-textile-maker-Teejay-knits-strong-start-to-FY23/34-738531",
+  "time_ut": 1660176173,
+  "original_lang": "en",
+  "original_title": "Sri Lanka\u2019s top textile maker Teejay  knits strong start to FY23",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka\u2019s top textile maker Teejay  knits strong start to FY23",
+      "author": "unknown",
+      "body_lines": [
+        "Teejay Lanka Chairman Ajit Gunewardene (left) and CEO Pubudu De Silva",
+        "Teejay Lanka PLC has made a positive start to 2022-23 posting Group revenue of Rs. 23.9 billion for the three months ending 30 June 2022.",
+        "The Group achieved nearly half its full-year revenue of 2021-22 in just the first quarter of the new financial year as a result of the low base of the previous financial year due to the impacts of COVID, the depreciation of the Rupee and the passing on of yarn price increases during the last quarter.",
+        "In a filing with the Colombo Stock Exchange (CSE), Sri Lanka\u2019s largest textile manufacturer said it had also recorded significant growth in pre-tax and net profit at both Group and Company level in the quarter reviewed.",
+        "According to interim financial statements, Group profit before tax for the three months grew by more than Rs. 1 billion or 291% to Rs. 1.5 billion, while Group net profit for the period was up 301% to Rs. 1.2 billion.",
+        "At company level, revenue improved by 108% in the quarter under review to Rs. 12.9 billion, while profit before tax grew by 323% to Rs. 1.5 billion, and net profit increased by 311% to Rs. 1.3 billion.",
+        "Teejay Lanka PLC has notified the CSE that its Board of Directors has proposed the payment of a final dividend of Rs. 1.50 per share to the company\u2019s shareholders for the year ended 31 March 2022.",
+        "Commenting on these results, Teejay Lanka Chairman Ajit Gunewardene said: \u201cOur performance in the first quarter is extremely encouraging for all stakeholders, especially in the context of the continuing local and global challenges. The Group completed a $ 26 million expansion project at Teejay India, adding 20 tons a day to capacity. At the same time, India is viewed as an important strategic location positioning Teejay to gain from the anticipated growth in the apparel industries of countries like Bangladesh and Indonesia.\u201d",
+        "Teejay Lanka CEO Pubudu De Silva added: \u201cWith the global increase in yarn prices coinciding with the depreciation of the Rupee, Teejay had an opportunity to strategically capitalise on its status as a preferred supplier to several international markets to increase sales income. We also embarked on several strategic initiatives to expedite progress. We focussed on new product development and digitalisation, to modernise operations and embrace an Environmental, Social and Governance or ESG framework. Headway was made in these aspects and progress was made in terms of expanding the Group\u2019s synthetic footprint.\u201d",
+        "Teejay Lanka was the first textile manufacturer in Sri Lanka to receive membership of the US Cotton Trust Protocol, and is a public quoted company with 40% public ownership. The company is backed by Sri Lanka\u2019s largest apparel exporter Brandix Lanka which has a 32% stake. Pacific Textiles of Hong Kong, whose key shareholder is the Tokyo Stock Exchange listed Toray Industries Inc., owns 27% of Teejay Lanka.",
+        "The company has been adjudged the Best Textile Exporter in Sri Lanka at the Presidential Export Awards presented by the Export Development Board (EDB) and has been named among the 100 Most Respected Companies in Sri Lanka by LMD.",
+        "An ISO 9001:2015, ISO 14001:2015 and OHSAS 18001:2007 compliant company and the first in the industry to develop green fabric, Teejay has been listed on the Colombo Stock Exchange (CSE) since 2011 and was included in the S&P Top 20 Index in Sri Lanka. The Company has also been named among the Forbes \u2018200 Best under a Billion in Asia\u2019 and been recognised as the \u2018International Textile Firm of the Year\u2019 and the \u2018International Dyer and Finisher\u2019 by World Textile Institute, London."
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka\u2019s",
+          "label": "GPE"
+        },
+        {
+          "text": "Teejay",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Teejay Lanka",
+            "label": "PERSON"
+          },
+          {
+            "text": "Ajit Gunewardene",
+            "label": "PERSON"
+          },
+          {
+            "text": "Pubudu De Silva",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Teejay Lanka PLC",
+            "label": "ORG"
+          },
+          {
+            "text": "2022-23",
+            "label": "DATE"
+          },
+          {
+            "text": "23.9 billion",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the three months ending 30 June 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Group",
+            "label": "ORG"
+          },
+          {
+            "text": "nearly half",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "full-year",
+            "label": "DATE"
+          },
+          {
+            "text": "2021-22",
+            "label": "DATE"
+          },
+          {
+            "text": "just the first quarter",
+            "label": "DATE"
+          },
+          {
+            "text": "the new financial year",
+            "label": "DATE"
+          },
+          {
+            "text": "the previous financial year",
+            "label": "DATE"
+          },
+          {
+            "text": "Rupee",
+            "label": "PERSON"
+          },
+          {
+            "text": "the last quarter",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "the Colombo Stock Exchange",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "Group and Company",
+            "label": "ORG"
+          },
+          {
+            "text": "the quarter",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Group",
+            "label": "ORG"
+          },
+          {
+            "text": "the three months",
+            "label": "DATE"
+          },
+          {
+            "text": "more than Rs",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1 billion",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "291%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.5 billion",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Group",
+            "label": "ORG"
+          },
+          {
+            "text": "301%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.2 billion",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "108%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the quarter",
+            "label": "DATE"
+          },
+          {
+            "text": "12.9 billion",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "323%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.5 billion",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "311%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.3 billion",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Teejay Lanka PLC",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "Board of Directors",
+            "label": "ORG"
+          },
+          {
+            "text": "1.50",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the year ended 31 March 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Teejay Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "Ajit Gunewardene",
+            "label": "PERSON"
+          },
+          {
+            "text": "the first quarter",
+            "label": "DATE"
+          },
+          {
+            "text": "Group",
+            "label": "ORG"
+          },
+          {
+            "text": "$ 26 million",
+            "label": "MONEY"
+          },
+          {
+            "text": "Teejay India",
+            "label": "ORG"
+          },
+          {
+            "text": "20 tons",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "Teejay",
+            "label": "PERSON"
+          },
+          {
+            "text": "Bangladesh",
+            "label": "GPE"
+          },
+          {
+            "text": "Indonesia",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Teejay Lanka",
+            "label": "PERSON"
+          },
+          {
+            "text": "Pubudu De Silva",
+            "label": "PERSON"
+          },
+          {
+            "text": "Teejay",
+            "label": "PERSON"
+          },
+          {
+            "text": "Environmental, Social and Governance",
+            "label": "ORG"
+          },
+          {
+            "text": "Group",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Teejay Lanka",
+            "label": "PERSON"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "the US Cotton Trust Protocol",
+            "label": "ORG"
+          },
+          {
+            "text": "40%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "32%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Pacific Textiles of",
+            "label": "ORG"
+          },
+          {
+            "text": "Hong Kong",
+            "label": "GPE"
+          },
+          {
+            "text": "the Tokyo Stock Exchange",
+            "label": "ORG"
+          },
+          {
+            "text": "Toray Industries Inc.",
+            "label": "ORG"
+          },
+          {
+            "text": "27%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Teejay Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "the Best Textile Exporter in Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "the Presidential Export Awards",
+            "label": "ORG"
+          },
+          {
+            "text": "the Export Development Board",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "ISO",
+            "label": "ORG"
+          },
+          {
+            "text": "ISO 14001:2015",
+            "label": "ORG"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Teejay",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Colombo Stock Exchange",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "2011",
+            "label": "DATE"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Company",
+            "label": "ORG"
+          },
+          {
+            "text": "Forbes \u2018200",
+            "label": "ORG"
+          },
+          {
+            "text": "Asia",
+            "label": "LOC"
+          },
+          {
+            "text": "the \u2018International Textile Firm",
+            "label": "ORG"
+          },
+          {
+            "text": "the \u2018International Dyer",
+            "label": "FAC"
+          },
+          {
+            "text": "Finisher",
+            "label": "PERSON"
+          },
+          {
+            "text": "World Textile Institute",
+            "label": "ORG"
+          },
+          {
+            "text": "London",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b \u0db4\u0dd9\u0dc5\u0dda \u0dbb\u0dd9\u0daf\u0dd2\u0db4\u0dd2\u0dc5\u0dd2 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0d9a\u0dba\u0dcf \u0dc0\u0db1 Teejay FY23 \u0dc3\u0db3\u0dc4\u0dcf \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0d86\u0dbb\u0db8\u0dca\u0db7\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "Teejay Lanka \u0dc4\u0dd2 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0d85\u0da2\u0dd2\u0dad\u0dca \u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1 (\u0dc0\u0db8\u0dda) \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3 \u0db4\u0dd4\u0db6\u0dd4\u0daf\u0dd4 \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf",
+        "Teejay Lanka PLC \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca 2022-23 \u0dc3\u0db3\u0dc4\u0dcf \u0db0\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d86\u0dbb\u0db8\u0dca\u0db7\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dd9\u0db1 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0dda \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0dbb\u0dd4. 2022 \u0da2\u0dd4\u0db1\u0dd2 30 \u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0db1 \u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 23.9 \u0d9a\u0dd2.",
+        "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0db6\u0dbd\u0db4\u0dd1\u0db8\u0dca, \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd \u0d85\u0dc0\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dc0\u0dd3\u0db8 \u0dc3\u0dc4 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd \u0d85\u0dc0\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dc0\u0dd3\u0db8 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba\u0dda \u0d85\u0da9\u0dd4 \u0db4\u0daf\u0db1\u0db8\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0dc3\u0db8\u0dd6\u0dc4\u0dba 2021-22 \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dd9\u0db1\u0dca \u0d85\u0da9\u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0dca \u0db1\u0dc0 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd2\u0dba. \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0 \u0dad\u0dd4\u0dc5 \u0db1\u0dd6\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd3\u0db8.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0dad\u0db8 \u0dbb\u0dd9\u0daf\u0dd2\u0db4\u0dd2\u0dc5\u0dd2 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0d9a\u0dba\u0dcf \u0dc0\u0db1 Colombo Stock Exchange (CSE) \u0dc0\u0dd9\u0dad \u0d9c\u0ddc\u0db1\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0daf\u0dd3 \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda \u0dc3\u0db8\u0dcf\u0dbd\u0ddd\u0da0\u0db1\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dc3\u0db8\u0dd6\u0dc4 \u0dc3\u0dc4 \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca \u0db8\u0da7\u0dca\u0da7\u0db8\u0dd2\u0db1\u0dca \u0db6\u0daf\u0dd4 \u0db4\u0dd9\u0dbb \u0dc3\u0dc4 \u0dc1\u0dd4\u0daf\u0dca\u0db0 \u0dbd\u0dcf\u0db7\u0dba\u0dda \u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca \u0daf \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0d85\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0db1\u0dc0\u0dbd\u0da7 \u0d85\u0db1\u0dd4\u0dc0, \u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1\u0d9a \u0d9a\u0dcf\u0dbd\u0dba \u0dad\u0dd4\u0dc5 \u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0dda \u0db6\u0daf\u0dd4 \u0db4\u0dd9\u0dbb \u0dbd\u0dcf\u0db7\u0dba \u0dbb\u0dd4. \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1 \u0d9a\u0dca \u0dc4\u0ddd 291% \u0dc3\u0dd2\u0da7 \u0dbb\u0dd4. \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.5 \u0d9a\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb, \u0d91\u0db8 \u0d9a\u0dcf\u0dbd\u0dba \u0dad\u0dd4\u0dc5 \u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0dda \u0dc1\u0dd4\u0daf\u0dca\u0db0 \u0dbd\u0dcf\u0db7\u0dba 301% \u0d9a\u0dd2\u0db1\u0dca \u0dbb\u0dd4. \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.2 \u0d9a\u0dd2.",
+        "\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca \u0db8\u0da7\u0dca\u0da7\u0db8\u0dd2\u0db1\u0dca, \u0dc3\u0db8\u0dcf\u0dbd\u0ddd\u0da0\u0dd2\u0dad \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0d86\u0daf\u0dcf\u0dba\u0db8 108% \u0d9a\u0dd2\u0db1\u0dca \u0dbb\u0dd4. \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 12.9 \u0d9a\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0db6\u0daf\u0dd4 \u0db4\u0dd9\u0dbb \u0dbd\u0dcf\u0db7\u0dba 323% \u0d9a\u0dd2\u0db1\u0dca \u0dbb\u0dd4. \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.5 \u0d9a\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0dc1\u0dd4\u0daf\u0dca\u0db0 \u0dbd\u0dcf\u0db7\u0dba 311% \u0d9a\u0dd2\u0db1\u0dca \u0dbb\u0dd4. \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.3 \u0d9a\u0dd2.",
+        "Teejay Lanka PLC \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca CSE \u0dc0\u0dd9\u0dad \u0daf\u0db1\u0dca\u0dc0\u0dcf \u0d87\u0dad\u0dca\u0dad\u0dda \u0d91\u0dc4\u0dd2 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d85\u0dc0\u0dc3\u0dcf\u0db1 \u0dbd\u0dcf\u0db7\u0dcf\u0d82\u0dc1\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0dbb\u0dd4. 2022 \u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4 31 \u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0dd6 \u0dc0\u0dbb\u0dca\u0dc2\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dda \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0da7 \u0d9a\u0ddc\u0da7\u0dc3\u0d9a\u0da7 1.50.",
+        "\u0db8\u0dd9\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0 \u0d85\u0daf\u0dc4\u0dc3\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca Teejay Lanka \u0dc4\u0dd2 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0d85\u0da2\u0dd2\u0dad\u0dca \u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dc4\u0dad\u0dcf \u0db8\u0dd9\u0dc3\u0dda \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba: \u201c\u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0d85\u0db4\u0d9c\u0dda \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0dc3\u0dcf\u0db0\u0db1\u0dba \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0db4\u0dcf\u0dbb\u0dca\u0dc1\u0dca\u0dc0\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0dad\u0dd2\u0dc1\u0dba\u0dd2\u0db1\u0dca\u0db8 \u0daf\u0dd2\u0dbb\u0dd2\u0d9c\u0db1\u0dca\u0dc0\u0db1 \u0dc3\u0dd4\u0dc5\u0dd4\u0dba, \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dba\u0dd9\u0db1\u0dca\u0db8 \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dc3\u0dc4 \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c \u0dc3\u0db1\u0dca\u0daf\u0dbb\u0dca\u0db7\u0dba \u0dad\u0dd4\u0dc5. \u0dc3\u0db8\u0dd6\u0dc4\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca Teejay India \u0dc4\u0dd2 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 26 \u0d9a \u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0d85\u0dad\u0dbb, \u0daf\u0dd2\u0db1\u0d9a\u0da7 \u0da7\u0ddc\u0db1\u0dca 20 \u0d9a \u0db0\u0dcf\u0dbb\u0dd2\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0d91\u0d9a\u0dad\u0dd4 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3. \u0d92 \u0d85\u0dad\u0dbb\u0db8, \u0db6\u0d82\u0d9c\u0dca\u0dbd\u0dcf\u0daf\u0dda\u0dc1\u0dba \u0dc3\u0dc4 \u0d89\u0db1\u0dca\u0daf\u0dd4\u0db1\u0dd3\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0dc0\u0dd0\u0db1\u0dd2 \u0dbb\u0da7\u0dc0\u0dbd \u0d87\u0d9f\u0dbd\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dc0\u0dbd \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0dd9\u0db1\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0da7\u0dd3\u0da2\u0dda \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0dc0\u0dd0\u0daf\u0d9c\u0dad\u0dca \u0d8b\u0db4\u0dcf\u0dba\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dd2\u0d9a \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0dc3\u0dd0\u0dbd\u0d9a\u0dda.",
+        "Teejay Lanka \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3 \u0db4\u0dd4\u0db6\u0dd4\u0daf\u0dd4 \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf \u0db8\u0dc4\u0dad\u0dcf \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda, \u201c\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dda \u0d85\u0d9c\u0dba \u0d85\u0dc0\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dc0\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0d9f \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dd6\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0d89\u0dc4\u0dc5 \u0dba\u0dcf\u0db8\u0dad\u0dca \u0dc3\u0db8\u0d9f, \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd4\u0db8\u0dca \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7 \u0d9a\u0dd0\u0db8\u0dad\u0dd2 \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4 \u0dbd\u0dd9\u0dc3 \u0d8b\u0db4\u0dcf\u0dba\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dd2\u0d9a\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0dba\u0ddd\u0da2\u0db1 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 Teejay \u0dc4\u0da7 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0d9a\u0dca \u0dbd\u0dd0\u0db6\u0dd4\u0dab\u0dd2. \u0db4\u0dca\u200d\u0dbb\u0d9c\u0dad\u0dd2\u0dba \u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0db4\u0dd2 \u0d8b\u0db4\u0dcf\u0dba\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dd2\u0d9a \u0db8\u0dd4\u0dbd\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca \u0daf \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dc5\u0dd9\u0db8\u0dd4. \u0d85\u0db4\u0dd2 \u0db1\u0dc0 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc3\u0dc4 \u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca\u0d9a\u0dbb\u0dab\u0dba, \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca \u0db1\u0dc0\u0dd3\u0d9a\u0dbb\u0dab\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0dc4 \u0db4\u0dcf\u0dbb\u0dd2\u0dc3\u0dbb\u0dd2\u0d9a, \u0dc3\u0db8\u0dcf\u0da2\u0dd3\u0dba \u0dc3\u0dc4 \u0db4\u0dcf\u0dbd\u0db1 \u0dc4\u0ddd ESG \u0dbb\u0dcf\u0db8\u0dd4\u0dc0\u0d9a\u0dca \u0dc0\u0dd0\u0dc5\u0db3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d9a\u0dd9\u0dbb\u0dd9\u0dc4\u0dd2 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba \u0dba\u0ddc\u0db8\u0dd4 \u0d9a\u0dc5\u0dd9\u0db8\u0dd4. \u0db8\u0dd9\u0db8 \u0d85\u0d82\u0dc1\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0d9a\u0dca \u0d9c\u0dd9\u0db1 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0dda \u0d9a\u0dd8\u0dad\u0dca\u200d\u0dbb\u0dd2\u0db8 \u0db4\u0dd2\u0dba\u0dc3\u0da7\u0dc4\u0db1 \u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0db4\u0dca\u200d\u0dbb\u0d9c\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d87\u0dad.",
+        "Teejay Lanka \u0dba\u0db1\u0dd4 US Cotton Trust Protocol \u0dc4\u0dd2 \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dbb\u0dd9\u0daf\u0dd2\u0db4\u0dd2\u0dc5\u0dd2 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0d9a\u0dba\u0dcf \u0dc0\u0db1 \u0d85\u0dad\u0dbb, 40% \u0db4\u0ddc\u0daf\u0dd4 \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0dc4\u0dd2\u0dad \u0db4\u0ddc\u0daf\u0dd4 \u0d8b\u0db4\u0dd4\u0da7\u0dcf \u0d9c\u0dad\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0d9a\u0dd2. \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0da7 32% \u0d9a \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc4\u0dd2\u0db8\u0dd2 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0dad\u0db8 \u0d87\u0d9f\u0dbd\u0dd4\u0db8\u0dca \u0d85\u0db4\u0db1\u0dba\u0db1\u0d9a\u0dbb\u0dd4 \u0dc0\u0db1 \u0db6\u0dca\u200d\u0dbb\u0dd0\u0db1\u0dca\u0da9\u0dd2\u0d9a\u0dca\u0dc3\u0dca \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d85\u0db1\u0dd4\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dba\u0dd2. Toray Industries Inc. \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0d9c\u0dad Tokyo Stock Exchange \u0dc4\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0dcf \u0dc0\u0db1 Hong Kong \u0dc4\u0dd2 Pacific Textiles, Teejay Lanka \u0dc4\u0dd2 27%\u0d9a \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dcf\u0dbb\u0dd3\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dbb\u0dba\u0dd2.",
+        "\u0d85\u0db4\u0db1\u0dba\u0db1 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba (EDB) \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0db8\u0db1 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d85\u0db4\u0db1\u0dba\u0db1 \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1 \u0d8b\u0dc5\u0dd9\u0dbd\u0dda\u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc4\u0ddc\u0db3\u0db8 \u0dbb\u0dd9\u0daf\u0dd2\u0db4\u0dd2\u0dc5\u0dd2 \u0d85\u0db4\u0db1\u0dba\u0db1\u0d9a\u0dbb\u0dd4 \u0dbd\u0dd9\u0dc3 \u0dad\u0dda\u0dbb\u0dd3 \u0db4\u0dad\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb LMD \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0da9\u0dcf\u0dad\u0dca\u0db8 \u0d9c\u0dde\u0dbb\u0dc0\u0db1\u0dd3\u0dba \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca 100 \u0d85\u0dad\u0dbb\u0da7 \u0db1\u0db8\u0dca \u0d9a\u0dbb \u0d87\u0dad.",
+        "ISO 9001:2015, ISO 14001:2015 \u0dc3\u0dc4 OHSAS 18001:2007 \u0d85\u0db1\u0dd4\u0d9a\u0dd6\u0dbd \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0d9a\u0dca \u0dc3\u0dc4 \u0dc4\u0dbb\u0dd2\u0dad \u0dbb\u0dd9\u0daf\u0dd2 \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0db1 \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dda \u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0dd0\u0db1\u0dca\u0db1\u0dcf \u0dc0\u0db1 Teejay 2011 \u0dc3\u0dd2\u0da7 \u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dbd\u0dda (CSE) \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0d9c\u0dad \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb S&P Top 20 \u0dc4\u0dd2 \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0d9a\u0dbb \u0d87\u0dad. \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba. \u0dc3\u0db8\u0dcf\u0d9c\u0db8 Forbes \u2018Billion in a Billion in Asia\u2019 \u0d85\u0dad\u0dbb\u0da7 \u0daf \u0db1\u0db8\u0dca \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u2018\u0dc0\u0dc3\u0dbb\u0dda \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dbb\u0dd9\u0daf\u0dd2\u0db4\u0dd2\u0dc5\u0dd2 \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u2019 \u0dc3\u0dc4 \u2018International Dyer and Finisher\u2019 \u0dbd\u0dd9\u0dc3 \u0dbd\u0db1\u0dca\u0da9\u0db1\u0dba\u0dda World Textile Institute \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dd9\u0db1 \u0d87\u0dad."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0da7\u0dd3\u0da2\u0dda",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0da7\u0dd3\u0da2\u0dda \u0dbd\u0d82\u0d9a\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0da2\u0dd2\u0dad\u0dca \u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dd4\u0db6\u0dd4\u0daf\u0dd4 \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0da7\u0dd3\u0da2\u0dda \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "2022-23",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 23.9 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2022 \u0da2\u0dd6\u0db1\u0dd2 30 \u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0db1 \u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0db1\u0dca\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db7\u0dcf\u0d9c\u0dba\u0d9a\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dd6\u0dbb\u0dca\u0dab-\u0dc0\u0dc3\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "2021-22",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0 \u0db4\u0db8\u0dab\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db1\u0dc0 \u0db8\u0dd6\u0dbd\u0dca\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0dbb \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc0\u0dbb\u0dca\u0dc2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dc3\u0dcf\u0db1 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dd6\u0dc4\u0dba \u0dc3\u0dc4 \u0dc3\u0db8\u0dcf\u0d9c\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0dd4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "291%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.5 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "301%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.2 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "108%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 12.9 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "323%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.5 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "311%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.3 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0da7\u0dd3\u0da2\u0dda \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0db0\u0dca\u0dba\u0d9a\u0dca\u0dc2\u0d9a \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "1.50 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2022 \u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4 31 \u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0dd6 \u0dc0\u0dbb\u0dca\u0dc2\u0dba",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da7\u0dd3\u0da2\u0dda \u0dbd\u0d82\u0d9a\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0da2\u0dd2\u0dad\u0dca \u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 26 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0da7\u0dd3\u0da2\u0dda \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da7\u0ddc\u0db1\u0dca 20 \u0dba\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da7\u0dd3\u0da2\u0dda",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db6\u0d82\u0d9c\u0dca\u0dbd\u0dcf\u0daf\u0dda\u0dc1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd4\u0db1\u0dd3\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da7\u0dd3\u0da2\u0dda \u0dbd\u0d82\u0d9a\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dd4\u0db6\u0dd4\u0daf\u0dd4 \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da7\u0dd3\u0da2\u0dda",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dbb\u0dd2\u0dc3\u0dbb\u0dd2\u0d9a, \u0dc3\u0db8\u0dcf\u0da2\u0dd3\u0dba \u0dc3\u0dc4 \u0db4\u0dcf\u0dbd\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0da7\u0dd3\u0da2\u0dda \u0dbd\u0d82\u0d9a\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "US Cotton Trust Protocol",
+            "label": "ORG"
+          },
+          {
+            "text": "40%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "32%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dc3\u0dd2\u0dc6\u0dd2\u0d9a\u0dca \u0da7\u0dd9\u0d9a\u0dca\u0dc3\u0dca\u0da7\u0dba\u0dd2\u0dbd\u0dca\u0dc3\u0dca \u0dc4\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc4\u0ddc\u0d82\u0d9a\u0ddc\u0d82",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da7\u0ddd\u0d9a\u0dd2\u0dba\u0ddd \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc4\u0dd4\u0dc0\u0db8\u0dcf\u0dbb\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "Toray Industries Inc.",
+            "label": "ORG"
+          },
+          {
+            "text": "27%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da7\u0dd3\u0da2\u0dda \u0dbd\u0d82\u0d9a\u0dcf",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc4\u0ddc\u0db3\u0db8 \u0dbb\u0dd9\u0daf\u0dd2\u0db4\u0dd2\u0dc5\u0dd2 \u0d85\u0db4\u0db1\u0dba\u0db1\u0d9a\u0dbb\u0dd4",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d85\u0db4\u0db1\u0dba\u0db1 \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0db4\u0db1\u0dba\u0db1 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "ISO",
+            "label": "ORG"
+          },
+          {
+            "text": "ISO 14001:2015",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0da7\u0dd3\u0da2\u0dda",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "2011",
+            "label": "DATE"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dcf\u0d9c\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc6\u0ddd\u0db6\u0dca\u0dc3\u0dca '200",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "'\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dbb\u0dd9\u0daf\u0dd2\u0db4\u0dd2\u0dc5\u0dd2 \u0dc3\u0db8\u0dcf\u0d9c\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "'\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0da9\u0dba\u0dbb\u0dca",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0dc6\u0dd2\u0db1\u0dd2\u0dc2\u0dbb\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbd\u0ddd\u0d9a \u0dbb\u0dd9\u0daf\u0dd2\u0db4\u0dd2\u0dc5\u0dd2 \u0d86\u0dba\u0dad\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbd\u0db1\u0dca\u0da9\u0db1\u0dca",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf \u0b9c\u0bb5\u0bc1\u0bb3\u0bbf \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bbe\u0ba9 \u0b9f\u0bc0\u0b9c\u0bc7 FY23 \u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb2\u0bc1\u0bb5\u0bbe\u0ba9 \u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "Teejay Lanka \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0b9c\u0bbf\u0ba4\u0bcd \u0b95\u0bc1\u0ba3\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9 (\u0b87\u0b9f\u0ba4\u0bc1) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0baa\u0bc1\u0baa\u0bc1\u0ba4\u0bc1 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe",
+        "Teejay Lanka PLC \u0b86\u0ba9\u0ba4\u0bc1 2022-23 \u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbe\u0ba4\u0b95\u0bae\u0bbe\u0ba9 \u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bcd \u0bb0\u0bc2. 30 \u0b9c\u0bc2\u0ba9\u0bcd 2022 \u0b87\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 23.9 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd.",
+        "\u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd, \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bb0\u0bbf\u0bb5\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1 \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbe\u0b95, \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd 2021-22 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0bb4\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baf\u0bc8 \u0b95\u0bc1\u0bb4\u0bc1 \u0b8e\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1. \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba8\u0bc2\u0bb2\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0b95\u0baa\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0b9c\u0bb5\u0bc1\u0bb3\u0bbf \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd (CSE) \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bcd\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bae\u0bcd\u0baa\u0ba9\u0bbf \u0bae\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0b95\u0bb0 \u0bb2\u0bbe\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0ba3\u0bbf\u0b9a\u0bae\u0bbe\u0ba9 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bc8\u0baa\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0ba4\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0ba8\u0bbf\u0ba4\u0bbf\u0ba8\u0bbf\u0bb2\u0bc8 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0bb2\u0bbe\u0baa\u0bae\u0bcd \u0bb0\u0bc2. 1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 291% \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bb0\u0bc2. 1.5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1, \u0b85\u0ba4\u0bc7 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0b95\u0bb0 \u0bb2\u0bbe\u0baa\u0bae\u0bcd 301% \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb0\u0bc2. 1.2 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd.",
+        "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd, \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bcd\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bcd 108% \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb0\u0bc2. 12.9 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd, \u0bb5\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0bb2\u0bbe\u0baa\u0bae\u0bcd 323% \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb0\u0bc2. 1.5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0ba8\u0bbf\u0b95\u0bb0 \u0bb2\u0bbe\u0baa\u0bae\u0bcd 311% \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb0\u0bc2. 1.3 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd.",
+        "Teejay Lanka PLC \u0b86\u0ba9\u0ba4\u0bc1 CSE \u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0ba9\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b9a\u0baa\u0bc8 \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0b88\u0bb5\u0bc1\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc8\u0baf\u0bbe\u0b95 \u0bb0\u0bc2. \u0bae\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd 31, 2022 \u0b87\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 1.50.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 Teejay Lanka \u0b87\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0b9c\u0bbf\u0ba4\u0bcd \u0b95\u0bc1\u0ba3\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9 \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u201c\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0ba4\u0bbf\u0bb1\u0ba9\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b8a\u0b95\u0bcd\u0b95\u0bae\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0bc2\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b9a\u0bb5\u0bbe\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd \u0b9a\u0bc2\u0bb4\u0bb2\u0bbf\u0bb2\u0bcd. \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbe\u0ba9\u0ba4\u0bc1 \u0b9f\u0bc0\u0b9c\u0bc7 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd 26 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd \u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1, \u0b87\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0ba8\u0bbe\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 20 \u0b9f\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0bb1\u0ba9\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0b85\u0ba4\u0bc7 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd, \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0ba4\u0bc7\u0bb7\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bcb\u0ba9\u0bc7\u0bb7\u0bbf\u0baf\u0bbe \u0baa\u0bcb\u0ba9\u0bcd\u0bb1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b86\u0b9f\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9f\u0bc0\u0b9c\u0bc7\u0baf\u0bc8 \u0ba8\u0bbf\u0bb2\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0ba9 \u0bae\u0bc2\u0bb2\u0bcb\u0baa\u0bbe\u0baf \u0b87\u0b9f\u0bae\u0bbe\u0b95 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0bb0\u0bc1\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b9f\u0bc0\u0b9c\u0bc7 \u0bb2\u0b99\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0baa\u0bc1\u0baa\u0bc1\u0ba4\u0bc1 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0baf\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1: \"\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bcb\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc2\u0bb2\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b9f\u0ba9\u0bcd, \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0baa\u0bb2 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bae\u0bbe\u0ba9 \u0b9a\u0baa\u0bcd\u0bb3\u0bc8\u0baf\u0bb0\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1 \u0b85\u0ba8\u0bcd\u0ba4\u0bb8\u0bcd\u0ba4\u0bc8 \u0bae\u0bc2\u0bb2\u0bcb\u0baa\u0bbe\u0baf\u0bae\u0bbe\u0b95 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3 Teejay\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1. \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0baa\u0bb2 \u0bae\u0bc2\u0bb2\u0bcb\u0baa\u0bbe\u0baf \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bcb\u0bae\u0bcd. \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0baf\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd, \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0ba8\u0bb5\u0bc0\u0ba9\u0bae\u0baf\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b9a\u0bcd\u0b9a\u0bc2\u0bb4\u0bb2\u0bcd, \u0b9a\u0bae\u0bc2\u0b95\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0bb3\u0bc1\u0b95\u0bc8 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 ESG \u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb5\u0ba9\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcb\u0bae\u0bcd. \u0b87\u0ba8\u0bcd\u0ba4 \u0b85\u0bae\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0b95\u0bc8 \u0ba4\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b9f\u0bc0\u0b9c\u0bc7 \u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0baa\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b85\u0bb1\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8 \u0ba8\u0bc6\u0bb1\u0bbf\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b85\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9c\u0bb5\u0bc1\u0bb3\u0bbf \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0b86\u0b95\u0bc1\u0bae\u0bcd, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0ba4\u0bc1 40% \u0baa\u0bca\u0ba4\u0bc1 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bcb\u0bb3\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bbe\u0b95\u0bc1\u0bae\u0bcd. 32% \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0b86\u0b9f\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bbe\u0ba9 Brandix Lanka \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0bb9\u0bca\u0b99\u0bcd\u0b95\u0bca\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bcd \u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd \u0b9f\u0bc6\u0b95\u0bcd\u0bb8\u0bcd\u0b9f\u0bc8\u0bb2\u0bcd\u0bb8\u0bcd, \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bcb \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9f\u0bcb\u0bb0\u0bc7 \u0b87\u0ba9\u0bcd\u0b9f\u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bc0\u0bb8\u0bcd \u0b87\u0ba9\u0bcd\u0b95\u0bcd., \u0b85\u0ba4\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd, \u0b9f\u0bc0\u0b9c\u0bc7 \u0bb2\u0b99\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd 27% \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd (EDB) \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0b9c\u0bb5\u0bc1\u0bb3\u0bbf \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bbe\u0b95 \u0b87\u0ba8\u0bcd\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd, LMD \u0b86\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd 100 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b92\u0bb0\u0bc1 ISO 9001:2015, ISO 14001:2015 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd OHSAS 18001:2007 \u0b87\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0b9a\u0bcd\u0b9a\u0bc8 \u0ba8\u0bbf\u0bb1 \u0ba4\u0bc1\u0ba3\u0bbf\u0baf\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9\u0ba4\u0bc1, \u0b9f\u0bc0\u0b9c\u0bc7 2011 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd (CSE) \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd S&P Top 20 \u0b87\u0bb2\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc6\u0ba3\u0bcd. \u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0baa\u0bcd\u0bb8\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u2018200 \u0baa\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd \u0b85\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd \u0b8e \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b87\u0ba9\u0bcd \u0b86\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd\u2019 \u0b8e\u0ba9 \u0baa\u0bc6\u0baf\u0bb0\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1, \u0bb2\u0ba3\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0bb0\u0bcd\u0bb2\u0bcd\u0b9f\u0bcd \u0b9f\u0bc6\u0b95\u0bcd\u0bb8\u0bcd\u0b9f\u0bc8\u0bb2\u0bcd \u200b\u200b\u0b87\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0bbf\u0b9f\u0bbf\u0baf\u0bc2\u0b9f\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u2018\u0b87\u0ba9\u0bcd\u0b9f\u0bb0\u0bcd\u0ba8\u0bc7\u0bb7\u0ba9\u0bb2\u0bcd \u0b9f\u0bc6\u0b95\u0bcd\u0bb8\u0bcd\u0b9f\u0bc8\u0bb2\u0bcd \u200b\u200b\u0b83\u0baa\u0bbe\u0bb0\u0bcd\u0bae\u0bcd \u0b86\u0b83\u0baa\u0bcd \u0ba4\u0bbf \u0b87\u0baf\u0bb0\u0bcd\u2019 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u2018\u0b87\u0ba9\u0bcd\u0b9f\u0bb0\u0bcd\u0ba8\u0bc7\u0bb7\u0ba9\u0bb2\u0bcd \u0b9f\u0bc8\u0baf\u0bb0\u0bcd \u0b85\u0ba3\u0bcd\u0b9f\u0bcd \u0b83\u0baa\u0bbf\u0ba9\u0bbf\u0bb7\u0bb0\u0bcd\u2019 \u0b8e\u0ba9 \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0b9f\u0bc0\u0b9c\u0baf\u0bcd",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b9f\u0bc0\u0b9c\u0baf\u0bcd \u0bb2\u0b99\u0bcd\u0b95\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b85\u0b9c\u0bbf\u0ba4\u0bcd \u0b95\u0bc1\u0ba3\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bc1\u0baa\u0bc1\u0ba4\u0bc1 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9f\u0bc0\u0b9c\u0bc7 \u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "2022-23",
+            "label": "DATE"
+          },
+          {
+            "text": "23.9 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "30 \u0b9c\u0bc2\u0ba9\u0bcd 2022 \u0b87\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f \u0baa\u0bbe\u0ba4\u0bbf",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0bb4\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "2021-22",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bc8\u0b9a\u0bbf \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0bb0\u0bc2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "291%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "301%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.2 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "108%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "12.9 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "323%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "311%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.3 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9f\u0bc0\u0b9c\u0bc7 \u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "1.50",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd 31, 2022 \u0b87\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9f\u0bc0\u0b9c\u0baf\u0bcd \u0bb2\u0b99\u0bcd\u0b95\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0b9c\u0bbf\u0ba4\u0bcd \u0b95\u0bc1\u0ba3\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "$ 26 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b9f\u0bc0\u0b9c\u0bc7 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "20 \u0b9f\u0ba9\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9f\u0bc0\u0b9c\u0baf\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0ba4\u0bc7\u0bb7\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bcb\u0ba9\u0bc7\u0b9a\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9f\u0bc0\u0b9c\u0baf\u0bcd \u0bb2\u0b99\u0bcd\u0b95\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bc1\u0baa\u0bc1\u0ba4\u0bc1 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9f\u0bc0\u0b9c\u0baf\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b9a\u0bcd\u0b9a\u0bc2\u0bb4\u0bb2\u0bcd, \u0b9a\u0bae\u0bc2\u0b95\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9f\u0bc0\u0b9c\u0baf\u0bcd \u0bb2\u0b99\u0bcd\u0b95\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baf\u0bc1\u0b8e\u0bb8\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd \u0b9f\u0bbf\u0bb0\u0bb8\u0bcd\u0b9f\u0bcd \u0baa\u0bc1\u0bb0\u0bcb\u0b9f\u0bcd\u0b9f\u0bcb\u0b95\u0bbe\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "40%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "32%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd \u0b9f\u0bc6\u0b95\u0bcd\u0bb8\u0bcd\u0b9f\u0bc8\u0bb2\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb9\u0bbe\u0b99\u0bcd\u0b95\u0bbe\u0b99\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bcb \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9f\u0bcb\u0bb0\u0bc7 \u0b87\u0ba3\u0bcd\u0b9f\u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bc0\u0bb8\u0bcd \u0b87\u0ba9\u0bcd\u0b95\u0bcd.",
+            "label": "ORG"
+          },
+          {
+            "text": "27%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9f\u0bc0\u0b9c\u0baf\u0bcd \u0bb2\u0b99\u0bcd\u0b95\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0b9c\u0bb5\u0bc1\u0bb3\u0bbf \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0b8e\u0bb8\u0bcd\u0b93",
+            "label": "ORG"
+          },
+          {
+            "text": "ISO 14001:2015",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b9f\u0bc0\u0b9c\u0baf\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "2011",
+            "label": "DATE"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0baa\u0bcd\u0bb8\u0bcd \u2018200",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "'\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9c\u0bb5\u0bc1\u0bb3\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "'\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9a\u0bbe\u0baf\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bb5\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b89\u0bb2\u0b95 \u0b9c\u0bb5\u0bc1\u0bb3\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb2\u0ba3\u0bcd\u0b9f\u0ba9\u0bcd",
+            "label": "GPE"
+          }
+        ]
+      ]
+    }
+  }
+}
