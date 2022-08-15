@@ -1,36 +1,42 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-15 22:41:14 (LK time)*
+*As of 2022-08-15 23:03:44 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
+## Last 30 Minutes (2 Articles)
+
+* **1** ada-derana-lk ([UK becomes first to approve COVID vaccine targeting both Omicron and original strain](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edc28e40.json))
+
+* **1** daily-mirror-lk ([2500 academics and professionals identified to advise govt. : NMSJ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1486de3.json))
+
 ## Last Hour (3 Articles)
 
-* **2** daily-mirror-lk ([Joes beat Wesley, finish league runners-up](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2c3bc9f.json))
+* **2** daily-mirror-lk ([Prez has not learned anything from the past: Ven. Sobitha Thera](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb1bfd4e.json))
 
-* **1** ada-derana-lk ([William Ruto declared Kenya’s new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3744aa85.json))
+* **1** ada-derana-lk ([UK becomes first to approve COVID vaccine targeting both Omicron and original strain](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edc28e40.json))
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (9 Articles)
 
-* **7** lankadeepa-lk ([කාන්තාවකගේ පා පහරින් කොන්දොස්තට බසයෙන් එළියට විසි වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/6652df89.json))
+* **3** daily-mirror-lk ([Joes beat Wesley, finish league runners-up](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/457854be.json))
 
-* **2** daily-mirror-lk ([Joes beat Wesley, finish league runners-up](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2c3bc9f.json))
+* **3** lankadeepa-lk ([ශ්‍රී ලංකාව තව පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0df75c48.json))
 
-* **1** ada-derana-lk ([William Ruto declared Kenya’s new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3744aa85.json))
+* **2** ada-derana-lk ([William Ruto declared Kenya’s new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3744aa85.json))
 
 * **1** tamil-mirror-lk (['உறவினை மேலும் வலுப்படுத்த எதிர்பார்த்துள்ளோம்'](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4a13f75.json))
 
-## Last 24 Hours (204 Articles)
+## Last 24 Hours (207 Articles)
 
 * **43** lankadeepa-lk ([හරක් කටාගේ වෙඩික්කරු අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a01760c.json))
 
-* **32** daily-mirror-lk ([Tourist arrivals from August 1 – 11 cross 16,000 mark](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c28f5fcd.json))
+* **34** daily-mirror-lk ([Tourist arrivals from August 1 – 11 cross 16,000 mark](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c28f5fcd.json))
 
 * **31** ada-lk ([ජොනී, නාමල්, මහින්දානන්ද, රෝහිත, පවිත්‍රා ඇතුළු පිරිසකට ඇමතිධුර දෙන්නැයි බැසිල් ජනපතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5ffadcf1.json))
 
 * **28** tamil-mirror-lk ([பாகிஸ்தான் கப்பலுடன் போர் பயிற்சி இல்லை: இலங்கை கடற்படை](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96d36a5d.json))
 
-* **25** ada-derana-lk ([Cardinal Ranjith’s request to President Ranil](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/629fcc01.json))
+* **26** ada-derana-lk ([Cardinal Ranjith’s request to President Ranil](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/629fcc01.json))
 
 * **22** news-first-lk ([1 hour Power cut for today (15), tomorrow (16)](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4994f786.json))
 
@@ -40,21 +46,21 @@
 
 * **1** colombo-telegraph-com ([A True Democratic Leadership](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e696b38d.json))
 
-## Last Week (520 Articles)
+## Last Week (523 Articles)
 
-* **79** daily-mirror-lk ([First formulate common policy, not sharing portfolios](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35fc81b1.json))
+* **81** daily-mirror-lk ([First formulate common policy, not sharing portfolios](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35fc81b1.json))
 
 * **78** daily-ft-lk ([The Aragalaya:  A sceptic’s notes](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac359902.json))
 
-* **74** lankadeepa-lk ([කෝටි හැටක කැකුළු හාල් කුකුළන්ට දුන් නරුමයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23151b46.json))
+* **74** lankadeepa-lk ([කෝටි හැටක කැකුළු හාල් කුකුළන්ට දුන් නරුමයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95fd375f.json))
 
 * **57** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
 
 * **48** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
-* **47** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
+* **47** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
-* **46** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
+* **47** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
 * **43** economy-next-com ([Sri Lanka cabinet nod for cost-based cooking gas pricing formula](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1569b68.json))
 
@@ -64,11 +70,11 @@
 
 * **13** colombo-telegraph-com ([The Aragalaya & Morality](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9788f39.json))
 
-## All Time (806 Articles)
+## All Time (809 Articles)
 
 * **135** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **115** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
+* **117** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
 * **115** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
@@ -80,9 +86,9 @@
 
 * **48** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
-* **47** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
+* **47** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
-* **46** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
+* **47** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
 * **27** island-lk ([Lanka’s misery should be warning to us all on global food, fuel and finance crisis: UNDP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564b2893.json))
 
