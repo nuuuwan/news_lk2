@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0b9f\u0bc8-\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0ba4\u0bc1\u0bb5\u0bc7-\u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd/175-302369",
+    "time_ut": 1660552411,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0b9f\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba4\u0bc1\u0bb5\u0bc7 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/54/5475face.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0daf\u0dd2\u0dbb\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396311",
+    "time_ut": 1660551391,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0daf\u0dd2\u0dbb\u0dcf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/94/943ddac3.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Dhaniz-Ali-released-on-bail/342-243080",
     "time_ut": 1660551327,
@@ -14,6 +30,14 @@
     "original_lang": "en",
     "original_title": "India officially hands over Dornier 228 Maritime Patrol Aircraft",
     "file_name": "/tmp/news_lk2/articles/0e/0e5384b2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84313/sri-lanka-ceremoniously-welcomes-dornier-228-maritime-patrol-aircraft-from-india",
+    "time_ut": 1660550940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka ceremoniously welcomes Dornier 228 Maritime Patrol Aircraft from India",
+    "file_name": "/tmp/news_lk2/articles/97/97fd0d32.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
