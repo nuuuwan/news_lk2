@@ -1,34 +1,36 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-15 21:01:27 (LK time)*
+*As of 2022-08-15 21:18:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** lankadeepa-lk ([බීමත් සිවු දෙනෙක් යාල් දේවිය පැයක් ප්‍රමාද කරති](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8263a87a.json))
+* **1** lankadeepa-lk ([පොලිසියෙ 7ක් නීතිඥවරුන් වශයෙන් දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34fb01a5.json))
+
+## Last Hour (2 Articles)
+
+* **2** lankadeepa-lk ([ශ්‍රී ලංකාව තව පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0df75c48.json))
+
+## Last 3 Hours (21 Articles)
+
+* **10** lankadeepa-lk ([පාසල් දැරියකට කැත වැඩක් කළ පහක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a80a9e85.json))
+
+* **5** daily-mirror-lk ([S&P pushes Sri Lankan bonds deeper into junk territory with ’default’ rating](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/165dcf51.json))
+
+* **2** ada-derana-lk ([Revised postal charges effective from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/200f4392.json))
 
 * **1** tamil-mirror-lk (['உறவினை மேலும் வலுப்படுத்த எதிர்பார்த்துள்ளோம்'](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4a13f75.json))
 
-## Last 3 Hours (25 Articles)
-
-* **10** lankadeepa-lk ([ක්‍රිකට් ආයතනය අර්ජුනගෙන් කෝටි 200ක් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1a3e5b8.json))
-
-* **6** daily-mirror-lk ([Expose corrupt deals...](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b299779.json))
-
-* **3** ada-derana-lk ([S&P pushes Sri Lankan bonds deeper into junk territory with ‘default’ rating](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c679bd0.json))
-
-* **2** tamil-mirror-lk ([வியக்க வைத்த பூப்புனித நீராட்டு விழா](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/547dbcef.json))
-
-* **2** news-first-lk ([Admiral (Prof) Jayanath Colombage for Ambassador to Indonesia](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a715e05e.json))
-
 * **1** ada-lk ([ඉන්දියාව හා ලංකාව එකම කාසියේ දෙපැත්තක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e376d53.json))
+
+* **1** news-first-lk ([India and Sri Lanka two sides of the same coin, must forge ahead together –President](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d1eeac2.json))
 
 * **1** economy-next-com ([Sri Lanka’s Laugfs Gas makes a loss of 94-pct in June 2022 quarter](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a69fa27.json))
 
-## Last 24 Hours (209 Articles)
+## Last 24 Hours (207 Articles)
 
-* **44** lankadeepa-lk ([කොවිඩ් ආසාදිතයන් 96 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/9581b597.json))
+* **42** lankadeepa-lk ([ඇවෙන්ඩ්‍රා හෝටලයෙන් මැයි 9 වැනි දා ගිනි අවි 4 ක් උත්සලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e923b94.json))
 
 * **30** daily-mirror-lk ([Tourist arrivals from August 1 – 11 cross 16,000 mark](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c28f5fcd.json))
 
@@ -50,13 +52,13 @@
 
 * **1** d-b-s-jeyaraj-com ([Ranil Wickremesinghe, Dulles Alahapperuma and the Historic 2022 Presidential Election](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9e215e0.json))
 
-## Last Week (513 Articles)
+## Last Week (514 Articles)
 
 * **78** daily-ft-lk ([The Aragalaya:  A sceptic’s notes](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac359902.json))
 
 * **77** daily-mirror-lk ([First formulate common policy, not sharing portfolios](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35fc81b1.json))
 
-* **71** lankadeepa-lk ([කෝටි හැටක කැකුළු හාල් කුකුළන්ට දුන් නරුමයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23151b46.json))
+* **72** lankadeepa-lk ([කෝටි හැටක කැකුළු හාල් කුකුළන්ට දුන් නරුමයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23151b46.json))
 
 * **56** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
 
@@ -74,9 +76,9 @@
 
 * **13** colombo-telegraph-com ([The Aragalaya & Morality](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9788f39.json))
 
-## All Time (799 Articles)
+## All Time (800 Articles)
 
-* **132** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **133** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **114** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
