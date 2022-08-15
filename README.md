@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-16 03:00:13 (LK time)*
+*As of 2022-08-16 03:18:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (3 Articles)
-
-* **3** daily-ft-lk ([Committee on High Posts approves five new Ministry Secretaries, one Ambassador](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abf35d13.json))
 
 ## Last 3 Hours (17 Articles)
 
@@ -36,9 +32,9 @@
 
 * **2** colombo-telegraph-com ([A True Democratic Leadership](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e696b38d.json))
 
-## Last Week (544 Articles)
+## Last Week (541 Articles)
 
-* **93** daily-ft-lk ([The Aragalaya:  A sceptic’s notes](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac359902.json))
+* **90** daily-ft-lk ([SLID webinar on ‘Company Secretary in the Digital Age’](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af36987d.json))
 
 * **83** daily-mirror-lk ([Chinese social media platform bars a promotional campaign by SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7fce83a2.json))
 
