@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Tamil-politicians-welcome-delisting-of-diaspora-organisations/56-738738",
+    "time_ut": 1660595826,
+    "original_lang": "en",
+    "original_title": "Tamil politicians welcome delisting of diaspora organisations",
+    "file_name": "/tmp/news_lk2/articles/f7/f78539a1.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SLPP-violations-exacerbated-crisis-Kiriella/56-738737",
+    "time_ut": 1660595792,
+    "original_lang": "en",
+    "original_title": "SLPP violations exacerbated crisis: Kiriella",
+    "file_name": "/tmp/news_lk2/articles/dc/dced0596.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Committee-on-High-Posts-approves-five-new-Ministry-Secretaries-one-Ambassador/56-738736",
+    "time_ut": 1660595766,
+    "original_lang": "en",
+    "original_title": "Committee on High Posts approves five new Ministry Secretaries, one Ambassador",
+    "file_name": "/tmp/news_lk2/articles/ab/abf35d13.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/President-says-India-and-Sri-Lanka-two-sides-of-the-same-coin-must-forge-ahead-together/56-738719",
     "time_ut": 1660593793,
     "original_lang": "en",
