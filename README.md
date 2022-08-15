@@ -1,36 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-16 01:16:57 (LK time)*
+*As of 2022-08-16 01:37:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (8 Articles)
 
-* **2** daily-ft-lk ([Lankan motorists deprived of super diesel: A penny wise pound foolish move?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fae6a4b6.json))
+* **8** daily-ft-lk ([Democratic leadership, not benevolent dictatorship – key to Sri Lanka’s future](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f8806ea.json))
 
-* **1** economy-next-com ([Sri Lanka sovereign rating at SD but ISBs downgraded to ‘D’ by S&P](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77536cc3.json))
+## Last Hour (11 Articles)
 
-## Last Hour (4 Articles)
-
-* **2** daily-ft-lk ([Lankan motorists deprived of super diesel: A penny wise pound foolish move?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fae6a4b6.json))
+* **10** daily-ft-lk ([Lankan motorists deprived of super diesel: A penny wise pound foolish move?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fae6a4b6.json))
 
 * **1** economy-next-com ([Sri Lanka sovereign rating at SD but ISBs downgraded to ‘D’ by S&P](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77536cc3.json))
 
-* **1** tamil-mirror-lk ([அரச நிறுவனங்களின் தலைவர்களுக்கு ஜனாதிபதியின் உத்தரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0247acee.json))
+## Last 3 Hours (22 Articles)
 
-## Last 3 Hours (14 Articles)
+* **10** daily-ft-lk ([Lankan motorists deprived of super diesel: A penny wise pound foolish move?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fae6a4b6.json))
 
 * **6** daily-mirror-lk ([2500 academics and professionals identified to advise govt. : NMSJ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1486de3.json))
 
 * **3** economy-next-com ([Sri Lanka stocks rally continues for 12th straight session on political stability hopes](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16a9ab5d.json))
 
-* **2** daily-ft-lk ([Lankan motorists deprived of super diesel: A penny wise pound foolish move?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fae6a4b6.json))
-
 * **2** ada-derana-lk ([UK becomes first to approve COVID vaccine targeting both Omicron and original strain](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edc28e40.json))
 
 * **1** tamil-mirror-lk ([அரச நிறுவனங்களின் தலைவர்களுக்கு ஜனாதிபதியின் உத்தரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0247acee.json))
 
-## Last 24 Hours (208 Articles)
+## Last 24 Hours (214 Articles)
 
 * **44** lankadeepa-lk ([හරක් කටාගේ වෙඩික්කරු අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a01760c.json))
 
@@ -40,21 +36,21 @@
 
 * **26** ada-derana-lk ([Leading gunman of Harak Kata’s criminal gang under arrest](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6e75abd.json))
 
-* **25** tamil-mirror-lk ([டீசல் கப்பல் வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec2bf21a.json))
+* **24** tamil-mirror-lk ([’இலங்கை அரசின் நம்பிக்கைத் துரோகம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9fae959.json))
 
 * **22** news-first-lk ([1 hour Power cut for today (15), tomorrow (16)](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4994f786.json))
 
-* **14** economy-next-com ([Sri Lanka’s bond yields steady; rupee guidance peg appreciates by 7 cents](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66cb130f.json))
+* **15** daily-ft-lk ([Navy rejects reports of ‘War Game’ with Pakistan](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f01a3018.json))
 
-* **8** daily-ft-lk ([Foreign Ministry justifies approval for Chinese vessel YUAN WANG 5 dock at Hambantota](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/146ece6f.json))
+* **14** economy-next-com ([Sri Lanka’s bond yields steady; rupee guidance peg appreciates by 7 cents](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66cb130f.json))
 
 * **1** colombo-telegraph-com ([A True Democratic Leadership](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e696b38d.json))
 
-## Last Week (530 Articles)
+## Last Week (538 Articles)
+
+* **88** daily-ft-lk ([The Aragalaya:  A sceptic’s notes](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac359902.json))
 
 * **83** daily-mirror-lk ([Chinese social media platform bars a promotional campaign by SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7fce83a2.json))
-
-* **80** daily-ft-lk ([The Aragalaya:  A sceptic’s notes](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac359902.json))
 
 * **75** lankadeepa-lk ([කෝටි හැටක කැකුළු හාල් කුකුළන්ට දුන් නරුමයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23151b46.json))
 
@@ -74,7 +70,7 @@
 
 * **13** colombo-telegraph-com ([The Aragalaya & Morality](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9788f39.json))
 
-## All Time (822 Articles)
+## All Time (830 Articles)
 
 * **136** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -84,7 +80,7 @@
 
 * **111** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 
-* **92** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
+* **100** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
 * **54** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 

@@ -1,6 +1,70 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/India-gifts-Dornier-aircraft-to-strengthen-maritime-security-of-SL/56-738717",
+    "time_ut": 1660593688,
+    "original_lang": "en",
+    "original_title": "India gifts Dornier aircraft to strengthen maritime security of SL",
+    "file_name": "/tmp/news_lk2/articles/90/90b6df9e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Sri-Lanka-celebrates-26th-anniversary-of-diplomatic-relations-with-Lithuania/56-738716",
+    "time_ut": 1660593639,
+    "original_lang": "en",
+    "original_title": "Sri Lanka celebrates 26th anniversary of diplomatic relations with Lithuania",
+    "file_name": "/tmp/news_lk2/articles/f3/f3bc6f5c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Hela-Apparel-marks-impressive-start-to-FY-23-with-Rs-354-m-PAT-in-1Q/34-738715",
+    "time_ut": 1660593476,
+    "original_lang": "en",
+    "original_title": "Hela Apparel marks impressive start to FY 23 with Rs. 354 m PAT in 1Q",
+    "file_name": "/tmp/news_lk2/articles/a9/a97bbdcb.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/SLASSCOM-welcomes-relaxation-of-mandatory-forex-conversion/34-738714",
+    "time_ut": 1660593451,
+    "original_lang": "en",
+    "original_title": "SLASSCOM welcomes relaxation of mandatory forex conversion",
+    "file_name": "/tmp/news_lk2/articles/60/60b08edc.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Industry-veteran-appointed-as-new-DG-Civil-Aviation-CEO-Civil-Aviation-Authority/34-738713",
+    "time_ut": 1660593436,
+    "original_lang": "en",
+    "original_title": "Industry veteran appointed as new DG Civil Aviation, CEO Civil Aviation Authority",
+    "file_name": "/tmp/news_lk2/articles/36/36d48e6d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/StrEdge-promotes-SMART-restructuring-of-businesses/34-738712",
+    "time_ut": 1660593411,
+    "original_lang": "en",
+    "original_title": "StrEdge promotes \u2018SMART\u2019 restructuring of businesses",
+    "file_name": "/tmp/news_lk2/articles/b0/b0e53b30.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Clamour-of-systems-change-by-the-Aragalaya-on-public-discontent/4-738705",
+    "time_ut": 1660592679,
+    "original_lang": "en",
+    "original_title": "Clamour of systems change by the Aragalaya on public discontent",
+    "file_name": "/tmp/news_lk2/articles/19/19406224.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Democratic-leadership-not-benevolent-dictatorship-key-to-Sri-Lanka-s-future/4-738704",
+    "time_ut": 1660592511,
+    "original_lang": "en",
+    "original_title": "Democratic leadership, not benevolent dictatorship \u2013 key to Sri Lanka\u2019s future",
+    "file_name": "/tmp/news_lk2/articles/5f/5f8806ea.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Transportation-dilemma-in-Sri-Lanka/4-738702",
     "time_ut": 1660592114,
     "original_lang": "en",
