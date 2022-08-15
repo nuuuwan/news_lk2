@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-3-hour-power-cuts-from-aug-16-to-19-98649/",
+    "time_ut": 1660558500,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules 3-hour power cuts from Aug 16 to 19",
+    "file_name": "/tmp/news_lk2/articles/39/39c7ab78.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dbb\u0dd4\u0dc0\u0dcf-\u0d9a\u0dd8\u0dd8\u0dbb\u0dad\u0dca\u0dc0\u0dba\u0da7-\u0db4\u0dad\u0dca-\u0d9a\u0dc5-\u0dad\u0dcf\u0dad\u0dca\u0dad\u0dcf-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/101-618145",
+    "time_ut": 1660558463,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dbb\u0dd4\u0dc0\u0dcf \u0d9a\u0dd8\u0dd8\u0dbb\u0dad\u0dca\u0dc0\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dc5 \u0dad\u0dcf\u0dad\u0dca\u0dad\u0dcf \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "file_name": "/tmp/news_lk2/articles/44/443521a0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd9\u0da7-\u0dc3\u0dd2\u0da7-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0dbb\u0da7\u0db8-\u0db4\u0dd0\u0dba-3\u0d9a-\u0d85\u0db3\u0dd4\u0dbb\u0da7/101-618144",
+    "time_ut": 1660558288,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd9\u0da7 \u0dc3\u0dd2\u0da7 \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0dbb\u0da7\u0db8 \u0db4\u0dd0\u0dba 3\u0d9a \u0d85\u0db3\u0dd4\u0dbb\u0da7",
+    "file_name": "/tmp/news_lk2/articles/5a/5a8d68a8.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9a\u0dcf-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0d89\u0dc0\u0dad\u0dca-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a\u0dca/1-618143",
     "time_ut": 1660557584,
@@ -14,6 +38,30 @@
     "original_lang": "en",
     "original_title": "PUCSL approves three-hour power cuts for Aug 16-19",
     "file_name": "/tmp/news_lk2/articles/bd/bd434193.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84315/three-hour-power-cuts-from-aug-16-19",
+    "time_ut": 1660557540,
+    "original_lang": "en",
+    "original_title": "Three-hour power cuts from Aug 16-19",
+    "file_name": "/tmp/news_lk2/articles/92/927547dc.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-freedom-party-yet-to-decide-on-joining-all-party-govt-98650/",
+    "time_ut": 1660557480,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Freedom Party yet to decide on joining all-party govt",
+    "file_name": "/tmp/news_lk2/articles/11/116a020d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dc0\u0dd4\u0dc3\u0dbb\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0d87\u0daf\u0dca\u0daf-06\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-396317",
+    "time_ut": 1660557288,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dc0\u0dd4\u0dc3\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0d87\u0daf\u0dca\u0daf 06\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/24/2484bc51.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -33,11 +81,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd4\u0dbb\u0dd4\u0dbd\u0dca\u0dbd\u0dcf-\u0db6\u0dda\u0dbb\u0dcf-\u0d9c\u0db1\u0dca\u0db1-\u0db4\u0dd6\u0dc3\u0ddd-\u2018\u0dbd\u0ddc\u0d9a\u0dca\u0da9\u0dc0\u0dd4\u0db1\u0dca\u2019/1-618142",
+    "url": "https://www.lankadeepa.lk/world_news/\u0d9a\u0dd4\u0dbb\u0dd4\u0dbd\u0dca\u0dbd\u0dcf-\u0db6\u0dda\u0dbb\u0dcf-\u0d9c\u0db1\u0dca\u0db1-\u0db4\u0dd6\u0dc3\u0ddd-\u2018\u0dbd\u0ddc\u0d9a\u0dca\u0da9\u0dc0\u0dd4\u0db1\u0dca\u2019/14-618142",
     "time_ut": 1660556208,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dd4\u0dbb\u0dd4\u0dbd\u0dca\u0dbd\u0dcf \u0db6\u0dda\u0dbb\u0dcf \u0d9c\u0db1\u0dca\u0db1 \u0db4\u0dd6\u0dc3\u0ddd \u2018\u0dbd\u0ddc\u0d9a\u0dca\u0da9\u0dc0\u0dd4\u0db1\u0dca\u2019",
-    "file_name": "/tmp/news_lk2/articles/f5/f55d837d.json"
+    "file_name": "/tmp/news_lk2/articles/73/730ed553.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -5201,11 +5249,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Japan-will-not-help-SL-now/342-240126",
+    "url": "https://www.dailymirror.lk/top_story/Japan-will-not-help-SL-now/155-240126",
     "time_ut": 1656643666,
     "original_lang": "en",
     "original_title": "Japan will not help SL now",
-    "file_name": "/tmp/news_lk2/articles/d4/d4730f59.json"
+    "file_name": "/tmp/news_lk2/articles/44/446d6352.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -5457,11 +5505,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Basil-fights-back-to-save-his-political-future-as-RW-pushes-for-21A-today/342-237802",
+    "url": "https://www.dailymirror.lk/top_story/Basil-fights-back-to-save-his-political-future-as-RW-pushes-for-21A-today/155-237802",
     "time_ut": 1653613036,
     "original_lang": "en",
     "original_title": "Basil fights back to save his political future as RW pushes for 21A today",
-    "file_name": "/tmp/news_lk2/articles/1e/1e5080db.json"
+    "file_name": "/tmp/news_lk2/articles/9b/9bb25c37.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -5489,11 +5537,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Leave-aside-party-politics-and-lets-join-hands-to-resolve-burning-issues-RW-writes-to-Sajith/342-237033",
+    "url": "https://www.dailymirror.lk/top_story/Leave-aside-party-politics-and-lets-join-hands-to-resolve-burning-issues-RW-writes-to-Sajith/155-237033",
     "time_ut": 1652512579,
     "original_lang": "en",
     "original_title": "Leave aside party politics and lets join hands to resolve burning issues - RW writes to Sajith",
-    "file_name": "/tmp/news_lk2/articles/a4/a4275c0a.json"
+    "file_name": "/tmp/news_lk2/articles/7e/7ebe9a84.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
