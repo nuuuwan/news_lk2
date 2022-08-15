@@ -1,28 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-16 02:17:18 (LK time)*
+*As of 2022-08-16 02:36:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **2** daily-ft-lk ([SLPP violations exacerbated crisis: Kiriella](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dced0596.json))
+
+## Last Hour (3 Articles)
 
 * **3** daily-ft-lk ([Committee on High Posts approves five new Ministry Secretaries, one Ambassador](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abf35d13.json))
 
-## Last Hour (11 Articles)
-
-* **11** daily-ft-lk ([StrEdge promotes ‘SMART’ restructuring of businesses](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0e53b30.json))
-
-## Last 3 Hours (21 Articles)
+## Last 3 Hours (19 Articles)
 
 * **15** daily-ft-lk ([Lankan motorists deprived of super diesel: A penny wise pound foolish move?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fae6a4b6.json))
 
-* **3** economy-next-com ([Sri Lanka stocks rally continues for 12th straight session on political stability hopes](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16a9ab5d.json))
+* **2** economy-next-com ([Sri Lanka rupee guidance peg edges up; market sees dull trade in govt securities](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/626d125d.json))
 
 * **1** tamil-mirror-lk ([அரச நிறுவனங்களின் தலைவர்களுக்கு ஜனாதிபதியின் உத்தரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0247acee.json))
 
 * **1** ada-derana-lk ([President orders to strictly limit state sector expenditures](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29d6a7f4.json))
-
-* **1** daily-mirror-lk ([Certain elements spreading malicious propaganda to destroy confectionery industry: Association](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef662582.json))
 
 ## Last 24 Hours (214 Articles)
 
