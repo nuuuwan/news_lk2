@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-rupee-guidance-peg-edges-down-yields-in-govt-securities-little-changed-98689/",
+    "time_ut": 1660672320,
+    "original_lang": "en",
+    "original_title": "Sri Lanka rupee guidance peg edges down; yields in govt securities little changed",
+    "file_name": "/tmp/news_lk2/articles/6d/6dc34134.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-shares-bucks-winning-streak-on-profit-taking-after-gaining-20-98688/",
     "time_ut": 1660671780,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dba\u0dd4\u0daf \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2 \u0dc0\u0dd0\u0da9\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/d1/d1b5fd4f.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/politics/\u0dc3\u0da2\u0dd2\u0dad\u0dca\u0d9c\u0dda-\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba/13-607270",
-    "time_ut": 1643361732,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0da2\u0dd2\u0dad\u0dca\u0d9c\u0dda \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba",
-    "file_name": "/tmp/news_lk2/articles/1d/1de06cc5.json"
   }
 ]
