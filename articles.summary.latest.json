@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dbb\u0d9a\u0dca-\u0d9a\u0da7\u0dcf-\u0db6\u0dda\u0dbb\u0dcf-\u0d9c\u0db1\u0dca\u0db1-\u0d9a\u0dd4\u0da9\u0dca\u0da9\u0ddd-\u0da7\u0dd2\u0d9a\u0d9a\u0dca-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca-\u0dc0\u0dd9\u0dad\u0dd2/101-618178",
+    "time_ut": 1660611656,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dbb\u0d9a\u0dca \u0d9a\u0da7\u0dcf \u0db6\u0dda\u0dbb\u0dcf \u0d9c\u0db1\u0dca\u0db1 \u0d9a\u0dd4\u0da9\u0dca\u0da9\u0ddd \u0da7\u0dd2\u0d9a\u0d9a\u0dca \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca \u0dc0\u0dd9\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/cb/cb7fe76e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0dc3\u0dd2-\u0daf\u0dd9\u0d9a\u0da7-\u0d9a\u0db9-\u0d87\u0daf\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca/101-618177",
+    "time_ut": 1660611354,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0dc3\u0dd2 \u0daf\u0dd9\u0d9a\u0da7 \u0d9a\u0db9 \u0d87\u0daf\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/50/503d62f2.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Tamil-politicians-welcome-delisting-of-diaspora-organisations/56-738738",
     "time_ut": 1660595826,
