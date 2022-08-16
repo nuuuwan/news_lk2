@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-17 04:20:49 (LK time)*
+*As of 2022-08-17 04:36:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (8 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **8** daily-ft-lk ([Namal Rajapaksa assumes head-hunter role](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0347d1c6.json))
+* **1** daily-ft-lk ([The 2,000-day struggle by Tamil mothers of the “disappeared”](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c474b64.json))
 
 ## Last Hour (13 Articles)
 
