@@ -1,38 +1,36 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-17 00:22:00 (LK time)*
+*As of 2022-08-17 00:37:12 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** ada-derana-lk ([Foreign Minister briefs diplomatic corps on current developments](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/447fabfa.json))
 
-* **1** tamil-mirror-lk ([சொந்த நிதியில் வெளிநாட்டுப் பயணங்களை மேற்கொள்ளும் கோட்டா](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/999a8e18.json))
+## Last Hour (4 Articles)
 
-## Last Hour (6 Articles)
-
-* **3** tamil-mirror-lk ([மன்னார், பூநகரியில் காற்றாலை: அதானி குழுமத்துக்கு அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1868f7fb.json))
-
-* **2** ada-lk ([යුවාන් වැංග් 5 කිසිඳු රටක බලපෑමකට ලක් නොවිය යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd8a167f.json))
+* **2** tamil-mirror-lk ([இலங்கையில் மின்சார முச்சக்கர வண்டிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b074b68.json))
 
 * **1** ada-derana-lk ([Foreign Minister briefs diplomatic corps on current developments](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/447fabfa.json))
 
-## Last 3 Hours (24 Articles)
+* **1** ada-lk ([හිටපු ජනපතිගේ එතෙර වියදම් රජයේ මුදලින් නොවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e96cc0.json))
+
+## Last 3 Hours (21 Articles)
 
 * **5** tamil-mirror-lk ([இலங்கை தொடர்பில் பிரித்தானியா எடுத்துள்ள தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/6482a7d9.json))
 
-* **5** news-first-lk ([IMF Agreement will give Sri Lanka confidence – President](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60d47755.json))
-
-* **4** ada-derana-lk ([Coronavirus: 6 more deaths and 195 new cases reported](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82f5f6aa.json))
-
-* **4** ada-lk ([හදිසි නීතිය දීර්ඝ නොකරන බව ජනපති කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93c18b89.json))
-
 * **4** daily-mirror-lk ([Emergency will not be extended beyond Aug. 18: President](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20ac604c.json))
+
+* **4** news-first-lk ([Polish man arrested with Rs. 245 Mn worth Cocaine by Customs](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b714dc1c.json))
+
+* **3** ada-derana-lk ([India’s Adani Green Energy given provisional approval for two wind projects](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9cbf497.json))
+
+* **3** ada-lk ([අදානි සමාගමට සූළං විදුලි ව්‍යාපෘති දෙකක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b95390c.json))
 
 * **2** economy-next-com ([Sri Lanka shares bucks winning streak on profit taking after gaining 20%](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/475dc415.json))
 
-## Last 24 Hours (214 Articles)
+## Last 24 Hours (212 Articles)
 
 * **46** news-first-lk ([Chinese Research / Survey Vessel Yuan Wang 5 reaches Sri Lanka’s Hambantota](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8fd8b3f4.json))
 
@@ -44,7 +42,7 @@
 
 * **25** ada-lk ([චීන නැව එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/2877cbec.json))
 
-* **20** tamil-mirror-lk ([அரச நிறுவனங்களின் தலைவர்களுக்கு ஜனாதிபதியின் உத்தரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0247acee.json))
+* **18** tamil-mirror-lk ([சட்டத்தரணிகளான பொலிஸ் அதிகாரிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/4295bcbf.json))
 
 * **15** daily-ft-lk ([Lankan motorists deprived of super diesel: A penny wise pound foolish move?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fae6a4b6.json))
 
@@ -52,7 +50,7 @@
 
 * **2** colombo-telegraph-com ([The Despot President Was Replaced By A Tyrant In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d2d53f5.json))
 
-## Last Week (738 Articles)
+## Last Week (736 Articles)
 
 * **114** lankadeepa-lk ([විසම්මුතියෙන් සම්මුතියට ඇවිත් ආර්ථිකය නංවමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17266770.json))
 
@@ -74,7 +72,7 @@
 
 * **16** colombo-telegraph-com ([The Aragalaya & Morality](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9788f39.json))
 
-* **15** d-b-s-jeyaraj-com ([Ex- Sri Lankan President Gotabaya Rajapaksa  Likely to move from Singapore to Thailand for Temporary Stay; “The Sri Lankan side informs us that the former president has no intention for political asylum in Thailand and will travel to another country afterwards.” Says Thai Foreign Ministry Spokesman Tanee Sangrat](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f672d81.json))
+* **13** d-b-s-jeyaraj-com ([“Gota Go Home” Protest That Began at Galle Face on April 9 Ends After 4 Months on Augut 9 but “Aragalaya”(struggle) will Continue in Different Forms;Protesters Withdrwa 4 Writs Filed in Appeal Court against Removal of Site;Organizers Allege bulk of 43 Tents have been stolen by third parties](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ad5d93f.json))
 
 ## All Time (1,047 Articles)
 
