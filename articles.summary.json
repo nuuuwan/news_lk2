@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/yuan-wang-s-research-activities-are-consistent-with-int-l-law-chinese-foreign-ministry-spokesperson/",
+    "time_ut": 1660656360,
+    "original_lang": "en",
+    "original_title": "Yuan Wang\u2019s research activities are consistent with Int\u2019l law: Chinese Foreign Ministry Spokesperson",
+    "file_name": "/tmp/news_lk2/articles/c6/c632bacd.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Authorities-remain-to-be-vigilant-on-delisted-persons-entities-SL/108-243176",
     "time_ut": 1660655496,
@@ -774,6 +782,14 @@
     "original_lang": "en",
     "original_title": "Committee to approve appointment of heads to govt institutions",
     "file_name": "/tmp/news_lk2/articles/80/80102a43.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf-\u0db1\u0dd0\u0dc0-\u0db8\u0dda-\u0dc3\u0dad\u0dd2\u0dba\u0dda\u0daf\u0dd2-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/11-396335",
+    "time_ut": 1660628973,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db1\u0dd0\u0dc0 \u0db8\u0dda \u0dc3\u0dad\u0dd2\u0dba\u0dda\u0daf\u0dd2 \u0d9a\u0ddc\u0dc5\u0db9\u0da7",
+    "file_name": "/tmp/news_lk2/articles/64/64eae7fb.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
