@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/jaaf-welcomes-american-apparel-support/",
+    "time_ut": 1660641420,
+    "original_lang": "en",
+    "original_title": "JAAF welcomes American Apparel support",
+    "file_name": "/tmp/news_lk2/articles/e4/e4267045.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bc2\u0bb0\u0bbf\u0bb2\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0b9a\u0bc6\u0bb2\u0bb5\u0bc1-\u0b8e\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1-\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe/175-302425",
+    "time_ut": 1660641419,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bc2\u0bb0\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1 \u0b8e\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe?",
+    "file_name": "/tmp/news_lk2/articles/d7/d7c93b98.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/iran-assures-continued-assistance/",
+    "time_ut": 1660640820,
+    "original_lang": "en",
+    "original_title": "Iran assures continued assistance",
+    "file_name": "/tmp/news_lk2/articles/ad/ad305b41.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/parties-opposed-to-sri-lanka-seeking-imf-help-must-offer-alternatives-minister-98679/",
+    "time_ut": 1660640820,
+    "original_lang": "en",
+    "original_title": "Parties opposed to Sri Lanka seeking IMF help must offer alternatives: minister",
+    "file_name": "/tmp/news_lk2/articles/05/057365eb.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/16/manufacturing-pmi-declined-in-july-2022/",
     "time_ut": 1660639920,
     "original_lang": "en",
@@ -16,12 +48,28 @@
     "file_name": "/tmp/news_lk2/articles/50/503578a2.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dd9\u0dbd\u0dd2\u0d9c\u0dca\u0d9c\u0dda-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8-\u0d89\u0dc0\u0dad\u0da7/11-396340",
+    "time_ut": 1660639595,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd9\u0dbd\u0dd2\u0d9c\u0dca\u0d9c\u0dda \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8 \u0d89\u0dc0\u0dad\u0da7",
+    "file_name": "/tmp/news_lk2/articles/03/03121391.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda-\u0d9a\u0dcf\u0dbb\u0dba\u0dda-\u0d9c\u0dd0\u0da7\u0dd4\u0db1\u0dd4-\u0d85\u0dbd\u0dd2\u0dba\u0dcf-\u0dc3\u0dd9\u0dc0\u0dd3\u0db8/1-618206",
     "time_ut": 1660639584,
     "original_lang": "si",
     "original_title": "\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda \u0d9a\u0dcf\u0dbb\u0dba\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0db1\u0dd4 \u0d85\u0dbd\u0dd2\u0dba\u0dcf \u0dc3\u0dd9\u0dc0\u0dd3\u0db8",
     "file_name": "/tmp/news_lk2/articles/4b/4b81ab23.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda-\u0d9a\u0dcf\u0dbb\u0dba\u0dda-\u0d9c\u0dd0\u0da7\u0dd4\u0db1\u0dd4-\u0d85\u0dbd\u0dd2\u0dba\u0dcf-\u0dc3\u0dd9\u0dc0\u0dd3\u0db8-\u0db1\u0dc0\u0dad\u0dd2\u0dba\u0dd2/101-618206",
+    "time_ut": 1660639584,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda \u0d9a\u0dcf\u0dbb\u0dba\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0db1\u0dd4 \u0d85\u0dbd\u0dd2\u0dba\u0dcf \u0dc3\u0dd9\u0dc0\u0dd3\u0db8 \u0db1\u0dc0\u0dad\u0dd2\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4d/4d4d1e5c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -73,11 +121,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd9\u0dbd\u0dd2\u0d9c\u0dda-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8-\u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7-\u0db1\u0ddc\u0d9c\u0dd9\u0db1\u0db8-\u0d89\u0dc0\u0dad\u0da7/1-618205",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd9\u0dbd\u0dd2\u0d9c\u0dda-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8-\u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7-\u0db1\u0ddc\u0d9c\u0dd9\u0db1\u0db8-\u0d89\u0dc0\u0dad\u0da7/101-618205",
     "time_ut": 1660637864,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dd9\u0dbd\u0dd2\u0d9c\u0dda \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7 \u0db1\u0ddc\u0d9c\u0dd9\u0db1\u0db8 \u0d89\u0dc0\u0dad\u0da7",
-    "file_name": "/tmp/news_lk2/articles/cf/cf91e105.json"
+    "file_name": "/tmp/news_lk2/articles/79/79e36e08.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -4318,6 +4366,14 @@
     "original_lang": "en",
     "original_title": "Gotabaya Rajapaksa advised to remain indoors for security reasons at Bangkok hotel",
     "file_name": "/tmp/news_lk2/articles/7f/7f314205.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-pro-govt-legislator-calls-for-privatisation-of-srilankan-airlines-98458/",
+    "time_ut": 1660300560,
+    "original_lang": "en",
+    "original_title": "Sri Lanka pro-govt legislator calls for privatisation of SriLankan Airlines",
+    "file_name": "/tmp/news_lk2/articles/7e/7eac6c8a.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
