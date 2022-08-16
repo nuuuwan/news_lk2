@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-17 04:36:59 (LK time)*
+*As of 2022-08-17 05:00:24 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (2 Articles)
 
-* **1** daily-ft-lk ([The 2,000-day struggle by Tamil mothers of the “disappeared”](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c474b64.json))
+* **2** daily-ft-lk ([Resetting Sri Lanka and the inadequacy of 22A](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54ca4307.json))
 
-## Last Hour (13 Articles)
-
-* **13** daily-ft-lk ([Provisional approval for two Adani Group wind power projects worth $ 500 m](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27e54012.json))
-
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (13 Articles)
 
 * **13** daily-ft-lk ([Provisional approval for two Adani Group wind power projects worth $ 500 m](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27e54012.json))
-
-* **2** daily-mirror-lk ([Aragalaya is far from over](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c478b17d.json))
 
 ## Last 24 Hours (208 Articles)
 
@@ -36,13 +30,13 @@
 
 * **13** economy-next-com ([Chinese tracking vessel Yuan Wang 5 docks at Sri Lanka’s Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e547836.json))
 
-## Last Week (748 Articles)
+## Last Week (743 Articles)
 
 * **114** lankadeepa-lk ([විසම්මුතියෙන් සම්මුතියට ඇවිත් ආර්ථිකය නංවමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17266770.json))
 
 * **108** daily-mirror-lk ([Sri Lanka’s ousted president expected to go to Thailand - sources](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e99c627.json))
 
-* **99** daily-ft-lk ([Ranil’s three-stage return and rise to the top](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13c5b609.json))
+* **94** daily-ft-lk ([President makes first official visit to Army HQ at Akuregoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68590e23.json))
 
 * **93** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
