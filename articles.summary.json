@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-2-000-day-struggle-by-Tamil-mothers-of-the-disappeared/4-738791",
+    "time_ut": 1660689624,
+    "original_lang": "en",
+    "original_title": "The 2,000-day struggle by Tamil mothers of the \u201cdisappeared\u201d",
+    "file_name": "/tmp/news_lk2/articles/9c/9c474b64.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Resetting-Sri-Lanka-and-the-inadequacy-of-22A/4-738790",
+    "time_ut": 1660689312,
+    "original_lang": "en",
+    "original_title": "Resetting Sri Lanka and the inadequacy of 22A",
+    "file_name": "/tmp/news_lk2/articles/54/54ca4307.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/UK-assures-continuous-cooperation-to-Sri-Lanka/56-738784",
+    "time_ut": 1660688625,
+    "original_lang": "en",
+    "original_title": "UK assures continuous cooperation to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/54/54282e7d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Sabry-briefs-Diplomatic-Corps-on-current-developments-ahead-of-UNHRC-Geneva-session/56-738783",
+    "time_ut": 1660688599,
+    "original_lang": "en",
+    "original_title": "Sabry briefs Diplomatic Corps on current developments ahead of UNHRC Geneva session",
+    "file_name": "/tmp/news_lk2/articles/ce/ce06e15c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/MoD-clarifies-delisting-of-several-Tamil-diaspora-organisations/56-738782",
+    "time_ut": 1660688552,
+    "original_lang": "en",
+    "original_title": "MoD clarifies delisting of several Tamil diaspora organisations",
+    "file_name": "/tmp/news_lk2/articles/9e/9e8c0c5c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Cabinet-Sub-Committee-tasked-to-plan-75th-Independence-Day-celebrations/56-738781",
     "time_ut": 1660688531,
     "original_lang": "en",
