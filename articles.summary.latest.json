@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da0\u0dd3\u0db1-\u0db1\u0dd0\u0dc0-\u0d91\u0dba\u0dd2/11-396326",
+    "time_ut": 1660612090,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1 \u0db1\u0dd0\u0dc0 \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/28/2877cbec.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dbb\u0d9a\u0dca-\u0d9a\u0da7\u0dcf-\u0db6\u0dda\u0dbb\u0dcf-\u0d9c\u0db1\u0dca\u0db1-\u0d9a\u0dd4\u0da9\u0dca\u0da9\u0ddd-\u0da7\u0dd2\u0d9a\u0d9a\u0dca-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca-\u0dc0\u0dd9\u0dad\u0dd2/101-618178",
     "time_ut": 1660611656,
@@ -70,6 +78,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka celebrates 26th anniversary of diplomatic relations with Lithuania",
     "file_name": "/tmp/news_lk2/articles/f3/f3bc6f5c.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/consolidating-power-of-government-at-expense-of-people/",
+    "time_ut": 1660593600,
+    "original_lang": "en",
+    "original_title": "Consolidating Power Of Government At Expense Of People",
+    "file_name": "/tmp/news_lk2/articles/45/4500dae3.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -264,6 +280,14 @@
     "file_name": "/tmp/news_lk2/articles/37/3744aa85.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/sports/\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca-\u0d86\u0dba\u0dad\u0db1\u0dba-\u0d85\u0dbb\u0dca\u0da2\u0dd4\u0db1\u0d9c\u0dd9\u0db1\u0dca-\u0dbb\u0dd4-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-2\u0d9a-\u0dc0\u0db1\u0dca\u0daf\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/9-396325",
+    "time_ut": 1660579491,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0d86\u0dba\u0dad\u0db1\u0dba \u0d85\u0dbb\u0dca\u0da2\u0dd4\u0db1\u0d9c\u0dd9\u0db1\u0dca \u0dbb\u0dd4 \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2\u0d9a \u0dc0\u0db1\u0dca\u0daf\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d2/d2fe5e2d.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9-7\u0d9a\u0dca-\u0db1\u0dd3\u0dad\u0dd2\u0da5\u0dc0\u0dbb\u0dd4\u0db1\u0dca-\u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/101-618168",
     "time_ut": 1660578146,
@@ -326,6 +350,14 @@
     "original_lang": "si",
     "original_title": "\u0dad\u0dc0\u0dad\u0dca \u0d96\u0dc2\u0db0\u00a0\u0dad\u0dd4\u0db1\u0d9a\u0dca \u0db8\u0dd9\u0dbb\u0da7\u0daf\u0dd3 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/f0/f0ddb54b.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0d9c\u0dda-\u0db4\u0dcf-\u0db4\u0dc4\u0dbb\u0dd2\u0db1\u0dca-\u0d9a\u0ddc\u0db1\u0dca\u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb-\u0db6\u0dc3\u0dba\u0dd9\u0db1\u0dca-\u0d91\u0dc5\u0dd2\u0dba\u0da7-\u0dc0\u0dd2\u0dc3\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2/101-618163",
+    "time_ut": 1660572791,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0d9c\u0dda \u0db4\u0dcf \u0db4\u0dc4\u0dbb\u0dd2\u0db1\u0dca \u0d9a\u0ddc\u0db1\u0dca\u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb \u0db6\u0dc3\u0dba\u0dd9\u0db1\u0dca \u0d91\u0dc5\u0dd2\u0dba\u0da7 \u0dc0\u0dd2\u0dc3\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/db/db21e689.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
