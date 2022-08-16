@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/manufacturing-pmi-declined-in-july-2022/",
+    "time_ut": 1660639920,
+    "original_lang": "en",
+    "original_title": "Manufacturing PMI declined in July 2022",
+    "file_name": "/tmp/news_lk2/articles/9b/9b7cc84c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/letters-to-russia-not-accepted/",
+    "time_ut": 1660639620,
+    "original_lang": "en",
+    "original_title": "Letters to Russia NOT accepted",
+    "file_name": "/tmp/news_lk2/articles/50/503578a2.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda-\u0d9a\u0dcf\u0dbb\u0dba\u0dda-\u0d9c\u0dd0\u0da7\u0dd4\u0db1\u0dd4-\u0d85\u0dbd\u0dd2\u0dba\u0dcf-\u0dc3\u0dd9\u0dc0\u0dd3\u0db8/1-618206",
+    "time_ut": 1660639584,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda \u0d9a\u0dcf\u0dbb\u0dba\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0db1\u0dd4 \u0d85\u0dbd\u0dd2\u0dba\u0dcf \u0dc3\u0dd9\u0dc0\u0dd3\u0db8",
+    "file_name": "/tmp/news_lk2/articles/4b/4b81ab23.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/police-arrest-gang-responsible-for-theft/",
+    "time_ut": 1660639500,
+    "original_lang": "en",
+    "original_title": "Police arrest gang responsible for theft",
+    "file_name": "/tmp/news_lk2/articles/bc/bccb5504.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/16/sri-lanka-court-rejects-scottish-tourist-request-not-to-deport-her/",
     "time_ut": 1660638840,
     "original_lang": "en",
@@ -40,12 +72,28 @@
     "file_name": "/tmp/news_lk2/articles/23/23e822c2.json"
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd9\u0dbd\u0dd2\u0d9c\u0dda-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8-\u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7-\u0db1\u0ddc\u0d9c\u0dd9\u0db1\u0db8-\u0d89\u0dc0\u0dad\u0da7/1-618205",
+    "time_ut": 1660637864,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd9\u0dbd\u0dd2\u0d9c\u0dda \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7 \u0db1\u0ddc\u0d9c\u0dd9\u0db1\u0db8 \u0d89\u0dc0\u0dad\u0da7",
+    "file_name": "/tmp/news_lk2/articles/cf/cf91e105.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/16/maybe-this-is-life-chinese-ambassadors-response-to-delayed-arrival-of-yuan-wang-5/",
     "time_ut": 1660637760,
     "original_lang": "en",
     "original_title": "\u201cMaybe this is life\u201d : Chinese Ambassadors response to delayed arrival of Yuan Wang 5",
     "file_name": "/tmp/news_lk2/articles/29/294fc4b3.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0\u0dad\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-396338",
+    "time_ut": 1660637571,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4 \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0\u0dad\u0dca \u0d89\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/5b/5bb5b10b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
