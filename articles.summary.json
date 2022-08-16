@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Adani-Green-Energy-issued-provisional-approvals-for-two-wind-projects/108-243181",
+    "time_ut": 1660668570,
+    "original_lang": "en",
+    "original_title": "Adani Green Energy issued provisional approvals for two wind projects",
+    "file_name": "/tmp/news_lk2/articles/2e/2e2a9b51.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84346/indias-adani-green-energy-given-provisional-approvals-for-two-wind-projects",
+    "time_ut": 1660668540,
+    "original_lang": "en",
+    "original_title": "India\u2019s Adani Green Energy given provisional approval for two wind projects",
+    "file_name": "/tmp/news_lk2/articles/82/82f8e2f2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/LPBOA-proposes-NTC-establish-tourist-information-unit/108-243180",
+    "time_ut": 1660668453,
+    "original_lang": "en",
+    "original_title": "LPBOA proposes NTC establish tourist information unit",
+    "file_name": "/tmp/news_lk2/articles/ae/ae6892c6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Emergency-will-not-be-extended-beyond-Aug-18-President/108-243179",
+    "time_ut": 1660667751,
+    "original_lang": "en",
+    "original_title": "Emergency will not be extended beyond Aug. 18: President",
+    "file_name": "/tmp/news_lk2/articles/20/20ac604c.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/16/the-land-may-divide-us-but-the-sky-and-the-ocean-unites-us-all-wimal-at-the-welcome-ceremony-for-yuan-wang-5/",
     "time_ut": 1660667400,
@@ -46,6 +78,14 @@
     "original_lang": "en",
     "original_title": "IMF Agreement will give Sri Lanka confidence \u2013 President",
     "file_name": "/tmp/news_lk2/articles/60/60d47755.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0daf\u0dd3\u0dbb\u0dca\u0d9d-\u0db1\u0ddc\u0d9a\u0dbb\u0db1-\u0db6\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/11-396348",
+    "time_ut": 1660665910,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0db1\u0ddc\u0d9a\u0dbb\u0db1 \u0db6\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/93/93c18b89.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -97,11 +137,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Kaduwela-OIC-averts-planned-attack-by-gang-Three-arrested/342-243177",
+    "url": "https://www.dailymirror.lk/breaking_news/Kaduwela-OIC-averts-planned-attack-by-gang-Three-arrested/108-243177",
     "time_ut": 1660660911,
     "original_lang": "en",
     "original_title": "Kaduwela OIC averts planned attack by gang: Three arrested",
-    "file_name": "/tmp/news_lk2/articles/2c/2c667ae5.json"
+    "file_name": "/tmp/news_lk2/articles/06/06373d3b.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dcf\u0dbb\u0dc0\u0dbb\u0dd4\u0db1\u0dca-\u0db4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d91\u0da2\u0dcf\u0db4-\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4-\u0dc3\u0dd3\u0dad\u0dbd-\u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba\u0d9a\u0dca/1-618231",
+    "time_ut": 1660660306,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dcf\u0dbb\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d91\u0da2\u0dcf\u0db4 \u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4 \u0dc3\u0dd3\u0dad\u0dbd \u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/4c/4c021c6b.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
