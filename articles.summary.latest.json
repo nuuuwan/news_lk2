@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Cabinet-Sub-Committee-tasked-to-plan-75th-Independence-Day-celebrations/56-738781",
+    "time_ut": 1660688531,
+    "original_lang": "en",
+    "original_title": "Cabinet Sub-Committee  tasked to plan 75th Independence Day celebrations",
+    "file_name": "/tmp/news_lk2/articles/d1/d1f5e566.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Julian-Bolling-summoned-to-CID-today/56-738780",
+    "time_ut": 1660688508,
+    "original_lang": "en",
+    "original_title": "Julian Bolling summoned to CID today",
+    "file_name": "/tmp/news_lk2/articles/63/63c275c5.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Namal-Rajapaksa-assumes-head-hunter-role/56-738779",
+    "time_ut": 1660688482,
+    "original_lang": "en",
+    "original_title": "Namal Rajapaksa assumes head-hunter role",
+    "file_name": "/tmp/news_lk2/articles/03/0347d1c6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Exterminators-achieves-best-1Q-since-inception/34-738778",
+    "time_ut": 1660688434,
+    "original_lang": "en",
+    "original_title": "Exterminators achieves best 1Q since inception",
+    "file_name": "/tmp/news_lk2/articles/b0/b0fc7eb5.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Aussie-Bean-Media-Group-application-to-restrain-CEO-Sri-Lanka-Publication-rejected-by-Commercial-High-Court/34-738777",
+    "time_ut": 1660688362,
+    "original_lang": "en",
+    "original_title": "Aussie Bean Media Group application to restrain CEO  Sri Lanka Publication rejected by Commercial High Court",
+    "file_name": "/tmp/news_lk2/articles/e4/e459ae88.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/SLASSCOM-appoints-new-Chairman-Board-to-support-its-next-era-of-growth-and-transformation/34-738776",
+    "time_ut": 1660688349,
+    "original_lang": "en",
+    "original_title": "SLASSCOM appoints new Chairman, Board to support its next era of growth and transformation",
+    "file_name": "/tmp/news_lk2/articles/b2/b21083b2.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Dankotuwa-Group-posts-impressive-1Q/34-738775",
+    "time_ut": 1660688300,
+    "original_lang": "en",
+    "original_title": "Dankotuwa Group posts impressive 1Q",
+    "file_name": "/tmp/news_lk2/articles/ce/ce5fd7a0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Provisional-approval-for-two-Adani-Group-wind-power-projects-worth-500-m/34-738774",
+    "time_ut": 1660688200,
+    "original_lang": "en",
+    "original_title": "Provisional approval for two Adani Group wind power projects worth $ 500 m",
+    "file_name": "/tmp/news_lk2/articles/27/27e54012.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/The-despicable-attack-on-Salman-Rushdie-EDITORIAL/231-243184",
     "time_ut": 1660681396,
@@ -7934,69 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db1\u0dc0 \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7 \u0dc0\u0d9c\u0d9a\u0dd2\u0dc0 \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/c4/c4ef3988.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Basil-fights-back-to-save-his-political-future-as-RW-pushes-for-21A-today/155-237802",
-    "time_ut": 1653613036,
-    "original_lang": "en",
-    "original_title": "Basil fights back to save his political future as RW pushes for 21A today",
-    "file_name": "/tmp/news_lk2/articles/9b/9bb25c37.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/21st-Amendment-presented-to-Cabinet/155-237564",
-    "time_ut": 1653314796,
-    "original_lang": "en",
-    "original_title": "21st Amendment presented to Cabinet",
-    "file_name": "/tmp/news_lk2/articles/ef/efa8ba19.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/The-next-couple-of-months-will-be-the-most-difficult-of-our-lives-PM-informs-the-nation/155-237090",
-    "time_ut": 1652707634,
-    "original_lang": "en",
-    "original_title": "The next couple of months will be the most difficult of our lives, PM informs the nation",
-    "file_name": "/tmp/news_lk2/articles/c8/c8812a81.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/More-Ministers-to-be-sworn-in-today/108-237068",
-    "time_ut": 1652674218,
-    "original_lang": "en",
-    "original_title": "More Ministers to be sworn in today",
-    "file_name": "/tmp/news_lk2/articles/10/10ffd170.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Leave-aside-party-politics-and-lets-join-hands-to-resolve-burning-issues-RW-writes-to-Sajith/342-237033",
-    "time_ut": 1652512579,
-    "original_lang": "en",
-    "original_title": "Leave aside party politics and lets join hands to resolve burning issues - RW writes to Sajith",
-    "file_name": "/tmp/news_lk2/articles/a4/a4275c0a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/RANIL-TO-TAKE-OATHS-AS-PM-TODAY/342-236872",
-    "time_ut": 1652341395,
-    "original_lang": "en",
-    "original_title": "RANIL TO TAKE OATHS AS PM TODAY",
-    "file_name": "/tmp/news_lk2/articles/87/87b2a211.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Dozen-arrested-for-protesting-near-Parliament/342-236256",
-    "time_ut": 1651650666,
-    "original_lang": "en",
-    "original_title": "Dozen arrested for protesting near Parliament",
-    "file_name": "/tmp/news_lk2/articles/cf/cf0194e3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/PM-and-Cabinet-should-resign-and-form-an-all-party-govt-Dullas-writes-to-Prez/155-235515",
-    "time_ut": 1650635474,
-    "original_lang": "en",
-    "original_title": "PM and Cabinet should resign and form an all party govt- Dullas writes to Prez",
-    "file_name": "/tmp/news_lk2/articles/f2/f2eaa466.json"
   }
 ]

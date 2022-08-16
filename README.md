@@ -1,14 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-17 03:36:23 (LK time)*
+*As of 2022-08-17 04:02:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (2 Articles)
+## Last 30 Minutes (8 Articles)
+
+* **8** daily-ft-lk ([Provisional approval for two Adani Group wind power projects worth $ 500 m](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27e54012.json))
+
+## Last Hour (8 Articles)
+
+* **8** daily-ft-lk ([Provisional approval for two Adani Group wind power projects worth $ 500 m](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27e54012.json))
+
+## Last 3 Hours (10 Articles)
+
+* **8** daily-ft-lk ([Provisional approval for two Adani Group wind power projects worth $ 500 m](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27e54012.json))
 
 * **2** daily-mirror-lk ([Aragalaya is far from over](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c478b17d.json))
 
-## Last 24 Hours (195 Articles)
+## Last 24 Hours (203 Articles)
 
 * **46** news-first-lk ([Chinese Research / Survey Vessel Yuan Wang 5 reaches Sri Lanka’s Hambantota](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8fd8b3f4.json))
 
@@ -24,15 +34,17 @@
 
 * **13** economy-next-com ([Chinese tracking vessel Yuan Wang 5 docks at Sri Lanka’s Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e547836.json))
 
-## Last Week (737 Articles)
+* **8** daily-ft-lk ([Provisional approval for two Adani Group wind power projects worth $ 500 m](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27e54012.json))
+
+## Last Week (743 Articles)
 
 * **114** lankadeepa-lk ([විසම්මුතියෙන් සම්මුතියට ඇවිත් ආර්ථිකය නංවමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17266770.json))
 
-* **110** daily-mirror-lk ([What now for the media?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37f0c808.json))
+* **108** daily-mirror-lk ([Sri Lanka’s ousted president expected to go to Thailand - sources](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e99c627.json))
+
+* **94** daily-ft-lk ([Ranil’s three-stage return and rise to the top](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13c5b609.json))
 
 * **93** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
-
-* **86** daily-ft-lk ([Ranil’s three-stage return and rise to the top](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13c5b609.json))
 
 * **83** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
 
@@ -48,7 +60,7 @@
 
 * **12** d-b-s-jeyaraj-com ([Sri Lanka has become a country devoid of mature political leaders. We have only Ranil Wickremesinghe left among the leaders who can be considered an advanced political leader. In the absence of mature leaders, it should be the country’s responsibility to make proper use of him at this critical juncture.](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9971012a.json))
 
-## All Time (1,050 Articles)
+## All Time (1,058 Articles)
 
 * **177** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -56,9 +68,9 @@
 
 * **141** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **111** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
+* **113** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
-* **105** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
+* **111** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 
 * **93** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 

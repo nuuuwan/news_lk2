@@ -1,0 +1,849 @@
+{
+  "newspaper_id": "daily-ft-lk",
+  "url": "https://www.ft.lk/business/Dankotuwa-Group-posts-impressive-1Q/34-738775",
+  "time_ut": 1660688300,
+  "original_lang": "en",
+  "original_title": "Dankotuwa Group posts impressive 1Q",
+  "text_idx": {
+    "en": {
+      "title": "Dankotuwa Group posts impressive 1Q",
+      "author": "unknown",
+      "body_lines": [
+        "Group achieves 81% revenue growth, 122% GP growth and Rs. 268 m PBT",
+        "Dankotuwa Porcelain PLC, said yesterday it has posted remarkable results for the Q1 of the financial year 2022/2023.",
+        "As a company, Dankotuwa Porcelain, recorded a revenue of Rs. 788.4 million for the Q1 of the financial year 2022/23, a 56% growth when compared to Rs. 504.4 million achieved during the corresponding period.",
+        "Further, the company achieved a Gross Profit (GP) of Rs. 374.1 million, which was an 86% growth compared to Rs. 201.46 million achieved for the same period of the last financial year. The Profit before Tax (PBT) for Dankotuwa, as a company, was Rs. 207.52 million, a commendable achievement when compared to the Rs. 55.81 million made during the first quarter of the previous Financial Year 2021/22.",
+        "Dankotuwa Porcelain as a Group (which includes its subsidiary Royal Fernwood Porcelain Ltd.) posted a revenue of Rs. 1.42 billion, an 81% growth compared to Rs. 787.67 million achieved last year for the same period.",
+        "The Group further achieved a Gross Profit (GP) of Rs. 610.55 million, a 122% growth compared to Rs. 275.5 million and Profit before Tax (PBT) of Rs. 367.77 million, an increase compared to Rs. 60.26 million and Profit after Tax (PAT) of Rs. 298million impressive increase of 491% compared to the Rs. 50 million achieved in the corresponding period in the last financial year.",
+        "Royal Fernwood Porcelain Ltd., its subsidiary, recorded a gross profit of Rs. 236.46 million for Q1 of the financial year 2022/23 which contributed positively towards the overall performance of the Group. The company underwent restructuring and realigned business verticals enabling the convergence of resources which has definitely contributed to the positive results during the last quarter.",
+        "Dankotuwa Porcelain CEO Channa Gunawardana said: \u201cWe\u2019ve navigated through turbulent phases over the past years and are very pleased to announce the commendable performance of the organisation. It has been a tough journey paved by the pandemic, lockdowns, economic and political distress, and disruptions. Amidst all these difficulties, we have emerged strong and positive, demonstrating our resilience and our willingness to accept challenges and forge ahead with commitment and determination.\u201d",
+        "\u201cAs an organisation, we continued to adapt to the changes imposed by the pandemic and faced the macro-economic challenges with resilience. During this period, one of our most effective concepts, Collective Leadership, enabled the employees of our organisation to identify their true potential and showcase their best performance within an unfavourable macro-economic environment,\u201d Gunawardana added.",
+        "The Board of Directors of Dankotuwa Porcelain comprises of eminent key business personalities such as Chairman Yudy Kanagasabai, Deputy Chairman Ranil Pathirana, Revantha Devasurendra, Rohan Peris, Niranjan Wijesekera, Shalike Karunasena and Dr. Sajeeva Narangoda."
+      ],
+      "title_ents": [
+        {
+          "text": "Dankotuwa Group",
+          "label": "ORG"
+        },
+        {
+          "text": "1Q",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "81%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "122%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Rs",
+            "label": "PERSON"
+          },
+          {
+            "text": "268",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "PBT",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Dankotuwa Porcelain PLC",
+            "label": "ORG"
+          },
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "2022/2023",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Dankotuwa Porcelain",
+            "label": "PERSON"
+          },
+          {
+            "text": "788.4 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2022/23",
+            "label": "DATE"
+          },
+          {
+            "text": "56%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "504.4 million",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "374.1 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "86%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "201.46 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the last financial year",
+            "label": "DATE"
+          },
+          {
+            "text": "The Profit before Tax",
+            "label": "ORG"
+          },
+          {
+            "text": "PBT",
+            "label": "ORG"
+          },
+          {
+            "text": "Dankotuwa",
+            "label": "PERSON"
+          },
+          {
+            "text": "207.52 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "55.81 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the first quarter",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Group",
+            "label": "ORG"
+          },
+          {
+            "text": "Royal Fernwood Porcelain Ltd.",
+            "label": "ORG"
+          },
+          {
+            "text": "1.42 billion",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "81%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "787.67 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "last year",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Group",
+            "label": "ORG"
+          },
+          {
+            "text": "610.55 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "122%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "275.5 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Profit before Tax",
+            "label": "ORG"
+          },
+          {
+            "text": "PBT",
+            "label": "ORG"
+          },
+          {
+            "text": "367.77 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "60.26 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Profit after Tax (PAT",
+            "label": "ORG"
+          },
+          {
+            "text": "298million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "491%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "50 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the last financial year",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Royal Fernwood Porcelain Ltd.",
+            "label": "ORG"
+          },
+          {
+            "text": "236.46 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Group",
+            "label": "ORG"
+          },
+          {
+            "text": "the last quarter",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Gunawardana",
+            "label": "PERSON"
+          },
+          {
+            "text": "the past years",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Collective Leadership",
+            "label": "PERSON"
+          },
+          {
+            "text": "Gunawardana",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Yudy Kanagasabai",
+            "label": "PERSON"
+          },
+          {
+            "text": "Ranil Pathirana",
+            "label": "PERSON"
+          },
+          {
+            "text": "Revantha Devasurendra",
+            "label": "PERSON"
+          },
+          {
+            "text": "Rohan Peris",
+            "label": "PERSON"
+          },
+          {
+            "text": "Niranjan Wijesekera",
+            "label": "PERSON"
+          },
+          {
+            "text": "Shalike Karunasena",
+            "label": "PERSON"
+          },
+          {
+            "text": "Sajeeva Narangoda",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0daf\u0d82\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0dc3\u0db8\u0dd6\u0dc4 \u0db4\u0dc5 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0d86\u0d9a\u0dbb\u0dca\u0dc2\u0dab\u0dd3\u0dba 1Q",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc3\u0db8\u0dd6\u0dc4\u0dba 81% \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca, 122% GP \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca \u0dc3\u0dc4 \u0dbb\u0dd4. \u0db8\u0dd3\u0da7\u0dbb\u0dca 268 PBT",
+        "2022/2023 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba\u0dda Q1 \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0daf\u0d82\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0db4\u0ddd\u0dc3\u0dd2\u0dbd\u0dda\u0db1\u0dca \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3 \u0d8a\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0daf\u0d82\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0db4\u0ddd\u0dc3\u0dd2\u0dbd\u0dda\u0db1\u0dca \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0dbb\u0dd4. 2022/23 \u0db8\u0dd4\u0dbd\u0dca\u200d\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 788.4\u0d9a\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0dbb\u0dd4. \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 504.4\u0d9a\u0dca \u0d85\u0db1\u0dd4\u0dbb\u0dd6\u0db4 \u0d9a\u0dcf\u0dbd\u0db4\u0dbb\u0dd2\u0da0\u0dca\u0da1\u0dda\u0daf\u0dba \u0dad\u0dd4\u0dc5 \u0d85\u0dad\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dbb \u0d9c\u0dd9\u0db1 \u0d87\u0dad.",
+        "\u0dad\u0dc0\u0daf, \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0dbb\u0dd4. \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 374.1 \u0d9a\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0dbb\u0dd4. \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 201.46\u0d9a\u0dca \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba\u0dda \u0d91\u0db8 \u0d9a\u0dcf\u0dbd\u0dc3\u0dd3\u0db8\u0dcf\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0dbd\u0db6\u0dcf\u0d9c\u0dd9\u0db1 \u0d87\u0dad. \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0daf\u0d82\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0db6\u0daf\u0dd4 \u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0da7 \u0db4\u0dd9\u0dbb \u0dbd\u0dcf\u0db7\u0dba (PBT) \u0dbb\u0dd4. \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 207.52 \u0d9a\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0dbb\u0dd4. 2021/22 \u0db4\u0dd9\u0dbb \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0 \u0dad\u0dd4\u0dc5 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 55.81\u0d9a\u0dca \u0d8b\u0db4\u0dba\u0dcf \u0d87\u0dad.",
+        "\u0daf\u0d82\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0db4\u0ddd\u0dc3\u0dd2\u0dbd\u0dda\u0db1\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 (\u0d91\u0dc4\u0dd2 \u0d85\u0db1\u0dd4\u0db6\u0daf\u0dca\u0db0 Royal Fernwood Porcelain Ltd. \u0d87\u0dad\u0dd4\u0dc5\u0dd4\u0dc0) \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0dbb\u0dd4. \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.42, 81% \u0d9a \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca \u0dbb\u0dd4. \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 787.67\u0d9a\u0dca \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dc3\u0dbb\u0dda \u0d91\u0db8 \u0d9a\u0dcf\u0dbd\u0dc3\u0dd3\u0db8\u0dcf\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0dad\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dbb \u0d9c\u0dd9\u0db1 \u0d87\u0dad.",
+        "\u0dc3\u0db8\u0dd6\u0dc4\u0dba \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0daf\u0dc5 \u0dbd\u0dcf\u0db7\u0dba (GP) \u0dbb\u0dd4. \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 610.55, 122% \u0d9a \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca \u0dbb\u0dd4. \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 275.5 \u0d9a\u0dca \u0dc3\u0dc4 \u0db6\u0daf\u0dd4 \u0dc0\u0dbd\u0da7 \u0db4\u0dd9\u0dbb \u0dbd\u0dcf\u0db7\u0dba (PBT) \u0dbb\u0dd4. \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 367.77 \u0da7 \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd3\u0db8\u0d9a\u0dd2. \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60.26 \u0d9a\u0dca \u0dc3\u0dc4 \u0db6\u0daf\u0dd4 \u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0dbd\u0dcf\u0db7\u0dba (PAT) \u0dbb\u0dd4. \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 298 \u0da7 \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 491% \u0d9a \u0d86\u0d9a\u0dbb\u0dca\u0dc2\u0dab\u0dd3\u0dba \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dd2. \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba\u0dda \u0d85\u0db1\u0dd4\u0dbb\u0dd6\u0db4 \u0d9a\u0dcf\u0dbd\u0db4\u0dbb\u0dd2\u0da0\u0dca\u0da1\u0dda\u0daf\u0dba \u0dad\u0dd4\u0dc5 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 50\u0d9a\u0dca \u0dbd\u0db6\u0dcf\u0d9c\u0dd9\u0db1 \u0d87\u0dad.",
+        "\u0d91\u0dc4\u0dd2 \u0d85\u0db1\u0dd4\u0db6\u0daf\u0dca\u0db0\u0dd2\u0dad Royal Fernwood Porcelain Ltd. \u0dc4\u0dd2 \u0daf\u0dc5 \u0dbd\u0dcf\u0db7\u0dba \u0dbb\u0dd4. 2022/23 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 236.46 \u0d9a\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0dda \u0dc3\u0db8\u0dc3\u0dca\u0dad \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0dc3\u0dcf\u0db0\u0db1\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0db0\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dbd\u0dd9\u0dc3 \u0daf\u0dcf\u0dba\u0d9a \u0dc0\u0dd2\u0dba. \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc0\u0dca\u200d\u0dba\u0dd4\u0dc4\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db1\u0dd2\u0dbb\u0dca\u0db8\u0dcf\u0dab\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb \u0dc3\u0dd2\u0dbb\u0dc3\u0dca\u0dad\u0dbd\u0dc0\u0dbd\u0da7 \u0db7\u0dcf\u0da2\u0db1\u0dba \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0dc3\u0db8\u0dca\u0db4\u0dad\u0dca \u0d85\u0db7\u0dd2\u0dc3\u0dcf\u0dbb\u0dd3 \u0dc0\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0dc3\u0dbd\u0dc3\u0dba\u0dd2, \u0d91\u0dba \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0 \u0dad\u0dd4\u0dc5 \u0db0\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0dc3\u0db3\u0dc4\u0dcf \u0db1\u0dd2\u0dc3\u0dd0\u0d9a\u0dc0\u0db8 \u0daf\u0dcf\u0dba\u0d9a \u0dc0\u0dd3 \u0d87\u0dad.",
+        "\u0daf\u0d82\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0db4\u0ddd\u0dc3\u0dd2\u0dbd\u0dda\u0db1\u0dca \u0dc4\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3 \u0da0\u0db1\u0dca\u0db1 \u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dc4\u0dad\u0dcf \u0db8\u0dd9\u0dc3\u0dda \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba: \u201c\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dc3\u0dbb \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba \u0dad\u0dd4\u0dc5 \u0d85\u0db4\u0dd2 \u0d9a\u0dd0\u0dc5\u0db9\u0dd2\u0dbd\u0dd2 \u0dc3\u0dc4\u0dd2\u0dad \u0d85\u0dc0\u0db0\u0dd3\u0db1\u0dca \u0dc4\u0dbb\u0dc4\u0dcf \u0d9c\u0db8\u0db1\u0dca \u0d9a\u0dc5 \u0d85\u0dad\u0dbb \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc1\u0d82\u0dc3\u0db1\u0dd3\u0dba \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dcf\u0dbb\u0dd2\u0dad\u0dca\u0dc0\u0dba \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dbd\u0dd0\u0db6\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0d85\u0db4\u0dd2 \u0d89\u0dad\u0dcf \u0dc3\u0dad\u0dd4\u0da7\u0dd4 \u0dc0\u0dd9\u0db8\u0dd4. \u0d91\u0dba \u0dc0\u0dc3\u0d82\u0d9c\u0dad\u0dba, \u0d85\u0d9c\u0dd4\u0dbd\u0dd4 \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0dca, \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0dc4\u0dcf \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0daf\u0dd4\u0d9a\u0dca\u0d9b\u0dd2\u0dad \u0dad\u0dad\u0dca\u0dc0\u0dba\u0db1\u0dca \u0dc3\u0dc4 \u0d9a\u0da9\u0dcf\u0d9a\u0db4\u0dca\u0db4\u0dbd\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0dc3\u0d9a\u0dc3\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0daf\u0dd4\u0dc2\u0dca\u0d9a\u0dbb \u0d9c\u0db8\u0db1\u0d9a\u0dd2. \u0db8\u0dd9\u0db8 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0daf\u0dd4\u0dc2\u0dca\u0d9a\u0dbb\u0dad\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba\u0dba\u0dda, \u0d85\u0db4\u0d9c\u0dda \u0d94\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4 \u0daf\u0dd3\u0db8\u0dda \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0 \u0dc3\u0dc4 \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c \u0db7\u0dcf\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc3\u0dc4 \u0d9a\u0dd0\u0db4\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0dc3\u0dc4 \u0d85\u0db0\u0dd2\u0dc2\u0dca\u0da8\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0da7 \u0dba\u0dcf\u0db8\u0da7 \u0d87\u0dad\u0dd2 \u0d9a\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0dad \u0db4\u0dd9\u0db1\u0dca\u0db1\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d85\u0db4\u0dd2 \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0dc3\u0dc4 \u0db0\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a\u0dc0 \u0db8\u0dad\u0dd4 \u0dc0\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2\u0db8\u0dd4.",
+        "\u201c\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3, \u0d85\u0db4\u0dd2 \u0dc0\u0dc3\u0d82\u0d9c\u0dad\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db4\u0db1\u0dc0\u0db1 \u0dbd\u0daf \u0dc0\u0dd9\u0db1\u0dc3\u0dca\u0d9a\u0db8\u0dca \u0dc0\u0dbd\u0da7 \u0d85\u0db1\u0dd4\u0dc0\u0dbb\u0dca\u0dad\u0db1\u0dba \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0dc3\u0dcf\u0dbb\u0dca\u0dc0 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dc0\u0dbd\u0da7 \u0d94\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4 \u0daf\u0dd3\u0db8\u0dda \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dba\u0dd4\u0dad\u0dd4\u0dc0 \u0db8\u0dd4\u0dc4\u0dd4\u0dab \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dd9\u0db8\u0dd4. \u0db8\u0dd9\u0db8 \u0d9a\u0dcf\u0dbd \u0db4\u0dbb\u0dd2\u0da0\u0dca\u0dd9\u0da1\u0dca\u0daf\u0dba \u0dad\u0dd4\u0dc5 \u0d85\u0db4\u0d9c\u0dda \u0dc0\u0da9\u0dcf\u0dad\u0dca \u0db5\u0dbd\u0daf\u0dcf\u0dba\u0dd3 \u0dc3\u0d82\u0d9a\u0dbd\u0dca\u0db4\u0dba\u0d9a\u0dca \u0dc0\u0db1 \u0dc3\u0dcf\u0db8\u0dd6\u0dc4\u0dd2\u0d9a \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba, \u0d85\u0db4\u0d9c\u0dda \u0d86\u0dba\u0dad\u0db1\u0dba\u0dda \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dd0\u0db6\u0dd1 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0db1\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc3\u0dc4 \u0d85\u0dc0\u0dcf\u0dc3\u0dd2\u0daf\u0dcf\u0dba\u0d9a \u0dc3\u0dcf\u0dbb\u0dca\u0dc0 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0db4\u0dbb\u0dd2\u0dc3\u0dbb\u0dba\u0d9a\u0dca \u0dad\u0dd4\u0dc5 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc4\u0ddc\u0db3\u0db8 \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0dc3\u0dcf\u0db0\u0db1\u0dba \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0dd2\u0dba.",
+        "\u0daf\u0d82\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0db4\u0ddd\u0dc3\u0dd2\u0dbd\u0dda\u0db1\u0dca \u0dc4\u0dd2 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0dba\u0dd6\u0da9\u0dd2 \u0d9a\u0db1\u0d9c\u0dc3\u0db6\u0dcf\u0dba\u0dd2, \u0d8b\u0db4 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0db4\u0dad\u0dd2\u0dbb\u0dab, \u0dbb\u0dda\u0dc0\u0db1\u0dca\u0dad \u0daf\u0dda\u0dc0\u0dc3\u0dd4\u0dbb\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb, \u0dbb\u0ddc\u0dc4\u0dcf\u0db1\u0dca \u0db4\u0dd3\u0dbb\u0dd2\u0dc3\u0dca, \u0db1\u0dd2\u0dbb\u0d82\u0da2\u0db1\u0dca \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb, \u0dc1\u0dcf\u0dbd\u0dd2\u0d9a\u0dda \u0d9a\u0dbb\u0dd4\u0dab\u0dcf\u0dc3\u0dda\u0db1 \u0dc3\u0dc4 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0da2\u0dd3\u0dc0 \u0db1\u0dcf\u0dbb\u0d82\u0d9c\u0ddc\u0da9 \u0dc0\u0dd0\u0db1\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0da7 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0db1\u0dca\u0dc0\u0dd2\u0dad \u0dc0\u0dda."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0daf\u0d82\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0dc3\u0db8\u0dd6\u0dc4",
+          "label": "ORG"
+        },
+        {
+          "text": "1Q",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "81%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "122%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "268",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "PBT",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0d82\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0db4\u0ddd\u0dc3\u0dd2\u0dbd\u0dda\u0db1\u0dca \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "2022/2023",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0d82\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0db4\u0ddd\u0dc3\u0dd2\u0dbd\u0dda\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 788.4 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2022/23",
+            "label": "DATE"
+          },
+          {
+            "text": "56%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 504.4 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 374.1 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "86%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 201.46 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dd6\u0dbd\u0dca\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0daf\u0dca\u0daf\u0da7 \u0db4\u0dd9\u0dbb \u0dbd\u0dcf\u0db7\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "PBT",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0db1\u0dca\u0d9a\u0ddc\u0da7\u0dd4\u0dc0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 207.52 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 55.81 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0ddd\u0dba\u0dbd\u0dca \u0dc6\u0dbb\u0dca\u0db1\u0dca\u0dc0\u0dd4\u0da9\u0dca \u0db4\u0ddd\u0dc3\u0dd2\u0dbd\u0dda\u0db1\u0dca \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.42 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "81%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 787.67 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9c\u0dd2\u0dba \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dca\u0daf\u0dda",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 610.55 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "122%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 275.5 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db6\u0daf\u0dd4 \u0dc0\u0dbd\u0da7 \u0db4\u0dd9\u0dbb \u0dbd\u0dcf\u0db7\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "PBT",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 367.77 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60.26 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db6\u0daf\u0dd4 \u0db4\u0dc3\u0dd4 \u0dbd\u0dcf\u0db7\u0dba (PAT",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 298 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "491%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 50 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dd6\u0dbd\u0dca\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0ddd\u0dba\u0dbd\u0dca \u0dc6\u0dbb\u0dca\u0db1\u0dca\u0dc0\u0dd4\u0da9\u0dca \u0db4\u0ddd\u0dc3\u0dd2\u0dbd\u0dda\u0db1\u0dca \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 236.46 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dc3\u0dcf\u0db1 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dc3\u0dbb",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dcf\u0db8\u0dd6\u0dc4\u0dd2\u0d9a \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd6\u0da9\u0dd2 \u0d9a\u0db1\u0d9c\u0dc3\u0db6\u0dcf\u0dba\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0db4\u0dad\u0dd2\u0dbb\u0dab",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbb\u0dda\u0dc0\u0db1\u0dca\u0dad \u0daf\u0dda\u0dc0\u0dc3\u0dd4\u0dbb\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbb\u0ddc\u0dc4\u0dcf\u0db1\u0dca \u0db4\u0dd3\u0dbb\u0dd2\u0dc3\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db1\u0dd2\u0dbb\u0d82\u0da2\u0db1\u0dca \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc1\u0dcf\u0dbd\u0dd2\u0d9a\u0dda \u0d9a\u0dbb\u0dd4\u0dab\u0dcf\u0dc3\u0dda\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0da2\u0dd3\u0dc0 \u0db1\u0dcf\u0dbb\u0d82\u0d9c\u0ddc\u0da9",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0ba4\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bb5 \u0b95\u0bc1\u0bb4\u0bc1\u0bae \u0b87\u0b9f\u0bc1\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0b88\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf 1Q",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b95\u0bc1\u0bb4\u0bc1 81% \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bcd \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf, 122% GP \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb0\u0bc2. 268 \u0bae\u0bc0 \u0baa\u0bbf\u0baa\u0bbf\u0b9f\u0bbf",
+        "2022/2023 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd Q1 \u0b87\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0ba4\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bb5 Porcelain PLC, \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b92\u0bb0\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bbe\u0b95, \u0ba4\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bb5 \u0baa\u0bc0\u0b99\u0bcd\u0b95\u0bbe\u0ba9\u0bcd, \u0bb0\u0bc2. 2022/23 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd 788.4 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd, \u0bb0\u0bc2. \u0b89\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 56% \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf. \u0b87\u0ba4\u0bc7 \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 504.4 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b88\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0bb2\u0bbe\u0baa\u0bae\u0bcd (GP) \u0bb0\u0bc2. 374.1 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd, \u0b87\u0ba4\u0bc1 86% \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b87\u0ba4\u0bc7 \u0b95\u0bbe\u0bb2\u0baa\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd 201.46 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b88\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b92\u0bb0\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bbe\u0b95 \u0ba4\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0bb2\u0bbe\u0baa\u0bae\u0bcd (PBT) \u0bb0\u0bc2. 207.52 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd, \u0b92\u0bb0\u0bc1 \u0baa\u0bbe\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8\u0baf\u0bc8 \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0bb0\u0bc2. \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd 2021/22 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd 55.81 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b88\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "Dankotuwa Porcelain \u0b92\u0bb0\u0bc1 \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbe\u0b95 (\u0b85\u0ba4\u0ba9\u0bcd \u0ba4\u0bc1\u0ba3\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bbe\u0ba9 Royal Fernwood Porcelain Ltd \u0b90 \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1) \u0bb0\u0bc2. 1.42 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd, 81% \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b87\u0ba4\u0bc7 \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 787.67 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b88\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0bb2\u0bbe\u0baa\u0bae\u0bcd (GP) \u0bb0\u0bc2. 610.55 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd, 122% \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0bb0\u0bc2. 275.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0bb2\u0bbe\u0baa\u0bae\u0bcd (PBT) \u0bb0\u0bc2. 367.77 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd, \u0b87\u0ba4\u0bc1 \u0bb0\u0bc2. 60.26 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0bb2\u0bbe\u0baa\u0bae\u0bcd (PAT) \u0bb0\u0bc2. 298 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 491% \u0b87\u0ba9\u0bcd \u0b88\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1. \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b87\u0ba4\u0bc7 \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 50 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b88\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b85\u0ba4\u0ba9\u0bcd \u0ba4\u0bc1\u0ba3\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bbe\u0ba9 Royal Fernwood Porcelain Ltd. \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0bb2\u0bbe\u0baa\u0bae\u0bcd \u0bb0\u0bc2. 2022/23 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd Q1 \u0b95\u0bcd\u0b95\u0bc1 236.46 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd, \u0b87\u0ba4\u0bc1 \u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b92\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0ba4\u0bbf\u0bb1\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbe\u0ba4\u0b95\u0bae\u0bbe\u0b95 \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1. \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0bae\u0bb1\u0bc1\u0b9a\u0bc0\u0bb0\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0ba3\u0bbf\u0b95 \u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc8 \u0bae\u0bb1\u0bc1\u0b9a\u0bc0\u0bb0\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0bb5\u0bb3\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc8 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba8\u0bc7\u0bb0\u0bcd\u0bae\u0bb1\u0bc8\u0baf\u0bbe\u0ba9 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0b9a\u0bcd\u0b9a\u0baf\u0bae\u0bbe\u0b95 \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0ba4\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bb5 \u0baa\u0bc0\u0b99\u0bcd\u0b95\u0bbe\u0ba9\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0b9a\u0ba9\u0bcd\u0ba9 \u0b95\u0bc1\u0ba3\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9 \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd: \u201c\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bca\u0ba8\u0bcd\u0ba4\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0ba9 \u0b95\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0baf\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bcb\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0ba4\u0bbf\u0bb1\u0ba9\u0bc8 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bae\u0b95\u0bbf\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0b95\u0bbf\u0bb1\u0bcb\u0bae\u0bcd. \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bcd, \u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bcd, \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bc8\u0baf\u0bc2\u0bb1\u0bc1\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b87\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \u0b95\u0b9f\u0bbf\u0ba9\u0bae\u0bbe\u0ba9 \u0baa\u0baf\u0ba3\u0bae\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b87\u0ba8\u0bcd\u0ba4 \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb0\u0bae\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd, \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bb2\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bcd\u0bae\u0bb1\u0bc8\u0baf\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bcb\u0bae\u0bcd, \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0b9f\u0bc8\u0bb5\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bb5\u0bbe\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0bcb\u0bae\u0bcd.",
+        "\"\u0b92\u0bb0\u0bc1 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b95, \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bbe\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bcb\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0b95\u0bcd\u0bb0\u0bcb-\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0b9a\u0bb5\u0bbe\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0b9f\u0bc8\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bcb\u0bae\u0bcd. \u0b87\u0ba8\u0bcd\u0ba4\u0b95\u0bcd \u0b95\u0bbe\u0bb2\u0baa\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd, \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0bc8\u0baf \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0baa\u0baf\u0ba9\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0ba9 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bbe\u0ba9\u0ba4\u0bc1, \u0b8e\u0bae\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0ba4\u0bbf\u0bb1\u0ba9\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1, \u0b9a\u0bbe\u0ba4\u0b95\u0bae\u0bb1\u0bcd\u0bb1 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0b9a\u0bcd \u0b9a\u0bc2\u0bb4\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0ba4\u0bbf\u0bb1\u0ba9\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0ba4\u0bc1, \u201d\u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc1\u0ba3\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0ba4\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bb5 \u0baa\u0bc0\u0b99\u0bcd\u0b95\u0bbe\u0ba9\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0baf\u0bc2\u0b9f\u0bbf \u0b95\u0ba9\u0b95\u0b9a\u0baa\u0bc8, \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9, \u0bb0\u0bc7\u0bb5\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0bb5\u0b9a\u0bc1\u0bb0\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0, \u0bb0\u0bca\u0bb9\u0bbe\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0bb8\u0bcd, \u0ba8\u0bbf\u0bb0\u0b9e\u0bcd\u0b9a\u0ba9\u0bcd \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0, \u0bb7\u0bbe\u0bb2\u0bbf\u0b95\u0bc7 \u0b95\u0bb0\u0bc1\u0ba3\u0bbe\u0b9a\u0bc7\u0ba9 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bb2\u0bbe\u0ba8\u0bbf\u0ba4\u0bbf \u0b9a\u0b9c\u0bc0\u0bb5 \u0ba8\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bca\u0b9f \u0baa\u0bcb\u0ba9\u0bcd\u0bb1 \u0baa\u0bbf\u0bb0\u0baa\u0bb2 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0baa\u0bbf\u0bb0\u0bae\u0bc1\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0ba4\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bb5 \u0b95\u0bc1\u0bb4\u0bc1",
+          "label": "ORG"
+        },
+        {
+          "text": "1Q",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "81%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "122%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bb0\u0bc2",
+            "label": "PERSON"
+          },
+          {
+            "text": "268",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "PBT",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba4\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bb5 \u0baa\u0bc0\u0b99\u0bcd\u0b95\u0bbe\u0ba9\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "2022/2023",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba4\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bb5 \u0baa\u0bc0\u0b99\u0bcd\u0b95\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "788.4 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2022/23",
+            "label": "DATE"
+          },
+          {
+            "text": "56%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "504.4 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "374.1 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "86%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "201.46 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb5\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0bb2\u0bbe\u0baa\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "PBT",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bb5",
+            "label": "PERSON"
+          },
+          {
+            "text": "207.52 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "55.81 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bb2\u0bcd \u0b83\u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bcd\u0bb5\u0bc1\u0b9f\u0bcd \u0baa\u0bc0\u0b99\u0bcd\u0b95\u0bbe\u0ba9\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd.",
+            "label": "ORG"
+          },
+          {
+            "text": "1.42 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "81%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "787.67 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "610.55 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "122%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "275.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0bb2\u0bbe\u0baa\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "PBT",
+            "label": "ORG"
+          },
+          {
+            "text": "367.77 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "60.26 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0bb2\u0bbe\u0baa\u0bae\u0bcd (PAT",
+            "label": "ORG"
+          },
+          {
+            "text": "298 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "491%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "50 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bb2\u0bcd \u0b83\u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bcd\u0bb5\u0bc1\u0b9f\u0bcd \u0baa\u0bc0\u0b99\u0bcd\u0b95\u0bbe\u0ba9\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd.",
+            "label": "ORG"
+          },
+          {
+            "text": "236.46 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bc8\u0b9a\u0bbf \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc1\u0ba3\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0ba3\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0baf\u0bc2\u0b9f\u0bbf \u0b95\u0ba9\u0b95\u0b9a\u0baa\u0bc8",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb0\u0bc7\u0bb5\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0bb5\u0b9a\u0bc1\u0bb0\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb0\u0bcb\u0bb9\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0bb8\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0bb0\u0b9e\u0bcd\u0b9a\u0ba9\u0bcd \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb7\u0bbe\u0bb2\u0bbf\u0b95\u0bc7 \u0b95\u0bb0\u0bc1\u0ba3\u0bbe\u0b9a\u0bc7\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0b9c\u0bc0\u0bb5 \u0ba8\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bca\u0b9f",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
