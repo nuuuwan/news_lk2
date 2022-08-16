@@ -1,42 +1,38 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-16 22:25:26 (LK time)*
+*As of 2022-08-16 22:40:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **2** daily-mirror-lk ([LPBOA proposes NTC establish tourist information unit](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae6892c6.json))
+
+* **1** ada-derana-lk ([India’s Adani Green Energy given provisional approval for two wind projects](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9cbf497.json))
+
+## Last Hour (9 Articles)
+
+* **4** news-first-lk ([Polish man arrested with Rs. 245 Mn worth Cocaine by Customs](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b714dc1c.json))
 
 * **3** daily-mirror-lk ([Emergency will not be extended beyond Aug. 18: President](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20ac604c.json))
 
-* **2** news-first-lk ([Adani given approval for Two Wind Projects](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1a62c5e.json))
-
-* **1** ada-derana-lk ([India’s Adani Green Energy given provisional approval for two wind projects](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82f8e2f2.json))
-
-## Last Hour (11 Articles)
-
-* **5** news-first-lk ([IMF Agreement will give Sri Lanka confidence – President](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60d47755.json))
-
-* **3** daily-mirror-lk ([Emergency will not be extended beyond Aug. 18: President](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20ac604c.json))
-
-* **1** ada-derana-lk ([India’s Adani Green Energy given provisional approval for two wind projects](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82f8e2f2.json))
+* **1** ada-derana-lk ([India’s Adani Green Energy given provisional approval for two wind projects](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9cbf497.json))
 
 * **1** tamil-mirror-lk ([இலங்கை தொடர்பில் பிரித்தானியா எடுத்துள்ள தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/6482a7d9.json))
 
-* **1** ada-lk ([හදිසි නීතිය දීර්ඝ නොකරන බව ජනපති කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93c18b89.json))
+## Last 3 Hours (21 Articles)
 
-## Last 3 Hours (25 Articles)
-
-* **8** news-first-lk ([USD 2.1 Mn to improve lives of the marginalized from WUSC](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/645803aa.json))
+* **6** news-first-lk ([Emergency unlikely to be extended – President](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9efb28e6.json))
 
 * **4** daily-mirror-lk ([Kaduwela OIC averts planned attack by gang: Three arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06373d3b.json))
 
-* **4** ada-derana-lk ([UNDCO Regional Director for Asia-Pacific arrives in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/504cbb8a.json))
-
 * **4** tamil-mirror-lk ([அவசரகால சட்டம்  நீக்கப்படும்;  ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b5d71db.json))
+
+* **3** ada-derana-lk ([President says state of emergency will not be extended](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b764e78.json))
 
 * **3** lankadeepa-lk ([ආණ්ඩුකාරවරුන් පත් කිරීමට එජාප පොහොට්ටු සීතල යුද්ධයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c021c6b.json))
 
-* **2** ada-lk ([එක්සත් රාජධානියෙන් ලංකාවට විශාල වෙළඳ සහනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/567f9935.json))
+* **1** ada-lk ([හදිසි නීතිය දීර්ඝ නොකරන බව ජනපති කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93c18b89.json))
 
 ## Last 24 Hours (212 Articles)
 
