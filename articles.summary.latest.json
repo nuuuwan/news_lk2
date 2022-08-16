@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/india-gifts-maritime-surveillance-aircraft-to-sri-lanka-amid-chinese-spy-ship-row-98662/",
+    "time_ut": 1660625460,
+    "original_lang": "en",
+    "original_title": "India gifts maritime surveillance aircraft to Sri Lanka amid Chinese \u2018spy ship\u2019 row",
+    "file_name": "/tmp/news_lk2/articles/e1/e1564a36.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dd2\u0d82\u0dad\u0ddc\u0da7-\u0dc0\u0dd0\u0dbb\u0daf\u0dd4\u0dab\u0dd4-\u0d9a\u0dd4\u0dbb\u0dd4\u0db8\u0dcf\u0db1\u0db8/1-618184",
+    "time_ut": 1660625249,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dd2\u0d82\u0dad\u0ddc\u0da7 \u0dc0\u0dd0\u0dbb\u0daf\u0dd4\u0dab\u0dd4 \u0d9a\u0dd4\u0dbb\u0dd4\u0db8\u0dcf\u0db1\u0db8",
+    "file_name": "/tmp/news_lk2/articles/a3/a3538129.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Motor-Traffic-Dept-to-amend-all-charges-including-driving-license/108-243151",
+    "time_ut": 1660625204,
+    "original_lang": "en",
+    "original_title": "Motor Traffic Dept. to amend all charges including driving license",
+    "file_name": "/tmp/news_lk2/articles/57/57210578.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf-\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0db1\u0dd0\u0dc0\u0dad\u0dca-\u0db8\u0dd9\u0dd2-\u0dc3\u0dad\u0dd2\u0dba\u0dda-\u0d91\u0dba\u0dd2/1-618183",
+    "time_ut": 1660624642,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0db1\u0dd0\u0dc0\u0dad\u0dca \u0db8\u0dd9\u0dd2 \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d4/d44b895f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dad\u0ddc\u0da7\u0dd4\u0db4\u0ddc\u0dc5-\u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0dad\u0dba\u0dd2\u0dc3\u0dda-\u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0dba\u0dba\u0dd2/11-396331",
+    "time_ut": 1660624355,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0dd4\u0db4\u0ddc\u0dc5 \u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dad\u0dba\u0dd2\u0dc3\u0dda \u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/1c/1c18f49a.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Full-face-helmet-law-relaxed-new-regulations-issued-to-rider-pillion/108-243150",
     "time_ut": 1660623890,
@@ -14,6 +54,14 @@
     "original_lang": "en",
     "original_title": "Poultry producers summoned to the CAA",
     "file_name": "/tmp/news_lk2/articles/6e/6e7faeda.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/chinese-tracking-vessel-yuan-wang-5-docks-at-sri-lankas-hambantota-port-98661/",
+    "time_ut": 1660623600,
+    "original_lang": "en",
+    "original_title": "Chinese tracking vessel Yuan Wang 5 docks at Sri Lanka\u2019s Hambantota Port",
+    "file_name": "/tmp/news_lk2/articles/2e/2e547836.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -73,11 +121,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc4\u0dd2\u0d9f\u0dba\u0da7-\u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dba-\u0d9a\u0dc5-\u0dc0\u0dd0\u0dbb\u0dd0\u0daf\u0dd2-\u0dc4\u0dbb\u0dd2\u0d9c\u0dc3\u0dca\u0dc3\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dba\u0dd2/2-618179",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc4\u0dd2\u0d9f\u0dba\u0da7-\u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dba-\u0d9a\u0dc5-\u0dc0\u0dd0\u0dbb\u0dd0\u0daf\u0dd2-\u0dc4\u0dbb\u0dd2\u0d9c\u0dc3\u0dca\u0dc3\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dba\u0dd2/26-618179",
     "time_ut": 1660621819,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dd2\u0d9f\u0dba\u0da7 \u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dba \u0d9a\u0dc5 \u0dc0\u0dd0\u0dbb\u0dd0\u0daf\u0dd2 \u0dc4\u0dbb\u0dd2\u0d9c\u0dc3\u0dca\u0dc3\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/27/27bf2968.json"
+    "file_name": "/tmp/news_lk2/articles/b2/b2f0b580.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -86,6 +134,14 @@
     "original_lang": "en",
     "original_title": "MFA Sabry meets with UNDP Deputy Regional Director",
     "file_name": "/tmp/news_lk2/articles/b1/b17d7002.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dc4-\u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda-\u0dc0\u0dd3-\u0dc0\u0d9c\u0dcf\u0dc0\u0da7-\u0d95\u0db1-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0dd9\u0db1\u0dca\u0db8-\u0dba\u0dcf\u0db4\u0db1\u0dba\u0da7/11-396330",
+    "time_ut": 1660621164,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dc4 \u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda \u0dc0\u0dd3 \u0dc0\u0d9c\u0dcf\u0dc0\u0da7 \u0d95\u0db1 \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0dd9\u0db1\u0dca\u0db8 \u0dba\u0dcf\u0db4\u0db1\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/9c/9c041c1f.json"
   },
   {
     "newspaper_id": "news-first-lk",
