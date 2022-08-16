@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/the-land-may-divide-us-but-the-sky-and-the-ocean-unites-us-all-wimal-at-the-welcome-ceremony-for-yuan-wang-5/",
+    "time_ut": 1660667400,
+    "original_lang": "en",
+    "original_title": "The land may divide us, but the sky and the ocean unites us all: Wimal at the welcome ceremony for Yuan Wang 5",
+    "file_name": "/tmp/news_lk2/articles/2d/2d2b0c68.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/adani-given-approval-for-two-wind-projects/",
+    "time_ut": 1660667160,
+    "original_lang": "en",
+    "original_title": "Adani given approval for Two Wind Projects",
+    "file_name": "/tmp/news_lk2/articles/d1/d1a62c5e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf\u0bbe-\u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-302450",
+    "time_ut": 1660666999,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf\u0bbe \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/64/6482a7d9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/norochcholai-to-take-eight-days-to-cool-down-ceb/",
+    "time_ut": 1660666980,
+    "original_lang": "en",
+    "original_title": "Norochcholai to take eight days to cool down: CEB",
+    "file_name": "/tmp/news_lk2/articles/7b/7b15d8ab.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/polish-man-arrested-with-rs-245-mn-worth-cocaine-by-customs/",
+    "time_ut": 1660666380,
+    "original_lang": "en",
+    "original_title": "Polish man arrested with Rs. 245 Mn worth Cocaine by Customs",
+    "file_name": "/tmp/news_lk2/articles/b7/b714dc1c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/imf-agreement-will-give-sri-lanka-confidence-president/",
+    "time_ut": 1660666020,
+    "original_lang": "en",
+    "original_title": "IMF Agreement will give Sri Lanka confidence \u2013 President",
+    "file_name": "/tmp/news_lk2/articles/60/60d47755.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84345/coronavirus-6-more-deaths-and-195-new-cases-reported",
     "time_ut": 1660665240,
@@ -94,6 +142,14 @@
     "original_lang": "en",
     "original_title": "USD 2.1 Mn to improve lives of the marginalized from WUSC",
     "file_name": "/tmp/news_lk2/articles/64/645803aa.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0dbb\u0dcf\u0da2\u0db0\u0dcf\u0db1\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd-\u0dc0\u0dd9\u0dc5\u0db3-\u0dc3\u0dc4\u0db1\u0dba\u0d9a\u0dca/11-396347",
+    "time_ut": 1660658168,
+    "original_lang": "si",
+    "original_title": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0dbb\u0dcf\u0da2\u0db0\u0dcf\u0db1\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0dc0\u0dd9\u0dc5\u0db3 \u0dc3\u0dc4\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/56/567f9935.json"
   },
   {
     "newspaper_id": "news-first-lk",

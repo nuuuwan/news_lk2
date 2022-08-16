@@ -1,0 +1,351 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/08/16/polish-man-arrested-with-rs-245-mn-worth-cocaine-by-customs/",
+  "time_ut": 1660666380,
+  "original_lang": "en",
+  "original_title": "Polish man arrested with Rs. 245 Mn worth Cocaine by Customs",
+  "text_idx": {
+    "en": {
+      "title": "Polish man arrested with Rs. 245 Mn worth Cocaine by Customs",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st); A polish national was arrested by the officers attached to Narcotics Control Unit Of Sri Lanka Customs with 5kg of Cocaine concealed in his baggage.",
+        "This passenger arrived from Colombia on 14.08.2022 onboard flight QR 662 via Doha.",
+        "This narcotics substance was concealed in fax paper rolls used in fax machines.",
+        "Total value of the substance was estimated as Rs. 245 million.",
+        "The Suspect and the narcotics were handed over to Police Narcotics Bureau for further investigation .",
+        "The land may divide us, but the sky and the ocean unites us all: Wimal at the welcome ceremony for Yuan Wang 5",
+        "Polish man arrested with Rs. 245 Mn worth Cocaine by Customs"
+      ],
+      "title_ents": [
+        {
+          "text": "Polish",
+          "label": "NORP"
+        },
+        {
+          "text": "245",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Mn",
+          "label": "ORG"
+        },
+        {
+          "text": "Cocaine",
+          "label": "ORG"
+        },
+        {
+          "text": "Customs",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "polish",
+            "label": "NORP"
+          },
+          {
+            "text": "Narcotics Control Unit Of Sri Lanka Customs",
+            "label": "ORG"
+          },
+          {
+            "text": "5kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Cocaine",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "Colombia",
+            "label": "GPE"
+          },
+          {
+            "text": "14.08.2022",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Doha",
+            "label": "GPE"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "245 million",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Police Narcotics Bureau",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Yuan Wang",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Polish",
+            "label": "NORP"
+          },
+          {
+            "text": "245",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Mn",
+            "label": "ORG"
+          },
+          {
+            "text": "Cocaine",
+            "label": "ORG"
+          },
+          {
+            "text": "Customs",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0d9a\u0ddd\u0da7\u0dd2 1000\u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0db4\u0ddd\u0dbd\u0db1\u0dca\u0dad \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 245\u0d9a\u0dca \u0dc0\u0da7\u0dd2\u0db1\u0dcf \u0d9a\u0ddc\u0d9a\u0dda\u0db1\u0dca \u0dbb\u0dda\u0d9c\u0dd4\u0dc0\u0dd9\u0db1\u0dca",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0dda\u0d9c\u0dd4 \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0db1\u0dcf\u0dc1\u0d9a \u0d85\u0d82\u0dc1\u0dba\u0dda \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d9a\u0ddc\u0d9a\u0dda\u0db1\u0dca \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 5 \u0d9a\u0dca \u0dc3\u0d9f\u0dc0\u0dcf\u0d9c\u0dd9\u0db1 \u0dc3\u0dd2\u0da7\u0dd2 \u0db4\u0ddc\u0dbd\u0dd2\u0dc2\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd9\u0db1 \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf.",
+        "\u0db8\u0dd9\u0db8 \u0db8\u0d9c\u0dd2\u0dba\u0dcf \u0d9a\u0ddc\u0dbd\u0ddc\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc3\u0dd2\u0da7 2022.08.14 \u0dc0\u0db1 \u0daf\u0dd2\u0db1 QR 662 \u0daf\u0dbb\u0db1 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0daf\u0ddd\u0dc4\u0dcf \u0dc4\u0dbb\u0dc4\u0dcf \u0db4\u0dd0\u0db8\u0dd2\u0dab \u0d87\u0dad.",
+        "\u0dc6\u0dd0\u0d9a\u0dca\u0dc3\u0dca \u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dbd \u0db7\u0dcf\u0dc0\u0dd2\u0dad \u0d9a\u0dbb\u0db1 \u0dc6\u0dd0\u0d9a\u0dca\u0dc3\u0dca \u0d9a\u0da9\u0daf\u0dcf\u0dc3\u0dd2 \u0dbb\u0ddd\u0dbd\u0dca\u0dc0\u0dbd \u0db8\u0dd9\u0db8 \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dc3\u0d9f\u0dc0\u0dcf \u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dd2.",
+        "\u0daf\u0dca\u0dbb\u0dc0\u0dca\u0dba\u0dba\u0dda \u0db8\u0dd4\u0dc5\u0dd4 \u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0d9a\u0db8 \u0dbb\u0dd4. \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 245 \u0d9a\u0dd2.",
+        "\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4 \u0dc3\u0dc4 \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb \u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0db1\u0dcf\u0dc1\u0d9a \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba \u0dc0\u0dd9\u0dad \u0db7\u0dcf\u0dbb \u0daf\u0dd3\u0db8\u0da7 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d9a\u0dd9\u0dbb\u0dd2\u0dab\u0dd2.",
+        "\u0d9c\u0ddc\u0da9\u0db6\u0dd2\u0db8 \u0d85\u0db4\u0dd2\u0dc0 \u0db6\u0dd9\u0daf\u0db1\u0dca\u0db1 \u0db4\u0dd4\u0dc5\u0dd4\u0dc0\u0db1\u0dca, \u0db1\u0db8\u0dd4\u0dad\u0dca \u0d85\u0dc4\u0dc3\u0dba\u0dd2 \u0dc3\u0dcf\u0d9c\u0dbb\u0dba\u0dba\u0dd2 \u0d85\u0db4\u0dd2 \u0dc4\u0dd0\u0db8\u0ddd\u0db8 \u0d91\u0d9a\u0dad\u0dd4 \u0d9a\u0dbb\u0db1\u0dc0\u0dcf: \u0dba\u0dd4\u0dc0\u0dcf\u0db1\u0dca \u0dc0\u0dd0\u0db1\u0dca\u0d9c\u0dca 5 \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba\u0dda\u0daf\u0dd3 \u0dc0\u0dd2\u0db8\u0dbd\u0dca",
+        "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0d9a\u0ddd\u0da7\u0dd2 1000\u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0db4\u0ddd\u0dbd\u0db1\u0dca\u0dad \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 245\u0d9a\u0dca \u0dc0\u0da7\u0dd2\u0db1\u0dcf \u0d9a\u0ddc\u0d9a\u0dda\u0db1\u0dca \u0dbb\u0dda\u0d9c\u0dd4\u0dc0\u0dd9\u0db1\u0dca"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0db4\u0ddd\u0dbd\u0db1\u0dca\u0dad",
+          "label": "NORP"
+        },
+        {
+          "text": "245",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Mn",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0d9a\u0ddc\u0d9a\u0dda\u0db1\u0dca",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0dbb\u0dda\u0d9c\u0dd4\u0dc0",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d94\u0db4 \u0daf\u0dd0\u0db8\u0dd3\u0db8",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0dda\u0d9c\u0dd4\u0dc0\u0dda \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0db4\u0dcf\u0dbd\u0db1 \u0d92\u0d9a\u0d9a\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "5kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0d9a\u0dda\u0db1\u0dca",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0dbd\u0ddc\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "2022.08.14",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0daf\u0ddd\u0dc4\u0dcf",
+            "label": "GPE"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 245 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0db1\u0dcf\u0dc1\u0d9a \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Yuan Wang",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0ddd\u0dbd\u0db1\u0dca\u0dad",
+            "label": "NORP"
+          },
+          {
+            "text": "245",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Mn",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0d9a\u0dda\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0dda\u0d9c\u0dd4\u0dc0",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0baa\u0bcb\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0ba8\u0baa\u0bb0\u0bcd \u0bb0\u0bc2. \u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd 245 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0bcb\u0b95\u0bcb\u0baf\u0bbf\u0ba9\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bbe\u0bb2\u0bcd 5 \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b95\u0bca\u0b95\u0bcd\u0b95\u0bc7\u0baf\u0bcd\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb7\u0bcd \u0baa\u0bbf\u0bb0\u0b9c\u0bc8 \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0baa\u0baf\u0ba3\u0bbf \u0b95\u0bca\u0bb2\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 14.08.2022 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bcb\u0bb9\u0bbe \u0bb5\u0bb4\u0bbf\u0baf\u0bbe\u0b95 QR 662 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0ba4\u0bca\u0bb2\u0bc8\u0ba8\u0b95\u0bb2\u0bcd \u0b87\u0baf\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bca\u0bb2\u0bc8\u0ba8\u0b95\u0bb2\u0bcd \u0b95\u0bbe\u0b95\u0bbf\u0ba4 \u0bb0\u0bcb\u0bb2\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bae\u0bb1\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bb0\u0bc2. 245 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd.",
+        "\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bae\u0bc7\u0bb2\u0ba4\u0bbf\u0b95 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b92\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0ba9\u0bb0\u0bbf\u0b9f\u0bae\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0ba8\u0bbf\u0bb2\u0bae\u0bcd \u0ba8\u0bae\u0bcd\u0bae\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd, \u0b86\u0ba9\u0bbe\u0bb2\u0bcd \u0bb5\u0bbe\u0ba9\u0bae\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bb2\u0bc1\u0bae\u0bcd \u0ba8\u0bae\u0bcd\u0bae\u0bc8 \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1: \u0baf\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd \u0bb5\u0bbe\u0b99\u0bcd 5-\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bae\u0bb2\u0bcd",
+        "\u0baa\u0bcb\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0ba8\u0baa\u0bb0\u0bcd \u0bb0\u0bc2. \u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd 245 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0bcb\u0b95\u0bcb\u0baf\u0bbf\u0ba9\u0bcd"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0baa\u0bcb\u0bb2\u0bbf\u0bb7\u0bcd",
+          "label": "NORP"
+        },
+        {
+          "text": "245",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Mn",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b95\u0bcb\u0b95\u0bcb\u0baf\u0bbf\u0ba9\u0bcd",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bc6\u0bb0\u0bc1\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "5 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b95\u0bcb\u0b95\u0bcb\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb2\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "14.08.2022",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bcb\u0bb9\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "245 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Yuan Wang",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bcb\u0bb2\u0bbf\u0bb7\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "245",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Mn",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bcb\u0b95\u0bcb\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
