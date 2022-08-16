@@ -1,28 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-17 00:37:12 (LK time)*
+*As of 2022-08-17 00:58:50 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (2 Articles)
 
 * **1** ada-derana-lk ([Foreign Minister briefs diplomatic corps on current developments](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/447fabfa.json))
 
-## Last Hour (4 Articles)
+* **1** tamil-mirror-lk ([சொந்த நிதியில் வெளிநாட்டுப் பயணங்களை மேற்கொள்ளும் கோட்டா](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/999a8e18.json))
 
-* **2** tamil-mirror-lk ([இலங்கையில் மின்சார முச்சக்கர வண்டிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b074b68.json))
+## Last 3 Hours (17 Articles)
 
-* **1** ada-derana-lk ([Foreign Minister briefs diplomatic corps on current developments](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/447fabfa.json))
-
-* **1** ada-lk ([හිටපු ජනපතිගේ එතෙර වියදම් රජයේ මුදලින් නොවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e96cc0.json))
-
-## Last 3 Hours (21 Articles)
-
-* **5** tamil-mirror-lk ([இலங்கை தொடர்பில் பிரித்தானியா எடுத்துள்ள தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/6482a7d9.json))
+* **4** tamil-mirror-lk ([கோட்டாவின் செலவுகளை ஏற்றது அரசாங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2856c05.json))
 
 * **4** daily-mirror-lk ([Emergency will not be extended beyond Aug. 18: President](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20ac604c.json))
-
-* **4** news-first-lk ([Polish man arrested with Rs. 245 Mn worth Cocaine by Customs](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b714dc1c.json))
 
 * **3** ada-derana-lk ([India’s Adani Green Energy given provisional approval for two wind projects](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9cbf497.json))
 
@@ -30,7 +22,9 @@
 
 * **2** economy-next-com ([Sri Lanka shares bucks winning streak on profit taking after gaining 20%](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/475dc415.json))
 
-## Last 24 Hours (212 Articles)
+* **1** news-first-lk ([The land may divide us, but the sky and the ocean unites us all: Wimal at the welcome ceremony for Yuan Wang 5](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d2b0c68.json))
+
+## Last 24 Hours (210 Articles)
 
 * **46** news-first-lk ([Chinese Research / Survey Vessel Yuan Wang 5 reaches Sri Lanka’s Hambantota](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8fd8b3f4.json))
 
@@ -46,11 +40,11 @@
 
 * **15** daily-ft-lk ([Lankan motorists deprived of super diesel: A penny wise pound foolish move?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fae6a4b6.json))
 
-* **14** economy-next-com ([Sri Lanka sovereign rating at SD but ISBs downgraded to ‘D’ by S&P](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77536cc3.json))
+* **13** economy-next-com ([Chinese tracking vessel Yuan Wang 5 docks at Sri Lanka’s Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e547836.json))
 
-* **2** colombo-telegraph-com ([The Despot President Was Replaced By A Tyrant In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d2d53f5.json))
+* **1** colombo-telegraph-com ([Consolidating Power Of Government At Expense Of People](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4500dae3.json))
 
-## Last Week (736 Articles)
+## Last Week (734 Articles)
 
 * **114** lankadeepa-lk ([විසම්මුතියෙන් සම්මුතියට ඇවිත් ආර්ථිකය නංවමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17266770.json))
 
@@ -68,11 +62,11 @@
 
 * **54** economy-next-com ([Sri Lanka air travellers warned of confiscation, fines by Customs](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/960228c8.json))
 
-* **27** island-lk ([Reds at sea](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce6b75f.json))
+* **26** island-lk ([Gallup polls and G-strings](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85e17ad.json))
 
 * **16** colombo-telegraph-com ([The Aragalaya & Morality](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9788f39.json))
 
-* **13** d-b-s-jeyaraj-com ([“Gota Go Home” Protest That Began at Galle Face on April 9 Ends After 4 Months on Augut 9 but “Aragalaya”(struggle) will Continue in Different Forms;Protesters Withdrwa 4 Writs Filed in Appeal Court against Removal of Site;Organizers Allege bulk of 43 Tents have been stolen by third parties](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ad5d93f.json))
+* **12** d-b-s-jeyaraj-com ([Sri Lanka has become a country devoid of mature political leaders. We have only Ranil Wickremesinghe left among the leaders who can be considered an advanced political leader. In the absence of mature leaders, it should be the country’s responsibility to make proper use of him at this critical juncture.](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9971012a.json))
 
 ## All Time (1,047 Articles)
 
