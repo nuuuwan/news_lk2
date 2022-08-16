@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/129-covid-cases-reported-on-monday-15/",
+    "time_ut": 1660620060,
+    "original_lang": "en",
+    "original_title": "129 COVID cases reported on Monday (15)",
+    "file_name": "/tmp/news_lk2/articles/50/50573dcd.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84329/chinese-research-vessel-arrives-at-hambantota-port",
+    "time_ut": 1660619520,
+    "original_lang": "en",
+    "original_title": "Chinese research vessel arrives at Hambantota Port",
+    "file_name": "/tmp/news_lk2/articles/96/96f0085d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/heavy-showers-expected-tonight-16/",
+    "time_ut": 1660619460,
+    "original_lang": "en",
+    "original_title": "Heavy showers expected tonight (16)",
+    "file_name": "/tmp/news_lk2/articles/84/84c7e260.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84328/ceb-trade-union-warns-daily-power-cuts-could-exceed-3-hours",
+    "time_ut": 1660618800,
+    "original_lang": "en",
+    "original_title": "CEB trade union warns daily power cuts could exceed 3 hours",
+    "file_name": "/tmp/news_lk2/articles/ea/ea836fe6.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8-\u0bae\u0bc0\u0b9f\u0bcd\u0b95-\u0b85\u0ba9\u0bc8\u0bb5\u0bb0\u0bc1\u0bae\u0bcd-\u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0bb0\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b95\u0bb0\u0bc1-\u0b9c\u0baf\u0b9a\u0bc2\u0bb0\u0bbf\u0baf/175-302405",
+    "time_ut": 1660618549,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bc0\u0b9f\u0bcd\u0b95 \u0b85\u0ba9\u0bc8\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0bb0\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd: \u0b95\u0bb0\u0bc1 \u0b9c\u0baf\u0b9a\u0bc2\u0bb0\u0bbf\u0baf",
+    "file_name": "/tmp/news_lk2/articles/f6/f6158329.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84327/fifa-suspends-all-india-football-federation-due-to-third-party-influence",
+    "time_ut": 1660617960,
+    "original_lang": "en",
+    "original_title": "FIFA suspends All India Football Federation due to third party influence",
+    "file_name": "/tmp/news_lk2/articles/1b/1bebde6f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84326/chinese-embassy-to-launch-welcoming-ceremony-for-arrival-of-chinese-research-vessel",
+    "time_ut": 1660617420,
+    "original_lang": "en",
+    "original_title": "Chinese Embassy to launch welcoming ceremony for arrival of Chinese research vessel",
+    "file_name": "/tmp/news_lk2/articles/86/86362752.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bbe\u0ba9-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd/175-302404",
     "time_ut": 1660617252,
@@ -54,6 +110,22 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0dc3\u0dd2 \u0daf\u0dd9\u0d9a\u0da7 \u0d9a\u0db9 \u0d87\u0daf\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/50/503d62f2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business__main/Total-SOE-losses-in-first-4-months-of-2022-surpass-annual-losses-in-2021/245-243147",
+    "time_ut": 1660598638,
+    "original_lang": "en",
+    "original_title": "Total SOE losses in first 4 months of 2022 surpass annual losses in 2021",
+    "file_name": "/tmp/news_lk2/articles/d9/d9aaaf1a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Jayakantha-appointed-as-new-Civil-Aviation-DG/273-243140",
+    "time_ut": 1660598171,
+    "original_lang": "en",
+    "original_title": "Jayakantha appointed as new Civil Aviation DG",
+    "file_name": "/tmp/news_lk2/articles/04/041acd68.json"
   },
   {
     "newspaper_id": "daily-ft-lk",

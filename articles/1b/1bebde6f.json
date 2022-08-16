@@ -1,0 +1,519 @@
+{
+  "newspaper_id": "ada-derana-lk",
+  "url": "http://www.adaderana.lk/news/84327/fifa-suspends-all-india-football-federation-due-to-third-party-influence",
+  "time_ut": 1660617960,
+  "original_lang": "en",
+  "original_title": "FIFA suspends All India Football Federation due to third party influence",
+  "text_idx": {
+    "en": {
+      "title": "FIFA suspends All India Football Federation due to third party influence",
+      "author": "unknown",
+      "body_lines": [
+        "FIFA on Monday announced the suspension of All India Football Federation (AIFF) citing \u201cundue influence from third parties, which constitutes a serious violation of the FIFA Statutes.\u201d",
+        "The announcement was made on their website which stated that FIFA would lift the suspension \u201conce an order to set up a committee of administrators to assume the powers of the AIFF Executive Committee has been repealed and the AIFF administration regains full control of the AIFF\u2019s daily affairs.\u201d",
+        "The suspension has subsequently threatened India hosting the Under-17 Women\u2019s World Cup which is slated to begin from October 11 onwards. FIFA revealed that they are assessing the next steps with regard to the tournament.",
+        "The suspension has other implications as well for Indian football which includes the fact the domestic tournaments now staged will not be recognised by either Asian Football Confederation (AFC) or FIFA, while the national teams will not be able to play any international matches.",
+        "FIFA said the suspension was effective immediately and that the transgression \u201cconstitutes a serious violation of the FIFA Statutes.\u201d",
+        "\u201cThe suspension will be lifted once an order to set up a committee of administrators to assume the powers of the AIFF executive committee has been repealed and the AIFF administration regains full control of the AIFF\u2019s daily affairs,\u201d FIFA said.",
+        "The Under-17 Women\u2019s World Cup \u201ccannot currently be held in India as planned,\u201d FIFA said.",
+        "\u201cFIFA is in constant constructive contact with the Ministry of Youth Affairs and Sports in India and is hopeful that a positive outcome to the case may still be achieved.\u201d"
+      ],
+      "title_ents": [
+        {
+          "text": "FIFA",
+          "label": "ORG"
+        },
+        {
+          "text": "All India Football Federation",
+          "label": "ORG"
+        },
+        {
+          "text": "third",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          },
+          {
+            "text": "Monday",
+            "label": "DATE"
+          },
+          {
+            "text": "All India Football Federation",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "third",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "daily",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "Women\u2019s World Cup",
+            "label": "ORG"
+          },
+          {
+            "text": "October 11",
+            "label": "DATE"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Indian",
+            "label": "NORP"
+          },
+          {
+            "text": "Asian Football Confederation",
+            "label": "ORG"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "daily",
+            "label": "DATE"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Women\u2019s World Cup",
+            "label": "ORG"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          },
+          {
+            "text": "the Ministry of Youth Affairs",
+            "label": "ORG"
+          },
+          {
+            "text": "Sports",
+            "label": "PERSON"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dad\u0dd4\u0db1\u0dca\u0dc0\u0db1 \u0db4\u0dcf\u0dbb\u0dca\u0dc1\u0dca\u0dc0\u0dba\u0dda \u0db6\u0dbd\u0db4\u0dd1\u0db8 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca FIFA \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc3\u0db8\u0dc3\u0dca\u0dad \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0db4\u0dcf\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc3\u0db8\u0dca\u0db8\u0dda\u0dbd\u0db1\u0dba \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "FIFA \u0dc3\u0db3\u0dd4\u0daf\u0dcf \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d9a\u0dc5\u0dda \u0dc3\u0db8\u0dc3\u0dca\u0dad \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0db4\u0dcf\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc3\u0db8\u0dca\u0db8\u0dda\u0dbd\u0db1\u0dba (AIFF) \"\u0dad\u0dd9\u0dc0\u0db1 \u0db4\u0dcf\u0dbb\u0dca\u0dc1\u0dca\u0dc0\u0dba\u0db1\u0dca\u0d9c\u0dda \u0d85\u0db1\u0dd2\u0dc3\u0dd2 \u0db6\u0dbd\u0db4\u0dd1\u0db8\u0dca, FIFA \u0db4\u0dca\u200d\u0dbb\u0da5\u0db4\u0dca\u0dad\u0dd2 \u0db6\u0dbb\u0db4\u0dad\u0dbd \u0dbd\u0dd9\u0dc3 \u0d8b\u0dbd\u0dca\u0dbd\u0d82\u0d9d\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca\" \u0d8b\u0db4\u0dd4\u0da7\u0dcf \u0daf\u0d9a\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca.",
+        "AIFF \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda \u0db6\u0dbd\u0dad\u0dbd \u0db7\u0dcf\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dda \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8\u0dda \u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb AIFF \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1\u0dba AIFF \u0dc4\u0dd2 \u0daf\u0ddb\u0db1\u0dd2\u0d9a \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4\u0dc0\u0dbd \u0db4\u0dd6\u0dbb\u0dca\u0dab \u0db4\u0dcf\u0dbd\u0db1\u0dba \u0db1\u0dd0\u0dc0\u0dad \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca \u0db4\u0dc3\u0dd4 FIFA \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0db6\u0dc0 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dd9\u0db6\u0dca \u0d85\u0da9\u0dc0\u0dd2\u0dba\u0dda \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d9a\u0dbb \u0d87\u0dad. .\u201d",
+        "\u0db8\u0dd9\u0db8 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8 \u0db4\u0dc3\u0dd4\u0dc0 \u0d94\u0d9a\u0dca\u0dad\u0ddd\u0db6\u0dbb\u0dca 11 \u0dc3\u0dd2\u0da7 \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0dc0\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 17 \u0db1\u0dca \u0db4\u0dc4\u0dc5 \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba\u0dda \u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0dad\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a\u0dca \u0dc0\u0dd3 \u0dad\u0dd2\u0db6\u0dda. \u0dad\u0dbb\u0d9f\u0dcf\u0dc0\u0dbd\u0dd2\u0dba \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0db4\u0dd2\u0dba\u0dc0\u0dbb \u0dad\u0d9a\u0dca\u0dc3\u0dda\u0dbb\u0dd4 \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0db6\u0dc0 FIFA \u0d85\u0db1\u0dcf\u0dc0\u0dbb\u0dab \u0d9a\u0dc5\u0dcf.",
+        "\u0db8\u0dd9\u0db8 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db4\u0dcf\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf\u0dc0\u0da7 \u0dc0\u0dd9\u0db1\u0dad\u0dca \u0d87\u0d9f\u0dc0\u0dd4\u0db8\u0dca \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0daf\u0dd0\u0db1\u0dca \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd9\u0db1 \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dad\u0dbb\u0d9f\u0dcf\u0dc0\u0dbd\u0dd2 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db4\u0dcf\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc3\u0db8\u0dca\u0db8\u0dda\u0dbd\u0db1\u0dba (AFC) \u0dc4\u0ddd FIFA \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2 \u0db1\u0ddc\u0d9c\u0db1\u0dca\u0db1\u0dcf \u0d85\u0dad\u0dbb \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dca\u0dc0\u0dbd\u0da7 \u0d9a\u0dd2\u0dc3\u0dd2\u0daf\u0dd4 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dad\u0dbb\u0d9f\u0dba\u0d9a\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0db1\u0dd4 \u0d87\u0dad.",
+        "FIFA \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8 \u0dc0\u0dc4\u0dcf\u0db8 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0d91\u0db8 \u0d8b\u0dbd\u0dca\u0dbd\u0d82\u0d9d\u0db1\u0dba \u201cFIFA \u0db4\u0dca\u200d\u0dbb\u0da5\u0db4\u0dca\u0dad\u0dd2 \u0db6\u0dbb\u0db4\u0dad\u0dbd \u0dbd\u0dd9\u0dc3 \u0d8b\u0dbd\u0dca\u0dbd\u0d82\u0d9d\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca\u201d \u0db6\u0dc0\u0dba\u0dd2.",
+        "\"AIFF \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda \u0db6\u0dbd\u0dad\u0dbd \u0d8b\u0db4\u0d9a\u0dbd\u0dca\u0db4\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dda \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8\u0dda \u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb AIFF \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1\u0dba AIFF \u0dc4\u0dd2 \u0daf\u0ddb\u0db1\u0dd2\u0d9a \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4\u0dc0\u0dbd \u0db4\u0dd6\u0dbb\u0dca\u0dab \u0db4\u0dcf\u0dbd\u0db1\u0dba \u0db1\u0dd0\u0dc0\u0dad \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca \u0db4\u0dc3\u0dd4 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dd4 \u0dbd\u0dd0\u0db6\u0dda,\" FIFA \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 17 \u0db1\u0dca \u0db4\u0dc4\u0dc5 \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba \"\u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db4\u0dbb\u0dd2\u0daf\u0dd2 \u0daf\u0dd0\u0db1\u0da7 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd2\u0dba \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\" \u0dba\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca FIFA \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\"FIFA \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dba\u0dde\u0dc0\u0db1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0dc3\u0dc4 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba \u0dc3\u0db8\u0d9f \u0db1\u0dd2\u0dbb\u0db1\u0dca\u0dad\u0dbb \u0db1\u0dd2\u0dbb\u0dca\u0db8\u0dcf\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dad\u0dcf \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0d85\u0dad\u0dbb \u0db1\u0da9\u0dd4\u0dc0\u0da7 \u0db0\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd\u0dba\u0d9a\u0dca \u0dad\u0dc0\u0db8\u0dad\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0db1\u0dd4 \u0d87\u0dad\u0dd0\u0dba\u0dd2 \u0db6\u0dbd\u0dcf\u0db4\u0ddc\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4 \u0dc0\u0dda.\""
+      ],
+      "title_ents": [
+        {
+          "text": "FIFA",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0dc3\u0db8\u0dc3\u0dca\u0dad \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0db4\u0dcf\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc3\u0db8\u0dca\u0db8\u0dda\u0dbd\u0db1\u0dba",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0dad\u0dd9\u0dc0\u0db1",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dc3\u0dca\u0dad \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0db4\u0dcf\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc3\u0db8\u0dca\u0db8\u0dda\u0dbd\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dad\u0dd9\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd2\u0db1\u0db4\u0dad\u0dcf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d94\u0d9a\u0dca\u0dad\u0ddd\u0db6\u0dbb\u0dca 11",
+            "label": "DATE"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db4\u0dcf\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc3\u0db8\u0dca\u0db8\u0dda\u0dbd\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd2\u0db1\u0db4\u0dad\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dde\u0dc0\u0db1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0db8\u0dcf\u0dad\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dca\u0dbb\u0dd3\u0da9\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bae\u0bcd \u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc8 FIFA \u0b87\u0b9f\u0bc8\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "FIFA \u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc8 (AIFF) \"\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bae\u0bcd \u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bbf\u0ba9\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bcb\u0bb3\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf \u0b87\u0b9f\u0bc8\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 FIFA \u0b9a\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0b9f\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0b95 \u0bae\u0bc0\u0bb1\u0bc1\u0bb5\u0ba4\u0bbe\u0b95\u0bc1\u0bae\u0bcd.\"",
+        "AIFF \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0b95 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bc8 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1 \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd, AIFF \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bae\u0bcd AIFF \u0b87\u0ba9\u0bcd \u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0bb4\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd, FIFA \u0b87\u0b9f\u0bc8\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b87\u0ba3\u0bc8\u0baf\u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. .\"",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0b87\u0b9f\u0bc8\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b85\u0b95\u0bcd\u0b9f\u0bcb\u0baa\u0bb0\u0bcd 11 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95 \u0b89\u0bb3\u0bcd\u0bb3 17 \u0bb5\u0baf\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc8 \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1. \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b95\u0b9f\u0bcd\u0b9f \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0b83\u0baa\u0bbf\u0b83\u0baa\u0bbe \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0b87\u0b9f\u0bc8\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b87\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0b86\u0b9a\u0bbf\u0baf \u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 (AFC) \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 FIFA \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bbe\u0bb2\u0bcd \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1, \u0b85\u0ba4\u0bc7 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b85\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b8e\u0ba8\u0bcd\u0ba4 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0b87\u0b9f\u0bc8\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0b85\u0bae\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd, \u0b87\u0ba8\u0bcd\u0ba4 \u0bae\u0bc0\u0bb1\u0bb2\u0bcd \"FIFA \u0b9a\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0b9f\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0b95 \u0bae\u0bc0\u0bb1\u0bc1\u0bb5\u0ba4\u0bbe\u0b95\u0bc1\u0bae\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd FIFA \u0b95\u0bc2\u0bb1\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\"AIFF \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bc8 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1 \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1\u0bae\u0bcd, AIFF \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bae\u0bcd AIFF \u0b87\u0ba9\u0bcd \u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0bb4\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0b9f\u0bc8\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 FIFA \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "17 \u0bb5\u0baf\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bc8 \"\u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0b9f\u0bcd\u0b9f\u0baa\u0b9f\u0bbf \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b83\u0baa\u0bbf\u0b83\u0baa\u0bbe \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd FIFA \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b86\u0b95\u0bcd\u0b95\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0ba9 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0ba9\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0b95\u0bae\u0bbe\u0ba9 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \u0b8e\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bb2\u0bbe\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.\""
+      ],
+      "title_ents": [
+        {
+          "text": "FIFA",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0b95\u0bcd\u0b9f\u0bcb\u0baa\u0bb0\u0bcd 11",
+            "label": "DATE"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf \u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "AIFF",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "FIFA",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          }
+        ]
+      ]
+    }
+  }
+}
