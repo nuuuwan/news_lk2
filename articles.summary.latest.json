@@ -1,11 +1,59 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84335/prices-of-paddy-to-be-purchased-by-pmb",
+    "time_ut": 1660638420,
+    "original_lang": "en",
+    "original_title": "Prices of paddy to be purchased by PMB",
+    "file_name": "/tmp/news_lk2/articles/f6/f6413577.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/air-force-inducts-dornier-to-its-fleet/",
+    "time_ut": 1660638360,
+    "original_lang": "en",
+    "original_title": "Air Force inducts Dornier to its fleet",
+    "file_name": "/tmp/news_lk2/articles/95/95d08d9d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-manufacturing-pmi-down-in-july-services-marginally-up-98675/",
+    "time_ut": 1660638060,
+    "original_lang": "en",
+    "original_title": "Sri Lanka manufacturing PMI down in July, services marginally up",
+    "file_name": "/tmp/news_lk2/articles/f1/f17fb493.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/norochcholai-two-weeks-to-rectify-breakdown/",
+    "time_ut": 1660638000,
+    "original_lang": "en",
+    "original_title": "Norochcholai: Two weeks to rectify breakdown",
+    "file_name": "/tmp/news_lk2/articles/23/23e822c2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/maybe-this-is-life-chinese-ambassadors-response-to-delayed-arrival-of-yuan-wang-5/",
+    "time_ut": 1660637760,
+    "original_lang": "en",
+    "original_title": "\u201cMaybe this is life\u201d : Chinese Ambassadors response to delayed arrival of Yuan Wang 5",
+    "file_name": "/tmp/news_lk2/articles/29/294fc4b3.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Committee-to-grant-approval-for-new-appointments-or-changes-to-heads-of-govt-institutions/108-243164",
     "time_ut": 1660636980,
     "original_lang": "en",
     "original_title": "Committee to grant approval for new appointments or changes to heads of govt institutions",
     "file_name": "/tmp/news_lk2/articles/d8/d8bdbbbf.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84334/court-rejects-petition-challenging-deportation-order-on-uk-national",
+    "time_ut": 1660636440,
+    "original_lang": "en",
+    "original_title": "Court rejects petition challenging deportation order on UK national",
+    "file_name": "/tmp/news_lk2/articles/f5/f59788ad.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -70,6 +118,14 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd3 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda  \u0dc3\u0dc4\u0dbd\u0dca \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 5\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0da9\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/ec/ece2fb05.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0dc5-\u0d9c\u0dd2\u0dba\u0dad\u0dca-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dbd\u0dda-\u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca-\u0db1\u0dd1-/11-396337",
+    "time_ut": 1660633281,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba\u0dad\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd\u0dda \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca \u0db1\u0dd1?",
+    "file_name": "/tmp/news_lk2/articles/9d/9db7ff45.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -4246,6 +4302,14 @@
     "original_lang": "en",
     "original_title": "CID Waits Till The RTI Act Is Used To Investigate Death Threats By DIG Deshabandu Tennakoon Against A Journalist",
     "file_name": "/tmp/news_lk2/articles/f9/f9712eda.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-use-us20mn-from-indian-credit-for-animal-feed-98452/",
+    "time_ut": 1660265160,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to use US$20mn from Indian credit for animal feed",
+    "file_name": "/tmp/news_lk2/articles/71/715a57af.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
