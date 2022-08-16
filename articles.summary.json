@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0b95\u0bb3\u0bc8-\u0b8f\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1-\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd/175-302463",
+    "time_ut": 1660670906,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c2/c2856c05.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/No-contribution-was-made-by-govt-for-fmr-prezs-foreign-tours/108-243182",
+    "time_ut": 1660670243,
+    "original_lang": "en",
+    "original_title": "No contribution was made by govt. for fmr prez\u2019s foreign tours",
+    "file_name": "/tmp/news_lk2/articles/6a/6a4327ea.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84347/govt-says-former-president-not-using-state-funds-on-expenses-abroad",
+    "time_ut": 1660669740,
+    "original_lang": "en",
+    "original_title": "Govt says former President not using state funds on expenses abroad",
+    "file_name": "/tmp/news_lk2/articles/1d/1de8bfb7.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/top_story/Adani-Green-Energy-issued-provisional-approvals-for-two-wind-projects/155-243181",
     "time_ut": 1660668570,

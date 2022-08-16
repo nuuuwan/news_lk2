@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0b95\u0bb3\u0bc8-\u0b8f\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1-\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd/175-302463",
+    "time_ut": 1660670906,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c2/c2856c05.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/No-contribution-was-made-by-govt-for-fmr-prezs-foreign-tours/108-243182",
+    "time_ut": 1660670243,
+    "original_lang": "en",
+    "original_title": "No contribution was made by govt. for fmr prez\u2019s foreign tours",
+    "file_name": "/tmp/news_lk2/articles/6a/6a4327ea.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84347/govt-says-former-president-not-using-state-funds-on-expenses-abroad",
+    "time_ut": 1660669740,
+    "original_lang": "en",
+    "original_title": "Govt says former President not using state funds on expenses abroad",
+    "file_name": "/tmp/news_lk2/articles/1d/1de8bfb7.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/top_story/Adani-Green-Energy-issued-provisional-approvals-for-two-wind-projects/155-243181",
     "time_ut": 1660668570,
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u2019\u2019\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca  \u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0d9a\u0dca \u0d86\u0dc0\u0ddc\u0dad\u0dca  \u0dc0\u0d9c\u0d9a\u0dd3\u0db8 \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba \u0db6\u0dcf\u0dbb\u0d9c\u0dad \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2019\u2019",
     "file_name": "/tmp/news_lk2/articles/c6/c6c51eae.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0-\u0d85\u0daf-\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0db4\u0dd3\u0da9\u0dcf\u0dc0\u0da7-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0dbd\u0dcf\u2018\u2018/101-601144",
-    "time_ut": 1634357363,
-    "original_lang": "si",
-    "original_title": "\u2018\u2018\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0 \u0d85\u0daf \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db4\u0dd3\u0da9\u0dcf\u0dc0\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dbd\u0dcf\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/db/db96581d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/technology/Number-Portability-\u0dc3\u0dda\u0dc0\u0dcf\u0dc0-\u0dc3\u0daf\u0dc4\u0dcf-\u0db1\u0dd3\u0dad\u0dd2\u0db8\u0dba-\u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba/5-386003",
-    "time_ut": 1634190483,
-    "original_lang": "si",
-    "original_title": "Number Portability \u0dc3\u0dda\u0dc0\u0dcf\u0dc0 \u0dc3\u0daf\u0dc4\u0dcf \u0db1\u0dd3\u0dad\u0dd2\u0db8\u0dba \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba",
-    "file_name": "/tmp/news_lk2/articles/ac/acc40053.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0-\u0d9c\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dba\u0dcf\u0d9c\u0dda-\u0db6\u0da9\u0da7-\u0d9c\u0dc4\u0dbd\u0dcf\u2018\u2018/101-600996",
-    "time_ut": 1634189199,
-    "original_lang": "si",
-    "original_title": "\u2018\u2018\u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0 \u0d9c\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dba\u0dcf\u0d9c\u0dda \u0db6\u0da9\u0da7 \u0d9c\u0dc4\u0dbd\u0dcf\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/48/480ac953.json"
   }
 ]
