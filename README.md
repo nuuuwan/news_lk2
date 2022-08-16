@@ -1,16 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-17 03:00:18 (LK time)*
+*As of 2022-08-17 03:17:30 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (4 Articles)
+## Last 3 Hours (2 Articles)
 
 * **2** daily-mirror-lk ([Aragalaya is far from over](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c478b17d.json))
-
-* **1** ada-derana-lk ([Foreign Minister briefs diplomatic corps on current developments](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/447fabfa.json))
-
-* **1** tamil-mirror-lk ([சொந்த நிதியில் வெளிநாட்டுப் பயணங்களை மேற்கொள்ளும் கோட்டா](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/999a8e18.json))
 
 ## Last 24 Hours (195 Articles)
 
