@@ -1,30 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-17 00:58:50 (LK time)*
+*As of 2022-08-17 01:16:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
-
-* **1** ada-derana-lk ([Foreign Minister briefs diplomatic corps on current developments](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/447fabfa.json))
-
-* **1** tamil-mirror-lk ([சொந்த நிதியில் வெளிநாட்டுப் பயணங்களை மேற்கொள்ளும் கோட்டா](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/999a8e18.json))
-
-## Last 3 Hours (17 Articles)
+## Last 3 Hours (14 Articles)
 
 * **4** tamil-mirror-lk ([கோட்டாவின் செலவுகளை ஏற்றது அரசாங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2856c05.json))
 
-* **4** daily-mirror-lk ([Emergency will not be extended beyond Aug. 18: President](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20ac604c.json))
-
 * **3** ada-derana-lk ([India’s Adani Green Energy given provisional approval for two wind projects](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9cbf497.json))
 
-* **3** ada-lk ([අදානි සමාගමට සූළං විදුලි ව්‍යාපෘති දෙකක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b95390c.json))
+* **3** daily-mirror-lk ([LPBOA proposes NTC establish tourist information unit](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae6892c6.json))
+
+* **2** ada-lk ([යුවාන් වැංග් 5 කිසිඳු රටක බලපෑමකට ලක් නොවිය යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd8a167f.json))
 
 * **2** economy-next-com ([Sri Lanka shares bucks winning streak on profit taking after gaining 20%](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/475dc415.json))
 
-* **1** news-first-lk ([The land may divide us, but the sky and the ocean unites us all: Wimal at the welcome ceremony for Yuan Wang 5](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d2b0c68.json))
-
-## Last 24 Hours (210 Articles)
+## Last 24 Hours (206 Articles)
 
 * **46** news-first-lk ([Chinese Research / Survey Vessel Yuan Wang 5 reaches Sri Lanka’s Hambantota](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8fd8b3f4.json))
 
@@ -38,9 +30,9 @@
 
 * **18** tamil-mirror-lk ([சட்டத்தரணிகளான பொலிஸ் அதிகாரிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/4295bcbf.json))
 
-* **15** daily-ft-lk ([Lankan motorists deprived of super diesel: A penny wise pound foolish move?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fae6a4b6.json))
-
 * **13** economy-next-com ([Chinese tracking vessel Yuan Wang 5 docks at Sri Lanka’s Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e547836.json))
+
+* **11** daily-ft-lk ([StrEdge promotes ‘SMART’ restructuring of businesses](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0e53b30.json))
 
 * **1** colombo-telegraph-com ([Consolidating Power Of Government At Expense Of People](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4500dae3.json))
 
