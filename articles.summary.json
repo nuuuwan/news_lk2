@@ -448,6 +448,30 @@
     "file_name": "/tmp/news_lk2/articles/0a/0a69fa27.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/high-impairment-provisions-neutralise-solid-6-month-operational-growth-of-combank-group/",
+    "time_ut": 1660567980,
+    "original_lang": "en",
+    "original_title": "High impairment provisions neutralise solid 6-month operational growth of ComBank Group",
+    "file_name": "/tmp/news_lk2/articles/09/09daf99b.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/cse-shows-outstanding-growth-for-twelfth-consecutive-day/",
+    "time_ut": 1660567800,
+    "original_lang": "en",
+    "original_title": "CSE shows outstanding growth for twelfth consecutive day",
+    "file_name": "/tmp/news_lk2/articles/1e/1ef0e1d5.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/birthday-surprises/",
+    "time_ut": 1660567740,
+    "original_lang": "en",
+    "original_title": "Birthday surprises!",
+    "file_name": "/tmp/news_lk2/articles/07/07e6ee26.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0bb5\u0bbf\u0baf\u0b95\u0bcd\u0b95-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4-\u0baa\u0bc2\u0baa\u0bcd\u0baa\u0bc1\u0ba9\u0bbf\u0ba4-\u0ba8\u0bc0\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0bb4\u0bbe/71-302385",
     "time_ut": 1660567621,
@@ -1880,12 +1904,36 @@
     "file_name": "/tmp/news_lk2/articles/ee/ee6d9431.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/is-knowing-everything/",
+    "time_ut": 1660498260,
+    "original_lang": "en",
+    "original_title": "Is \u2018Knowing\u2019 everything?",
+    "file_name": "/tmp/news_lk2/articles/e9/e97047a8.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/salman-rushdie-recovering-well-after-an-assassination-attempt-reports-98564/",
     "time_ut": 1660496700,
     "original_lang": "en",
     "original_title": "Salman Rushdie recovering well after an assassination attempt: reports",
     "file_name": "/tmp/news_lk2/articles/38/3842e514.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/slow-food-the-growing-concept-taking-over-fast-food-rage/",
+    "time_ut": 1660496460,
+    "original_lang": "en",
+    "original_title": "\u2018Slow Food\u2019, the growing concept taking over \u2018Fast Food\u2019 rage",
+    "file_name": "/tmp/news_lk2/articles/c3/c3374220.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/join-hands-with-your-spiritual-power-to-save-lanka/",
+    "time_ut": 1660496280,
+    "original_lang": "en",
+    "original_title": "Join hands with your spiritual power to save Lanka!",
+    "file_name": "/tmp/news_lk2/articles/9c/9c6204ba.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -1902,6 +1950,14 @@
     "original_lang": "si",
     "original_title": "\u0d87\u0dc0\u0dd9\u0db1\u0dca\u0da9\u0dca\u200d\u0dbb\u0dcf \u0dc4\u0ddd\u0da7\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd0\u0dba\u0dd2 9 \u0dc0\u0dd0\u0db1\u0dd2 \u0daf\u0dcf \u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2 4 \u0d9a\u0dca \u0d8b\u0dad\u0dca\u0dc3\u0dbd\u0dcf",
     "file_name": "/tmp/news_lk2/articles/8e/8e923b94.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/digital-marketing-association-of-sri-lanka-hosts-its-1st-agm/",
+    "time_ut": 1660493760,
+    "original_lang": "en",
+    "original_title": "Digital Marketing Association of Sri Lanka hosts its 1st AGM",
+    "file_name": "/tmp/news_lk2/articles/1b/1b324f88.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -1929,11 +1985,27 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/oil-demand-forecasts-arent-as-bullish-as-they-seem/",
+    "time_ut": 1660493520,
+    "original_lang": "en",
+    "original_title": "Oil demand forecasts aren\u2019t as bullish as they seem",
+    "file_name": "/tmp/news_lk2/articles/a2/a2c24b21.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/nestle-lanka-recognized-sri-lankas-most-respected-food-and-beverage-entity-in-2022/",
     "time_ut": 1660493460,
     "original_lang": "en",
     "original_title": "Nestl\u00e9 Lanka recognized Sri Lanka\u2019s Most Respected Food and Beverage Entity in 2022",
     "file_name": "/tmp/news_lk2/articles/df/dfbbe6a2.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/stredge-calls-for-smart-restructuring-of-businesses/",
+    "time_ut": 1660493400,
+    "original_lang": "en",
+    "original_title": "StrEdge calls for SMART\u00a0restructuring of businesses",
+    "file_name": "/tmp/news_lk2/articles/34/3444e6d3.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -3510,6 +3582,14 @@
     "original_lang": "en",
     "original_title": "Kataragama Esala Perahera",
     "file_name": "/tmp/news_lk2/articles/f6/f6eaf509.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/get-down-to-brass-tacks/",
+    "time_ut": 1660313820,
+    "original_lang": "en",
+    "original_title": "Get down to brass tacks",
+    "file_name": "/tmp/news_lk2/articles/9b/9be0fc16.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
