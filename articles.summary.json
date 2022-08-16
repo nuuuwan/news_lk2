@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/fire-breaks-out-at-union-place-apartment/",
+    "time_ut": 1660652820,
+    "original_lang": "en",
+    "original_title": "Fire breaks out at Union Place apartment",
+    "file_name": "/tmp/news_lk2/articles/fd/fd2ea144.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84341/defence-ministry-clarifies-on-blacklisting-and-delisting-of-persons-and-organizations",
+    "time_ut": 1660652760,
+    "original_lang": "en",
+    "original_title": "Defence Ministry clarifies on blacklisting and delisting of persons and organizations",
+    "file_name": "/tmp/news_lk2/articles/75/75d4d3c7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/thundershowers-expected-tonight-16/",
+    "time_ut": 1660652580,
+    "original_lang": "en",
+    "original_title": "Thundershowers expected tonight (16)",
+    "file_name": "/tmp/news_lk2/articles/4b/4b9ccd51.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dbd\u0dca\u0dbd\u0dc0\u0db4\u0ddc\u0dbb-\u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8\u0dca-\u0daf\u0dd2\u0db1\u0dd6-\u0db1\u0dd9\u0dad\u0dca\u0db8\u0dd2-\u0d9c\u0dd0\u0db1-\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf-\u0d87\u0db8\u0dad\u0dd2\u0d9c\u0dda-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba/101-618227",
+    "time_ut": 1660652529,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dbd\u0dca\u0dbd\u0dc0\u0db4\u0ddc\u0dbb \u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8\u0dca \u0daf\u0dd2\u0db1\u0dd6 \u0db1\u0dd9\u0dad\u0dca\u0db8\u0dd2 \u0d9c\u0dd0\u0db1 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0d87\u0db8\u0dad\u0dd2\u0d9c\u0dda \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba",
+    "file_name": "/tmp/news_lk2/articles/40/40c6917a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/British-State-Minister-for-South-Asia-assures-UKs-continuous-cooperation-to-SL/342-243174",
+    "time_ut": 1660651822,
+    "original_lang": "en",
+    "original_title": "British State Minister for South Asia assures UK\u2019s continuous cooperation to SL",
+    "file_name": "/tmp/news_lk2/articles/61/61eb44ff.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84340/britain-launches-trade-system-for-developing-countries-including-sri-lanka",
+    "time_ut": 1660651800,
+    "original_lang": "en",
+    "original_title": "Britain launches trade system for developing countries including Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/fe/fe57cba6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/16/sri-lanka-asked-china-to-delay-yuan-wang-5-until-it-addressed-india-s-concerns/",
     "time_ut": 1660650480,
     "original_lang": "en",
