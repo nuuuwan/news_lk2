@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84333/cabinet-approval-to-establish-institute-of-chartered-journalists-of-sri-lanka",
+    "time_ut": 1660635720,
+    "original_lang": "en",
+    "original_title": "Cabinet approval to establish \u2019Institute of Chartered Journalists of Sri Lanka\u2019",
+    "file_name": "/tmp/news_lk2/articles/c4/c4180d7c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/CA-rejects-British-instagrammers-writ-petition-against-deportation/342-243161",
+    "time_ut": 1660635477,
+    "original_lang": "en",
+    "original_title": "CA rejects British instagrammer\u2019s writ petition against deportation",
+    "file_name": "/tmp/news_lk2/articles/c1/c1dfc646.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Male-body-washed-ashore-at-Ratmalana-Beach/108-243160",
+    "time_ut": 1660635349,
+    "original_lang": "en",
+    "original_title": "Male body washed ashore at Ratmalana Beach",
+    "file_name": "/tmp/news_lk2/articles/e2/e26338fe.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca-\u0dc3\u0dd0\u0db8\u0dbb\u0dd4\u0db8\u0da7-\u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0-\u0dc3\u0db8\u0dbb\u0dd4-\u0db8\u0dd4\u0daf\u0dca\u0daf\u0dbb/1-618203",
+    "time_ut": 1660635118,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca \u0dc3\u0dd0\u0db8\u0dbb\u0dd4\u0db8\u0da7 \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0dc3\u0db8\u0dbb\u0dd4 \u0db8\u0dd4\u0daf\u0dca\u0daf\u0dbb",
+    "file_name": "/tmp/news_lk2/articles/ec/ecfb7703.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/16/committee-to-approve-appointments-pmd/",
     "time_ut": 1660634640,
@@ -33,11 +65,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/No-fuel-price-revision-despite-drop-in-world-market/108-243159",
+    "url": "https://www.dailymirror.lk/latest_news/No-fuel-price-revision-despite-drop-in-world-market/342-243159",
     "time_ut": 1660632387,
     "original_lang": "en",
     "original_title": "No fuel price revision despite drop in world market",
-    "file_name": "/tmp/news_lk2/articles/19/192c1f4a.json"
+    "file_name": "/tmp/news_lk2/articles/7a/7a4fc620.json"
   },
   {
     "newspaper_id": "news-first-lk",
