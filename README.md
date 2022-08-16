@@ -1,28 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-16 20:17:02 (LK time)*
+*As of 2022-08-16 20:36:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** daily-mirror-lk ([Kaduwela OIC averts planned attack by gang: Three arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c667ae5.json))
+
+## Last Hour (3 Articles)
 
 * **1** daily-mirror-lk ([Kaduwela OIC averts planned attack by gang: Three arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c667ae5.json))
 
 * **1** tamil-mirror-lk ([அவசரகால சட்டம்  நீக்கப்படும்;  ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b5d71db.json))
 
-## Last Hour (6 Articles)
+* **1** ada-derana-lk ([President says state of emergency will not be extended](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b764e78.json))
 
-* **2** ada-derana-lk ([UNDCO Regional Director for Asia-Pacific arrives in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/504cbb8a.json))
+## Last 3 Hours (23 Articles)
 
-* **2** news-first-lk ([USD 2.1 Mn to improve lives of the marginalized from WUSC](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/645803aa.json))
-
-* **1** daily-mirror-lk ([Kaduwela OIC averts planned attack by gang: Three arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c667ae5.json))
-
-* **1** tamil-mirror-lk ([அவசரகால சட்டம்  நீக்கப்படும்;  ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b5d71db.json))
-
-## Last 3 Hours (26 Articles)
-
-* **11** news-first-lk ([Sri Lanka’s MOD clarifies terror list](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f618315.json))
+* **8** news-first-lk ([Thundershowers expected tonight (16)](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b9ccd51.json))
 
 * **4** daily-mirror-lk ([British State Minister for South Asia assures UK’s continuous cooperation to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61eb44ff.json))
 
@@ -34,11 +30,11 @@
 
 * **1** ada-lk ([ගෝඨාට තායිලන්තයට යන්න මිලදි ගත් විශේෂ ගුවන් යානයේ වියදම ජනතා බදු මුදලින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/2326c459.json))
 
-## Last 24 Hours (200 Articles)
+## Last 24 Hours (199 Articles)
 
 * **40** news-first-lk ([Chinese Research / Survey Vessel Yuan Wang 5 reaches Sri Lanka’s Hambantota](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8fd8b3f4.json))
 
-* **40** lankadeepa-lk ([ශ්‍රී ලංකාව තව පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0df75c48.json))
+* **39** lankadeepa-lk ([පොලිසියෙ 7ක් නීතිඥවරුන් වශයෙන් දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34fb01a5.json))
 
 * **30** daily-mirror-lk ([Joes beat Wesley, finish league runners-up](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/457854be.json))
 
