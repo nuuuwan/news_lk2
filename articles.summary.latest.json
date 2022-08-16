@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Prices-down/342-243153",
+    "time_ut": 1660626235,
+    "original_lang": "en",
+    "original_title": "Prices down...",
+    "file_name": "/tmp/news_lk2/articles/74/74ef7136.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/ugc-to-discuss-re-opening-universities/",
+    "time_ut": 1660625880,
+    "original_lang": "en",
+    "original_title": "UGC to discuss re-opening Universities",
+    "file_name": "/tmp/news_lk2/articles/6e/6eafa3ed.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dbd\u0dda-\u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca-\u0db1\u0dd1/1-618186",
+    "time_ut": 1660625872,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd\u0dda \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/f0/f0ece5e0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Yuan-Wang-5-arrives/342-243152",
+    "time_ut": 1660625781,
+    "original_lang": "en",
+    "original_title": "Yuan Wang 5 arrives",
+    "file_name": "/tmp/news_lk2/articles/7c/7c64b3f3.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/india-gifts-maritime-surveillance-aircraft-to-sri-lanka-amid-chinese-spy-ship-row-98662/",
     "time_ut": 1660625460,
     "original_lang": "en",
     "original_title": "India gifts maritime surveillance aircraft to Sri Lanka amid Chinese \u2018spy ship\u2019 row",
     "file_name": "/tmp/news_lk2/articles/e1/e1564a36.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/75-\u0dc0\u0dd0\u0db1\u0dd2-\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca-\u0daf\u0dd2\u0db1-\u0dc3\u0dd0\u0db8\u0dbb\u0dd4\u0db8\u0dca-\u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba\u0da7-\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca/11-396332",
+    "time_ut": 1660625353,
+    "original_lang": "si",
+    "original_title": "75 \u0dc0\u0dd0\u0db1\u0dd2 \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca \u0daf\u0dd2\u0db1 \u0dc3\u0dd0\u0db8\u0dbb\u0dd4\u0db8\u0dca \u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba\u0da7 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/31/311d173d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -17,19 +57,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Motor-Traffic-Dept-to-amend-all-charges-including-driving-license/108-243151",
+    "url": "https://www.dailymirror.lk/latest_news/Motor-Traffic-Dept-to-amend-all-charges-including-driving-license/342-243151",
     "time_ut": 1660625204,
     "original_lang": "en",
     "original_title": "Motor Traffic Dept. to amend all charges including driving license",
-    "file_name": "/tmp/news_lk2/articles/57/57210578.json"
+    "file_name": "/tmp/news_lk2/articles/1c/1c925682.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf-\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0db1\u0dd0\u0dc0\u0dad\u0dca-\u0db8\u0dd9\u0dd2-\u0dc3\u0dad\u0dd2\u0dba\u0dda-\u0d91\u0dba\u0dd2/1-618183",
+    "url": "https://www.lankadeepa.lk/news/\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf-\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0db1\u0dd0\u0dc0\u0dad\u0dca-\u0db8\u0dd9\u0dd2-\u0dc3\u0dad\u0dd2\u0dba\u0dda-\u0d91\u0dba\u0dd2/101-618183",
     "time_ut": 1660624642,
     "original_lang": "si",
     "original_title": "\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0db1\u0dd0\u0dc0\u0dad\u0dca \u0db8\u0dd9\u0dd2 \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0d91\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/d4/d44b895f.json"
+    "file_name": "/tmp/news_lk2/articles/29/29f61dc0.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -422,6 +462,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka sovereign rating at SD but ISBs downgraded to \u2018D\u2019 by S&P",
     "file_name": "/tmp/news_lk2/articles/77/77536cc3.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/the-despot-president-was-replaced-by-a-tyrant-in-sri-lanka/",
+    "time_ut": 1660591331,
+    "original_lang": "en",
+    "original_title": "The Despot President Was Replaced By A Tyrant In Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/2d/2d2d53f5.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
