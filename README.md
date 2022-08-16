@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-17 02:02:08 (LK time)*
+*As of 2022-08-17 02:23:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (2 Articles)
-
-* **2** daily-mirror-lk ([Aragalaya is far from over](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c478b17d.json))
 
 ## Last Hour (2 Articles)
 
 * **2** daily-mirror-lk ([Aragalaya is far from over](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c478b17d.json))
 
-## Last 3 Hours (10 Articles)
+## Last 3 Hours (8 Articles)
 
 * **3** tamil-mirror-lk ([மன்னார், பூநகரியில் காற்றாலை: அதானி குழுமத்துக்கு அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1868f7fb.json))
 
@@ -20,11 +16,9 @@
 
 * **2** ada-lk ([යුවාන් වැංග් 5 කිසිඳු රටක බලපෑමකට ලක් නොවිය යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd8a167f.json))
 
-* **2** economy-next-com ([Sri Lanka shares bucks winning streak on profit taking after gaining 20%](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/475dc415.json))
-
 * **1** ada-derana-lk ([Foreign Minister briefs diplomatic corps on current developments](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/447fabfa.json))
 
-## Last 24 Hours (200 Articles)
+## Last 24 Hours (197 Articles)
 
 * **46** news-first-lk ([Chinese Research / Survey Vessel Yuan Wang 5 reaches Sri Lanka’s Hambantota](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8fd8b3f4.json))
 
@@ -39,8 +33,6 @@
 * **19** tamil-mirror-lk ([சட்டத்தரணிகளான பொலிஸ் அதிகாரிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/4295bcbf.json))
 
 * **13** economy-next-com ([Chinese tracking vessel Yuan Wang 5 docks at Sri Lanka’s Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e547836.json))
-
-* **3** daily-ft-lk ([Committee on High Posts approves five new Ministry Secretaries, one Ambassador](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abf35d13.json))
 
 ## Last Week (737 Articles)
 
