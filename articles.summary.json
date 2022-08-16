@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0db8\u0dbd\u0dc0\u0dd3\u0dbb-\u0d9a\u0dbd\u0d9a\u0dd2\u0dbb\u0dd9\u0dba\u0dd2/1-618191",
+    "time_ut": 1660630827,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0db8\u0dbd\u0dc0\u0dd3\u0dbb \u0d9a\u0dbd\u0d9a\u0dd2\u0dbb\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/1d/1df3decf.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84332/unidentified-body-found-at-ratmalana-beach",
+    "time_ut": 1660630260,
+    "original_lang": "en",
+    "original_title": "Unidentified body found at Ratmalana Beach",
+    "file_name": "/tmp/news_lk2/articles/a6/a69c3d27.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0db1\u0da2\u0dd2\u0dc0\u0dd2-\u0dc0\u0dd9\u0da9\u0dd2\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca-\u0d85\u0dba\u0d9a\u0dd4\u0da7-\u0dad\u0dd4\u0dc0\u0dcf\u0dbd/1-618188",
+    "time_ut": 1660629703,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0db1\u0da2\u0dd2\u0dc0\u0dd2 \u0dc0\u0dd9\u0da9\u0dd2\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca \u0d85\u0dba\u0d9a\u0dd4\u0da7 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd",
+    "file_name": "/tmp/news_lk2/articles/8c/8c0fed8c.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84331/committee-to-approve-appointment-of-heads-to-govt-institutions",
     "time_ut": 1660629120,
     "original_lang": "en",
     "original_title": "Committee to approve appointment of heads to govt institutions",
     "file_name": "/tmp/news_lk2/articles/80/80102a43.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84331/committee-to-approve-new-appointments-changes-to-heads-of-govt-institutions",
+    "time_ut": 1660629120,
+    "original_lang": "en",
+    "original_title": "Committee to approve new appointments, changes to heads of govt institutions",
+    "file_name": "/tmp/news_lk2/articles/05/05b1ac1b.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
