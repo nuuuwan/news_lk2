@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/cause-for-biscuit-prices-to-rise/",
+    "time_ut": 1660644120,
+    "original_lang": "en",
+    "original_title": "Cause for biscuit prices to rise?",
+    "file_name": "/tmp/news_lk2/articles/8a/8a124895.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/a-medicine-shortage-does-not-exist-bandula/",
+    "time_ut": 1660644060,
+    "original_lang": "en",
+    "original_title": "A medicine shortage does not exist: Bandula",
+    "file_name": "/tmp/news_lk2/articles/e7/e76231f2.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0da7-\u0dad\u0dd9\u0dbd\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0db1\u0dd2\u0dbd\u0db0\u0dbb\u0dba\u0dd9\u0d9a\u0dca-\u0db4\u0dad\u0dca\u0d9a\u0dbb\u0dba\u0dd2/101-618210",
+    "time_ut": 1660643880,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0da7 \u0dad\u0dd9\u0dbd\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0db1\u0dd2\u0dbd\u0db0\u0dbb\u0dba\u0dd9\u0d9a\u0dca \u0db4\u0dad\u0dca\u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/12/12cb96e0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-gets-bail-for-stealing-Ministers-daughters-diamond-ring-worth-Rs-2-2Mn/108-243166",
+    "time_ut": 1660643548,
+    "original_lang": "en",
+    "original_title": "Man gets bail for stealing Minister\u2019s daughter\u2019s diamond ring worth Rs. 2.2Mn",
+    "file_name": "/tmp/news_lk2/articles/84/84c8b656.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-on-track-to-receiving-enough-coal-till-april-2023-regulator-98674/",
+    "time_ut": 1660642980,
+    "original_lang": "en",
+    "original_title": "Sri Lanka on track to receiving enough coal till April 2023: regulator",
+    "file_name": "/tmp/news_lk2/articles/c3/c3615d22.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/no-fuel-price-revision-in-sri-lanka-for-august-energy-ministry-98680/",
     "time_ut": 1660642620,
@@ -17,27 +57,27 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0da9\u0dd4\u0dc0\u0dd9\u0dbd-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf\u0d9c\u0dda-\u0da5\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0d85\u0db4\u0dbb\u0dcf\u0db0\u0dba\u0d9a\u0dca-\u0dc0\u0dd0\u0dc5\u0d9a\u0dda/1-618209",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0da9\u0dd4\u0dc0\u0dd9\u0dbd-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf\u0d9c\u0dda-\u0da5\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0d85\u0db4\u0dbb\u0dcf\u0db0\u0dba\u0d9a\u0dca-\u0dc0\u0dd0\u0dc5\u0d9a\u0dda/101-618209",
     "time_ut": 1660642580,
     "original_lang": "si",
     "original_title": "\u0d9a\u0da9\u0dd4\u0dc0\u0dd9\u0dbd \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf\u0d9c\u0dda \u0da5\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d85\u0db4\u0dbb\u0dcf\u0db0\u0dba\u0d9a\u0dca \u0dc0\u0dd0\u0dc5\u0d9a\u0dda",
-    "file_name": "/tmp/news_lk2/articles/6d/6d1f3215.json"
+    "file_name": "/tmp/news_lk2/articles/9f/9ffc4a2a.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0db8\u0dd2\u0dc5-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1-\u0dc4\u0dba\u0d9a-\u0dad\u0dc4\u0db1\u0db8-\u0d89\u0dc0\u0dad\u0dca-\u0d9a\u0dc5-\u0dc4\u0dda\u0dad\u0dd4\u0dc0/1-618208",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0db8\u0dd2\u0dc5-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1-\u0dc4\u0dba\u0d9a-\u0dad\u0dc4\u0db1\u0db8-\u0d89\u0dc0\u0dad\u0dca-\u0d9a\u0dc5-\u0dc4\u0dda\u0dad\u0dd4\u0dc0/101-618208",
     "time_ut": 1660642346,
     "original_lang": "si",
     "original_title": "\u0daf\u0db8\u0dd2\u0dc5 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1 \u0dc4\u0dba\u0d9a \u0dad\u0dc4\u0db1\u0db8 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dc5 \u0dc4\u0dda\u0dad\u0dd4\u0dc0",
-    "file_name": "/tmp/news_lk2/articles/95/95245406.json"
+    "file_name": "/tmp/news_lk2/articles/bd/bd13004f.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0dcf-\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba-\u0dc3\u0db8\u0dd2\u0dad\u0dd2-\u0d91\u0d9a\u0db8\u0dd4\u0dad\u0dd4\u0dc0-\u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a/1-618207",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0dcf-\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba-\u0dc3\u0db8\u0dd2\u0dad\u0dd2-\u0d91\u0d9a\u0db8\u0dd4\u0dad\u0dd4\u0dc0-\u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a/101-618207",
     "time_ut": 1660641889,
     "original_lang": "si",
     "original_title": "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0dc3\u0db8\u0dd2\u0dad\u0dd2 \u0d91\u0d9a\u0db8\u0dd4\u0dad\u0dd4\u0dc0 \u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a",
-    "file_name": "/tmp/news_lk2/articles/d4/d4cc734e.json"
+    "file_name": "/tmp/news_lk2/articles/df/dfaf006f.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -54,6 +94,22 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bc2\u0bb0\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1 \u0b8e\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe?",
     "file_name": "/tmp/news_lk2/articles/d7/d7c93b98.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bbf\u0bb2\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0b9a\u0bc6\u0bb2\u0bb5\u0bc1-\u0b8e\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1-\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe/175-302425",
+    "time_ut": 1660641419,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1 \u0b8e\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe?",
+    "file_name": "/tmp/news_lk2/articles/81/813251cb.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0dc0\u0dd9\u0da9\u0dd2-\u0db8\u0dd0\u0daf-\u0db4\u0dbd\u0dcf\u0d9c\u0dd2\u0dba-\u0db8\u0dd0\u0dbb\u0d9a\u0dbd\u0dca\u0dbd\u0dd2\u0dba-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396342",
+    "time_ut": 1660641076,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dc0\u0dd9\u0da9\u0dd2 \u0db8\u0dd0\u0daf \u0db4\u0dbd\u0dcf\u0d9c\u0dd2\u0dba \u0db8\u0dd0\u0dbb\u0d9a\u0dbd\u0dca\u0dbd\u0dd2\u0dba \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/d7/d782a457.json"
   },
   {
     "newspaper_id": "news-first-lk",
