@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/no-fuel-price-revision-in-sri-lanka-for-august-energy-ministry-98680/",
+    "time_ut": 1660642620,
+    "original_lang": "en",
+    "original_title": "No fuel price revision in Sri Lanka for August: energy ministry",
+    "file_name": "/tmp/news_lk2/articles/b8/b807e7e2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/We-footed-up-the-bill-for-fmr-President-Gotabaya-Bandula/108-243165",
+    "time_ut": 1660642610,
+    "original_lang": "en",
+    "original_title": "We footed up the bill for fmr President Gotabaya: Bandula",
+    "file_name": "/tmp/news_lk2/articles/76/767c999d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0da9\u0dd4\u0dc0\u0dd9\u0dbd-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf\u0d9c\u0dda-\u0da5\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0d85\u0db4\u0dbb\u0dcf\u0db0\u0dba\u0d9a\u0dca-\u0dc0\u0dd0\u0dc5\u0d9a\u0dda/1-618209",
+    "time_ut": 1660642580,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0da9\u0dd4\u0dc0\u0dd9\u0dbd \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf\u0d9c\u0dda \u0da5\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d85\u0db4\u0dbb\u0dcf\u0db0\u0dba\u0d9a\u0dca \u0dc0\u0dd0\u0dc5\u0d9a\u0dda",
+    "file_name": "/tmp/news_lk2/articles/6d/6d1f3215.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0db8\u0dd2\u0dc5-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1-\u0dc4\u0dba\u0d9a-\u0dad\u0dc4\u0db1\u0db8-\u0d89\u0dc0\u0dad\u0dca-\u0d9a\u0dc5-\u0dc4\u0dda\u0dad\u0dd4\u0dc0/1-618208",
+    "time_ut": 1660642346,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0db8\u0dd2\u0dc5 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1 \u0dc4\u0dba\u0d9a \u0dad\u0dc4\u0db1\u0db8 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dc5 \u0dc4\u0dda\u0dad\u0dd4\u0dc0",
+    "file_name": "/tmp/news_lk2/articles/95/95245406.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0dcf-\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba-\u0dc3\u0db8\u0dd2\u0dad\u0dd2-\u0d91\u0d9a\u0db8\u0dd4\u0dad\u0dd4\u0dc0-\u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a/1-618207",
+    "time_ut": 1660641889,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0dc3\u0db8\u0dd2\u0dad\u0dd2 \u0d91\u0d9a\u0db8\u0dd4\u0dad\u0dd4\u0dc0 \u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a",
+    "file_name": "/tmp/news_lk2/articles/d4/d4cc734e.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/16/jaaf-welcomes-american-apparel-support/",
     "time_ut": 1660641420,
@@ -65,11 +105,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda-\u0d9a\u0dcf\u0dbb\u0dba\u0dda-\u0d9c\u0dd0\u0da7\u0dd4\u0db1\u0dd4-\u0d85\u0dbd\u0dd2\u0dba\u0dcf-\u0dc3\u0dd9\u0dc0\u0dd3\u0db8-\u0db1\u0dc0\u0dad\u0dd2\u0dba\u0dd2/101-618206",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda-\u0d9a\u0dcf\u0dbb\u0dba\u0dda-\u0d9c\u0dd0\u0da7\u0dd4\u0db1\u0dd4-\u0d85\u0dbd\u0dd2\u0dba\u0dcf-\u0dc3\u0dd9\u0dc0\u0dd3\u0db8-\u0db1\u0dc0\u0dad\u0dd2\u0dba\u0dd2/1-618206",
     "time_ut": 1660639584,
     "original_lang": "si",
     "original_title": "\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda \u0d9a\u0dcf\u0dbb\u0dba\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0db1\u0dd4 \u0d85\u0dbd\u0dd2\u0dba\u0dcf \u0dc3\u0dd9\u0dc0\u0dd3\u0db8 \u0db1\u0dc0\u0dad\u0dd2\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/4d/4d4d1e5c.json"
+    "file_name": "/tmp/news_lk2/articles/b6/b64a485a.json"
   },
   {
     "newspaper_id": "news-first-lk",
