@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Colourful-kites/342-243155",
+    "time_ut": 1660627710,
+    "original_lang": "en",
+    "original_title": "Colourful kites...",
+    "file_name": "/tmp/news_lk2/articles/b5/b5147034.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0baf\u0ba8\u0bb2-\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bc8-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd/175-302418",
+    "time_ut": 1660627517,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bc1\u0baf\u0ba8\u0bb2 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bc8 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/93/93dd8d58.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84330/govts-decision-on-fuel-price-revision",
+    "time_ut": 1660627500,
+    "original_lang": "en",
+    "original_title": "Govt\u2019s decision on fuel price revision",
+    "file_name": "/tmp/news_lk2/articles/2b/2bbc14d2.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302415",
+    "time_ut": 1660626944,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/86/86b0b372.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/16/derailed-ruhunu-kumari-back-on-track/",
+    "time_ut": 1660626480,
+    "original_lang": "en",
+    "original_title": "Derailed Ruhunu Kumari back on track",
+    "file_name": "/tmp/news_lk2/articles/a0/a05d2a12.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Prices-down/342-243153",
     "time_ut": 1660626235,
     "original_lang": "en",
