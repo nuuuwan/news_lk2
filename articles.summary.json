@@ -128,6 +128,14 @@
     "file_name": "/tmp/news_lk2/articles/c4/c478b17d.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddd\u0da7\u0dd2-24\u0d9a-\u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca-\u0dc3\u0db8\u0d9c-\u0db4\u0ddd\u0dbd\u0db1\u0dca\u0dad-\u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396352",
+    "time_ut": 1660675457,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 24\u0d9a \u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca \u0dc3\u0db8\u0d9c \u0db4\u0ddd\u0dbd\u0db1\u0dca\u0dad \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/f1/f10908c5.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84348/foreign-minister-briefs-diplomatic-corps-on-current-developments",
     "time_ut": 1660675440,
@@ -1864,6 +1872,14 @@
     "file_name": "/tmp/news_lk2/articles/2d/2d2d53f5.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79023",
+    "time_ut": 1660590360,
+    "original_lang": "en",
+    "original_title": "China\u2019s satellite tracking vessel Yuan Wang 5  arrives at Sri Lanka\u2019s southern Hambantota Port  on August 16  despite India and the U.S. voicing concern with Colombo over the military ship\u2019s visit.",
+    "file_name": "/tmp/news_lk2/articles/e0/e02f8ef0.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bc1\u0bae\u0bcd-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-302403",
     "time_ut": 1660590161,
@@ -1878,6 +1894,22 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb0\u0b9a \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1",
     "file_name": "/tmp/news_lk2/articles/02/0247acee.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79021",
+    "time_ut": 1660589820,
+    "original_lang": "en",
+    "original_title": "Govt decides not to  implement recommendations in in the final report of the \u2018One Country, One Law\u201d Presidential Task Force (PTF) headed by Bodu Bala Sena General Secretary Ven. Galagodaaththe Gnanasara Thera.",
+    "file_name": "/tmp/news_lk2/articles/10/103f60bc.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79019",
+    "time_ut": 1660589280,
+    "original_lang": "en",
+    "original_title": "Immigration Dept  Grants Scottish National Kayleigh Fraser  a  Grace Period to Leave Sri Lanka Following  the Dismissal  of het Writ Application Against her Deportation Order by the Court of Appeal",
+    "file_name": "/tmp/news_lk2/articles/0e/0edd29bc.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
