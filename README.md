@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-17 06:06:51 (LK time)*
+*As of 2022-08-17 06:36:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,13 +8,13 @@
 
 * **13** daily-ft-lk ([Provisional approval for two Adani Group wind power projects worth $ 500 m](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27e54012.json))
 
-## Last 24 Hours (212 Articles)
+## Last 24 Hours (211 Articles)
 
 * **46** news-first-lk ([Chinese Research / Survey Vessel Yuan Wang 5 reaches Sri Lanka’s Hambantota](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8fd8b3f4.json))
 
-* **40** lankadeepa-lk ([විසි දෙකට කඹ ඇදිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/503d62f2.json))
+* **38** lankadeepa-lk ([ඉන්ධන හිඟයට උත්තරය කළ වැරැදි හරිගස්සා ගැනීමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2f0b580.json))
 
-* **26** daily-mirror-lk ([Chinese vessel ’Yuan Wang 5’ arrives](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/203a4b50.json))
+* **27** daily-mirror-lk ([Chinese vessel ’Yuan Wang 5’ arrives](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/203a4b50.json))
 
 * **26** ada-derana-lk ([Showers expected in several provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e877a128.json))
 
@@ -28,11 +28,11 @@
 
 * **3** island-lk ([MBSL Insurance expands its reach](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3ba4aeab.json))
 
-## Last Week (741 Articles)
+## Last Week (742 Articles)
 
 * **114** lankadeepa-lk ([විසම්මුතියෙන් සම්මුතියට ඇවිත් ආර්ථිකය නංවමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17266770.json))
 
-* **108** daily-mirror-lk ([Sri Lanka’s ousted president expected to go to Thailand - sources](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e99c627.json))
+* **109** daily-mirror-lk ([Sri Lanka’s ousted president expected to go to Thailand - sources](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e99c627.json))
 
 * **93** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
@@ -52,11 +52,11 @@
 
 * **12** d-b-s-jeyaraj-com ([Sri Lanka has become a country devoid of mature political leaders. We have only Ranil Wickremesinghe left among the leaders who can be considered an advanced political leader. In the absence of mature leaders, it should be the country’s responsibility to make proper use of him at this critical juncture.](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9971012a.json))
 
-## All Time (1,072 Articles)
+## All Time (1,073 Articles)
 
 * **177** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **150** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
+* **151** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
 * **141** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 

@@ -105,6 +105,14 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Central-Bank-lifts-forced-dollar-conversion-rule-on-services-export-receipts/108-243200",
+    "time_ut": 1660684937,
+    "original_lang": "en",
+    "original_title": "Central Bank lifts forced dollar conversion rule on services export receipts",
+    "file_name": "/tmp/news_lk2/articles/53/53beae52.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/The-despicable-attack-on-Salman-Rushdie-EDITORIAL/231-243184",
     "time_ut": 1660681396,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5 \u0db1\u0dc0 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0daf\u0dd2\u0dbd\u0dca\u0dc1\u0dcf\u0db1\u0dca \u0dc0\u0dd3\u0dbb\u0dc3\u0dda\u0d9a\u0dbb",
     "file_name": "/tmp/news_lk2/articles/fe/fe1f9a6f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0d9a\u0dbb\u0dab-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba-\u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf-\u0daf\u0dd9\u0dba\u0dd2/7-394805",
-    "time_ut": 1656134012,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb\u0dab \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/57/57a2c8d2.json"
   }
 ]
