@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8a\u0b9a\u0bbf-\u0bae\u0bc2\u0bb2\u0bae\u0bcd-\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8-\u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bbe\u0bb2\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/175-302502",
+    "time_ut": 1660737594,
+    "original_lang": "ta",
+    "original_title": "\u0b8a\u0b9a\u0bbf \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bbe\u0bb2\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d0/d029b7df.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84362/if-we-keep-arguing-then-we-all-are-going-to-suffer-president",
+    "time_ut": 1660737360,
+    "original_lang": "en",
+    "original_title": "\u2018If we keep arguing, then we all are going to suffer\u2019 \u2013 President",
+    "file_name": "/tmp/news_lk2/articles/33/33fc8262.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-partners-with-usaid-to-convert-petrol-run-tuktuks-to-electricity-98704/",
     "time_ut": 1660735980,
@@ -97,11 +113,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Waiting-to-buy-wings-to-Korea/342-243235",
+    "url": "https://www.dailymirror.lk/caption_story/Waiting-to-buy-wings-to-Korea/110-243235",
     "time_ut": 1660732710,
     "original_lang": "en",
     "original_title": "Waiting to buy wings to Korea....",
-    "file_name": "/tmp/news_lk2/articles/f3/f354951c.json"
+    "file_name": "/tmp/news_lk2/articles/ed/ed6c3e4b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
