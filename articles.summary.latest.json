@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/scottish-instragrammer-missing-after-losing-deportation-case-immigration-dept/",
+    "time_ut": 1660747800,
+    "original_lang": "en",
+    "original_title": "Scottish Instragrammer Missing after losing deportation case \u2013 Immigration Dept",
+    "file_name": "/tmp/news_lk2/articles/8e/8e640414.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd/175-302507",
     "time_ut": 1660747136,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Reset Sri Lanka reform conference by Advocata Institute",
     "file_name": "/tmp/news_lk2/articles/e8/e86a8b16.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Climate-entrepreneurship-and-the-role-of-youth/4-738324",
-    "time_ut": 1659647017,
-    "original_lang": "en",
-    "original_title": "Climate entrepreneurship and the role of youth",
-    "file_name": "/tmp/news_lk2/articles/da/da09c537.json"
   }
 ]
