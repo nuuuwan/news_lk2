@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/ex-president-using-personal-funds-for-overseas-travel-expenses/",
+    "time_ut": 1660707480,
+    "original_lang": "en",
+    "original_title": "Ex-President using personal funds for overseas travel expenses",
+    "file_name": "/tmp/news_lk2/articles/38/38073941.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0baf\u0bbe\u0bb4\u0bcd-\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95-\u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf/71-302473",
+    "time_ut": 1660707385,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bcd.\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd, \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/e9/e9ae767e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/rainfall-in-many-areas-tonight-17/",
+    "time_ut": 1660707180,
+    "original_lang": "en",
+    "original_title": "Rainfall in many areas tonight (17)",
+    "file_name": "/tmp/news_lk2/articles/ba/ba7905ec.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1-\u0baa\u0bbf\u0bb0\u0b9c\u0bc8-\u0b95\u0bc8\u0ba4\u0bc1/175-302472",
+    "time_ut": 1660705706,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bbf\u0bb0\u0b9c\u0bc8 \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/54/5459cfaa.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84350/foreigner-nabbed-at-bia-with-cocaine-haul-worth-over-rs-200-mn",
+    "time_ut": 1660705680,
+    "original_lang": "en",
+    "original_title": "Foreigner nabbed at BIA with cocaine haul worth over Rs 200 Mn",
+    "file_name": "/tmp/news_lk2/articles/e1/e148693a.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0-\u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-302471",
     "time_ut": 1660704322,
@@ -9,11 +49,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Discussing-changes/342-243202",
+    "url": "https://www.dailymirror.lk/caption_story/Discussing-changes/110-243202",
     "time_ut": 1660703882,
     "original_lang": "en",
     "original_title": "Discussing changes?",
-    "file_name": "/tmp/news_lk2/articles/e4/e4a02467.json"
+    "file_name": "/tmp/news_lk2/articles/5c/5c28cd35.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -70,6 +110,14 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 24 \u0d9a\u0ddc\u0d9a\u0dda\u0db1\u0dca \u0dc3\u0db8\u0d9c \u0db4\u0ddd\u0dbd\u0db1\u0dca\u0dad \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dcf \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
     "file_name": "/tmp/news_lk2/articles/68/68c8b78e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca-7\u0d9a\u0dca-\u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0da7--\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0d9c\u0db8\u0db1\u0dca\u0dc0\u0dcf\u0dbb-56\u0d9a\u0dca-\u0d85\u0da9\u0dd4\u0d9a\u0dbb\u0dba\u0dd2/11-396354",
+    "time_ut": 1660701960,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca 7\u0d9a\u0dca \u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0da7  \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca\u0dc0\u0dcf\u0dbb 56\u0d9a\u0dca \u0d85\u0da9\u0dd4\u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/3f/3f39b809.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -193,6 +241,14 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-to-benefit-from-UKs-new-trading-scheme/342-243201",
+    "time_ut": 1660685027,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to benefit from UK\u2019s new trading scheme",
+    "file_name": "/tmp/news_lk2/articles/1f/1f8109f2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Central-Bank-lifts-forced-dollar-conversion-rule-on-services-export-receipts/108-243200",
     "time_ut": 1660684937,
     "original_lang": "en",
@@ -201,11 +257,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Govt-seeks-multi-party-consensus-to-set-up-private-universities/108-243197",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-seeks-multi-party-consensus-to-set-up-private-universities/342-243197",
     "time_ut": 1660684336,
     "original_lang": "en",
     "original_title": "Govt. seeks multi-party consensus to set up private universities",
-    "file_name": "/tmp/news_lk2/articles/26/26f9ac83.json"
+    "file_name": "/tmp/news_lk2/articles/97/979adff3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
