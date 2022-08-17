@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dad\u0dd4\u0d9a\u0dbb-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0d9a\u0dca/101-618280",
+    "time_ut": 1660730321,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dad\u0dd4\u0d9a\u0dbb \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/b1/b17c0624.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0db8\u0dd2\u0dbb\u0dd2\u0dc4\u0dcf\u0db1\u0dda-\u0db1\u0dd2\u0dc0\u0dc3\u0da7-\u0dad\u0dc0-\u0da7\u0dd2\u0d9a\u0d9a\u0dca-\u0daf\u0dd4\u0dbb\u0dba\u0dd2/2-618279",
+    "time_ut": 1660730156,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd2\u0dbb\u0dd2\u0dc4\u0dcf\u0db1\u0dda \u0db1\u0dd2\u0dc0\u0dc3\u0da7 \u0dad\u0dc0 \u0da7\u0dd2\u0d9a\u0d9a\u0dca \u0daf\u0dd4\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/10/10720d1c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/sri-lanka%e2%80%99s-foreign-tours-program-announced/",
+    "time_ut": 1660729500,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s Foreign Tours Program announced",
+    "file_name": "/tmp/news_lk2/articles/67/674a698a.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-relaxed-visas-to-remove-a-barrier-to-korean-investment-98697/",
     "time_ut": 1660728840,
@@ -70,6 +94,14 @@
     "original_lang": "si",
     "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0da7\u0ddc\u0db1\u0dca \u0dbd\u0d9a\u0dca\u200d\u0dc2\u0dba\u0d9a\u0dca \u0d85\u0daf \u0d91\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/c9/c9a0277f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d8b\u0daf\u0dba\u0d82\u0d9c-\u0dc3\u0dd3-\u0d85\u0dba\u0dd2-\u0da9\u0dd3-\u0dba\u0da7/11-396379",
+    "time_ut": 1660727038,
+    "original_lang": "si",
+    "original_title": "\u0d8b\u0daf\u0dba\u0d82\u0d9c \u0dc3\u0dd3.\u0d85\u0dba\u0dd2.\u0da9\u0dd3 \u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/c6/c6d3919e.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
