@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0dd2\u0db1\u0dca-\u0db4\u0dc3\u0dd4-\u0db0\u0dd3\u0dc0\u0dbb-\u0dc0\u0dcf\u0da9\u0dd2\u0dba\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0db6\u0dad\u0dd2/1-618291",
+    "time_ut": 1660735498,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db0\u0dd3\u0dc0\u0dbb \u0dc0\u0dcf\u0da9\u0dd2\u0dba\u0da7 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0db6\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/2f/2f6404c4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/CPC-expects-to-commence-refinery-operations-this-week-Minister/342-243239",
+    "time_ut": 1660735456,
+    "original_lang": "en",
+    "original_title": "CPC expects to commence refinery operations this week: Minister",
+    "file_name": "/tmp/news_lk2/articles/ff/ff3d6ee2.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0dc3\u0dd0\u0dbb\u0dd9\u0db1\u0dca-\u0dad\u0dc0\u0dad\u0dca-\u0d85\u0dbd\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/101-618289",
+    "time_ut": 1660735154,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc3\u0dd0\u0dbb\u0dd9\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0d85\u0dbd\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/d7/d710d390.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0db8\u0dbb\u0dab-\u0dad\u0dc0\u0dad\u0dca-5-\u0d9a\u0dca/1-618288",
+    "time_ut": 1660734502,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0db8\u0dbb\u0dab \u0dad\u0dc0\u0dad\u0dca 5 \u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/de/dee5de19.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda-\u0db4\u0dd2\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0dca-\u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca/101-618287",
     "time_ut": 1660734214,
     "original_lang": "si",
@@ -9,11 +41,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0d9a\u0dd4\u0dab\u0dd4-\u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda-\u0db4\u0dd2\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0dca-\u0dc3\u0dc4-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8-\u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca/101-618286",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0d9a\u0dd4\u0dab\u0dd4-\u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda-\u0db4\u0dd2\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0dca-\u0dc3\u0dc4-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8-\u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca/1-618286",
     "time_ut": 1660734143,
     "original_lang": "si",
     "original_title": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda \u0db4\u0dd2\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0dc3\u0dc4 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8 \u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/af/afb8aea8.json"
+    "file_name": "/tmp/news_lk2/articles/2f/2f067745.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -22,6 +54,14 @@
     "original_lang": "en",
     "original_title": "Jacqueline Fernandez Named As Accused In Laundering Case",
     "file_name": "/tmp/news_lk2/articles/79/79b39215.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/multiple-bomb-arson-attacks-rock-thailands-south-reuters-98701/",
+    "time_ut": 1660733940,
+    "original_lang": "en",
+    "original_title": "Multiple bomb, arson attacks rock Thailand\u2019s south: Reuters",
+    "file_name": "/tmp/news_lk2/articles/74/74bb1c6a.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -89,6 +129,14 @@
   },
   {
     "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-runaway-ex-president-to-return-on-aug-24-25-cousin-98700/",
+    "time_ut": 1660731720,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s runaway ex president to return on Aug 24, 25: cousin",
+    "file_name": "/tmp/news_lk2/articles/2b/2bacdda1.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lankas-runaway-ex-president-to-return-on-aug-24-report-98700/",
     "time_ut": 1660731720,
     "original_lang": "en",
@@ -110,6 +158,14 @@
     "original_lang": "en",
     "original_title": "Gotabaya set to return on August 24: Udayanga hints",
     "file_name": "/tmp/news_lk2/articles/22/228b61b9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Collective-effort-to-bust-human-smuggling-rackets-using-visit-visas-Manusha/342-243232",
+    "time_ut": 1660730950,
+    "original_lang": "en",
+    "original_title": "Collective effort to bust human smuggling rackets using visit visas: Manusha",
+    "file_name": "/tmp/news_lk2/articles/40/40f4caeb.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
