@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-17 20:03:57 (LK time)*
+*As of 2022-08-17 20:19:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** tamil-mirror-lk ([புலம்பெயர் அமைப்புகள்; மீண்டும் தடை செய்யப்படலாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffd24adc.json))
+* **1** tamil-mirror-lk ([அரச நிறுவனங்களில் கைவைக்கும் ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/42b0d0c5.json))
 
-## Last Hour (4 Articles)
+## Last Hour (5 Articles)
 
-* **2** tamil-mirror-lk ([தொழிற்சாலையை முற்றுகையிட்ட இ.தொ.காவினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/768c7574.json))
+* **3** tamil-mirror-lk ([தொழிற்சாலையை முற்றுகையிட்ட இ.தொ.காவினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/768c7574.json))
 
 * **1** ada-lk ([බොරතෙල් පිරිපහදුව අඛණ්ඩව පවත්වාගෙන යාමට සාකච්ඡා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8191752.json))
 
 * **1** lankadeepa-lk ([රට යවන්න ගිය පරණ යකඩ තොගයක් රේගුවෙන් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1df996eb.json))
 
-## Last 3 Hours (17 Articles)
+## Last 3 Hours (18 Articles)
 
-* **4** tamil-mirror-lk ([ஊசி மூலம் போதைப்பொருளை ஏற்றியதால் மரணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d029b7df.json))
+* **5** tamil-mirror-lk ([ஊசி மூலம் போதைப்பொருளை ஏற்றியதால் மரணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d029b7df.json))
 
 * **4** ada-derana-lk ([‘If we keep arguing, then we all are going to suffer’ – President](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33fc8262.json))
 
@@ -38,11 +38,11 @@
 
 * **33** ada-lk ([හදිසි නීතිය දීර්ඝ නොකරන බව ජනපති කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93c18b89.json))
 
-* **29** tamil-mirror-lk ([இவ்வார இறுதியில் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/779ec849.json))
-
-* **27** daily-mirror-lk ([Kaduwela OIC averts planned attack by gang: Three arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06373d3b.json))
+* **30** tamil-mirror-lk ([இவ்வார இறுதியில் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/779ec849.json))
 
 * **27** news-first-lk ([Emergency unlikely to be extended – President](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9efb28e6.json))
+
+* **26** daily-mirror-lk ([Emergency will not be extended beyond Aug. 18: President](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20ac604c.json))
 
 * **20** ada-derana-lk ([Coronavirus: 6 more deaths and 195 new cases reported](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82f5f6aa.json))
 
@@ -52,7 +52,7 @@
 
 * **3** island-lk ([MBSL Insurance expands its reach](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3ba4aeab.json))
 
-## Last Week (894 Articles)
+## Last Week (895 Articles)
 
 * **146** lankadeepa-lk ([ලෝක බැංකුවේ  අදහසටත් සවන්දෙමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31f9a927.json))
 
@@ -62,7 +62,7 @@
 
 * **112** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
 
-* **91** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **92** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **90** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
@@ -76,7 +76,7 @@
 
 * **16** colombo-telegraph-com ([The Aragalaya & Morality](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9788f39.json))
 
-## All Time (1,233 Articles)
+## All Time (1,234 Articles)
 
 * **211** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -90,7 +90,7 @@
 
 * **114** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
-* **91** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **92** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **90** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
