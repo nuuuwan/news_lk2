@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-17 23:27:47 (LK time)*
+*As of 2022-08-17 23:41:37 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** tamil-mirror-lk ([‘ஜனாதிபதியானால் ஹிருணிகாவை அடித்து நிர்வாணப்படுத்தியிருப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e08f818.json))
 
 ## Last Hour (1 Articles)
 
 * **1** tamil-mirror-lk ([‘ஜனாதிபதியானால் ஹிருணிகாவை அடித்து நிர்வாணப்படுத்தியிருப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e08f818.json))
 
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (12 Articles)
 
-* **5** lankadeepa-lk ([කරුවලගස්වැව වනජීවි දෙදෙනාට ඇප](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef7a7121.json))
-
-* **2** tamil-mirror-lk ([திடீரென குறைக்கப்பட்ட சமையல் எரிவாயு விலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1eef1779.json))
+* **3** lankadeepa-lk ([බිත්තර - කුකුල් මස් මිල අඩු කරන්න සාකච්ඡා](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20d0fe06.json))
 
 * **2** economy-next-com ([Sri Lanka stocks down for second session on profit taking after gaining rally](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71966c90.json))
 
@@ -24,17 +18,19 @@
 
 * **2** ada-derana-lk ([Laugfs slashes domestic LP gas prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed71479b.json))
 
+* **1** tamil-mirror-lk ([‘ஜனாதிபதியானால் ஹிருணிகாவை அடித்து நிர்வாணப்படுத்தியிருப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e08f818.json))
+
 * **1** daily-mirror-lk ([LAUGFS lowers 12.5kg cylinder price by Rs.1,050](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/914dd9e3.json))
 
 * **1** news-first-lk ([Laugfs Gas drops price of domestic gas cylinder](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91570bb3.json))
 
-## Last 24 Hours (194 Articles)
+## Last 24 Hours (191 Articles)
 
 * **40** lankadeepa-lk ([කෝටි 24 කොකේන් සමග පෝලන්ත ජාතිකයා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68c8b78e.json))
 
-* **34** ada-lk ([යුවාන් වැංග් 5 කිසිඳු රටක බලපෑමකට ලක් නොවිය යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd8a167f.json))
+* **33** ada-lk ([හිටපු ජනපතිගේ එතෙර වියදම් රජයේ මුදලින් නොවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e96cc0.json))
 
-* **27** tamil-mirror-lk ([மன்னார், பூநகரியில் காற்றாலை: அதானி குழுமத்துக்கு அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1868f7fb.json))
+* **25** tamil-mirror-lk ([ஐக்கிய நாடுகளின் அதிகாரி இலங்கைக்கு வருகை](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48db4c76.json))
 
 * **23** daily-mirror-lk ([Aragalaya is far from over](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c478b17d.json))
 
