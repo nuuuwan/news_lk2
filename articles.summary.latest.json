@@ -1,11 +1,91 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84360/passenger-duty-free-shop-staffer-held-with-95-kg-of-gold-bars",
+    "time_ut": 1660732260,
+    "original_lang": "en",
+    "original_title": "Passenger, Duty Free shop staffer held with 9.5 kg of gold bars",
+    "file_name": "/tmp/news_lk2/articles/90/904aa23b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0baa\u0bb2-\u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1-\u0bb5\u0bc6\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302501",
+    "time_ut": 1660732070,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bb2 \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/1a/1ab784e7.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-runaway-ex-president-to-return-on-aug-24-report-98700/",
+    "time_ut": 1660731720,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s runaway ex president to return on Aug 24: report",
+    "file_name": "/tmp/news_lk2/articles/8e/8ee4d975.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Multiple-bomb-arson-attacks-rock-Thailands-south/342-243234",
+    "time_ut": 1660731620,
+    "original_lang": "en",
+    "original_title": "Multiple bomb, arson attacks rock Thailand\u2019s south",
+    "file_name": "/tmp/news_lk2/articles/23/23619456.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Gotabaya-set-to-return-on-August-24-Udayanga-hints/155-243233",
+    "time_ut": 1660731366,
+    "original_lang": "en",
+    "original_title": "Gotabaya set to return on August 24: Udayanga hints",
+    "file_name": "/tmp/news_lk2/articles/22/228b61b9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Decision-taken-to-stop-human-smuggling-rackets-operating-with-the-use-of-visit-visas-Manusha/108-243232",
+    "time_ut": 1660730950,
+    "original_lang": "en",
+    "original_title": "Decision taken to stop human smuggling rackets operating with the use of visit visas: Manusha",
+    "file_name": "/tmp/news_lk2/articles/a4/a4a642f1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84359/multiple-explosions-arson-attacks-rock-southern-thailand",
+    "time_ut": 1660730880,
+    "original_lang": "en",
+    "original_title": "Multiple explosions, arson attacks rock southern Thailand",
+    "file_name": "/tmp/news_lk2/articles/1b/1b420212.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0da9-\u0da2\u0dd9\u0dbd\u0dbb\u0dca\u0dc0\u0dbb\u0dd2\u0dba\u0d9a\u0dca-\u0db4\u0dd9\u0dad\u0dd2-\u0dc3\u0db8\u0d9c-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396381",
+    "time_ut": 1660730796,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0da9 \u0da2\u0dd9\u0dbd\u0dbb\u0dca\u0dc0\u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0db4\u0dd9\u0dad\u0dd2 \u0dc3\u0db8\u0d9c \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/98/98f9c2c5.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/japan-pm-congratulates-sri-lanka-president-hopeful-of-improved-relations-98698/",
+    "time_ut": 1660730760,
+    "original_lang": "en",
+    "original_title": "Japan PM congratulates Sri Lanka president, hopeful of improved relations",
+    "file_name": "/tmp/news_lk2/articles/df/df4cb93c.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dad\u0dd4\u0d9a\u0dbb-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0d9a\u0dca/101-618280",
     "time_ut": 1660730321,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dad\u0dd4\u0d9a\u0dbb \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/b1/b17c0624.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca-\u0dbd\u0d9a\u0dca\u200d\u0dc2\u0dba\u0d9a-\u0db1\u0dd0\u0dc0\u0d9a\u0dca-\u0d85\u0daf-\u0d91\u0dba\u0dd2/11-396380",
+    "time_ut": 1660730291,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca \u0dbd\u0d9a\u0dca\u200d\u0dc2\u0dba\u0d9a \u0db1\u0dd0\u0dc0\u0d9a\u0dca \u0d85\u0daf \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/23/23b3e5f5.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7918,85 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d91\u0d9a\u0dad\u0dd0\u0db1 \u0db4\u0dbd\u0dca\u0dc0\u0dd9\u0dbd \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba",
     "file_name": "/tmp/news_lk2/articles/5b/5bc35b10.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0db6\u0dd2\u0dc4\u0dd2\u0dc0\u0dd3\u0db8\u0dda-\u0dc4\u0dda\u0dad\u0dd4-\u0dc3\u0ddc\u0dba\u0dcf-\u0d8a\u0da7-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1/2-617224",
-    "time_ut": 1659072566,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0db6\u0dd2\u0dc4\u0dd2\u0dc0\u0dd3\u0db8\u0dda \u0dc4\u0dda\u0dad\u0dd4 \u0dc3\u0ddc\u0dba\u0dcf \u0d8a\u0da7 \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/c2/c299bfec.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dd6-\u0db4\u0dca\u200d\u0dbb\u0dae\u0db8-\u0db4\u0dd6\u0dbb\u0dca\u0dab--\u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca-\u0d9a\u0dcf\u0dbb\u0dba--Moksha-\u0d91\u0dc5\u0dd2\u0daf\u0d9a\u0dd3/7-395835",
-    "time_ut": 1659006477,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dd6 \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0db4\u0dd6\u0dbb\u0dca\u0dab  \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0d9a\u0dcf\u0dbb\u0dba, Moksha \u0d91\u0dc5\u0dd2\u0daf\u0d9a\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/89/894c5069.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2\u0dba\u0db1\u0dca-\u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca-\u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0dd9\u0db1\u0dca-\u0db6\u0dbd\u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0dda-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0d9a\u0dca/7-395834",
-    "time_ut": 1659006197,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2\u0dba\u0db1\u0dca \u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0dd9\u0db1\u0dca \u0db6\u0dbd\u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/5c/5ca6ce3e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Activist-Pathum-Kerner-arrested/155-241958",
-    "time_ut": 1658995679,
-    "original_lang": "en",
-    "original_title": "Activist Pathum Kerner arrested",
-    "file_name": "/tmp/news_lk2/articles/2b/2ba39525.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/73773",
-    "time_ut": 1658955120,
-    "original_lang": "en",
-    "original_title": "JR Jayewardene, the Kanatte Mass Funeral and the July 1983 Anti-Tamil Pogrom",
-    "file_name": "/tmp/news_lk2/articles/b5/b5842d76.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78783",
-    "time_ut": 1658949840,
-    "original_lang": "en",
-    "original_title": "India sends \u201cclear message\u201d that it is monitoring the ship\u2019s progress \u201ccarefully\u201d of Chinese space and satellite tracking research vessel \u201cYuan Wang 5\u201d expected to dock in Sri Lanka\u2019s Hambantota port from August 11-17 for \u201creplenishment\u201d but  Sri Lanka Defence Ministry  Spolesman says \u201cWe have no confirmation of such a vessel calling at the Hambantota port,\u201d",
-    "file_name": "/tmp/news_lk2/articles/01/01e4622e.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78785",
-    "time_ut": 1658949300,
-    "original_lang": "en",
-    "original_title": "Full Text of Civil Society Statement on attacks and reprisals against peaceful protesters Signed by 165 Individuals and 10 Organizations",
-    "file_name": "/tmp/news_lk2/articles/f4/f4af35f3.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78781",
-    "time_ut": 1658948760,
-    "original_lang": "en",
-    "original_title": "India says it will protect its interests as Chinese research and survey vessel \u201cYuan Wang 5\u201d heads to  Hambantota Port in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/a1/a1236e6c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0d85\u0dc3\u0dca\u0dc3\u0dda-\u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca/2-617109",
-    "time_ut": 1658901532,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0d85\u0dc3\u0dca\u0dc3\u0dda \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/8a/8a1fa1d3.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78748",
-    "time_ut": 1658863440,
-    "original_lang": "en",
-    "original_title": "Key figures of the \u201caragalaya\u201d (struggle) facing intimidation at the hands of the Govt,Police and military;arrests,surveillance measures, including wiretapping of phones taking place;Among Targets are  Attorney Nuwan Bopage, Catholic priest Fr. Amila Jeewantha Peiris, Inter-University Students\u2019 Federation (IUSF) Convener Wasantha Mudalige and former IUSF Convenor Lahiru Weerasekara",
-    "file_name": "/tmp/news_lk2/articles/b7/b7a6b75d.json"
   }
 ]

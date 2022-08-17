@@ -1,11 +1,91 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84360/passenger-duty-free-shop-staffer-held-with-95-kg-of-gold-bars",
+    "time_ut": 1660732260,
+    "original_lang": "en",
+    "original_title": "Passenger, Duty Free shop staffer held with 9.5 kg of gold bars",
+    "file_name": "/tmp/news_lk2/articles/90/904aa23b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0baa\u0bb2-\u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1-\u0bb5\u0bc6\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302501",
+    "time_ut": 1660732070,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bb2 \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/1a/1ab784e7.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-runaway-ex-president-to-return-on-aug-24-report-98700/",
+    "time_ut": 1660731720,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s runaway ex president to return on Aug 24: report",
+    "file_name": "/tmp/news_lk2/articles/8e/8ee4d975.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Multiple-bomb-arson-attacks-rock-Thailands-south/342-243234",
+    "time_ut": 1660731620,
+    "original_lang": "en",
+    "original_title": "Multiple bomb, arson attacks rock Thailand\u2019s south",
+    "file_name": "/tmp/news_lk2/articles/23/23619456.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Gotabaya-set-to-return-on-August-24-Udayanga-hints/155-243233",
+    "time_ut": 1660731366,
+    "original_lang": "en",
+    "original_title": "Gotabaya set to return on August 24: Udayanga hints",
+    "file_name": "/tmp/news_lk2/articles/22/228b61b9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Decision-taken-to-stop-human-smuggling-rackets-operating-with-the-use-of-visit-visas-Manusha/108-243232",
+    "time_ut": 1660730950,
+    "original_lang": "en",
+    "original_title": "Decision taken to stop human smuggling rackets operating with the use of visit visas: Manusha",
+    "file_name": "/tmp/news_lk2/articles/a4/a4a642f1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84359/multiple-explosions-arson-attacks-rock-southern-thailand",
+    "time_ut": 1660730880,
+    "original_lang": "en",
+    "original_title": "Multiple explosions, arson attacks rock southern Thailand",
+    "file_name": "/tmp/news_lk2/articles/1b/1b420212.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0da9-\u0da2\u0dd9\u0dbd\u0dbb\u0dca\u0dc0\u0dbb\u0dd2\u0dba\u0d9a\u0dca-\u0db4\u0dd9\u0dad\u0dd2-\u0dc3\u0db8\u0d9c-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396381",
+    "time_ut": 1660730796,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0da9 \u0da2\u0dd9\u0dbd\u0dbb\u0dca\u0dc0\u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0db4\u0dd9\u0dad\u0dd2 \u0dc3\u0db8\u0d9c \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/98/98f9c2c5.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/japan-pm-congratulates-sri-lanka-president-hopeful-of-improved-relations-98698/",
+    "time_ut": 1660730760,
+    "original_lang": "en",
+    "original_title": "Japan PM congratulates Sri Lanka president, hopeful of improved relations",
+    "file_name": "/tmp/news_lk2/articles/df/df4cb93c.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dad\u0dd4\u0d9a\u0dbb-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0d9a\u0dca/101-618280",
     "time_ut": 1660730321,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dad\u0dd4\u0d9a\u0dbb \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/b1/b17c0624.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca-\u0dbd\u0d9a\u0dca\u200d\u0dc2\u0dba\u0d9a-\u0db1\u0dd0\u0dc0\u0d9a\u0dca-\u0d85\u0daf-\u0d91\u0dba\u0dd2/11-396380",
+    "time_ut": 1660730291,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca \u0dbd\u0d9a\u0dca\u200d\u0dc2\u0dba\u0d9a \u0db1\u0dd0\u0dc0\u0d9a\u0dca \u0d85\u0daf \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/23/23b3e5f5.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
