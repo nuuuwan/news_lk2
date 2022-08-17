@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84367/president-ranil-speaks-to-foreign-media-on-plans-to-revive-economy",
+    "time_ut": 1660760940,
+    "original_lang": "en",
+    "original_title": "President Ranil speaks to foreign media on plans to revive economy",
+    "file_name": "/tmp/news_lk2/articles/a4/a4bba30b.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bbe\u0bb2\u0bcd-\u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bbe\u0bb5\u0bc8-\u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc7\u0ba9\u0bcd/175-302533",
     "time_ut": 1660757634,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Policy Statement :  The proof of the pudding is in the eating",
     "file_name": "/tmp/news_lk2/articles/ee/eeef753f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Einstein-says-I-should-have-become-a-watchmaker/172-242531",
-    "time_ut": 1659729306,
-    "original_lang": "en",
-    "original_title": "Einstein says, I should have become a watchmaker",
-    "file_name": "/tmp/news_lk2/articles/42/4219f53f.json"
   }
 ]
