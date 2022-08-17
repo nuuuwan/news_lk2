@@ -1,24 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-18 00:38:05 (LK time)*
+*As of 2022-08-18 00:59:36 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last 3 Hours (4 Articles)
 
-* **1** ada-derana-lk ([President Ranil speaks to foreign media on plans to revive economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4bba30b.json))
-
-## Last 3 Hours (5 Articles)
-
-* **2** economy-next-com ([Sri Lanka stocks down for second session on profit taking after gaining rally](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71966c90.json))
-
-* **1** ada-derana-lk ([President Ranil speaks to foreign media on plans to revive economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4bba30b.json))
+* **2** ada-derana-lk ([President Ranil speaks to foreign media on plans to revive economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4bba30b.json))
 
 * **1** tamil-mirror-lk ([‘ஜனாதிபதியானால் ஹிருணிகாவை அடித்து நிர்வாணப்படுத்தியிருப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e08f818.json))
 
-* **1** ada-lk ([රාජකීය පුත්තු අද තෙල් වලිනුත් ගසා කනවාදැයි සැකයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39c82939.json))
+* **1** economy-next-com ([Sri Lanka rupee guidance peg, yields in T-bonds little changed ahead of CB policy rates announcement](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d74f5c4b.json))
 
-## Last 24 Hours (188 Articles)
+## Last 24 Hours (189 Articles)
 
 * **40** lankadeepa-lk ([කෝටි 24 කොකේන් සමග පෝලන්ත ජාතිකයා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68c8b78e.json))
 
@@ -30,7 +24,7 @@
 
 * **23** news-first-lk ([Rainfall in many areas tonight (17)](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba7905ec.json))
 
-* **19** ada-derana-lk ([Showers or thundershowers expected in five provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc79d8bb.json))
+* **20** ada-derana-lk ([Showers or thundershowers expected in five provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc79d8bb.json))
 
 * **15** economy-next-com ([Sri Lanka to launch new weekend long-distance train and bus service](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50022422.json))
 
@@ -46,9 +40,9 @@
 
 * **116** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
-* **94** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **94** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
-* **93** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
+* **94** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **83** daily-ft-lk ([BASL calls on IGP to ensure all arrests happen according to legal procedures](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7990ab2.json))
 
@@ -56,11 +50,11 @@
 
 * **33** island-lk ([Get down to brass tacks](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9be0fc16.json))
 
-* **17** d-b-s-jeyaraj-com ([Sri Lanka has become a country devoid of mature political leaders. We have only Ranil Wickremesinghe left among the leaders who can be considered an advanced political leader. In the absence of mature leaders, it should be the country’s responsibility to make proper use of him at this critical juncture.](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9971012a.json))
-
 * **16** colombo-telegraph-com ([The Aragalaya & Morality](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9788f39.json))
 
-## All Time (1,254 Articles)
+* **16** d-b-s-jeyaraj-com ([Sri Lanka’s radical Leftist political parties,JVP and its breakaway faction, FSP galvanised the “Aragalaya “(struggle)into an aggressive movement that eventually ousted the two Rajapaksa brothers from power](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78668862.json))
+
+## All Time (1,255 Articles)
 
 * **217** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -74,9 +68,9 @@
 
 * **116** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 
-* **94** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **94** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
-* **93** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
+* **94** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **85** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 
