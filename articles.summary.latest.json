@@ -176,6 +176,30 @@
     "file_name": "/tmp/news_lk2/articles/18/1868f7fb.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/indian-media-and-travel-influencers-take-lead-in-supporting-sri-lankan-tourism/",
+    "time_ut": 1660672620,
+    "original_lang": "en",
+    "original_title": "Indian media and travel influencers take lead in supporting Sri Lankan tourism",
+    "file_name": "/tmp/news_lk2/articles/0c/0c3e9bf9.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/hela-apparel-holdings-marks-an-impressive-start-to-fy-2022-23/",
+    "time_ut": 1660672560,
+    "original_lang": "en",
+    "original_title": "Hela Apparel Holdings marks an impressive start to FY 2022/23",
+    "file_name": "/tmp/news_lk2/articles/62/62deccbc.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/mbsl-insurance-expands-its-reach/",
+    "time_ut": 1660672500,
+    "original_lang": "en",
+    "original_title": "MBSL Insurance expands its reach",
+    "file_name": "/tmp/news_lk2/articles/3b/3ba4aeab.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-rupee-guidance-peg-edges-down-yields-in-govt-securities-little-changed-98689/",
     "time_ut": 1660672320,
@@ -2177,6 +2201,30 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/ai-2021-successfully-concludes-with-winners-showcasing-innovative-solutions-for-sustainable-living/",
+    "time_ut": 1660567920,
+    "original_lang": "en",
+    "original_title": "AI 2021 successfully\u00a0concludes\u00a0with winners showcasing\u00a0innovative solutions\u00a0for sustainable living",
+    "file_name": "/tmp/news_lk2/articles/8d/8d53c278.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/versatile-business-and-peoples-professional-ken-vijayakumar-elected-president-cipm-sl/",
+    "time_ut": 1660567860,
+    "original_lang": "en",
+    "original_title": "Versatile business and people\u2019s professional Ken Vijayakumar elected president CIPM SL",
+    "file_name": "/tmp/news_lk2/articles/33/33124f34.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/nations-trust-bank-records-steady-performance-in-1st-half-2022-amidst-challenging-market-conditions/",
+    "time_ut": 1660567800,
+    "original_lang": "en",
+    "original_title": "Nations Trust Bank records steady performance in 1st half 2022 amidst challenging market conditions",
+    "file_name": "/tmp/news_lk2/articles/84/84f9a163.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/cse-shows-outstanding-growth-for-twelfth-consecutive-day/",
     "time_ut": 1660567800,
     "original_lang": "en",
@@ -2190,6 +2238,14 @@
     "original_lang": "en",
     "original_title": "Birthday surprises!",
     "file_name": "/tmp/news_lk2/articles/07/07e6ee26.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/doing-itdads-way/",
+    "time_ut": 1660567680,
+    "original_lang": "en",
+    "original_title": "Doing it\u2026dad\u2019s way",
+    "file_name": "/tmp/news_lk2/articles/ba/ba8f05b3.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -4950,6 +5006,14 @@
     "original_lang": "en",
     "original_title": "Peaceful and Unlawful Assembly",
     "file_name": "/tmp/news_lk2/articles/bf/bf2176c4.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/unarmed-but-not-peaceful/",
+    "time_ut": 1660386660,
+    "original_lang": "en",
+    "original_title": "Unarmed but not peaceful",
+    "file_name": "/tmp/news_lk2/articles/72/72c9ad30.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb\u0dab \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/57/57a2c8d2.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0daf\u0dd6\u0dad-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca-\u0d9a\u0dd3\u0dc0\u0dda-\u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf-/7-394770",
-    "time_ut": 1655987505,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0daf\u0dd6\u0dad \u0db4\u0dd2\u0dbb\u0dd2\u0dc3 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd3\u0dc0\u0dda \u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/f6/f6dad180.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf-\u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb-\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0dd9\u0d9a\u0dd4-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda\u0daf\u0dd3-\u0db1\u0da9\u0dd4-\u0db4\u0dc0\u0dbb\u0dbd\u0dcf/7-394679",
-    "time_ut": 1655872055,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0dd9\u0d9a\u0dd4 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda\u0daf\u0dd3 \u0db1\u0da9\u0dd4 \u0db4\u0dc0\u0dbb\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/1e/1e0ca084.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0da9\u0ddc-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1--5-75\u0d9a-\u0d85\u0dad\u0dd2\u0dbb\u0dda\u0d9a-\u0d86\u0db0\u0dcf\u0dbb\u0dba\u0d9a\u0dca/7-394649",
-    "time_ut": 1655792825,
-    "original_lang": "si",
-    "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0da9\u0ddc.\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1  5.75\u0d9a \u0d85\u0dad\u0dd2\u0dbb\u0dda\u0d9a \u0d86\u0db0\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/bd/bd2485fb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Food-crisis-likely-to-affect-around-four-to-five-million-people-PM/155-239279",
-    "time_ut": 1655485620,
-    "original_lang": "en",
-    "original_title": "Food crisis likely to affect around four to five million people - PM",
-    "file_name": "/tmp/news_lk2/articles/4a/4a0e923b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/SLs-average-household-income-makes-shocking-revelation-about-poverty-level/273-238959",
-    "time_ut": 1655058069,
-    "original_lang": "en",
-    "original_title": "SL\u2019s average household income makes shocking revelation about poverty level",
-    "file_name": "/tmp/news_lk2/articles/8e/8e18d8de.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/May-9-unrest-Over-1-000-suspects-still-in-remand-custody/155-238934",
-    "time_ut": 1655015230,
-    "original_lang": "en",
-    "original_title": "May 9 unrest:  Over 1,000 suspects still in remand custody",
-    "file_name": "/tmp/news_lk2/articles/38/38d3a42d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0db1\u0dd2\u0dc4\u0dcf\u0dbd\u0dca-\u0dc6\u0ddc\u0db1\u0dca\u0dc3\u0dda\u0d9a\u0dcf-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0da7-\u0dba\u0dc5\u0dd2-\u0db4\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2/7-393975",
-    "time_ut": 1654051147,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd2\u0dc4\u0dcf\u0dbd\u0dca \u0dc6\u0ddc\u0db1\u0dca\u0dc3\u0dda\u0d9a\u0dcf \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0da7 \u0dba\u0dc5\u0dd2 \u0db4\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f1/f16c2624.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d9a\u0ddc\u0dc5\u0db9-\u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba-\u0db8\u0dd0\u0dba\u0dd2-\u0db8\u0dcf\u0dc3\u0dba\u0dda-\u0dc3\u0dd2\u0dba\u0dba\u0da7-40\u0da7-\u0dc5\u0d9f\u0dba\u0dd2/7-393971",
-    "time_ut": 1654045684,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0db8\u0dd0\u0dba\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda \u0dc3\u0dd2\u0dba\u0dba\u0da7 40\u0da7 \u0dc5\u0d9f\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/45/45ff1cca.json"
   }
 ]
