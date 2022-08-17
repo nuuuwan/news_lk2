@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/cinema/\u0b9c\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb2\u0bbf\u0ba9\u0bcd-\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbe\u0bb3\u0bbf/54-302495",
+    "time_ut": 1660726624,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb2\u0bbf\u0ba9\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbe\u0bb3\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/b4/b4edd47d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/india-and-sri-lanka-will-jointly-host-the-t20-world-cup-in-2026/",
+    "time_ut": 1660726320,
+    "original_lang": "en",
+    "original_title": "India and Sri Lanka will jointly host the T20 World Cup in 2026",
+    "file_name": "/tmp/news_lk2/articles/a1/a1ed643e.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-benefit-from-access-to-uks-new-trading-scheme-high-commissioner-98696/",
+    "time_ut": 1660726260,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to benefit from access to UK\u2019s new trading scheme: high commissioner",
+    "file_name": "/tmp/news_lk2/articles/e2/e23541a3.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0daf\u0dd3-\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0dbb\u0ddd\u0d9c\u0dd3\u0dc4\u0dd4--1590\u0d9a\u0dca/1-618274",
     "time_ut": 1660724842,
