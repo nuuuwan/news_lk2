@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Structural-change-modernisation-and-IMF-bailout/172-243262",
+    "time_ut": 1660765409,
+    "original_lang": "en",
+    "original_title": "Structural change, modernisation and IMF bailout",
+    "file_name": "/tmp/news_lk2/articles/b3/b3935747.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84368/undco-regional-director-for-asia-pacific-calls-on-minister-ali-sabry",
+    "time_ut": 1660764300,
+    "original_lang": "en",
+    "original_title": "UNDCO Regional Director for Asia-Pacific calls on Minister Ali Sabry",
+    "file_name": "/tmp/news_lk2/articles/7b/7bba1c3f.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84367/govt-mulling-privatizing-of-several-state-enterprises-president-says",
     "time_ut": 1660760940,
@@ -81,11 +97,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/LAUGFS-lowers-12-5kg-cylinder-price-by-Rs-1-050/342-243244",
+    "url": "https://www.dailymirror.lk/breaking_news/LAUGFS-lowers-12-5kg-cylinder-price-by-Rs-1-050/108-243244",
     "time_ut": 1660749960,
     "original_lang": "en",
     "original_title": "LAUGFS lowers 12.5kg cylinder price by Rs.1,050",
-    "file_name": "/tmp/news_lk2/articles/91/914dd9e3.json"
+    "file_name": "/tmp/news_lk2/articles/7b/7b23c2d3.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",

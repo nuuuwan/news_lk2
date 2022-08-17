@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Structural-change-modernisation-and-IMF-bailout/172-243262",
+    "time_ut": 1660765409,
+    "original_lang": "en",
+    "original_title": "Structural change, modernisation and IMF bailout",
+    "file_name": "/tmp/news_lk2/articles/b3/b3935747.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84368/undco-regional-director-for-asia-pacific-calls-on-minister-ali-sabry",
+    "time_ut": 1660764300,
+    "original_lang": "en",
+    "original_title": "UNDCO Regional Director for Asia-Pacific calls on Minister Ali Sabry",
+    "file_name": "/tmp/news_lk2/articles/7b/7bba1c3f.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84367/govt-mulling-privatizing-of-several-state-enterprises-president-says",
     "time_ut": 1660760940,
@@ -81,11 +97,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/LAUGFS-lowers-12-5kg-cylinder-price-by-Rs-1-050/342-243244",
+    "url": "https://www.dailymirror.lk/breaking_news/LAUGFS-lowers-12-5kg-cylinder-price-by-Rs-1-050/108-243244",
     "time_ut": 1660749960,
     "original_lang": "en",
     "original_title": "LAUGFS lowers 12.5kg cylinder price by Rs.1,050",
-    "file_name": "/tmp/news_lk2/articles/91/914dd9e3.json"
+    "file_name": "/tmp/news_lk2/articles/7b/7b23c2d3.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "THE SYSTEM CHANGE THAT CAN ENABLE SRI LANKA TO RECOVER FROM THIS MASSIVE CRISIS",
     "file_name": "/tmp/news_lk2/articles/14/14624373.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dad\u0dd2\u0dbb\u0dc3\u0dbb-\u0d9c\u0db8\u0db1\u0d9a\u0da7-\u0d87\u0dbb\u0dd2\u0dba\u0dd4\u0db8\u0d9a\u0dca/2-617675",
-    "time_ut": 1659764151,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dd2\u0dbb\u0dc3\u0dbb \u0d9c\u0db8\u0db1\u0d9a\u0da7 \u0d87\u0dbb\u0dd2\u0dba\u0dd4\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/de/de1c28e5.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0db4\u0da7\u0dd4-\u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0dad\u0ddc\u0dbb\u0dc0-\u0db4\u0ddc\u0daf\u0dd4-\u0d85\u0dbb\u0db8\u0dd4\u0dab\u0d9a\u0da7-\u0dba\u0db8\u0dd4/2-617672",
-    "time_ut": 1659760243,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0da7\u0dd4 \u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dad\u0ddc\u0dbb\u0dc0 \u0db4\u0ddc\u0daf\u0dd4 \u0d85\u0dbb\u0db8\u0dd4\u0dab\u0d9a\u0da7 \u0dba\u0db8\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/c2/c2648565.json"
   }
 ]
