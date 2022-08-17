@@ -1,12 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-17 21:10:20 (LK time)*
+*As of 2022-08-17 21:24:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **3** lankadeepa-lk ([බිත්තර - කුකුල් මස් මිල අඩු කරන්න සාකච්ඡා](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d33bbab8.json))
+* **1** ada-derana-lk ([Laugfs slashes domestic LP gas prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed71479b.json))
+
+* **1** daily-mirror-lk ([LAUGFS lowers 12.5kg cylinder price by Rs.1,050](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/914dd9e3.json))
+
+## Last Hour (8 Articles)
+
+* **4** lankadeepa-lk ([කරුවලගස්වැව වනජීවි දෙදෙනාට ඇප](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef7a7121.json))
 
 * **1** ada-derana-lk ([Laugfs slashes domestic LP gas prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed71479b.json))
 
@@ -14,45 +20,35 @@
 
 * **1** news-first-lk ([Laugfs Gas drops price of domestic gas cylinder](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91570bb3.json))
 
-## Last Hour (9 Articles)
-
-* **4** lankadeepa-lk ([කරුවලගස්වැව වනජීවි දෙදෙනාට ඇප](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef7a7121.json))
-
-* **2** news-first-lk ([Scottish Instragrammer Missing after losing deportation case – Immigration Dept](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e640414.json))
-
-* **1** ada-derana-lk ([Laugfs slashes domestic LP gas prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed71479b.json))
-
-* **1** daily-mirror-lk ([LAUGFS lowers 12.5kg cylinder price by Rs.1,050](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/914dd9e3.json))
-
 * **1** tamil-mirror-lk ([திடீரென குறைக்கப்பட்ட சமையல் எரிவாயு விலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1eef1779.json))
 
-## Last 3 Hours (20 Articles)
+## Last 3 Hours (18 Articles)
 
-* **6** lankadeepa-lk ([ජනපති නිවෙසට ගිනි තැබීම ගැන ජුලියන් බෝලින් සහ  ජොනතන් මාටින්ස්ටයින්ගෙන් ප්‍රකාශ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef7c1786.json))
+* **5** lankadeepa-lk ([රට යවන්න ගිය පරණ යකඩ තොගයක් රේගුවෙන් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1df996eb.json))
 
 * **5** tamil-mirror-lk ([’ ரணில் கோ கம’ மாயமானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b016e04.json))
 
 * **3** ada-derana-lk ([CPC to begin refinery operations this week to operate without any interruptions](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc9fe9be.json))
 
-* **3** daily-mirror-lk ([Customs Intelligence thwarts attempt to smuggle copper, aluminum to India](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7d8ff4a.json))
+* **2** daily-mirror-lk ([No longer intend to criticize govt.: SJB](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c5c3d9c.json))
 
 * **2** news-first-lk ([Scottish Instragrammer Missing after losing deportation case – Immigration Dept](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e640414.json))
 
 * **1** ada-lk ([බොරතෙල් පිරිපහදුව අඛණ්ඩව පවත්වාගෙන යාමට සාකච්ඡා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8191752.json))
 
-## Last 24 Hours (208 Articles)
+## Last 24 Hours (205 Articles)
 
-* **39** lankadeepa-lk ([එංගලන්තයේ වෙළෙඳ පැකේජයට ලංකාවත් එක්කර ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55b58107.json))
+* **38** lankadeepa-lk ([කෝටි 24 කොකේන් සමග පෝලන්ත ජාතිකයා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68c8b78e.json))
 
 * **33** ada-lk ([හදිසි නීතිය දීර්ඝ නොකරන බව ජනපති කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93c18b89.json))
 
-* **29** tamil-mirror-lk ([சஜித்துக்கு கிடைத்துள்ள தகவல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07932aed.json))
-
 * **28** news-first-lk ([IMF Agreement will give Sri Lanka confidence – President](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60d47755.json))
+
+* **28** tamil-mirror-lk ([இலங்கை தொடர்பில் பிரித்தானியா எடுத்துள்ள தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/6482a7d9.json))
 
 * **27** daily-mirror-lk ([Emergency will not be extended beyond Aug. 18: President](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20ac604c.json))
 
-* **21** ada-derana-lk ([Coronavirus: 6 more deaths and 195 new cases reported](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82f5f6aa.json))
+* **20** ada-derana-lk ([India’s Adani Green Energy given provisional approval for two wind projects](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9cbf497.json))
 
 * **15** economy-next-com ([Sri Lanka shares bucks winning streak on profit taking after gaining 20%](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/475dc415.json))
 
