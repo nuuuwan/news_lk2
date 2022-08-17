@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84352/china-not-allowed-to-use-hambantota-port-for-military-purposes-president",
+    "time_ut": 1660715340,
+    "original_lang": "en",
+    "original_title": "China not allowed to use Hambantota Port for military purposes - President",
+    "file_name": "/tmp/news_lk2/articles/37/37a56e82.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/tourist-arrival-on-the-rise-sltda/",
+    "time_ut": 1660715220,
+    "original_lang": "en",
+    "original_title": "Tourist arrival on the rise \u2013 SLTDA",
+    "file_name": "/tmp/news_lk2/articles/07/0750fc66.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0dbd\u0dd6\u0dbd\u0dcf--\u0db6\u0ddc\u0dbd\u0dca\u0dc3\u0ddc\u0db1\u0dcf\u0dbb\u0ddd-\u0db1\u0dd2\u0dbd-\u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab-\u0dc3\u0da7\u0db1\u0da7/3-396369",
+    "time_ut": 1660714874,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0dd6\u0dbd\u0dcf, \u0db6\u0ddc\u0dbd\u0dca\u0dc3\u0ddc\u0db1\u0dcf\u0dbb\u0ddd \u0db1\u0dd2\u0dbd \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab \u0dc3\u0da7\u0db1\u0da7",
+    "file_name": "/tmp/news_lk2/articles/ba/babf5d57.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Udayanga-Weeratunga-arrives-at-CID-over-MIG-deal/108-243226",
+    "time_ut": 1660714840,
+    "original_lang": "en",
+    "original_title": "Udayanga Weeratunga arrives at CID over MIG deal",
+    "file_name": "/tmp/news_lk2/articles/86/86dee675.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db8\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf-\u0dc4\u0dad\u0dbb\u0d9a\u0dca-\u0dbd\u0db6\u0dcf-\u0dc3\u0dd2\u0da7\u0dd2-\u0da2\u0dd2\u0dbd\u0dca-\u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca\u0da7\u0dad\u0dca-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca/3-396366",
+    "time_ut": 1660714564,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0dc3\u0dd2\u0da7\u0dd2 \u0da2\u0dd2\u0dbd\u0dca \u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca\u0da7\u0dad\u0dca \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca",
+    "file_name": "/tmp/news_lk2/articles/a7/a702be8b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/udayanga-weeratunga-at-the-cid-over-mig-deal/",
+    "time_ut": 1660714560,
+    "original_lang": "en",
+    "original_title": "Udayanga Weeratunga at the CID over MiG Deal",
+    "file_name": "/tmp/news_lk2/articles/1a/1a30a2bf.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0d9a\u0dd9\u0db1\u0dca\u0dba\u0dcf-\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd\u0dba-\u0d9c\u0dd0\u0db1-\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0da7-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca/3-396364",
+    "time_ut": 1660714406,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd9\u0db1\u0dca\u0dba\u0dcf \u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd\u0dba \u0d9c\u0dd0\u0db1 \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0da7 \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/17/172364b5.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0dc2\u0dd0\u0d82\u0dc4\u0dba\u0dd2-mRNA-\u0d91\u0db1\u0dca\u0db1\u0dad\u0da7-\u0dc3\u0dcf\u0dba\u0db1\u0dd2\u0d9a-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab-\u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba/3-396362",
+    "time_ut": 1660714289,
+    "original_lang": "si",
+    "original_title": "\u0dc2\u0dd0\u0d82\u0dc4\u0dba\u0dd2 mRNA \u0d91\u0db1\u0dca\u0db1\u0dad\u0da7 \u0dc3\u0dcf\u0dba\u0db1\u0dd2\u0d9a \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba",
+    "file_name": "/tmp/news_lk2/articles/cd/cd08d7a5.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0db4\u0dd9\u0dbd\u0ddd\u0dc3\u0dd2-\u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba-\u0d85\u0dc0\u0dd4\u0dbd\u0dca-\u0dc0\u0dd2\u0dba\u0dc0\u0dd4\u0dbd\u0dca-\u0dc0\u0dd0\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca-\u0db4\u0dd6\u0da7\u0dd2\u0db1\u0dca/3-396360",
     "time_ut": 1660714169,
@@ -14,6 +78,22 @@
     "original_lang": "en",
     "original_title": "20 Train Engines Out Of Service",
     "file_name": "/tmp/news_lk2/articles/9d/9de0e793.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0dbb\u0da7\u0da7-\u0db6\u0dbb\u0d9a\u0dca-\u0dc0\u0dd6-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0dba\u0dda-\u0dba\u0dae\u0dcf\u0dbb\u0dca\u0dae\u0dba/2-618255",
+    "time_ut": 1660714031,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da7\u0da7 \u0db6\u0dbb\u0d9a\u0dca \u0dc0\u0dd6 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dba\u0dda \u0dba\u0dae\u0dcf\u0dbb\u0dca\u0dae\u0dba",
+    "file_name": "/tmp/news_lk2/articles/6d/6d9774a6.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-gives-provisional-approval-to-two-wind-power-projects-by-adani-group-98691/",
+    "time_ut": 1660714020,
+    "original_lang": "en",
+    "original_title": "Sri Lanka gives provisional approval to two wind power projects by Adani Group",
+    "file_name": "/tmp/news_lk2/articles/4d/4d3355a3.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -78,6 +158,14 @@
     "original_lang": "si",
     "original_title": "\u2019\u2019\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd0\u0da9\u0dca\u0da9\u0dd9\u0d9a\u0dca \u0db1\u0ddc\u0dc0\u0dd9\u0dba\u0dd2\u2019\u2019",
     "file_name": "/tmp/news_lk2/articles/25/253cb6ba.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0ddd\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0dbb\u0da7-\u0db4\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0dad\u0dd0\u0dad\u0dca-\u0d9a\u0dc5-10\u0d9a\u0dca-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-396359",
+    "time_ut": 1660711777,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0ddd\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dbb\u0da7 \u0db4\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dad\u0dd0\u0dad\u0dca \u0d9a\u0dc5 10\u0d9a\u0dca \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/7c/7c350372.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -425,11 +513,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Govt-seeks-multi-party-consensus-to-set-up-private-universities/342-243197",
+    "url": "https://www.dailymirror.lk/business-news/Govt-seeks-multi-party-consensus-to-set-up-private-universities/273-243197",
     "time_ut": 1660684336,
     "original_lang": "en",
     "original_title": "Govt. seeks multi-party consensus to set up private universities",
-    "file_name": "/tmp/news_lk2/articles/97/979adff3.json"
+    "file_name": "/tmp/news_lk2/articles/01/014cf39e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
