@@ -1,20 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-18 02:02:54 (LK time)*
+*As of 2022-08-18 02:19:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
-
-* **2** daily-mirror-lk ([Structural change, modernisation and IMF bailout](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3935747.json))
-
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (5 Articles)
 
 * **3** ada-derana-lk ([President Ranil speaks to foreign media on plans to revive economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4bba30b.json))
 
 * **2** daily-mirror-lk ([Structural change, modernisation and IMF bailout](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3935747.json))
-
-* **1** tamil-mirror-lk ([‘ஜனாதிபதியானால் ஹிருணிகாவை அடித்து நிர்வாணப்படுத்தியிருப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e08f818.json))
 
 ## Last 24 Hours (190 Articles)
 
