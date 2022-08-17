@@ -1,0 +1,258 @@
+{
+  "newspaper_id": "economy-next-com",
+  "url": "https://economynext.com/sri-lanka-shares-slip-over-2-pct-in-mid-day-trade-98693/",
+  "time_ut": 1660719000,
+  "original_lang": "en",
+  "original_title": "Sri Lanka shares slip over 2-pct in mid-day trade",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka shares slip over 2-pct in mid-day trade",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 Sri Lanka shares slipped over 2 percent on Wednesday (17) for the second consecutive session pushed down by retail shares LOLC, Hayleys and Expolanka on profit taking.",
+        "The main All Share Price Index fell 203.45 points or 2.24 percent to 8,882.79 at 1145 hours.",
+        "The most liquid index slipped 3.26 percent or 99.15 points to 2,938.44."
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        },
+        {
+          "text": "2",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "mid-day",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "over 2 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Wednesday",
+            "label": "DATE"
+          },
+          {
+            "text": "17",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "second",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "LOLC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "203.45",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2.24 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "8,882.79",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1145 hours",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "3.26 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "99.15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,938.44",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0db0\u0dca\u200d\u0dba \u0daf\u0dd2\u0db1 \u0dc0\u0dd9\u0dc5\u0db3\u0dcf\u0db8\u0dda \u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 2\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dda",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dbb \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0db1 LOLC, Hayleys \u0dc3\u0dc4 Expolanka \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dbd\u0dcf\u0db7 \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0db8\u0dad \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0daf\u0dd9\u0dc0\u0db1 \u0dc3\u0dd0\u0dc3\u0dd2\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0db6\u0daf\u0dcf\u0daf\u0dcf (17) \u0dc3\u0dd2\u0dba\u0dba\u0da7 2 \u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dd2.",
+        "\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba \u0d92\u0d9a\u0d9a 203.45 \u0d9a\u0dd2\u0db1\u0dca \u0dc4\u0ddd \u0dc3\u0dd2\u0dba\u0dba\u0da7 2.24 \u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0db4\u0dd0\u0dba 1145 \u0daf\u0dd3 \u0d92\u0d9a\u0d9a 8,882.79 \u0d9a\u0dca \u0dc0\u0dd2\u0dba.",
+        "\u0dc0\u0da9\u0dcf\u0dad\u0dca\u0db8 \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dc1\u0dd3\u0dbd \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 3.26 \u0d9a\u0dd2\u0db1\u0dca \u0dc4\u0ddd \u0d92\u0d9a\u0d9a 99.15 \u0d9a\u0dd2\u0db1\u0dca 2,938.44 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd3 \u0d87\u0dad."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "2",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0db8\u0dd0\u0daf \u0db7\u0dcf\u0d9c\u0dba\u0dda",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 2 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db6\u0daf\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "17",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "LOLC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "203.45 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 2.24 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "8,882.79 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 1145 \u0dba\u0dd2",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 3.26 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "99.15 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,938.44 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0bbe\u0bb3\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd 2-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bb1\u0bc8\u0baa\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bbe\u0ba9 LOLC, Hayleys \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Expolanka \u0b86\u0b95\u0bbf\u0baf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b87\u0bb2\u0bbe\u0baa\u0bae\u0bcd \u0b88\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0b85\u0bae\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0ba9\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (17) 2 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0b95 \u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9.",
+        "\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bc1 203.45 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 2.24 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 1145 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 8,882.79 \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb0\u0bb5\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bc1 3.26 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 99.15 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 2,938.44 \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        },
+        {
+          "text": "2",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bae\u0bcd",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "2 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "17",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "LOLC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "203.45",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2.24 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "8,882.79",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1145 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "3.26 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "99.15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,938.44",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}
