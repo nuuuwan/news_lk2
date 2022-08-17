@@ -1,26 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-18 00:28:02 (LK time)*
+*As of 2022-08-18 00:38:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([President Ranil speaks to foreign media on plans to revive economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4bba30b.json))
 
 ## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([President Ranil speaks to foreign media on plans to revive economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4bba30b.json))
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (5 Articles)
 
 * **2** economy-next-com ([Sri Lanka stocks down for second session on profit taking after gaining rally](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71966c90.json))
-
-* **2** ada-lk ([අන්නාසි වෙළඳපොළත් හාන්සියි - ගෙඩියක් 700 ඉක්මවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfa439e1.json))
 
 * **1** ada-derana-lk ([President Ranil speaks to foreign media on plans to revive economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4bba30b.json))
 
 * **1** tamil-mirror-lk ([‘ஜனாதிபதியானால் ஹிருணிகாவை அடித்து நிர்வாணப்படுத்தியிருப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e08f818.json))
+
+* **1** ada-lk ([රාජකීය පුත්තු අද තෙල් වලිනුත් ගසා කනවාදැයි සැකයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39c82939.json))
 
 ## Last 24 Hours (188 Articles)
 
