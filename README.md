@@ -1,28 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-18 02:37:48 (LK time)*
+*As of 2022-08-18 03:01:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (5 Articles)
-
-* **3** ada-derana-lk ([President Ranil speaks to foreign media on plans to revive economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4bba30b.json))
+## Last 3 Hours (3 Articles)
 
 * **2** daily-mirror-lk ([Structural change, modernisation and IMF bailout](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3935747.json))
 
-## Last 24 Hours (190 Articles)
+* **1** ada-derana-lk ([UNDCO Regional Director for Asia-Pacific calls on Minister Ali Sabry](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7bba1c3f.json))
+
+## Last 24 Hours (187 Articles)
 
 * **40** lankadeepa-lk ([කෝටි 24 කොකේන් සමග පෝලන්ත ජාතිකයා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68c8b78e.json))
 
 * **32** ada-lk ([ඩයස්පෝරාවේ සහාය ගන්න ඩයස්පෝරා කාර්යාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdae4c18.json))
-
-* **23** daily-mirror-lk ([Govt. seeks multi-party consensus to set up private universities](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/014cf39e.json))
 
 * **23** tamil-mirror-lk ([இலங்கைக்கு வந்த இந்தியாவின் பிரபல நடிகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59d17895.json))
 
 * **23** news-first-lk ([Rainfall in many areas tonight (17)](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba7905ec.json))
 
 * **21** ada-derana-lk ([Showers or thundershowers expected in five provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc79d8bb.json))
+
+* **20** daily-mirror-lk ([Discussing changes?](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c28cd35.json))
 
 * **15** economy-next-com ([Sri Lanka to launch new weekend long-distance train and bus service](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50022422.json))
 
