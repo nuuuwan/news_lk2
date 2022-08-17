@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Custom-nabs-two-suspects-with-9-5-kg-Gold-worth-over-Rs-200-m-at-BIA/56-738821",
+    "time_ut": 1660779495,
+    "original_lang": "en",
+    "original_title": "Custom nabs two suspects with 9.5 kg Gold worth over Rs. 200 m at BIA",
+    "file_name": "/tmp/news_lk2/articles/36/36a480fa.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SLFP-opposes-awarding-millions-in-damages-for-political-revenge-victims/56-738820",
+    "time_ut": 1660779478,
+    "original_lang": "en",
+    "original_title": "SLFP opposes awarding millions in damages for \u2018political revenge victims\u2019",
+    "file_name": "/tmp/news_lk2/articles/ea/eabaedc4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/IUSF-protest-against-Ranil-Rajapaksa-Junta-today/56-738819",
+    "time_ut": 1660779413,
+    "original_lang": "en",
+    "original_title": "IUSF protest against  \u2018Ranil-Rajapaksa Junta\u2019 today",
+    "file_name": "/tmp/news_lk2/articles/84/8468c4c9.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Tamils-will-only-invest-in-SL-if-Govt-provides-political-solution-Mavai/56-738818",
+    "time_ut": 1660779334,
+    "original_lang": "en",
+    "original_title": "Tamils will only invest in SL if Govt. provides political solution: Mavai",
+    "file_name": "/tmp/news_lk2/articles/a9/a99e8c07.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Political-geographies-imagined-and-real/172-243263",
     "time_ut": 1660765567,
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Saman Ratnapriya and Joseph Stalin Participate Together in May 28 Protest March Urging Gota to Go; Saman Ratnapriya is made  Director General, Trade Unions under President but Joseph Stalin is  summarily arrested  and Remanded",
     "file_name": "/tmp/news_lk2/articles/83/8340ca99.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78894",
-    "time_ut": 1659812760,
-    "original_lang": "en",
-    "original_title": "Sajith Premadasa  is weak, indecisive and cannot bear any pressure, This mess is because he didn\u2019t have the guts to form a government and take on the corrupt Rajapaksas.Using bombastic words or archaic obsolete dictionary terms does not make a good opposition leader.",
-    "file_name": "/tmp/news_lk2/articles/3e/3ecd04d7.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78897",
-    "time_ut": 1659812220,
-    "original_lang": "en",
-    "original_title": "\u2018Who controls the past controls the future: who controls the present controls the past,\u2019-  George Orwell\u2019s 1984 repeats itself in  2022 Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/bd/bdaf5487.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78889",
-    "time_ut": 1659811680,
-    "original_lang": "en",
-    "original_title": "9 August 2022 Declared\u201cNational day of protest\u201d (Jathika Virodatha Dinaya) by \u201cAragalaya\u201dProtesters;Island-wide Protests to be held in Outstation towns;National Trade Union Co-ordination Centre (NTUCC) will stage rally at Viharamahadevi park  in Colombo on same day 2 pm",
-    "file_name": "/tmp/news_lk2/articles/14/143f2b1c.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/where-are-we-headed/",
-    "time_ut": 1659788520,
-    "original_lang": "en",
-    "original_title": "Where are we headed?",
-    "file_name": "/tmp/news_lk2/articles/87/87c92175.json"
   }
 ]
