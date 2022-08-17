@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84364/cpc-to-begin-refinery-operations-this-week-to-operate-without-any-interruptions",
+    "time_ut": 1660741860,
+    "original_lang": "en",
+    "original_title": "CPC to begin refinery operations this week to operate without any interruptions",
+    "file_name": "/tmp/news_lk2/articles/cc/cc9fe9be.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/No-longer-intend-to-criticize-govt-SJB/110-243243",
+    "time_ut": 1660741376,
+    "original_lang": "en",
+    "original_title": "No longer intend to criticize govt.: SJB",
+    "file_name": "/tmp/news_lk2/articles/1c/1c5c3d9c.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Customs-Intelligence-thwarts-attempt-to-smuggle-copper-aluminum-to-India/342-243242",
     "time_ut": 1660740790,

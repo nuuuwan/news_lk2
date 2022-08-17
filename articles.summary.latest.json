@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84364/cpc-to-begin-refinery-operations-this-week-to-operate-without-any-interruptions",
+    "time_ut": 1660741860,
+    "original_lang": "en",
+    "original_title": "CPC to begin refinery operations this week to operate without any interruptions",
+    "file_name": "/tmp/news_lk2/articles/cc/cc9fe9be.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/No-longer-intend-to-criticize-govt-SJB/110-243243",
+    "time_ut": 1660741376,
+    "original_lang": "en",
+    "original_title": "No longer intend to criticize govt.: SJB",
+    "file_name": "/tmp/news_lk2/articles/1c/1c5c3d9c.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Customs-Intelligence-thwarts-attempt-to-smuggle-copper-aluminum-to-India/342-243242",
     "time_ut": 1660740790,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Lead kindly light, amid the encircling gloom",
     "file_name": "/tmp/news_lk2/articles/fc/fccaa18e.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78867",
-    "time_ut": 1659554100,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s debt crisis was the result of bad economic policies, an unwillingness to make hard decisions, and to a lesser degree, tensions between China and the West.",
-    "file_name": "/tmp/news_lk2/articles/f0/f026982a.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78868",
-    "time_ut": 1659553560,
-    "original_lang": "en",
-    "original_title": "Sri Lankan  President Ranil Wickremesinghe  affirms nation\u2019s commitment to the \u2018One China Policy\u2019 and asks  countries to \u201crefrain from provocations\u201d, in a message apparently directed to the United States",
-    "file_name": "/tmp/news_lk2/articles/7f/7f5651bd.json"
   }
 ]
