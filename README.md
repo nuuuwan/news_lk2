@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-17 22:43:21 (LK time)*
+*As of 2022-08-17 23:03:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (2 Articles)
-
-* **2** economy-next-com ([Sri Lanka stocks down for second session on profit taking after gaining rally](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71966c90.json))
 
 ## Last 3 Hours (16 Articles)
 
@@ -24,15 +20,15 @@
 
 * **1** daily-mirror-lk ([LAUGFS lowers 12.5kg cylinder price by Rs.1,050](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/914dd9e3.json))
 
-## Last 24 Hours (200 Articles)
+## Last 24 Hours (198 Articles)
 
 * **40** lankadeepa-lk ([කෝටි 24 කොකේන් සමග පෝලන්ත ජාතිකයා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68c8b78e.json))
 
 * **34** ada-lk ([යුවාන් වැංග් 5 කිසිඳු රටක බලපෑමකට ලක් නොවිය යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd8a167f.json))
 
-* **27** tamil-mirror-lk ([கோட்டாவின் செலவுகளை ஏற்றது அரசாங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2856c05.json))
+* **26** tamil-mirror-lk ([மன்னார், பூநகரியில் காற்றாலை: அதானி குழுமத்துக்கு அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1868f7fb.json))
 
-* **24** daily-mirror-lk ([No contribution was made by govt. for fmr prez’s foreign tours](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a4327ea.json))
+* **23** daily-mirror-lk ([Aragalaya is far from over](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c478b17d.json))
 
 * **23** news-first-lk ([Rainfall in many areas tonight (17)](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba7905ec.json))
 
