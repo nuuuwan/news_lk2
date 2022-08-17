@@ -1,18 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-18 01:40:36 (LK time)*
+*As of 2022-08-18 02:02:54 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (2 Articles)
 
 * **2** daily-mirror-lk ([Structural change, modernisation and IMF bailout](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3935747.json))
-
-## Last Hour (3 Articles)
-
-* **2** daily-mirror-lk ([Structural change, modernisation and IMF bailout](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3935747.json))
-
-* **1** ada-derana-lk ([UNDCO Regional Director for Asia-Pacific calls on Minister Ali Sabry](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7bba1c3f.json))
 
 ## Last 3 Hours (6 Articles)
 
@@ -22,13 +16,13 @@
 
 * **1** tamil-mirror-lk ([‘ஜனாதிபதியானால் ஹிருணிகாவை அடித்து நிர்வாணப்படுத்தியிருப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e08f818.json))
 
-## Last 24 Hours (192 Articles)
+## Last 24 Hours (190 Articles)
 
 * **40** lankadeepa-lk ([කෝටි 24 කොකේන් සමග පෝලන්ත ජාතිකයා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68c8b78e.json))
 
 * **32** ada-lk ([ඩයස්පෝරාවේ සහාය ගන්න ඩයස්පෝරා කාර්යාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdae4c18.json))
 
-* **25** daily-mirror-lk ([Aragalaya is far from over](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c478b17d.json))
+* **23** daily-mirror-lk ([Govt. seeks multi-party consensus to set up private universities](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/014cf39e.json))
 
 * **23** tamil-mirror-lk ([இலங்கைக்கு வந்த இந்தியாவின் பிரபல நடிகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59d17895.json))
 
