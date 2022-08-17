@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-down-for-second-session-on-profit-taking-after-gaining-rally-98710/",
+    "time_ut": 1660753080,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks down for second session on profit taking after gaining rally",
+    "file_name": "/tmp/news_lk2/articles/71/71966c90.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2-\u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5\u0dad\u0dca-\u0dc4\u0dcf\u0db1\u0dca\u0dc3\u0dd2\u0dba\u0dd2---\u0d9c\u0dd9\u0da9\u0dd2\u0dba\u0d9a\u0dca-700-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/11-396389",
+    "time_ut": 1660752034,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5\u0dad\u0dca \u0dc4\u0dcf\u0db1\u0dca\u0dc3\u0dd2\u0dba\u0dd2 - \u0d9c\u0dd9\u0da9\u0dd2\u0dba\u0d9a\u0dca 700 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/cf/cfa439e1.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dbd\u0dcf\u0dc6\u0dca-\u0d9c\u0dd1\u0dc3\u0dca\u0dc0\u0dbd-\u2019\u0d9c\u0dd1\u0dc3\u0dca\u2019-\u0db6\u0dc3\u0dd2\u0dba\u0dd2/11-396388",
     "time_ut": 1660751498,
@@ -54,6 +70,14 @@
     "original_lang": "en",
     "original_title": "Laugfs Gas drops price of domestic gas cylinder",
     "file_name": "/tmp/news_lk2/articles/91/91570bb3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd2\u0db8\u0dbd\u0dca---\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf-\u0dba\u0dc5\u0dd2-\u0dc0\u0dd0\u0da9/1-618299",
+    "time_ut": 1660749045,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd2\u0db8\u0dbd\u0dca - \u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0dba\u0dc5\u0dd2 \u0dc0\u0dd0\u0da9",
+    "file_name": "/tmp/news_lk2/articles/02/02e403a5.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "\u201cThe law will be applied equally to the people who attacked the peaceful protesters on 9th May and those who are engaging in violence and terrorism under the guise of the struggle. I will ensure that there is no political intervention in this process,\u201d-President Ranil Wickremesinghe in  his Policy Speech",
     "file_name": "/tmp/news_lk2/articles/2e/2e9e85f9.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Port-City-Colombo-SEZ-showcased-at-Commonwealth-Business-Forum-2022-Kigali-Rwanda/34-738365",
-    "time_ut": 1659724973,
-    "original_lang": "en",
-    "original_title": "Port City Colombo SEZ showcased at Commonwealth Business Forum 2022 Kigali, Rwanda",
-    "file_name": "/tmp/news_lk2/articles/3c/3c35041f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/LCB-Finance-opens-Kegalle-Branch/34-738364",
-    "time_ut": 1659724906,
-    "original_lang": "en",
-    "original_title": "LCB Finance opens Kegalle Branch",
-    "file_name": "/tmp/news_lk2/articles/dd/dd42b498.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/BOI-to-host-Partnership-Finder-to-help-investor-find-new-business-partners/34-738363",
-    "time_ut": 1659724857,
-    "original_lang": "en",
-    "original_title": "BOI to host \u201cPartnership Finder\u201d to help investor find new business partners",
-    "file_name": "/tmp/news_lk2/articles/48/48b75d1d.json"
   }
 ]
