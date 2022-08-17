@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda-\u0db4\u0dd2\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0dca-\u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca/101-618287",
+    "time_ut": 1660734214,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda \u0db4\u0dd2\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/08/08c546a5.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0d9a\u0dd4\u0dab\u0dd4-\u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda-\u0db4\u0dd2\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0dca-\u0dc3\u0dc4-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8-\u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca/101-618286",
+    "time_ut": 1660734143,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda \u0db4\u0dd2\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0dc3\u0dc4 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8 \u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/af/afb8aea8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/jacqueline-fernandez-named-as-accused-in-laundering-case/",
+    "time_ut": 1660733940,
+    "original_lang": "en",
+    "original_title": "Jacqueline Fernandez Named As Accused In Laundering Case",
+    "file_name": "/tmp/news_lk2/articles/79/79b39215.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd8\u0dad\u0dd2\u0db8-\u0dc3\u0dd2\u0d82\u0da0\u0db1-\u0db1\u0dd0\u0dad\u0dd2\u0dc0-\u0d9a\u0dd2\u0dbb\u0dd2-\u0d9c\u0ddc\u0dc0\u0dd2\u0dba\u0ddd\u0dad\u0dca-\u0d85\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0dda/101-618285",
+    "time_ut": 1660733840,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd8\u0dad\u0dd2\u0db8 \u0dc3\u0dd2\u0d82\u0da0\u0db1 \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0d9a\u0dd2\u0dbb\u0dd2 \u0d9c\u0ddc\u0dc0\u0dd2\u0dba\u0ddd\u0dad\u0dca \u0d85\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/ed/ed56dd2b.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Lets-defeat-divisive-conspiracy/342-243236",
+    "url": "https://www.dailymirror.lk/caption_story/Lets-defeat-divisive-conspiracy/110-243236",
     "time_ut": 1660733075,
     "original_lang": "en",
     "original_title": "Let\u2019s defeat divisive conspiracy...",
-    "file_name": "/tmp/news_lk2/articles/a8/a83a9ab6.json"
+    "file_name": "/tmp/news_lk2/articles/f3/f3416f07.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -5753,11 +5785,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Arms-drug-seizure-from-Lankan-boat-Accused-raised-funds-to-revive-LTTE-says-NIA/155-242992",
+    "url": "https://www.dailymirror.lk/breaking_news/Arms-drug-seizure-from-Lankan-boat-Accused-raised-funds-to-revive-LTTE-says-NIA/108-242992",
     "time_ut": 1660443809,
     "original_lang": "en",
     "original_title": "Arms, drug seizure from Lankan boat: Accused raised funds to revive LTTE, says NIA",
-    "file_name": "/tmp/news_lk2/articles/5f/5f17f974.json"
+    "file_name": "/tmp/news_lk2/articles/2d/2da5fcd1.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "How Kumar Gunaratnam alias \u201cGemunu\u201d Fought a Guerilla War  against the Indian Army in Trinco",
     "file_name": "/tmp/news_lk2/articles/55/55349e5b.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78822",
-    "time_ut": 1659294360,
-    "original_lang": "en",
-    "original_title": "The most barbaric act of arson and vandalism by the so called \u201cpeaceful protesters\u201d was the burning of  then Prime Minister Ranil Wickremesinghe\u2019s     personal residence that housed thousands of books and rare objet d\u2019art",
-    "file_name": "/tmp/news_lk2/articles/ca/ca6522b9.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78820",
-    "time_ut": 1659293820,
-    "original_lang": "en",
-    "original_title": "National Movement for Social Justice Chairman Karu Jayasuriya  states  that a few inappropriate people who joined the \u201cAragalaya\u201d later disrupted the movement and caused violence;NMSJ cannot approve of the killing and harassing of people\u2019s representatives (MPs), burning their houses, and damaging other properties says Ex-speaker",
-    "file_name": "/tmp/news_lk2/articles/3d/3dc09bb2.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78810",
-    "time_ut": 1659293280,
-    "original_lang": "en",
-    "original_title": "Sri Lankan President Wickremesinghe Tells \u201cWall Street Journal\u201d that Ex-president Gotabaya Rajapaksa has not  told him he planned to return to Sri Lanka soon; \u201cI don\u2019t believe it\u2019s the time for him to return,I have no indication of him returning soon.\u201d Says Ranil",
-    "file_name": "/tmp/news_lk2/articles/ba/ba304be8.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78818",
-    "time_ut": 1659292740,
-    "original_lang": "en",
-    "original_title": "India  raises the scheduled visit of Chinese research vessel \u2018Yuan Wang 5\u2019 to  Hambantota with President Ranil Wickremesinghe,the matter \u201cwas raised at the highest level by the Indian side,\u201d an official source in Colombo tells  \u201cThe Hindu\u201d",
-    "file_name": "/tmp/news_lk2/articles/4a/4aeb23e6.json"
   }
 ]
