@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-18 00:08:07 (LK time)*
+*As of 2022-08-18 00:28:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -16,17 +16,17 @@
 
 * **2** economy-next-com ([Sri Lanka stocks down for second session on profit taking after gaining rally](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71966c90.json))
 
-* **2** ada-lk ([ලාෆ් ගෑස්වල ’ගෑස්’ බසියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa73966b.json))
+* **2** ada-lk ([අන්නාසි වෙළඳපොළත් හාන්සියි - ගෙඩියක් 700 ඉක්මවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfa439e1.json))
 
 * **1** ada-derana-lk ([President Ranil speaks to foreign media on plans to revive economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4bba30b.json))
 
 * **1** tamil-mirror-lk ([‘ஜனாதிபதியானால் ஹிருணிகாவை அடித்து நிர்வாணப்படுத்தியிருப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e08f818.json))
 
-## Last 24 Hours (189 Articles)
+## Last 24 Hours (188 Articles)
 
 * **40** lankadeepa-lk ([කෝටි 24 කොකේන් සමග පෝලන්ත ජාතිකයා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68c8b78e.json))
 
-* **32** ada-lk ([කෝටි 24ක හෙරොයින් සමග පෝලන්ත ජාතිකයෙක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f10908c5.json))
+* **32** ada-lk ([ඩයස්පෝරාවේ සහාය ගන්න ඩයස්පෝරා කාර්යාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdae4c18.json))
 
 * **23** tamil-mirror-lk ([இலங்கைக்கு வந்த இந்தியாவின் பிரபல நடிகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59d17895.json))
 
@@ -34,21 +34,21 @@
 
 * **23** news-first-lk ([Rainfall in many areas tonight (17)](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba7905ec.json))
 
-* **20** ada-derana-lk ([Foreign Minister briefs diplomatic corps on current developments](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/447fabfa.json))
+* **19** ada-derana-lk ([Showers or thundershowers expected in five provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc79d8bb.json))
 
 * **15** economy-next-com ([Sri Lanka to launch new weekend long-distance train and bus service](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50022422.json))
 
 * **13** daily-ft-lk ([Provisional approval for two Adani Group wind power projects worth $ 500 m](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27e54012.json))
 
-## Last Week (913 Articles)
+## Last Week (914 Articles)
 
 * **152** lankadeepa-lk ([ලෝක බැංකුවේ  අදහසටත් සවන්දෙමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31f9a927.json))
 
 * **128** daily-mirror-lk ([Lanka on the horns of dilemma](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e851394a.json))
 
-* **116** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
+* **116** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
 
-* **115** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
+* **116** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
 * **94** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
@@ -64,11 +64,11 @@
 
 * **16** colombo-telegraph-com ([The Aragalaya & Morality](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9788f39.json))
 
-## All Time (1,253 Articles)
+## All Time (1,254 Articles)
 
 * **217** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **173** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **174** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **172** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
