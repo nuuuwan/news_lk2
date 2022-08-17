@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0db4\u0d9a\u0dca\u0dc2-\u0dc0\u0dbd\u0da7-\u0dbb\u0da7-\u0db1\u0da7\u0dc0\u0db1\u0dca\u0db1-\u0d89\u0da9-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0db6\u0dd1/101-618266",
+    "time_ut": 1660720892,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0db4\u0d9a\u0dca\u0dc2 \u0dc0\u0dbd\u0da7 \u0dbb\u0da7 \u0db1\u0da7\u0dc0\u0db1\u0dca\u0db1 \u0d89\u0da9 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db6\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/a7/a7ae0354.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0db8\u0dda-\u0dc0\u0dd9\u0dbd\u0dcf\u0dc0\u0dda-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0da5\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0d9a\u0dc5\u0dd4-\u0dc3\u0dd4\u0daf\u0dd4-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0dc4\u0ddc\u0db3-\u0db1\u0dd1\u2019\u2019/101-618262",
+    "time_ut": 1660720250,
+    "original_lang": "si",
+    "original_title": "\u2019\u2019\u0db8\u0dda \u0dc0\u0dd9\u0dbd\u0dcf\u0dc0\u0dda \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0da5\u0dba\u0db1\u0dca\u0d9c\u0dda \u0d9a\u0dc5\u0dd4 \u0dc3\u0dd4\u0daf\u0dd4 \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0dc4\u0ddc\u0db3 \u0db1\u0dd1\u2019\u2019",
+    "file_name": "/tmp/news_lk2/articles/be/be32e728.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Actor-Jacqueline-Fernandez-is-now-an-accused-in-INR-200-Crore-extortion-case/108-243228",
+    "time_ut": 1660720015,
+    "original_lang": "en",
+    "original_title": "Actor Jacqueline Fernandez is now an accused in INR 200-Crore extortion case",
+    "file_name": "/tmp/news_lk2/articles/3b/3b695fee.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-shares-slip-over-2-pct-in-mid-day-trade-98693/",
     "time_ut": 1660719000,
