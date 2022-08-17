@@ -1,14 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-18 04:04:51 (LK time)*
+*As of 2022-08-18 04:38:30 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (2 Articles)
-
-* **2** daily-mirror-lk ([Structural change, modernisation and IMF bailout](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3935747.json))
-
-## Last 24 Hours (176 Articles)
+## Last 24 Hours (174 Articles)
 
 * **40** lankadeepa-lk ([කෝටි 24 කොකේන් සමග පෝලන්ත ජාතිකයා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68c8b78e.json))
 
@@ -23,8 +19,6 @@
 * **20** daily-mirror-lk ([Discussing changes?](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c28cd35.json))
 
 * **15** economy-next-com ([Sri Lanka to launch new weekend long-distance train and bus service](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50022422.json))
-
-* **2** daily-ft-lk ([Resetting Sri Lanka and the inadequacy of 22A](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54ca4307.json))
 
 ## Last Week (915 Articles)
 
