@@ -1,11 +1,67 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-launch-new-weekend-long-distance-train-and-bus-service-98690/",
+    "time_ut": 1660709880,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to launch new weekend long-distance train and bus service",
+    "file_name": "/tmp/news_lk2/articles/50/50022422.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/120-000-mt-of-crude-oil-to-reach-sl-on-29th/",
+    "time_ut": 1660709700,
+    "original_lang": "en",
+    "original_title": "120,000 MT of crude oil to reach SL on 29th",
+    "file_name": "/tmp/news_lk2/articles/3c/3cb10a87.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bc2\u0bb2\u0bbf\u0baf\u0ba9\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0b99\u0bcd-\u0b9c\u0bca\u0ba9\u0bbe\u0ba4\u0ba9\u0bcd-CID\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8/175-302474",
+    "time_ut": 1660709286,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0bc2\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0b99\u0bcd, \u0b9c\u0bca\u0ba9\u0bbe\u0ba4\u0ba9\u0bcd CID\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/98/9867c9f8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/julian-bolling-jonathan-martenstyn-at-cid/",
+    "time_ut": 1660708800,
+    "original_lang": "en",
+    "original_title": "Julian Bolling & Jonathan Martenstyn at CID",
+    "file_name": "/tmp/news_lk2/articles/83/83a179d9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/illegally-hoarded-470-l-of-petrol-seized/",
+    "time_ut": 1660708740,
+    "original_lang": "en",
+    "original_title": "Illegally hoarded 470 L of Petrol seized",
+    "file_name": "/tmp/news_lk2/articles/ff/ff83ee38.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Polish-national-arrested-at-BIA-with-cocaine-worth-Rs-245mn/342-243219",
+    "time_ut": 1660708025,
+    "original_lang": "en",
+    "original_title": "Polish national arrested at BIA with cocaine worth Rs.245mn",
+    "file_name": "/tmp/news_lk2/articles/fd/fd8fc8a7.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/17/ex-president-using-personal-funds-for-overseas-travel-expenses/",
     "time_ut": 1660707480,
     "original_lang": "en",
     "original_title": "Ex-President using personal funds for overseas travel expenses",
     "file_name": "/tmp/news_lk2/articles/38/38073941.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0db1\u0dca-\u0dc4\u0dcf-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1-\u0d85\u0dc3\u0dcf\u0db0\u0dd4-\u0dbd\u0dda\u0d9b\u0db1\u0d9c\u0dad-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0dc4\u0dcf-\u0d89\u0dc0\u0dad\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca/11-396356",
+    "time_ut": 1660707439,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0db1\u0dca \u0dc4\u0dcf \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1 \u0d85\u0dc3\u0dcf\u0db0\u0dd4 \u0dbd\u0dda\u0d9b\u0db1\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc4\u0dcf \u0d89\u0dc0\u0dad\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/b0/b02a8869.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "If Gotabaya Resigns on July 13, Parliament would be summoned on July 15.  nominations for Presidency would be made on July 19 and a parliamentary vote will be held on July 20 to elect a new President",
     "file_name": "/tmp/news_lk2/articles/8d/8d86e4f0.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/torching-ranils-residence-questions-surface-about-another-arabi-wasantha-incident/",
-    "time_ut": 1657429099,
-    "original_lang": "en",
-    "original_title": "Torching Ranil\u2019s Residence: Questions Surface About Another \u2018Arabi Wasantha\u2019 Incident",
-    "file_name": "/tmp/news_lk2/articles/37/37b7150e.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78489",
-    "time_ut": 1657395660,
-    "original_lang": "en",
-    "original_title": "Dragged into the darkness by dictatorship, democracy is the only way out into the light",
-    "file_name": "/tmp/news_lk2/articles/45/455f55dd.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78512",
-    "time_ut": 1657394640,
-    "original_lang": "en",
-    "original_title": "UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support",
-    "file_name": "/tmp/news_lk2/articles/87/87c39278.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/leaked-security-deployment-plans-to-obstruct-july-9-protests/",
-    "time_ut": 1657386245,
-    "original_lang": "en",
-    "original_title": "Leaked: Security Deployment Plans To Obstruct July 9 Protests",
-    "file_name": "/tmp/news_lk2/articles/15/15c7a6d7.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/lankas-misery-should-be-warning-to-us-all-on-global-food-fuel-and-finance-crisis-undp/",
-    "time_ut": 1657376520,
-    "original_lang": "en",
-    "original_title": "Lanka\u2019s misery should be warning to us all on global food, fuel and finance crisis: UNDP",
-    "file_name": "/tmp/news_lk2/articles/56/564b2893.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0daf\u0dd4\u0db1\u0dca-\u0dc3\u0db8\u0dcf\u0d9a\u0dcf\u0dbd\u0dba\u0da7-\u0dc3\u0dad\u0dd2-\u0daf\u0dd9\u0d9a\u0d9a\u0dca/7-395240",
-    "time_ut": 1657328050,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0daf\u0dd4\u0db1\u0dca \u0dc3\u0db8\u0dcf\u0d9a\u0dcf\u0dbd\u0dba\u0da7 \u0dc3\u0dad\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/78/7880ac84.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0d85\u0db4\u0dc4\u0dcf\u0dc3-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0d85\u0dbd\u0dd4\u200d\u0dad\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d9a\u0dcf\u0dbd\u0ddd\u0da0\u0dd2\u0dad\u0dba\u0dd2/2-616039",
-    "time_ut": 1657255054,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db4\u0dc4\u0dcf\u0dc3 \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0d85\u0dbd\u0dd4\u200d\u0dad\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d9a\u0dcf\u0dbd\u0ddd\u0da0\u0dd2\u0dad\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/2e/2e6d37eb.json"
   }
 ]
