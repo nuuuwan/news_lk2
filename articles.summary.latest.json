@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-rupee-guidance-peg-yields-in-t-bonds-little-changed-ahead-of-cb-policy-rates-announcement-98711/",
+    "time_ut": 1660753800,
+    "original_lang": "en",
+    "original_title": "Sri Lanka rupee guidance peg, yields in T-bonds little changed ahead of CB policy rates announcement",
+    "file_name": "/tmp/news_lk2/articles/d7/d74f5c4b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-stocks-down-for-second-session-on-profit-taking-after-gaining-rally-98710/",
     "time_ut": 1660753080,
     "original_lang": "en",
@@ -22,6 +30,14 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0dcf\u0dc6\u0dca \u0d9c\u0dd1\u0dc3\u0dca\u0dc0\u0dbd \u2019\u0d9c\u0dd1\u0dc3\u0dca\u2019 \u0db6\u0dc3\u0dd2\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/aa/aa73966b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84366/laugfs-slashes-domestic-gas-prices-",
+    "time_ut": 1660749960,
+    "original_lang": "en",
+    "original_title": "Laugfs slashes domestic gas prices",
+    "file_name": "/tmp/news_lk2/articles/45/452596bb.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -174,6 +190,14 @@
     "original_lang": "en",
     "original_title": "CPC to begin refinery operations this week to operate without any interruptions",
     "file_name": "/tmp/news_lk2/articles/cc/cc9fe9be.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dca\u0dae\u0dd2\u0dbb-\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca\u0da7\u0dd4\u0dc0-\u0dbd\u0db6\u0db1-\u0dc3\u0dad\u0dd2\u0dba\u0dda/101-618295",
+    "time_ut": 1660741700,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dca\u0dae\u0dd2\u0dbb \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca\u0da7\u0dd4\u0dc0 \u0dbd\u0db6\u0db1 \u0dc3\u0dad\u0dd2\u0dba\u0dda",
+    "file_name": "/tmp/news_lk2/articles/91/91892545.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka Rescinds Permission Given for Chinese Vessel \u201cYuan Wang 5\u201d to dock at Hambantota for Replenishment: \u201cThe Ministry requests that the arrival date of the vessel Yuan Wang 5 in Hambantota be deferred until further consultations are made on this matter,\u201d  says  Lankan  Foreign Ministry note;Chinese Envoy Protests to President Wickremesinghe",
     "file_name": "/tmp/news_lk2/articles/28/28ff3e83.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78881",
-    "time_ut": 1659726900,
-    "original_lang": "en",
-    "original_title": "SJB Leader and Leader of the Opposition Sajith Premadasa  Keeps Away from the  Tea Party Given by President Ranil Wickremesinghe after his policy speech in Parliament",
-    "file_name": "/tmp/news_lk2/articles/39/395ee988.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78883",
-    "time_ut": 1659726360,
-    "original_lang": "en",
-    "original_title": "Majority of  recent shootings are  related to drug trade wars and  settling of old scores says Police Spokesman; mostly unidentified   bodies  washing up in beaches due to death by drowning  have no indication  of  murder or assault injuries.",
-    "file_name": "/tmp/news_lk2/articles/5b/5b915dee.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78885",
-    "time_ut": 1659725820,
-    "original_lang": "en",
-    "original_title": "\u201cThe law will be applied equally to the people who attacked the peaceful protesters on 9th May and those who are engaging in violence and terrorism under the guise of the struggle. I will ensure that there is no political intervention in this process,\u201d-President Ranil Wickremesinghe in  his Policy Speech",
-    "file_name": "/tmp/news_lk2/articles/2e/2e9e85f9.json"
   }
 ]
