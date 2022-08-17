@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84365/coronavirus-161-new-cases-and-five-more-deaths-confirmed",
+    "time_ut": 1660743060,
+    "original_lang": "en",
+    "original_title": "Coronavirus: 161 new cases and five more deaths confirmed",
+    "file_name": "/tmp/news_lk2/articles/61/615b5459.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0b95\u0bcb-\u0b95\u0bae-\u0bae\u0bbe\u0baf\u0bae\u0bbe\u0ba9\u0ba4\u0bc1/95-302503",
+    "time_ut": 1660742859,
+    "original_lang": "ta",
+    "original_title": "\u2019 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b95\u0bcb \u0b95\u0bae\u2019 \u0bae\u0bbe\u0baf\u0bae\u0bbe\u0ba9\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/9b/9b016e04.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84364/cpc-to-begin-refinery-operations-this-week-to-operate-without-any-interruptions",
     "time_ut": 1660741860,
     "original_lang": "en",
