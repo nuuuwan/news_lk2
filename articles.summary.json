@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-partners-with-usaid-to-convert-petrol-run-tuktuks-to-electricity-98704/",
+    "time_ut": 1660735980,
+    "original_lang": "en",
+    "original_title": "Sri Lanka partners with USAID to convert petrol-run tuktuks to electricity",
+    "file_name": "/tmp/news_lk2/articles/47/4724c98e.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0dd2\u0db1\u0dca-\u0db4\u0dc3\u0dd4-\u0db0\u0dd3\u0dc0\u0dbb-\u0dc0\u0dcf\u0da9\u0dd2\u0dba\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0db6\u0dad\u0dd2/1-618291",
     "time_ut": 1660735498,
@@ -104,6 +112,14 @@
     "file_name": "/tmp/news_lk2/articles/20/20ba9e30.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba-24\u0daf\u0dcf-\u0d91\u0db1\u0dc0\u0dcf/11-396383",
+    "time_ut": 1660732382,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba 24\u0daf\u0dcf \u0d91\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/14/14790991.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/17/jaaf-requests-pucsl-to-re-assess-off-peak-tariff-rates/",
     "time_ut": 1660732260,
@@ -118,6 +134,14 @@
     "original_lang": "en",
     "original_title": "Passenger, Duty Free shop staffer held with 9.5 kg of gold bars",
     "file_name": "/tmp/news_lk2/articles/90/904aa23b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd-17-\u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bc6\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302501",
+    "time_ut": 1660732070,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd: 17 \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bc6\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a6/a65a4772.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -161,19 +185,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Collective-effort-to-bust-human-smuggling-rackets-using-visit-visas-Manusha/342-243232",
-    "time_ut": 1660730950,
-    "original_lang": "en",
-    "original_title": "Collective effort to bust human smuggling rackets using visit visas: Manusha",
-    "file_name": "/tmp/news_lk2/articles/40/40f4caeb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Decision-taken-to-stop-human-smuggling-rackets-operating-with-the-use-of-visit-visas-Manusha/342-243232",
     "time_ut": 1660730950,
     "original_lang": "en",
     "original_title": "Decision taken to stop human smuggling rackets operating with the use of visit visas: Manusha",
     "file_name": "/tmp/news_lk2/articles/09/09217c53.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Collective-effort-to-bust-human-smuggling-rackets-using-visit-visas-Manusha/342-243232",
+    "time_ut": 1660730950,
+    "original_lang": "en",
+    "original_title": "Collective effort to bust human smuggling rackets using visit visas: Manusha",
+    "file_name": "/tmp/news_lk2/articles/40/40f4caeb.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
