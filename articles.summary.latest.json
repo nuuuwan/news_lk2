@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Lets-defeat-divisive-conspiracy/342-243236",
+    "time_ut": 1660733075,
+    "original_lang": "en",
+    "original_title": "Let\u2019s defeat divisive conspiracy...",
+    "file_name": "/tmp/news_lk2/articles/a8/a83a9ab6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/multiple-bomb-arson-attacks-rock-thailand-s-south/",
+    "time_ut": 1660732740,
+    "original_lang": "en",
+    "original_title": "Multiple bomb, arson attacks rock Thailand\u2019s south",
+    "file_name": "/tmp/news_lk2/articles/4a/4ae8858c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Waiting-to-buy-wings-to-Korea/342-243235",
+    "time_ut": 1660732710,
+    "original_lang": "en",
+    "original_title": "Waiting to buy wings to Korea....",
+    "file_name": "/tmp/news_lk2/articles/f3/f354951c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84361/un-sri-lanka-sign-sustainable-development-cooperation-framework",
+    "time_ut": 1660732500,
+    "original_lang": "en",
+    "original_title": "UN, Sri Lanka sign Sustainable Development Cooperation Framework",
+    "file_name": "/tmp/news_lk2/articles/20/20ba9e30.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/jaaf-requests-pucsl-to-re-assess-off-peak-tariff-rates/",
+    "time_ut": 1660732260,
+    "original_lang": "en",
+    "original_title": "JAAF requests PUCSL to re-assess off-peak tariff rates",
+    "file_name": "/tmp/news_lk2/articles/5b/5bbbc0fd.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84360/passenger-duty-free-shop-staffer-held-with-95-kg-of-gold-bars",
     "time_ut": 1660732260,
@@ -24,12 +64,12 @@
     "file_name": "/tmp/news_lk2/articles/8e/8ee4d975.json"
   },
   {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Multiple-bomb-arson-attacks-rock-Thailands-south/342-243234",
-    "time_ut": 1660731620,
-    "original_lang": "en",
-    "original_title": "Multiple bomb, arson attacks rock Thailand\u2019s south",
-    "file_name": "/tmp/news_lk2/articles/23/23619456.json"
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8-\u0db0\u0dd3\u0dc0\u0dbb-\u0dc0\u0dcf\u0da9\u0dd2\u0dba\u0d9a\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0d9a\u0ddd\u0da7\u0dd2\u0dba\u0d9a-\u0db4\u0dcf\u0da9\u0dd4\u0dc0\u0d9a\u0dca/11-396382",
+    "time_ut": 1660731508,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0db0\u0dd3\u0dc0\u0dbb \u0dc0\u0dcf\u0da9\u0dd2\u0dba\u0d9a\u0da7 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0d9a\u0ddd\u0da7\u0dd2\u0dba\u0d9a \u0db4\u0dcf\u0da9\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/e2/e26845c2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -41,11 +81,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Decision-taken-to-stop-human-smuggling-rackets-operating-with-the-use-of-visit-visas-Manusha/108-243232",
+    "url": "https://www.dailymirror.lk/latest_news/Decision-taken-to-stop-human-smuggling-rackets-operating-with-the-use-of-visit-visas-Manusha/342-243232",
     "time_ut": 1660730950,
     "original_lang": "en",
     "original_title": "Decision taken to stop human smuggling rackets operating with the use of visit visas: Manusha",
-    "file_name": "/tmp/news_lk2/articles/a4/a4a642f1.json"
+    "file_name": "/tmp/news_lk2/articles/09/09217c53.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -153,11 +193,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Ban-on-organizations-removed-in-accordance-with-UN-Charter-Presidents-office/108-243231",
+    "url": "https://www.dailymirror.lk/latest_news/Ban-on-organizations-removed-in-accordance-with-UN-Charter-Presidents-office/342-243231",
     "time_ut": 1660727377,
     "original_lang": "en",
     "original_title": "Ban on organizations removed in accordance with UN Charter: Presidents office",
-    "file_name": "/tmp/news_lk2/articles/f2/f2bee308.json"
+    "file_name": "/tmp/news_lk2/articles/6b/6bc37485.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "India  raises the scheduled visit of Chinese research vessel \u2018Yuan Wang 5\u2019 to  Hambantota with President Ranil Wickremesinghe,the matter \u201cwas raised at the highest level by the Indian side,\u201d an official source in Colombo tells  \u201cThe Hindu\u201d",
     "file_name": "/tmp/news_lk2/articles/4a/4aeb23e6.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/26-6-million-of-sri-lankan-taxpayers-money-spent-on-former-prime-minister-mahinda-rajapaksas-trip-to-italy/",
-    "time_ut": 1659239214,
-    "original_lang": "en",
-    "original_title": "26.6 Million Of Sri Lankan Taxpayers\u2019 Money Spent On Former Prime Minister Mahinda Rajapaksa\u2019s Trip To Italy",
-    "file_name": "/tmp/news_lk2/articles/d0/d099f422.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/twisting-the-aragalaya-into-what-it-is-not/",
-    "time_ut": 1659190560,
-    "original_lang": "en",
-    "original_title": "Twisting the aragalaya into what it is not",
-    "file_name": "/tmp/news_lk2/articles/c0/c0d455ef.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/thaksalawa/\u0d89\u0dc0\u0dad-\u0daf\u0db8\u0db1-\u0db4\u0dca\u0dbd\u0dcf\u0dc3\u0dca\u0da7\u0dd2\u0d9a\u0dca-\u0db6\u0ddd\u0dad\u0dbd\u0dd9\u0db1\u0dca-\u0dbb\u0da7\u0da7-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0d9c\u0dd9\u0db1\u0dd9\u0db1-\u0dbb\u0da2-\u0dc0\u0dd0\u0da9-\u0d9a\u0dcf\u0dbb\u0dba\u0ddd/55-617291",
-    "time_ut": 1659170333,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0dc0\u0dad \u0daf\u0db8\u0db1 \u0db4\u0dca\u0dbd\u0dcf\u0dc3\u0dca\u0da7\u0dd2\u0d9a\u0dca \u0db6\u0ddd\u0dad\u0dbd\u0dd9\u0db1\u0dca \u0dbb\u0da7\u0da7 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0d9c\u0dd9\u0db1\u0dd9\u0db1 \u0dbb\u0da2 \u0dc0\u0dd0\u0da9 \u0d9a\u0dcf\u0dbb\u0dba\u0ddd",
-    "file_name": "/tmp/news_lk2/articles/b8/b8bddba2.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/thaksalawa/\u0dad\u0dd9\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0db8\u0dbb\u0dab-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1-\u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0d9a\u0dca/55-617289",
-    "time_ut": 1659169811,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dd9\u0dbd\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0db8\u0dbb\u0dab \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1 \u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/cc/ccf2eb4b.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0d91\u0d9a\u0dad\u0dd0\u0db1-\u0db4\u0dbd\u0dca\u0dc0\u0dd9\u0dbd-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba/2-617284",
-    "time_ut": 1659160490,
-    "original_lang": "si",
-    "original_title": "\u0d91\u0d9a\u0dad\u0dd0\u0db1 \u0db4\u0dbd\u0dca\u0dc0\u0dd9\u0dbd \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba",
-    "file_name": "/tmp/news_lk2/articles/5b/5bc35b10.json"
   }
 ]

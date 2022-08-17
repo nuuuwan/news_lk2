@@ -1,0 +1,621 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/latest_news/Ban-on-organizations-removed-in-accordance-with-UN-Charter-Presidents-office/342-243231",
+  "time_ut": 1660727377,
+  "original_lang": "en",
+  "original_title": "Ban on organizations removed in accordance with UN Charter: Presidents office",
+  "text_idx": {
+    "en": {
+      "title": "Ban on organizations removed in accordance with UN Charter: Presidents office",
+      "author": "unknown",
+      "body_lines": [
+        "Ban of six organizations was removed in accordance with the charter on prevention of terrorism which have been approved by UN security Council, President\u2019s office said today.",
+        "\u201cThe decision was made to remove the ban of six organizations as per the UN resolutions 1758/19 of May 15 2012. As per the resolution Secretary Ministry of Defence was appointed as the competent authority of implementing the process of living bans on organizations. He was appointed as per an agreement reached between Minister of Defence and Minister of Foreign Affairs,\u201d a statement released from President\u2019s Office said.",
+        "\u201cThe Secretary Ministry of Defence will have to appoint a committee which comprises representatives of Ministry of Foreign Affairs, Attorney General\u2019s Department, intelligence units, law enforcement institutions and financial investigation unit of Central Bank to look into the organizations which are to be banned and study how they have funded terrorism over the years and make recommendations on prohibiting them. The monitoring pertaining to lifting of bans on six institutions began in March this year,\u201d the statement added.",
+        "Therefore the bans have been lifted on Global Tamil Forum (GTF) Australian Tamil Congress (ATC), Global Tamil Coordination Committee, Tamil Ealam People\u2019s Assembly, British Tamil Federation (BTF) and Canadian Tamil Congress (CTC).",
+        "Those which are blacklisted by the recent gazette notification include the LTTE, Tamil Rehabilitation Organization (TRO), Tamil Coordination Committee (TCC), World Tamil Movement (WTM), Transnational Government of the Tamil Eelam (TGTE), World Tamil Relief Fund (WTRF), Head Quarters Group (HQG), National Council of Canadian Tamils ( NCCT), Tamil Youth Organization (TYO), National Towheed Jamath (NTJ), Jamaat Millate Ibrahim (JMI), Wilayan As Seylaini (WAS), Dalur Adar (DR), Sri Lanka Islam Students Movement (SLISM) and Save the Pearl etc., (Yohan Perera)"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "six",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UN",
+            "label": "ORG"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "six",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UN",
+            "label": "ORG"
+          },
+          {
+            "text": "1758/19",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "May 15 2012",
+            "label": "DATE"
+          },
+          {
+            "text": "Ministry of Defence",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Ministry of Defence",
+            "label": "ORG"
+          },
+          {
+            "text": "Ministry of Foreign Affairs",
+            "label": "ORG"
+          },
+          {
+            "text": "General\u2019s Department",
+            "label": "ORG"
+          },
+          {
+            "text": "Central Bank",
+            "label": "ORG"
+          },
+          {
+            "text": "the years",
+            "label": "DATE"
+          },
+          {
+            "text": "six",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "March this year",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Global Tamil Forum",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Global Tamil Coordination Committee",
+            "label": "ORG"
+          },
+          {
+            "text": "Tamil Ealam People\u2019s Assembly",
+            "label": "ORG"
+          },
+          {
+            "text": "British Tamil Federation",
+            "label": "ORG"
+          },
+          {
+            "text": "BTF",
+            "label": "ORG"
+          },
+          {
+            "text": "Canadian Tamil Congress",
+            "label": "ORG"
+          },
+          {
+            "text": "CTC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "LTTE",
+            "label": "ORG"
+          },
+          {
+            "text": "Tamil Rehabilitation Organization",
+            "label": "ORG"
+          },
+          {
+            "text": "Tamil Coordination Committee",
+            "label": "ORG"
+          },
+          {
+            "text": "TCC",
+            "label": "ORG"
+          },
+          {
+            "text": "World Tamil Movement",
+            "label": "ORG"
+          },
+          {
+            "text": "World Tamil Relief Fund",
+            "label": "ORG"
+          },
+          {
+            "text": "WTRF",
+            "label": "ORG"
+          },
+          {
+            "text": "Head Quarters Group",
+            "label": "ORG"
+          },
+          {
+            "text": "HQG",
+            "label": "ORG"
+          },
+          {
+            "text": "National Council of Canadian Tamils",
+            "label": "ORG"
+          },
+          {
+            "text": "NCCT",
+            "label": "ORG"
+          },
+          {
+            "text": "Tamil Youth Organization",
+            "label": "ORG"
+          },
+          {
+            "text": "TYO",
+            "label": "ORG"
+          },
+          {
+            "text": "NTJ",
+            "label": "ORG"
+          },
+          {
+            "text": "Millate Ibrahim",
+            "label": "PERSON"
+          },
+          {
+            "text": "JMI",
+            "label": "ORG"
+          },
+          {
+            "text": "Wilayan",
+            "label": "NORP"
+          },
+          {
+            "text": "Seylaini",
+            "label": "PERSON"
+          },
+          {
+            "text": "Dalur Adar",
+            "label": "PERSON"
+          },
+          {
+            "text": "DR",
+            "label": "GPE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "Pearl",
+            "label": "PERSON"
+          },
+          {
+            "text": "Yohan Perera",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0da5\u0db4\u0dca\u0dad\u0dd2\u0dba\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1 \u0dad\u0dc4\u0db1\u0db8 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dd9\u0dbb\u0dda: \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d85\u0db1\u0dd4\u0db8\u0dad \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0dca\u200d\u0dbb\u0da5\u0db4\u0dca\u0dad\u0dd2\u0dba\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1 \u0dc4\u0dba\u0d9a \u0dad\u0dc4\u0db1\u0db8 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dc5 \u0db6\u0dc0 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0d85\u0daf \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u201c2012 \u0db8\u0dd0\u0dba\u0dd2 15 \u0daf\u0dd2\u0db1 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda 1758/19 \u0dba\u0ddd\u0da2\u0db1\u0dcf \u0d85\u0db1\u0dd4\u0dc0 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1 \u0dc4\u0dba\u0d9a \u0dad\u0dc4\u0db1\u0db8 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3. \u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dc0\u0dbd\u0da7 \u0da2\u0dd3\u0dc0\u0db8\u0dcf\u0db1 \u0dad\u0dc4\u0db1\u0db8\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dbd\u0dd2\u0dba \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0db1\u0dd2\u0dc3\u0dd2 \u0db6\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0dba\u0dcf \u0dbd\u0dd9\u0dc3 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3. \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf \u0dc3\u0dc4 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf \u0d85\u0dad\u0dbb \u0d87\u0dad\u0dd2 \u0d9a\u0dbb\u0d9c\u0dad\u0dca \u0d91\u0d9a\u0d9f\u0dad\u0dcf\u0dc0\u0d9a\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0d94\u0dc4\u0dd4 \u0db4\u0dad\u0dca \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dc5 \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dda.",
+        "\u201c\u0dad\u0dc4\u0db1\u0db8\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0 \u0dc3\u0ddc\u0dba\u0dcf \u0db6\u0dd0\u0dbd\u0dd3\u0db8 \u0dc3\u0dc4 \u0d85\u0db0\u0dca\u200d\u0dba\u0dba\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba, \u0db1\u0dd3\u0dad\u0dd2\u0db4\u0dad\u0dd2 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0, \u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2 \u0d85\u0d82\u0dc1, \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dbb\u0db1 \u0d86\u0dba\u0dad\u0db1 \u0dc3\u0dc4 \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1 \u0d92\u0d9a\u0d9a\u0dba\u0dda \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0db1\u0dca\u0dc0\u0dd2\u0dad \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0dbd\u0dda\u0d9a\u0db8\u0dca\u0dc0\u0dbb\u0dba\u0dcf\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dda. \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0dc0\u0dc3\u0dbb \u0d9c\u0dab\u0db1\u0dcf\u0dc0\u0d9a\u0dca \u0dad\u0dd2\u0dc3\u0dca\u0dc3\u0dda \u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba\u0da7 \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc3\u0db4\u0dba\u0dcf \u0d87\u0dad\u0dd2 \u0d86\u0d9a\u0dcf\u0dbb\u0dba \u0dc3\u0dc4 \u0d92\u0dc0\u0dcf \u0dad\u0dc4\u0db1\u0db8\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8. \u0d86\u0dba\u0dad\u0db1 \u0dc4\u0dba\u0d9a\u0da7 \u0db4\u0db1\u0dc0\u0dcf \u0dad\u0dd2\u0db6\u0dd6 \u0dad\u0dc4\u0db1\u0db8 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0daf\u0dcf\u0dc5 \u0d85\u0db0\u0dd3\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba \u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4 \u0db8\u0dcf\u0dc3\u0dba\u0dda \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0dc0\u0dd4\u0dab\u0dcf.",
+        "\u0d91\u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dd2\u0da9 \u0dc3\u0d82\u0dc3\u0daf\u0dba (GTF) Australian Tamil Congress (ATC), Global Tamil Coordination Committee, Tamil Ealam People\u2019s Assembly, British Tamil Federation (BTF) \u0dc3\u0dc4 Canadian Tamil Congress (CTC) \u0dba\u0db1 \u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd \u0dad\u0dc4\u0db1\u0db8 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0db8\u0dd1\u0dad \u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0d9c\u0dd0\u0dc3\u0da7\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0d85\u0dc3\u0dcf\u0daf\u0dd4 \u0dbd\u0dda\u0d9b\u0db1\u0d9c\u0dad \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d92\u0dc0\u0dcf \u0d85\u0dad\u0dbb\u0da7 LTTE, \u0daf\u0dd9\u0db8\u0dc5 \u0db4\u0dd4\u0db1\u0dbb\u0dd4\u0dad\u0dca\u0dae\u0dcf\u0db4\u0db1 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba (TRO), \u0daf\u0dd9\u0db8\u0dc5 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dd3\u0d9a\u0dbb\u0dab \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0 (TCC), \u0dbd\u0ddd\u0d9a \u0daf\u0dd9\u0db8\u0dc5 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba (WTM), Transnational Government of Tamil Eelam (TGTE), World Tamil Relief Fund (WTRF) \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0dc0\u0dda. ), \u0db8\u0dd6\u0dbd\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0dc3\u0db8\u0dd6\u0dc4\u0dba (HQG), \u0d9a\u0dd0\u0db1\u0dda\u0da9\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dd9\u0db8\u0dc5 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba (NCCT), \u0daf\u0dd9\u0db8\u0dc5 \u0dad\u0dbb\u0dd4\u0dab \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba (TYO), \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dad\u0dc0\u0dca\u0dc4\u0dd3\u0da9\u0dca \u0da2\u0db8\u0dcf\u0dad\u0dca (NTJ), \u0da2\u0db8\u0dcf\u0dad\u0dca \u0db8\u0dd2\u0dbd\u0dda\u0da7\u0dca \u0d8a\u0db6\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0dd2\u0db8\u0dca (JMI), Wilayan As Seylaini (WAS), Dalur Adar (DR) ), \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d89\u0dc3\u0dca\u0dbd\u0dcf\u0db8\u0dca \u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba (SLISM) \u0dc3\u0dc4 \u0db8\u0dd4\u0dad\u0dd4 \u0dc3\u0dd4\u0dbb\u0dd0\u0d9a\u0dd3\u0db8 \u0d86\u0daf\u0dd2\u0dba, (\u0dba\u0ddc\u0dc4\u0dcf\u0db1\u0dca \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf)"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc4\u0dba",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d91.\u0da2\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc4\u0dba",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d91.\u0da2\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "1758/19",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2012 \u0db8\u0dd0\u0dba\u0dd2 15",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0db8\u0dcf\u0dad\u0dca\u0dba\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dd9\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc4\u0dba",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0daf\u0dd9\u0db8\u0dc5 \u0dc3\u0d82\u0dc3\u0daf\u0dba",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0daf\u0dd9\u0db8\u0dc5 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dd3\u0d9a\u0dbb\u0dab \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0db8\u0dc5 \u0d8a\u0dc5\u0dcf\u0db8\u0dca \u0db8\u0dc4\u0da2\u0db1 \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0daf\u0dd9\u0db8\u0dc5 \u0dc3\u0db8\u0dca\u0db8\u0dda\u0dbd\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dd3\u0da7\u0dd3\u0d91\u0dc6\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dd0\u0db1\u0dda\u0da9\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dd9\u0db8\u0dc5 \u0d9a\u0ddc\u0d82\u0d9c\u0dca\u200d\u0dbb\u0dc3\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "CTC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0dbd\u0dca\u0da7\u0dd3\u0da7\u0dd3\u0d8a\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0db8\u0dc5 \u0db4\u0dd4\u0db1\u0dbb\u0dd4\u0dad\u0dca\u0dae\u0dcf\u0db4\u0db1 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0db8\u0dc5 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dd3\u0d9a\u0dbb\u0dab \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "TCC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbd\u0ddd\u0d9a \u0daf\u0dd9\u0db8\u0dc5 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbd\u0ddd\u0d9a \u0daf\u0dd9\u0db8\u0dc5 \u0dc3\u0dc4\u0db1 \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd",
+            "label": "ORG"
+          },
+          {
+            "text": "WTRF",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd6\u0dbd\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd6\u0dbd\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dd0\u0db1\u0dda\u0da9\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dd9\u0db8\u0dc5 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "NCCT",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0db8\u0dc5 \u0dad\u0dbb\u0dd4\u0dab \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "TYO",
+            "label": "ORG"
+          },
+          {
+            "text": "NTJ",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dda\u0da7\u0dca \u0d8a\u0db6\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0dd2\u0db8\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "JMI",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0dbd\u0dba\u0db1\u0dca",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc3\u0dd9\u0dba\u0dd2\u0dbd\u0db1\u0dd3",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0daf\u0dbd\u0dd4\u0dbb\u0dca \u0d85\u0daf\u0dcf\u0dbb\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd4\u0dad\u0dd4 \u0d87\u0da7\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dba\u0ddc\u0dc4\u0dcf\u0db1\u0dca \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b90\u0ba8\u0bbe \u0b9a\u0bbe\u0b9a\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd\u0baa\u0b9f\u0bbf \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0ba4\u0b9f\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1: \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bbe\u0b9a\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb0\u0bae\u0bcd 6 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0b9f\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\"\u0bae\u0bc7 15, 2012 \u0b87\u0ba9\u0bcd \u0b90.\u0ba8\u0bbe \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd 1758/19 \u0b87\u0ba9\u0bcd \u0baa\u0b9f\u0bbf \u0b86\u0bb1\u0bc1 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0b9f\u0bc8\u0baf\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bb5\u0bbe\u0bb4\u0bc1\u0bae\u0bcd \u0ba4\u0b9f\u0bc8\u0b95\u0bb3\u0bc8 \u0ba8\u0b9f\u0bc8\u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0b95\u0bc1\u0ba4\u0bbf\u0bb5\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bbe\u0b95 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b89\u0b9f\u0ba9\u0bcd\u0baa\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb0\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd\u201d \u0b8e\u0ba9 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\"\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd, \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd, \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd, \u0baa\u0bc1\u0bb2\u0ba9\u0bbe\u0baf\u0bcd\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bcd, \u0b9a\u0b9f\u0bcd\u0b9f \u0b85\u0bae\u0bb2\u0bbe\u0b95\u0bcd\u0b95 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bca\u0ba9\u0bcd\u0bb1\u0bc8 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd. \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0baa\u0bb2 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95 \u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8\u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd. \u0b86\u0bb1\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0ba4\u0b9f\u0bc8\u0b95\u0bb3\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd \u0bae\u0bbe\u0ba4\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0ba8\u0bcd\u0ba4 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b8e\u0ba9\u0bb5\u0bc7 \u0b89\u0bb2\u0b95\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8 (GTF) \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8 (ATC), \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1, \u0ba4\u0bae\u0bbf\u0bb4\u0bc0\u0bb4 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8, \u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 (BTF) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0ba9\u0b9f\u0bbf\u0baf\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd (CTC) \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0ba4\u0b9f\u0bc8\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9.",
+        "\u0b85\u0ba3\u0bcd\u0bae\u0bc8\u0baf \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b95\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0baa\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b8e\u0bb2\u0bcd.\u0bb0\u0bc0.\u0bb0\u0bc0.\u0b88, \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0baa\u0bc1\u0ba9\u0bb0\u0bcd\u0bb5\u0bbe\u0bb4\u0bcd\u0bb5\u0bc1 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 (\u0b9f\u0bbf\u0b86\u0bb0\u0bcd\u0b93), \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1 (\u0b9f\u0bbf\u0b9a\u0bbf\u0b9a\u0bbf), \u0b89\u0bb2\u0b95\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd (\u0b9f\u0baa\u0bbf\u0bb3\u0bcd\u0baf\u0bc2\u0b9f\u0bbf\u0b8e\u0bae\u0bcd), \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0ba4\u0bae\u0bbf\u0bb4\u0bc0\u0bb4 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd (\u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bbf\u0b87), \u0b89\u0bb2\u0b95\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3 \u0ba8\u0bbf\u0ba4\u0bbf (\u0b9f\u0baa\u0bbf\u0bb3\u0bcd\u0baf\u0bc2\u0b9f\u0bbf\u0b86\u0bb0\u0bcd\u0b8e\u0b83\u0baa\u0bcd) \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bc8 \u0b85\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd. ), \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0b95\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1 (HQG), \u0b95\u0ba9\u0b9f\u0bbf\u0baf\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd (NCCT), \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 (TYO), \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0ba4\u0bb5\u0bcd\u0bb9\u0bc0\u0ba4\u0bcd \u0b9c\u0bae\u0bbe\u0ba4\u0bcd (NTJ), \u0b9c\u0bae\u0bbe\u0ba4\u0bcd \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bc7 \u0b87\u0baa\u0bcd\u0bb0\u0bbe\u0bb9\u0bbf\u0bae\u0bcd (JMI), \u0bb5\u0bbf\u0bb2\u0baf\u0ba9\u0bcd \u0b85\u0bb8\u0bcd \u0b9a\u0bc6\u0bb2\u0bc8\u0ba9\u0bbf (WAS), Dalur Adar (DR). ), \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0bae\u0bbf\u0baf \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd (SLISM) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc7\u0bb5\u0bcd \u0ba4\u0bbf \u0baa\u0bc7\u0bb0\u0bcd\u0bb2\u0bcd \u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bb5\u0bc8, (\u0baf\u0bcb\u0bb9\u0bbe\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe)"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b86\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b90.\u0ba8\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b86\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b90.\u0ba8\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "1758/19",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc7 15 2012",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bca\u0ba4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b86\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc1\u0bb3\u0bcb\u0baa\u0bb2\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bc0\u0bb4 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "BTF",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0ba9\u0b9f\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "CTC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0bae\u0bb1\u0bc1\u0bb5\u0bbe\u0bb4\u0bcd\u0bb5\u0bc1 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9f\u0bbf\u0b9a\u0bbf\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0bb2\u0b95\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0bb2\u0b95\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3 \u0ba8\u0bbf\u0ba4\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "WTRF",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0b95 \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0ba9\u0b9f\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0ba9\u0bcd.\u0b9a\u0bbf.\u0b9a\u0bbf.\u0b9f\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b87\u0bb3\u0bc8\u0baf\u0bcb\u0bb0\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "TYO",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0ba9\u0bcd.\u0b9f\u0bbf.\u0b9c\u0bc7",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0ba4\u0bc7 \u0b87\u0baa\u0bcd\u0bb0\u0bbe\u0bb9\u0bbf\u0bae\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9c\u0bc7\u0b8e\u0bae\u0bcd\u0b90",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0bb2\u0bc8\u0ba9\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba4\u0bbe\u0bb3\u0bc2\u0bb0\u0bcd \u0b86\u0ba4\u0bbe\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "DR",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baf\u0bcb\u0bb9\u0bbe\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
