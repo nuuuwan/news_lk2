@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2019\u2019\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dc0\u0dd0\u0da9\u0dca\u0da9\u0dd9\u0d9a\u0dca-\u0db1\u0ddc\u0dc0\u0dd9\u0dba\u0dd2\u2019\u2019/1-618252",
+    "time_ut": 1660712139,
+    "original_lang": "si",
+    "original_title": "\u2019\u2019\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd0\u0da9\u0dca\u0da9\u0dd9\u0d9a\u0dca \u0db1\u0ddc\u0dc0\u0dd9\u0dba\u0dd2\u2019\u2019",
+    "file_name": "/tmp/news_lk2/articles/25/253cb6ba.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Julian-Bolling-summoned-to-CID/342-243222",
+    "time_ut": 1660711297,
+    "original_lang": "en",
+    "original_title": "Julian Bolling summoned to CID",
+    "file_name": "/tmp/news_lk2/articles/2f/2f2e4195.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/sri-lanka-to-benefit-from-dcts-uk-high-commissioner/",
+    "time_ut": 1660711200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to benefit from DCTS \u2013 UK High Commissioner",
+    "file_name": "/tmp/news_lk2/articles/04/04808dc8.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u200b\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-396358",
+    "time_ut": 1660710954,
+    "original_lang": "si",
+    "original_title": "\u200b\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8 \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0d89\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/b4/b409697c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0d9a\u0ddc\u0dc3\u0dca\u0dad\u0dcf\u0db4\u0dbd\u0dca-\u0d9a\u0dd4\u0da9\u0dd4-\u0dc3\u0db8\u0d9c-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6/11-396357",
+    "time_ut": 1660710190,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d9a\u0ddc\u0dc3\u0dca\u0dad\u0dcf\u0db4\u0dbd\u0dca \u0d9a\u0dd4\u0da9\u0dd4 \u0dc3\u0db8\u0d9c \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6",
+    "file_name": "/tmp/news_lk2/articles/cc/cc036d4e.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-to-launch-new-weekend-long-distance-train-and-bus-service-98690/",
     "time_ut": 1660709880,
@@ -113,11 +153,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dcf\u0db4-\u0db6\u0dbd\u0dcf\u0d9c\u0dcf\u0dbb-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0dc4\u0daf\u0db1\u0dca\u0db1-\u0d85\u0daf\u0dcf\u0db1\u0dd2\u0da7-\u0dad\u0dcf\u0dc0\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a-\u0d85\u0dc0\u0dc3\u0dbb\u0dba/101-618245",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dcf\u0db4-\u0db6\u0dbd\u0dcf\u0d9c\u0dcf\u0dbb-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0dc4\u0daf\u0db1\u0dca\u0db1-\u0d85\u0daf\u0dcf\u0db1\u0dd2\u0da7-\u0dad\u0dcf\u0dc0\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a-\u0d85\u0dc0\u0dc3\u0dbb\u0dba/1-618245",
     "time_ut": 1660703785,
     "original_lang": "si",
     "original_title": "\u0dad\u0dcf\u0db4 \u0db6\u0dbd\u0dcf\u0d9c\u0dcf\u0dbb \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc4\u0daf\u0db1\u0dca\u0db1 \u0d85\u0daf\u0dcf\u0db1\u0dd2\u0da7 \u0dad\u0dcf\u0dc0\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a \u0d85\u0dc0\u0dc3\u0dbb\u0dba",
-    "file_name": "/tmp/news_lk2/articles/75/7532f69c.json"
+    "file_name": "/tmp/news_lk2/articles/43/432874d0.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -305,11 +345,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Central-Bank-lifts-forced-dollar-conversion-rule-on-services-export-receipts/108-243200",
+    "url": "https://www.dailymirror.lk/business/Central-Bank-lifts-forced-dollar-conversion-rule-on-services-export-receipts/215-243200",
     "time_ut": 1660684937,
     "original_lang": "en",
     "original_title": "Central Bank lifts forced dollar conversion rule on services export receipts",
-    "file_name": "/tmp/news_lk2/articles/53/53beae52.json"
+    "file_name": "/tmp/news_lk2/articles/ff/ffec3ee3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -577,11 +617,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d91\u0d82\u0d9c\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda-\u0dc0\u0dd9\u0dc5\u0dd9\u0db3-\u0db4\u0dd0\u0d9a\u0dda\u0da2\u0dba\u0da7-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dad\u0dca-\u0d91\u0d9a\u0dca\u0d9a\u0dbb-\u0d9c\u0db1\u0dd3/101-618235",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d91\u0d82\u0d9c\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda-\u0dc0\u0dd9\u0dc5\u0dd9\u0db3-\u0db4\u0dd0\u0d9a\u0dda\u0da2\u0dba\u0da7-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dad\u0dca-\u0d91\u0d9a\u0dca\u0d9a\u0dbb-\u0d9c\u0db1\u0dd3/1-618235",
     "time_ut": 1660664815,
     "original_lang": "si",
     "original_title": "\u0d91\u0d82\u0d9c\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda \u0dc0\u0dd9\u0dc5\u0dd9\u0db3 \u0db4\u0dd0\u0d9a\u0dda\u0da2\u0dba\u0da7 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dad\u0dca \u0d91\u0d9a\u0dca\u0d9a\u0dbb \u0d9c\u0db1\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/4d/4d2436ff.json"
+    "file_name": "/tmp/news_lk2/articles/55/55b58107.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "The United States rejects  Former US Citizen and Current  Sri Lankan President Gotabaya Rajapaksa\u2019s  request for a visa,\u201cHe sought a safe passage to the U.S. after the recent events, but it was denied,\u201d says Colombo-based official",
     "file_name": "/tmp/news_lk2/articles/3c/3c5b0898.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78528",
-    "time_ut": 1657609560,
-    "original_lang": "en",
-    "original_title": "President Gotabaya Rajapaksa  signs  resignation letter  dated for July 13 and  Submits it to the Speaker of Parliament Mahinda Yapa Abeywardena   who is expected to  publicly announce it to the nation On Wednesday",
-    "file_name": "/tmp/news_lk2/articles/0c/0cf87a7d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca-\u0dc4\u0dd4\u0da7\u0db4\u0da7\u0dda\u0da7-\u0d88\u0db3\u0dd4\u0dab\u0dd4-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0dc4\u0dcf\u0dc4\u0dd6\u0dc0/117-616264",
-    "time_ut": 1657552504,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca \u0dc4\u0dd4\u0da7\u0db4\u0da7\u0dda\u0da7 \u0d88\u0db3\u0dd4\u0dab\u0dd4 \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0dc4\u0dcf\u0dc4\u0dd6\u0dc0",
-    "file_name": "/tmp/news_lk2/articles/de/de7aef59.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0dca-\u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca-\u0dc4\u0daf\u0db8\u0dd4/2-616209",
-    "time_ut": 1657519863,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0dca \u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca \u0dc4\u0daf\u0db8\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/98/983ef751.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78519",
-    "time_ut": 1657481040,
-    "original_lang": "en",
-    "original_title": "Samagi Jana Balawegaya leader Sajith Premadasa  to contest for the post of President; MP\u2019s will vote to elect a new President by secret ballot on 20 July if no consensus is reached on a single candidate to take over the Presidency after the resignation of President Gotabaya Rajapaksa.",
-    "file_name": "/tmp/news_lk2/articles/15/1520f94c.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78520",
-    "time_ut": 1657479960,
-    "original_lang": "en",
-    "original_title": "If Gotabaya Resigns on July 13, Parliament would be summoned on July 15.  nominations for Presidency would be made on July 19 and a parliamentary vote will be held on July 20 to elect a new President",
-    "file_name": "/tmp/news_lk2/articles/8d/8d86e4f0.json"
   }
 ]
