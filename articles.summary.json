@@ -1,11 +1,67 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf-\u0daf\u0d9a\u0dca\u0dc2-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0dd9\u0d9a\u0dca-\u0db1\u0ddc\u0dc0\u0dda/1-618278",
+    "time_ut": 1660728131,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf \u0daf\u0d9a\u0dca\u0dc2 \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0dd9\u0d9a\u0dca \u0db1\u0ddc\u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/f0/f0fb8901.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84358/gotabaya-will-return-to-sri-lanka-on-aug-24-udayanga-weeratunga",
+    "time_ut": 1660727640,
+    "original_lang": "en",
+    "original_title": "Gotabaya will return to Sri Lanka on Aug 24: Udayanga Weeratunga",
+    "file_name": "/tmp/news_lk2/articles/6c/6c56a764.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dd9\u0daf\u0dd4\u0db8\u0dca\u0dc0\u0dcf\u0daf\u0dba\u0da7-\u0db4\u0dab-\u0daf\u0dd9\u0db1-\u0d9a\u0dd4\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dab-\u0db4\u0dbb\u0daf\u0dc0\u0db8\u0dd4/1-618277",
+    "time_ut": 1660727543,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd9\u0daf\u0dd4\u0db8\u0dca\u0dc0\u0dcf\u0daf\u0dba\u0da7 \u0db4\u0dab \u0daf\u0dd9\u0db1 \u0d9a\u0dd4\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dab \u0db4\u0dbb\u0daf\u0dc0\u0db8\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/21/21ed24f5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ban-on-organizations-removed-in-accordance-with-UN-Charter-Presidents-office/108-243231",
+    "time_ut": 1660727377,
+    "original_lang": "en",
+    "original_title": "Ban on organizations removed in accordance with UN Charter: Presidents office",
+    "file_name": "/tmp/news_lk2/articles/f2/f2bee308.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/17/former-sri-lankan-president-gotabaya-rajapaksa-will-return-to-the-country-next-week/",
+    "time_ut": 1660727280,
+    "original_lang": "en",
+    "original_title": "Former Sri Lankan President Gotabaya Rajapaksa will return to the country next week",
+    "file_name": "/tmp/news_lk2/articles/59/5994310c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0da7\u0ddc\u0db1\u0dca-\u0dbd\u0d9a\u0dca\u200d\u0dc2\u0dba\u0d9a\u0dca-\u0d85\u0daf-\u0d91\u0dba\u0dd2/1-618275",
+    "time_ut": 1660727245,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0da7\u0ddc\u0db1\u0dca \u0dbd\u0d9a\u0dca\u200d\u0dc2\u0dba\u0d9a\u0dca \u0d85\u0daf \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c9/c9a0277f.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/cinema/\u0b9c\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb2\u0bbf\u0ba9\u0bcd-\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbe\u0bb3\u0bbf/54-302495",
     "time_ut": 1660726624,
     "original_lang": "ta",
     "original_title": "\u0b9c\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb2\u0bbf\u0ba9\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbe\u0bb3\u0bbf",
     "file_name": "/tmp/news_lk2/articles/b4/b4edd47d.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/cinema/\u0bb0\u0bc2-215-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd-\u0b9c\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb2\u0bbf\u0ba9\u0bcd-\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9e\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd/54-302495",
+    "time_ut": 1660726624,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0bc2.215 \u0b95\u0bcb\u0b9f\u0bbf \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd: \u0b9c\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb2\u0bbf\u0ba9\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9e\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d5/d5d67a6d.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -22,6 +78,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka to benefit from access to UK\u2019s new trading scheme: high commissioner",
     "file_name": "/tmp/news_lk2/articles/e2/e23541a3.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dd2\u0dc3\u0dca\u0d9a\u0da7\u0dca-\u0d85\u0dbd\u0dd9\u0dc0\u0dd2\u0dba-\u0db4\u0dc4\u0dad\u0da7/11-396378",
+    "time_ut": 1660725956,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd2\u0dc3\u0dca\u0d9a\u0da7\u0dca \u0d85\u0dbd\u0dd9\u0dc0\u0dd2\u0dba \u0db4\u0dc4\u0dad\u0da7",
+    "file_name": "/tmp/news_lk2/articles/83/8389c95c.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
