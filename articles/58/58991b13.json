@@ -1,0 +1,315 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/top_story/Power-consumption-reduced-by-more-than-20-during-past-two-months-PUCSL/155-243304",
+  "time_ut": 1660819681,
+  "original_lang": "en",
+  "original_title": "Power consumption reduced by more than 20% during past two months: PUCSL",
+  "text_idx": {
+    "en": {
+      "title": "Power consumption reduced by more than 20% during past two months: PUCSL",
+      "author": "unknown",
+      "body_lines": [
+        "The country's electricity consumption has dropped sharply by more than 20% in the last two months, according to Public Utilities Commission of Sri Lanka (PUCSL) Chairman Janaka Ratnayaka.",
+        "He said the daily electricity consumption rate was at least 48 MWh and that 2,800 MW of electricity was required for peak time.",
+        "However, during the past two months, electricity consumption was between 38 and 40 megawatt-hours. \"The volume of electricity required during the peak time was reduced to 2,100 MW. It represents a 20% reduction,\" Ratnayake said.",
+        "The electricity tariff had also increased from last week and as consumers, we should keep in mind to conserve electricity while using electricity sparingly,\" he said.\u00a0(Chaturanga Samarawickrama)"
+      ],
+      "title_ents": [
+        {
+          "text": "more than 20%",
+          "label": "PERCENT"
+        },
+        {
+          "text": "past two months",
+          "label": "DATE"
+        },
+        {
+          "text": "PUCSL",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "more than 20%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the last two months",
+            "label": "DATE"
+          },
+          {
+            "text": "Public Utilities Commission of Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "PUCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "Janaka Ratnayaka",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "daily",
+            "label": "DATE"
+          },
+          {
+            "text": "at least 48",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,800",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "MW",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "the past two months",
+            "label": "DATE"
+          },
+          {
+            "text": "between 38",
+            "label": "DATE"
+          },
+          {
+            "text": "40 megawatt-hours",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "2,100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "MW",
+            "label": "ORG"
+          },
+          {
+            "text": "20%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "last week",
+            "label": "DATE"
+          },
+          {
+            "text": "Chaturanga Samarawickrama",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dcf\u0dc3 \u0daf\u0dd9\u0d9a \u0dad\u0dd4\u0dc5 \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0db4\u0dbb\u0dd2\u0db7\u0ddd\u0da2\u0db1\u0dba 20% \u0da7 \u0dc0\u0da9\u0dcf \u0d85\u0da9\u0dd4 \u0dc0\u0dd3 \u0d87\u0dad: PUCSL",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0\u0dda (PUCSL) \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da2\u0dcf\u0db1\u0d9a \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dad\u0dcf\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dcf\u0dc3 \u0daf\u0dd9\u0d9a \u0dad\u0dd4\u0dc5 \u0dbb\u0da7\u0dda \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db4\u0dbb\u0dd2\u0db7\u0ddd\u0da2\u0db1\u0dba 20%\u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc1\u0dd3\u0d9d\u0dca\u200d\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd3 \u0d87\u0dad.",
+        "\u0daf\u0ddb\u0db1\u0dd2\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db4\u0dbb\u0dd2\u0db7\u0ddd\u0da2\u0db1 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba \u0d85\u0dc0\u0db8 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd9\u0d9c\u0dcf\u0dc0\u0ddc\u0da7\u0dca 48 \u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0d9a\u0dcf\u0dbd\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dd9\u0d9c\u0dcf\u0dc0\u0ddc\u0da7\u0dca 2,800 \u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db6\u0dc0 \u0d94\u0dc4\u0dd4 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0d9a\u0dd9\u0dc3\u0dda \u0dc0\u0dd9\u0dad\u0dad\u0dca, \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dcf\u0dc3 \u0daf\u0dd9\u0d9a \u0dad\u0dd4\u0dc5 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db4\u0dbb\u0dd2\u0db7\u0ddd\u0da2\u0db1\u0dba \u0db8\u0dd9\u0d9c\u0dcf\u0dc0\u0ddc\u0da7\u0dca \u0db4\u0dd0\u0dba 38 \u0dad\u0dca 40 \u0dad\u0dca \u0d85\u0dad\u0dbb \u0dc0\u0dd2\u0dba. \"\u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0d9a\u0dcf\u0dbd\u0dba \u0dad\u0dd4\u0dc5 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db4\u0dbb\u0dd2\u0db8\u0dcf\u0dc0 \u0db8\u0dd9\u0d9c\u0dcf\u0dc0\u0ddc\u0da7\u0dca 2,100 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d85\u0da9\u0dd4 \u0d9a\u0dbb \u0d87\u0dad. \u0d91\u0dba 20% \u0d9a \u0d85\u0da9\u0dd4\u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2,\" \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db6\u0dd2\u0dbd\u0daf \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0dad\u0dd2\u0db6\u0dd6 \u0d85\u0dad\u0dbb \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d85\u0dbb\u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd0\u0dc3\u0dca\u0db8\u0dd9\u0db1\u0dca \u0db7\u0dcf\u0dc0\u0dd2\u0dad \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d89\u0dad\u0dd2\u0dbb\u0dd2 \u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0db1\u0dca \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d85\u0db4 \u0db8\u0dad\u0d9a \u0dad\u0db6\u0dcf \u0d9c\u0dad \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2.\u00a0(\u0da0\u0dad\u0dd4\u0dbb\u0d82\u0d9c \u0dc3\u0db8\u0dbb\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8)"
+      ],
+      "title_ents": [
+        {
+          "text": "20% \u0da7 \u0dc0\u0da9\u0dcf",
+          "label": "PERCENT"
+        },
+        {
+          "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dcf\u0dc3 \u0daf\u0dd9\u0d9a",
+          "label": "DATE"
+        },
+        {
+          "text": "PUCSL",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "20% \u0da7 \u0dc0\u0da9\u0dcf",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dcf\u0dc3 \u0daf\u0dd9\u0d9a",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "PUCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dcf\u0db1\u0d9a \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd2\u0db1\u0db4\u0dad\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0db8 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca 48",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,800 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd9.\u0dc0\u0ddc",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dcf\u0dc3 \u0daf\u0dd9\u0d9a",
+            "label": "DATE"
+          },
+          {
+            "text": "38 \u0d85\u0dad\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dd9\u0d9c\u0dcf\u0dc0\u0ddc\u0da7\u0dca \u0db4\u0dd0\u0dba 40 \u0dba\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "2,100 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd9.\u0dc0\u0ddc",
+            "label": "ORG"
+          },
+          {
+            "text": "20%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da0\u0dad\u0dd4\u0dbb\u0d82\u0d9c \u0dc3\u0db8\u0dbb\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0ba9\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bc1 20%\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1: PUCSL",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0baa\u0bbe\u0bb5\u0ba9\u0bc8 20% \u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd (PUCSL) \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9c\u0ba9\u0b95 \u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0bae\u0bbf\u0ba9\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bc1 \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0baa\u0b9f\u0bcd\u0b9a\u0bae\u0bcd 48 \u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd, \u0baa\u0bc0\u0b95\u0bcd \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 2,800 \u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bc1\u0bae\u0bcd, \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd, \u0bae\u0bbf\u0ba9\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bc1 38 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 40 \u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd \u0bae\u0ba3\u0bbf \u0bb5\u0bb0\u0bc8 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. \"\u0b89\u0b9a\u0bcd\u0b9a \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0bb3\u0bb5\u0bc1 2,100 \u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0b87\u0ba4\u0bc1 20% \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc8 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0baa\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1 \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0ba9\u0bae\u0bbe\u0b95 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc7\u0bae\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc8 \u0ba8\u0bbe\u0bae\u0bcd \u0bae\u0ba9\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd.\u00a0(\u0b9a\u0ba4\u0bc1\u0bb0\u0b99\u0bcd\u0b95 \u0b9a\u0bae\u0bb0\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae)"
+      ],
+      "title_ents": [
+        {
+          "text": "20%\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+          "label": "PERCENT"
+        },
+        {
+          "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+          "label": "DATE"
+        },
+        {
+          "text": "PUCSL",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "20%\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bca\u0ba4\u0bc1 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "PUCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0ba9\u0b95 \u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 48",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,800",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "38 \u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "40 \u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "2,100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "20%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9a\u0ba4\u0bc1\u0bb0\u0b99\u0bcd\u0b95 \u0b9a\u0bae\u0bb0\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}

@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84390/australia-kicks-in-extra-25-million-emergency-aid-to-sri-lanka",
+    "time_ut": 1660847640,
+    "original_lang": "en",
+    "original_title": "Australia kicks in extra $25 million emergency aid to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/e4/e4a978da.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Fasten-your-wits/4-738855",
+    "time_ut": 1660847225,
+    "original_lang": "en",
+    "original_title": "Fasten your wits",
+    "file_name": "/tmp/news_lk2/articles/5a/5a3c00f7.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0ba4\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1/175-302600",
     "time_ut": 1660846951,
     "original_lang": "ta",
     "original_title": "\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1",
     "file_name": "/tmp/news_lk2/articles/8d/8d45e407.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Sysco-LABS-ranked-amongst-LMD-s-Most-Respected-Entities-for-2022/34-738854",
+    "time_ut": 1660846937,
+    "original_lang": "en",
+    "original_title": "Sysco LABS ranked amongst LMD\u2019s Most Respected Entities for 2022",
+    "file_name": "/tmp/news_lk2/articles/25/252a2d47.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -129,11 +153,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Protest-at-customs/342-243314",
+    "url": "https://www.dailymirror.lk/caption_story/Protest-at-customs/110-243314",
     "time_ut": 1660835573,
     "original_lang": "en",
     "original_title": "Protest at customs...",
-    "file_name": "/tmp/news_lk2/articles/f2/f232c2b5.json"
+    "file_name": "/tmp/news_lk2/articles/64/64e36372.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ministry to decide on changes to weekly fuel quota",
     "file_name": "/tmp/news_lk2/articles/cc/cc52bd91.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2\u0dba\u0d9a\u0dca-\u0dc3\u0db8\u0d9c-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-618058",
-    "time_ut": 1660444338,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0d9c \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/fa/fadf77c5.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/2600-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0da7\u0dd2\u0d9a\u0da7\u0dca\u0da7\u0dd4\u0dc0-7600\u0da7-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dbd\u0dcf/101-618057",
-    "time_ut": 1660444134,
-    "original_lang": "si",
-    "original_title": "2600 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0da7\u0dd2\u0d9a\u0da7\u0dca\u0da7\u0dd4\u0dc0 7600\u0da7 \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/3d/3ded863b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84288/few-showers-expected-in-several-provinces",
-    "time_ut": 1660443840,
-    "original_lang": "en",
-    "original_title": "Few showers expected in several provinces",
-    "file_name": "/tmp/news_lk2/articles/58/586894b1.json"
   }
 ]

@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84390/australia-kicks-in-extra-25-million-emergency-aid-to-sri-lanka",
+    "time_ut": 1660847640,
+    "original_lang": "en",
+    "original_title": "Australia kicks in extra $25 million emergency aid to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/e4/e4a978da.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Fasten-your-wits/4-738855",
+    "time_ut": 1660847225,
+    "original_lang": "en",
+    "original_title": "Fasten your wits",
+    "file_name": "/tmp/news_lk2/articles/5a/5a3c00f7.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0ba4\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1/175-302600",
     "time_ut": 1660846951,
     "original_lang": "ta",
     "original_title": "\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1",
     "file_name": "/tmp/news_lk2/articles/8d/8d45e407.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Sysco-LABS-ranked-amongst-LMD-s-Most-Respected-Entities-for-2022/34-738854",
+    "time_ut": 1660846937,
+    "original_lang": "en",
+    "original_title": "Sysco LABS ranked amongst LMD\u2019s Most Respected Entities for 2022",
+    "file_name": "/tmp/news_lk2/articles/25/252a2d47.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -129,11 +153,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Protest-at-customs/342-243314",
+    "url": "https://www.dailymirror.lk/caption_story/Protest-at-customs/110-243314",
     "time_ut": 1660835573,
     "original_lang": "en",
     "original_title": "Protest at customs...",
-    "file_name": "/tmp/news_lk2/articles/f2/f232c2b5.json"
+    "file_name": "/tmp/news_lk2/articles/64/64e36372.json"
   },
   {
     "newspaper_id": "news-first-lk",
