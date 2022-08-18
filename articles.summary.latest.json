@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/CID-arrests-former-minister-Mervyn-Silva/108-243298",
+    "time_ut": 1660805354,
+    "original_lang": "en",
+    "original_title": "CID arrests former minister Mervyn Silva",
+    "file_name": "/tmp/news_lk2/articles/13/13c2755a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84375/mervyn-silva-arrested-by-cid",
     "time_ut": 1660805280,
@@ -62,6 +70,14 @@
     "original_lang": "en",
     "original_title": "Medicine shortage at Lady Ridgeway Hospital",
     "file_name": "/tmp/news_lk2/articles/f9/f983df7a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0da7\u0dc3\u0dca-\u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5-\u0db4\u0dc4\u0dc5\u0da7/11-396402",
+    "time_ut": 1660804042,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5 \u0db4\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/3c/3cbbe814.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Informative webinar on opportunities in Israeli market",
     "file_name": "/tmp/news_lk2/articles/b6/b6afb293.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Sri-Lanka-s-top-textile-maker-Teejay-knits-strong-start-to-FY23/34-738531",
-    "time_ut": 1660176173,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s top textile maker Teejay  knits strong start to FY23",
-    "file_name": "/tmp/news_lk2/articles/28/28204d42.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Wijeyadasa-presents-22A-to-Parliament/56-738530",
-    "time_ut": 1660176034,
-    "original_lang": "en",
-    "original_title": "Wijeyadasa presents 22A to Parliament",
-    "file_name": "/tmp/news_lk2/articles/50/50972b83.json"
   }
 ]
