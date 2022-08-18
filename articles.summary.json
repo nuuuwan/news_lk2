@@ -1,11 +1,67 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0daf\u0dd4\u0db4\u0dca\u0db4\u0dad\u0dcf\u0da7-\u0db1\u0dd0\u0dad\u0dd2-\u0db0\u0db1\u0dc0\u0dad\u0dcf\u0da7-\u0d87\u0dad\u0dd2-\u0dc3\u0dc4\u0db1\u0dcf\u0db0\u0dcf\u0dbb/26-618316",
+    "time_ut": 1660796857,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd4\u0db4\u0dca\u0db4\u0dad\u0dcf\u0da7 \u0db1\u0dd0\u0dad\u0dd2 \u0db0\u0db1\u0dc0\u0dad\u0dcf\u0da7 \u0d87\u0dad\u0dd2 \u0dc3\u0dc4\u0db1\u0dcf\u0db0\u0dcf\u0dbb",
+    "file_name": "/tmp/news_lk2/articles/17/173aeead.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/10-people-arrested-on-illegal-migration-attempt/",
+    "time_ut": 1660796400,
+    "original_lang": "en",
+    "original_title": "10 people arrested on illegal migration attempt",
+    "file_name": "/tmp/news_lk2/articles/e5/e51e850b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0bbf\u0bb3\u0b95\u0bbe\u0baf\u0bcd\u0ba4\u0bcd-\u0ba4\u0bc2\u0bb3\u0bc8-\u0bb5\u0bc0\u0b9a\u0bbf-\u0ba4\u0b99\u0bcd\u0b95\u0ba8\u0b95\u0bc8-\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8/76-302549",
+    "time_ut": 1660795682,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbf\u0bb3\u0b95\u0bbe\u0baf\u0bcd\u0ba4\u0bcd \u0ba4\u0bc2\u0bb3\u0bc8 \u0bb5\u0bc0\u0b9a\u0bbf \u0ba4\u0b99\u0bcd\u0b95\u0ba8\u0b95\u0bc8 \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/d2/d226ca6c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0d9c\u0dad-\u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1-\u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca-\u0db1\u0dbb\u0d9a\u0da7-\u0dba\u0ddc\u0daf\u0dcf\u0d9c\u0db1\u0dca\u0db1-\u0daf\u0dd9\u0db1\u0dd4-\u0d91\u0db4\u0dcf/26-618315",
+    "time_ut": 1660795608,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0d9c\u0dad \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1 \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0db1\u0dbb\u0d9a\u0da7 \u0dba\u0ddc\u0daf\u0dcf\u0d9c\u0db1\u0dca\u0db1 \u0daf\u0dd9\u0db1\u0dd4 \u0d91\u0db4\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/b3/b3a158d1.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dac\u0dd4\u0dbd\u0dda\u0db1\u0dcf-\u0d9c\u0dd0\u0db1-\u0dc4\u0ddc\u0dba\u0db1\u0dca\u0db1\u0dad\u0dca-\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca/101-618314",
+    "time_ut": 1660795149,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dac\u0dd4\u0dbd\u0dda\u0db1\u0dcf \u0d9c\u0dd0\u0db1 \u0dc4\u0ddc\u0dba\u0db1\u0dca\u0db1\u0dad\u0dca \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/37/37d891f1.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-laugfs-gas-reduces-cooking-gas-prices-98731/",
+    "time_ut": 1660794720,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s Laugfs Gas reduces cooking gas prices",
+    "file_name": "/tmp/news_lk2/articles/c4/c44f6008.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/18/161-covid-cases-reported-on-wednesday-17/",
     "time_ut": 1660794600,
     "original_lang": "en",
     "original_title": "161 COVID cases reported on Wednesday (17)",
     "file_name": "/tmp/news_lk2/articles/c7/c7e6a1c1.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddd\u0d9a\u0dd2\u0dbd\u0d9c\u0dda-\u0dc3\u0ddc\u0dc4\u0ddc\u0dba\u0dd4\u0dbb\u0dcf\u0d9c\u0dda-\u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0dca\u0dc0\u0dbd\u0da7-\u0db4\u0dc4\u0dbb-\u0daf\u0dd4\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-618313",
+    "time_ut": 1660794574,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddd\u0d9a\u0dd2\u0dbd\u0d9c\u0dda-\u0dc3\u0ddc\u0dc4\u0ddc\u0dba\u0dd4\u0dbb\u0dcf\u0d9c\u0dda \u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0dca\u0dc0\u0dbd\u0da7 \u0db4\u0dc4\u0dbb \u0daf\u0dd4\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/94/94f1931e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -78,6 +134,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka policy rate unchanged amid slowing private credit",
     "file_name": "/tmp/news_lk2/articles/af/afbaa83c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dbd\u0dd2-\u0db1\u0dcf\u0dc0\u0db1\u0dc0\u0dcf-\u0db6\u0dd0\u0dbd\u0dd6-\u0d85\u0dc0\u0dd4--8-\u0dc5\u0db8\u0dba\u0dcf-\u0d8b\u0dc3\u0dca\u0dc3\u0dcf-\u0d87\u0dc5\u0da7-\u0dc0\u0dd2\u0dc3\u0dd2\u0d9a\u0dc5-\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dc3\u0dda\u0dc0\u0d9a-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396394",
+    "time_ut": 1660788498,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbd\u0dd2 \u0db1\u0dcf\u0dc0\u0db1\u0dc0\u0dcf \u0db6\u0dd0\u0dbd\u0dd6 \u0d85\u0dc0\u0dd4. 8 \u0dc5\u0db8\u0dba\u0dcf \u0d8b\u0dc3\u0dca\u0dc3\u0dcf \u0d87\u0dc5\u0da7 \u0dc0\u0dd2\u0dc3\u0dd2\u0d9a\u0dc5 \u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dc3\u0dda\u0dc0\u0d9a \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/b4/b4eeb72d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
