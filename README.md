@@ -1,42 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-18 19:41:05 (LK time)*
+*As of 2022-08-18 20:10:50 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last Hour (3 Articles)
 
 * **2** tamil-mirror-lk ([பெற்றோலை 250 ரூபாய்க்கு வழங்க முடியும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecbe27f4.json))
 
 * **1** economy-next-com ([Japan grants medical equipment worth 500-mn yen to Sri Lanka govt hospital](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1a0227a.json))
 
-## Last Hour (5 Articles)
-
-* **2** tamil-mirror-lk ([பெற்றோலை 250 ரூபாய்க்கு வழங்க முடியும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecbe27f4.json))
-
-* **2** economy-next-com ([Sri Lanka immigration on the hunt for Scotswoman who documented protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cc42117.json))
-
-* **1** lankadeepa-lk ([පෙට්‍රල් ලීටරයක් 250ට දෙන්න පුළුවන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/795d14f6.json))
-
-## Last 3 Hours (34 Articles)
-
-* **6** lankadeepa-lk ([ගෝල්ෆේස් බිමට වූ හානිය අරගලකරුවන්ගෙන් අයකර ගන්නවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10b98430.json))
-
-* **6** ada-derana-lk ([Minister Kanchana files complaint with CID to probe CPC and CPSTL activities](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c837f821.json))
-
-* **6** daily-mirror-lk ([Mudalige and four others arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1504c187.json))
+## Last 3 Hours (26 Articles)
 
 * **5** economy-next-com ([Sri Lanka expects to wrap up staff-level agreement with IMF end-August: CBSL](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f66ca408.json))
 
-* **5** news-first-lk ([IUSF Convener Wasantha Mudalige arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/0851a019.json))
+* **5** lankadeepa-lk ([වසන්ත මුදලිගේ අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/025e0657.json))
+
+* **4** ada-derana-lk ([Covid-19: five more deaths, 166 new cases confirmed](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9b4f410.json))
+
+* **4** daily-mirror-lk ([Application deadline for 2022 A/L exam extended](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7e4ee90.json))
+
+* **4** news-first-lk ([Mervyn released without bail in case filed on 2007 incident](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a412e039.json))
 
 * **3** tamil-mirror-lk ([ஆர்ப்பாட்டத்தில் மாணவர் ஒன்றியத் தலைவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c5374fe.json))
 
-* **3** ada-lk ([සාධනීය ප්‍රතිඵල පේන්න තිබෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9451508f.json))
+* **1** ada-lk ([විදේශ ව්‍යවහාර මුදල් අතැති අයට පොදු සමාකාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e664c847.json))
 
-## Last 24 Hours (209 Articles)
+## Last 24 Hours (207 Articles)
 
-* **37** lankadeepa-lk ([ලාෆ් ගෑස් මිල 1050කින් පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54c9de2f.json))
+* **36** lankadeepa-lk ([කරුවලගස්වැව වනජීවි දෙදෙනාට ඇප](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef7a7121.json))
 
 * **32** news-first-lk ([Scottish Instragrammer Missing after losing deportation case – Immigration Dept](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e640414.json))
 
@@ -46,7 +38,7 @@
 
 * **26** ada-derana-lk ([Laugfs slashes domestic LP gas prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed71479b.json))
 
-* **23** tamil-mirror-lk ([அரச நிறுவனங்களில் கைவைக்கும் ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/42b0d0c5.json))
+* **22** tamil-mirror-lk ([திடீரென குறைக்கப்பட்ட சமையல் எரிவாயு விலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1eef1779.json))
 
 * **15** economy-next-com ([Sri Lanka stocks down for second session on profit taking](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41e821d1.json))
 
