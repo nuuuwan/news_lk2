@@ -1,32 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-18 14:11:48 (LK time)*
+*As of 2022-08-18 14:22:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** news-first-lk ([Lankan fishermen continue protests for fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5dd3fde8.json))
 
-* **1** tamil-mirror-lk ([பசில் - ரணில் திடீர் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35240762.json))
-
-## Last Hour (10 Articles)
-
-* **3** lankadeepa-lk ([මහනුවර හෝටලයක මගුලට ආ 600ක් ලෙඩ වෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03218d0.json))
+## Last Hour (7 Articles)
 
 * **2** tamil-mirror-lk ([திருமண வீடுகளில் 600 பேருக்கு வாந்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ea7aa8.json))
 
-* **2** ada-derana-lk ([Nine petitions filed against 22nd Amendment to Constitution](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cb98c8f.json))
+* **2** lankadeepa-lk ([කාබනික පොහොර ගන්න රජයෙන් විසිදාහක් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bb17ca9.json))
 
 * **1** news-first-lk ([Lankan fishermen continue protests for fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5dd3fde8.json))
 
+* **1** ada-derana-lk ([Unloading of crude oil shipment underway](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c421e088.json))
+
 * **1** ada-lk ([නැවෙන් එන සංචාරකයින්ට වරායේ පහසුකම් වැඩි කෙරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/2386dc15.json))
 
-* **1** economy-next-com ([Former Sri Lanka minister Mervyn Silva arrested 15 years after he stormed state TV](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/665da268.json))
+## Last 3 Hours (40 Articles)
 
-## Last 3 Hours (42 Articles)
-
-* **11** news-first-lk ([World Bank details funding for Sri Lanka so far](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7258f84.json))
+* **10** news-first-lk ([FM meets UNDCO Regional Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ef99c53.json))
 
 * **6** ada-derana-lk ([Two suspects arrested over theft of 21 laptops](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92345183.json))
 
@@ -38,15 +34,15 @@
 
 * **4** economy-next-com ([Sri Lanka Customs seizes 32 tons of illegal scrap metal](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ced0d25b.json))
 
-* **4** daily-mirror-lk ([CCD finds man who deposited Rs.5 Mn to Ratta’s account; Probe finds mistaken transaction](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/863821c1.json))
+* **3** daily-mirror-lk ([CBSL maintains policy rates at current levels](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/8591e5fc.json))
 
-## Last 24 Hours (196 Articles)
+## Last 24 Hours (193 Articles)
 
 * **36** lankadeepa-lk ([ඩීසල් ටොන් ලක්‍ෂයක් අද එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9a0277f.json))
 
-* **27** news-first-lk ([India and Sri Lanka will jointly host the T20 World Cup in 2026](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1ed643e.json))
+* **26** news-first-lk ([Former Sri Lankan President Gotabaya Rajapaksa will return to the country next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/5994310c.json))
 
-* **27** ada-lk ([බිස්කට් අලෙවිය පහතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/8389c95c.json))
+* **26** ada-lk ([උදයංග සී.අයි.ඩී යට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6d3919e.json))
 
 * **26** daily-mirror-lk ([Ban on organizations removed in accordance with UN Charter: Presidents office](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bc37485.json))
 
@@ -54,7 +50,7 @@
 
 * **23** ada-derana-lk ([Gotabaya will return to Sri Lanka on Aug 24: Udayanga Weeratunga](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c56a764.json))
 
-* **18** economy-next-com ([Sri Lanka to benefit from access to UK’s new trading scheme: high commissioner](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e23541a3.json))
+* **17** economy-next-com ([Sri Lanka relaxed visas to remove a barrier to Korean investment](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af476dc2.json))
 
 * **11** daily-ft-lk ([Tamils will only invest in SL if Govt. provides political solution: Mavai](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a99e8c07.json))
 
