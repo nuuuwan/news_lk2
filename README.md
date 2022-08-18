@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 02:21:19 (LK time)*
+*As of 2022-08-19 02:38:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (4 Articles)
-
-* **4** daily-ft-lk ([Futureworld opens new flagship and exclusive Apple store in Colombo 3](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e8ec85d.json))
 
 ## Last 3 Hours (9 Articles)
 
@@ -36,11 +32,11 @@
 
 * **1** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
-## Last Week (1,113 Articles)
+## Last Week (1,109 Articles)
 
 * **190** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
-* **155** daily-mirror-lk ([Like Pharaoh, Israel also kills children](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b40c1c8.json))
+* **153** daily-mirror-lk ([We must learn to survive - Hiran Cooray](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86dbbd82.json))
 
 * **151** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
@@ -52,15 +48,15 @@
 
 * **80** economy-next-com ([Sri Lanka to use US$20mn from Indian credit for animal feed](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/715a57af.json))
 
-* **79** daily-ft-lk ([Sri Lanka-Pakistan Business Council hosts interactive session](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/895f76d8.json))
+* **76** daily-ft-lk ([Sunshine Healthcare appoints T. Sayandhan as CEO of Lina Manufacturing](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31195ea7.json))
 
 * **44** island-lk ([Get down to brass tacks](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9be0fc16.json))
 
-* **15** d-b-s-jeyaraj-com ([Sri Lanka  Grants Permission for  Chinese space and satellite tracking vessel “Yuan Wang 5” to dock  on August 16 at  Hambantota port subject to conditions that the visiting Chinese vessel’s Automatic Identification System (AIS) must  be kept switched on within the EEZ of Sri Lanka and that no scientific research be conducted in Sri Lankan waters.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2bdccc7.json))
+* **16** d-b-s-jeyaraj-com ([Sri Lanka  Grants Permission for  Chinese space and satellite tracking vessel “Yuan Wang 5” to dock  on August 16 at  Hambantota port subject to conditions that the visiting Chinese vessel’s Automatic Identification System (AIS) must  be kept switched on within the EEZ of Sri Lanka and that no scientific research be conducted in Sri Lankan waters.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2bdccc7.json))
 
 * **13** colombo-telegraph-com ([CID Waits Till The RTI Act Is Used To Investigate Death Threats By DIG Deshabandu Tennakoon Against A Journalist](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9712eda.json))
 
-## All Time (1,491 Articles)
+## All Time (1,492 Articles)
 
 * **257** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -74,7 +70,7 @@
 
 * **120** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
-* **119** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
+* **120** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 
 * **118** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 

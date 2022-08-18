@@ -1760,6 +1760,14 @@
     "file_name": "/tmp/news_lk2/articles/0d/0de79a2b.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79064",
+    "time_ut": 1660763700,
+    "original_lang": "en",
+    "original_title": "\u201cThe arrival of a Chinese ship in Sri Lanka raises hackles in India; flip-flopping  by Sri Lanka over Yuan Wang 5    irritates  both China and India. \u2018- The Economist",
+    "file_name": "/tmp/news_lk2/articles/26/2642f376.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/House-and-apartment-prices-skyrocket-with-escalating-construction-costs/108-243251",
     "time_ut": 1660763531,
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0b95\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bcb\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/fd/fd571188.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Prices-of-bakery-products-could-be-lowered-drastically-if-govt-intervenes-Bakery-owners-Assn/342-242993",
-    "time_ut": 1660450072,
-    "original_lang": "en",
-    "original_title": "Prices of bakery products  could be lowered drastically, if govt. intervenes: Bakery owners Assn",
-    "file_name": "/tmp/news_lk2/articles/e2/e2fda0cf.json"
   }
 ]
