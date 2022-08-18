@@ -8,6 +8,14 @@
     "file_name": "/tmp/news_lk2/articles/e0/e0d88533.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0db8\u0dbd\u0dca\u0d9c\u0dda-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dc0-\u200c\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0dc3\u0db1\u0dca\u0db0\u0dcf\u0db1\u0dba\u0d9a\u0dca/11-396398",
+    "time_ut": 1660799905,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0db8\u0dbd\u0dca\u0d9c\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dc0 \u200c\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0dc3\u0db1\u0dca\u0db0\u0dcf\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/5e/5ef71573.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/18/special-probe-by-hrcsl-on-9th-may-violence/",
     "time_ut": 1660799400,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "SJB protests against Emergency",
     "file_name": "/tmp/news_lk2/articles/23/23144f55.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Court-grants-bail-to-8-protesters-including-Damita-and-Ratta/56-738500",
-    "time_ut": 1660087861,
-    "original_lang": "en",
-    "original_title": "Court grants bail to 8 protesters including Damita and Ratta",
-    "file_name": "/tmp/news_lk2/articles/00/0032db3c.json"
   }
 ]
