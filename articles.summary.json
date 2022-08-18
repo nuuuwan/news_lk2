@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-with-drugs-money-worth-Rs-10Mn-nabbed-in-Kotahena/108-243294",
+    "time_ut": 1660799928,
+    "original_lang": "en",
+    "original_title": "Man with drugs, money worth Rs. 10Mn nabbed in Kotahena",
+    "file_name": "/tmp/news_lk2/articles/e0/e0d88533.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/special-probe-by-hrcsl-on-9th-may-violence/",
+    "time_ut": 1660799400,
+    "original_lang": "en",
+    "original_title": "Special Probe by HRCSL on 9th May Violence",
+    "file_name": "/tmp/news_lk2/articles/4e/4e322fa7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Man-arrested-for-entering-MP-Kokilas-residence/342-243293",
+    "time_ut": 1660799303,
+    "original_lang": "en",
+    "original_title": "Man arrested for entering MP Kokila\u2019s residence",
+    "file_name": "/tmp/news_lk2/articles/69/69873f4f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0dbd\u0dd3\u0da7\u0dbb\u0dca-1400\u0d9a\u0dca-\u0dc3\u0db8\u0d9c-02\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6/11-396397",
+    "time_ut": 1660799303,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0dbd\u0dd3\u0da7\u0dbb\u0dca 1400\u0d9a\u0dca \u0dc3\u0db8\u0d9c 02\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6",
+    "file_name": "/tmp/news_lk2/articles/ee/eecb5417.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/18/ugc-vice-chancellors-to-meet-on-monday-22/",
     "time_ut": 1660797840,
     "original_lang": "en",
     "original_title": "UGC & Vice Chancellors to meet on Monday (22)",
     "file_name": "/tmp/news_lk2/articles/dd/dde8bfe1.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca-\u0db6\u0daf\u0dd4-\u0d89\u0dc4\u0dc5\u0da7----\u0db6\u0daf\u0dd4-\u0daf\u0dd0\u0dbd-\u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-396396",
+    "time_ut": 1660797131,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca \u0db6\u0daf\u0dd4 \u0d89\u0dc4\u0dc5\u0da7  - \u0db6\u0daf\u0dd4 \u0daf\u0dd0\u0dbd \u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/1e/1eb5b30d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -377,11 +417,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/France-relaxes-travel-advisory-against-Sri-Lanka/273-243256",
+    "url": "https://www.dailymirror.lk/latest_news/France-relaxes-travel-advisory-against-Sri-Lanka/342-243256",
     "time_ut": 1660763911,
     "original_lang": "en",
     "original_title": "France relaxes travel advisory against Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/34/347b3539.json"
+    "file_name": "/tmp/news_lk2/articles/0d/0de79a2b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
