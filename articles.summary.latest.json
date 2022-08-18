@@ -1,11 +1,75 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Mervyn-Silva-released-without-bail/342-243306",
+    "time_ut": 1660822006,
+    "original_lang": "en",
+    "original_title": "Mervyn Silva released without bail",
+    "file_name": "/tmp/news_lk2/articles/55/554dc69a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Mudalige-and-four-others-arrested/342-243305",
+    "time_ut": 1660821849,
+    "original_lang": "en",
+    "original_title": "Mudalige and four others arrested",
+    "file_name": "/tmp/news_lk2/articles/15/1504c187.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84382/minister-kanchana-files-complaint-with-cid-to-probe-cpc-and-cpstl-activities",
+    "time_ut": 1660821540,
+    "original_lang": "en",
+    "original_title": "Minister Kanchana files complaint with CID to probe CPC and CPSTL activities",
+    "file_name": "/tmp/news_lk2/articles/c8/c837f821.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0ddd\u0dbd\u0dca\u0dc6\u0dda\u0dc3\u0dca-\u0db6\u0dd2\u0db8\u0da7-\u0dc0\u0dd6-\u0dc4\u0dcf\u0db1\u0dd2\u0dba-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0d85\u0dba\u0d9a\u0dbb-\u0d9c\u0db1\u0dca\u0db1\u0dc0\u0dcf/101-618347",
+    "time_ut": 1660821395,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0dbd\u0dca\u0dc6\u0dda\u0dc3\u0dca \u0db6\u0dd2\u0db8\u0da7 \u0dc0\u0dd6 \u0dc4\u0dcf\u0db1\u0dd2\u0dba \u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0dba\u0d9a\u0dbb \u0d9c\u0db1\u0dca\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/f0/f0e9197a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dbb\u0dcf\u0dba\u0dda-\u0dbd\u0ddc\u0d9a\u0dd4-\u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0da7-\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0dc3\u0dd0\u0dbb\u0dc3\u0dd9\u0dba\u0dd2/101-618345",
+    "time_ut": 1660820950,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dbb\u0dcf\u0dba\u0dda \u0dbd\u0ddc\u0d9a\u0dd4 \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0da7 \u0d87\u0db8\u0dd0\u0dad\u0dd2 \u0dc3\u0dd0\u0dbb\u0dc3\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/21/210d7c20.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0da7-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/11-396415",
+    "time_ut": 1660820936,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0da7 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/a1/a1a819cf.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84381/former-minister-mervyn-silva-released-without-bail",
     "time_ut": 1660820820,
     "original_lang": "en",
     "original_title": "Former minister Mervyn Silva released without bail",
     "file_name": "/tmp/news_lk2/articles/d8/d848d156.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0da2\u0db6\u0dd9-\u0d91\u0d9a\u0dca\u0d9a\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0dc0\u0dad\u0dca-\u0d87\u0db8\u0dad\u0dd2\u0d9a\u0db8\u0dca-\u0d9c\u0db1\u0dca\u0db1\u0dd9-\u0db1\u0dd1/101-618344",
+    "time_ut": 1660820567,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0da2\u0db6\u0dd9 \u0d91\u0d9a\u0dca\u0d9a\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0dc0\u0dad\u0dca \u0d87\u0db8\u0dad\u0dd2\u0d9a\u0db8\u0dca \u0d9c\u0db1\u0dca\u0db1\u0dd9 \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/da/daa79cf5.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/videos/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda-\u0db4\u0dcf\u0d9c\u0db8\u0db1\u0da7-\u0d9a\u0daf\u0dd4\u0dc5\u0dd4-\u0d9c\u0dd1\u0dc3\u0dca/12-618343",
+    "time_ut": 1660820470,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda \u0db4\u0dcf\u0d9c\u0db8\u0db1\u0da7 \u0d9a\u0daf\u0dd4\u0dc5\u0dd4 \u0d9c\u0dd1\u0dc3\u0dca",
+    "file_name": "/tmp/news_lk2/articles/6b/6b847802.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -22,6 +86,14 @@
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0d9c\u0dbd\u0dca\u0d85\u0d9f\u0dd4\u0dbb\u0dd4 \u0db1\u0dd0\u0dad\u0dd2 \u0dc0\u0dd4\u0dab\u0ddc\u0dad\u0dca \u0db4\u0dd0\u0dba 10\u0d9a\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0db1\u0dd1\u2018\u2018",
     "file_name": "/tmp/news_lk2/articles/e2/e219fee3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0d9a\u0dc5\u0d9c\u0dd4\u0dab-\u0dc3\u0dd0\u0dbd\u0d9a\u0dd3\u0db8/26-618341",
+    "time_ut": 1660819751,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda \u0d9a\u0dc5\u0d9c\u0dd4\u0dab \u0dc3\u0dd0\u0dbd\u0d9a\u0dd3\u0db8",
+    "file_name": "/tmp/news_lk2/articles/68/681ec203.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -62,6 +134,14 @@
     "original_lang": "en",
     "original_title": "IUSF protest march tear-gassed",
     "file_name": "/tmp/news_lk2/articles/2a/2a7ec5c8.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dda\u0dc0-\u0db8\u0dcf\u0dad\u0dcf\u0dc0\u0da7-\u0db4\u0dc5\u0db3\u0dc0\u0dcf-\u0dad\u0dd2\u0db6\u0dd6-\u0dbb\u0db1\u0dca-\u0d86\u0db7\u0dbb\u0dab-\u0dc3\u0ddc\u0dbb\u0d9a\u0db8\u0dca-\u0d9a\u0dbb\u0dbd\u0dcf/11-396414",
+    "time_ut": 1660818805,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dda\u0dc0 \u0db8\u0dcf\u0dad\u0dcf\u0dc0\u0da7 \u0db4\u0dc5\u0db3\u0dc0\u0dcf \u0dad\u0dd2\u0db6\u0dd6 \u0dbb\u0db1\u0dca \u0d86\u0db7\u0dbb\u0dab \u0dc3\u0ddc\u0dbb\u0d9a\u0db8\u0dca \u0d9a\u0dbb\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/53/530aaae4.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -417,6 +497,14 @@
   },
   {
     "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dbb\u0dca\u0dc0\u0dd2\u0db1\u0dca-\u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf-\u0d87\u0db4-\u0daf\u0dd3\u0db8-\u0d85\u0db1\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2---\u0db1\u0da9\u0dd4-\u0daf\u0dd2\u0db1\u0dba\u0da7-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0db8-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dc0\u0dad\u0dca/11-396404",
+    "time_ut": 1660806199,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dbb\u0dca\u0dc0\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf \u0d87\u0db4 \u0daf\u0dd3\u0db8 \u0d85\u0db1\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2 - \u0db1\u0da9\u0dd4 \u0daf\u0dd2\u0db1\u0dba\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0db8 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dc0\u0dad\u0dca",
+    "file_name": "/tmp/news_lk2/articles/b1/b1192cef.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0db8\u0dbb\u0dca\u0dc0\u0dd2\u0db1\u0dca-\u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396404",
     "time_ut": 1660806199,
     "original_lang": "si",
@@ -425,11 +513,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0da7-\u0db6\u0dbd\u0dd9\u0db1\u0dca-\u0d9a\u0da9\u0dcf-\u0db4\u0dd0\u0db1\u0dca\u0db1\u0dcf\u0da7-\u0db8\u0dbb\u0dca\u0dc0\u0dd2\u0db1\u0dca-\u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-618321",
+    "url": "https://www.lankadeepa.lk/videos/\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0da7-\u0db6\u0dbd\u0dd9\u0db1\u0dca-\u0d9a\u0da9\u0dcf-\u0db4\u0dd0\u0db1\u0dca\u0db1\u0dcf\u0da7-\u0db8\u0dbb\u0dca\u0dc0\u0dd2\u0db1\u0dca-\u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/12-618321",
     "time_ut": 1660805789,
     "original_lang": "si",
     "original_title": "\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0da7 \u0db6\u0dbd\u0dd9\u0db1\u0dca \u0d9a\u0da9\u0dcf \u0db4\u0dd0\u0db1\u0dca\u0db1\u0dcf\u0da7 \u0db8\u0dbb\u0dca\u0dc0\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/f4/f484f989.json"
+    "file_name": "/tmp/news_lk2/articles/99/9988fd04.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7910,93 +7998,5 @@
     "original_lang": "en",
     "original_title": "Only one earth: Let us heal, not harm it",
     "file_name": "/tmp/news_lk2/articles/89/89df3368.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/plus/Govt-repeals-draconian-clauses-under-Emergency-Regulations/352-242977",
-    "time_ut": 1660332072,
-    "original_lang": "en",
-    "original_title": "Govt. repeals draconian clauses under Emergency Regulations",
-    "file_name": "/tmp/news_lk2/articles/c8/c868bf3d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business__main/Industries-unhappy-with-massive-electricity-tariff-hike/245-242975",
-    "time_ut": 1660331367,
-    "original_lang": "en",
-    "original_title": "Industries unhappy with massive electricity tariff hike",
-    "file_name": "/tmp/news_lk2/articles/72/72494111.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Global-apparel-industry-steps-up-to-support-Sri-Lankas-apparel-sector/273-242974",
-    "time_ut": 1660331237,
-    "original_lang": "en",
-    "original_title": "Global apparel industry steps up to support Sri Lanka\u2019s apparel sector",
-    "file_name": "/tmp/news_lk2/articles/7b/7b3fe2a6.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78978",
-    "time_ut": 1660330620,
-    "original_lang": "en",
-    "original_title": "Sri Lanka  Grants Permission for  Chinese space and satellite tracking vessel \u201cYuan Wang 5\u201d to dock  on August 16 at  Hambantota port subject to conditions that the visiting Chinese vessel\u2019s Automatic Identification System (AIS) must  be kept switched on within the EEZ of Sri Lanka and that no scientific research be conducted in Sri Lankan waters.",
-    "file_name": "/tmp/news_lk2/articles/e2/e2bdccc7.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Prime-Minister-urges-UNDP-assistance-to-develop-small-and-medium-sector-enterprises/56-738631",
-    "time_ut": 1660330217,
-    "original_lang": "en",
-    "original_title": "Prime Minister urges UNDP assistance to develop small and medium sector enterprises",
-    "file_name": "/tmp/news_lk2/articles/99/9934ed23.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Kandy-Esala-Perahera-concludes-successfully/56-738630",
-    "time_ut": 1660330178,
-    "original_lang": "en",
-    "original_title": "Kandy Esala Perahera concludes successfully",
-    "file_name": "/tmp/news_lk2/articles/ca/ca5a1d57.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/SC-grants-leave-to-proceed-in-CPA-case-against-Emergency/56-738629",
-    "time_ut": 1660330093,
-    "original_lang": "en",
-    "original_title": "SC grants leave to proceed in CPA case against Emergency",
-    "file_name": "/tmp/news_lk2/articles/cf/cf08971b.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Pakistan-naval-ship-PNS-Taimur-arrives-at-Colombo-Port/56-738628",
-    "time_ut": 1660330053,
-    "original_lang": "en",
-    "original_title": "Pakistan naval ship PNS Taimur arrives at Colombo Port",
-    "file_name": "/tmp/news_lk2/articles/1f/1f971fdc.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/SC-grants-leave-to-proceed-on-FR-cases-against-Emergency/56-738627",
-    "time_ut": 1660330007,
-    "original_lang": "en",
-    "original_title": "SC grants leave to proceed on FR cases against Emergency",
-    "file_name": "/tmp/news_lk2/articles/0f/0ff0c186.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/UNDP-Sri-Lanka-launches-two-programs-calling-young-innovators-to-act-on-climate-change/34-738626",
-    "time_ut": 1660329983,
-    "original_lang": "en",
-    "original_title": "UNDP Sri Lanka launches two programs calling young innovators to act on climate change",
-    "file_name": "/tmp/news_lk2/articles/c7/c739e4a5.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/LMD-ranks-ComBank-the-Most-Respected-Bank-in-Sri-Lanka-for-18th-year/34-738625",
-    "time_ut": 1660329887,
-    "original_lang": "en",
-    "original_title": "LMD ranks ComBank the Most Respected Bank in Sri Lanka for 18th year",
-    "file_name": "/tmp/news_lk2/articles/f1/f1bbcebe.json"
   }
 ]
