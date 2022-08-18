@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-18 23:16:24 (LK time)*
+*As of 2022-08-18 23:30:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,21 +8,19 @@
 
 * **1** economy-next-com ([Sri Lanka stocks end steady after CB held policy rates steady; turnover slumps to over 2-wk low](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d009c866.json))
 
-## Last 3 Hours (20 Articles)
+## Last 3 Hours (16 Articles)
 
-* **6** lankadeepa-lk ([මිතුරාට අවසන් ගෞරව දක්වන්න ජනපති ජපන් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57b9150b.json))
-
-* **5** news-first-lk ([Nine petitions challenge Draft 22A](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afc5a952.json))
+* **5** lankadeepa-lk ([එජා සංවිධාන නියෝජිතයෝ ජනපති හමුවෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df245258.json))
 
 * **4** ada-derana-lk ([12 arrested during protest by university students in Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8013cbf.json))
+
+* **3** news-first-lk ([Let Basil be: Tissa Kuttiarachchi](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c5ab4fd.json))
 
 * **2** economy-next-com ([Sri Lanka rupee, yields in govt securities slightly changed](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b9ce7e6.json))
 
 * **1** ada-lk ([ජනපති රනිල් ජපානයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb044797.json))
 
 * **1** daily-mirror-lk ([Facilitate safe return of Former President: SLFP requests President](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74583985.json))
-
-* **1** tamil-mirror-lk ([கட்சித் தாவப்போவதில்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f79ea864.json))
 
 ## Last 24 Hours (213 Articles)
 
