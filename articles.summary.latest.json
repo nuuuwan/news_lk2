@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd-\u0b90\u0bb5\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd/175-302579",
+    "time_ut": 1660831265,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b90\u0bb5\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/0a/0a31d1ac.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bc8-250-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb4\u0b99\u0bcd\u0b95-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd/175-302578",
+    "time_ut": 1660830985,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bc8 250 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/ec/ecbe27f4.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/japan-grants-medical-equipment-worth-500-mn-yen-to-sri-lanka-govt-hospital-98775/",
     "time_ut": 1660830720,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "THE DEMOCRATIC PARADOX OF SRI LANKA",
     "file_name": "/tmp/news_lk2/articles/d9/d9d768c4.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/reflections-on-sri-lankas-legal-system-and-the-judiciary/",
-    "time_ut": 1660387380,
-    "original_lang": "en",
-    "original_title": "REFLECTIONS ON SRI LANKA\u2019S LEGAL SYSTEM AND THE JUDICIARY",
-    "file_name": "/tmp/news_lk2/articles/a0/a06b372b.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/peaceful-and-unlawful-assembly/",
-    "time_ut": 1660387080,
-    "original_lang": "en",
-    "original_title": "Peaceful and Unlawful Assembly",
-    "file_name": "/tmp/news_lk2/articles/bf/bf2176c4.json"
   }
 ]
