@@ -1,0 +1,234 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/news/\u0dbd\u0dcf\u0dc6\u0dca-\u0d9c\u0dd1\u0dc3\u0dca-\u0db8\u0dd2\u0dbd-1050\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dc4\u0dc5\u0da7/101-618297",
+  "time_ut": 1660746173,
+  "original_lang": "si",
+  "original_title": "\u0dbd\u0dcf\u0dc6\u0dca \u0d9c\u0dd1\u0dc3\u0dca \u0db8\u0dd2\u0dbd 1050\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dc5\u0da7",
+  "text_idx": {
+    "en": {
+      "title": "Laugh Gas price down by 1050",
+      "author": "unknown",
+      "body_lines": [
+        "Mr. W. K. H. Vagapitiya, chairman of Laugh Gas Company, says that the price of a domestic gas cylinder will be reduced by 1050 rupees from midnight tonight.",
+        "Accordingly, the price of 12.50 kg cylinder will decrease by 1050 and simultaneously the price of 5 kg cylinder will also decrease.",
+        "Accordingly, the new price of 12.50 kg will be 5800 rupees. Laugh Gas Company says that the price of a 5 kg cylinder has been reduced to 2320 and the price of a kg to 928"
+      ],
+      "title_ents": [
+        {
+          "text": "1050",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "W. K. H. Vagapitiya",
+            "label": "PERSON"
+          },
+          {
+            "text": "Laugh Gas Company",
+            "label": "ORG"
+          },
+          {
+            "text": "1050",
+            "label": "DATE"
+          },
+          {
+            "text": "midnight tonight",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "12.50 kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "1050",
+            "label": "DATE"
+          },
+          {
+            "text": "5 kg",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "12.50 kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "5800",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Laugh Gas Company",
+            "label": "ORG"
+          },
+          {
+            "text": "5 kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "2320",
+            "label": "DATE"
+          },
+          {
+            "text": "928",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dbd\u0dcf\u0dc6\u0dca \u0d9c\u0dd1\u0dc3\u0dca \u0db8\u0dd2\u0dbd 1050\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dc5\u0da7",
+      "author": "unknown",
+      "body_lines": [
+        "\u0dbd\u0dcf\u0dc6\u0dca\u00a0 \u0d9c\u0dd8\u0dc4\u0dc3\u0dca\u0dae \u0d9c\u0dd1\u0dc3\u0dca \u0dc3\u0dd2\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dbb\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0d85\u0daf \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 1050\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dc5 \u0daf\u0db8\u0db1 \u0db6\u0dc0 \u0dbd\u0dcf\u0dc6\u0dca \u0d9c\u0dd1\u0dc3\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da9\u0db6\u0dca\u0dbd\u0dd2\u0dc0\u0dca.\u0d9a\u0dda.\u0d91\u0da0\u0dca \u0dc0\u0dd1\u0d9c\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0d9a\u0dd2\u0dbd\u0ddd 12.50 \u0dc3\u0dd2\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dbb\u0dca 1050\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0da9\u0dd4\u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d8a\u0da7 \u0dc3\u0db8\u0d9c\u0dcf\u0db8\u0dd3\u0dc0 \u0d9a\u0dd2\u0dbd\u0ddd 5 \u0dc3\u0dd2\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dbb\u0dba\u0d9a \u0db8\u0dd2\u0dbd\u0dba \u0db8\u0dd3\u0da7 \u0dc3\u0db8\u0d9c\u0dcf\u0db8\u0dd3\u0dc0 \u0db4\u0dc4\u0dc5 \u0dba\u0db1\u0dd4 \u0d87\u0dad\u0dd2.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0d9a\u0dd2\u0dbd\u0ddd 12.50\u0d9a \u0db1\u0dc0 \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 5800\u0d9a\u0dca \u0dc0\u0db1\u0dd4 \u0d87\u0dad. \u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca \u0db4\u0dc4\u0dda \u0dc3\u0dd2\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dbb\u0dba\u0d9a\u0dca 2320\u0d9a\u0dca \u0daf \u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca \u0d91\u0d9a\u0d9a \u0db8\u0dd2\u0dbd 928 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0daf \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dad \u0daf\u0db8\u0dcf \u0d87\u0dad\u0dd0\u0dba\u0dd2 \u0dbd\u0dcf\u0dc6\u0dca \u0d9c\u0dd1\u0dc3\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0d9a\u0dd2\u0dba\u0dba\u0dd2"
+      ],
+      "title_ents": [
+        {
+          "text": "1050",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0da9\u0db6\u0dca\u0dbd\u0dd2\u0dc0\u0dca.\u0d9a\u0dda.\u0d91\u0da0\u0dca \u0dc0\u0d9c\u0db4\u0dd2\u0da7\u0dd2\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbd\u0dcf\u0dc6\u0dca \u0d9c\u0dd1\u0dc3\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "1050",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d85\u0daf \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 12.50 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "1050",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 5 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 12.50 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "5800",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbd\u0dcf\u0dc6\u0dca \u0d9c\u0dd1\u0dc3\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 5 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "2320",
+            "label": "DATE"
+          },
+          {
+            "text": "928",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bb2\u0bbe\u0b83\u0baa\u0bcd \u0b95\u0bc7\u0bb8\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 1050 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 1050 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0bb2\u0bbe\u0b83\u0baa\u0bcd \u0b95\u0bc7\u0bb8\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1.\u0b9f\u0baa\u0bbf\u0bb3\u0bcd\u0baf\u0bc2.\u0b95\u0bc7.\u0b8e\u0b9a\u0bcd.\u0bb5\u0bbe\u0b95\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b85\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, 12.50 \u0b95\u0bbf\u0bb2\u0bcb \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 1050 \u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bcd, \u0b85\u0ba4\u0bc7 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 5 \u0b95\u0bbf\u0bb2\u0bcb \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bcd.",
+        "\u0b87\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf 12.50 \u0b95\u0bbf\u0bb2\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0bb2\u0bc8 5800 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bc1\u0bae\u0bcd. 5 \u0b95\u0bbf\u0bb2\u0bcb \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 2320 \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b92\u0bb0\u0bc1 \u0b95\u0bbf\u0bb2\u0bcb \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 928 \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 Laugh Gas \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "1050",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b9f\u0baa\u0bbf\u0bb3\u0bcd\u0baf\u0bc2.\u0b95\u0bc7.\u0b8e\u0b9a\u0bcd.\u0bb5\u0bbe\u0b95\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb2\u0bbe\u0b83\u0baa\u0bcd \u0b95\u0bc7\u0bb8\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "1050",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "12.50 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "1050",
+            "label": "DATE"
+          },
+          {
+            "text": "5 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "12.50 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "5800",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb2\u0bbe\u0b83\u0baa\u0bcd \u0b95\u0bc7\u0bb8\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "5 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "2320",
+            "label": "DATE"
+          },
+          {
+            "text": "928",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}

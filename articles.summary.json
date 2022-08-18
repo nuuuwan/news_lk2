@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84381/former-minister-mervyn-silva-released-without-bail",
+    "time_ut": 1660820820,
+    "original_lang": "en",
+    "original_title": "Former minister Mervyn Silva released without bail",
+    "file_name": "/tmp/news_lk2/articles/d8/d848d156.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0ba8\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bc8-\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd/175-302568",
+    "time_ut": 1660820315,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0ba8\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bc8 \u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/fd/fdaf8540.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0d9c\u0dbd\u0dca\u0d85\u0d9f\u0dd4\u0dbb\u0dd4-\u0db1\u0dd0\u0dad\u0dd2-\u0dc0\u0dd4\u0dab\u0ddc\u0dad\u0dca-\u0db4\u0dd0\u0dba-10\u0d9a\u0dca-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0db1\u0dd1\u2018\u2018/101-618342",
+    "time_ut": 1660819960,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0d9c\u0dbd\u0dca\u0d85\u0d9f\u0dd4\u0dbb\u0dd4 \u0db1\u0dd0\u0dad\u0dd2 \u0dc0\u0dd4\u0dab\u0ddc\u0dad\u0dca \u0db4\u0dd0\u0dba 10\u0d9a\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0db1\u0dd1\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/e2/e219fee3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Power-consumption-reduced-by-more-than-20-during-past-two-months-PUCSL/342-243304",
+    "time_ut": 1660819681,
+    "original_lang": "en",
+    "original_title": "Power consumption reduced by more than 20% during past two months: PUCSL",
+    "file_name": "/tmp/news_lk2/articles/e8/e82988cf.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/18/srilanka-economic-crisis-puts-rights-in-peril/",
     "time_ut": 1660819560,
@@ -38,6 +70,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bc0\u0bb0\u0bcd \u0bb5\u0bc6\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bcb\u0baf\u0bbe\u0bb2\u0bcd  15 \u0bae\u0bbe\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0ba9",
     "file_name": "/tmp/news_lk2/articles/a6/a60cae3a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84380/police-fired-tear-gas-at-protesters-near-union-place",
+    "time_ut": 1660818300,
+    "original_lang": "en",
+    "original_title": "Police fired tear gas at protesters near Union Place",
+    "file_name": "/tmp/news_lk2/articles/4f/4fd9f963.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
