@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Police-fire-tear-gas-to-disperse-the-protest-arrest-six-activists/56-738871",
+    "time_ut": 1660852923,
+    "original_lang": "en",
+    "original_title": "Police fire tear gas to disperse the protest; arrest six activists",
+    "file_name": "/tmp/news_lk2/articles/96/96c2cb7c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Ambassador-Samarasinghe-to-boost-ties-with-Mexico/56-738870",
     "time_ut": 1660852721,
     "original_lang": "en",
@@ -1726,6 +1734,14 @@
     "original_lang": "en",
     "original_title": "UNDCO Regional Director for Asia-Pacific calls on Minister Ali Sabry",
     "file_name": "/tmp/news_lk2/articles/7b/7bba1c3f.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79051",
+    "time_ut": 1660764240,
+    "original_lang": "en",
+    "original_title": "\u201cSri Lanka, of course, has a special relationship with India where we have to look after each other\u2019s interests.We\u2019ve so far kept out the power rivalry from the Indian Ocean. my worry is that this rivalry can come into the Indian Ocean.\u201d -President Ranil Wickremesinghe in Interview with \u201cThe Economist\u201d",
+    "file_name": "/tmp/news_lk2/articles/75/757e311d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",

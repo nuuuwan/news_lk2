@@ -1,28 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 01:40:47 (LK time)*
+*As of 2022-08-19 02:06:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last Hour (5 Articles)
 
-* **4** daily-ft-lk ([Sri Lanka going the Turkey way?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fd40788.json))
+* **5** daily-ft-lk ([Sri Lanka going the Turkey way?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fd40788.json))
 
-## Last Hour (4 Articles)
+## Last 3 Hours (9 Articles)
 
-* **4** daily-ft-lk ([Sri Lanka going the Turkey way?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fd40788.json))
-
-## Last 3 Hours (10 Articles)
-
-* **6** daily-ft-lk ([Sysco LABS ranked amongst LMD’s Most Respected Entities for 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/252a2d47.json))
-
-* **2** tamil-mirror-lk ([கோட்டாபயவுக்கு பாதுகாப்பு வழங்குமாறு கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17b8cacf.json))
+* **7** daily-ft-lk ([Sysco LABS ranked amongst LMD’s Most Respected Entities for 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/252a2d47.json))
 
 * **1** ada-derana-lk ([Australia kicks in extra $25 million emergency aid to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4a978da.json))
 
-* **1** economy-next-com ([Sri Lanka stocks end steady after CB held policy rates steady; turnover slumps to over 2-wk low](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d009c866.json))
+* **1** tamil-mirror-lk ([மாணவர் போராட்டத்தில் கைதானவர்களின் எண்ணிக்கை உயர்வு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d45e407.json))
 
-## Last 24 Hours (213 Articles)
+## Last 24 Hours (214 Articles)
 
 * **39** lankadeepa-lk ([අන්නාසි වගාව නැත්තටම නැති වෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaa714e.json))
 
@@ -36,7 +30,7 @@
 
 * **24** tamil-mirror-lk ([அனைவருக்கும் நிவாரணம்: சஜித் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b487d3c8.json))
 
-* **17** daily-ft-lk ([Tamils will only invest in SL if Govt. provides political solution: Mavai](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a99e8c07.json))
+* **18** daily-ft-lk ([Tamils will only invest in SL if Govt. provides political solution: Mavai](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a99e8c07.json))
 
 * **14** economy-next-com ([Sri Lanka sell Rs60bn mostly in 3-month bills, yield up](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5cf3df2.json))
 
@@ -56,17 +50,17 @@
 
 * **118** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
-* **81** daily-ft-lk ([Let’s take back our nation before it perishes](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a62bea43.json))
+* **80** daily-ft-lk ([National Chamber to host Malaysian High Commissioner on 16 August](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07f31306.json))
 
 * **80** economy-next-com ([Sri Lanka to use US$20mn from Indian credit for animal feed](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/715a57af.json))
 
 * **44** island-lk ([Get down to brass tacks](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9be0fc16.json))
 
-* **14** d-b-s-jeyaraj-com ([Sri Lanka  Grants Permission for  Chinese space and satellite tracking vessel “Yuan Wang 5” to dock  on August 16 at  Hambantota port subject to conditions that the visiting Chinese vessel’s Automatic Identification System (AIS) must  be kept switched on within the EEZ of Sri Lanka and that no scientific research be conducted in Sri Lankan waters.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2bdccc7.json))
+* **15** d-b-s-jeyaraj-com ([Sri Lanka  Grants Permission for  Chinese space and satellite tracking vessel “Yuan Wang 5” to dock  on August 16 at  Hambantota port subject to conditions that the visiting Chinese vessel’s Automatic Identification System (AIS) must  be kept switched on within the EEZ of Sri Lanka and that no scientific research be conducted in Sri Lankan waters.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2bdccc7.json))
 
 * **13** colombo-telegraph-com ([CID Waits Till The RTI Act Is Used To Investigate Death Threats By DIG Deshabandu Tennakoon Against A Journalist](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9712eda.json))
 
-## All Time (1,489 Articles)
+## All Time (1,491 Articles)
 
 * **257** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -76,13 +70,13 @@
 
 * **151** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
-* **135** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
+* **136** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
 * **120** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
-* **118** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **119** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 
-* **118** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
+* **118** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **100** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 

@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Police-fire-tear-gas-to-disperse-the-protest-arrest-six-activists/56-738871",
+    "time_ut": 1660852923,
+    "original_lang": "en",
+    "original_title": "Police fire tear gas to disperse the protest; arrest six activists",
+    "file_name": "/tmp/news_lk2/articles/96/96c2cb7c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Ambassador-Samarasinghe-to-boost-ties-with-Mexico/56-738870",
     "time_ut": 1660852721,
     "original_lang": "en",
@@ -1726,6 +1734,14 @@
     "original_lang": "en",
     "original_title": "UNDCO Regional Director for Asia-Pacific calls on Minister Ali Sabry",
     "file_name": "/tmp/news_lk2/articles/7b/7bba1c3f.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79051",
+    "time_ut": 1660764240,
+    "original_lang": "en",
+    "original_title": "\u201cSri Lanka, of course, has a special relationship with India where we have to look after each other\u2019s interests.We\u2019ve so far kept out the power rivalry from the Indian Ocean. my worry is that this rivalry can come into the Indian Ocean.\u201d -President Ranil Wickremesinghe in Interview with \u201cThe Economist\u201d",
+    "file_name": "/tmp/news_lk2/articles/75/757e311d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Prices of bakery products  could be lowered drastically, if govt. intervenes: Bakery owners Assn",
     "file_name": "/tmp/news_lk2/articles/e2/e2fda0cf.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/aragalaya-goes-home-2/",
-    "time_ut": 1660449360,
-    "original_lang": "en",
-    "original_title": "Aragalaya goes home",
-    "file_name": "/tmp/news_lk2/articles/2f/2fdc9f5e.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b9a\u0b95\u0bc1-\u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd-\u0bae\u0bbe\u0ba4\u0bbf\u0bb0\u0bbf-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0baa\u0bb0\u0bbf\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8/175-302275",
-    "time_ut": 1660447963,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0b9a\u0b95\u0bc1 \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd \u0bae\u0bbe\u0ba4\u0bbf\u0bb0\u0bbf \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bb0\u0bbf\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/e2/e2c6485b.json"
   }
 ]
