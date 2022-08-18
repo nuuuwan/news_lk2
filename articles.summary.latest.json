@@ -232,12 +232,36 @@
     "file_name": "/tmp/news_lk2/articles/4c/4c5ab4fd.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sampath-bank-partners-women-directors-forum-to-enliven-women-on-boards/",
+    "time_ut": 1660835460,
+    "original_lang": "en",
+    "original_title": "Sampath Bank partners Women Directors\u2019 Forum to enliven Women on Boards",
+    "file_name": "/tmp/news_lk2/articles/32/327eb3a0.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d91\u0da2\u0dcf-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1-\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0ddd-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dad\u0dd2/101-618360",
     "time_ut": 1660835212,
     "original_lang": "si",
     "original_title": "\u0d91\u0da2\u0dcf \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0ddd \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dad\u0dd2",
     "file_name": "/tmp/news_lk2/articles/df/df245258.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/nations-trust-banks-cycology-officebybike2022-initiative-encourages-employees-to-ride-to-work/",
+    "time_ut": 1660835160,
+    "original_lang": "en",
+    "original_title": "Nations Trust Bank\u2019s CYCOLOGY #OfficeByBike2022 initiative encourages employees to ride to work",
+    "file_name": "/tmp/news_lk2/articles/91/9143e98f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sl-confident-of-reaching-debt-sustainability-without-re-structuring-domestic-debt/",
+    "time_ut": 1660835100,
+    "original_lang": "en",
+    "original_title": "\u2018SL confident of reaching debt sustainability without re-structuring domestic debt\u2019",
+    "file_name": "/tmp/news_lk2/articles/f0/f0a3bec4.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -1865,6 +1889,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/peterites-celebrating-around-the-globe/",
+    "time_ut": 1660757460,
+    "original_lang": "en",
+    "original_title": "Peterites celebrating \u2026around the globe",
+    "file_name": "/tmp/news_lk2/articles/ed/ede989e6.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/sme-businesses-in-puttalam-enriched-by-seylan-bank-and-ccc-workshop/",
     "time_ut": 1660756920,
     "original_lang": "en",
@@ -1886,6 +1918,30 @@
     "original_lang": "en",
     "original_title": "\u2018Dialog Smart Home brings you a Smart Security Doorbell to ensure the security of your home\u2019",
     "file_name": "/tmp/news_lk2/articles/7c/7c92c5c5.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/labour-dept-insists-on-strong-employee-employer-relationships-for-industrial-peace/",
+    "time_ut": 1660756860,
+    "original_lang": "en",
+    "original_title": "Labour Dept. insists on strong employee \u2013 employer relationships for industrial peace",
+    "file_name": "/tmp/news_lk2/articles/df/dff766e0.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/macroeconomic-arena-developments-boost-share-market/",
+    "time_ut": 1660756860,
+    "original_lang": "en",
+    "original_title": "Macroeconomic arena developments boost share market",
+    "file_name": "/tmp/news_lk2/articles/bc/bc6eb3d7.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/reckless-spending-by-governments-and-public-sector-created-debt-crisis-prof-lakshman-watawala/",
+    "time_ut": 1660756800,
+    "original_lang": "en",
+    "original_title": "Reckless spending by governments and public sector created debt crisis \u2013 Prof. Lakshman Watawala",
+    "file_name": "/tmp/news_lk2/articles/33/33564160.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7942,61 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 3\u0da7 \u0dc0\u0db1 \u0d85\u0dbd\u0dd2 \u0db8\u0dbb\u0dab 1110\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/26/26d1f8dd.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4-\u0b87\u0bb0\u0bc1-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-302282",
-    "time_ut": 1660453805,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/fe/feca54bb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Number-of-vehicles-can-now-be-registered-under-BRN-under-NFP-ICTA/108-242995",
-    "time_ut": 1660453770,
-    "original_lang": "en",
-    "original_title": "Number of vehicles can now be registered under BRN under NFP: ICTA",
-    "file_name": "/tmp/news_lk2/articles/d1/d18fff02.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/14/non-parliament-parties-summoned-to-elections-comm/",
-    "time_ut": 1660453440,
-    "original_lang": "en",
-    "original_title": "Non-Parliament parties summoned to Elections Comm.",
-    "file_name": "/tmp/news_lk2/articles/93/931edb5f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/14/100-000-mt-of-crude-reaches-sl/",
-    "time_ut": 1660453380,
-    "original_lang": "en",
-    "original_title": "100,000 MT of Crude reaches SL",
-    "file_name": "/tmp/news_lk2/articles/e5/e59f48f8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/14/350-leprosy-patients-reported-in-2022/",
-    "time_ut": 1660453200,
-    "original_lang": "en",
-    "original_title": "350+ leprosy patients reported in 2022",
-    "file_name": "/tmp/news_lk2/articles/a6/a6889fc0.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/14/public-debt-to-gdp-surges-to-104/",
-    "time_ut": 1660453020,
-    "original_lang": "en",
-    "original_title": "Public debt to GDP surges to 104%",
-    "file_name": "/tmp/news_lk2/articles/c6/c657bdcb.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0ba8\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bcd-\u0b89\u0bb1\u0bcd\u0b9a\u0bb5\u0bae\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc1\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0ba4\u0bcd\u0ba4\u0ba9\u0bae\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/71-302280",
-    "time_ut": 1660451843,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bcd \u0b89\u0bb1\u0bcd\u0b9a\u0bb5\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0ba4\u0bcd\u0ba4\u0ba9\u0bae\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/bf/bfcb3863.json"
   }
 ]
