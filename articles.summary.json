@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84378/suspect-arrested-for-cannabis-to-school-children",
+    "time_ut": 1660815780,
+    "original_lang": "en",
+    "original_title": "Suspect arrested for cannabis to school children",
+    "file_name": "/tmp/news_lk2/articles/59/591ebfd2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/amnesty-to-deposit-sell-foreign-currency/",
+    "time_ut": 1660815600,
+    "original_lang": "en",
+    "original_title": "Amnesty to Deposit/Sell Foreign Currency",
+    "file_name": "/tmp/news_lk2/articles/cb/cb0d54cf.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/22\u0d9a\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0dca-\u0db1\u0dc0\u0dba\u0d9a\u0dca/1-618334",
+    "time_ut": 1660815441,
+    "original_lang": "si",
+    "original_title": "22\u0d9a\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0dca \u0db1\u0dc0\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/19/19648cf8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/australian-hc-present-credentials/",
+    "time_ut": 1660815240,
+    "original_lang": "en",
+    "original_title": "Australian HC present credentials",
+    "file_name": "/tmp/news_lk2/articles/14/14004583.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/I-dont-intend-to-shift-sides-Madduma-Bandara/108-243299",
     "time_ut": 1660814742,
     "original_lang": "en",
     "original_title": "I don\u2019t intend to shift sides: Madduma Bandara",
     "file_name": "/tmp/news_lk2/articles/ac/acd72a67.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf-\u0dbb\u0dae-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0-\u0d89\u0dc4\u0dc5\u0da7--\u0db4\u0dc5\u0db8\u0dd4-\u0d9a\u0dd2\u0dbd\u0ddd\u0db8\u0dd3\u0da7\u0dbb\u0dba\u0da7-120-\u0dba\u0dd2/11-396410",
+    "time_ut": 1660814135,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf \u0dbb\u0dae \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0d89\u0dc4\u0dc5\u0da7 -\u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dd2\u0dbd\u0ddd\u0db8\u0dd3\u0da7\u0dbb\u0dba\u0da7 120 \u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d5/d56362b7.json"
   },
   {
     "newspaper_id": "news-first-lk",
