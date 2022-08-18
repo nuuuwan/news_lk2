@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/CCD-finds-man-who-deposited-Rs-5-Mn-to-Rattas-account-Probe-finds-mistaken-transaction/108-243295",
+    "time_ut": 1660801785,
+    "original_lang": "en",
+    "original_title": "CCD finds man who deposited Rs.5 Mn to Ratta\u2019s account; Probe finds mistaken transaction",
+    "file_name": "/tmp/news_lk2/articles/86/863821c1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/minister-meets-ceb-engineers/",
+    "time_ut": 1660801140,
+    "original_lang": "en",
+    "original_title": "Minister meets CEB Engineers",
+    "file_name": "/tmp/news_lk2/articles/05/05f948dd.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dad\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0d9a\u0dd1\u0db8-\u0dbb\u0da7\u0dd2\u0db1\u0dca-\u0d9c\u0dda\u0db1\u0dca\u0db1-\u0dba\u0dba\u0dd2/101-618317",
+    "time_ut": 1660800746,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dad\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0d9a\u0dd1\u0db8 \u0dbb\u0da7\u0dd2\u0db1\u0dca \u0d9c\u0dda\u0db1\u0dca\u0db1 \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/da/da467534.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Man-with-drugs-money-worth-Rs-10Mn-nabbed-in-Kotahena/108-243294",
     "time_ut": 1660799928,
     "original_lang": "en",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Varna Packaging strengthens competitive edge with BOBST NOVA D 800 Laminator",
     "file_name": "/tmp/news_lk2/articles/79/7918c499.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/JVP-aligned-TUCC-issues-Citizen-s-Edict-against-Govt/56-738503",
-    "time_ut": 1660088124,
-    "original_lang": "en",
-    "original_title": "JVP-aligned TUCC issues \u2018Citizen\u2019s Edict\u2019 against Govt.",
-    "file_name": "/tmp/news_lk2/articles/c3/c37a5a67.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Sri-Lanka-celebrates-55thASEAN-Day/56-738502",
-    "time_ut": 1660088015,
-    "original_lang": "en",
-    "original_title": "Sri Lanka celebrates 55th\u00a0ASEAN Day",
-    "file_name": "/tmp/news_lk2/articles/2b/2b6776b6.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/SJB-protests-against-Emergency/56-738501",
-    "time_ut": 1660087953,
-    "original_lang": "en",
-    "original_title": "SJB protests against Emergency",
-    "file_name": "/tmp/news_lk2/articles/23/23144f55.json"
   }
 ]
