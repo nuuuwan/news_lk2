@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/161-covid-cases-reported-on-wednesday-17/",
+    "time_ut": 1660794600,
+    "original_lang": "en",
+    "original_title": "161 COVID cases reported on Wednesday (17)",
+    "file_name": "/tmp/news_lk2/articles/c7/c7e6a1c1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84371/grama-niladhari-officer-who-threw-8-yr-old-child-into-canal-arrested",
+    "time_ut": 1660793640,
+    "original_lang": "en",
+    "original_title": "Grama Niladhari officer who threw 8-yr-old child into canal arrested",
+    "file_name": "/tmp/news_lk2/articles/db/db568faf.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc7\u0bb1-\u0b95\u0bbf\u0bb0\u0bc0\u0ba9\u0bcd-\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0bae\u0bcd/175-302547",
+    "time_ut": 1660793566,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc7\u0bb1 \u0b95\u0bbf\u0bb0\u0bc0\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/4d/4dde26a6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/heavy-showers-expected-tonight-18/",
+    "time_ut": 1660793340,
+    "original_lang": "en",
+    "original_title": "Heavy showers expected tonight (18)",
+    "file_name": "/tmp/news_lk2/articles/dd/dd72e55c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/no-change-to-cbsl-policy-rates/",
+    "time_ut": 1660792140,
+    "original_lang": "en",
+    "original_title": "NO change to CBSL policy rates",
+    "file_name": "/tmp/news_lk2/articles/bb/bbfefd7f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0b9a\u0bc6\u0baf\u0bb2\u0bb0\u0bbf\u0ba9\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd/175-302546",
+    "time_ut": 1660791675,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bc6\u0baf\u0bb2\u0bb0\u0bbf\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/dd/dd5dd7bc.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84370/central-bank-decides-to-maintain-policy-rates",
     "time_ut": 1660791000,
@@ -17,11 +65,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf-\u2019\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca-\u0d9a\u0dcf\u0da9\u0dca\u2019-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-618312",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0ddd\u0da8\u0dcf-\u2019\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca-\u0d9a\u0dcf\u0da9\u0dca\u2019-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-618312",
     "time_ut": 1660789145,
     "original_lang": "si",
     "original_title": "\u0d9c\u0ddd\u0da8\u0dcf \u2019\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca \u0d9a\u0dcf\u0da9\u0dca\u2019 \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e3/e38652f7.json"
+    "file_name": "/tmp/news_lk2/articles/81/81dacbbd.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -73,11 +121,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/UN-and-Sri-Lanka-sign-deal-focused-on-rapid-recovery/108-243268",
+    "url": "https://www.dailymirror.lk/latest_news/UN-and-Sri-Lanka-sign-deal-focused-on-rapid-recovery/342-243268",
     "time_ut": 1660785685,
     "original_lang": "en",
     "original_title": "UN and Sri Lanka sign deal focused on rapid recovery",
-    "file_name": "/tmp/news_lk2/articles/19/198323fb.json"
+    "file_name": "/tmp/news_lk2/articles/20/2020be68.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -238,6 +286,14 @@
     "original_lang": "en",
     "original_title": "UNDCO Regional Director for Asia-Pacific calls on Minister Ali Sabry",
     "file_name": "/tmp/news_lk2/articles/7b/7bba1c3f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business__main/Prez-reignites-domestic-debt-restructuring-fears/245-243257",
+    "time_ut": 1660764007,
+    "original_lang": "en",
+    "original_title": "Prez reignites domestic debt restructuring fears",
+    "file_name": "/tmp/news_lk2/articles/6d/6d90d302.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
