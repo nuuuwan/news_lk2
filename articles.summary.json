@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84375/mervyn-silva-arrested-by-cid",
+    "time_ut": 1660805280,
+    "original_lang": "en",
+    "original_title": "Mervyn Silva arrested by CID",
+    "file_name": "/tmp/news_lk2/articles/ea/ea02af33.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/ranil-basil-meeting-today-17/",
+    "time_ut": 1660805100,
+    "original_lang": "en",
+    "original_title": "Ranil \u2013 Basil meeting today (17)",
+    "file_name": "/tmp/news_lk2/articles/bf/bfed7143.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84374/imf-team-to-visit-sri-lanka-by-month-end-for-staff-level-agreement",
+    "time_ut": 1660805040,
+    "original_lang": "en",
+    "original_title": "IMF team to visit Sri Lanka by month-end for staff-level agreement",
+    "file_name": "/tmp/news_lk2/articles/e8/e89a2f63.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Tuk-Tuk-fares-increased-Rs-120-per-km-Rs-100-from-2nd-km-Union/108-243297",
+    "time_ut": 1660804762,
+    "original_lang": "en",
+    "original_title": "Tuk Tuk fares increased; Rs.120 per km, Rs. 100 from 2nd km: Union",
+    "file_name": "/tmp/news_lk2/articles/7f/7f5dc301.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0b9f\u0ba8\u0bcd\u0ba4-\u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8-\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf/71-302553",
+    "time_ut": 1660804439,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4 \u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8; \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/35/35ea0373.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-customs-seizes-32-tons-of-illegal-scrap-metal-98750/",
+    "time_ut": 1660804260,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Customs seizes 32 tons of illegal scrap metal",
+    "file_name": "/tmp/news_lk2/articles/ce/ced0d25b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc7\u0bb0\u0bcd\u0bb5\u0bbf\u0ba9\u0bcd-\u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe-\u0b95\u0bc8\u0ba4\u0bc1/175-302552",
+    "time_ut": 1660804252,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc7\u0bb0\u0bcd\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/fb/fbbc51dc.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/18/medicine-shortage-at-lady-ridgeway-hospital/",
     "time_ut": 1660804140,
@@ -145,11 +201,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Man-arrested-for-entering-MP-Kokilas-residence/342-243293",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-arrested-for-entering-MP-Kokilas-residence/108-243293",
     "time_ut": 1660799303,
     "original_lang": "en",
     "original_title": "Man arrested for entering MP Kokila\u2019s residence",
-    "file_name": "/tmp/news_lk2/articles/69/69873f4f.json"
+    "file_name": "/tmp/news_lk2/articles/44/44ff92bc.json"
   },
   {
     "newspaper_id": "ada-lk",
