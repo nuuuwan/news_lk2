@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Ambassador-Samarasinghe-to-boost-ties-with-Mexico/56-738870",
+    "time_ut": 1660852721,
+    "original_lang": "en",
+    "original_title": "Ambassador Samarasinghe to boost ties with Mexico",
+    "file_name": "/tmp/news_lk2/articles/07/0708c04a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Australia-extends-25-m-more-as-humanitarian-assistance/56-738869",
+    "time_ut": 1660852598,
+    "original_lang": "en",
+    "original_title": "Australia extends $ 25 m more as humanitarian assistance",
+    "file_name": "/tmp/news_lk2/articles/18/188060d5.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Futureworld-opens-new-flagship-and-exclusive-Apple-store-inColombo-3/34-738868",
+    "time_ut": 1660852504,
+    "original_lang": "en",
+    "original_title": "Futureworld opens new flagship and exclusive Apple store in\u00a0Colombo 3",
+    "file_name": "/tmp/news_lk2/articles/7e/7e8ec85d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-going-the-Turkey-way/4-738867",
+    "time_ut": 1660851942,
+    "original_lang": "en",
+    "original_title": "Sri Lanka going the Turkey way?",
+    "file_name": "/tmp/news_lk2/articles/9f/9fd40788.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84390/australia-kicks-in-extra-25-million-emergency-aid-to-sri-lanka",
     "time_ut": 1660847640,
@@ -7966,37 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0b9a\u0b95\u0bc1 \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd \u0bae\u0bbe\u0ba4\u0bbf\u0bb0\u0bbf \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bb0\u0bbf\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8",
     "file_name": "/tmp/news_lk2/articles/e2/e2c6485b.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b95-\u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0bae\u0bca\u0ba9\u0bb0\u0bbe\u0b95\u0bb2\u0bc8-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/76-302274",
-    "time_ut": 1660447949,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bca\u0ba9\u0bb0\u0bbe\u0b95\u0bb2\u0bc8 \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/3d/3d88a56b.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba8\u0bb2\u0ba9\u0bcd-\u0b95\u0bb0\u0bc1\u0ba4\u0bbf-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0b8e\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd-\u0b89\u0ba4\u0baf\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd/76-302273",
-    "time_ut": 1660447009,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bb2\u0ba9\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bbf \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd: \u0b89\u0ba4\u0baf\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/11/1133a293.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84290/sapugaskanda-refinery-to-resume-operations-next-week",
-    "time_ut": 1660446960,
-    "original_lang": "en",
-    "original_title": "Sapugaskanda refinery to resume operations next week",
-    "file_name": "/tmp/news_lk2/articles/27/270afefd.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-jet-fuel-shortages-costing-srilankan-airlines-us7mmn-a-month-98499/",
-    "time_ut": 1660446660,
-    "original_lang": "en",
-    "original_title": "Sri Lanka jet fuel shortages costing SriLankan Airlines US$7mmn a month",
-    "file_name": "/tmp/news_lk2/articles/44/4462428f.json"
   }
 ]
