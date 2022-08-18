@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-end-steady-after-cb-held-policy-rates-steady-turnover-slumps-to-over-2-wk-low-98778/",
+    "time_ut": 1660842720,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks end steady after CB held policy rates steady; turnover slumps to over 2-wk low",
+    "file_name": "/tmp/news_lk2/articles/d0/d009c866.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84389/susil-doesnt-think-gotabaya-will-return-to-politics-again",
     "time_ut": 1660840260,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Two Sri Lankan nationals arrested on robbery charge in Chennai",
     "file_name": "/tmp/news_lk2/articles/24/242bbdc8.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0ba8\u0bbe-\u0bae\u0ba9\u0bbf\u0ba4-\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd-\u0baa\u0bc7\u0bb0\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-302269",
-    "time_ut": 1660440790,
-    "original_lang": "ta",
-    "original_title": "\u0b90.\u0ba8\u0bbe \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/4c/4c07e8a8.json"
   }
 ]
