@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 03:03:51 (LK time)*
+*As of 2022-08-19 03:22:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (5 Articles)
 
 * **5** daily-ft-lk ([Sri Lanka going the Turkey way?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fd40788.json))
-
-* **1** ada-derana-lk ([Australia kicks in extra $25 million emergency aid to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4a978da.json))
 
 ## Last 24 Hours (214 Articles)
 
@@ -30,7 +28,7 @@
 
 * **1** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
-## Last Week (1,105 Articles)
+## Last Week (1,101 Articles)
 
 * **190** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
@@ -46,7 +44,7 @@
 
 * **80** economy-next-com ([Sri Lanka to use US$20mn from Indian credit for animal feed](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/715a57af.json))
 
-* **73** daily-ft-lk ([Japan provides Rs. 761 m grant aid for Human Resource Development Scholarship project](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f6a564f.json))
+* **69** daily-ft-lk ([Dollar chase: Reforms and audits](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9a9b109.json))
 
 * **44** island-lk ([Get down to brass tacks](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9be0fc16.json))
 
