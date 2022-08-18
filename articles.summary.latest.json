@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/I-dont-intend-to-shift-sides-Madduma-Bandara/108-243299",
+    "time_ut": 1660814742,
+    "original_lang": "en",
+    "original_title": "I don\u2019t intend to shift sides: Madduma Bandara",
+    "file_name": "/tmp/news_lk2/articles/ac/acd72a67.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/laptop-thieves-arrested-in-wattala/",
+    "time_ut": 1660814040,
+    "original_lang": "en",
+    "original_title": "Laptop Thieves arrested In Wattala",
+    "file_name": "/tmp/news_lk2/articles/30/307d17cb.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/14-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc1\u0bb3\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0b95\u0bbf\u0ba9\u0bb0\u0bcd/76-302559",
+    "time_ut": 1660813697,
+    "original_lang": "ta",
+    "original_title": "14 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb3\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0b95\u0bbf\u0ba9\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/ed/ed99fb34.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/sri-lanka-inflation-will-peak-in-september-and-trend-down-cbsl-governor/",
+    "time_ut": 1660813680,
+    "original_lang": "en",
+    "original_title": "Sri Lanka: Inflation will peak in September and trend down \u2013 CBSL Governor",
+    "file_name": "/tmp/news_lk2/articles/9d/9db71ffd.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/18/restructuring-domestic-debt-would-lead-to-an-issue-cbsl-chief/",
     "time_ut": 1660813020,
     "original_lang": "en",
     "original_title": "Restructuring domestic debt would lead to an issue \u2013 CBSL Chief",
     "file_name": "/tmp/news_lk2/articles/ae/aef1a5fe.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0dd3-\u0dc0\u0dbd\u0da7-\u0dc4\u0ddc\u0db3-\u0db8\u0dd2\u0dbd\u0d9a\u0dca/11-396408",
+    "time_ut": 1660812902,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd3 \u0dc0\u0dbd\u0da7 \u0dc4\u0ddc\u0db3 \u0db8\u0dd2\u0dbd\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/31/31382094.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -105,11 +145,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19\u2019-\u0dc0\u0dba\u0dd2\u0dbb\u0dc3\u0dba\u0dd9\u0db1\u0dca-\u0db8\u0ddc\u0dc5\u0dba\u0da7-\u0dc0\u0db1-\u0dc4\u0dcf\u0db1\u0dd2\u0dba-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dcf\u0dbd\u0dd3\u0db1\u0dba\u0dd2/1-618325",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19\u2019-\u0dc0\u0dba\u0dd2\u0dbb\u0dc3\u0dba\u0dd9\u0db1\u0dca-\u0db8\u0ddc\u0dc5\u0dba\u0da7-\u0dc0\u0db1-\u0dc4\u0dcf\u0db1\u0dd2\u0dba-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dcf\u0dbd\u0dd3\u0db1\u0dba\u0dd2/101-618325",
     "time_ut": 1660808264,
     "original_lang": "si",
     "original_title": "\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca 19\u2019 \u0dc0\u0dba\u0dd2\u0dbb\u0dc3\u0dba\u0dd9\u0db1\u0dca \u0db8\u0ddc\u0dc5\u0dba\u0da7 \u0dc0\u0db1 \u0dc4\u0dcf\u0db1\u0dd2\u0dba \u0daf\u0dd2\u0d9c\u0dd4 \u0d9a\u0dcf\u0dbd\u0dd3\u0db1\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/9b/9ba2c640.json"
+    "file_name": "/tmp/news_lk2/articles/ff/ffab5f67.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -249,11 +289,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/CBSL-maintains-policy-rates-at-current-levels/108-243296",
+    "url": "https://www.dailymirror.lk/business_247/CBSL-maintains-policy-rates-at-current-levels/395-243296",
     "time_ut": 1660803996,
     "original_lang": "en",
     "original_title": "CBSL maintains policy rates at current levels",
-    "file_name": "/tmp/news_lk2/articles/1a/1af0267e.json"
+    "file_name": "/tmp/news_lk2/articles/1c/1c2d9633.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -657,11 +697,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2-\u0dc0\u0d9c\u0dcf\u0dc0-\u0db1\u0dd0\u0dad\u0dca\u0dad\u0da7\u0db8-\u0db1\u0dd0\u0dad\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2\u0daf-/101-618309",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2-\u0dc0\u0d9c\u0dcf\u0dc0-\u0db1\u0dd0\u0dad\u0dca\u0dad\u0da7\u0db8-\u0db1\u0dd0\u0dad\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2\u0daf-/1-618309",
     "time_ut": 1660785340,
     "original_lang": "si",
     "original_title": "\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2 \u0dc0\u0d9c\u0dcf\u0dc0 \u0db1\u0dd0\u0dad\u0dca\u0dad\u0da7\u0db8 \u0db1\u0dd0\u0dad\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/85/85af2f83.json"
+    "file_name": "/tmp/news_lk2/articles/6a/6aaa714e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Dismissing Ranil",
     "file_name": "/tmp/news_lk2/articles/3b/3b57cc95.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Let-s-take-back-our-nation-before-it-perishes/4-738578",
-    "time_ut": 1660248783,
-    "original_lang": "en",
-    "original_title": "Let\u2019s take back our nation before it perishes",
-    "file_name": "/tmp/news_lk2/articles/a6/a62bea43.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/President-must-withdraw-emergency-as-it-sends-out-a-wrong-message-Prof-Uyangoda/14-738577",
-    "time_ut": 1660248418,
-    "original_lang": "en",
-    "original_title": "\u201cPresident must withdraw emergency as it sends out a wrong message\u201d: Prof. Uyangoda",
-    "file_name": "/tmp/news_lk2/articles/68/685b8e6d.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78973",
-    "time_ut": 1660245840,
-    "original_lang": "en",
-    "original_title": "Well-known author Salman Rushdie Stabbed  Multiple times by Lone Assailant  while speaking at an event at the Chautauqua Institution in New York Omdergoes Surgery;  Police arrest suspect named as Hadi Matar(24) from Fairview, New Jersey.",
-    "file_name": "/tmp/news_lk2/articles/4a/4afd206c.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78971",
-    "time_ut": 1660245300,
-    "original_lang": "en",
-    "original_title": "Relentless Struggle  by Tamil Mothers of \u201cDisappeared\u201d Reaches 2000 Day Landmark;Hundreds of Women Stage Rally in  northern Kilinochchi district seeking truth and justice for their loved ones forcibly disappeared during and after the civil war",
-    "file_name": "/tmp/news_lk2/articles/c6/c6c068e2.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78966",
-    "time_ut": 1660244760,
-    "original_lang": "en",
-    "original_title": "Sri Lankan Govt Permits Chinese tracking ship \u201d Yuang Wang 5\u2033 to dock at Hambantota Port on August 16  following the failure of the Indian and US Governments to  provide  \u201cconcrete reasons\u201d for  their opposition to the  Vessel  arriving in H\u2019tota",
-    "file_name": "/tmp/news_lk2/articles/f9/f949eb95.json"
   }
 ]
