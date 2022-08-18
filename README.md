@@ -1,20 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-18 23:00:08 (LK time)*
+*As of 2022-08-18 23:16:24 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** economy-next-com ([Sri Lanka stocks end steady after CB held policy rates steady; turnover slumps to over 2-wk low](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d009c866.json))
 
-## Last Hour (2 Articles)
-
-* **1** economy-next-com ([Sri Lanka stocks end steady after CB held policy rates steady; turnover slumps to over 2-wk low](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d009c866.json))
-
-* **1** ada-derana-lk ([Susil doesn’t think Gotabaya will return to politics again](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b15347b9.json))
-
-## Last 3 Hours (23 Articles)
+## Last 3 Hours (20 Articles)
 
 * **6** lankadeepa-lk ([මිතුරාට අවසන් ගෞරව දක්වන්න ජනපති ජපන් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57b9150b.json))
 
@@ -22,15 +16,15 @@
 
 * **4** ada-derana-lk ([12 arrested during protest by university students in Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8013cbf.json))
 
-* **3** daily-mirror-lk ([Ranjith Madduma denies reports of crossing over to Govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28bf2d1c.json))
-
 * **2** economy-next-com ([Sri Lanka rupee, yields in govt securities slightly changed](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b9ce7e6.json))
 
-* **2** ada-lk ([අරගලකරුවන් නිසා ගෝල්ෆේ්ස් පිටියට සිදුව ඇති හානිය ඔවුන්ගෙන් අයකර ගන්නවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/789bc216.json))
+* **1** ada-lk ([ජනපති රනිල් ජපානයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb044797.json))
+
+* **1** daily-mirror-lk ([Facilitate safe return of Former President: SLFP requests President](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74583985.json))
 
 * **1** tamil-mirror-lk ([கட்சித் தாவப்போவதில்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f79ea864.json))
 
-## Last 24 Hours (215 Articles)
+## Last 24 Hours (213 Articles)
 
 * **39** lankadeepa-lk ([අන්නාසි වගාව නැත්තටම නැති වෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaa714e.json))
 
@@ -42,7 +36,7 @@
 
 * **28** ada-derana-lk ([President Ranil speaks to foreign media on plans to revive economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4bba30b.json))
 
-* **23** tamil-mirror-lk ([‘ஜனாதிபதியானால் ஹிருணிகாவை அடித்து நிர்வாணப்படுத்தியிருப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e08f818.json))
+* **22** tamil-mirror-lk ([அனைவருக்கும் நிவாரணம்: சஜித் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b487d3c8.json))
 
 * **14** economy-next-com ([Sri Lanka sell Rs60bn mostly in 3-month bills, yield up](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5cf3df2.json))
 
@@ -51,8 +45,6 @@
 * **1** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
 * **1** d-b-s-jeyaraj-com ([Gotabaya Rajapaksa Likely to Return to Sri Lanka on Aug 25th From Thailand; will be Provided House and Security by State as a former President is entitled to; wants to go back to California after obtaining  US Green Card](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee9266f7.json))
-
-* **1** island-lk ([Simple ways to take care of your skin](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/4476c7f2.json))
 
 ## Last Week (1,108 Articles)
 
