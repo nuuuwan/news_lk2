@@ -1,6 +1,70 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bb5\u0bc1\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0ba8\u0b9f\u0bc8\u0bae\u0bc1\u0bb1\u0bc8/175-302545",
+    "time_ut": 1660786770,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0b9f\u0bb5\u0bc1\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba8\u0b9f\u0bc8\u0bae\u0bc1\u0bb1\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/8a/8a94ca4d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0db6\u0dbd\u0dba-\u0db6\u0dd9\u0daf\u0db1\u0dca\u0db1\u0dda-\u0db1\u0db8\u0dca-\u0dbb\u0da7-\u0d9c\u0ddc\u0da9\u0db1\u0d9c\u0db1\u0dca\u0db1-\u0d8b\u0daf\u0dc0\u0dca-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf\u2018\u2018/1-618310",
+    "time_ut": 1660785971,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0db6\u0dbd\u0dba \u0db6\u0dd9\u0daf\u0db1\u0dca\u0db1\u0dda \u0db1\u0db8\u0dca \u0dbb\u0da7 \u0d9c\u0ddc\u0da9\u0db1\u0d9c\u0db1\u0dca\u0db1 \u0d8b\u0daf\u0dc0\u0dca \u0d9a\u0dbb\u0db1\u0dc0\u0dcf\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/dd/dd30155d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/UN-and-Sri-Lanka-sign-deal-focused-on-rapid-recovery/108-243268",
+    "time_ut": 1660785685,
+    "original_lang": "en",
+    "original_title": "UN and Sri Lanka sign deal focused on rapid recovery",
+    "file_name": "/tmp/news_lk2/articles/19/198323fb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/I-have-given-several-recommendation-letters-Namal/342-243267",
+    "time_ut": 1660785496,
+    "original_lang": "en",
+    "original_title": "I have given several recommendation letters: Namal",
+    "file_name": "/tmp/news_lk2/articles/c6/c6d1cc1d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2-\u0dc0\u0d9c\u0dcf\u0dc0-\u0db1\u0dd0\u0dad\u0dca\u0dad\u0da7\u0db8-\u0db1\u0dd0\u0dad\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2\u0daf/1-618309",
+    "time_ut": 1660785340,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2 \u0dc0\u0d9c\u0dcf\u0dc0 \u0db1\u0dd0\u0dad\u0dca\u0dad\u0da7\u0db8 \u0db1\u0dd0\u0dad\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2\u0daf",
+    "file_name": "/tmp/news_lk2/articles/08/08b2c44b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/New-Cabinet-appointment-to-be-delayed-by-week/108-243266",
+    "time_ut": 1660785304,
+    "original_lang": "en",
+    "original_title": "New Cabinet appointment to be delayed by week",
+    "file_name": "/tmp/news_lk2/articles/de/de79d30b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb8\u0bcd\u0b95\u0b9f\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd/175-302544",
+    "time_ut": 1660785295,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0bb8\u0bcd\u0b95\u0b9f\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/8d/8da98433.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/GR-applies-for-US-Green-Card-looks-to-settle-back-in-US/342-243265",
+    "time_ut": 1660784696,
+    "original_lang": "en",
+    "original_title": "GR applies for US Green Card, looks to settle back in US",
+    "file_name": "/tmp/news_lk2/articles/bf/bfceac11.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bc8\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd-\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-302543",
     "time_ut": 1660784528,
     "original_lang": "ta",
@@ -120,6 +184,22 @@
     "file_name": "/tmp/news_lk2/articles/7b/7bba1c3f.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/House-and-apartment-prices-skyrocket-with-escalating-construction-costs/108-243251",
+    "time_ut": 1660763531,
+    "original_lang": "en",
+    "original_title": "House and apartment prices skyrocket with escalating construction costs",
+    "file_name": "/tmp/news_lk2/articles/62/621cf43c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/sports/2026-\u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dba\u0dd220-\u0dbd\u0ddd\u0d9a-\u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dc4\u0dcf-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0dc3\u0db8-\u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca/9-396391",
+    "time_ut": 1660761559,
+    "original_lang": "si",
+    "original_title": "2026 \u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dba\u0dd220 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc4\u0dcf \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc3\u0db8 \u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/ef/ef94dee3.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84367/govt-mulling-privatizing-of-several-state-enterprises-president-says",
     "time_ut": 1660760940,
@@ -190,6 +270,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka stocks down for second session on profit taking after gaining rally",
     "file_name": "/tmp/news_lk2/articles/71/71966c90.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-down-for-second-session-on-profit-taking-98710/",
+    "time_ut": 1660753080,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks down for second session on profit taking",
+    "file_name": "/tmp/news_lk2/articles/41/41e821d1.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7910,93 +7998,5 @@
     "original_lang": "en",
     "original_title": "The Aragalaya:  A sceptic\u2019s notes",
     "file_name": "/tmp/news_lk2/articles/ac/ac359902.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78832",
-    "time_ut": 1659987660,
-    "original_lang": "en",
-    "original_title": "Indo-Lanka Accord 35th Anniversary: How the Tamils Messed up a Golden Opportunity.",
-    "file_name": "/tmp/news_lk2/articles/e0/e0866359.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78930",
-    "time_ut": 1659986640,
-    "original_lang": "en",
-    "original_title": "Any attempts to push through an IMF reform programme without clear articulation of its rationale, expected outcomes, and measures to protect the vulnerable will be met with resistance by politicians and the public.",
-    "file_name": "/tmp/news_lk2/articles/d8/d81b4f5c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/hard-talk/The-Argalaya-must-win-for-the-system-to-change-Field-Marshal-Sarath-Fonseka/334-242674",
-    "time_ut": 1659981903,
-    "original_lang": "en",
-    "original_title": "\u201cThe Argalaya must win for the system to change\u201d  -Field Marshal Sarath Fonseka",
-    "file_name": "/tmp/news_lk2/articles/c9/c9179150.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/mahadenamutta-and-his-golayas/",
-    "time_ut": 1659981840,
-    "original_lang": "en",
-    "original_title": "Mahadenamutta and his golayas",
-    "file_name": "/tmp/news_lk2/articles/06/0691c8cd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/RANIL-WICKREMESINGHE-AS-I-KNOW-HIM/172-242673",
-    "time_ut": 1659981456,
-    "original_lang": "en",
-    "original_title": "RANIL WICKREMESINGHE - AS I KNOW HIM",
-    "file_name": "/tmp/news_lk2/articles/a4/a4c1aafd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/First-formulate-common-policy-not-sharing-portfolios/172-242672",
-    "time_ut": 1659981300,
-    "original_lang": "en",
-    "original_title": "First formulate common policy, not sharing portfolios",
-    "file_name": "/tmp/news_lk2/articles/35/35fc81b1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/China-asks-India-to-stop-disturbing-its-exchange-with-SL/108-242645",
-    "time_ut": 1659970653,
-    "original_lang": "en",
-    "original_title": "China asks India to \u2019\u2019stop disturbing\u2019\u2019 its exchange with SL",
-    "file_name": "/tmp/news_lk2/articles/a7/a7ba3df6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Colombo-allows-Pakistani-frigate-Taimur-to-dock-Dhaka-says-no/342-242642",
-    "time_ut": 1659962140,
-    "original_lang": "en",
-    "original_title": "Colombo allows Pakistani frigate Taimur to dock, Dhaka says no",
-    "file_name": "/tmp/news_lk2/articles/82/82a682eb.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-state-run-litro-announces-cooking-gas-price-drop-98350/",
-    "time_ut": 1659961620,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s state-run Litro announces cooking gas price drop",
-    "file_name": "/tmp/news_lk2/articles/7e/7e28cc92.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Govt-permits-to-open-50-new-LIOC-filling-stations/108-242634",
-    "time_ut": 1659951392,
-    "original_lang": "en",
-    "original_title": "Govt. permits to open 50 new LIOC filling stations",
-    "file_name": "/tmp/news_lk2/articles/47/47e4ffd4.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0db8\u0dd0\u0daf\u0dd2\u0dba\u0db8\u0dca-\u0dba\u0dcf\u0db8\u0dba\u0dda-\u0dc3\u0dd3\u0dad\u0dbd\u0dda-\u0d9c\u0dd0\u0dba\u0dd9\u0db1-\u0dc0\u0dc3\u0db1\u0dca\u0dad-\u0d9c\u0dd3\u0dad\u0dba/2-617759",
-    "time_ut": 1659940230,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dd0\u0daf\u0dd2\u0dba\u0db8\u0dca \u0dba\u0dcf\u0db8\u0dba\u0dda \u0dc3\u0dd3\u0dad\u0dbd\u0dda \u0d9c\u0dd0\u0dba\u0dd9\u0db1 \u0dc0\u0dc3\u0db1\u0dca\u0dad \u0d9c\u0dd3\u0dad\u0dba",
-    "file_name": "/tmp/news_lk2/articles/6d/6d3fcde6.json"
   }
 ]

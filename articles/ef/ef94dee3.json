@@ -1,0 +1,678 @@
+{
+  "newspaper_id": "ada-lk",
+  "url": "https://www.ada.lk/sports/2026-\u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dba\u0dd220-\u0dbd\u0ddd\u0d9a-\u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dc4\u0dcf-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0dc3\u0db8-\u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca/9-396391",
+  "time_ut": 1660761559,
+  "original_lang": "si",
+  "original_title": "2026 \u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dba\u0dd220 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc4\u0dcf \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc3\u0db8 \u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca",
+  "text_idx": {
+    "en": {
+      "title": "2026 Twenty20 World Cup co-hosted by Sri Lanka and India",
+      "author": "unknown",
+      "body_lines": [
+        "The International Cricket Council (ICC) has announced the future tournaments for 2023-27. These future tournaments have been announced along with the World Cup to be held in India next year, and five major tournaments have been announced.",
+        "Thus, the T20 World Cup to be held in 2026 will be co-hosted by India and Sri Lanka.",
+        "India, Bangladesh and Sri Lanka co-hosted the 2011 50-over World Cup.",
+        "According to the 2023-2027 future tournament plan, the ICC 777 international matches will be played between the 12 main member countries. 173 Test matches, 281 ODI matches and 323 T20 matches will be held accordingly.",
+        "During this period, there will be an ODI World Cup, a Champion's Tournament, two T20 World Cup tournaments and the World Test Championship.",
+        "West Indies and USA will host the T20 World Cup in 2024 and Pakistan will host the Champions Trophy in 2025.",
+        "India and Sri Lanka will co-host the T20 World Cup in 2026, while South Africa, Zimbabwe and Namibia will host the Cricket World Cup in 2027."
+      ],
+      "title_ents": [
+        {
+          "text": "2026",
+          "label": "DATE"
+        },
+        {
+          "text": "Twenty20 World Cup",
+          "label": "EVENT"
+        },
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        },
+        {
+          "text": "India",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The International Cricket Council",
+            "label": "ORG"
+          },
+          {
+            "text": "ICC",
+            "label": "ORG"
+          },
+          {
+            "text": "2023-27",
+            "label": "DATE"
+          },
+          {
+            "text": "the World Cup",
+            "label": "EVENT"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "next year",
+            "label": "DATE"
+          },
+          {
+            "text": "five",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "the T20 World Cup",
+            "label": "ORG"
+          },
+          {
+            "text": "2026",
+            "label": "DATE"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "Bangladesh",
+            "label": "GPE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "2011",
+            "label": "DATE"
+          },
+          {
+            "text": "50",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "World Cup",
+            "label": "EVENT"
+          }
+        ],
+        [
+          {
+            "text": "2023-2027",
+            "label": "DATE"
+          },
+          {
+            "text": "777",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "173",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "281",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "ODI",
+            "label": "ORG"
+          },
+          {
+            "text": "323",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "an ODI World Cup",
+            "label": "EVENT"
+          },
+          {
+            "text": "Champion's Tournament",
+            "label": "ORG"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the World Test Championship",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "West Indies",
+            "label": "GPE"
+          },
+          {
+            "text": "USA",
+            "label": "GPE"
+          },
+          {
+            "text": "the T20 World Cup",
+            "label": "ORG"
+          },
+          {
+            "text": "2024",
+            "label": "DATE"
+          },
+          {
+            "text": "Pakistan",
+            "label": "GPE"
+          },
+          {
+            "text": "the Champions Trophy",
+            "label": "ORG"
+          },
+          {
+            "text": "2025",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "the T20 World Cup",
+            "label": "ORG"
+          },
+          {
+            "text": "2026",
+            "label": "DATE"
+          },
+          {
+            "text": "South Africa",
+            "label": "GPE"
+          },
+          {
+            "text": "Zimbabwe",
+            "label": "GPE"
+          },
+          {
+            "text": "Namibia",
+            "label": "GPE"
+          },
+          {
+            "text": "the Cricket World Cup",
+            "label": "ORG"
+          },
+          {
+            "text": "2027",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "2026 \u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dba\u0dd220 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc4\u0dcf \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc3\u0db8 \u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca",
+      "author": "unknown",
+      "body_lines": [
+        "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba (ICC) \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca 2023-27 \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0db1 \u0d85\u0db1\u0dcf\u0d9c\u0dad \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca\u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dda.\u0dbd\u0db6\u0db1 \u0dc0\u0dc3\u0dbb\u0dda\u0daf\u0dd3 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda\u0daf\u0dd2 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd2\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1 \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dad\u0dca \u0dc3\u0db8\u0d9c\u0dd2\u0db1\u0dca \u0db8\u0dd9\u0db8 \u0d85\u0db1\u0dcf\u0d9c\u0dad \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca\u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d91\u0dc4\u0dd2\u0daf\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2 \u0db4\u0dc4\u0d9a\u0dca \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca\u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0db8\u0dda \u0d85\u0db1\u0dd4\u0dc0 2026 \u0dc0\u0dc3\u0dbb\u0dda\u0daf\u0dd3 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dba\u0dd220 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1 \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc3\u0db8 \u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dd0\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dba.",
+        "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0, \u0db6\u0d82\u0d9c\u0dca\u0dbd\u0dcf\u0daf\u0dda\u0dc1\u0dba \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 2011 \u0db4\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0dcf\u0dbb 50 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba\u0dda \u0dc3\u0db8 \u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dd0\u0dbb\u0dd3\u0dba.",
+        "2023-2027\u00a0 \u0d85\u0db1\u0dcf\u0d9c\u0dad \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8 \u0d85\u0db1\u0dd4\u0dc0 \u0d85\u0dba\u0dd2.\u0dc3\u0dd3.\u0dc3\u0dd3. \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dbb\u0db1 \u0dbb\u0da7\u0dc0\u0dbd\u0dca 12 \u0d85\u0dad\u0dbb \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dad\u0dbb\u0d9f 777 \u0d9a\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dba. \u0da7\u0dd9\u0dc3\u0dca\u0da7\u0dca \u0dad\u0dbb\u0d9f 173 \u0d9a\u0dca, \u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1 \u0dad\u0dbb\u0d9f 281 \u0d9a\u0dca \u0dc3\u0dc4 T20 \u0dad\u0dbb\u0d9f 323 \u0d9a\u0dca \u0db8\u0dda \u0d85\u0db1\u0dd4\u0dc0 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dba.",
+        "\u0db8\u0dd9\u0db8 \u0d9a\u0dcf\u0dbd\u0dc3\u0dd3\u0db8\u0dcf\u0dc0 \u0dad\u0dd4\u0dc5 \u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba\u0d9a\u0dca, \u0dc1\u0dd6\u0dbb\u0dba\u0db1\u0dca\u0d9c\u0dda \u0d9a\u0dd4\u0dc3\u0dcf\u0dbd\u0db1 \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0d9a\u0dca \u0dc0\u0dd2\u0dc3\u0dca\u0dc320 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1 \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0db8\u0dd9\u0db1\u0dca\u0db8 \u0dbd\u0ddd\u0d9a \u0da7\u0dd9\u0dc3\u0dca\u0da7\u0dca \u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0daf \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2.",
+        "\u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0d9a\u0ddc\u0daf\u0dd9\u0dc0\u0dca \u0dc3\u0dc4 \u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba 2024 \u0daf\u0dd3\u00a0 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dba\u0dd220 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1 \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0da7 \u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dbb\u0db1 \u0d85\u0dad\u0dbb 2025 \u0daf\u0dd3 \u0dc1\u0dd6\u0dbb\u0dba\u0db1\u0dca\u0d9c\u0dda \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba\u0da7 \u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba \u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dbb\u0dba\u0dd2.",
+        "2026 \u0daf\u0dd3 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 T20 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba \u0dc3\u0db8 \u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dbb\u0db1 \u0d85\u0dad\u0dbb 2027 \u0daf\u0dd3 \u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d85\u0db4\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0, \u0dc3\u0dd2\u0db8\u0dca\u0db6\u0dcf\u0db6\u0dca\u0dc0\u0dda \u0dc3\u0dc4 \u0db1\u0dd0\u0db8\u0dd3\u0db6\u0dd2\u0dba\u0dcf\u0dc0 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba\u0da7 \u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dbb\u0dba\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "2026",
+          "label": "DATE"
+        },
+        {
+          "text": "\u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dba\u0dd220 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba",
+          "label": "EVENT"
+        },
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dba\u0dd2.\u0dc3\u0dd3.\u0dc3\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "2023-27",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbd\u0db6\u0db1 \u0dc0\u0dc3\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dc4",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "T20 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2026",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0d82\u0d9c\u0dca\u0dbd\u0dcf\u0daf\u0dda\u0dc1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "2011",
+            "label": "DATE"
+          },
+          {
+            "text": "50",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba",
+            "label": "EVENT"
+          }
+        ],
+        [
+          {
+            "text": "2023-2027",
+            "label": "DATE"
+          },
+          {
+            "text": "777",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "173",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "281",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "ODI",
+            "label": "ORG"
+          },
+          {
+            "text": "323",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba\u0d9a\u0dca",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0dc1\u0dd6\u0dbb\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dda \u0dad\u0dbb\u0d9f\u0dcf\u0dc0\u0dbd\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbd\u0ddd\u0d9a \u0da7\u0dd9\u0dc3\u0dca\u0da7\u0dca \u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0dd2\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0d9a\u0ddc\u0daf\u0dd9\u0dc0\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d87\u0d91\u0da2",
+            "label": "GPE"
+          },
+          {
+            "text": "T20 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2024",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da0\u0dd0\u0db8\u0dca\u0db4\u0dd2\u0dba\u0db1\u0dca\u0dc3\u0dca \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2025",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "T20 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2026",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d85\u0db4\u0dca\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0db8\u0dca\u0db6\u0dcf\u0db6\u0dca\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db1\u0dd0\u0db8\u0dd3\u0db6\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2027",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "2026 \u0b87\u0bb0\u0bc1\u0baa\u0ba4\u0bc120 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd (\u0b90\u0b9a\u0bbf\u0b9a\u0bbf) 2023-27 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bb2 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bc8 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.\u0b87\u0ba8\u0bcd\u0ba4 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bb2 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1 \u0b89\u0bb3\u0bcd\u0bb3 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9.",
+        "\u0b87\u0ba4\u0ba9\u0bbe\u0bb2\u0bcd 2026-\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1 \u0b89\u0bb3\u0bcd\u0bb3 \u0b9f\u0bbf20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9.",
+        "2011 50 \u0b93\u0bb5\u0bb0\u0bcd \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe, \u0bb5\u0b99\u0bcd\u0b95\u0ba4\u0bc7\u0b9a\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1.",
+        "2023-2027 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bb2 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0b9f\u0bbf, \u0b90.\u0b9a\u0bbf.\u0b9a\u0bbf 12 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bc7 777 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd. \u0b85\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf 173 \u0b9f\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bcd, 281 \u0b92\u0bb0\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 323 \u0b9f\u0bbf20 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0b95\u0bbe\u0bb2\u0b95\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd, \u0b92\u0bb0\u0bc1 \u0b92\u0bb0\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8, \u0b92\u0bb0\u0bc1 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf, \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9f\u0bbf20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b89\u0bb2\u0b95 \u0b9f\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb7\u0bbf\u0baa\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bc8 \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd.",
+        "2024 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9f\u0bbf20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bc1\u0bae\u0bcd, 2025 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb8\u0bcd \u0b9f\u0bbf\u0bb0\u0bbe\u0baa\u0bbf\u0baf\u0bc8 \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bc1\u0bae\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd.",
+        "2026 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9f\u0bbf20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bc7 \u0bb5\u0bc7\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe, \u0b9c\u0bbf\u0bae\u0bcd\u0baa\u0bbe\u0baa\u0bcd\u0bb5\u0bc7 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bae\u0bc0\u0baa\u0bbf\u0baf\u0bbe \u0b86\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd 2027 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9."
+      ],
+      "title_ents": [
+        {
+          "text": "2026",
+          "label": "DATE"
+        },
+        {
+          "text": "\u0b9f\u0bc1\u0bb5\u0bc6\u0ba9\u0bcd\u0b9f\u0bbf 20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8",
+          "label": "EVENT"
+        },
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90.\u0b9a\u0bbf.\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "2023-27",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b89\u0bb2\u0b95 \u0b95\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bc8",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9f\u0bbf20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "2026",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0ba4\u0bc7\u0bb7\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "2011",
+            "label": "DATE"
+          },
+          {
+            "text": "50",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8",
+            "label": "EVENT"
+          }
+        ],
+        [
+          {
+            "text": "2023-2027",
+            "label": "DATE"
+          },
+          {
+            "text": "777",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "173",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "281",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "ODI",
+            "label": "ORG"
+          },
+          {
+            "text": "323",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b92\u0bb0\u0bc1 ODI \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b89\u0bb2\u0b95 \u0b9f\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb7\u0bbf\u0baa\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9f\u0bbf20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "2024",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb8\u0bcd \u0b9f\u0bbf\u0bb0\u0bbe\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "2025",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9f\u0bbf20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "2026",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9c\u0bbf\u0bae\u0bcd\u0baa\u0bbe\u0baa\u0bcd\u0bb5\u0bc7",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba8\u0bae\u0bc0\u0baa\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "2027",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
