@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/restructuring-domestic-debt-would-lead-to-an-issue-cbsl-chief/",
+    "time_ut": 1660813020,
+    "original_lang": "en",
+    "original_title": "Restructuring domestic debt would lead to an issue \u2013 CBSL Chief",
+    "file_name": "/tmp/news_lk2/articles/ae/aef1a5fe.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/18/lankan-fishermen-continue-protests-for-fuel/",
     "time_ut": 1660811580,
     "original_lang": "en",
@@ -14,6 +22,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0b9a\u0bbf\u0bb2\u0bcd - \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/35/35240762.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb-\u0dc4\u0ddd\u0da7\u0dbd\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0d9a\u0dd1\u0db8-\u0d9c\u0dad\u0dca-600\u0d9a\u0dca-\u0dbd\u0dd9\u0da9-\u0dc0\u0dd9\u0dad\u0dd2/11-396406",
+    "time_ut": 1660810210,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb \u0dc4\u0ddd\u0da7\u0dbd\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0d9a\u0dd1\u0db8 \u0d9c\u0dad\u0dca 600\u0d9a\u0dca \u0dbd\u0dd9\u0da9 \u0dc0\u0dd9\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/6f/6f6df406.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -233,11 +249,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business/CBSL-maintains-policy-rates-at-current-levels/215-243296",
+    "url": "https://www.dailymirror.lk/breaking_news/CBSL-maintains-policy-rates-at-current-levels/108-243296",
     "time_ut": 1660803996,
     "original_lang": "en",
     "original_title": "CBSL maintains policy rates at current levels",
-    "file_name": "/tmp/news_lk2/articles/85/8591e5fc.json"
+    "file_name": "/tmp/news_lk2/articles/1a/1af0267e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lankan Govt Permits Chinese tracking ship \u201d Yuang Wang 5\u2033 to dock at Hambantota Port on August 16  following the failure of the Indian and US Governments to  provide  \u201cconcrete reasons\u201d for  their opposition to the  Vessel  arriving in H\u2019tota",
     "file_name": "/tmp/news_lk2/articles/f9/f949eb95.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78969",
-    "time_ut": 1660243140,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s radical Leftist political parties,JVP and its breakaway faction, FSP galvanised the \u201cAragalaya \u201c(struggle)into an aggressive movement that eventually ousted the two Rajapaksa brothers from power",
-    "file_name": "/tmp/news_lk2/articles/78/78668862.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/truth-is-an-abyss/",
-    "time_ut": 1660230421,
-    "original_lang": "en",
-    "original_title": "Truth Is An Abyss",
-    "file_name": "/tmp/news_lk2/articles/e6/e64b2157.json"
   }
 ]
