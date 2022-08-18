@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/fm-meets-undco-regional-chief/",
+    "time_ut": 1660802580,
+    "original_lang": "en",
+    "original_title": "FM meets UNDCO Regional Chief",
+    "file_name": "/tmp/news_lk2/articles/0e/0ef99c53.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84372/two-suspects-arrested-over-theft-of-21-laptops",
+    "time_ut": 1660802460,
+    "original_lang": "en",
+    "original_title": "Two suspects arrested over theft of 21 laptops",
+    "file_name": "/tmp/news_lk2/articles/92/92345183.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/world-bank-details-funding-for-sri-lanka-so-far/",
+    "time_ut": 1660801920,
+    "original_lang": "en",
+    "original_title": "World Bank details funding for Sri Lanka so far",
+    "file_name": "/tmp/news_lk2/articles/e7/e7258f84.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/CCD-finds-man-who-deposited-Rs-5-Mn-to-Rattas-account-Probe-finds-mistaken-transaction/108-243295",
     "time_ut": 1660801785,
@@ -22,6 +46,14 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0dad\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0d9a\u0dd1\u0db8 \u0dbb\u0da7\u0dd2\u0db1\u0dca \u0d9c\u0dda\u0db1\u0dca\u0db1 \u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/da/da467534.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/20-000\u0d9a-\u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0d9a\u0dca-\u0d9c\u0dad\u0dca-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0dc3\u0dd0\u0dbb\u0dba\u0db1\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396399",
+    "time_ut": 1660800588,
+    "original_lang": "si",
+    "original_title": "20,000\u0d9a \u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0d9a\u0dca \u0d9c\u0dad\u0dca \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dc3\u0dd0\u0dbb\u0dba\u0db1\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/bb/bb4cf21d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Gunawardana Tea Factory celebrates yet another all-time record price",
     "file_name": "/tmp/news_lk2/articles/a0/a0734ead.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Eastern-Brokers-sets-all-time-record-price-for-Uva-Highlands-Estate-at-Colombo-Tea-Auctions/34-738507",
-    "time_ut": 1660088599,
-    "original_lang": "en",
-    "original_title": "Eastern Brokers sets all-time record price for Uva Highlands Estate at Colombo Tea Auctions",
-    "file_name": "/tmp/news_lk2/articles/66/66149868.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/St-James-achieves-highest-price-for-Uva-Pekoe1/34-738506",
-    "time_ut": 1660088539,
-    "original_lang": "en",
-    "original_title": "St. James achieves highest price for Uva Pekoe1",
-    "file_name": "/tmp/news_lk2/articles/d3/d3e36d33.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Avissawella-Tea-Factory-establishes-new-record-price-for-BOP1-grade/34-738505",
-    "time_ut": 1660088464,
-    "original_lang": "en",
-    "original_title": "Avissawella Tea Factory establishes new record price for BOP1 grade",
-    "file_name": "/tmp/news_lk2/articles/ac/ac8cc10e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Varna-Packaging-strengthens-competitive-edge-with-BOBST-NOVA-D-800-Laminator/34-738504",
-    "time_ut": 1660088302,
-    "original_lang": "en",
-    "original_title": "Varna Packaging strengthens competitive edge with BOBST NOVA D 800 Laminator",
-    "file_name": "/tmp/news_lk2/articles/79/7918c499.json"
   }
 ]
