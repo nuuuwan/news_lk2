@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84370/central-bank-decides-to-maintain-policy-rates",
+    "time_ut": 1660791000,
+    "original_lang": "en",
+    "original_title": "Central Bank decides to maintain policy rates",
+    "file_name": "/tmp/news_lk2/articles/58/5868eb58.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84369/showers-expected-in-several-provinces",
+    "time_ut": 1660790160,
+    "original_lang": "en",
+    "original_title": "Showers expected in several provinces",
+    "file_name": "/tmp/news_lk2/articles/a5/a5b65e16.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf-\u2019\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca-\u0d9a\u0dcf\u0da9\u0dca\u2019-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-618312",
+    "time_ut": 1660789145,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf \u2019\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca \u0d9a\u0dcf\u0da9\u0dca\u2019 \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e3/e38652f7.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-policy-rate-unchanged-amid-slowing-private-credit-98714/",
+    "time_ut": 1660788780,
+    "original_lang": "en",
+    "original_title": "Sri Lanka policy rate unchanged amid slowing private credit",
+    "file_name": "/tmp/news_lk2/articles/af/afbaa83c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dbb\u0dd4\u0dc0\u0d9a\u0dd4-\u0d87\u0dc5\u0da7-\u0dc0\u0dd2\u0dc3\u0dd2-\u0d9a\u0dc5-\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dba\u0dcf\u0da7-\u0dc0\u0dd0\u0da9-\u0dc0\u0dbb\u0daf\u0dd2/1-618311",
+    "time_ut": 1660788228,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dbb\u0dd4\u0dc0\u0d9a\u0dd4 \u0d87\u0dc5\u0da7 \u0dc0\u0dd2\u0dc3\u0dd2 \u0d9a\u0dc5 \u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dba\u0dcf\u0da7 \u0dc0\u0dd0\u0da9 \u0dc0\u0dbb\u0daf\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/48/48cba1c1.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-sell-rs60bn-mostly-in-3-month-bills-yield-up-98712/",
+    "time_ut": 1660788060,
+    "original_lang": "en",
+    "original_title": "Sri Lanka sell Rs60bn mostly in 3-month bills, yield up",
+    "file_name": "/tmp/news_lk2/articles/a5/a5cf3df2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4-\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca-\u0d9a\u0dcf\u0da9\u0dca-\u0dbd\u0ddc\u0dad\u0dbb\u0dd0\u0dba\u0dd2\u0dba\u0da7-\u0d85\u0dba\u0db3\u0dd4\u0db8\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-396392",
+    "time_ut": 1660787476,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0d9c\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca \u0d9a\u0dcf\u0da9\u0dca \u0dbd\u0ddc\u0dad\u0dbb\u0dd0\u0dba\u0dd2\u0dba\u0da7 \u0d85\u0dba\u0db3\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/71/718f11cb.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bb5\u0bc1\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0ba8\u0b9f\u0bc8\u0bae\u0bc1\u0bb1\u0bc8/175-302545",
     "time_ut": 1660786770,
@@ -33,11 +89,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2-\u0dc0\u0d9c\u0dcf\u0dc0-\u0db1\u0dd0\u0dad\u0dca\u0dad\u0da7\u0db8-\u0db1\u0dd0\u0dad\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2\u0daf/1-618309",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2-\u0dc0\u0d9c\u0dcf\u0dc0-\u0db1\u0dd0\u0dad\u0dca\u0dad\u0da7\u0db8-\u0db1\u0dd0\u0dad\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2\u0daf/101-618309",
     "time_ut": 1660785340,
     "original_lang": "si",
     "original_title": "\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2 \u0dc0\u0d9c\u0dcf\u0dc0 \u0db1\u0dd0\u0dad\u0dca\u0dad\u0da7\u0db8 \u0db1\u0dd0\u0dad\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2\u0daf",
-    "file_name": "/tmp/news_lk2/articles/08/08b2c44b.json"
+    "file_name": "/tmp/news_lk2/articles/df/df05bfc7.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -182,6 +238,14 @@
     "original_lang": "en",
     "original_title": "UNDCO Regional Director for Asia-Pacific calls on Minister Ali Sabry",
     "file_name": "/tmp/news_lk2/articles/7b/7bba1c3f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/France-relaxes-travel-advisory-against-Sri-Lanka/273-243256",
+    "time_ut": 1660763911,
+    "original_lang": "en",
+    "original_title": "France relaxes travel advisory against Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/34/347b3539.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -3326,14 +3390,6 @@
     "original_lang": "en",
     "original_title": "Chinese Research / Survey Vessel Yuan Wang 5 reaches Sri Lanka\u2019s Hambantota",
     "file_name": "/tmp/news_lk2/articles/8f/8fd8b3f4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84325/showers-expected-in-several-provinces",
-    "time_ut": 1660616580,
-    "original_lang": "en",
-    "original_title": "Showers expected in several provinces",
-    "file_name": "/tmp/news_lk2/articles/e8/e877a128.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 \u0dc4\u0dd0\u0da7\u0d9a \u0d9a\u0dd0\u0d9a\u0dd4\u0dc5\u0dd4 \u0dc4\u0dcf\u0dbd\u0dca \u0d9a\u0dd4\u0d9a\u0dd4\u0dc5\u0db1\u0dca\u0da7 \u0daf\u0dd4\u0db1\u0dca \u0db1\u0dbb\u0dd4\u0db8\u0dba\u0ddd",
     "file_name": "/tmp/news_lk2/articles/95/95fd375f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Debt-sustainability-essential-for-fix-SJB-supports-right-economic-policy-Eran/56-738470",
-    "time_ut": 1659996325,
-    "original_lang": "en",
-    "original_title": "Debt sustainability essential for fix; SJB supports right economic policy: Eran",
-    "file_name": "/tmp/news_lk2/articles/24/2436ff36.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Stalin-released-on-bail-after-arrest-draws-outcry/56-738469",
-    "time_ut": 1659996277,
-    "original_lang": "en",
-    "original_title": "Stalin released on bail after arrest draws outcry",
-    "file_name": "/tmp/news_lk2/articles/de/de3fc294.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/The-10th-World-Construction-Symposium-2022-concludes-in-Colombo/34-738466",
-    "time_ut": 1659995993,
-    "original_lang": "en",
-    "original_title": "The 10th World Construction Symposium 2022 concludes in Colombo",
-    "file_name": "/tmp/news_lk2/articles/ca/ca6b42ba.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/SLID-webinar-on-Company-Secretary-in-the-Digital-Age/34-738465",
-    "time_ut": 1659995818,
-    "original_lang": "en",
-    "original_title": "SLID webinar on \u2018Company Secretary in the Digital Age\u2019",
-    "file_name": "/tmp/news_lk2/articles/af/af36987d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Multiparty-governance-IMF-agreement-and-human-rights-risks/4-738458",
-    "time_ut": 1659995169,
-    "original_lang": "en",
-    "original_title": "Multiparty governance, IMF agreement and human rights risks",
-    "file_name": "/tmp/news_lk2/articles/f3/f3d6e3dd.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/An-updated-fairy-tale/4-738457",
-    "time_ut": 1659995081,
-    "original_lang": "en",
-    "original_title": "An updated fairy tale",
-    "file_name": "/tmp/news_lk2/articles/2e/2ed22025.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/The-Aragalaya-A-sceptic-s-notes/4-738455",
-    "time_ut": 1659994844,
-    "original_lang": "en",
-    "original_title": "The Aragalaya:  A sceptic\u2019s notes",
-    "file_name": "/tmp/news_lk2/articles/ac/ac359902.json"
   }
 ]
