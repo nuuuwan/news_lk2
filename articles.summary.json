@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Dickwella-Estate-achieves-record-for-FBOPF1-grade/34-738835",
+    "time_ut": 1660781058,
+    "original_lang": "en",
+    "original_title": "Dickwella Estate achieves record for FBOPF1 grade",
+    "file_name": "/tmp/news_lk2/articles/96/96bc8bc7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Brombil-Estates-achieves-highest-price-of-Rs-10-950-for-tea-sold-at-public-auction/34-738834",
+    "time_ut": 1660780998,
+    "original_lang": "en",
+    "original_title": "Brombil Estates achieves highest price of Rs. 10,950 for tea sold at public auction",
+    "file_name": "/tmp/news_lk2/articles/38/384e0e3a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/LAUGFS-reduces-domestic-gas-prices/34-738833",
+    "time_ut": 1660780916,
+    "original_lang": "en",
+    "original_title": "LAUGFS reduces domestic gas prices",
+    "file_name": "/tmp/news_lk2/articles/7c/7c5b53a8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Kanchana-calls-on-CEB-unions-to-submit-proposals-for-restructuring/34-738832",
+    "time_ut": 1660780864,
+    "original_lang": "en",
+    "original_title": "Kanchana calls on CEB unions to submit proposals for restructuring",
+    "file_name": "/tmp/news_lk2/articles/f1/f1bd0113.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Ranil-s-cabinet-trap-and-Aragalaya/4-738823",
+    "time_ut": 1660780220,
+    "original_lang": "en",
+    "original_title": "Ranil\u2019s cabinet trap and Aragalaya",
+    "file_name": "/tmp/news_lk2/articles/b1/b181addd.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Harsha-s-harsh-blueprint-and-AKD-as-alternative/4-738822",
+    "time_ut": 1660779998,
+    "original_lang": "en",
+    "original_title": "Harsha\u2019s harsh blueprint and AKD as alternative",
+    "file_name": "/tmp/news_lk2/articles/84/84aa8372.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Custom-nabs-two-suspects-with-9-5-kg-Gold-worth-over-Rs-200-m-at-BIA/56-738821",
     "time_ut": 1660779495,
     "original_lang": "en",
@@ -78,6 +126,38 @@
     "original_lang": "ta",
     "original_title": "\u2018\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bbe\u0bb2\u0bcd \u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bbe\u0bb5\u0bc8 \u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc7\u0ba9\u0bcd\u2019",
     "file_name": "/tmp/news_lk2/articles/8e/8e08f818.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/simple-ways-to-take-care-of-your-skin/",
+    "time_ut": 1660757520,
+    "original_lang": "en",
+    "original_title": "Simple ways to take care of your skin",
+    "file_name": "/tmp/news_lk2/articles/44/4476c7f2.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sme-businesses-in-puttalam-enriched-by-seylan-bank-and-ccc-workshop/",
+    "time_ut": 1660756920,
+    "original_lang": "en",
+    "original_title": "SME businesses in Puttalam enriched by Seylan Bank and CCC workshop",
+    "file_name": "/tmp/news_lk2/articles/f4/f48d1c4a.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sri-lanka-insurance-enters-into-a-strategic-tie-up-with-ceylon-motor-traders-association/",
+    "time_ut": 1660756860,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Insurance enters into a strategic tie-up with Ceylon Motor Traders Association",
+    "file_name": "/tmp/news_lk2/articles/4c/4c27e6d5.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dialog-smart-home-brings-you-a-smart-security-doorbell-to-ensure-the-security-of-your-home/",
+    "time_ut": 1660756860,
+    "original_lang": "en",
+    "original_title": "\u2018Dialog Smart Home brings you a Smart Security Doorbell to ensure the security of your home\u2019",
+    "file_name": "/tmp/news_lk2/articles/7c/7c92c5c5.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -1633,6 +1713,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/sri-lankas-external-relations-amidst-power-rivalries/",
+    "time_ut": 1660672800,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s external relations amidst power rivalries",
+    "file_name": "/tmp/news_lk2/articles/2e/2e02daf7.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/indian-media-and-travel-influencers-take-lead-in-supporting-sri-lankan-tourism/",
     "time_ut": 1660672620,
     "original_lang": "en",
@@ -1654,6 +1742,30 @@
     "original_lang": "en",
     "original_title": "MBSL Insurance expands its reach",
     "file_name": "/tmp/news_lk2/articles/3b/3ba4aeab.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dialog-axiata-extends-its-support-to-the-sri-dalada-perahera-for-the-16th-consecutive-year/",
+    "time_ut": 1660672440,
+    "original_lang": "en",
+    "original_title": "Dialog Axiata extends its support to the Sri Dalada Perahera for the 16th consecutive year",
+    "file_name": "/tmp/news_lk2/articles/60/6038e666.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/profit-takings-in-blue-chip-counters-put-an-end-to-bourses-bullish-run/",
+    "time_ut": 1660672440,
+    "original_lang": "en",
+    "original_title": "Profit-takings in blue chip counters put an end to bourse\u2019s bullish run",
+    "file_name": "/tmp/news_lk2/articles/b6/b63f2227.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sl-seen-as-losing-billions-of-dollars-as-a-result-of-not-making-use-of-her-locational-advantage/",
+    "time_ut": 1660672440,
+    "original_lang": "en",
+    "original_title": "SL seen as losing billions of dollars as a result of not making use of her locational advantage",
+    "file_name": "/tmp/news_lk2/articles/e5/e52cd6c3.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -3576,6 +3688,14 @@
     "file_name": "/tmp/news_lk2/articles/f6/f6e69745.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/suppressing-the-struggle-education-and-the-discourse-of-class/",
+    "time_ut": 1660572300,
+    "original_lang": "en",
+    "original_title": "Suppressing the struggle: Education and the Discourse of Class",
+    "file_name": "/tmp/news_lk2/articles/d9/d9b2d8cd.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dcf\u0dbd\u0dd4-\u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dd2\u0dba\u0dda-\u0d91\u0db1\u0dca\u0db1-\u0da7\u0dd2\u0d9a\u0da7\u0dca-\u0d9c\u0dad\u0dca-\u0d85\u0dba\u0da7-\u0dc3\u0dbd\u0dca\u0dbd\u0dd2\u0dad\u0dca-\u0db1\u0dd1-\u0da7\u0dd2\u0d9a\u0da7\u0dca-\u0d91\u0d9a\u0dd9\u0db1\u0dca-\u0dc0\u0dd0\u0da9\u0d9a\u0dd4\u0dad\u0dca-\u0db1\u0dd1/1-618162",
     "time_ut": 1660572100,
@@ -3598,6 +3718,14 @@
     "original_lang": "en",
     "original_title": "Facelift after Kataragama Perahera....",
     "file_name": "/tmp/news_lk2/articles/28/2845e900.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/prioritising-protection-of-government-over-the-people/",
+    "time_ut": 1660571880,
+    "original_lang": "en",
+    "original_title": "Prioritising protection of Government over the people",
+    "file_name": "/tmp/news_lk2/articles/63/6345bea1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -5182,6 +5310,14 @@
     "original_lang": "en",
     "original_title": "\u2018Nadagamkarayo\u2019: A management perspective",
     "file_name": "/tmp/news_lk2/articles/ee/ee6d9431.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/to-dock-or-not-to-dock/",
+    "time_ut": 1660498380,
+    "original_lang": "en",
+    "original_title": "To dock or not to dock",
+    "file_name": "/tmp/news_lk2/articles/85/85093d87.json"
   },
   {
     "newspaper_id": "island-lk",
