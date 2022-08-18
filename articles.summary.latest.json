@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/People-who-were-in-the-Aragalaya-without-any-political-agenda-were-not-harmed-Manusha-Nanayakkara/231-243325",
+    "time_ut": 1660860219,
+    "original_lang": "en",
+    "original_title": "People who were in the Aragalaya without any political agenda were not harmed - Manusha Nanayakkara",
+    "file_name": "/tmp/news_lk2/articles/eb/eb515c13.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Police-fire-tear-gas-to-disperse-the-protest-arrest-six-activists/56-738871",
     "time_ut": 1660852923,
@@ -1798,6 +1806,14 @@
     "original_lang": "si",
     "original_title": "2026 \u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dba\u0dd220 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc4\u0dcf \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc3\u0db8 \u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca",
     "file_name": "/tmp/news_lk2/articles/ef/ef94dee3.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79067",
+    "time_ut": 1660761540,
+    "original_lang": "en",
+    "original_title": "Police use Tear Gas and Water Cannon to  Disperse Protest Demonstration Organized by the Inter-University Student Federation;Six persons including Wasantha Mudalige  taken into custody",
+    "file_name": "/tmp/news_lk2/articles/bd/bd7d49cb.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2",
     "file_name": "/tmp/news_lk2/articles/32/3210a06e.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1-\u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bcb\u0b9a\u0b9f\u0bbf-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4-\u0ba8\u0baa\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/76-302279",
-    "time_ut": 1660450874,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bcb\u0b9a\u0b9f\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/89/890f4766.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1-\u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc8-\u0b8f\u0bb1\u0bcd\u0b95\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bcb\u0bae\u0bcd/76-302278",
-    "time_ut": 1660450391,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0b95\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bcb\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/fd/fd571188.json"
   }
 ]
