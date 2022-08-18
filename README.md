@@ -1,20 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 04:07:06 (LK time)*
+*As of 2022-08-19 04:24:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (2 Articles)
-
-* **2** daily-mirror-lk ([Rushdie in the news again: Free speech rights linked to responsibilities](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af76e753.json))
 
 ## Last Hour (3 Articles)
 
 * **3** daily-mirror-lk ([People who were in the Aragalaya without any political agenda were not harmed - Manusha Nanayakkara](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb515c13.json))
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (7 Articles)
 
-* **5** daily-ft-lk ([Sri Lanka going the Turkey way?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fd40788.json))
+* **4** daily-ft-lk ([Futureworld opens new flagship and exclusive Apple store in Colombo 3](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e8ec85d.json))
 
 * **3** daily-mirror-lk ([People who were in the Aragalaya without any political agenda were not harmed - Manusha Nanayakkara](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb515c13.json))
 
