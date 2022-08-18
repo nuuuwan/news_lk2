@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 00:27:38 (LK time)*
+*As of 2022-08-19 00:41:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Australia kicks in extra $25 million emergency aid to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4a978da.json))
 
 ## Last Hour (4 Articles)
 
@@ -16,9 +12,7 @@
 
 * **1** tamil-mirror-lk ([மாணவர் போராட்டத்தில் கைதானவர்களின் எண்ணிக்கை உயர்வு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d45e407.json))
 
-## Last 3 Hours (13 Articles)
-
-* **3** lankadeepa-lk ([ගෝඨාට එන්න දෙන්න පොහොට්ටුව ජනපතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78c91396.json))
+## Last 3 Hours (8 Articles)
 
 * **2** ada-derana-lk ([Susil doesn’t think Gotabaya will return to politics again](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b15347b9.json))
 
@@ -28,13 +22,9 @@
 
 * **1** economy-next-com ([Sri Lanka stocks end steady after CB held policy rates steady; turnover slumps to over 2-wk low](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d009c866.json))
 
-* **1** news-first-lk ([Pohottuwa wants Gotabaya back in Sri Lanka with security, and facilities](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf5dfa72.json))
+* **1** lankadeepa-lk ([මුදලිගේ ගත්තාට කැලණියේ විරෝධතා](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8210d0e.json))
 
-* **1** ada-lk ([ජනපති රනිල් ජපානයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb044797.json))
-
-* **1** daily-mirror-lk ([Facilitate safe return of Former President: SLFP requests President](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74583985.json))
-
-## Last 24 Hours (216 Articles)
+## Last 24 Hours (215 Articles)
 
 * **39** lankadeepa-lk ([අන්නාසි වගාව නැත්තටම නැති වෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaa714e.json))
 
@@ -54,9 +44,7 @@
 
 * **1** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
-* **1** d-b-s-jeyaraj-com ([Gotabaya Rajapaksa Likely to Return to Sri Lanka on Aug 25th From Thailand; will be Provided House and Security by State as a former President is entitled to; wants to go back to California after obtaining  US Green Card](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee9266f7.json))
-
-## Last Week (1,113 Articles)
+## Last Week (1,112 Articles)
 
 * **190** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
@@ -76,7 +64,7 @@
 
 * **44** island-lk ([Get down to brass tacks](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9be0fc16.json))
 
-* **16** d-b-s-jeyaraj-com ([Sri Lankan Govt Permits Chinese tracking ship ” Yuang Wang 5″ to dock at Hambantota Port on August 16  following the failure of the Indian and US Governments to  provide  “concrete reasons” for  their opposition to the  Vessel  arriving in H’tota](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f949eb95.json))
+* **15** d-b-s-jeyaraj-com ([Relentless Struggle  by Tamil Mothers of “Disappeared” Reaches 2000 Day Landmark;Hundreds of Women Stage Rally in  northern Kilinochchi district seeking truth and justice for their loved ones forcibly disappeared during and after the civil war](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6c068e2.json))
 
 * **13** colombo-telegraph-com ([CID Waits Till The RTI Act Is Used To Investigate Death Threats By DIG Deshabandu Tennakoon Against A Journalist](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9712eda.json))
 
