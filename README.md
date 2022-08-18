@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 01:01:15 (LK time)*
+*As of 2022-08-19 01:21:22 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (1 Articles)
-
-* **1** ada-derana-lk ([Australia kicks in extra $25 million emergency aid to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4a978da.json))
 
 ## Last 3 Hours (6 Articles)
 
@@ -18,7 +14,7 @@
 
 * **1** economy-next-com ([Sri Lanka stocks end steady after CB held policy rates steady; turnover slumps to over 2-wk low](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d009c866.json))
 
-## Last 24 Hours (211 Articles)
+## Last 24 Hours (209 Articles)
 
 * **39** lankadeepa-lk ([අන්නාසි වගාව නැත්තටම නැති වෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaa714e.json))
 
@@ -26,9 +22,9 @@
 
 * **31** ada-lk ([ගෝඨා ඇමෙරිකානු ග්‍රීන් කාඩ් ලොතරැයියට අයඳුම් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/718f11cb.json))
 
-* **28** daily-mirror-lk ([Structural change, modernisation and IMF bailout](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3935747.json))
-
 * **26** ada-derana-lk ([Showers expected in several provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5b65e16.json))
+
+* **26** daily-mirror-lk ([GR applies for US Green Card, looks to settle back in US](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfceac11.json))
 
 * **24** tamil-mirror-lk ([அனைவருக்கும் நிவாரணம்: சஜித் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b487d3c8.json))
 
@@ -38,7 +34,7 @@
 
 * **1** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
-## Last Week (1,110 Articles)
+## Last Week (1,111 Articles)
 
 * **190** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
@@ -58,11 +54,11 @@
 
 * **44** island-lk ([Get down to brass tacks](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9be0fc16.json))
 
+* **14** d-b-s-jeyaraj-com ([Sri Lanka  Grants Permission for  Chinese space and satellite tracking vessel “Yuan Wang 5” to dock  on August 16 at  Hambantota port subject to conditions that the visiting Chinese vessel’s Automatic Identification System (AIS) must  be kept switched on within the EEZ of Sri Lanka and that no scientific research be conducted in Sri Lankan waters.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2bdccc7.json))
+
 * **13** colombo-telegraph-com ([CID Waits Till The RTI Act Is Used To Investigate Death Threats By DIG Deshabandu Tennakoon Against A Journalist](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9712eda.json))
 
-* **13** d-b-s-jeyaraj-com ([Sri Lanka  Grants Permission for  Chinese space and satellite tracking vessel “Yuan Wang 5” to dock  on August 16 at  Hambantota port subject to conditions that the visiting Chinese vessel’s Automatic Identification System (AIS) must  be kept switched on within the EEZ of Sri Lanka and that no scientific research be conducted in Sri Lankan waters.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2bdccc7.json))
-
-## All Time (1,484 Articles)
+## All Time (1,485 Articles)
 
 * **257** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -78,7 +74,7 @@
 
 * **118** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
-* **117** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
+* **118** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 
 * **100** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 
