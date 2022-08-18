@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84386/sri-lanka-to-ask-japan-to-open-talks-on-debt-restructuring-with-key-lenders",
+    "time_ut": 1660827720,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to ask Japan to open talks on debt restructuring with key lenders",
+    "file_name": "/tmp/news_lk2/articles/2d/2dd3ea29.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84385/cbsl-announces-amnesty-period-to-deposit-or-sell-foreign-currency-in-the-hands-of-public",
     "time_ut": 1660827600,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Are we to burn borrowed dollars just to cook a meal?",
     "file_name": "/tmp/news_lk2/articles/e1/e1326c67.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/my-intention-was-to-create-a-safe-place-a-place-without-judgment-says-beyonce/",
-    "time_ut": 1660384620,
-    "original_lang": "en",
-    "original_title": "My intention was to create a safe place, a place without judgment says Beyonce",
-    "file_name": "/tmp/news_lk2/articles/58/58ab4689.json"
   }
 ]
