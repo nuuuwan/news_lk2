@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/srilanka-economic-crisis-puts-rights-in-peril/",
+    "time_ut": 1660819560,
+    "original_lang": "en",
+    "original_title": "#SriLanka: Economic Crisis Puts Rights in Peril",
+    "file_name": "/tmp/news_lk2/articles/86/86412da7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Health-authorities-to-probe-spreading-of-rabies-among-deer-in-Homagama/342-243303",
+    "time_ut": 1660819510,
+    "original_lang": "en",
+    "original_title": "Health authorities to probe spreading of rabies among deer in Homagama",
+    "file_name": "/tmp/news_lk2/articles/b3/b3e18c0e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc7\u0bb0\u0bcd\u0bb5\u0bbf\u0ba9\u0bcd-\u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1/175-302567",
+    "time_ut": 1660819490,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc7\u0bb0\u0bcd\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/8b/8b40d531.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/IUSF-protest-march-tear-gassed/342-243302",
+    "time_ut": 1660819377,
+    "original_lang": "en",
+    "original_title": "IUSF protest march tear-gassed",
+    "file_name": "/tmp/news_lk2/articles/2a/2a7ec5c8.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0bb0\u0bcd-\u0bb5\u0bc6\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0ba8\u0bcb\u0baf\u0bbe\u0bb2\u0bcd-15-\u0bae\u0bbe\u0ba9\u0bcd\u0b95\u0bb3\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0ba9/175-302566",
     "time_ut": 1660818345,
@@ -17,11 +49,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda-\u0db4\u0dcf-\u0d9c\u0db8\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba-\u0daf\u0dd9\u0dc3\u0da7/101-618337",
+    "url": "https://www.lankadeepa.lk/main_picture/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda-\u0db4\u0dcf-\u0d9c\u0db8\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba-\u0daf\u0dd9\u0dc3\u0da7/11-618337",
     "time_ut": 1660818250,
     "original_lang": "si",
     "original_title": "\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda \u0db4\u0dcf \u0d9c\u0db8\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0daf\u0dd9\u0dc3\u0da7",
-    "file_name": "/tmp/news_lk2/articles/34/34553954.json"
+    "file_name": "/tmp/news_lk2/articles/5e/5edee381.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -30,6 +62,14 @@
     "original_lang": "en",
     "original_title": "Myanmar buys Russian oil as emerging markets take shunned supply \u2013 report",
     "file_name": "/tmp/news_lk2/articles/60/60ef8130.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/22\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0dca-9\u0d9a\u0dca/11-396413",
+    "time_ut": 1660818047,
+    "original_lang": "si",
+    "original_title": "22\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0dca 9\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/6d/6d658b6f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -342,6 +382,14 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0dbb\u0dca\u0dc0\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
     "file_name": "/tmp/news_lk2/articles/c4/c43fb948.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0da7-\u0db6\u0dbd\u0dd9\u0db1\u0dca-\u0d9a\u0da9\u0dcf-\u0db4\u0dd0\u0db1\u0dca\u0db1\u0dcf\u0da7-\u0db8\u0dbb\u0dca\u0dc0\u0dd2\u0db1\u0dca-\u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-618321",
+    "time_ut": 1660805789,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0da7 \u0db6\u0dbd\u0dd9\u0db1\u0dca \u0d9a\u0da9\u0dcf \u0db4\u0dd0\u0db1\u0dca\u0db1\u0dcf\u0da7 \u0db8\u0dbb\u0dca\u0dc0\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/f4/f484f989.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -1222,6 +1270,14 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb0\u0b9a \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/42/42b0d0c5.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0dcf\u0dc6\u0dca-\u0d9c\u0dd1\u0dc3\u0dca-\u0db8\u0dd2\u0dbd-1050\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dc4\u0dc5\u0da7/1-618297",
+    "time_ut": 1660746173,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0dcf\u0dc6\u0dca \u0d9c\u0dd1\u0dc3\u0dca \u0db8\u0dd2\u0dbd 1050\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/54/54c9de2f.json"
   },
   {
     "newspaper_id": "ada-lk",
