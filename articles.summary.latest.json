@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/japan-grants-medical-equipment-worth-500-mn-yen-to-sri-lanka-govt-hospital-98775/",
+    "time_ut": 1660830720,
+    "original_lang": "en",
+    "original_title": "Japan grants medical equipment worth 500-mn yen to Sri Lanka govt hospital",
+    "file_name": "/tmp/news_lk2/articles/b1/b1a0227a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-immigration-on-the-hunt-for-scotswoman-who-documented-protests-98745/",
+    "time_ut": 1660829880,
+    "original_lang": "en",
+    "original_title": "Sri Lanka immigration on the hunt for Scotswoman who documented protests",
+    "file_name": "/tmp/news_lk2/articles/0c/0cc42117.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0dbd\u0dd3\u0da7\u0dbb\u0dba\u0d9a\u0dca-250\u0da7-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0db4\u0dd4\u0dc5\u0dd4\u0dc0\u0db1\u0dca/101-618356",
     "time_ut": 1660828295,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Peaceful and Unlawful Assembly",
     "file_name": "/tmp/news_lk2/articles/bf/bf2176c4.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/unarmed-but-not-peaceful/",
-    "time_ut": 1660386660,
-    "original_lang": "en",
-    "original_title": "Unarmed but not peaceful",
-    "file_name": "/tmp/news_lk2/articles/72/72c9ad30.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84281/petroleum-products-special-provisions-amendment-bill-gazetted",
-    "time_ut": 1660386240,
-    "original_lang": "en",
-    "original_title": "Petroleum Products (Special Provisions) Amendment Bill gazetted",
-    "file_name": "/tmp/news_lk2/articles/fe/fef38a05.json"
   }
 ]
