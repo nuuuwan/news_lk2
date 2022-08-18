@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-18 20:30:28 (LK time)*
+*As of 2022-08-18 20:46:03 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,31 +8,29 @@
 
 * **2** news-first-lk ([Nine petitions challenge Draft 22A](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afc5a952.json))
 
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
 * **2** news-first-lk ([Nine petitions challenge Draft 22A](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afc5a952.json))
 
-* **1** tamil-mirror-lk ([மேலும் ஐவர் உயிரிழந்தனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a31d1ac.json))
-
-## Last 3 Hours (24 Articles)
+## Last 3 Hours (21 Articles)
 
 * **6** news-first-lk ([Mervyn released without bail in case filed on 2007 incident](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a412e039.json))
 
-* **4** economy-next-com ([Sri Lanka economy to shrink over 8-pct in 2022, inflation may peak below 70-pct: CB chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/880cf2db.json))
-
 * **4** lankadeepa-lk ([කැළණිවැලි දුම්රිය මාර්ගයට බිලිවන නිවාසවලට ‘මාලපල්ලෙන් නිවසක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26aaa3a0.json))
-
-* **4** ada-derana-lk ([Covid-19: five more deaths, 166 new cases confirmed](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9b4f410.json))
 
 * **4** daily-mirror-lk ([Application deadline for 2022 A/L exam extended](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7e4ee90.json))
 
+* **3** economy-next-com ([Selling price in Sri Lanka’s apartments increase by over 47 pct: property tracker](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd879828.json))
+
 * **2** tamil-mirror-lk ([பெற்றோலை 250 ரூபாய்க்கு வழங்க முடியும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecbe27f4.json))
 
-## Last 24 Hours (208 Articles)
+* **2** ada-derana-lk ([CBSL announces amnesty period to deposit or sell foreign currency in the hands of public](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b1d1b58.json))
 
-* **36** lankadeepa-lk ([කරුවලගස්වැව වනජීවි දෙදෙනාට ඇප](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef7a7121.json))
+## Last 24 Hours (203 Articles)
 
-* **33** news-first-lk ([Laugfs Gas drops price of domestic gas cylinder](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91570bb3.json))
+* **33** lankadeepa-lk ([නිදන කාමරයකට රන්ඩුවෙලා පොල්ගහවෙල - කොළඹ දුම්රියත් නතර වෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/442dda8f.json))
+
+* **32** news-first-lk ([NO change to CBSL policy rates](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbfefd7f.json))
 
 * **31** ada-lk ([ලාෆ් ගෑස්වල ’ගෑස්’ බසියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa73966b.json))
 
@@ -40,7 +38,7 @@
 
 * **26** ada-derana-lk ([Laugfs slashes domestic LP gas prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed71479b.json))
 
-* **22** tamil-mirror-lk ([திடீரென குறைக்கப்பட்ட சமையல் எரிவாயு விலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1eef1779.json))
+* **21** tamil-mirror-lk ([‘ஜனாதிபதியானால் ஹிருணிகாவை அடித்து நிர்வாணப்படுத்தியிருப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e08f818.json))
 
 * **15** economy-next-com ([Sri Lanka stocks down for second session on profit taking](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41e821d1.json))
 
@@ -52,7 +50,7 @@
 
 * **1** d-b-s-jeyaraj-com ([Gotabaya Rajapaksa Likely to Return to Sri Lanka on Aug 25th From Thailand; will be Provided House and Security by State as a former President is entitled to; wants to go back to California after obtaining  US Green Card](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee9266f7.json))
 
-## Last Week (1,083 Articles)
+## Last Week (1,082 Articles)
 
 * **182** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
@@ -74,7 +72,7 @@
 
 * **17** d-b-s-jeyaraj-com ([Sri Lanka’s radical Leftist political parties,JVP and its breakaway faction, FSP galvanised the “Aragalaya “(struggle)into an aggressive movement that eventually ousted the two Rajapaksa brothers from power](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78668862.json))
 
-* **14** colombo-telegraph-com ([Truth Is An Abyss](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e64b2157.json))
+* **13** colombo-telegraph-com ([CID Waits Till The RTI Act Is Used To Investigate Death Threats By DIG Deshabandu Tennakoon Against A Journalist](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9712eda.json))
 
 ## All Time (1,452 Articles)
 
