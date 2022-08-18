@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84376/nine-petitions-filed-against-22nd-amendment-to-constitution",
+    "time_ut": 1660808580,
+    "original_lang": "en",
+    "original_title": "Nine petitions filed against 22nd Amendment to Constitution",
+    "file_name": "/tmp/news_lk2/articles/0c/0cb98c8f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/china-to-participate-in-russia-military-drills-says-india-will-join-too/",
+    "time_ut": 1660808400,
+    "original_lang": "en",
+    "original_title": "China To Participate In Russia Military Drills, Says India Will Join Too",
+    "file_name": "/tmp/news_lk2/articles/96/96097de5.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/world_news/\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19\u2019-\u0dc0\u0dba\u0dd2\u0dbb\u0dc3\u0dba\u0dd9\u0db1\u0dca-\u0db8\u0ddc\u0dc5\u0dba\u0da7-\u0dc0\u0db1-\u0dc4\u0dcf\u0db1\u0dd2\u0dba-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dcf\u0dbd\u0dd3\u0db1\u0dba\u0dd2/14-618325",
+    "time_ut": 1660808264,
+    "original_lang": "si",
+    "original_title": "\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca 19\u2019 \u0dc0\u0dba\u0dd2\u0dbb\u0dc3\u0dba\u0dd9\u0db1\u0dca \u0db8\u0ddc\u0dc5\u0dba\u0da7 \u0dc0\u0db1 \u0dc4\u0dcf\u0db1\u0dd2\u0dba \u0daf\u0dd2\u0d9c\u0dd4 \u0d9a\u0dcf\u0dbd\u0dd3\u0db1\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/72/72a1ba6d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/obviously-of-interest-to-us-jaishankar-on-yuan-wang-5/",
+    "time_ut": 1660808220,
+    "original_lang": "en",
+    "original_title": "\u201cObviously of interest to us\u201d \u2013 Jaishankar on Yuan Wang 5",
+    "file_name": "/tmp/news_lk2/articles/54/545e282e.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-shares-edge-up-in-mid-day-trade-98749/",
+    "time_ut": 1660808100,
+    "original_lang": "en",
+    "original_title": "Sri Lanka shares edge up in mid-day trade",
+    "file_name": "/tmp/news_lk2/articles/b0/b0eaaeea.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/18/imf-to-visit-sri-lanka-in-late-august-cbsl-chief/",
     "time_ut": 1660807440,
@@ -118,6 +158,14 @@
     "original_lang": "en",
     "original_title": "France relaxes travel advisory on Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/38/38b084e9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/mervyn-silva-arrested-by-the-cid-over-2007-incident/",
+    "time_ut": 1660803480,
+    "original_lang": "en",
+    "original_title": "Mervyn Silva arrested by the CID over 2007 incident",
+    "file_name": "/tmp/news_lk2/articles/e9/e9a4dd24.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -414,6 +462,14 @@
     "original_lang": "si",
     "original_title": "\u0d9c\u0ddd\u0da8\u0dcf \u2019\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca \u0d9a\u0dcf\u0da9\u0dca\u2019 \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/81/81dacbbd.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/is-the-doctrine-of-necessity-being-relevant-for-sri-lanka-to-initiate-a-people-centered-constitution/",
+    "time_ut": 1660788791,
+    "original_lang": "en",
+    "original_title": "Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?",
+    "file_name": "/tmp/news_lk2/articles/a5/a58721c6.json"
   },
   {
     "newspaper_id": "economy-next-com",
