@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 04:48:47 (LK time)*
+*As of 2022-08-19 05:05:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,7 +8,7 @@
 
 * **3** daily-mirror-lk ([People who were in the Aragalaya without any political agenda were not harmed - Manusha Nanayakkara](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb515c13.json))
 
-## Last 24 Hours (217 Articles)
+## Last 24 Hours (216 Articles)
 
 * **39** lankadeepa-lk ([අන්නාසි වගාව නැත්තටම නැති වෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaa714e.json))
 
@@ -22,7 +22,7 @@
 
 * **24** tamil-mirror-lk ([அனைவருக்கும் நிவாரணம்: சஜித் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b487d3c8.json))
 
-* **18** daily-ft-lk ([Tamils will only invest in SL if Govt. provides political solution: Mavai](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a99e8c07.json))
+* **17** daily-ft-lk ([IUSF protest against  ‘Ranil-Rajapaksa Junta’ today](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/8468c4c9.json))
 
 * **14** economy-next-com ([Sri Lanka sell Rs60bn mostly in 3-month bills, yield up](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5cf3df2.json))
 
