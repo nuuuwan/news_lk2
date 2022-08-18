@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 02:38:56 (LK time)*
+*As of 2022-08-19 03:03:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (6 Articles)
 
-* **7** daily-ft-lk ([Sysco LABS ranked amongst LMD’s Most Respected Entities for 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/252a2d47.json))
+* **5** daily-ft-lk ([Sri Lanka going the Turkey way?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fd40788.json))
 
 * **1** ada-derana-lk ([Australia kicks in extra $25 million emergency aid to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4a978da.json))
-
-* **1** tamil-mirror-lk ([மாணவர் போராட்டத்தில் கைதானவர்களின் எண்ணிக்கை உயர்வு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d45e407.json))
 
 ## Last 24 Hours (214 Articles)
 
@@ -32,11 +30,11 @@
 
 * **1** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
-## Last Week (1,109 Articles)
+## Last Week (1,105 Articles)
 
 * **190** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
-* **153** daily-mirror-lk ([We must learn to survive - Hiran Cooray](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86dbbd82.json))
+* **152** daily-mirror-lk ([Govt. directly handles matter with Chinese Embassy](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e79e6f49.json))
 
 * **151** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
@@ -48,7 +46,7 @@
 
 * **80** economy-next-com ([Sri Lanka to use US$20mn from Indian credit for animal feed](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/715a57af.json))
 
-* **76** daily-ft-lk ([Sunshine Healthcare appoints T. Sayandhan as CEO of Lina Manufacturing](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31195ea7.json))
+* **73** daily-ft-lk ([Japan provides Rs. 761 m grant aid for Human Resource Development Scholarship project](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f6a564f.json))
 
 * **44** island-lk ([Get down to brass tacks](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9be0fc16.json))
 
