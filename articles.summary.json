@@ -1,5 +1,85 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84385/cbsl-announces-amnesty-period-to-deposit-or-sell-foreign-currency-in-the-hands-of-public",
+    "time_ut": 1660827600,
+    "original_lang": "en",
+    "original_title": "CBSL announces amnesty period to deposit or sell foreign currency in the hands of public",
+    "file_name": "/tmp/news_lk2/articles/5b/5b1d1b58.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Tear-gassed/342-243310",
+    "time_ut": 1660827488,
+    "original_lang": "en",
+    "original_title": "Tear-gassed...",
+    "file_name": "/tmp/news_lk2/articles/42/42f7829a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/president-to-visit-japan-next-month-to-hold-talks-on-debt-restructuring/",
+    "time_ut": 1660827180,
+    "original_lang": "en",
+    "original_title": "President to visit Japan next month to hold talks on debt restructuring",
+    "file_name": "/tmp/news_lk2/articles/21/2189ff41.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Minister-lodged-complaint-with-CID-to-investigate-CPC-CPSTL-activities/342-243309",
+    "time_ut": 1660826533,
+    "original_lang": "en",
+    "original_title": "Minister lodged complaint with CID to investigate CPC, CPSTL activities",
+    "file_name": "/tmp/news_lk2/articles/9a/9a01a29f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca-166-\u0d9a\u0dca/101-618354",
+    "time_ut": 1660826467,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca 166 \u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/2f/2f196678.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/18/sri-lankan-minister-goes-to-cid-against-cpc/",
+    "time_ut": 1660826400,
+    "original_lang": "en",
+    "original_title": "Sri Lankan Minister goes to CID against CPC",
+    "file_name": "/tmp/news_lk2/articles/dd/ddde1ef8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd2\u0da7-\u0db4\u0dd2\u0da7\u0db8-\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0daf\u0dd2\u0db1\u0da7\u0dad\u0dca-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0db8\u0dbb\u0dab-5-\u0d9a\u0dca/101-618353",
+    "time_ut": 1660826370,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd2\u0da7 \u0db4\u0dd2\u0da7\u0db8 \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0daf\u0dd2\u0db1\u0da7\u0dad\u0dca \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0db8\u0dbb\u0dab 5 \u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/7b/7b8b709f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Will-take-legal-action-against-activists-Minister/342-243308",
+    "time_ut": 1660826330,
+    "original_lang": "en",
+    "original_title": "Will take legal action against activists: Minister",
+    "file_name": "/tmp/news_lk2/articles/7b/7bf44d82.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/selling-price-in-sri-lankas-apartments-increase-by-over-47-pct-property-tracker-98765/",
+    "time_ut": 1660826040,
+    "original_lang": "en",
+    "original_title": "Selling price in Sri Lanka\u2019s apartments increase by over 47 pct: property tracker",
+    "file_name": "/tmp/news_lk2/articles/fd/fd879828.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dc0\u0dd0\u0dbd\u0dd2-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0da7-\u0db6\u0dd2\u0dbd\u0dd2\u0dc0\u0db1-\u0db1\u0dd2\u0dc0\u0dcf\u0dc3\u0dc0\u0dbd\u0da7-\u2018\u0db8\u0dcf\u0dbd\u0db4\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dc3\u0d9a\u0dca/101-618352",
+    "time_ut": 1660826028,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dc0\u0dd0\u0dbd\u0dd2 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0da7 \u0db6\u0dd2\u0dbd\u0dd2\u0dc0\u0db1 \u0db1\u0dd2\u0dc0\u0dcf\u0dc3\u0dc0\u0dbd\u0da7 \u2018\u0db8\u0dcf\u0dbd\u0db4\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dc3\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/26/26aaa3a0.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Application-deadline-for-2022-AL-exam-extended/342-243307",
     "time_ut": 1660825799,
@@ -38,6 +118,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka economy to shrink over 8-pct in 2022, inflation may peak below 70-pct: CB chief",
     "file_name": "/tmp/news_lk2/articles/88/880cf2db.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc4\u0dcf\u0dbb-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d85\u0dad\u0dd0\u0dad\u0dd2-\u0d85\u0dba\u0da7-\u0db4\u0ddc\u0daf\u0dd4-\u0dc3\u0db8\u0dcf\u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca/11-396418",
+    "time_ut": 1660823524,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc4\u0dcf\u0dbb \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d85\u0dad\u0dd0\u0dad\u0dd2 \u0d85\u0dba\u0da7 \u0db4\u0ddc\u0daf\u0dd4 \u0dc3\u0db8\u0dcf\u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/e6/e664c847.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -430,6 +518,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka: Inflation will peak in September and trend down \u2013 CBSL Governor",
     "file_name": "/tmp/news_lk2/articles/9d/9db71ffd.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0db6\u0db1\u0dd2\u0d9a-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db8\u0dd2\u0dbd-\u0daf\u0dd3-\u0d9c\u0db1\u0dca\u0db1-\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca-\u0d9a\u0ddd\u0da7\u0dd2-1600\u0d9a-\u0dc3\u0dc4\u0db1\u0dcf\u0db0\u0dcf\u0dbb\u0dba\u0d9a\u0dca/11-396409",
+    "time_ut": 1660813547,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dcf\u0db6\u0db1\u0dd2\u0d9a \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db8\u0dd2\u0dbd \u0daf\u0dd3 \u0d9c\u0db1\u0dca\u0db1 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0d9a\u0ddd\u0da7\u0dd2 1600\u0d9a \u0dc3\u0dc4\u0db1\u0dcf\u0db0\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/19/19b2a6f4.json"
   },
   {
     "newspaper_id": "news-first-lk",
