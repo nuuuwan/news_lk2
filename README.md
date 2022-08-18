@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 02:06:09 (LK time)*
+*As of 2022-08-19 02:21:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (5 Articles)
+## Last Hour (4 Articles)
 
-* **5** daily-ft-lk ([Sri Lanka going the Turkey way?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fd40788.json))
+* **4** daily-ft-lk ([Futureworld opens new flagship and exclusive Apple store in Colombo 3](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e8ec85d.json))
 
 ## Last 3 Hours (9 Articles)
 
@@ -36,7 +36,7 @@
 
 * **1** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
-## Last Week (1,114 Articles)
+## Last Week (1,113 Articles)
 
 * **190** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
@@ -50,9 +50,9 @@
 
 * **118** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
-* **80** daily-ft-lk ([National Chamber to host Malaysian High Commissioner on 16 August](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07f31306.json))
-
 * **80** economy-next-com ([Sri Lanka to use US$20mn from Indian credit for animal feed](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/715a57af.json))
+
+* **79** daily-ft-lk ([Sri Lanka-Pakistan Business Council hosts interactive session](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/895f76d8.json))
 
 * **44** island-lk ([Get down to brass tacks](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9be0fc16.json))
 
