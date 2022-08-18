@@ -1,6 +1,62 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0bb0\u0bcd-\u0bb5\u0bc6\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0ba8\u0bcb\u0baf\u0bbe\u0bb2\u0bcd-15-\u0bae\u0bbe\u0ba9\u0bcd\u0b95\u0bb3\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0ba9/175-302566",
+    "time_ut": 1660818345,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bc0\u0bb0\u0bcd \u0bb5\u0bc6\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bcb\u0baf\u0bbe\u0bb2\u0bcd  15 \u0bae\u0bbe\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0ba9",
+    "file_name": "/tmp/news_lk2/articles/a6/a60cae3a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84380/road-between-union-place-and-town-hall-blocked-due-to-protest",
+    "time_ut": 1660818300,
+    "original_lang": "en",
+    "original_title": "Road between Union Place and Town Hall blocked due to protest",
+    "file_name": "/tmp/news_lk2/articles/a0/a0b0921c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda-\u0db4\u0dcf-\u0d9c\u0db8\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba-\u0daf\u0dd9\u0dc3\u0da7/101-618337",
+    "time_ut": 1660818250,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda \u0db4\u0dcf \u0d9c\u0db8\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0daf\u0dd9\u0dc3\u0da7",
+    "file_name": "/tmp/news_lk2/articles/34/34553954.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84379/myanmar-buys-russian-oil-as-emerging-markets-take-shunned-supply-report",
+    "time_ut": 1660818120,
+    "original_lang": "en",
+    "original_title": "Myanmar buys Russian oil as emerging markets take shunned supply \u2013 report",
+    "file_name": "/tmp/news_lk2/articles/60/60ef8130.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Protest-by-Ayurvedic-TUs/110-243301",
+    "time_ut": 1660817687,
+    "original_lang": "en",
+    "original_title": "Protest by Ayurvedic TUs",
+    "file_name": "/tmp/news_lk2/articles/8c/8c0ea04b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/IUSF-protest-march-sets-off/108-243300",
+    "time_ut": 1660817243,
+    "original_lang": "en",
+    "original_title": "IUSF protest march sets off",
+    "file_name": "/tmp/news_lk2/articles/6d/6dbaddad.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0ddd\u0db8\u0dcf\u0d9c\u0db8-\u0db8\u0dd4\u0dc0\u0db1\u0dca-\u0db8\u0dd2\u0dba\u0d9c\u0dd2\u0dba\u0dda-\u0da2\u0dbd\u0db7\u0dd3\u0dad\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca/11-396412",
+    "time_ut": 1660816992,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0ddd\u0db8\u0dcf\u0d9c\u0db8 \u0db8\u0dd4\u0dc0\u0db1\u0dca \u0db8\u0dd2\u0dba\u0d9c\u0dd2\u0dba\u0dda \u0da2\u0dbd\u0db7\u0dd3\u0dad\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/6e/6e8b25d0.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0b9f\u0bcd\u0b9f\u0b88\u0b9f\u0bc1-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf-\u0b85\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0ba4\u0bbf/175-302563",
     "time_ut": 1660816990,
     "original_lang": "ta",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "22A Ensures Government Domination In Constitutional Council",
     "file_name": "/tmp/news_lk2/articles/9d/9db2dde0.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/jaffna-bishop-shattered-as-cycle-charity-hoodwinks-donors-and-pockets-manipay-hospital-funds/",
-    "time_ut": 1660268624,
-    "original_lang": "en",
-    "original_title": "Jaffna Bishop Shattered As Cycle Charity Hoodwinks Donors And Pockets Manipay Hospital Funds",
-    "file_name": "/tmp/news_lk2/articles/bf/bfa35c5a.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/cid-waits-till-the-rti-act-is-used-to-investigate-death-threats-by-dig-deshabandu-tennakoon-against-a-journalist/",
-    "time_ut": 1660266851,
-    "original_lang": "en",
-    "original_title": "CID Waits Till The RTI Act Is Used To Investigate Death Threats By DIG Deshabandu Tennakoon Against A Journalist",
-    "file_name": "/tmp/news_lk2/articles/f9/f9712eda.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-to-use-us20mn-from-indian-credit-for-animal-feed-98452/",
-    "time_ut": 1660265160,
-    "original_lang": "en",
-    "original_title": "Sri Lanka to use US$20mn from Indian credit for animal feed",
-    "file_name": "/tmp/news_lk2/articles/71/715a57af.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Expedite-action-against-X-Press-Pearl-disaster-Wijeyadasa-tells-officials/56-738598",
-    "time_ut": 1660254230,
-    "original_lang": "en",
-    "original_title": "Expedite action against X-Press Pearl disaster, Wijeyadasa tells officials",
-    "file_name": "/tmp/news_lk2/articles/f1/f1f2e520.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/AKD-fires-off-missive-to-PresidentRanil/56-738597",
-    "time_ut": 1660254106,
-    "original_lang": "en",
-    "original_title": "AKD fires off missive to President\u00a0Ranil",
-    "file_name": "/tmp/news_lk2/articles/60/6046e0c6.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Dilan-blames-elitist-group-for-Aragalaya-fizzling-out/56-738596",
-    "time_ut": 1660253765,
-    "original_lang": "en",
-    "original_title": "Dilan blames elitist group for Aragalaya fizzling out",
-    "file_name": "/tmp/news_lk2/articles/b6/b65d0363.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Japan-provides-Rs-761-m-grant-aid-for-Human-Resource-Development-Scholarship-project/56-738595",
-    "time_ut": 1660253670,
-    "original_lang": "en",
-    "original_title": "Japan provides Rs. 761 m grant aid for Human Resource Development Scholarship project",
-    "file_name": "/tmp/news_lk2/articles/2f/2f6a564f.json"
   }
 ]
