@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/pm-appeals-for-iran-to-invest-in-sl-s-energy-sector/",
+    "time_ut": 1660914960,
+    "original_lang": "en",
+    "original_title": "PM appeals for Iran to invest in SL\u2019s energy sector",
+    "file_name": "/tmp/news_lk2/articles/7d/7ddd1dda.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-3-hour-power-cuts-for-aug-20-21-regulator-98793/",
+    "time_ut": 1660914900,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules 3-hour power cuts for Aug 20, 21: regulator",
+    "file_name": "/tmp/news_lk2/articles/9c/9c376581.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/19/egg-prices-reduced-from-monday-22/",
     "time_ut": 1660914540,
     "original_lang": "en",
@@ -30,6 +46,14 @@
     "original_lang": "en",
     "original_title": "President visits Jackson Anthony at hospital",
     "file_name": "/tmp/news_lk2/articles/af/afaa8a86.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3\u0db1\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/11-396439",
+    "time_ut": 1660912886,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3\u0db1\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a1/a1c5a9ce.json"
   },
   {
     "newspaper_id": "ada-lk",
