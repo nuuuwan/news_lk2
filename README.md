@@ -1,22 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 06:42:04 (LK time)*
+*As of 2022-08-19 07:17:50 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (207 Articles)
+## Last 24 Hours (199 Articles)
 
-* **39** lankadeepa-lk ([අන්නාසි වගාව නැත්තටම නැති වෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaa714e.json))
+* **36** lankadeepa-lk ([දරුවකු ඇළට විසි කළ ග්‍රාමයාට වැඩ වරදි](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48cba1c1.json))
 
 * **35** news-first-lk ([NO change to CBSL policy rates](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbfefd7f.json))
 
 * **31** ada-lk ([ගෝඨා ඇමෙරිකානු ග්‍රීන් කාඩ් ලොතරැයියට අයඳුම් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/718f11cb.json))
 
-* **28** daily-mirror-lk ([New Cabinet appointment to be delayed by week](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de79d30b.json))
-
 * **26** ada-derana-lk ([Showers expected in several provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5b65e16.json))
 
-* **23** tamil-mirror-lk ([பிஸ்கட் விலை அதிகரிப்புக்கு காரணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8da98433.json))
+* **25** daily-mirror-lk ([Man arrested for entering MP Kokila’s residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ff92bc.json))
+
+* **21** tamil-mirror-lk ([தேசிய பாதுகாப்பு தொடர்பில் பாதுகாப்பு செயலரின் அறிவுறுத்தல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd5dd7bc.json))
 
 * **14** economy-next-com ([Sri Lanka sell Rs60bn mostly in 3-month bills, yield up](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5cf3df2.json))
 
@@ -26,7 +26,7 @@
 
 * **1** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
-## Last Week (1,114 Articles)
+## Last Week (1,112 Articles)
 
 * **190** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
@@ -48,7 +48,7 @@
 
 * **17** d-b-s-jeyaraj-com ([Sri Lanka  Grants Permission for  Chinese space and satellite tracking vessel “Yuan Wang 5” to dock  on August 16 at  Hambantota port subject to conditions that the visiting Chinese vessel’s Automatic Identification System (AIS) must  be kept switched on within the EEZ of Sri Lanka and that no scientific research be conducted in Sri Lankan waters.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2bdccc7.json))
 
-* **13** colombo-telegraph-com ([CID Waits Till The RTI Act Is Used To Investigate Death Threats By DIG Deshabandu Tennakoon Against A Journalist](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9712eda.json))
+* **11** colombo-telegraph-com ([22A Ensures Government Domination In Constitutional Council](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9db2dde0.json))
 
 ## All Time (1,506 Articles)
 
