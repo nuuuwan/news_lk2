@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 23:12:14 (LK time)*
+*As of 2022-08-19 23:28:44 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,9 +8,9 @@
 
 * **1** ada-derana-lk ([Govt officials’ foreign employment and referral program expedited](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f28e0a.json))
 
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (13 Articles)
 
-* **6** news-first-lk ([Rajapaksas still have a mandate – Sanath Nishantha](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/987a3186.json))
+* **5** news-first-lk ([Dullas alleges ‘hate politics’ within Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a899547d.json))
 
 * **3** ada-derana-lk ([Navy seizes Kerala cannabis worth over Rs. 27 million in Jaffna](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba43805.json))
 
