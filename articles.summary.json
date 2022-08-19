@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/ten-congressmen-urge-additional-relief-to-sri-lanka/",
+    "time_ut": 1660925940,
+    "original_lang": "en",
+    "original_title": "Ten Congressmen urge additional relief to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/89/892906d8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/passengers-confront-bandula-on-bus/",
+    "time_ut": 1660925760,
+    "original_lang": "en",
+    "original_title": "Passengers Confront Bandula on Bus",
+    "file_name": "/tmp/news_lk2/articles/ac/ac51fe88.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/fuel-distribution-suspended-for-12-filling-stations/",
+    "time_ut": 1660925460,
+    "original_lang": "en",
+    "original_title": "Fuel distribution suspended for 12 filling stations",
+    "file_name": "/tmp/news_lk2/articles/60/6037b873.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/19/sri-lanka-student-activists-detained-for-72-hours-police-want-to-use-terrorism-act-for-3-month-detention/",
     "time_ut": 1660925100,
     "original_lang": "en",

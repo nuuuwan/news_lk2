@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/ten-congressmen-urge-additional-relief-to-sri-lanka/",
+    "time_ut": 1660925940,
+    "original_lang": "en",
+    "original_title": "Ten Congressmen urge additional relief to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/89/892906d8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/passengers-confront-bandula-on-bus/",
+    "time_ut": 1660925760,
+    "original_lang": "en",
+    "original_title": "Passengers Confront Bandula on Bus",
+    "file_name": "/tmp/news_lk2/articles/ac/ac51fe88.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/fuel-distribution-suspended-for-12-filling-stations/",
+    "time_ut": 1660925460,
+    "original_lang": "en",
+    "original_title": "Fuel distribution suspended for 12 filling stations",
+    "file_name": "/tmp/news_lk2/articles/60/6037b873.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/19/sri-lanka-student-activists-detained-for-72-hours-police-want-to-use-terrorism-act-for-3-month-detention/",
     "time_ut": 1660925100,
     "original_lang": "en",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "India marks Independence: Modi sets Goals for 2047",
     "file_name": "/tmp/news_lk2/articles/68/689985b4.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dda\u0dbb\u0dc5-\u0d9c\u0d82\u0da2\u0dcf-\u0dc3\u0dc4-\u0d85\u0dba\u0dd2\u0dc3\u0dca--\u0dc3\u0db8\u0d9c-\u0d89\u0d82\u0da2\u0dd2\u0db1\u0dda\u0dbb\u0dd4\u0dc0\u0dbb\u0dba\u0dcf-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6/11-396294",
-    "time_ut": 1660538742,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dda\u0dbb\u0dc5 \u0d9c\u0d82\u0da2\u0dcf \u0dc3\u0dc4 \u0d85\u0dba\u0dd2\u0dc3\u0dca  \u0dc3\u0db8\u0d9c \u0d89\u0d82\u0da2\u0dd2\u0db1\u0dda\u0dbb\u0dd4\u0dc0\u0dbb\u0dba\u0dcf \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6",
-    "file_name": "/tmp/news_lk2/articles/82/825b7af3.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0bcb\u0b9f\u0bc0\u0bb8\u0bcd\u0bb5\u0bb0-\u0baa\u0bc6\u0ba3\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf-\u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8/76-302349",
-    "time_ut": 1660538514,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bcb\u0b9f\u0bc0\u0bb8\u0bcd\u0bb5\u0bb0 \u0baa\u0bc6\u0ba3\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf \u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/f3/f3363a44.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/15/21-000-mt-of-urea-to-reach-sri-lanka/",
-    "time_ut": 1660538460,
-    "original_lang": "en",
-    "original_title": "21,000 MT of Urea to reach Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/2b/2b0c00b4.json"
   }
 ]
