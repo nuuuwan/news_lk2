@@ -1,10 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 21:08:49 (LK time)*
+*As of 2022-08-19 21:25:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** daily-mirror-lk ([Egg prices to come down by Rs.5 from Monday: Poultry Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/936ec36f.json))
+
+## Last Hour (6 Articles)
 
 * **1** daily-mirror-lk ([Egg prices to come down by Rs.5 from Monday: Poultry Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/936ec36f.json))
 
@@ -14,37 +18,27 @@
 
 * **1** lankadeepa-lk ([පිරවුම්හල් 12කට ඉන්ධන දීම අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4ff2834e.json))
 
-## Last Hour (8 Articles)
-
-* **3** news-first-lk ([Army Chief Pays His First Formal Courtesy Call on New President](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58e9d944.json))
-
-* **1** daily-mirror-lk ([Egg prices to come down by Rs.5 from Monday: Poultry Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/936ec36f.json))
-
-* **1** ada-lk ([සති අන්තයේත් පැය තුනක විදුලි කප්පාදුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfc8f342.json))
-
-* **1** lankadeepa-lk ([පිරවුම්හල් 12කට ඉන්ධන දීම අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4ff2834e.json))
-
 * **1** ada-derana-lk ([Navy seizes Kerala cannabis worth over Rs. 27 million in Jaffna](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba43805.json))
 
 * **1** tamil-mirror-lk ([சிஐடிக்கு வருமாறு ஹிருணிகாவுக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd34d3f1.json))
 
-## Last 3 Hours (28 Articles)
+## Last 3 Hours (25 Articles)
 
-* **9** ada-lk ([ආරක්ෂක ප්‍රධානීන් ජනපති හමු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1c5a9ce.json))
+* **8** ada-lk ([විපක්ෂනායක හා ඇමෙරිකානු  තානාපතිනිය අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3ddc3d4.json))
 
 * **6** news-first-lk ([Egg prices reduced from Monday (22)](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c85a285.json))
 
-* **4** lankadeepa-lk ([පැය 3ක විදුලි කප්පාදුව තවත් දින දෙකක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dce9a486.json))
-
-* **4** ada-derana-lk ([President visits Jackson Anthony at hospital](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afaa8a86.json))
-
 * **3** daily-mirror-lk ([Three-hour power cut during weekend](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd4aa13c.json))
+
+* **3** lankadeepa-lk ([ආරක්ෂක ප්‍රධානීහු ජනපති හමු වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/6461650b.json))
+
+* **3** ada-derana-lk ([COVID: Six more deaths and 164 new cases reported](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5daec615.json))
 
 * **1** tamil-mirror-lk ([சிஐடிக்கு வருமாறு ஹிருணிகாவுக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd34d3f1.json))
 
 * **1** economy-next-com ([Sri Lanka schedules 3-hour power cuts for Aug 20, 21: regulator](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c376581.json))
 
-## Last 24 Hours (179 Articles)
+## Last 24 Hours (178 Articles)
 
 * **35** lankadeepa-lk ([ගෝඨාට එන්න දෙන්න පොහොට්ටුව ජනපතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78c91396.json))
 
@@ -54,7 +48,7 @@
 
 * **24** tamil-mirror-lk ([கோட்டாபயவுக்கு பாதுகாப்பு வழங்குமாறு கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17b8cacf.json))
 
-* **23** ada-derana-lk ([SLPP requests President to facilitate Gotabaya’s safe return to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19258317.json))
+* **22** ada-derana-lk ([Susil doesn’t think Gotabaya will return to politics again](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b15347b9.json))
 
 * **21** daily-mirror-lk ([Facilitate safe return of Former President: SLFP requests President](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/108d0f4d.json))
 
