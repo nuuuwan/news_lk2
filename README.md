@@ -1,30 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 00:42:50 (LK time)*
+*As of 2022-08-20 01:03:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([US ambassador holds talks with opposition leader](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29d64012.json))
-
-## Last Hour (7 Articles)
-
-* **4** daily-ft-lk ([Looking at the problem from the point of view of the State](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1508448.json))
+## Last Hour (2 Articles)
 
 * **2** ada-derana-lk ([Interpol confirms arrest of ‘Harak Kata’ by Dubai Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f382d22.json))
 
-* **1** daily-mirror-lk ([Egg to be sold at Rs. 43; Gazette issued](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/7387a7e5.json))
-
-## Last 3 Hours (19 Articles)
+## Last 3 Hours (17 Articles)
 
 * **10** daily-ft-lk ([Dialog promotes best data plans for entire family](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f47911b1.json))
 
 * **3** ada-derana-lk ([Govt officials’ foreign employment and referral program expedited](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f28e0a.json))
 
 * **3** daily-mirror-lk ([Disciplinary action against missing Beach VB players](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b173ad72.json))
-
-* **2** news-first-lk ([Passengers Confront Bandula on Bus](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac51fe88.json))
 
 * **1** lankadeepa-lk ([වසන්ත ඇතුළු දෙදෙනෙක් මාස තුනක් රඳවන් ප්‍රශ්න කිරීමට අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a953afc.json))
 
@@ -48,7 +38,7 @@
 
 * **5** colombo-telegraph-com ([Saying No To Authoritarian Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2af95aab.json))
 
-## Last Week (1,271 Articles)
+## Last Week (1,267 Articles)
 
 * **224** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
@@ -56,7 +46,7 @@
 
 * **172** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
 
-* **169** daily-mirror-lk ([Govt. repeals draconian clauses under Emergency Regulations](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c868bf3d.json))
+* **166** daily-mirror-lk ([Wickremesinghe, Alahapperuma and the 2022 Presidential Election](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efd7fcf8.json))
 
 * **144** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
@@ -68,7 +58,7 @@
 
 * **54** island-lk ([My intention was to create a safe place, a place without judgment says Beyonce](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58ab4689.json))
 
-* **16** d-b-s-jeyaraj-com ([When has action been taken against the outrageous behaviour manifested by parliamentarians on the floor of the House at any time? What equitable purpose does the current Parliamentary assembly serve to protect the interests of the people?](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dce633e5.json))
+* **15** d-b-s-jeyaraj-com ([How Lakshman Kadirgamar Became a National List MP and Foreign Affairs Cabinet Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5a18a42.json))
 
 * **14** colombo-telegraph-com ([Did Bankruptcy Of Sinhala Language Help Push The Country Off The Cliff](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2b2471e.json))
 
