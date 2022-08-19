@@ -1,22 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 02:48:20 (LK time)*
+*As of 2022-08-20 03:05:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([Saying No to Authoritarian Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e47d605f.json))
 
 ## Last Hour (3 Articles)
 
 * **3** daily-mirror-lk ([Best way to find yourself: Lose yourself in the service of others](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d0147ff.json))
 
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (10 Articles)
 
-* **8** daily-ft-lk ([Looking at the problem from the point of view of the State](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1508448.json))
+* **4** daily-ft-lk ([UN ‘appalled’ by Saudi 34-year sentence over tweets](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6edf018.json))
 
-* **4** daily-mirror-lk ([Egg to be sold at Rs. 43; Gazette issued](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/7387a7e5.json))
+* **3** daily-mirror-lk ([Best way to find yourself: Lose yourself in the service of others](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d0147ff.json))
 
 * **2** ada-derana-lk ([Interpol confirms arrest of ‘Harak Kata’ by Dubai Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f382d22.json))
 
