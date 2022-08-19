@@ -1,11 +1,59 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/pressure-on-sri-lankas-exchange-rate-is-easing-central-bank-chief-98781/",
+    "time_ut": 1660893360,
+    "original_lang": "en",
+    "original_title": "Pressure on Sri Lanka\u2019s exchange rate is easing: central bank chief",
+    "file_name": "/tmp/news_lk2/articles/a8/a89f15c9.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb0\u0bcd\u0b95\u0bb3\u0bc7-\u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bae\u0bcd-1929\u0b95\u0bcd\u0b95\u0bc1-\u0b89\u0b9f\u0ba9\u0bcd-\u0b85\u0bb4\u0bc8\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-302615",
+    "time_ut": 1660893322,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb0\u0bcd\u0b95\u0bb3\u0bc7 \u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bae\u0bcd; 1929\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0b9f\u0ba9\u0bcd \u0b85\u0bb4\u0bc8\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/13/13bd08e7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84396/jaishankar-says-india-has-done-its-best-to-assist-sri-lanka",
+    "time_ut": 1660893300,
+    "original_lang": "en",
+    "original_title": "Jaishankar says India has done its best to assist Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/16/167a783c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/treasure-hunters-arrested-with-loot-worth-over-rs-100-mn/",
+    "time_ut": 1660893120,
+    "original_lang": "en",
+    "original_title": "Treasure hunters arrested with loot worth over Rs. 100 Mn",
+    "file_name": "/tmp/news_lk2/articles/a4/a46a68c6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Government-officials-foreign-employment-and-referral-program-expedited-PMD/342-243356",
+    "time_ut": 1660892776,
+    "original_lang": "en",
+    "original_title": "Government officials\u2019 foreign employment and referral program expedited: PMD",
+    "file_name": "/tmp/news_lk2/articles/13/13e5ab1c.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0dba\u0dba\u0dd2/101-618386",
     "time_ut": 1660892523,
     "original_lang": "si",
     "original_title": "\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd\u0da7 \u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/8c/8c898af4.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0dba\u0dba\u0dd2/1-618386",
+    "time_ut": 1660892523,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd\u0da7 \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c7/c7cd8c25.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -78,6 +126,14 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0dbb\u0dca\u0dc0 \u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a \u0dbb\u0da2\u0dba\u0dda \u0d87\u0db8\u0dd0\u0dad\u0dd2 \u0db0\u0dd4\u0dbb \u0d9c\u0dd0\u0db1 \u0d85\u0dbd\u0dc0\u0dad\u0dd4\u0dc0\u0dbd\u0d9c\u0dd9\u0db1\u0dca \u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/68/68aeb7c7.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd3-\u0d85\u0dbd\u0dd9\u0dc0\u0dd2-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba-\u0dc0\u0dd3-\u0da7\u0ddc\u0db1\u0dca-209\u0d9a\u0dca-\u0db8\u0dd2\u0dbd-\u0daf\u0dd3-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-396431",
+    "time_ut": 1660890780,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd3 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0dc0\u0dd3 \u0da7\u0ddc\u0db1\u0dca 209\u0d9a\u0dca \u0db8\u0dd2\u0dbd \u0daf\u0dd3 \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/64/64b6271d.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -369,11 +425,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/People-who-were-in-the-Aragalaya-without-any-political-agenda-were-not-harmed-Manusha-Nanayakkara/172-243325",
+    "url": "https://www.dailymirror.lk/hard-talk/People-who-were-in-the-Aragalaya-without-any-political-agenda-were-not-harmed-Manusha-Nanayakkara/334-243325",
     "time_ut": 1660860219,
     "original_lang": "en",
     "original_title": "People who were in the Aragalaya without any political agenda were not harmed - Manusha Nanayakkara",
-    "file_name": "/tmp/news_lk2/articles/c4/c4ffc642.json"
+    "file_name": "/tmp/news_lk2/articles/10/101f5b8c.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Arms, drug seizure from Sri Lankan boat: Accused raised funds to revive LTTE, says India\u2019s NIA",
     "file_name": "/tmp/news_lk2/articles/cd/cd34fcba.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-bakers-want-price-controls-on-poultry-farmers-in-shortage-solution-98548/",
-    "time_ut": 1660471500,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s bakers want price controls on poultry farmers in shortage solution",
-    "file_name": "/tmp/news_lk2/articles/fc/fce1e845.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0ba9\u0ba4\u0bc1-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b87\u0ba9\u0bcd\u0ba9\u0bc1\u0bae\u0bcd-\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0b9f\u0bc8\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/175-302298",
-    "time_ut": 1660471272,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0ba9\u0ba4\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0ba9\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0b9f\u0bc8\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/a8/a8d69828.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-should-focus-on-locally-sourcing-animal-products-poultry-association-98549/",
-    "time_ut": 1660471260,
-    "original_lang": "en",
-    "original_title": "Sri Lanka should focus on locally sourcing animal products: poultry association",
-    "file_name": "/tmp/news_lk2/articles/88/88b725ce.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dbb\u0dca\u0dc0-\u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0da7-\u0dc3\u0dc4\u0dcf\u0dba-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0dc1\u0dca\u200d\u0dbb\u0dd3\u0dbd\u0db1\u0dd2\u0db4\u0dd9\u0db1\u0dca-\u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2/11-396281",
-    "time_ut": 1660469696,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0dbb\u0dca\u0dc0 \u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0da7 \u0dc3\u0dc4\u0dcf\u0dba \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0dc1\u0dca\u200d\u0dbb\u0dd3\u0dbd\u0db1\u0dd2\u0db4\u0dd9\u0db1\u0dca \u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/96/968026e4.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/100-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4-\u0baa\u0bb8\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0bae\u0bcd/175-302297",
-    "time_ut": 1660468982,
-    "original_lang": "ta",
-    "original_title": "100 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4 \u0baa\u0bb8\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/7b/7bf3d724.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf-\u0dad\u0dbb\u0d9c\u0dd9\u0da7-\u0d9c\u0dd2\u0dba-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dcf-\u0daf\u0dd0\u0daf\u0dd4\u0dbb\u0dd4-\u0d94\u0dba\u0da7-\u0db6\u0dd2\u0dbd\u0dd2/1-618071",
-    "time_ut": 1660468506,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0dad\u0dbb\u0d9c\u0dd9\u0da7 \u0d9c\u0dd2\u0dba \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dcf \u0daf\u0dd0\u0daf\u0dd4\u0dbb\u0dd4 \u0d94\u0dba\u0da7 \u0db6\u0dd2\u0dbd\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a8/a881ed36.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0baa\u0bbe\u0ba3\u0ba8\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb2\u0bc8-\u0ba8\u0b9f\u0ba8\u0bcd\u0ba4-\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0b9a\u0bcd-\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd/95-302295",
-    "time_ut": 1660467781,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbe\u0ba3\u0ba8\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb2\u0bc8 \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4 \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0b9a\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/01/01562be3.json"
   }
 ]
