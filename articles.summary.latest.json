@@ -1,5 +1,77 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84408/covid-six-more-deaths-and-164-new-cases-reported",
+    "time_ut": 1660917300,
+    "original_lang": "en",
+    "original_title": "COVID: Six more deaths and 164 new cases reported",
+    "file_name": "/tmp/news_lk2/articles/5d/5daec615.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddd\u0da7\u0dd2-3-\u0d9a-\u0d9a\u0dda\u0dbb\u0dc5-\u0d9c\u0d82\u0da2\u0dcf-\u0dba\u0dcf\u0db4\u0db1\u0dd9\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-618422",
+    "time_ut": 1660916922,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 3 \u0d9a \u0d9a\u0dda\u0dbb\u0dc5 \u0d9c\u0d82\u0da2\u0dcf \u0dba\u0dcf\u0db4\u0db1\u0dd9\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e7/e7eb0a02.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1---\u0dad\u0dd4\u0dbb\u0dca\u0d9a\u0dd2-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4-\u0dc3\u0db8\u0d9c-UN-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd2\u0dba\u0dcf-\u0dc4\u0db8\u0dd4\u0dc0\u0d9a/3-396449",
+    "time_ut": 1660916733,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1 - \u0dad\u0dd4\u0dbb\u0dca\u0d9a\u0dd2 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4 \u0dc3\u0db8\u0d9c UN \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd2\u0dba\u0dcf \u0dc4\u0db8\u0dd4\u0dc0\u0d9a",
+    "file_name": "/tmp/news_lk2/articles/c7/c7ab43e2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca-\u0d85\u0da9\u0dd4\u0dc0\u0d9a\u0dca-\u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dad\u0dca-\u0db8\u0dbb\u0dab-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8\u0d9a\u0dca/3-396448",
+    "time_ut": 1660916677,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca \u0d85\u0da9\u0dd4\u0dc0\u0d9a\u0dca \u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dad\u0dca \u0db8\u0dbb\u0dab \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/0e/0e579cc3.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1\u0dba\u0da7-\u0dc3\u0dc4-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0da7-\u0d91\u0d9a\u0dca\u0dc0-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf-\u0d9a\u0dc5-\u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dd2/3-396447",
+    "time_ut": 1660916612,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1\u0dba\u0da7 \u0dc3\u0dc4 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0d91\u0d9a\u0dca\u0dc0 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/73/73df9060.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db6\u0dd6\u0dc3\u0dca\u0da7\u0dbb\u0dca-\u0d91\u0db1\u0dca\u0db1\u0dad\u0dca-\u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1\u0dba-WHO-\u0dba\u0dcf\u0dc0\u0dad\u0dca\u0d9a\u0dcf\u0dbd\u0dd3\u0db1-\u0d9a\u0dbb\u0dba\u0dd2/3-396445",
+    "time_ut": 1660916493,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd6\u0dc3\u0dca\u0da7\u0dbb\u0dca \u0d91\u0db1\u0dca\u0db1\u0dad\u0dca \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1\u0dba WHO \u0dba\u0dcf\u0dc0\u0dad\u0dca\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/18/18a254be.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Three-hour-power-cut-during-weekend/108-243368",
+    "time_ut": 1660916380,
+    "original_lang": "en",
+    "original_title": "Three-hour power cut during weekend",
+    "file_name": "/tmp/news_lk2/articles/bd/bd4aa13c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1-\u0dab\u0dba-\u0d8b\u0d9c\u0dd4\u0dbd-\u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0-\u0db6\u0ddc\u0dbb\u0dd4\u0dc0\u0d9a\u0dca---\u0da0\u0dd3\u0db1\u0dba-\u0dc4\u0dd9\u0dc5\u0dcf-\u0daf\u0d9a\u0dd3/3-396441",
+    "time_ut": 1660916179,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1 \u0dab\u0dba \u0d8b\u0d9c\u0dd4\u0dbd \u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0 \u0db6\u0ddc\u0dbb\u0dd4\u0dc0\u0d9a\u0dca - \u0da0\u0dd3\u0db1\u0dba \u0dc4\u0dd9\u0dc5\u0dcf \u0daf\u0d9a\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/89/896a5945.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0db1\u0dcf\u0dba\u0d9a-\u0dc4\u0dcf-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4--\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0db1\u0dd2\u0dba-\u0d85\u0dad\u0dbb-\u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca/11-396440",
+    "time_ut": 1660915588,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0db1\u0dcf\u0dba\u0d9a \u0dc4\u0dcf \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4  \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0db1\u0dd2\u0dba \u0d85\u0dad\u0dbb \u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/e3/e3ddc3d4.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/19/pm-appeals-for-iran-to-invest-in-sl-s-energy-sector/",
     "time_ut": 1660914960,
@@ -270,6 +342,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka: Student Activist Wasantha Mudalige held under Detention Orders",
     "file_name": "/tmp/news_lk2/articles/ea/ea52be1c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/sri-lanka-student-activist-wasantha-mudalige-held-under-terrorism-act/",
+    "time_ut": 1660906200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka: Student Activist Wasantha Mudalige held under Terrorism Act",
+    "file_name": "/tmp/news_lk2/articles/27/27c263a9.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7918,85 +7998,5 @@
     "original_lang": "en",
     "original_title": "SJB nominates two MPs as COPE and COPA chairpersons",
     "file_name": "/tmp/news_lk2/articles/aa/aa006fbd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/15/showers-for-many-areas-today-15/",
-    "time_ut": 1660533420,
-    "original_lang": "en",
-    "original_title": "Showers for many areas today (15)",
-    "file_name": "/tmp/news_lk2/articles/42/428d3c71.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbe\u0bb3\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd/71-302339",
-    "time_ut": 1660532874,
-    "original_lang": "ta",
-    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0bb3\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1: \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/b6/b6b6db46.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d9a\u0ddd\u0da7\u0dcf\u0dc0-\u0db8\u0dda-\u0dc3\u0dad\u0dd2\u0dba\u0dda\u0daf\u0dd3-\u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca-\u0db1\u0dd1/11-396291",
-    "time_ut": 1660532846,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d9a\u0ddd\u0da7\u0dcf\u0dc0 \u0db8\u0dda \u0dc3\u0dad\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/7b/7bf67bad.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/15/1-hour-power-cut-for-today-15-tomorrow-16/",
-    "time_ut": 1660532820,
-    "original_lang": "en",
-    "original_title": "1 hour Power cut for today (15), tomorrow (16)",
-    "file_name": "/tmp/news_lk2/articles/49/4994f786.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/President-in-a-hurry-to-rope-in-Jaffna-MPs-to-showcase-to-Geneva-Wigneswaran/108-243047",
-    "time_ut": 1660532249,
-    "original_lang": "en",
-    "original_title": "President in a hurry to rope in Jaffna MPs to showcase to Geneva: Wigneswaran",
-    "file_name": "/tmp/news_lk2/articles/59/597ae7cc.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/a-true-democratic-leadership/",
-    "time_ut": 1660532108,
-    "original_lang": "en",
-    "original_title": "A True Democratic Leadership",
-    "file_name": "/tmp/news_lk2/articles/e6/e696b38d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Techno-Ministry-flouts-regulations-in-purchasing-office-space-at-One-Galle-Face/108-243043",
-    "time_ut": 1660532077,
-    "original_lang": "en",
-    "original_title": "Techno Ministry flouts regulations in purchasing office space at One Galle Face",
-    "file_name": "/tmp/news_lk2/articles/e6/e630bdcc.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84304/leading-gunman-of-harak-katas-criminal-gang-under-arrest",
-    "time_ut": 1660531920,
-    "original_lang": "en",
-    "original_title": "Leading gunman of Harak Kata\u2019s criminal gang under arrest",
-    "file_name": "/tmp/news_lk2/articles/a6/a6e75abd.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0daf-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3-\u0db1\u0dd1/101-618088",
-    "time_ut": 1660530566,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0daf \u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/6c/6cb7fb1a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dd4\u0dc4\u0dd4\u0dab\u0dd4-\u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dd2-\u0db4\u0dd3\u0dbd\u0dd2-\u0db4\u0db1\u0dd3/101-618087",
-    "time_ut": 1660530199,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dd4\u0dc4\u0dd4\u0dab\u0dd4 \u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dd2 \u0db4\u0dd3\u0dbd\u0dd2 \u0db4\u0db1\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/3d/3d122fee.json"
   }
 ]
