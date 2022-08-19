@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/16-\u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0baa\u0bbf\u0ba3\u0bc8/175-302626",
+    "time_ut": 1660907005,
+    "original_lang": "ta",
+    "original_title": "16 \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0ba3\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/dd/ddc03820.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84402/cid-records-nearly-5-hour-statement-from-maithripala",
+    "time_ut": 1660906680,
+    "original_lang": "en",
+    "original_title": "CID records nearly 5-hour statement from Maithripala",
+    "file_name": "/tmp/news_lk2/articles/ad/ad9f83e8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0d9c\u0ddd\u0da8\u0dcf\u0da7-\u0dc0\u0dd0\u0dbb\u0daf\u0dd4\u0dab\u0dda-\u0d8b\u0daf\u0dca\u0db0\u0da0\u0dca\u0da0\u0d9a\u0db8-\u0db1\u0dd2\u0dc3\u0dcf\u2018\u2018/101-618413",
+    "time_ut": 1660906632,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0d9c\u0ddd\u0da8\u0dcf\u0da7 \u0dc0\u0dd0\u0dbb\u0daf\u0dd4\u0dab\u0dda \u0d8b\u0daf\u0dca\u0db0\u0da0\u0dca\u0da0\u0d9a\u0db8 \u0db1\u0dd2\u0dc3\u0dcf\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/b1/b12f858d.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bc8-\u0b95\u0bbe\u0ba3\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/72-302624",
+    "time_ut": 1660906353,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bc8 \u0b95\u0bbe\u0ba3\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/8e/8ef413ae.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/sri-lanka-student-activist-wasantha-mudalige-held-under-detention-orders/",
+    "time_ut": 1660906200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka: Student Activist Wasantha Mudalige held under Detention Orders",
+    "file_name": "/tmp/news_lk2/articles/ea/ea52be1c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd3-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1-\u0d9a\u0dbd\u0db6\u0dbd-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf/101-618412",
+    "time_ut": 1660906050,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd3 \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1 \u0d9a\u0dbd\u0db6\u0dbd \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/58/58eb811f.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/19/22a-is-token-reform-to-appease-some-says-cpa/",
     "time_ut": 1660905540,
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "\u2018Slow Food\u2019, the growing concept taking over \u2018Fast Food\u2019 rage",
     "file_name": "/tmp/news_lk2/articles/c3/c3374220.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/join-hands-with-your-spiritual-power-to-save-lanka/",
-    "time_ut": 1660496280,
-    "original_lang": "en",
-    "original_title": "Join hands with your spiritual power to save Lanka!",
-    "file_name": "/tmp/news_lk2/articles/9c/9c6204ba.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84302/woman-found-murdered-inside-her-home-in-kandy",
-    "time_ut": 1660495620,
-    "original_lang": "en",
-    "original_title": "Woman found murdered inside her home in Kandy",
-    "file_name": "/tmp/news_lk2/articles/8c/8c7cc2b5.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d87\u0dc0\u0dd9\u0db1\u0dca\u0da9\u0dca\u200d\u0dbb\u0dcf-\u0dc4\u0ddd\u0da7\u0dbd\u0dba\u0dd9\u0db1\u0dca-\u0db8\u0dd0\u0dba\u0dd2-9-\u0dc0\u0dd0\u0db1\u0dd2-\u0daf\u0dcf-\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2-4-\u0d9a\u0dca-\u0d8b\u0dad\u0dca\u0dc3\u0dbd\u0dcf/1-618081",
-    "time_ut": 1660493981,
-    "original_lang": "si",
-    "original_title": "\u0d87\u0dc0\u0dd9\u0db1\u0dca\u0da9\u0dca\u200d\u0dbb\u0dcf \u0dc4\u0ddd\u0da7\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd0\u0dba\u0dd2 9 \u0dc0\u0dd0\u0db1\u0dd2 \u0daf\u0dcf \u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2 4 \u0d9a\u0dca \u0d8b\u0dad\u0dca\u0dc3\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/8e/8e923b94.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/digital-marketing-association-of-sri-lanka-hosts-its-1st-agm/",
-    "time_ut": 1660493760,
-    "original_lang": "en",
-    "original_title": "Digital Marketing Association of Sri Lanka hosts its 1st AGM",
-    "file_name": "/tmp/news_lk2/articles/1b/1b324f88.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/boi-showcases-singing-skills-of-employees-at-katunayake-epz/",
-    "time_ut": 1660493700,
-    "original_lang": "en",
-    "original_title": "BOI showcases singing skills of employees at Katunayake EPZ",
-    "file_name": "/tmp/news_lk2/articles/33/33548010.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/nce-to-conduct-30th-annual-export-awards/",
-    "time_ut": 1660493580,
-    "original_lang": "en",
-    "original_title": "NCE to conduct 30th Annual Export Awards",
-    "file_name": "/tmp/news_lk2/articles/3d/3db94532.json"
   }
 ]
