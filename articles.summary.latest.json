@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84412/govt-officials-foreign-employment-and-referral-program-expedited",
+    "time_ut": 1660928820,
+    "original_lang": "en",
+    "original_title": "Govt officials\u2019 foreign employment and referral program expedited",
+    "file_name": "/tmp/news_lk2/articles/83/83f28e0a.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dc3\u0db1\u0dca\u0dad-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dcf\u0dc3-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dbb\u0db3\u0dc0\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d85\u0dc0\u0dc3\u0dbb/101-618427",
     "time_ut": 1660926855,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0dd3.\u0d91\u0dbd\u0dca \u0d89\u0dc0\u0dad\u0dca\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca\u0da7 \u0db6\u0dbd\u0db4\u0dd1\u0db8\u0dca",
     "file_name": "/tmp/news_lk2/articles/56/56ecdd0b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/sports/Ranatunga-accuses-SLC-of-double-standards/244-243068",
-    "time_ut": 1660539328,
-    "original_lang": "en",
-    "original_title": "Ranatunga accuses SLC of double standards",
-    "file_name": "/tmp/news_lk2/articles/4f/4ff31d1b.json"
   }
 ]
