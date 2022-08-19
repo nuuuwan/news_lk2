@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/egg-prices-reduced-from-monday-22/",
+    "time_ut": 1660914540,
+    "original_lang": "en",
+    "original_title": "Egg prices reduced from Monday (22)",
+    "file_name": "/tmp/news_lk2/articles/4c/4c85a285.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3\u0dc4\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4-\u0dc0\u0dd9\u0dad\u0dd2/101-618421",
+    "time_ut": 1660914387,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3\u0dc4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4 \u0dc0\u0dd9\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/36/3625ddb1.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd0\u0dba-3\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0dad\u0dc0\u0dad\u0dca-\u0daf\u0dd2\u0db1-\u0daf\u0dd9\u0d9a\u0d9a\u0dca/101-618420",
+    "time_ut": 1660913643,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd0\u0dba 3\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dad\u0dc0\u0dad\u0dca \u0daf\u0dd2\u0db1 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/dc/dce9a486.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84407/president-visits-jackson-anthony-at-hospital",
     "time_ut": 1660913160,

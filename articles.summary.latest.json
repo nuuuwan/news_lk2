@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/egg-prices-reduced-from-monday-22/",
+    "time_ut": 1660914540,
+    "original_lang": "en",
+    "original_title": "Egg prices reduced from Monday (22)",
+    "file_name": "/tmp/news_lk2/articles/4c/4c85a285.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3\u0dc4\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4-\u0dc0\u0dd9\u0dad\u0dd2/101-618421",
+    "time_ut": 1660914387,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3\u0dc4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4 \u0dc0\u0dd9\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/36/3625ddb1.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd0\u0dba-3\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0dad\u0dc0\u0dad\u0dca-\u0daf\u0dd2\u0db1-\u0daf\u0dd9\u0d9a\u0d9a\u0dca/101-618420",
+    "time_ut": 1660913643,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd0\u0dba 3\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dad\u0dc0\u0dad\u0dca \u0daf\u0dd2\u0db1 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/dc/dce9a486.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84407/president-visits-jackson-anthony-at-hospital",
     "time_ut": 1660913160,
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc4\u0dbb\u0d9a\u0dca \u0d9a\u0da7\u0dcf\u0d9c\u0dda \u0dc0\u0dd9\u0da9\u0dd2\u0d9a\u0dca\u0d9a\u0dbb\u0dd4 \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/8a/8a01760c.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0ddc\u0db1\u0dd3--\u0db1\u0dcf\u0db8\u0dbd\u0dca--\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf\u0dcf\u0db1\u0db1\u0dca\u0daf--\u0dbb\u0ddd\u0dc4\u0dd2\u0dad--\u0db4\u0dc0\u0dd2\u0dad\u0dca\u200d\u0dbb\u0dcf-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0da7-\u0d87\u0db8\u0dad\u0dd2\u0db0\u0dd4\u0dbb-\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-396289",
-    "time_ut": 1660528272,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0ddc\u0db1\u0dd3, \u0db1\u0dcf\u0db8\u0dbd\u0dca, \u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf\u0dcf\u0db1\u0db1\u0dca\u0daf, \u0dbb\u0ddd\u0dc4\u0dd2\u0dad, \u0db4\u0dc0\u0dd2\u0dad\u0dca\u200d\u0dbb\u0dcf \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0da7 \u0d87\u0db8\u0dad\u0dd2\u0db0\u0dd4\u0dbb \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/5f/5ffadcf1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/President-a-prisoner-of-the-SLPP-Jayasekara/108-243035",
-    "time_ut": 1660527192,
-    "original_lang": "en",
-    "original_title": "President a prisoner of the SLPP: Jayasekara",
-    "file_name": "/tmp/news_lk2/articles/8b/8b524044.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Indias-generous-assistance-to-Sri-Lanka-heartening-says-Commonwealth-Secretary-General/342-243034",
-    "time_ut": 1660515747,
-    "original_lang": "en",
-    "original_title": "India\u2019s generous assistance to Sri Lanka heartening, says Commonwealth Secretary General",
-    "file_name": "/tmp/news_lk2/articles/39/39689d11.json"
   }
 ]
