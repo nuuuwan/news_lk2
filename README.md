@@ -1,30 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 01:20:53 (LK time)*
+*As of 2022-08-20 01:41:34 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** daily-ft-lk ([Dullas accuses Govt. of political revenge against MPs who supported him](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0bdc1a8.json))
+
+## Last Hour (4 Articles)
 
 * **4** daily-ft-lk ([UN ‘appalled’ by Saudi 34-year sentence over tweets](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6edf018.json))
 
-## Last Hour (5 Articles)
-
-* **4** daily-ft-lk ([UN ‘appalled’ by Saudi 34-year sentence over tweets](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6edf018.json))
-
-* **1** ada-derana-lk ([US ambassador holds talks with opposition leader](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29d64012.json))
-
-## Last 3 Hours (21 Articles)
+## Last 3 Hours (19 Articles)
 
 * **14** daily-ft-lk ([Dialog promotes best data plans for entire family](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f47911b1.json))
 
-* **3** ada-derana-lk ([Govt officials’ foreign employment and referral program expedited](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f28e0a.json))
+* **2** ada-derana-lk ([Interpol confirms arrest of ‘Harak Kata’ by Dubai Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f382d22.json))
 
-* **3** daily-mirror-lk ([Disciplinary action against missing Beach VB players](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b173ad72.json))
+* **2** daily-mirror-lk ([Police says three protesters including IUSF convenor detained 72 hours so far](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb3b0861.json))
 
 * **1** tamil-mirror-lk ([’மக்கள் உணரக்கூடிய நல்லிணக்கமே அவசியம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aecffbcf.json))
 
-## Last 24 Hours (189 Articles)
+## Last 24 Hours (185 Articles)
 
 * **35** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
@@ -38,7 +36,7 @@
 
 * **20** daily-mirror-lk ([People who were in the Aragalaya without any political agenda were not harmed - Manusha Nanayakkara](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/101f5b8c.json))
 
-* **18** daily-ft-lk ([Futureworld opens new flagship and exclusive Apple store in Colombo 3](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e8ec85d.json))
+* **14** daily-ft-lk ([Dialog promotes best data plans for entire family](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f47911b1.json))
 
 * **10** economy-next-com ([Sri Lanka energy minister seeks police probe into fuel distribution complaints](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f44f9e9.json))
 
