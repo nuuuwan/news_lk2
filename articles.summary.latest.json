@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/army-chief-pays-his-first-formal-courtesy-call-on-new-president/",
+    "time_ut": 1660920000,
+    "original_lang": "en",
+    "original_title": "Army Chief Pays His First Formal Courtesy Call on New President",
+    "file_name": "/tmp/news_lk2/articles/58/58e9d944.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/19/covid-19-six-deaths-164-cases-reported/",
     "time_ut": 1660919280,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u2019\u0bb9\u0bb0\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bbe\u2019\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0ba4\u0bbe\u0bb0\u0bbf \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/46/4699e072.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/STF-arrest-Harak-Katas-sniper-Kadira/108-243061",
-    "time_ut": 1660533936,
-    "original_lang": "en",
-    "original_title": "STF arrest \u2019Harak Kata\u2019s sniper \u2019Kadira\u2019",
-    "file_name": "/tmp/news_lk2/articles/20/208a3873.json"
   }
 ]

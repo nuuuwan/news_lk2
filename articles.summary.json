@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/army-chief-pays-his-first-formal-courtesy-call-on-new-president/",
+    "time_ut": 1660920000,
+    "original_lang": "en",
+    "original_title": "Army Chief Pays His First Formal Courtesy Call on New President",
+    "file_name": "/tmp/news_lk2/articles/58/58e9d944.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/19/covid-19-six-deaths-164-cases-reported/",
     "time_ut": 1660919280,
     "original_lang": "en",
