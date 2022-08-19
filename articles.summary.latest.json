@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/UNP-still-our-ancestral-home-Mayantha/342-243361",
+    "time_ut": 1660898577,
+    "original_lang": "en",
+    "original_title": "UNP still our ancestral home: Mayantha",
+    "file_name": "/tmp/news_lk2/articles/90/90c1d43b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0baf\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b85\u0b9f\u0b95\u0bcd\u0b95\u0bae\u0bcd-\u0b9a\u0bc6\u0baf\u0bcd\u0baf-\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf/76-302620",
+    "time_ut": 1660898466,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0baf\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/a1/a1fce263.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84399/unidentified-body-found-in-canal-at-polgasowita",
+    "time_ut": 1660898100,
+    "original_lang": "en",
+    "original_title": "Unidentified body found in canal at Polgasowita",
+    "file_name": "/tmp/news_lk2/articles/cb/cb5d41fa.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0d96\u0dc2\u0db0-\u0dc4\u0dd2\u0d9f\u0dba\u0da7\u0dad\u0dca-\u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dd2\u0db1\u0dca-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0db1\u0dc0\u0dcf\u2019\u2019/101-618401",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2019\u2019\u0d96\u0dc2\u0db0-\u0dc4\u0dd2\u0d9f\u0dba\u0da7\u0dad\u0dca-\u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dd2\u0db1\u0dca-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0db1\u0dc0\u0dcf\u2019\u2019/1-618401",
     "time_ut": 1660897693,
     "original_lang": "si",
     "original_title": "\u2019\u2019\u0d96\u0dc2\u0db0 \u0dc4\u0dd2\u0d9f\u0dba\u0da7\u0dad\u0dca \u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0db1\u0dc0\u0dcf\u2019\u2019",
-    "file_name": "/tmp/news_lk2/articles/aa/aad6d97c.json"
+    "file_name": "/tmp/news_lk2/articles/00/00da0eda.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -22,6 +46,14 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0dca\u200d\u0dbb\u0dda\u0d9a\u0dca \u0db1\u0dd0\u0dad\u0dd2 \u0db4\u0dcf \u0db4\u0dd0\u0daf\u0dd2\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dbd\u0dca\u0dbd\u0db8\u0dda \u0d9c\u0dd2\u0dba \u0daf\u0dbb\u0dd4\u0dc0\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
     "file_name": "/tmp/news_lk2/articles/d1/d12225cb.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0ba4\u0bb2\u0bbf\u0baf\u0bc8-\u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95-\u0b85\u0baa\u0bbe\u0baf\u0bbe-\u0b85\u0ba3\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-302619",
+    "time_ut": 1660896180,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbe\u0ba4\u0bb2\u0bbf\u0baf\u0bc8 \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95 \u0b85\u0baa\u0bbe\u0baf\u0bbe \u0b85\u0ba3\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/4b/4bc9e4e1.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -57,11 +89,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Finnish-PM-Sanna-Marin-facing-backlash-over-leaked-party-footage/108-243357",
+    "url": "https://www.dailymirror.lk/latest_news/Finnish-PM-Sanna-Marin-facing-backlash-over-leaked-party-footage/342-243357",
     "time_ut": 1660895374,
     "original_lang": "en",
     "original_title": "Finnish PM Sanna Marin facing backlash over leaked party footage",
-    "file_name": "/tmp/news_lk2/articles/16/16b331b1.json"
+    "file_name": "/tmp/news_lk2/articles/32/321de9b4.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "HNB sails skillfully through turbulent 1H",
     "file_name": "/tmp/news_lk2/articles/9e/9e0f457e.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/aitken-spence-records-its-historically-highest-ever-q1-pbt-of-rs-7-2-billion/",
-    "time_ut": 1660478340,
-    "original_lang": "en",
-    "original_title": "Aitken Spence records its historically highest ever Q1 PBT of Rs. 7.2 billion",
-    "file_name": "/tmp/news_lk2/articles/89/89e6a610.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/cbsl-establishes-stakeholder-engagement-committee/",
-    "time_ut": 1660478280,
-    "original_lang": "en",
-    "original_title": "CBSL establishes Stakeholder Engagement Committee",
-    "file_name": "/tmp/news_lk2/articles/ff/ffe7cf5d.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/spc-embraces-biggest-technological-shift-in-school-book-printing-arena/",
-    "time_ut": 1660478100,
-    "original_lang": "en",
-    "original_title": "SPC embraces biggest technological shift in school book printing arena",
-    "file_name": "/tmp/news_lk2/articles/06/0689f075.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dad\u0db1\u0dd2\u0dc0-\u0da2\u0dd3\u0dc0\u0dad\u0dca\u0dc0\u0dd6-\u0d9a\u0ddd\u0da7\u0dd2\u0db4\u0dad\u0dd2-\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/11-396288",
-    "time_ut": 1660477499,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0db1\u0dd2\u0dc0 \u0da2\u0dd3\u0dc0\u0dad\u0dca\u0dc0\u0dd6 \u0d9a\u0ddd\u0da7\u0dd2\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/58/5849b6aa.json"
   }
 ]
