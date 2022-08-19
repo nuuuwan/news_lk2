@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84413/interpol-confirms-arrest-of-harak-kata-by-dubai-police",
+    "time_ut": 1660934220,
+    "original_lang": "en",
+    "original_title": "Interpol confirms arrest of \u2018Harak Kata\u2019 by Dubai Police",
+    "file_name": "/tmp/news_lk2/articles/0f/0f382d22.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Haircuts-and-economic-revival-strategies/4-738906",
+    "time_ut": 1660933694,
+    "original_lang": "en",
+    "original_title": "Haircuts and economic revival strategies",
+    "file_name": "/tmp/news_lk2/articles/f5/f56cb2b1.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Egg-to-be-sold-at-Rs-43-Gazette-issued/108-243393",
     "time_ut": 1660933682,
@@ -8,12 +24,84 @@
     "file_name": "/tmp/news_lk2/articles/73/7387a7e5.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Making-a-difference-Intergenerational-solidarity-and-youth-engagement-in-climate-action/4-738905",
+    "time_ut": 1660933529,
+    "original_lang": "en",
+    "original_title": "Making a difference: Intergenerational solidarity and youth engagement in climate action",
+    "file_name": "/tmp/news_lk2/articles/88/88f14ad3.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/One-mother-s-fight-for-a-safe-delivery-What-it-s-like-to-give-birth-in-Sri-Lanka-right-now/14-738904",
+    "time_ut": 1660933401,
+    "original_lang": "en",
+    "original_title": "One mother\u2019s fight for a safe delivery: What it\u2019s like to give birth in Sri Lanka right now",
+    "file_name": "/tmp/news_lk2/articles/0d/0dd20ffb.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Looking-at-the-problem-from-the-point-of-view-of-the-State/4-738903",
+    "time_ut": 1660933211,
+    "original_lang": "en",
+    "original_title": "Looking at the problem from the point of view of the State",
+    "file_name": "/tmp/news_lk2/articles/f1/f1508448.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Energy-Minister-applauds-development-partners-of-National-Fuel-Pass/34-738894",
+    "time_ut": 1660931894,
+    "original_lang": "en",
+    "original_title": "Energy Minister applauds development partners of National Fuel Pass",
+    "file_name": "/tmp/news_lk2/articles/07/07e7353d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/CEO-Ofir-Eyal-leads-Viber-to-super-app-category-with-launch-of-Payments-service/34-738893",
+    "time_ut": 1660931846,
+    "original_lang": "en",
+    "original_title": "CEO Ofir Eyal leads Viber to super app category with launch of \u2018Payments\u2019 service",
+    "file_name": "/tmp/news_lk2/articles/48/4838086f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Unilever-ranked-No-1-Most-Respected-FMCG-Company-in-Sri-Lanka-once-again/34-738892",
+    "time_ut": 1660931752,
+    "original_lang": "en",
+    "original_title": "Unilever ranked No. 1 Most Respected FMCG Company in Sri Lanka once again",
+    "file_name": "/tmp/news_lk2/articles/14/1473321a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Viewsonic-launches-ViewBoard-52-series-interactive-display-with-integrated-multimedia-sound-bar/34-738891",
+    "time_ut": 1660931627,
+    "original_lang": "en",
+    "original_title": "Viewsonic launches ViewBoard 52 series interactive display with integrated multimedia sound bar",
+    "file_name": "/tmp/news_lk2/articles/d7/d74d584a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Nestl\u00e9-Lanka-recognised-Sri-Lanka-s-Most-Respected-Food-and-Beverage-Entity-in-2022/34-738890",
+    "time_ut": 1660931608,
+    "original_lang": "en",
+    "original_title": "Nestl\u00e9 Lanka recognised Sri Lanka\u2019s Most Respected Food and Beverage Entity in 2022",
+    "file_name": "/tmp/news_lk2/articles/6a/6a17e470.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Police-says-three-protesters-including-IUSF-convenor-detained-72-hours-so-far/108-243392",
     "time_ut": 1660931608,
     "original_lang": "en",
     "original_title": "Police says three protesters including IUSF convenor detained 72 hours so far",
     "file_name": "/tmp/news_lk2/articles/cb/cb3b0861.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Dialog-promotes-best-data-plans-for-entire-family/34-738889",
+    "time_ut": 1660931586,
+    "original_lang": "en",
+    "original_title": "Dialog promotes best data plans for entire family",
+    "file_name": "/tmp/news_lk2/articles/f4/f47911b1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",

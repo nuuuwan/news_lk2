@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84413/interpol-confirms-arrest-of-harak-kata-by-dubai-police",
+    "time_ut": 1660934220,
+    "original_lang": "en",
+    "original_title": "Interpol confirms arrest of \u2018Harak Kata\u2019 by Dubai Police",
+    "file_name": "/tmp/news_lk2/articles/0f/0f382d22.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Haircuts-and-economic-revival-strategies/4-738906",
+    "time_ut": 1660933694,
+    "original_lang": "en",
+    "original_title": "Haircuts and economic revival strategies",
+    "file_name": "/tmp/news_lk2/articles/f5/f56cb2b1.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Egg-to-be-sold-at-Rs-43-Gazette-issued/108-243393",
     "time_ut": 1660933682,
@@ -8,12 +24,84 @@
     "file_name": "/tmp/news_lk2/articles/73/7387a7e5.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Making-a-difference-Intergenerational-solidarity-and-youth-engagement-in-climate-action/4-738905",
+    "time_ut": 1660933529,
+    "original_lang": "en",
+    "original_title": "Making a difference: Intergenerational solidarity and youth engagement in climate action",
+    "file_name": "/tmp/news_lk2/articles/88/88f14ad3.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/One-mother-s-fight-for-a-safe-delivery-What-it-s-like-to-give-birth-in-Sri-Lanka-right-now/14-738904",
+    "time_ut": 1660933401,
+    "original_lang": "en",
+    "original_title": "One mother\u2019s fight for a safe delivery: What it\u2019s like to give birth in Sri Lanka right now",
+    "file_name": "/tmp/news_lk2/articles/0d/0dd20ffb.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Looking-at-the-problem-from-the-point-of-view-of-the-State/4-738903",
+    "time_ut": 1660933211,
+    "original_lang": "en",
+    "original_title": "Looking at the problem from the point of view of the State",
+    "file_name": "/tmp/news_lk2/articles/f1/f1508448.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Energy-Minister-applauds-development-partners-of-National-Fuel-Pass/34-738894",
+    "time_ut": 1660931894,
+    "original_lang": "en",
+    "original_title": "Energy Minister applauds development partners of National Fuel Pass",
+    "file_name": "/tmp/news_lk2/articles/07/07e7353d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/CEO-Ofir-Eyal-leads-Viber-to-super-app-category-with-launch-of-Payments-service/34-738893",
+    "time_ut": 1660931846,
+    "original_lang": "en",
+    "original_title": "CEO Ofir Eyal leads Viber to super app category with launch of \u2018Payments\u2019 service",
+    "file_name": "/tmp/news_lk2/articles/48/4838086f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Unilever-ranked-No-1-Most-Respected-FMCG-Company-in-Sri-Lanka-once-again/34-738892",
+    "time_ut": 1660931752,
+    "original_lang": "en",
+    "original_title": "Unilever ranked No. 1 Most Respected FMCG Company in Sri Lanka once again",
+    "file_name": "/tmp/news_lk2/articles/14/1473321a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Viewsonic-launches-ViewBoard-52-series-interactive-display-with-integrated-multimedia-sound-bar/34-738891",
+    "time_ut": 1660931627,
+    "original_lang": "en",
+    "original_title": "Viewsonic launches ViewBoard 52 series interactive display with integrated multimedia sound bar",
+    "file_name": "/tmp/news_lk2/articles/d7/d74d584a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Nestl\u00e9-Lanka-recognised-Sri-Lanka-s-Most-Respected-Food-and-Beverage-Entity-in-2022/34-738890",
+    "time_ut": 1660931608,
+    "original_lang": "en",
+    "original_title": "Nestl\u00e9 Lanka recognised Sri Lanka\u2019s Most Respected Food and Beverage Entity in 2022",
+    "file_name": "/tmp/news_lk2/articles/6a/6a17e470.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Police-says-three-protesters-including-IUSF-convenor-detained-72-hours-so-far/108-243392",
     "time_ut": 1660931608,
     "original_lang": "en",
     "original_title": "Police says three protesters including IUSF convenor detained 72 hours so far",
     "file_name": "/tmp/news_lk2/articles/cb/cb3b0861.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Dialog-promotes-best-data-plans-for-entire-family/34-738889",
+    "time_ut": 1660931586,
+    "original_lang": "en",
+    "original_title": "Dialog promotes best data plans for entire family",
+    "file_name": "/tmp/news_lk2/articles/f4/f47911b1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7910,93 +7998,5 @@
     "original_lang": "en",
     "original_title": "Authorities concerned over rising egg & chicken prices",
     "file_name": "/tmp/news_lk2/articles/16/1683b66c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0d86\u0dc4\u0dcf\u0dbb-\u0d85\u0dc4\u0dda\u0db1\u0dd2\u0dba\u0d9a-\u0d85\u0db1\u0dad\u0dd4\u0dbb/2-618098",
-    "time_ut": 1660541539,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dc4\u0dcf\u0dbb \u0d85\u0dc4\u0dda\u0db1\u0dd2\u0dba\u0d9a \u0d85\u0db1\u0dad\u0dd4\u0dbb",
-    "file_name": "/tmp/news_lk2/articles/59/597124f2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Fuel-price-revision-likely-today/342-243073",
-    "time_ut": 1660541433,
-    "original_lang": "en",
-    "original_title": "Fuel price revision likely today",
-    "file_name": "/tmp/news_lk2/articles/cd/cdeb0e91.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/15/schools-open-from-monday-to-friday/",
-    "time_ut": 1660541280,
-    "original_lang": "en",
-    "original_title": "Schools open from Monday to Friday",
-    "file_name": "/tmp/news_lk2/articles/1f/1fec0ecd.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0dc3\u0dd3\u0db1\u0dd2-\u0dc0\u0d82\u0da0\u0dcf\u0dc0\u0dda-\u0db8\u0dc4\u0db8\u0ddc\u0dc5-\u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dd4/117-618096",
-    "time_ut": 1660540939,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0dd3\u0db1\u0dd2 \u0dc0\u0d82\u0da0\u0dcf\u0dc0\u0dda \u0db8\u0dc4\u0db8\u0ddc\u0dc5 \u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/66/66788718.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84308/breakdown-reported-at-norochcholai-power-plant",
-    "time_ut": 1660540920,
-    "original_lang": "en",
-    "original_title": "Breakdown reported at Norochcholai Power Plant",
-    "file_name": "/tmp/news_lk2/articles/c8/c8936dc8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Norochcholai-Unit-1-breaks-down-Minister/108-243072",
-    "time_ut": 1660540778,
-    "original_lang": "en",
-    "original_title": "Norochcholai Unit 1 breaks down: Minister",
-    "file_name": "/tmp/news_lk2/articles/b1/b13a3a19.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/India-a-force-to-be-reckoned-with/108-243071",
-    "time_ut": 1660540702,
-    "original_lang": "en",
-    "original_title": "India, a force to be reckoned with",
-    "file_name": "/tmp/news_lk2/articles/ec/ec12e2c1.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bbe\u0bb0\u0bb5\u0bc7\u0bb2\u0bbf\u0ba9\u0bcd-\u0b89\u0bb1\u0bb5\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bc8\u0ba4\u0bcd-\u0ba4\u0bc7\u0b9f\u0bc1\u0bae\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd/76-302352",
-    "time_ut": 1660540535,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bbe\u0bb0\u0bb5\u0bc7\u0bb2\u0bbf\u0ba9\u0bcd \u0b89\u0bb1\u0bb5\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bc8\u0ba4\u0bcd   \u0ba4\u0bc7\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/9c/9c7cab81.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84307/two-nabbed-over-murder-of-funeral-parlour-owner",
-    "time_ut": 1660540080,
-    "original_lang": "en",
-    "original_title": "Two nabbed over murder of funeral parlour owner",
-    "file_name": "/tmp/news_lk2/articles/1f/1fd263a3.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84307/two-nabbed-over-murder-of-tangalle-funeral-parlour-owner",
-    "time_ut": 1660540080,
-    "original_lang": "en",
-    "original_title": "Two nabbed over murder of Tangalle funeral parlour owner",
-    "file_name": "/tmp/news_lk2/articles/a4/a471dcd7.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1\u0dba-\u0db8\u0dd4\u0dbd\u0dca\u0d9a\u0dbb-\u0da0\u0dd3\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0da7-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0dca/3-396303",
-    "time_ut": 1660540039,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1\u0dba \u0db8\u0dd4\u0dbd\u0dca\u0d9a\u0dbb \u0da0\u0dd3\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0da7 \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/22/22dd8b15.json"
   }
 ]
