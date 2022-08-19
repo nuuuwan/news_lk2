@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bbf\u0bb1\u0ba4\u0bc1/175-302621",
+    "time_ut": 1660904822,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a2/a2b1f921.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84401/price-of-an-egg-to-be-slashed-by-rs-5",
+    "time_ut": 1660903680,
+    "original_lang": "en",
+    "original_title": "Price of an egg to be slashed by Rs. 5",
+    "file_name": "/tmp/news_lk2/articles/28/284f1ab1.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/19/navy-rescues-distressed-fishermen/",
     "time_ut": 1660902660,
@@ -49,11 +65,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf-\u0d86\u0db4\u0dc4\u0dd4-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0da7-\u0d91\u0db1-\u0d91\u0d9a\u0d9a\u0dca-\u0db1\u0dd1/1-618406",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0ddd\u0da8\u0dcf-\u0d86\u0db4\u0dc4\u0dd4-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0da7-\u0d91\u0db1-\u0d91\u0d9a\u0d9a\u0dca-\u0db1\u0dd1/101-618406",
     "time_ut": 1660900918,
     "original_lang": "si",
     "original_title": "\u0d9c\u0ddd\u0da8\u0dcf \u0d86\u0db4\u0dc4\u0dd4 \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0da7 \u0d91\u0db1 \u0d91\u0d9a\u0d9a\u0dca \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/8b/8b27f037.json"
+    "file_name": "/tmp/news_lk2/articles/e6/e63f9f18.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -62,6 +78,14 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0db8\u0dca\u0d9a\u0dbb\u0dd4 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0d82\u0dc1 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dd2\u0da7 \u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/0d/0d105f50.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Gotabaya-should-be-tried-for-allegations-of-misusing-funds-SJB/108-243364",
+    "time_ut": 1660900768,
+    "original_lang": "en",
+    "original_title": "Gotabaya should be tried for allegations of misusing funds: SJB",
+    "file_name": "/tmp/news_lk2/articles/99/996801d4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -518,6 +542,22 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bbe\u0bb2\u0bcd\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0b9f\u0bb2\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/7e/7e8357eb.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/immediate-governmental-actions-needed/",
+    "time_ut": 1660884954,
+    "original_lang": "en",
+    "original_title": "Immediate Governmental Actions Needed",
+    "file_name": "/tmp/news_lk2/articles/92/923d2dc0.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/a-generational-shift-to-face-the-crisis-in-sri-lanka/",
+    "time_ut": 1660884744,
+    "original_lang": "en",
+    "original_title": "A Generational Shift To Face The Crisis In Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/49/49772f46.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
