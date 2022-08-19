@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/e-pay-system-for-bus-travel/",
+    "time_ut": 1660890540,
+    "original_lang": "en",
+    "original_title": "E-Pay system for Bus Travel",
+    "file_name": "/tmp/news_lk2/articles/6d/6d9d15b1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84395/video-of-finland-pm-sanna-marin-partying-causes-backlash",
+    "time_ut": 1660890360,
+    "original_lang": "en",
+    "original_title": "Video of Finland PM Sanna Marin partying causes backlash",
+    "file_name": "/tmp/news_lk2/articles/37/3715788b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84394/10-hour-water-cut-in-parts-of-colombo",
+    "time_ut": 1660890180,
+    "original_lang": "en",
+    "original_title": "10-hour water cut in parts of Colombo",
+    "file_name": "/tmp/news_lk2/articles/7f/7fe38839.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/liquor-stores-using-unjust-sales-methods/",
+    "time_ut": 1660890180,
+    "original_lang": "en",
+    "original_title": "Liquor stores using unjust sales methods",
+    "file_name": "/tmp/news_lk2/articles/0a/0a050f3e.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/australia-to-provide-25-mn-usd-in-additional-emergency-aid-to-sri-lanka-98780/",
+    "time_ut": 1660888980,
+    "original_lang": "en",
+    "original_title": "Australia to provide 25 mn USD in additional emergency aid to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/b5/b572eb63.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda-\u0db4\u0dcf\u0d9c\u0db8\u0db1\u0da7-\u0d9a\u0dc5-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba-\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u200d\u0dc2-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dda-\u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0dda-\u0d86\u0dbb\u0db8\u0dca\u0db7\u0dba\u0dba\u0dd2/11-396430",
     "time_ut": 1660888170,

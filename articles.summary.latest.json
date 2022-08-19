@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/e-pay-system-for-bus-travel/",
+    "time_ut": 1660890540,
+    "original_lang": "en",
+    "original_title": "E-Pay system for Bus Travel",
+    "file_name": "/tmp/news_lk2/articles/6d/6d9d15b1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84395/video-of-finland-pm-sanna-marin-partying-causes-backlash",
+    "time_ut": 1660890360,
+    "original_lang": "en",
+    "original_title": "Video of Finland PM Sanna Marin partying causes backlash",
+    "file_name": "/tmp/news_lk2/articles/37/3715788b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84394/10-hour-water-cut-in-parts-of-colombo",
+    "time_ut": 1660890180,
+    "original_lang": "en",
+    "original_title": "10-hour water cut in parts of Colombo",
+    "file_name": "/tmp/news_lk2/articles/7f/7fe38839.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/liquor-stores-using-unjust-sales-methods/",
+    "time_ut": 1660890180,
+    "original_lang": "en",
+    "original_title": "Liquor stores using unjust sales methods",
+    "file_name": "/tmp/news_lk2/articles/0a/0a050f3e.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/australia-to-provide-25-mn-usd-in-additional-emergency-aid-to-sri-lanka-98780/",
+    "time_ut": 1660888980,
+    "original_lang": "en",
+    "original_title": "Australia to provide 25 mn USD in additional emergency aid to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/b5/b572eb63.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda-\u0db4\u0dcf\u0d9c\u0db8\u0db1\u0da7-\u0d9a\u0dc5-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba-\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u200d\u0dc2-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dda-\u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0dda-\u0d86\u0dbb\u0db8\u0dca\u0db7\u0dba\u0dba\u0dd2/11-396430",
     "time_ut": 1660888170,
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Youth arrested with foreign-made firearm in Hikkaduwa",
     "file_name": "/tmp/news_lk2/articles/c0/c05fcb07.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd9\u0da7-\u0dc4\u0dcf-\u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2-80\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca/11-396280",
-    "time_ut": 1660464559,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0dd9\u0da7 \u0dc4\u0dcf \u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 80\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/9c/9cf4b2df.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-lifts-ban-on-six-tamil-diaspora-groups-316-individuals-report-98542/",
-    "time_ut": 1660464420,
-    "original_lang": "en",
-    "original_title": "Sri Lanka lifts ban on six Tamil diaspora groups, 316 individuals: report",
-    "file_name": "/tmp/news_lk2/articles/8f/8faf4af7.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-and-undp-in-talks-to-help-those-made-vulnerable-by-soft-peg-98543/",
-    "time_ut": 1660464360,
-    "original_lang": "en",
-    "original_title": "Sri Lanka and UNDP in talks to help those made vulnerable by soft-peg",
-    "file_name": "/tmp/news_lk2/articles/46/46cf65e6.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dbb\u0dd4\u0dc0\u0dcf\u0d9c\u0dda-\u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0dba-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dda-\u0dc4\u0dd9\u0dbd\u0dd6-\u0db4\u0dd2\u0dba\u0dcf-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-618066",
-    "time_ut": 1660464218,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dbb\u0dd4\u0dc0\u0dcf\u0d9c\u0dda \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0dba \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dda \u0dc4\u0dd9\u0dbd\u0dd6 \u0db4\u0dd2\u0dba\u0dcf \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/60/6014013e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Reports-on-War-Game-between-Sri-Lanka-Navy-and-Pakistan-Navy-are-fallacious-Navy-responds/108-243004",
-    "time_ut": 1660464160,
-    "original_lang": "en",
-    "original_title": "Reports on \u2018War Game\u2019 between Sri Lanka Navy and Pakistan Navy are fallacious; Navy responds",
-    "file_name": "/tmp/news_lk2/articles/1d/1d39592b.json"
   }
 ]
