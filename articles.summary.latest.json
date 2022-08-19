@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/navy-rescues-distressed-fishermen/",
+    "time_ut": 1660902660,
+    "original_lang": "en",
+    "original_title": "Navy rescues distressed fishermen",
+    "file_name": "/tmp/news_lk2/articles/82/82501592.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84400/land-value-in-colombo-district-accelerates-in-first-half-of-2022",
+    "time_ut": 1660902660,
+    "original_lang": "en",
+    "original_title": "Land value in Colombo District accelerates in first half of 2022",
+    "file_name": "/tmp/news_lk2/articles/c4/c48e2991.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d95\u0db1\u0dd1\u0db8-\u0dc3\u0dc4\u0dba\u0d9a\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca/1-618409",
     "time_ut": 1660902357,
@@ -14,6 +30,14 @@
     "original_lang": "en",
     "original_title": "UNDCO wants further engagement with SL",
     "file_name": "/tmp/news_lk2/articles/7b/7b8c24bf.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dd2\u0db8\u0dd9\u0db1\u0dca\u0dad\u0dd2-\u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dd9\u0db1\u0dca-\u0d9a\u0ddd\u0da7\u0dd2-\u0dad\u0dd4\u0db1\u0d9a-\u0d87\u0dab-\u0db8\u0dd4\u0dbb\u0dd4\u0da0\u0dca\u0da0\u0dd2-\u0dc3\u0ddc\u0dbb\u0dcf-\u0d9c\u0db1\u0dd3/1-618407",
+    "time_ut": 1660901405,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dd2\u0db8\u0dd9\u0db1\u0dca\u0dad\u0dd2 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dd9\u0db1\u0dca \u0d9a\u0ddd\u0da7\u0dd2 \u0dad\u0dd4\u0db1\u0d9a \u0d87\u0dab \u0db8\u0dd4\u0dbb\u0dd4\u0da0\u0dca\u0da0\u0dd2 \u0dc3\u0ddc\u0dbb\u0dcf \u0d9c\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/35/353ddd4d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca 96 \u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/95/9581b597.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84301/another-diesel-shipment-to-reach-the-island",
-    "time_ut": 1660489800,
-    "original_lang": "en",
-    "original_title": "Another diesel shipment to reach the island",
-    "file_name": "/tmp/news_lk2/articles/7a/7ac4b242.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/14/isipathana-crowned-winners-of-schools-rugby-league-2022/",
-    "time_ut": 1660489560,
-    "original_lang": "en",
-    "original_title": "Isipathana crowned winners of Schools Rugby League 2022",
-    "file_name": "/tmp/news_lk2/articles/56/568beb7f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Principles-abandoned-Israel-plays-with-fire-EDITORIAL/231-243008",
-    "time_ut": 1660489466,
-    "original_lang": "en",
-    "original_title": "Principles abandoned; Israel plays with fire - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/9e/9ef576c7.json"
   }
 ]
