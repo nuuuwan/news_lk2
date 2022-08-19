@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Premium-experience-for-high-income-airline-passengers-at-BIA/108-243355",
+    "time_ut": 1660886868,
+    "original_lang": "en",
+    "original_title": "Premium experience for high-income airline passengers at BIA",
+    "file_name": "/tmp/news_lk2/articles/c6/c615e5d0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dd9\u0dbd\u0dca-\u0d9c\u0dd1\u0dc3\u0dca-\u0db6\u0dd9\u0dc4\u0dd9\u0dad\u0dca-\u0d9c\u0db1\u0dca\u0db1-\u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba-\u0d85\u0db4-\u0dc3\u0dad\u0dd4\u0dba\u0dd2/101-618379",
+    "time_ut": 1660886676,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dd9\u0dbd\u0dca,\u0d9c\u0dd1\u0dc3\u0dca,\u0db6\u0dd9\u0dc4\u0dd9\u0dad\u0dca \u0d9c\u0db1\u0dca\u0db1 \u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba \u0d85\u0db4 \u0dc3\u0dad\u0dd4\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/04/043aa251.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/features/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dc3\u0dad\u0dca\u0dc0-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba---\u0daf\u0dac\u0dd6-\u0d85\u0db4\u0dd2\u0da7---\u0d85\u0db4\u0dd2-\u0daf\u0dac\u0dd6\u0da7/2-618378",
     "time_ut": 1660885895,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Cardinal calls for a fresh probe on Easter attack",
     "file_name": "/tmp/news_lk2/articles/37/37ad8cb4.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/ICTA-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd/175-302292",
-    "time_ut": 1660461547,
-    "original_lang": "ta",
-    "original_title": "ICTA \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd.",
-    "file_name": "/tmp/news_lk2/articles/54/545af311.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da9\u0dba\u0dc3\u0dca\u0db4\u0ddd\u0dbb\u0dcf-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1-6\u0d9a-\u0dad\u0dc4\u0db1\u0db8-\u0d89\u0dc0\u0dad\u0da7/11-396278",
-    "time_ut": 1660461425,
-    "original_lang": "si",
-    "original_title": "\u0da9\u0dba\u0dc3\u0dca\u0db4\u0ddd\u0dbb\u0dcf \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1 6\u0d9a \u0dad\u0dc4\u0db1\u0db8 \u0d89\u0dc0\u0dad\u0da7",
-    "file_name": "/tmp/news_lk2/articles/43/43912e51.json"
   }
 ]
