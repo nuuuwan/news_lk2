@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/10-hr-water-cut-for-colombo-5-6/",
+    "time_ut": 1660891380,
+    "original_lang": "en",
+    "original_title": "10-hr water cut for Colombo 5 & 6",
+    "file_name": "/tmp/news_lk2/articles/82/82006707.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/166-covid-cases-reported-on-thursday-19/",
+    "time_ut": 1660891080,
+    "original_lang": "en",
+    "original_title": "166 COVID cases reported on Thursday (19)",
+    "file_name": "/tmp/news_lk2/articles/66/66f2ea80.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/non-parliament-parties-to-meet-ec-on-23rd/",
+    "time_ut": 1660890840,
+    "original_lang": "en",
+    "original_title": "Non-Parliament parties to meet EC on 23rd",
+    "file_name": "/tmp/news_lk2/articles/e2/e20b3a85.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dbb\u0dca\u0dc0-\u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a-\u0dbb\u0da2\u0dba\u0dda-\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0db0\u0dd4\u0dbb-\u0d9c\u0dd0\u0db1-\u0d85\u0dbd\u0dc0\u0dad\u0dd4\u0dc0\u0dbd\u0d9c\u0dd9\u0db1\u0dca-\u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0\u0d9a\u0dca/101-618384",
+    "time_ut": 1660890788,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dbb\u0dca\u0dc0 \u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a \u0dbb\u0da2\u0dba\u0dda \u0d87\u0db8\u0dd0\u0dad\u0dd2 \u0db0\u0dd4\u0dbb \u0d9c\u0dd0\u0db1 \u0d85\u0dbd\u0dc0\u0dad\u0dd4\u0dc0\u0dbd\u0d9c\u0dd9\u0db1\u0dca \u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/68/68aeb7c7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/19/e-pay-system-for-bus-travel/",
     "time_ut": 1660890540,
     "original_lang": "en",
@@ -134,6 +166,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2",
     "file_name": "/tmp/news_lk2/articles/ff/ff4a5b62.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d94\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dad\u0dc0\u0dad\u0dca-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-25\u0d9a\u0dca/11-396428",
+    "time_ut": 1660882738,
+    "original_lang": "si",
+    "original_title": "\u0d94\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 25\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/1e/1ea74b0f.json"
   },
   {
     "newspaper_id": "news-first-lk",
