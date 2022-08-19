@@ -1,36 +1,36 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 22:09:35 (LK time)*
+*As of 2022-08-19 22:34:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **3** news-first-lk ([Fuel distribution suspended for 12 filling stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/6037b873.json))
+* **1** lankadeepa-lk ([වසන්ත ඇතුළු දෙදෙනෙක් මාස තුනක් රඳවන් ප්‍රශ්න කිරීමට අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a953afc.json))
 
 ## Last Hour (5 Articles)
 
 * **4** news-first-lk ([Sri Lanka: Student Activists detained for 72 hours; Police want to use Terrorism Act for 3-month detention](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e095716.json))
 
-* **1** ada-derana-lk ([90-day detention order issued on two including IUSF convenor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a29d727a.json))
+* **1** lankadeepa-lk ([වසන්ත ඇතුළු දෙදෙනෙක් මාස තුනක් රඳවන් ප්‍රශ්න කිරීමට අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a953afc.json))
 
-## Last 3 Hours (23 Articles)
+## Last 3 Hours (17 Articles)
 
 * **8** news-first-lk ([COVID-19: Six deaths, 164 cases reported](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9cebc3b.json))
 
-* **5** ada-lk ([බූස්ටර් එන්නත් උපදේශනය WHO යාවත්කාලීන කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18a254be.json))
+* **3** ada-derana-lk ([Three-hour power cuts on Aug 20 & 21](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f80fa4c8.json))
 
-* **4** ada-derana-lk ([COVID: Six more deaths and 164 new cases reported](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5daec615.json))
+* **2** lankadeepa-lk ([පිරවුම්හල් 12කට ඉන්ධන දීම අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cf10b66.json))
 
-* **3** daily-mirror-lk ([Three-hour power cut during weekend](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd4aa13c.json))
+* **2** daily-mirror-lk ([Fuel distribution to 12 filling stations suspended: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/840b2d85.json))
 
-* **2** lankadeepa-lk ([කෝටි 3 ක කේරළ ගංජා යාපනෙන් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7eb0a02.json))
+* **1** ada-lk ([සති අන්තයේත් පැය තුනක විදුලි කප්පාදුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfc8f342.json))
 
 * **1** tamil-mirror-lk ([சிஐடிக்கு வருமாறு ஹிருணிகாவுக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd34d3f1.json))
 
-## Last 24 Hours (175 Articles)
+## Last 24 Hours (176 Articles)
 
-* **32** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
+* **33** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
 * **31** news-first-lk ([Thunder showers expected tonight (19)](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc58cf1f.json))
 
@@ -48,9 +48,9 @@
 
 * **5** colombo-telegraph-com ([Saying No To Authoritarian Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2af95aab.json))
 
-## Last Week (1,266 Articles)
+## Last Week (1,267 Articles)
 
-* **221** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
+* **222** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
 * **182** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
@@ -72,9 +72,9 @@
 
 * **14** colombo-telegraph-com ([Did Bankruptcy Of Sinhala Language Help Push The Country Off The Cliff](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2b2471e.json))
 
-## All Time (1,668 Articles)
+## All Time (1,669 Articles)
 
-* **288** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **289** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **230** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 

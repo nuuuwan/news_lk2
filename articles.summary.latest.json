@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dc3\u0db1\u0dca\u0dad-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dcf\u0dc3-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dbb\u0db3\u0dc0\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d85\u0dc0\u0dc3\u0dbb/101-618427",
+    "time_ut": 1660926855,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dc3\u0db1\u0dca\u0dad \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dbb\u0db3\u0dc0\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dbb",
+    "file_name": "/tmp/news_lk2/articles/3a/3a953afc.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/19/ten-congressmen-urge-additional-relief-to-sri-lanka/",
     "time_ut": 1660925940,
@@ -65,11 +73,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca-12\u0d9a\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0daf\u0dd3\u0db8-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2/1-618426",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca-12\u0d9a\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0daf\u0dd3\u0db8-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2/101-618426",
     "time_ut": 1660921761,
     "original_lang": "si",
     "original_title": "\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca 12\u0d9a\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0daf\u0dd3\u0db8 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/4f/4ff2834e.json"
+    "file_name": "/tmp/news_lk2/articles/1c/1cf10b66.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ranatunga accuses SLC of double standards",
     "file_name": "/tmp/news_lk2/articles/4f/4ff31d1b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/15/india-marks-independence-modi-sets-goals-for-2047/",
-    "time_ut": 1660539060,
-    "original_lang": "en",
-    "original_title": "India marks Independence: Modi sets Goals for 2047",
-    "file_name": "/tmp/news_lk2/articles/68/689985b4.json"
   }
 ]
