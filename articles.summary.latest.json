@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Saying-No-to-Authoritarian-Governance/172-243400",
+    "time_ut": 1660942120,
+    "original_lang": "en",
+    "original_title": "Saying No to Authoritarian Governance",
+    "file_name": "/tmp/news_lk2/articles/e4/e47d605f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Diaspora-investments-not-to-come-soon/172-243399",
     "time_ut": 1660941891,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Breakdown in Sri Lanka\u2019s Norochcholai power plant sees three-hour power cuts",
     "file_name": "/tmp/news_lk2/articles/fb/fb9b5196.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-bond-yields-steady-rupee-guidance-peg-appreciates-by-7-cents-98606/",
-    "time_ut": 1660543320,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s bond yields steady; rupee guidance peg appreciates by 7 cents",
-    "file_name": "/tmp/news_lk2/articles/66/66cb130f.json"
   }
 ]
