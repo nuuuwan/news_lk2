@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/covid-19-six-deaths-164-cases-reported/",
+    "time_ut": 1660919280,
+    "original_lang": "en",
+    "original_title": "COVID-19: Six deaths, 164 cases reported",
+    "file_name": "/tmp/news_lk2/articles/f9/f9cebc3b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Fuel-distribution-to-12-filling-stations-suspended-Minister/342-243370",
+    "time_ut": 1660919009,
+    "original_lang": "en",
+    "original_title": "Fuel distribution to 12 filling stations suspended: Minister",
+    "file_name": "/tmp/news_lk2/articles/26/26278190.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84409/three-hour-power-cuts-on-aug-20-21",
     "time_ut": 1660917960,
