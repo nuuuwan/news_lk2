@@ -1,30 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 23:28:44 (LK time)*
+*As of 2022-08-19 23:40:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
+## Last 30 Minutes (1 Articles)
+
+* **1** daily-mirror-lk ([Police says three protesters including IUSF convenor detained 72 hours so far](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb3b0861.json))
+
 ## Last Hour (1 Articles)
 
-* **1** ada-derana-lk ([Govt officials’ foreign employment and referral program expedited](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f28e0a.json))
+* **1** daily-mirror-lk ([Police says three protesters including IUSF convenor detained 72 hours so far](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb3b0861.json))
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (10 Articles)
 
-* **5** news-first-lk ([Dullas alleges ‘hate politics’ within Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a899547d.json))
+* **4** news-first-lk ([Sri Lanka: Student Activists detained for 72 hours; Police want to use Terrorism Act for 3-month detention](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e095716.json))
 
-* **3** ada-derana-lk ([Navy seizes Kerala cannabis worth over Rs. 27 million in Jaffna](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba43805.json))
+* **2** daily-mirror-lk ([Egg prices to come down by Rs.5 from Monday: Poultry Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/936ec36f.json))
 
-* **2** lankadeepa-lk ([පිරවුම්හල් 12කට ඉන්ධන දීම අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cf10b66.json))
+* **2** ada-derana-lk ([90-day detention order issued on two including IUSF convenor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a29d727a.json))
 
-* **1** daily-mirror-lk ([Egg prices to come down by Rs.5 from Monday: Poultry Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/936ec36f.json))
+* **1** lankadeepa-lk ([වසන්ත ඇතුළු දෙදෙනෙක් මාස තුනක් රඳවන් ප්‍රශ්න කිරීමට අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a953afc.json))
 
 * **1** ada-lk ([සති අන්තයේත් පැය තුනක විදුලි කප්පාදුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfc8f342.json))
 
-* **1** tamil-mirror-lk ([சிஐடிக்கு வருமாறு ஹிருணிகாவுக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd34d3f1.json))
+## Last 24 Hours (177 Articles)
 
-## Last 24 Hours (175 Articles)
-
-* **33** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
+* **34** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
 * **31** news-first-lk ([Thunder showers expected tonight (19)](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc58cf1f.json))
 
@@ -34,7 +36,7 @@
 
 * **23** tamil-mirror-lk ([மாணவர் போராட்டத்தில் கைதானவர்களின் எண்ணிக்கை உயர்வு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d45e407.json))
 
-* **20** daily-mirror-lk ([Significant deceleration in money printing expected: CB](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ad4d1d0.json))
+* **21** daily-mirror-lk ([Significant deceleration in money printing expected: CB](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ad4d1d0.json))
 
 * **10** economy-next-com ([Sri Lanka energy minister seeks police probe into fuel distribution complaints](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f44f9e9.json))
 
@@ -42,15 +44,15 @@
 
 * **5** colombo-telegraph-com ([Saying No To Authoritarian Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2af95aab.json))
 
-## Last Week (1,267 Articles)
+## Last Week (1,269 Articles)
 
-* **222** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
+* **223** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
 * **182** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
 * **172** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
 
-* **168** daily-mirror-lk ([Global apparel industry steps up to support Sri Lanka’s apparel sector](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b3fe2a6.json))
+* **169** daily-mirror-lk ([Global apparel industry steps up to support Sri Lanka’s apparel sector](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b3fe2a6.json))
 
 * **142** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
@@ -66,13 +68,13 @@
 
 * **14** colombo-telegraph-com ([Did Bankruptcy Of Sinhala Language Help Push The Country Off The Cliff](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2b2471e.json))
 
-## All Time (1,670 Articles)
+## All Time (1,672 Articles)
 
-* **289** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **290** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **230** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **223** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
+* **224** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
 * **182** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
