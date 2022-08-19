@@ -1,0 +1,1182 @@
+{
+  "newspaper_id": "island-lk",
+  "url": "http://island.lk/fuel-price-reductions-seen-as-a-key-to-share-market-growth/",
+  "time_ut": 1660926600,
+  "original_lang": "en",
+  "original_title": "Fuel price reductions seen as a key to share market growth",
+  "text_idx": {
+    "en": {
+      "title": "Fuel price reductions seen as a key to share market growth",
+      "author": "Thilina Walpola",
+      "body_lines": [
+        "The local stock market has the potential to grow further and business activities too could improve if fuel prices are reduced to a greater degree. Global crude oil prices are on a downward trend. They are now less than US $ 100 per barrel and they are continuing to go down in price. The CPC is currently grappling with heavy cumulative losses and consequently the government will not reduce fuel prices in a big way, market analysts said.",
+        "Amid those developments yesterday, both CSE indices moved upwards. The All -Share Price Index gained 65.18 points (0.73 per cent) to end at 8,975.75 and S and P SL20 gained 1,62 points (0.05 per cent ) to end the day at 2963.95. Turnover stood at Rs 3.1 billion with two crossings. Those crossings were reported in Lankem Development, which crossed two million shares to the tune of Rs 50.4 million, its shares traded at Rs 25.20 and JKH 310,000 shares crossed to the tune of Rs 39.7 million, its shares fetched Rs 128.",
+        "In the retail market top seven companies that mainly contributed to the turnover were, Lanka IOC Rs 483 million (2.6 million shares traded), Expolanka Holdings Rs 483 million (2.2 million shares traded), Lankem Development Rs 245 million (10.4 million shares traded), Browns Investment Rs 131 million (14.7 million shares traded), Renuka Agri Business Rs 122 million (14.7 million shares traded), Hayleys Fabrics Rs 118 million (2.9 million shares traded) and LOLC Holdings Rs 76 million (129,000 shares traded). During the day 14.5 million share volumes changed hands in 35000 share transactions.",
+        "It is said high net worth and institutional investor participation was noted in JKH, HNB and Sampath Bank. Mixed interest was observed in Lanka IOC, Expolanka Holdings and LOLC Holdings, while retail interest was noted in Browns Investments, Lankem Developments and Renuka Agri Foods.",
+        "The Food, Beverage and Tobacco sector was the top contributor to the market turnover (due to Lankem Developments and Browns Investments) while the sector index gained 1.17 per cent. The share price of Lankem Developments moved up by Rs. 4.20 (23.73 per cent) to close at Rs. 21.90. The share price of Browns Investments appreciated by 10 cents to close at Rs. 8.20.",
+        "The Energy sector was the second highest contributor to the market turnover (due to Lanka IOC), while the sector index increased by 1.12%. The share price of Lanka IOC increased by Rs. 2 (1.08%) to close at Rs. 188.",
+        "Expolanka Holdings and JKH were also included among the top turnover contributors. The share price of Expolanka Holdings gained 75 cents to close at Rs. 211.75. The share price of John Keells Holdings recorded a loss of 25 cents to close at Rs. 127.75.",
+        "Yesterday the Central Bank\u2019s dollar buying rate was Rs 357.41 and the selling rate Rs 368.72. It is said that pressure on the exchange rate is easing with higher interest rates and a slowdown in credit with curb premiums also falling, Central Bank Governor Dr. Nandalal Weerasinghe told a monthly policy review meeting last Thursday.",
+        "Has Sri Lanka finally learned its lesson on emotional vs evidence-based agri policies?",
+        "SEC and CSE complete third phase of digitalization initiative of stock market",
+        "Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *",
+        "Save my name, email, and website in this browser for the next time I comment."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "less than US $ 100",
+            "label": "MONEY"
+          },
+          {
+            "text": "CPC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "65.18",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "0.73 per cent",
+            "label": "MONEY"
+          },
+          {
+            "text": "8,975.75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "S",
+            "label": "ORG"
+          },
+          {
+            "text": "1,62",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "0.05 per cent",
+            "label": "MONEY"
+          },
+          {
+            "text": "the day",
+            "label": "DATE"
+          },
+          {
+            "text": "2963.95",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3.1 billion",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Lankem Development",
+            "label": "ORG"
+          },
+          {
+            "text": "two million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "50.4 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "25.20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "310,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Rs 39.7 million",
+            "label": "MONEY"
+          },
+          {
+            "text": "128",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "seven",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Lanka IOC Rs 483 million",
+            "label": "PERSON"
+          },
+          {
+            "text": "2.6 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Expolanka Holdings Rs 483 million",
+            "label": "PERSON"
+          },
+          {
+            "text": "2.2 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Lankem Development Rs",
+            "label": "ORG"
+          },
+          {
+            "text": "245 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10.4 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Browns Investment Rs",
+            "label": "PERSON"
+          },
+          {
+            "text": "131 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "14.7 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Renuka Agri Business Rs 122 million",
+            "label": "ORG"
+          },
+          {
+            "text": "14.7 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2.9 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "LOLC",
+            "label": "ORG"
+          },
+          {
+            "text": "76 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "129,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "14.5 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "35000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "JKH",
+            "label": "ORG"
+          },
+          {
+            "text": "HNB",
+            "label": "ORG"
+          },
+          {
+            "text": "Lanka IOC",
+            "label": "LOC"
+          },
+          {
+            "text": "Expolanka Holdings",
+            "label": "ORG"
+          },
+          {
+            "text": "LOLC Holdings",
+            "label": "ORG"
+          },
+          {
+            "text": "Browns Investments",
+            "label": "ORG"
+          },
+          {
+            "text": "Lankem Developments",
+            "label": "ORG"
+          },
+          {
+            "text": "Renuka Agri Foods",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "The Food, Beverage and Tobacco",
+            "label": "ORG"
+          },
+          {
+            "text": "Lankem Developments",
+            "label": "ORG"
+          },
+          {
+            "text": "Browns Investments",
+            "label": "PERSON"
+          },
+          {
+            "text": "1.17 per cent",
+            "label": "MONEY"
+          },
+          {
+            "text": "Lankem Developments",
+            "label": "ORG"
+          },
+          {
+            "text": "Rs",
+            "label": "PERSON"
+          },
+          {
+            "text": "4.20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "23.73 per cent",
+            "label": "MONEY"
+          },
+          {
+            "text": "21.90",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Browns Investments",
+            "label": "ORG"
+          },
+          {
+            "text": "10 cents",
+            "label": "MONEY"
+          },
+          {
+            "text": "8.20",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Energy",
+            "label": "ORG"
+          },
+          {
+            "text": "second",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Lanka IOC",
+            "label": "LOC"
+          },
+          {
+            "text": "1.12%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Lanka IOC",
+            "label": "FAC"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1.08%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "188",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Expolanka Holdings",
+            "label": "ORG"
+          },
+          {
+            "text": "JKH",
+            "label": "ORG"
+          },
+          {
+            "text": "Expolanka Holdings",
+            "label": "ORG"
+          },
+          {
+            "text": "75 cents",
+            "label": "MONEY"
+          },
+          {
+            "text": "211.75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "John Keells Holdings",
+            "label": "ORG"
+          },
+          {
+            "text": "25 cents",
+            "label": "MONEY"
+          },
+          {
+            "text": "127.75",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "the Central Bank\u2019s",
+            "label": "ORG"
+          },
+          {
+            "text": "368.72",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Central Bank",
+            "label": "ORG"
+          },
+          {
+            "text": "Nandalal Weerasinghe",
+            "label": "PERSON"
+          },
+          {
+            "text": "monthly",
+            "label": "DATE"
+          },
+          {
+            "text": "last Thursday",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "SEC",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "third",
+            "label": "ORDINAL"
+          }
+        ],
+        [],
+        []
+      ]
+    },
+    "si": {
+      "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0d85\u0da9\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5 \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dba\u0dad\u0dd4\u0dbb\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0dc3\u0dd0\u0dbd\u0d9a\u0dda",
+      "author": "\u0dad\u0dd2\u0dc5\u0dd2\u0dab \u0dc0\u0dbd\u0dca\u0db4\u0ddc\u0dbd",
+      "body_lines": [
+        "\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5 \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd3\u0db8\u0dda \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0 \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0d85\u0dad\u0dbb \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0d89\u0dc4\u0dc5 \u0db8\u0da7\u0dca\u0da7\u0db8\u0d9a\u0da7 \u0d85\u0da9\u0dd4 \u0d9a\u0dc5\u0dc4\u0ddc\u0dad\u0dca \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0daf \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd2\u0dba\u0dd4\u0dab\u0dd4 \u0dc0\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2\u0dba. \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dab\u0dad\u0dcf\u0dc0\u0dba\u0d9a \u0db4\u0dc0\u0dad\u0dd3. \u0d92\u0dc0\u0dcf \u0daf\u0dd0\u0db1\u0dca \u0db6\u0dd0\u0dbb\u0dbd\u0dba\u0d9a\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca 100 \u0da7 \u0dc0\u0da9\u0dcf \u0d85\u0da9\u0dd4 \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d92\u0dc0\u0dcf \u0daf\u0dd2\u0d9c\u0dd2\u0db1\u0dca \u0daf\u0dd2\u0d9c\u0da7\u0db8 \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dda. \u0d9b\u0db1\u0dd2\u0da2 \u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0db8\u0dda \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0daf\u0dd0\u0da9\u0dd2 \u0dc3\u0db8\u0dd4\u0da0\u0dca\u0da0\u0dd2\u0dad \u0d85\u0dbd\u0dcf\u0db7\u0dba\u0d9a\u0dca \u0d85\u0dad\u0dca\u0dc0\u0dd2\u0db3\u0dd2\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0d85\u0dad\u0dbb \u0d92 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dbb\u0da2\u0dba \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d85\u0da9\u0dd4 \u0db1\u0ddc\u0d9a\u0dbb\u0db1 \u0db6\u0dc0 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0dc0\u0dd2\u0dc1\u0dca\u0dbd\u0dda\u0dc2\u0d9a\u0dba\u0ddd \u0db4\u0dc0\u0dc3\u0dad\u0dd2.",
+        "\u0d8a\u0dba\u0dda \u0d91\u0db8 \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0db1\u0dca \u0db8\u0db0\u0dca\u200d\u0dba\u0dba\u0dda \u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5 \u0daf\u0dbb\u0dca\u0dc1\u0d9a \u0daf\u0dd9\u0d9a\u0db8 \u0d89\u0dc4\u0dc5\u0da7 \u0d9c\u0dd2\u0dba\u0dda\u0dba. \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba \u0d92\u0d9a\u0d9a 65.18 \u0d9a\u0dd2\u0db1\u0dca (\u0dc3\u0dd2\u0dba\u0dba\u0da7 0.73 \u0d9a\u0dd2\u0db1\u0dca) \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca 8,975.75 \u0d9a\u0dca \u0dbd\u0dd9\u0dc3\u0dd2\u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb S \u0dc3\u0dc4 P SL20 \u0d92\u0d9a\u0d9a 1,62 \u0d9a\u0dd2\u0db1\u0dca (\u0dc3\u0dd2\u0dba\u0dba\u0da7 0.05 \u0d9a\u0dd2\u0db1\u0dca) \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca 2963.95 \u0d9a\u0dca \u0dc0\u0dd2\u0dba. \u0dc4\u0dbb\u0dc3\u0dca \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0db4\u0dd2\u0dbb\u0dd2\u0dc0\u0dd0\u0da7\u0dd4\u0db8 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3.1 \u0d9a\u0dca \u0dc0\u0dd2\u0dba. Lankem Development \u0dc4\u0dd2 \u0d91\u0db8 \u0dc4\u0dbb\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 50.4 \u0daf\u0d9a\u0dca\u0dc0\u0dcf\u0dad\u0dca, \u0d91\u0dc4\u0dd2 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 25.20 \u0daf\u0d9a\u0dca\u0dc0\u0dcf\u0dad\u0dca, JKH 310,000 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 39.7 \u0daf\u0d9a\u0dca\u0dc0\u0dcf\u0dad\u0dca, \u0d91\u0dc4\u0dd2 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 128 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad.",
+        "\u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dbb \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dbd\u0dda \u0db4\u0dd2\u0dbb\u0dd2\u0dc0\u0dd0\u0da7\u0dd4\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0daf\u0dcf\u0dba\u0d9a \u0dc0\u0dd6 \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca \u0dc4\u0dad \u0dc0\u0db1\u0dca\u0db1\u0dda, Lanka IOC \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 483 (\u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2.6 \u0d9a\u0dca), \u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db4\u0ddd\u0dbd\u0d82\u0d9a\u0dcf \u0dc4\u0ddd\u0dbd\u0dca\u0da9\u0dd2\u0d82\u0d9c\u0dca\u0dc3\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 483 (\u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2.2 \u0d9a\u0dca), \u0dbd\u0d82\u0d9a\u0dd9\u0db8\u0dca \u0da9\u0dd2\u0dc0\u0dbd\u0ddc\u0db4\u0dca\u0db8\u0db1\u0dca\u0da7\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 245 (\u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 10.4 \u0d9a\u0dca \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4 \u0dc0\u0dd2\u0dba) , Browns Investment \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 131 (\u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 14.7 \u0d9a\u0dca \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4), \u0dbb\u0dda\u0dab\u0dd4\u0d9a\u0dcf \u0d87\u0d9c\u0dca\u200d\u0dbb\u0dd2 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 122 (\u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 14.7 \u0d9a\u0dca \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4), Hayleys Fabrics \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 118 (\u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2.9 \u0d9a\u0dca \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4) \u0dc3\u0dc4 LOLC \u0dc4\u0ddd\u0dbd\u0dca\u0da9\u0dd2\u0d82\u0d9c\u0dca\u0dc3\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 76 (\u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 129,000 \u0d9a\u0dca \u0dc0\u0dd9\u0dc5\u0db3\u0dcf\u0db8\u0dca \u0d9a\u0dbb \u0d87\u0dad). \u0daf\u0dc0\u0dc3 \u0dad\u0dd4\u0dc5 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4 35000 \u0d9a\u0dca \u0dad\u0dd4\u0dc5 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db4\u0dbb\u0dd2\u0db8\u0dcf\u0dc0 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 14.5 \u0d9a\u0dca \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0\u0dd2\u0dba.",
+        "JKH, HNB \u0dc3\u0dc4 Sampath Bank \u0dc4\u0dd2 \u0d89\u0dc4\u0dc5 \u0dc1\u0dd4\u0daf\u0dca\u0db0 \u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0d9a\u0db8\u0d9a\u0dca \u0dc3\u0dc4 \u0d86\u0dba\u0dad\u0db1\u0dd2\u0d9a \u0d86\u0dba\u0ddd\u0da2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3\u0dad\u0dca\u0dc0\u0dba \u0dc3\u0da7\u0dc4\u0db1\u0dca \u0dc0\u0dd6 \u0db6\u0dc0 \u0db4\u0dd0\u0dc0\u0dc3\u0dda. Lanka IOC, Expolanka Holdings \u0dc3\u0dc4 LOLC Holdings \u0dc4\u0dd2 \u0db8\u0dd2\u0dc1\u0dca\u200d\u0dbb \u0d8b\u0db1\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0db1\u0da7 \u0dbd\u0dd0\u0db6\u0dd4\u0dab\u0dd4 \u0d85\u0dad\u0dbb Browns Investments, Lankem Developments \u0dc3\u0dc4 Renuka Agri Foods \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dbb \u0db4\u0ddc\u0dc5\u0dd2\u0dba \u0dc3\u0da7\u0dc4\u0db1\u0dca \u0dc0\u0dd2\u0dba.",
+        "\u0d86\u0dc4\u0dcf\u0dbb, \u0db4\u0dcf\u0db1 \u0dc3\u0dc4 \u0daf\u0dd4\u0db8\u0dca\u0d9a\u0ddc\u0dc5 \u0d85\u0d82\u0dc1\u0dba \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5 \u0db4\u0dd2\u0dbb\u0dd2\u0dc0\u0dd0\u0da7\u0dd4\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d89\u0dc4\u0dc5\u0db8 \u0daf\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd4\u0db1\u0dca \u0d85\u0dad\u0dbb (Lankem Developments \u0dc3\u0dc4 Browns Investments \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca) \u0d85\u0d82\u0dc1\u0dba\u0dda \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 1.17 \u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd2\u0dba. \u0dbd\u0d82\u0d9a\u0dd9\u0db8\u0dca \u0da9\u0dd2\u0dc0\u0dbd\u0ddc\u0db4\u0dca\u0db8\u0db1\u0dca\u0da7\u0dca \u0dc4\u0dd2 \u0d9a\u0ddc\u0da7\u0dc3\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 4.20 (\u0dc3\u0dd2\u0dba\u0dba\u0da7 23.73) \u0dbb\u0dd4. 21.90 \u0d9a\u0dd2. \u0db6\u0dca\u200d\u0dbb\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dca \u0d89\u0db1\u0dca\u0dc0\u0dd9\u0dc3\u0dca\u0da7\u0dca\u0db8\u0db1\u0dca\u0da7\u0dca \u0dc4\u0dd2 \u0d9a\u0ddc\u0da7\u0dc3\u0d9a \u0db8\u0dd2\u0dbd \u0dc1\u0dad 10 \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0dbb\u0dd4. 8.20.",
+        "(\u0dbd\u0d82\u0d9a\u0dcf IOC \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca) \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5 \u0db4\u0dd2\u0dbb\u0dd2\u0dc0\u0dd0\u0da7\u0dd4\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0d85\u0d82\u0dc1\u0dba \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0d89\u0dc4\u0dc5\u0db8 \u0daf\u0dcf\u0dba\u0d9a\u0dba\u0dcf \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0d85\u0d82\u0dc1\u0dba\u0dda \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba 1.12% \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba\u0dda\u0dba. \u0dbd\u0d82\u0d9a\u0dcf IOC \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dda \u0d9a\u0ddc\u0da7\u0dc3\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 2 (1.08%) \u0dc3\u0dd2\u0da7 \u0dbb\u0dd4. 188.",
+        "\u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db4\u0ddd\u0dbd\u0d82\u0d9a\u0dcf \u0dc4\u0ddd\u0dbd\u0dca\u0da9\u0dd2\u0d82\u0d9c\u0dca\u0dc3\u0dca \u0dc3\u0dc4 JKH \u0daf \u0d89\u0dc4\u0dc5\u0db8 \u0db4\u0dd2\u0dbb\u0dd2\u0dc0\u0dd0\u0da7\u0dd4\u0db8\u0dca \u0daf\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0d85\u0dad\u0dbb\u0da7 \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0dc0\u0dd2\u0dba. \u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db4\u0ddd\u0dbd\u0d82\u0d9a\u0dcf \u0dc4\u0ddd\u0dbd\u0dca\u0da9\u0dd2\u0d82\u0d9c\u0dca\u0dc3\u0dca \u0dc4\u0dd2 \u0d9a\u0ddc\u0da7\u0dc3\u0d9a \u0db8\u0dd2\u0dbd \u0dc1\u0dad 75 \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0dbb\u0dd4. 211.75 \u0d9a\u0dd2. \u0da2\u0ddd\u0db1\u0dca \u0d9a\u0dd3\u0dbd\u0dca\u0dc3\u0dca \u0dc4\u0ddd\u0dbd\u0dca\u0da9\u0dd2\u0d82\u0d9c\u0dca\u0dc3\u0dca \u0dc4\u0dd2 \u0d9a\u0ddc\u0da7\u0dc3\u0d9a \u0db8\u0dd2\u0dbd \u0dc1\u0dad 25 \u0d9a \u0db4\u0dcf\u0da9\u0dd4\u0dc0\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0dbb\u0dd4. 127.75 \u0d9a\u0dd2.",
+        "\u0d8a\u0dba\u0dda \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda \u0da9\u0ddc\u0dbd\u0dbb\u0dba\u0dda \u0d9c\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dd2\u0d9a\u0dba \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 357.41 \u0d9a\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd4\u0db8\u0dca \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 368.72 \u0d9a\u0dca \u0dc0\u0dd2\u0dba. \u0d89\u0dc4\u0dc5 \u0db4\u0ddc\u0dbd\u0dd3 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad \u0dc3\u0db8\u0d9f \u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dda \u0db4\u0dd3\u0da9\u0db1\u0dba \u0dbd\u0dd2\u0dc4\u0dd2\u0dbd\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0dc0\u0dcf\u0dbb\u0dd2\u0d9a \u0dc0\u0dcf\u0dbb\u0dd2\u0d9a \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0d9f \u0dab\u0dba \u0db8\u0db1\u0dca\u0daf\u0d9c\u0dcf\u0db8\u0dd3 \u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0db1\u0da7 \u0dbd\u0dd0\u0db6\u0dd9\u0db1 \u0db6\u0dc0 \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d85\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba \u0db1\u0db1\u0dca\u0daf\u0dbd\u0dcf\u0dbd\u0dca \u0dc0\u0dd3\u0dbb\u0dc3\u0dd2\u0d82\u0dc4 \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf \u0db8\u0dcf\u0dc3\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2 \u0dc3\u0db8\u0dcf\u0dbd\u0ddd\u0da0\u0db1 \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0d9a\u0daf\u0dd3 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0da0\u0dd2\u0dad\u0dca\u0dad\u0dc0\u0dda\u0d9c\u0dd3\u0dba \u0d91\u0daf\u0dd2\u0dbb\u0dd2\u0dc0 \u0dc3\u0dcf\u0d9a\u0dca\u0dc2\u0dd2 \u0db8\u0dad \u0db4\u0daf\u0db1\u0db8\u0dca \u0dc0\u0dd6 \u0d9a\u0dd8\u0dc2\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0dda \u0db4\u0dcf\u0da9\u0db8 \u0d89\u0d9c\u0dd9\u0db1 \u0d9c\u0dd9\u0db1 \u0dad\u0dd2\u0db6\u0dda\u0daf?",
+        "SEC \u0dc3\u0dc4 CSE \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dbd\u0dda \u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca\u0d9a\u0dbb\u0dab \u0db8\u0dd4\u0dbd\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0dad\u0dd4\u0db1\u0dca\u0dc0\u0db1 \u0d85\u0daf\u0dd2\u0dba\u0dbb \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0d9a\u0dbb\u0dba\u0dd2",
+        "\u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0d9a\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0d94\u0db6\u0d9c\u0dda \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0dbd\u0dd2\u0db4\u0dd2\u0db1\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0db1\u0ddc\u0d9a\u0dd9\u0dbb\u0dda. \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb \u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0dbb \u0d87\u0dad *\u0d85\u0daf\u0dc4\u0dc3\u0dca \u0db1\u0db8 *",
+        "\u0db8\u0db8 \u0d8a\u0dc5\u0d9f \u0dc0\u0dad\u0dcf\u0dc0\u0dda \u0d85\u0daf\u0dc4\u0dc3\u0dca \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0d9c\u0dda \u0db1\u0db8, \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd1\u0dbd \u0dc3\u0dc4 \u0dc0\u0dd9\u0db6\u0dca \u0d85\u0da9\u0dc0\u0dd2\u0dba \u0db8\u0dd9\u0db8 \u0db6\u0dca\u200d\u0dbb\u0dc0\u0dd4\u0dc3\u0dbb\u0dba\u0dda \u0dc3\u0dd4\u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "US $ 100 \u0da7 \u0d85\u0da9\u0dd4",
+            "label": "MONEY"
+          },
+          {
+            "text": "CPC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "65.18 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 0.73 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "8,975.75 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d91\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "1,62",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 0.05 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0daf\u0dc0\u0dc3",
+            "label": "DATE"
+          },
+          {
+            "text": "2963.95 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3.1 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dd9\u0db8\u0dca \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 50.4 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "25.20 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "310,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 39.7 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "128",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc4\u0dad",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf IOC \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 483 \u0d9a\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2.6 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db4\u0ddd\u0dbd\u0d82\u0d9a\u0dcf \u0dc4\u0ddd\u0dbd\u0dca\u0da9\u0dd2\u0d82\u0d9c\u0dca\u0dc3\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 483 \u0d9a\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2.2 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dd9\u0db8\u0dca \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dbb\u0dd4",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 245 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 10.4 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Browns \u0d86\u0dba\u0ddd\u0da2\u0db1\u0dba \u0dbb\u0dd4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 131 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 14.7 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dda\u0dab\u0dd4\u0d9a\u0dcf \u0d9a\u0dd8\u0dc2\u0dd2 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 122 \u0d9a\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 14.7 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2.9 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "LOLC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 76 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "129,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 14.5 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "35000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dda.\u0d9a\u0dda.\u0d91\u0da0\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0da0\u0dca.\u0d91\u0db1\u0dca.\u0db6\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf IOC",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db4\u0ddd\u0dbd\u0d82\u0d9a\u0dcf \u0dc4\u0ddd\u0dbd\u0dca\u0da9\u0dd2\u0d82\u0d9c\u0dca\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "LOLC \u0dc4\u0ddd\u0dbd\u0dca\u0da9\u0dd2\u0db1\u0dca\u0d9c\u0dca\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dca \u0d86\u0dba\u0ddd\u0da2\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dd9\u0db8\u0dca \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0dda\u0dab\u0dd4\u0d9a\u0dcf \u0d87\u0d9c\u0dca\u200d\u0dbb\u0dd2 \u0dc6\u0dd4\u0da9\u0dca\u0dc3\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d86\u0dc4\u0dcf\u0dbb, \u0db6\u0dd3\u0db8 \u0dc3\u0dc4 \u0daf\u0dd4\u0db8\u0dca\u0d9a\u0ddc\u0dc5",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dd9\u0db8\u0dca \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dca \u0d86\u0dba\u0ddd\u0da2\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 1.17 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dd9\u0db8\u0dca \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "4.20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 23.73 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "21.90 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dca \u0d86\u0dba\u0ddd\u0da2\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dad 10 \u0dba\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "8.20",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf IOC",
+            "label": "LOC"
+          },
+          {
+            "text": "1.12%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf IOC",
+            "label": "FAC"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1.08%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "188",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db4\u0ddd\u0dbd\u0d82\u0d9a\u0dcf \u0dc4\u0ddd\u0dbd\u0dca\u0da9\u0dd2\u0d82\u0d9c\u0dca\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dda.\u0d9a\u0dda.\u0d91\u0da0\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db4\u0ddd\u0dbd\u0d82\u0d9a\u0dcf \u0dc4\u0ddd\u0dbd\u0dca\u0da9\u0dd2\u0d82\u0d9c\u0dca\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dad 75 \u0dba\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "211.75 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da2\u0ddd\u0db1\u0dca \u0d9a\u0dd3\u0dbd\u0dca\u0dc3\u0dca \u0dc4\u0ddd\u0dbd\u0dca\u0da9\u0dd2\u0db1\u0dca\u0d9c\u0dca\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dad 25 \u0dba\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "127.75 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda",
+            "label": "ORG"
+          },
+          {
+            "text": "368.72 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0db1\u0dca\u0daf\u0dbd\u0dcf\u0dbd\u0dca \u0dc0\u0dd3\u0dbb\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dc3\u0dd2\u0d9a\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9c\u0dd2\u0dba \u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "SEC",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dad\u0dd9\u0dc0\u0db1",
+            "label": "ORDINAL"
+          }
+        ],
+        [],
+        []
+      ]
+    },
+    "ta": {
+      "title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bbf\u0bb2\u0bbf\u0ba9 \u0bb5\u0bb2\u0bcd\u0baa\u0bca\u0bb2",
+      "body_lines": [
+        "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95 \u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bc2\u0bb0\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0ba3\u0bbf\u0b95 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd. \u0b89\u0bb2\u0b95 \u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0b9a\u0bcd\u0b9a\u0bbe \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bc8 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b85\u0bb5\u0bc8 \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \u0baa\u0bc0\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1 US $ 100 \u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba9, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9. CPC \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0b92\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0ba8\u0bb7\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba4\u0bcd \u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, \u0b87\u0ba4\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbe\u0b95 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0b86\u0baf\u0bcd\u0bb5\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd, \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9a\u0bbf\u0b8e\u0bb8\u0bcd\u0b87 \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bc7 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0ba9. \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bc1 65.18 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd (0.73 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd) \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 8,975.75 \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd, S \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd P SL20 1,62 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd (0.05 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd) \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 2963.95 \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9. \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bc1\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb4\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bb0\u0bc2.3.1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8 50.4 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b85\u0ba4\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd 25.20 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, JKH 310,000 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd 39.7 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4\u0bc1, \u0b85\u0ba4\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd 128 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb2\u0b99\u0bcd\u0b95\u0bc6\u0bae\u0bcd \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba8\u0bcd\u0ba4\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9.",
+        "\u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bb1\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b90\u0b93\u0b9a\u0bbf \u0bb0\u0bc2 483 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd (2.6 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd), \u0b8e\u0b95\u0bcd\u0bb8\u0bcd\u0baa\u0bcb\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0bb0\u0bc2 483 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd (2.2 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd), \u0bb2\u0b99\u0bcd\u0b95\u0bc6\u0bae\u0bcd \u0b9f\u0bc6\u0bb5\u0bb2\u0baa\u0bcd\u0bae\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd \u0bb0\u0bc2 245 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd (10.4 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd) \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bc8 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b8f\u0bb4\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0b95\u0bc1\u0bae\u0bcd. , \u0baa\u0bbf\u0bb0\u0bb5\u0bc1\u0ba9\u0bcd\u0bb8\u0bcd \u0b87\u0ba9\u0bcd\u0bb5\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd\u0bae\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd \u0bb0\u0bc2 131 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd (14.7 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd), \u0bb0\u0bc7\u0ba3\u0bc1\u0b95\u0bbe \u0b85\u0b95\u0bcd\u0bb0\u0bbf \u0baa\u0bbf\u0b9a\u0bbf\u0ba9\u0bb8\u0bcd \u0bb0\u0bc2 122 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd (14.7 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd), \u0bb9\u0bc7\u0bb2\u0bbf\u0bb8\u0bcd \u0b83\u0baa\u0bc7\u0baa\u0bcd\u0bb0\u0bbf\u0b95\u0bcd\u0bb8\u0bcd \u0bb0\u0bc2 118 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd (2.9 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd LOLC \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0bb0\u0bc2 76 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd (129,000 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd). \u0ba8\u0bbe\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 35000 \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0baa\u0bb0\u0bbf\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 14.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0b85\u0bb3\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bbe\u0bb1\u0bbf\u0ba9.",
+        "JKH, HNB \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0ba4\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95 \u0ba8\u0bbf\u0b95\u0bb0 \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b90\u0b93\u0b9a\u0bbf, \u0b8e\u0b95\u0bcd\u0bb8\u0bcd\u0baa\u0bcb\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0bb2\u0bcd\u0b93\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b95\u0bb2\u0baa\u0bcd\u0baa\u0bc1 \u0b86\u0bb0\u0bcd\u0bb5\u0bae\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0b85\u0ba4\u0bc7 \u0b9a\u0bae\u0baf\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0bb5\u0bc1\u0ba9\u0bcd\u0bb8\u0bcd \u0b87\u0ba9\u0bcd\u0bb5\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd\u0bae\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd, \u0bb2\u0b99\u0bcd\u0b95\u0bc6\u0bae\u0bcd \u0b9f\u0bc6\u0bb5\u0bb2\u0baa\u0bcd\u0bae\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb0\u0bc7\u0ba3\u0bc1\u0b95\u0bbe \u0b85\u0b95\u0bcd\u0bb0\u0bbf \u0b83\u0baa\u0bc1\u0b9f\u0bcd\u0bb8\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bb1\u0bc8 \u0bb5\u0b9f\u0bcd\u0b9f\u0bbf \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b89\u0ba3\u0bb5\u0bc1, \u0baa\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bc8 \u0ba4\u0bc1\u0bb1\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd (\u0bb2\u0b99\u0bcd\u0b95\u0bc6\u0bae\u0bcd \u0b9f\u0bc6\u0bb5\u0bb2\u0baa\u0bcd\u0bae\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0bb5\u0bc1\u0ba9\u0bcd\u0bb8\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95) \u0bae\u0bc1\u0ba4\u0ba9\u0bcd\u0bae\u0bc8 \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1, \u0b85\u0ba4\u0bc7 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0b9a\u0bcd \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc6\u0ba3\u0bcd 1.17 \u0b9a\u0ba4\u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1. \u0bb2\u0b99\u0bcd\u0b95\u0bc6\u0bae\u0bcd \u0b9f\u0bc6\u0bb5\u0bb2\u0baa\u0bcd\u0bae\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb8\u0bbf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb0\u0bc2. 4.20 (23.73 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd) \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bb0\u0bc2. 21.90. \u0baa\u0bbf\u0bb0\u0bb5\u0bc1\u0ba9\u0bcd\u0bb8\u0bcd \u0b87\u0ba9\u0bcd\u0bb5\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd\u0bae\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8 10 \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb0\u0bc2. 8.20",
+        "\u0b86\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0ba9\u0ba4\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0b85\u0ba4\u0bbf\u0b95 \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 (\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b90\u0b93\u0b9a\u0bbf \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95), \u0ba4\u0bc1\u0bb1\u0bc8\u0b9a\u0bcd \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc6\u0ba3\u0bcd 1.12% \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b90\u0b93\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb0\u0bc2. 2 (1.08%) \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bb0\u0bc2. 188.",
+        "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd\u0baa\u0bcb\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9c\u0bc7\u0b95\u0bc7\u0bb9\u0bc6\u0b9a\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bc8 \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd. \u0b8e\u0b95\u0bcd\u0bb8\u0bcd\u0baa\u0bcb\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8 75 \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb0\u0bc2. 211.75. \u0b9c\u0bbe\u0ba9\u0bcd \u0b95\u0bc0\u0bb2\u0bcd\u0bb8\u0bcd \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8 25 \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc8 \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0bb0\u0bc2. 127.75.",
+        "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc8\u0baf \u0ba4\u0bbf\u0ba9\u0bae\u0bcd \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9f\u0bca\u0bb2\u0bb0\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba9\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8 357.41 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8 368.72 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. \u0b9a\u0bc6\u0bb2\u0bbe\u0bb5\u0ba3\u0bbf \u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd, \u0b85\u0ba4\u0bbf\u0b95 \u0bb5\u0b9f\u0bcd\u0b9f\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0ba4\u0bb3\u0bb0\u0bcd\u0bb5\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b95\u0bb0\u0bcd\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bc0\u0bae\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0bb5\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b95\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd \u0bae\u0ba8\u0bcd\u0ba4\u0ba8\u0bbf\u0bb2\u0bc8 \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b86\u0bb3\u0bc1\u0ba9\u0bb0\u0bcd \u0b95\u0bb2\u0bbe\u0ba8\u0bbf\u0ba4\u0bbf \u0ba8\u0ba8\u0bcd\u0ba4\u0bb2\u0bbe\u0bb2\u0bcd \u0bb5\u0bc0\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0bbe\u0ba8\u0bcd\u0ba4 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8 \u0bae\u0bc0\u0bb3\u0bbe\u0baf\u0bcd\u0bb5\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b89\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0ba4\u0bbe\u0bb0 \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0baa\u0bbe\u0b9f\u0bae\u0bcd \u0b95\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba4\u0bbe?",
+        "\u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0baf\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 SEC \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd CSE \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9",
+        "\u0b92\u0bb0\u0bc1 \u0baa\u0ba4\u0bbf\u0bb2\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bc8 \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1. \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0baa\u0bc1\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9 *\u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd *",
+        "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0bb1\u0bc8 \u0ba8\u0bbe\u0ba9\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95, \u0b8e\u0ba9\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd, \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0ba3\u0bc8\u0baf\u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4 \u0b89\u0bb2\u0bbe\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "US $ 100 \u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95",
+            "label": "MONEY"
+          },
+          {
+            "text": "CPC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "65.18",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "0.73 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "8,975.75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "1,62",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "0.05 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "2963.95",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3.1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb2\u0b99\u0bcd\u0b95\u0bc6\u0bae\u0bcd \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "50.4 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "25.20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "310,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb0\u0bc2 39.7 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "128",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8f\u0bb4\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b90\u0b93\u0b9a\u0bbf \u0bb0\u0bc2 483 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "2.6 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd\u0baa\u0bcb\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0bb0\u0bc2 483 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "2.2 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb2\u0b99\u0bcd\u0b95\u0bc6\u0bae\u0bcd \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0bb0\u0bc2",
+            "label": "ORG"
+          },
+          {
+            "text": "245 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10.4 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bb5\u0bc1\u0ba9\u0bcd\u0bb8\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1 \u0bb0\u0bc2",
+            "label": "PERSON"
+          },
+          {
+            "text": "131 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "14.7 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb0\u0bc7\u0ba3\u0bc1\u0b95\u0bbe \u0b85\u0b95\u0bcd\u0bb0\u0bbf \u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd \u0bb0\u0bc2 122 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "14.7 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2.9 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "LOLC",
+            "label": "ORG"
+          },
+          {
+            "text": "76 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "129,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "14.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "35000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc7.\u0b95\u0bc7.\u0b8e\u0b9a\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "HNB",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b90.\u0b93.\u0b9a\u0bbf",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd\u0baa\u0bcb\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "LOLC \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bb5\u0bc1\u0ba9\u0bcd\u0bb8\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb2\u0b99\u0bcd\u0b95\u0bc6\u0bae\u0bcd \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0bc7\u0ba3\u0bc1\u0b95\u0bbe \u0b85\u0b95\u0bcd\u0bb0\u0bbf \u0b83\u0baa\u0bc1\u0b9f\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b89\u0ba3\u0bb5\u0bc1, \u0baa\u0bbe\u0ba9\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb2\u0b99\u0bcd\u0b95\u0bc6\u0bae\u0bcd \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bb5\u0bc1\u0ba9\u0bcd\u0bb8\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "1.17 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0bb2\u0b99\u0bcd\u0b95\u0bc6\u0bae\u0bcd \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0bc2",
+            "label": "PERSON"
+          },
+          {
+            "text": "4.20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "23.73 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "21.90",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bb5\u0bc1\u0ba9\u0bcd\u0bb8\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "10 \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "8.20",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b86\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b90.\u0b93.\u0b9a\u0bbf",
+            "label": "LOC"
+          },
+          {
+            "text": "1.12%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b90.\u0b93.\u0b9a\u0bbf",
+            "label": "FAC"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1.08%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "188",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd\u0baa\u0bcb\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc7.\u0b95\u0bc7.\u0b8e\u0b9a\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd\u0baa\u0bcb\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "75 \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "211.75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9c\u0bbe\u0ba9\u0bcd \u0b95\u0bc0\u0bb2\u0bcd\u0bb8\u0bcd \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "25 \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "127.75",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "368.72",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0ba8\u0bcd\u0ba4\u0bb2\u0bbe\u0bb2\u0bcd \u0bb5\u0bc0\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0ba4\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "SEC",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          }
+        ],
+        [],
+        []
+      ]
+    }
+  }
+}
