@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Dullas-accuses-Govt-of-political-revenge-against-MPs-who-supported-him/56-738915",
+    "time_ut": 1660938171,
+    "original_lang": "en",
+    "original_title": "Dullas accuses Govt. of political revenge against MPs who supported him",
+    "file_name": "/tmp/news_lk2/articles/d0/d0bdc1a8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/State-of-Palestine-condemns-continuous-Israeli-atrocities/56-738914",
+    "time_ut": 1660938042,
+    "original_lang": "en",
+    "original_title": "State of Palestine condemns continuous Israeli atrocities",
+    "file_name": "/tmp/news_lk2/articles/98/980d08a7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SLPP-asks-President-to-facilitate-Gota-s-return-to-SL/56-738913",
+    "time_ut": 1660938032,
+    "original_lang": "en",
+    "original_title": "SLPP asks President to facilitate Gota\u2019s return to SL",
+    "file_name": "/tmp/news_lk2/articles/1b/1b07efe7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/UN-appalled-by-Saudi-34-year-sentence-over-tweets/56-738912",
+    "time_ut": 1660938023,
+    "original_lang": "en",
+    "original_title": "UN \u2018appalled\u2019 by Saudi 34-year sentence over tweets",
+    "file_name": "/tmp/news_lk2/articles/b6/b6edf018.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84414/us-ambassador-holds-talks-with-opposition-leader",
     "time_ut": 1660935180,
     "original_lang": "en",
     "original_title": "US ambassador holds talks with opposition leader",
     "file_name": "/tmp/news_lk2/articles/29/29d64012.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b89\u0ba3\u0bb0\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf-\u0ba8\u0bb2\u0bcd\u0bb2\u0bbf\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bc7-\u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd/175-302646",
+    "time_ut": 1660934881,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0ba3\u0bb0\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0ba8\u0bb2\u0bcd\u0bb2\u0bbf\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bc7 \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/ae/aecffbcf.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bb8\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/a7/a708b9ce.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/4-000-\u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd-\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bc1\u0b9f\u0ba9\u0bcd-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-302354",
-    "time_ut": 1660543149,
-    "original_lang": "ta",
-    "original_title": "4,000 \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/41/41ddc126.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bb2\u0bcd\u0bae\u0bbf\u0ba9\u0bcd-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0b85\u0bb2\u0b95\u0bc1-1-\u0baa\u0bb4\u0bc1\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1/175-302353",
-    "time_ut": 1660542593,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0ba9\u0bb2\u0bcd\u0bae\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0bb2\u0b95\u0bc1 1 \u0baa\u0bb4\u0bc1\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/81/815e2f25.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dbd\u0dd2\u0dba\u0da7-\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0dc3\u0dad\u0dd2-\u0d85\u0db1\u0dca\u0dad\u0dba\u0dda\u0daf\u0dd3/11-396306",
-    "time_ut": 1660541828,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dbd\u0dd2\u0dba\u0da7 \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0dc3\u0dad\u0dd2 \u0d85\u0db1\u0dca\u0dad\u0dba\u0dda\u0daf\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/d1/d19bef57.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0db8\u0dd3\u0dc5\u0d9f-\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0dc3\u0da7\u0db1\u0dda-\u0da7\u0dca\u200d\u0dbb\u0dc3\u0dca-\u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca\u0dbd\u0dd4/3-396305",
-    "time_ut": 1660541807,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dd3\u0dc5\u0d9f \u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0dc3\u0da7\u0db1\u0dda \u0da7\u0dca\u200d\u0dbb\u0dc3\u0dca \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca\u0dbd\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/0d/0da64a48.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda-\u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb-\u0db1\u0dd2\u0dc3\u0dcf-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0db1\u0dca-31\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/3-396304",
-    "time_ut": 1660541700,
-    "original_lang": "si",
-    "original_title": "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb \u0db1\u0dd2\u0dc3\u0dcf \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0db1\u0dca 31\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/c3/c3e2102f.json"
   }
 ]

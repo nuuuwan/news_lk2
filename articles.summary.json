@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Dullas-accuses-Govt-of-political-revenge-against-MPs-who-supported-him/56-738915",
+    "time_ut": 1660938171,
+    "original_lang": "en",
+    "original_title": "Dullas accuses Govt. of political revenge against MPs who supported him",
+    "file_name": "/tmp/news_lk2/articles/d0/d0bdc1a8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/State-of-Palestine-condemns-continuous-Israeli-atrocities/56-738914",
+    "time_ut": 1660938042,
+    "original_lang": "en",
+    "original_title": "State of Palestine condemns continuous Israeli atrocities",
+    "file_name": "/tmp/news_lk2/articles/98/980d08a7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SLPP-asks-President-to-facilitate-Gota-s-return-to-SL/56-738913",
+    "time_ut": 1660938032,
+    "original_lang": "en",
+    "original_title": "SLPP asks President to facilitate Gota\u2019s return to SL",
+    "file_name": "/tmp/news_lk2/articles/1b/1b07efe7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/UN-appalled-by-Saudi-34-year-sentence-over-tweets/56-738912",
+    "time_ut": 1660938023,
+    "original_lang": "en",
+    "original_title": "UN \u2018appalled\u2019 by Saudi 34-year sentence over tweets",
+    "file_name": "/tmp/news_lk2/articles/b6/b6edf018.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84414/us-ambassador-holds-talks-with-opposition-leader",
     "time_ut": 1660935180,
     "original_lang": "en",
     "original_title": "US ambassador holds talks with opposition leader",
     "file_name": "/tmp/news_lk2/articles/29/29d64012.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b89\u0ba3\u0bb0\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf-\u0ba8\u0bb2\u0bcd\u0bb2\u0bbf\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bc7-\u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd/175-302646",
+    "time_ut": 1660934881,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0ba3\u0bb0\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0ba8\u0bb2\u0bcd\u0bb2\u0bbf\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bc7 \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/ae/aecffbcf.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
