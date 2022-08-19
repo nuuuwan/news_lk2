@@ -1,20 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 03:21:09 (LK time)*
+*As of 2022-08-20 03:44:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (7 Articles)
 
 * **4** daily-ft-lk ([UN ‘appalled’ by Saudi 34-year sentence over tweets](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6edf018.json))
 
 * **3** daily-mirror-lk ([Best way to find yourself: Lose yourself in the service of others](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d0147ff.json))
 
-* **1** tamil-mirror-lk ([தடை நீக்கப்பட்ட அமைப்புகளே குற்றச்சாட்டை முன்வைத்தன](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae3c7811.json))
-
-* **1** ada-derana-lk ([US ambassador holds talks with opposition leader](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29d64012.json))
-
-## Last 24 Hours (189 Articles)
+## Last 24 Hours (186 Articles)
 
 * **35** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
@@ -24,9 +20,9 @@
 
 * **24** ada-derana-lk ([Showers or thundershowers expected in four provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f1715b6.json))
 
-* **23** daily-mirror-lk ([People who were in the Aragalaya without any political agenda were not harmed - Manusha Nanayakkara](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/101f5b8c.json))
-
 * **23** ada-lk ([ජනපති හා එක්සත් ජාතින්ගේ නියෝජිත පිරිස අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2aa02d5f.json))
+
+* **20** daily-mirror-lk ([SL to request Japan to initiate dialogue with creditors](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e681fa8c.json))
 
 * **14** daily-ft-lk ([Dialog promotes best data plans for entire family](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f47911b1.json))
 
@@ -34,7 +30,7 @@
 
 * **5** colombo-telegraph-com ([Saying No To Authoritarian Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2af95aab.json))
 
-## Last Week (1,271 Articles)
+## Last Week (1,270 Articles)
 
 * **224** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
@@ -56,7 +52,7 @@
 
 * **14** colombo-telegraph-com ([Did Bankruptcy Of Sinhala Language Help Push The Country Off The Cliff](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2b2471e.json))
 
-* **13** d-b-s-jeyaraj-com ([From Lone MP to PM and President: Resilient Ranil’s Three Stage  Return and Rise to the Top.](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4ecf3f96.json))
+* **12** d-b-s-jeyaraj-com ([Hundreds of Tamil mothers Conduct  rally in Kilinochchi  to mark 2,000 days of protests  to seek justice for their sons who they claim were forcibly disappeared during and after the civil war.](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204627e7.json))
 
 ## All Time (1,696 Articles)
 
