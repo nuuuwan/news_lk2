@@ -1897,6 +1897,22 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/gota-made-scapegoat/",
+    "time_ut": 1660757100,
+    "original_lang": "en",
+    "original_title": "Gota made scapegoat?",
+    "file_name": "/tmp/news_lk2/articles/35/353ae905.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/india-underscores-inclusivity-on-75th-anniversary-of-independence/",
+    "time_ut": 1660757040,
+    "original_lang": "en",
+    "original_title": "India underscores inclusivity on 75th anniversary of Independence",
+    "file_name": "/tmp/news_lk2/articles/b8/b8c77dbb.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/sme-businesses-in-puttalam-enriched-by-seylan-bank-and-ccc-workshop/",
     "time_ut": 1660756920,
     "original_lang": "en",
@@ -5502,6 +5518,14 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0dd4\u0dc4\u0dd4\u0dab\u0dd4 \u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dd2 \u0db4\u0dd3\u0dbd\u0dd2 \u0db4\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dd3, \u0d9c\u0dcf\u0dbd\u0dd4 \u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dd2\u0dba\u0dda \u0d91\u0db1\u0dca\u0db1 \u0da7\u0dd2\u0d9a\u0da7\u0dca \u0d9c\u0dad\u0dca \u0d85\u0dba \u0db8\u0dc4 \u0db8\u0d9f",
     "file_name": "/tmp/news_lk2/articles/8e/8ef8fc2d.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/heroes-and-villains/",
+    "time_ut": 1660572060,
+    "original_lang": "en",
+    "original_title": "Heroes and villains",
+    "file_name": "/tmp/news_lk2/articles/50/50445b9f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",

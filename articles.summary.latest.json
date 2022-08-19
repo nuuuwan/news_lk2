@@ -1897,6 +1897,22 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/gota-made-scapegoat/",
+    "time_ut": 1660757100,
+    "original_lang": "en",
+    "original_title": "Gota made scapegoat?",
+    "file_name": "/tmp/news_lk2/articles/35/353ae905.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/india-underscores-inclusivity-on-75th-anniversary-of-independence/",
+    "time_ut": 1660757040,
+    "original_lang": "en",
+    "original_title": "India underscores inclusivity on 75th anniversary of Independence",
+    "file_name": "/tmp/news_lk2/articles/b8/b8c77dbb.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/sme-businesses-in-puttalam-enriched-by-seylan-bank-and-ccc-workshop/",
     "time_ut": 1660756920,
     "original_lang": "en",
@@ -5504,6 +5520,14 @@
     "file_name": "/tmp/news_lk2/articles/8e/8ef8fc2d.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/heroes-and-villains/",
+    "time_ut": 1660572060,
+    "original_lang": "en",
+    "original_title": "Heroes and villains",
+    "file_name": "/tmp/news_lk2/articles/50/50445b9f.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Facelift-after-Kataragama-Perahera/342-243097",
     "time_ut": 1660571952,
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Strengthen tug-boat fleet to boost efficacy of the port: Minister",
     "file_name": "/tmp/news_lk2/articles/62/62e00cda.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd-\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd/175-302283",
-    "time_ut": 1660454194,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/78/788ad2de.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Sapugaskanda-refinery-to-resume-operation-mid-next-week/342-242997",
-    "time_ut": 1660454110,
-    "original_lang": "en",
-    "original_title": "Sapugaskanda refinery to resume operation mid next week",
-    "file_name": "/tmp/news_lk2/articles/9d/9d9f35eb.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4-3\u0da7-\u0dc0\u0db1-\u0d85\u0dbd\u0dd2-\u0db8\u0dbb\u0dab-1110\u0d9a\u0dca/11-396266",
-    "time_ut": 1660453964,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 3\u0da7 \u0dc0\u0db1 \u0d85\u0dbd\u0dd2 \u0db8\u0dbb\u0dab 1110\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/26/26d1f8dd.json"
   }
 ]
