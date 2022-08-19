@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84409/three-hour-power-cuts-on-aug-20-21",
+    "time_ut": 1660917960,
+    "original_lang": "en",
+    "original_title": "Three-hour power cuts on Aug 20 & 21",
+    "file_name": "/tmp/news_lk2/articles/f8/f80fa4c8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84408/covid-six-more-deaths-and-164-new-cases-reported",
     "time_ut": 1660917300,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "SJB nominates two MPs for COPE and COPA chairmanship",
     "file_name": "/tmp/news_lk2/articles/10/1088dc4c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84305/sjb-nominates-two-mps-as-cope-and-copa-chairpersons",
-    "time_ut": 1660533480,
-    "original_lang": "en",
-    "original_title": "SJB nominates two MPs as COPE and COPA chairpersons",
-    "file_name": "/tmp/news_lk2/articles/aa/aa006fbd.json"
   }
 ]
