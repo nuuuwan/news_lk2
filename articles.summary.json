@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84404/police-to-seek-detention-orders-on-3-arrested-during-protest",
+    "time_ut": 1660908120,
+    "original_lang": "en",
+    "original_title": "Police to seek detention orders on 3 arrested during protest",
+    "file_name": "/tmp/news_lk2/articles/f6/f6c1eb7e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a-\u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dc0\u0dbd-\u0d91\u0dc5\u0dc0\u0dc5\u0dd4-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0dc5\u0da7/1-618415",
+    "time_ut": 1660907947,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dc0\u0dbd \u0d91\u0dc5\u0dc0\u0dc5\u0dd4 \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/6c/6ccd3b84.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2-\u0dc3\u0dc4-\u0d9a\u0da9\u0dd4-\u0dc3\u0db8\u0d9c-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/1-618414",
+    "time_ut": 1660907924,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2 \u0dc3\u0dc4 \u0d9a\u0da9\u0dd4 \u0dc3\u0db8\u0d9c \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7",
+    "file_name": "/tmp/news_lk2/articles/bb/bbfabd69.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84403/three-arrested-with-stolen-electric-items-worth-rs-1-million",
+    "time_ut": 1660907520,
+    "original_lang": "en",
+    "original_title": "Three arrested with stolen electric items worth Rs. 1 million",
+    "file_name": "/tmp/news_lk2/articles/23/23def4a2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/gammadda-steps-in-help-battle-ckd-provide-clean-drinking-water-to-sellakatharagama/",
+    "time_ut": 1660907340,
+    "original_lang": "en",
+    "original_title": "Gammadda steps in help battle CKD, & provide clean drinking water to Sellakatharagama",
+    "file_name": "/tmp/news_lk2/articles/ec/ec601d87.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/16-\u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0baa\u0bbf\u0ba3\u0bc8/175-302626",
     "time_ut": 1660907005,
@@ -65,11 +105,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd2\u0dc0\u0dcf\u0dc3-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7-\u0d9a\u0ddd\u0da7\u0dd2-\u0d9c\u0dcf\u0db1\u0d9a-\u0db4\u0ddc\u0dbd\u0dca\u0dbd\u0d9a\u0dca/101-618411",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd2\u0dc0\u0dcf\u0dc3-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7-\u0d9a\u0ddd\u0da7\u0dd2-\u0d9c\u0dcf\u0db1\u0d9a-\u0db4\u0ddc\u0dbd\u0dca\u0dbd\u0d9a\u0dca/1-618411",
     "time_ut": 1660905246,
     "original_lang": "si",
     "original_title": "\u0db1\u0dd2\u0dc0\u0dcf\u0dc3 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0d9a\u0ddd\u0da7\u0dd2 \u0d9c\u0dcf\u0db1\u0d9a \u0db4\u0ddc\u0dbd\u0dca\u0dbd\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/58/5888ea21.json"
+    "file_name": "/tmp/news_lk2/articles/1f/1f6636bb.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
