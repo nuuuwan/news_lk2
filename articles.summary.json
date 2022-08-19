@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/2021-a-l-practicals-from-today-19/",
+    "time_ut": 1660881240,
+    "original_lang": "en",
+    "original_title": "2021 A/L Practicals from today (19)",
+    "file_name": "/tmp/news_lk2/articles/4e/4e4e4a88.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1-10-\u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2-\u0ba8\u0bc0\u0bb0\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1/95-302607",
+    "time_ut": 1660880920,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 10 \u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2 \u0ba8\u0bc0\u0bb0\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/29/293f8700.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/10-hour-water-cut-in-Colombo-tomorrow/342-243330",
+    "time_ut": 1660880156,
+    "original_lang": "en",
+    "original_title": "10-hour water cut in Colombo tomorrow",
+    "file_name": "/tmp/news_lk2/articles/c8/c890bcb7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84393/japan-provides-jpy-500-million-medical-grant-to-sri-lanka",
+    "time_ut": 1660879980,
+    "original_lang": "en",
+    "original_title": "Japan provides JPY 500 million medical grant to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/07/073cfadd.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bbf\u0ba9\u0bcd\u0baa\u0bbe\u0bb5\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-302606",
+    "time_ut": 1660879819,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0baa\u0bbe\u0bb5\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/e2/e21b8ef0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/19/thunder-showers-expected-tonight-19/",
     "time_ut": 1660878060,
     "original_lang": "en",
@@ -161,11 +201,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Significant-deceleration-in-money-printing-expected-CB/108-243316",
+    "url": "https://www.dailymirror.lk/latest_news/Significant-deceleration-in-money-printing-expected-CB/342-243316",
     "time_ut": 1660847515,
     "original_lang": "en",
     "original_title": "Significant deceleration in money printing expected: CB",
-    "file_name": "/tmp/news_lk2/articles/9a/9a245515.json"
+    "file_name": "/tmp/news_lk2/articles/1a/1ad4d1d0.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
