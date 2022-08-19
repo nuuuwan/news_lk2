@@ -1,74 +1,78 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 20:43:07 (LK time)*
+*As of 2022-08-19 21:08:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (4 Articles)
+
+* **1** daily-mirror-lk ([Egg prices to come down by Rs.5 from Monday: Poultry Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/936ec36f.json))
+
+* **1** ada-lk ([සති අන්තයේත් පැය තුනක විදුලි කප්පාදුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfc8f342.json))
+
+* **1** news-first-lk ([Dullas alleges ‘hate politics’ within Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a899547d.json))
+
+* **1** lankadeepa-lk ([පිරවුම්හල් 12කට ඉන්ධන දීම අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4ff2834e.json))
+
+## Last Hour (8 Articles)
+
+* **3** news-first-lk ([Army Chief Pays His First Formal Courtesy Call on New President](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58e9d944.json))
+
+* **1** daily-mirror-lk ([Egg prices to come down by Rs.5 from Monday: Poultry Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/936ec36f.json))
+
+* **1** ada-lk ([සති අන්තයේත් පැය තුනක විදුලි කප්පාදුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfc8f342.json))
+
+* **1** lankadeepa-lk ([පිරවුම්හල් 12කට ඉන්ධන දීම අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4ff2834e.json))
 
 * **1** ada-derana-lk ([Navy seizes Kerala cannabis worth over Rs. 27 million in Jaffna](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba43805.json))
 
 * **1** tamil-mirror-lk ([சிஐடிக்கு வருமாறு ஹிருணிகாவுக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd34d3f1.json))
 
-* **1** news-first-lk ([Rajapaksas still have a mandate – Sanath Nishantha](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/987a3186.json))
+## Last 3 Hours (28 Articles)
 
-## Last Hour (6 Articles)
+* **9** ada-lk ([ආරක්ෂක ප්‍රධානීන් ජනපති හමු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1c5a9ce.json))
 
-* **3** news-first-lk ([COVID-19: Six deaths, 164 cases reported](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9cebc3b.json))
+* **6** news-first-lk ([Egg prices reduced from Monday (22)](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c85a285.json))
 
-* **1** ada-derana-lk ([Navy seizes Kerala cannabis worth over Rs. 27 million in Jaffna](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba43805.json))
+* **4** lankadeepa-lk ([පැය 3ක විදුලි කප්පාදුව තවත් දින දෙකක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dce9a486.json))
+
+* **4** ada-derana-lk ([President visits Jackson Anthony at hospital](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afaa8a86.json))
+
+* **3** daily-mirror-lk ([Three-hour power cut during weekend](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd4aa13c.json))
 
 * **1** tamil-mirror-lk ([சிஐடிக்கு வருமாறு ஹிருணிகாவுக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd34d3f1.json))
 
-* **1** daily-mirror-lk ([Fuel distribution to 12 filling stations suspended: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26278190.json))
+* **1** economy-next-com ([Sri Lanka schedules 3-hour power cuts for Aug 20, 21: regulator](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c376581.json))
 
-## Last 3 Hours (33 Articles)
+## Last 24 Hours (179 Articles)
 
-* **8** ada-lk ([හිටපු ජනපතිගෙන් CIDයට පැය පහක ප්‍රකාශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70eba152.json))
+* **35** lankadeepa-lk ([ගෝඨාට එන්න දෙන්න පොහොට්ටුව ජනපතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78c91396.json))
 
-* **6** ada-derana-lk ([Fuel distribution to 12 filling stations to be suspended](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56ac9fe6.json))
+* **28** news-first-lk ([Pohottuwa wants Gotabaya back in Sri Lanka with security, and facilities](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf5dfa72.json))
 
-* **6** news-first-lk ([3-hour daily power outages during weekend](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88414441.json))
-
-* **5** economy-next-com ([Sri Lanka suspends distribution at filling stations that didn’t adopt QR system](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a81d14f.json))
-
-* **4** lankadeepa-lk ([පොලිසියෙන් බේරෙන්න වැවට පැන්න තරුණයා මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f904287.json))
-
-* **2** tamil-mirror-lk ([எரிபொருள் விநியோகத்தை இடைநிறுத்த அதிரடி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baee6e08.json))
-
-* **2** daily-mirror-lk ([Three-hour power cut during weekend](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd4aa13c.json))
-
-## Last 24 Hours (180 Articles)
-
-* **35** lankadeepa-lk ([පාඩු ලබන ආයතන පෞද්ගලීකරණය අත්‍යවශ්‍යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7bcd1f66.json))
-
-* **28** news-first-lk ([UPDATE: 11 more arrested alongside IUSF convener](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b95e2f8.json))
-
-* **25** ada-derana-lk ([12 arrested during protest by university students in Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8013cbf.json))
+* **25** ada-lk ([ජනපති රනිල් ජපානයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb044797.json))
 
 * **24** tamil-mirror-lk ([கோட்டாபயவுக்கு பாதுகாப்பு வழங்குமாறு கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17b8cacf.json))
 
-* **23** ada-lk ([ජනපති රනිල් ජපානයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb044797.json))
+* **23** ada-derana-lk ([SLPP requests President to facilitate Gotabaya’s safe return to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19258317.json))
 
-* **20** daily-mirror-lk ([Facilitate safe return of Former President: SLFP requests President](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/108d0f4d.json))
+* **21** daily-mirror-lk ([Facilitate safe return of Former President: SLFP requests President](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/108d0f4d.json))
 
-* **12** economy-next-com ([Sri Lanka rupee, yields in govt securities slightly changed](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b9ce7e6.json))
+* **11** economy-next-com ([Sri Lanka stocks end steady after CB held policy rates steady; turnover slumps to over 2-wk low](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d009c866.json))
 
 * **7** daily-ft-lk ([Sysco LABS ranked amongst LMD’s Most Respected Entities for 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/252a2d47.json))
 
 * **5** colombo-telegraph-com ([Saying No To Authoritarian Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2af95aab.json))
 
-* **1** island-lk ([Reminiscences of my short stint in teaching](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/952c9d48.json))
+## Last Week (1,262 Articles)
 
-## Last Week (1,257 Articles)
+* **221** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
-* **220** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
+* **178** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
-* **177** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
+* **172** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
 
-* **170** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
-
-* **169** daily-mirror-lk ([Kataragama Esala Perahera](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6eaf509.json))
+* **170** daily-mirror-lk ([Kataragama Esala Perahera](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6eaf509.json))
 
 * **140** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
@@ -84,15 +88,15 @@
 
 * **14** colombo-telegraph-com ([Did Bankruptcy Of Sinhala Language Help Push The Country Off The Cliff](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2b2471e.json))
 
-## All Time (1,658 Articles)
+## All Time (1,663 Articles)
 
-* **287** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **288** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **228** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **230** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **222** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
+* **223** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
-* **177** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
+* **178** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
 * **140** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 

@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Egg-prices-to-come-down-by-Rs-5-from-Monday-Poultry-Assn/108-243372",
+    "time_ut": 1660923059,
+    "original_lang": "en",
+    "original_title": "Egg prices to come down by Rs.5 from Monday: Poultry Assn.",
+    "file_name": "/tmp/news_lk2/articles/93/936ec36f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dad\u0dd2-\u0d85\u0db1\u0dca\u0dad\u0dba\u0dda\u0dad\u0dca-\u0db4\u0dd0\u0dba-\u0dad\u0dd4\u0db1\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca/11-396452",
+    "time_ut": 1660921964,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dad\u0dd2 \u0d85\u0db1\u0dca\u0dad\u0dba\u0dda\u0dad\u0dca \u0db4\u0dd0\u0dba \u0dad\u0dd4\u0db1\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/bf/bfc8f342.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/dullas-alleges-hate-politics-within-parliament/",
+    "time_ut": 1660921800,
+    "original_lang": "en",
+    "original_title": "Dullas alleges \u2018hate politics\u2019 within Parliament",
+    "file_name": "/tmp/news_lk2/articles/a8/a899547d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca-12\u0d9a\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0daf\u0dd3\u0db8-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2/1-618426",
+    "time_ut": 1660921761,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca 12\u0d9a\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0daf\u0dd3\u0db8 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4f/4ff2834e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84410/navy-seizes-kerala-cannabis-worth-over-rs-27-million-in-jaffna",
     "time_ut": 1660921380,
@@ -41,11 +73,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Fuel-distribution-to-12-filling-stations-suspended-Minister/342-243370",
+    "url": "https://www.dailymirror.lk/breaking_news/Fuel-distribution-to-12-filling-stations-suspended-Minister/108-243370",
     "time_ut": 1660919009,
     "original_lang": "en",
     "original_title": "Fuel distribution to 12 filling stations suspended: Minister",
-    "file_name": "/tmp/news_lk2/articles/26/26278190.json"
+    "file_name": "/tmp/news_lk2/articles/84/840b2d85.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -113,6 +145,14 @@
   },
   {
     "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u2019\u0daf-\u0d9c\u0dda\u0db8\u0dca\u2019-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca-\u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0da9-\u0dc3\u0dd2\u0da7-\u0d91\u0dba\u0dd2/11-396442",
+    "time_ut": 1660916226,
+    "original_lang": "si",
+    "original_title": "\u2019\u0daf \u0d9c\u0dda\u0db8\u0dca\u2019 \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca \u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0da9 \u0dc3\u0dd2\u0da7 \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/cc/cc11d560.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1-\u0dab\u0dba-\u0d8b\u0d9c\u0dd4\u0dbd-\u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0-\u0db6\u0ddc\u0dbb\u0dd4\u0dc0\u0d9a\u0dca---\u0da0\u0dd3\u0db1\u0dba-\u0dc4\u0dd9\u0dc5\u0dcf-\u0daf\u0d9a\u0dd3/3-396441",
     "time_ut": 1660916179,
     "original_lang": "si",
@@ -153,11 +193,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3\u0dc4\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4-\u0dc0\u0dd9\u0dad\u0dd2/101-618421",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3\u0dc4\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4-\u0dc0\u0dd9\u0dad\u0dd2/1-618421",
     "time_ut": 1660914387,
     "original_lang": "si",
     "original_title": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3\u0dc4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4 \u0dc0\u0dd9\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/36/3625ddb1.json"
+    "file_name": "/tmp/news_lk2/articles/64/6461650b.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -233,11 +273,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1-\u0dc0\u0dd0\u0dc0\u0da7-\u0db4\u0dd0\u0db1\u0dca\u0db1-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/101-618419",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1-\u0dc0\u0dd0\u0dc0\u0da7-\u0db4\u0dd0\u0db1\u0dca\u0db1-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/1-618419",
     "time_ut": 1660911515,
     "original_lang": "si",
     "original_title": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1 \u0dc0\u0dd0\u0dc0\u0da7 \u0db4\u0dd0\u0db1\u0dca\u0db1 \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/9f/9f904287.json"
+    "file_name": "/tmp/news_lk2/articles/f8/f8307b2b.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -265,11 +305,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da2\u0dba\u0dda-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7-\u0dbb\u0da7-\u0dba\u0db1\u0dca\u0db1-\u0dc0\u0dbb\u0db8\u0dca/101-618418",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da2\u0dba\u0dda-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7-\u0dbb\u0da7-\u0dba\u0db1\u0dca\u0db1-\u0dc0\u0dbb\u0db8\u0dca/1-618418",
     "time_ut": 1660910956,
     "original_lang": "si",
     "original_title": "\u0dbb\u0da2\u0dba\u0dda \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7 \u0dbb\u0da7 \u0dba\u0db1\u0dca\u0db1 \u0dc0\u0dbb\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/5c/5c380c72.json"
+    "file_name": "/tmp/news_lk2/articles/8f/8f3afd3d.json"
   },
   {
     "newspaper_id": "economy-next-com",
