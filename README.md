@@ -1,14 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 06:12:21 (LK time)*
+*As of 2022-08-19 06:42:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (3 Articles)
-
-* **3** daily-mirror-lk ([People who were in the Aragalaya without any political agenda were not harmed - Manusha Nanayakkara](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb515c13.json))
-
-## Last 24 Hours (209 Articles)
+## Last 24 Hours (207 Articles)
 
 * **39** lankadeepa-lk ([අන්නාසි වගාව නැත්තටම නැති වෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaa714e.json))
 
@@ -16,11 +12,11 @@
 
 * **31** ada-lk ([ගෝඨා ඇමෙරිකානු ග්‍රීන් කාඩ් ලොතරැයියට අයඳුම් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/718f11cb.json))
 
-* **29** daily-mirror-lk ([GR applies for US Green Card, looks to settle back in US](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfceac11.json))
+* **28** daily-mirror-lk ([New Cabinet appointment to be delayed by week](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de79d30b.json))
 
 * **26** ada-derana-lk ([Showers expected in several provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5b65e16.json))
 
-* **24** tamil-mirror-lk ([அனைவருக்கும் நிவாரணம்: சஜித் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b487d3c8.json))
+* **23** tamil-mirror-lk ([பிஸ்கட் விலை அதிகரிப்புக்கு காரணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8da98433.json))
 
 * **14** economy-next-com ([Sri Lanka sell Rs60bn mostly in 3-month bills, yield up](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5cf3df2.json))
 
@@ -30,7 +26,7 @@
 
 * **1** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
-## Last Week (1,115 Articles)
+## Last Week (1,114 Articles)
 
 * **190** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
@@ -44,7 +40,7 @@
 
 * **118** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
-* **80** economy-next-com ([Sri Lanka to use US$20mn from Indian credit for animal feed](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/715a57af.json))
+* **79** economy-next-com ([Sri Lanka pro-govt legislator calls for privatisation of SriLankan Airlines](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7eac6c8a.json))
 
 * **69** daily-ft-lk ([Dollar chase: Reforms and audits](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9a9b109.json))
 
