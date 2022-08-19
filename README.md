@@ -1,44 +1,38 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-19 22:49:24 (LK time)*
+*As of 2022-08-19 23:12:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Govt officials’ foreign employment and referral program expedited](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f28e0a.json))
 
-## Last Hour (2 Articles)
+## Last 3 Hours (14 Articles)
 
-* **1** ada-derana-lk ([Govt officials’ foreign employment and referral program expedited](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f28e0a.json))
-
-* **1** lankadeepa-lk ([වසන්ත ඇතුළු දෙදෙනෙක් මාස තුනක් රඳවන් ප්‍රශ්න කිරීමට අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a953afc.json))
-
-## Last 3 Hours (17 Articles)
-
-* **8** news-first-lk ([COVID-19: Six deaths, 164 cases reported](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9cebc3b.json))
+* **6** news-first-lk ([Rajapaksas still have a mandate – Sanath Nishantha](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/987a3186.json))
 
 * **3** ada-derana-lk ([Navy seizes Kerala cannabis worth over Rs. 27 million in Jaffna](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba43805.json))
 
 * **2** lankadeepa-lk ([පිරවුම්හල් 12කට ඉන්ධන දීම අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cf10b66.json))
 
-* **2** daily-mirror-lk ([Fuel distribution to 12 filling stations suspended: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/840b2d85.json))
+* **1** daily-mirror-lk ([Egg prices to come down by Rs.5 from Monday: Poultry Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/936ec36f.json))
 
 * **1** ada-lk ([සති අන්තයේත් පැය තුනක විදුලි කප්පාදුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfc8f342.json))
 
 * **1** tamil-mirror-lk ([சிஐடிக்கு வருமாறு ஹிருணிகாவுக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd34d3f1.json))
 
-## Last 24 Hours (176 Articles)
+## Last 24 Hours (175 Articles)
 
 * **33** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
 * **31** news-first-lk ([Thunder showers expected tonight (19)](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc58cf1f.json))
 
-* **24** tamil-mirror-lk ([கோட்டாபயவுக்கு பாதுகாப்பு வழங்குமாறு கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17b8cacf.json))
-
 * **23** ada-derana-lk ([Australia kicks in extra $25 million emergency aid to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4a978da.json))
 
 * **23** ada-lk ([ජනපති හා එක්සත් ජාතින්ගේ නියෝජිත පිරිස අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2aa02d5f.json))
+
+* **23** tamil-mirror-lk ([மாணவர் போராட்டத்தில் கைதானவர்களின் எண்ணிக்கை உயர்வு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d45e407.json))
 
 * **20** daily-mirror-lk ([Significant deceleration in money printing expected: CB](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ad4d1d0.json))
 
