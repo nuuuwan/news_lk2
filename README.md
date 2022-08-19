@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 01:41:34 (LK time)*
+*As of 2022-08-20 02:07:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-ft-lk ([Dullas accuses Govt. of political revenge against MPs who supported him](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0bdc1a8.json))
 
 ## Last Hour (4 Articles)
 
