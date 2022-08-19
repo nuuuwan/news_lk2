@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84407/president-visits-jackson-anthony-at-hospital",
+    "time_ut": 1660913160,
+    "original_lang": "en",
+    "original_title": "President visits Jackson Anthony at hospital",
+    "file_name": "/tmp/news_lk2/articles/af/afaa8a86.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-CID\u0dba\u0da7-\u0db4\u0dd0\u0dba-\u0db4\u0dc4\u0d9a-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0dca/11-396438",
+    "time_ut": 1660912539,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca CID\u0dba\u0da7 \u0db4\u0dd0\u0dba \u0db4\u0dc4\u0d9a \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/70/70eba152.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-guidance-peg-edges-t-bond-yield-edge-down-98792/",
+    "time_ut": 1660912500,
+    "original_lang": "en",
+    "original_title": "Sri Lanka guidance peg edges T-bond yield edge down",
+    "file_name": "/tmp/news_lk2/articles/76/76dc3c13.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84406/police-initiate-probes-in-search-of-jehan-appuhami",
     "time_ut": 1660912320,
     "original_lang": "en",
@@ -216,6 +240,14 @@
     "file_name": "/tmp/news_lk2/articles/ed/ed14a08c.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb\u0dba\u0d9a-\u0db8\u0dd2\u0dbd-\u0dbb\u0dd4--5\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0da9\u0dc0\u0dd9\u0dba\u0dd2/11-396437",
+    "time_ut": 1660905522,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 5\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0da9\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/61/6188c89b.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/CCC-\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0bb0\u0b9e\u0bcd\u0b9a\u0ba9\u0bcd/175-302622",
     "time_ut": 1660905368,
@@ -313,11 +345,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Gotabaya-should-be-tried-for-allegations-of-misusing-funds-SJB/108-243364",
+    "url": "https://www.dailymirror.lk/latest_news/Gotabaya-should-be-tried-for-allegations-of-misusing-funds-SJB/342-243364",
     "time_ut": 1660900768,
     "original_lang": "en",
     "original_title": "Gotabaya should be tried for allegations of misusing funds: SJB",
-    "file_name": "/tmp/news_lk2/articles/99/996801d4.json"
+    "file_name": "/tmp/news_lk2/articles/8e/8e2aaeb3.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -502,6 +534,14 @@
     "original_lang": "si",
     "original_title": "\u0d9c\u0ddd\u0db1\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0dd4 \u0db1\u0dcf\u0db1\u0dd4\u0d94\u0dba\u0dda \u0db4\u0dcf\u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/8d/8dce3e2f.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/sri-lankas-determined-non-compliance-of-unhrc-resolutions-in-defiance-of-un-unhrc-charters/",
+    "time_ut": 1660893519,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s Determined Non-Compliance Of UNHRC Resolutions In Defiance Of UN & UNHRC Charters",
+    "file_name": "/tmp/news_lk2/articles/11/11ff7e4c.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "India\u2019s generous assistance to Sri Lanka heartening, says Commonwealth Secretary General",
     "file_name": "/tmp/news_lk2/articles/39/39689d11.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Recent-75-electricity-tariff-is-a-farce-CEB-Trade-Union-Alliance/108-243033",
-    "time_ut": 1660514840,
-    "original_lang": "en",
-    "original_title": "Recent 75% electricity tariff is a farce: CEB Trade Union Alliance",
-    "file_name": "/tmp/news_lk2/articles/76/76d63e5c.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd-\u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0ba4\u0bcd-\u0ba4\u0bc1\u0bb0\u0bcb\u0b95\u0bae\u0bcd/175-302336",
-    "time_ut": 1660508439,
-    "original_lang": "ta",
-    "original_title": "\u2019\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0ba4\u0bcd \u0ba4\u0bc1\u0bb0\u0bcb\u0b95\u0bae\u0bcd\u2019",
-    "file_name": "/tmp/news_lk2/articles/a9/a9fae959.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/NFF-wants-MOD-to-explain-ban-lift-on-proscribed-organisations/56-738687",
-    "time_ut": 1660508015,
-    "original_lang": "en",
-    "original_title": "NFF wants MOD to explain ban lift on proscribed organisations",
-    "file_name": "/tmp/news_lk2/articles/ce/ce6baf98.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Cardinal-says-SL-will-not-achieve-true-freedom-till-supremacy-of-law-maintained/56-738686",
-    "time_ut": 1660507964,
-    "original_lang": "en",
-    "original_title": "Cardinal says SL will not achieve true freedom till supremacy of law maintained",
-    "file_name": "/tmp/news_lk2/articles/81/811ec87d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/UN-rights-chief-in-Bangladesh-to-visit-Rohingya-camps/56-738685",
-    "time_ut": 1660507853,
-    "original_lang": "en",
-    "original_title": "UN rights chief in Bangladesh, to visit Rohingya camps",
-    "file_name": "/tmp/news_lk2/articles/7e/7ecddcfa.json"
   }
 ]
