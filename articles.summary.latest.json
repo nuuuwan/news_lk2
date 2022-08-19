@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Diaspora-investments-not-to-come-soon/172-243399",
+    "time_ut": 1660941891,
+    "original_lang": "en",
+    "original_title": "Diaspora investments not to come soon",
+    "file_name": "/tmp/news_lk2/articles/e7/e70554d1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Best-way-to-find-yourself-Lose-yourself-in-the-service-of-others/172-243398",
+    "time_ut": 1660941742,
+    "original_lang": "en",
+    "original_title": "Best way to find yourself: Lose yourself in the service of others",
+    "file_name": "/tmp/news_lk2/articles/9d/9d0147ff.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Dullas-accuses-Govt-of-political-revenge-against-MPs-who-supported-him/56-738915",
     "time_ut": 1660938171,
@@ -801,11 +817,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Gotabaya-should-be-tried-for-allegations-of-misusing-funds-SJB/342-243364",
+    "url": "https://www.dailymirror.lk/top_story/Gotabaya-should-be-tried-for-allegations-of-misusing-funds-SJB/155-243364",
     "time_ut": 1660900768,
     "original_lang": "en",
     "original_title": "Gotabaya should be tried for allegations of misusing funds: SJB",
-    "file_name": "/tmp/news_lk2/articles/8e/8e2aaeb3.json"
+    "file_name": "/tmp/news_lk2/articles/81/8122b182.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s bond yields steady; rupee guidance peg appreciates by 7 cents",
     "file_name": "/tmp/news_lk2/articles/66/66cb130f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/15/daily-exchange-rate-from-cbsl/",
-    "time_ut": 1660543260,
-    "original_lang": "en",
-    "original_title": "Daily Exchange Rate from CBSL",
-    "file_name": "/tmp/news_lk2/articles/fb/fb8a5933.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0bb8\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd/76-302355",
-    "time_ut": 1660543166,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bb8\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/a7/a708b9ce.json"
   }
 ]

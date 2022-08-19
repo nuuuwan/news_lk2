@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Diaspora-investments-not-to-come-soon/172-243399",
+    "time_ut": 1660941891,
+    "original_lang": "en",
+    "original_title": "Diaspora investments not to come soon",
+    "file_name": "/tmp/news_lk2/articles/e7/e70554d1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Best-way-to-find-yourself-Lose-yourself-in-the-service-of-others/172-243398",
+    "time_ut": 1660941742,
+    "original_lang": "en",
+    "original_title": "Best way to find yourself: Lose yourself in the service of others",
+    "file_name": "/tmp/news_lk2/articles/9d/9d0147ff.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Dullas-accuses-Govt-of-political-revenge-against-MPs-who-supported-him/56-738915",
     "time_ut": 1660938171,
@@ -801,11 +817,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Gotabaya-should-be-tried-for-allegations-of-misusing-funds-SJB/342-243364",
+    "url": "https://www.dailymirror.lk/top_story/Gotabaya-should-be-tried-for-allegations-of-misusing-funds-SJB/155-243364",
     "time_ut": 1660900768,
     "original_lang": "en",
     "original_title": "Gotabaya should be tried for allegations of misusing funds: SJB",
-    "file_name": "/tmp/news_lk2/articles/8e/8e2aaeb3.json"
+    "file_name": "/tmp/news_lk2/articles/81/8122b182.json"
   },
   {
     "newspaper_id": "ada-lk",
