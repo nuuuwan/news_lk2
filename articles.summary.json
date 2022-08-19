@@ -1,5 +1,85 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84406/police-initiate-probes-in-search-of-jehan-appuhami",
+    "time_ut": 1660912320,
+    "original_lang": "en",
+    "original_title": "Police initiate probes in search of Jehan Appuhami",
+    "file_name": "/tmp/news_lk2/articles/02/02edd387.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-records-10-new-covid-19-deaths-in-48-hours-as-case-numbers-rise-98791/",
+    "time_ut": 1660912200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka records 10 new COVID-19 deaths in 48 hours as case numbers rise",
+    "file_name": "/tmp/news_lk2/articles/39/39ddd32c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-gain-as-market-consolidates-after-profit-taking-98790/",
+    "time_ut": 1660912140,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks gain as market consolidates after profit taking",
+    "file_name": "/tmp/news_lk2/articles/bf/bf68f683.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/3-hour-daily-power-outages-during-weekend/",
+    "time_ut": 1660911720,
+    "original_lang": "en",
+    "original_title": "3-hour daily power outages during weekend",
+    "file_name": "/tmp/news_lk2/articles/88/88414441.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1-\u0dc0\u0dd0\u0dc0\u0da7-\u0db4\u0dd0\u0db1\u0dca\u0db1-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/101-618419",
+    "time_ut": 1660911515,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1 \u0dc0\u0dd0\u0dc0\u0da7 \u0db4\u0dd0\u0db1\u0dca\u0db1 \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/9f/9f904287.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bc8-\u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-302630",
+    "time_ut": 1660911310,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4 \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/ba/baee6e08.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84405/fuel-distribution-to-12-filling-stations-to-be-suspended",
+    "time_ut": 1660911300,
+    "original_lang": "en",
+    "original_title": "Fuel distribution to 12 filling stations to be suspended",
+    "file_name": "/tmp/news_lk2/articles/56/56ac9fe6.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-suspends-distribution-at-filling-stations-that-didnt-adopt-qr-system-98786/",
+    "time_ut": 1660911300,
+    "original_lang": "en",
+    "original_title": "Sri Lanka suspends distribution at filling stations that didn\u2019t adopt QR system",
+    "file_name": "/tmp/news_lk2/articles/6a/6a81d14f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da2\u0dba\u0dda-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7-\u0dbb\u0da7-\u0dba\u0db1\u0dca\u0db1-\u0dc0\u0dbb\u0db8\u0dca/101-618418",
+    "time_ut": 1660910956,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da2\u0dba\u0dda \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7 \u0dbb\u0da7 \u0dba\u0db1\u0dca\u0db1 \u0dc0\u0dbb\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/5c/5c380c72.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-protestors-must-bear-damages-to-galle-face-green-minister-98787/",
+    "time_ut": 1660910820,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s protestors must bear damages to Galle Face Green: minister",
+    "file_name": "/tmp/news_lk2/articles/b0/b0c0ceb5.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba8\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd-\u0bb0\u0b9e\u0bcd\u0b9a\u0ba9\u0bcd/175-302629",
     "time_ut": 1660910587,

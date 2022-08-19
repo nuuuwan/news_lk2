@@ -1,5 +1,85 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84406/police-initiate-probes-in-search-of-jehan-appuhami",
+    "time_ut": 1660912320,
+    "original_lang": "en",
+    "original_title": "Police initiate probes in search of Jehan Appuhami",
+    "file_name": "/tmp/news_lk2/articles/02/02edd387.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-records-10-new-covid-19-deaths-in-48-hours-as-case-numbers-rise-98791/",
+    "time_ut": 1660912200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka records 10 new COVID-19 deaths in 48 hours as case numbers rise",
+    "file_name": "/tmp/news_lk2/articles/39/39ddd32c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-gain-as-market-consolidates-after-profit-taking-98790/",
+    "time_ut": 1660912140,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks gain as market consolidates after profit taking",
+    "file_name": "/tmp/news_lk2/articles/bf/bf68f683.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/3-hour-daily-power-outages-during-weekend/",
+    "time_ut": 1660911720,
+    "original_lang": "en",
+    "original_title": "3-hour daily power outages during weekend",
+    "file_name": "/tmp/news_lk2/articles/88/88414441.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1-\u0dc0\u0dd0\u0dc0\u0da7-\u0db4\u0dd0\u0db1\u0dca\u0db1-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/101-618419",
+    "time_ut": 1660911515,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1 \u0dc0\u0dd0\u0dc0\u0da7 \u0db4\u0dd0\u0db1\u0dca\u0db1 \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/9f/9f904287.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bc8-\u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-302630",
+    "time_ut": 1660911310,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4 \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/ba/baee6e08.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84405/fuel-distribution-to-12-filling-stations-to-be-suspended",
+    "time_ut": 1660911300,
+    "original_lang": "en",
+    "original_title": "Fuel distribution to 12 filling stations to be suspended",
+    "file_name": "/tmp/news_lk2/articles/56/56ac9fe6.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-suspends-distribution-at-filling-stations-that-didnt-adopt-qr-system-98786/",
+    "time_ut": 1660911300,
+    "original_lang": "en",
+    "original_title": "Sri Lanka suspends distribution at filling stations that didn\u2019t adopt QR system",
+    "file_name": "/tmp/news_lk2/articles/6a/6a81d14f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da2\u0dba\u0dda-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7-\u0dbb\u0da7-\u0dba\u0db1\u0dca\u0db1-\u0dc0\u0dbb\u0db8\u0dca/101-618418",
+    "time_ut": 1660910956,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da2\u0dba\u0dda \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7 \u0dbb\u0da7 \u0dba\u0db1\u0dca\u0db1 \u0dc0\u0dbb\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/5c/5c380c72.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-protestors-must-bear-damages-to-galle-face-green-minister-98787/",
+    "time_ut": 1660910820,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s protestors must bear damages to Galle Face Green: minister",
+    "file_name": "/tmp/news_lk2/articles/b0/b0c0ceb5.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba8\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd-\u0bb0\u0b9e\u0bcd\u0b9a\u0ba9\u0bcd/175-302629",
     "time_ut": 1660910587,
@@ -7918,85 +7998,5 @@
     "original_lang": "en",
     "original_title": "UN rights chief in Bangladesh, to visit Rohingya camps",
     "file_name": "/tmp/news_lk2/articles/7e/7ecddcfa.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/President-orders-strict-limits-to-Government-expenses/56-738684",
-    "time_ut": 1660507816,
-    "original_lang": "en",
-    "original_title": "President orders strict limits to Government expenses",
-    "file_name": "/tmp/news_lk2/articles/9c/9c5a08e1.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Navy-rejects-reports-of-War-Game-with-Pakistan/56-738683",
-    "time_ut": 1660507695,
-    "original_lang": "en",
-    "original_title": "Navy rejects reports of \u2018War Game\u2019 with Pakistan",
-    "file_name": "/tmp/news_lk2/articles/f0/f01a3018.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1/175-302335",
-    "time_ut": 1660507542,
-    "original_lang": "ta",
-    "original_title": "\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/ec/ec2bf21a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Foreign-Ministry-justifies-approval-for-Chinese-vessel-YUAN-WANG-5-dock-at-Hambantota/56-738678",
-    "time_ut": 1660506419,
-    "original_lang": "en",
-    "original_title": "Foreign Ministry justifies approval for Chinese vessel YUAN WANG 5 dock at Hambantota",
-    "file_name": "/tmp/news_lk2/articles/14/146ece6f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Celebration-of-75th-anniversary-of-Independence-Day-of-Pakistan-in-Sri-Lanka/56-738677",
-    "time_ut": 1660506272,
-    "original_lang": "en",
-    "original_title": "Celebration of 75th anniversary of Independence Day of Pakistan in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/9f/9f93e8d3.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-302334",
-    "time_ut": 1660506195,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/fd/fd92939c.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc0\u0ba9-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd-\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd-\u0b9a\u0bb5\u0bbe\u0bb2\u0bcd\u0b95\u0bb3\u0bc8-\u0b9a\u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bcd\u0b95-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe-\u0ba4\u0baf\u0bbe\u0bb0\u0bcd/175-302333",
-    "time_ut": 1660505585,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bc0\u0ba9 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd: \u0b9a\u0bb5\u0bbe\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bcd\u0b95 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0ba4\u0baf\u0bbe\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/6e/6e19f8d7.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0b89\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbe\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/175-302331",
-    "time_ut": 1660504611,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b89\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/ea/ea994e18.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0b9f\u0ba9\u0bcd-\u0baa\u0bcb\u0bb0\u0bcd-\u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf-\u0b87\u0bb2\u0bcd\u0bb2\u0bc8-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8/175-302330",
-    "time_ut": 1660501927,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bcd \u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf \u0b87\u0bb2\u0bcd\u0bb2\u0bc8: \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/96/96d36a5d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Can-State-owned-CEB-be-effectively-regulated-unless-restructured/4-738658",
-    "time_ut": 1660501357,
-    "original_lang": "en",
-    "original_title": "Can State-owned CEB be effectively regulated unless restructured?",
-    "file_name": "/tmp/news_lk2/articles/d8/d8a58c6e.json"
   }
 ]
