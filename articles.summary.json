@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/sri-lanka-student-activists-detained-for-72-hours-police-want-to-use-terrorism-act-for-3-month-detention/",
+    "time_ut": 1660925100,
+    "original_lang": "en",
+    "original_title": "Sri Lanka: Student Activists detained for 72 hours; Police want to use Terrorism Act for 3-month detention",
+    "file_name": "/tmp/news_lk2/articles/0e/0e095716.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84411/90-day-detention-order-issued-on-two-including-iusf-convenor",
+    "time_ut": 1660924200,
+    "original_lang": "en",
+    "original_title": "90-day detention order issued on two including IUSF convenor",
+    "file_name": "/tmp/news_lk2/articles/a2/a29d727a.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Egg-prices-to-come-down-by-Rs-5-from-Monday-Poultry-Assn/108-243372",
     "time_ut": 1660923059,
