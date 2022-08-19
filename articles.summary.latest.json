@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0ba4\u0bb2\u0bbf\u0baf\u0bc8-\u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95-\u0b85\u0baa\u0bbe\u0baf\u0bbe-\u0b85\u0ba3\u0bbf\u0ba8\u0bcd\u0ba4-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-302619",
+    "time_ut": 1660896180,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbe\u0ba4\u0bb2\u0bbf\u0baf\u0bc8 \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95 \u0b85\u0baa\u0bbe\u0baf\u0bbe \u0b85\u0ba3\u0bbf\u0ba8\u0bcd\u0ba4 \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/11/1171cae7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/President-visits-Jackson-Anthony/342-243358",
+    "time_ut": 1660896160,
+    "original_lang": "en",
+    "original_title": "President visits Jackson Anthony",
+    "file_name": "/tmp/news_lk2/articles/e1/e10aa062.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/photographed-horton-plains-leopards-not-a-threat-visitor-not-allowed-to-enter-said-area/",
+    "time_ut": 1660895460,
+    "original_lang": "en",
+    "original_title": "Photographed Horton Plains leopards not a threat, Visitor not allowed to enter said area",
+    "file_name": "/tmp/news_lk2/articles/79/79f9d67f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Finnish-PM-Sanna-Marin-facing-backlash-over-leaked-party-footage/108-243357",
+    "time_ut": 1660895374,
+    "original_lang": "en",
+    "original_title": "Finnish PM Sanna Marin facing backlash over leaked party footage",
+    "file_name": "/tmp/news_lk2/articles/16/16b331b1.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/19/aid-must-come-with-clear-cut-conditions-cardinal/",
     "time_ut": 1660894980,
@@ -16,6 +48,14 @@
     "file_name": "/tmp/news_lk2/articles/6f/6f17d2f0.json"
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da7\u0dd9\u0dbd\u0dd2\u0d9a\u0ddc\u0db8\u0dca---\u0dbb\u0d9a\u0dca\u0dc2\u0dab-\u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0-\u0daf\u0dd9\u0db1\u0dc0\u0dcf\u0da7-\u0d9a\u0dd2\u0dbb\u0dd2\u0d87\u0dbd\u0dca\u0dbd\u0d9c\u0dd9\u0db1\u0dca-\u0daf\u0ddc\u0dc3\u0dca/1-618390",
+    "time_ut": 1660894888,
+    "original_lang": "si",
+    "original_title": "\u0da7\u0dd9\u0dbd\u0dd2\u0d9a\u0ddc\u0db8\u0dca - \u0dbb\u0d9a\u0dca\u0dc2\u0dab \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0daf\u0dd9\u0db1\u0dc0\u0dcf\u0da7 \u0d9a\u0dd2\u0dbb\u0dd2\u0d87\u0dbd\u0dca\u0dbd\u0d9c\u0dd9\u0db1\u0dca \u0daf\u0ddc\u0dc3\u0dca",
+    "file_name": "/tmp/news_lk2/articles/78/78c6fdb1.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0baa\u0bcd-\u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0baa\u0bbf\u0bb0\u0bc0\u0bae\u0bbf\u0baf\u0bae\u0bcd-\u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0bae\u0bcd/175-302618",
     "time_ut": 1660894818,
@@ -25,11 +65,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0ddd\u0db1\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0dd4-\u0db1\u0dcf\u0db1\u0dd4\u0d94\u0dba\u0dda-\u0db4\u0dcf\u0dc0\u0dd9\u0dba\u0dd2/101-618389",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0db1\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0dd4-\u0db1\u0dcf\u0db1\u0dd4\u0d94\u0dba\u0dda-\u0db4\u0dcf\u0dc0\u0dd9\u0dba\u0dd2/1-618389",
     "time_ut": 1660894794,
     "original_lang": "si",
     "original_title": "\u0d9c\u0ddd\u0db1\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0dd4 \u0db1\u0dcf\u0db1\u0dd4\u0d94\u0dba\u0dda \u0db4\u0dcf\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/60/6024c02a.json"
+    "file_name": "/tmp/news_lk2/articles/8d/8dce3e2f.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -73,11 +113,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Government-officials-foreign-employment-and-referral-program-expedited-PMD/342-243356",
+    "url": "https://www.dailymirror.lk/breaking_news/Government-officials-foreign-employment-and-referral-program-expedited-PMD/108-243356",
     "time_ut": 1660892776,
     "original_lang": "en",
     "original_title": "Government officials\u2019 foreign employment and referral program expedited: PMD",
-    "file_name": "/tmp/news_lk2/articles/13/13e5ab1c.json"
+    "file_name": "/tmp/news_lk2/articles/ac/acb5cb7f.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -142,6 +182,14 @@
     "original_lang": "en",
     "original_title": "10-hr water cut for Colombo 5 & 6",
     "file_name": "/tmp/news_lk2/articles/82/82006707.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0da2\u0dba\u0dda-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca-\u200d\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-\u0dc3\u0db3\u0dc4\u0dcf-\u0dba\u0ddc\u0db8\u0dd4-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dca-\u0d9a\u0dd9\u0dbb\u0dda/11-396432",
+    "time_ut": 1660891199,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da2\u0dba\u0dda \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u200d\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0dba\u0ddc\u0db8\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dca \u0d9a\u0dd9\u0dbb\u0dda",
+    "file_name": "/tmp/news_lk2/articles/55/55b8eb11.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0dd8\u0dc2\u0dd2 \u0dbb\u0d9a\u0dca\u0dc2\u0dab \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0da7 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 163\u0d9a \u0db4\u0dcf\u0da9\u0dd4\u0dc0\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/98/98d1aa0f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0da2\u0dba\u0dda-\u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca-\u0dc3\u0dd3\u0db8\u0dcf-\u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0dca/11-396286",
-    "time_ut": 1660475812,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0da2\u0dba\u0dda \u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca \u0dc3\u0dd3\u0db8\u0dcf \u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0dca",
-    "file_name": "/tmp/news_lk2/articles/16/16dcfd94.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/14/three-elephant-carcasses-discovered-in-paddy-field/",
-    "time_ut": 1660475160,
-    "original_lang": "en",
-    "original_title": "Three elephant carcasses discovered in Paddy Field",
-    "file_name": "/tmp/news_lk2/articles/c3/c3e540d3.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84297/human-elephant-conflict-kills-over-1100-wild-elephants-in-3-years",
-    "time_ut": 1660475040,
-    "original_lang": "en",
-    "original_title": "Human-elephant conflict kills over 1,100 wild elephants in 3 years",
-    "file_name": "/tmp/news_lk2/articles/d5/d5316110.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/picture_story/\u0d85\u0db1\u0dc0\u0dc3\u0dbb-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0dbb\u0dd0\u0dc4\u0dd0\u0db1\u0d9a-\u0db4\u0dd0\u0da7\u0dbd\u0dd4\u0dab\u0dd4-\u0d87\u0dad\u0dcf-\u0dc3\u0dc4-\u0dc0\u0db1-\u0d85\u0dbd\u0dd2\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf-\u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7/10-396285",
-    "time_ut": 1660474725,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db1\u0dc0\u0dc3\u0dbb \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dbb\u0dd0\u0dc4\u0dd0\u0db1\u0d9a \u0db4\u0dd0\u0da7\u0dbd\u0dd4\u0dab\u0dd4 \u0d87\u0dad\u0dcf \u0dc3\u0dc4 \u0dc0\u0db1 \u0d85\u0dbd\u0dd2\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7",
-    "file_name": "/tmp/news_lk2/articles/0d/0dffd659.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0da7-\u0d9c\u0ddc\u0da9\u0d9c\u0db1\u0dca\u0db1-\u0dc4\u0dbb\u0dca\u0dc2\u0d9c\u0dd9\u0db1\u0dca-\u0d9a\u0dbb\u0dd4\u0dab\u0dd4-10\u0d9a-\u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0d9a\u0dca/11-396284",
-    "time_ut": 1660473998,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0da7 \u0d9c\u0ddc\u0da9\u0d9c\u0db1\u0dca\u0db1 \u0dc4\u0dbb\u0dca\u0dc2\u0d9c\u0dd9\u0db1\u0dca \u0d9a\u0dbb\u0dd4\u0dab\u0dd4 10\u0d9a \u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/76/7673c810.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dd4\u0dab\u0dd4\u0db4\u0dd4\u0dbb\u0dcf-\u0dc4\u0dcf-\u0db8\u0dd2\u0dad\u0dca\u0dad\u0dab\u0dd2\u0dba-\u0daf\u0dd2\u0dba\u0dda-\u0d9c\u0dd2\u0dbd\u0dd3-\u0db8\u0dbb\u0dd4\u0da7/11-396283",
-    "time_ut": 1660473334,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dd4\u0dab\u0dd4\u0db4\u0dd4\u0dbb\u0dcf \u0dc4\u0dcf \u0db8\u0dd2\u0dad\u0dca\u0dad\u0dab\u0dd2\u0dba \u0daf\u0dd2\u0dba\u0dda \u0d9c\u0dd2\u0dbd\u0dd3 \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/7c/7c792809.json"
   }
 ]
