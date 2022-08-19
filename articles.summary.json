@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84410/navy-seizes-kerala-cannabis-worth-over-rs-27-million-in-jaffna",
+    "time_ut": 1660921380,
+    "original_lang": "en",
+    "original_title": "Navy seizes Kerala cannabis worth over Rs. 27 million in Jaffna",
+    "file_name": "/tmp/news_lk2/articles/9b/9ba43805.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0b90\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0bb1\u0bc1-\u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-302632",
+    "time_ut": 1660921357,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bbf\u0b90\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/dd/dd34d3f1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/rajapaksas-still-have-a-mandate-sanath-nishantha/",
+    "time_ut": 1660920420,
+    "original_lang": "en",
+    "original_title": "Rajapaksas still have a mandate \u2013 Sanath Nishantha",
+    "file_name": "/tmp/news_lk2/articles/98/987a3186.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/19/army-chief-pays-his-first-formal-courtesy-call-on-new-president/",
     "time_ut": 1660920000,
