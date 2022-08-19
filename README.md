@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 04:41:41 (LK time)*
+*As of 2022-08-20 05:04:34 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,13 +8,13 @@
 
 * **3** daily-mirror-lk ([Best way to find yourself: Lose yourself in the service of others](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d0147ff.json))
 
-## Last 24 Hours (188 Articles)
+## Last 24 Hours (189 Articles)
 
 * **35** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
 * **31** news-first-lk ([Thunder showers expected tonight (19)](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc58cf1f.json))
 
-* **26** tamil-mirror-lk ([சி.ஐ.டியில் முறைப்பாடு செய்தார் எரிசக்தி அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d17d7d.json))
+* **27** tamil-mirror-lk ([சி.ஐ.டியில் முறைப்பாடு செய்தார் எரிசக்தி அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d17d7d.json))
 
 * **24** ada-derana-lk ([Showers or thundershowers expected in four provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f1715b6.json))
 
@@ -28,7 +28,7 @@
 
 * **5** colombo-telegraph-com ([Saying No To Authoritarian Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2af95aab.json))
 
-## Last Week (1,272 Articles)
+## Last Week (1,273 Articles)
 
 * **224** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
@@ -38,7 +38,7 @@
 
 * **168** daily-mirror-lk ([SL grants permission for entry of Chinese tracking vessel](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/312ba20c.json))
 
-* **144** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **145** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **144** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
@@ -52,7 +52,7 @@
 
 * **12** d-b-s-jeyaraj-com ([Hundreds of Tamil mothers Conduct  rally in Kilinochchi  to mark 2,000 days of protests  to seek justice for their sons who they claim were forcibly disappeared during and after the civil war.](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204627e7.json))
 
-## All Time (1,698 Articles)
+## All Time (1,699 Articles)
 
 * **291** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -64,7 +64,7 @@
 
 * **150** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
-* **144** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **145** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **144** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
