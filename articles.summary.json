@@ -1,11 +1,27 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/UNP-still-our-ancestral-home-Mayantha/342-243361",
+    "url": "https://www.dailymirror.lk/breaking_news/Carcasses-of-Sambar-deer-floating-in-Ambewela-reservoir/108-243362",
+    "time_ut": 1660899695,
+    "original_lang": "en",
+    "original_title": "Carcasses of Sambar deer floating in Ambewela reservoir",
+    "file_name": "/tmp/news_lk2/articles/91/91a4300b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/india-has-helped-sri-lanka-to-best-of-its-ability-will-assist-with-imf-jaishankar-98784/",
+    "time_ut": 1660898640,
+    "original_lang": "en",
+    "original_title": "India has helped Sri Lanka to best of its ability, will assist with IMF: Jaishankar",
+    "file_name": "/tmp/news_lk2/articles/52/52950d07.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/UNP-still-our-ancestral-home-Mayantha/108-243361",
     "time_ut": 1660898577,
     "original_lang": "en",
     "original_title": "UNP still our ancestral home: Mayantha",
-    "file_name": "/tmp/news_lk2/articles/90/90c1d43b.json"
+    "file_name": "/tmp/news_lk2/articles/53/53a987b3.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -38,6 +54,14 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0dd9\u0dbb\u0da7 \u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0db1\u0dca\u0da7 \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf",
     "file_name": "/tmp/news_lk2/articles/ec/ec38239c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba-\u0db1\u0dd2\u0dbb\u0dca\u0db8\u0dcf\u0dab\u0dba-\u0d9a\u0dbd-\u0d85\u0dba-\u0dc4\u0dd9\u0dc5\u0dd2-\u0d9a\u0dbb\u0dba\u0dd2/11-396434",
+    "time_ut": 1660896668,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba \u0db1\u0dd2\u0dbb\u0dca\u0db8\u0dcf\u0dab\u0dba \u0d9a\u0dbd \u0d85\u0dba \u0dc4\u0dd9\u0dc5\u0dd2 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e4/e408d2c0.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -462,6 +486,14 @@
     "original_lang": "en",
     "original_title": "Japan provides JPY 500 million medical grant to Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/07/073cfadd.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/saying-no-to-authoritarian-governance/",
+    "time_ut": 1660879883,
+    "original_lang": "en",
+    "original_title": "Saying No To Authoritarian Governance",
+    "file_name": "/tmp/news_lk2/articles/2a/2af95aab.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
