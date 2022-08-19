@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/SL-to-request-Japan-to-initiate-dialogue-with-creditors/342-243329",
+    "time_ut": 1660876327,
+    "original_lang": "en",
+    "original_title": "SL to request Japan to initiate dialogue with creditors",
+    "file_name": "/tmp/news_lk2/articles/25/25898631.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0ba8\u0bbe-\u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302605",
+    "time_ut": 1660876138,
+    "original_lang": "ta",
+    "original_title": "\u0b90.\u0ba8\u0bbe. \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/42/42692012.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0db8\u0dbd\u0dca\u0d9c\u0dda-\u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dc0-\u0dc3\u0db1\u0dca\u0db0\u0dcf\u0db1\u0dba-\u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8-\u0dc4\u0dad\u0dbb/101-618374",
+    "time_ut": 1660874874,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0db8\u0dbd\u0dca\u0d9c\u0dda \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dc0 \u0dc3\u0db1\u0dca\u0db0\u0dcf\u0db1\u0dba \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8 \u0dc4\u0dad\u0dbb",
+    "file_name": "/tmp/news_lk2/articles/6a/6aa22510.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd-\u0b85\u0ba3\u0bcd\u0ba3\u0bbe\u0bae\u0bb2\u0bc8-\u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0ba9\u0bae\u0bcd/175-302604",
+    "time_ut": 1660874868,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd\u2019: \u0b85\u0ba3\u0bcd\u0ba3\u0bbe\u0bae\u0bb2\u0bc8 \u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c6/c69c0506.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84391/showers-or-thundershowers-expected-in-four-provinces",
+    "time_ut": 1660874160,
+    "original_lang": "en",
+    "original_title": "Showers or thundershowers expected in four provinces",
+    "file_name": "/tmp/news_lk2/articles/3f/3f1715b6.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf-\u0b90-\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd/175-302603",
+    "time_ut": 1660873675,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bbf.\u0b90.\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/16/16d17d7d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/In-search-of-a-system-that-eliminates-doubt-EDITORIAL/231-243327",
     "time_ut": 1660860552,
     "original_lang": "en",
@@ -17,11 +65,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/People-who-were-in-the-Aragalaya-without-any-political-agenda-were-not-harmed-Manusha-Nanayakkara/231-243325",
+    "url": "https://www.dailymirror.lk/opinion/People-who-were-in-the-Aragalaya-without-any-political-agenda-were-not-harmed-Manusha-Nanayakkara/172-243325",
     "time_ut": 1660860219,
     "original_lang": "en",
     "original_title": "People who were in the Aragalaya without any political agenda were not harmed - Manusha Nanayakkara",
-    "file_name": "/tmp/news_lk2/articles/eb/eb515c13.json"
+    "file_name": "/tmp/news_lk2/articles/c4/c4ffc642.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -62,6 +110,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka going the Turkey way?",
     "file_name": "/tmp/news_lk2/articles/9f/9fd40788.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business__main/CB-optimistic-of-wrapping-up-IMF-staff-level-deal-towards-end-of-this-month/245-243323",
+    "time_ut": 1660848080,
+    "original_lang": "en",
+    "original_title": "CB optimistic of wrapping up IMF staff-level deal towards end of this month",
+    "file_name": "/tmp/news_lk2/articles/ad/adf3b762.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -118,6 +174,14 @@
     "original_lang": "en",
     "original_title": "Susil doesn\u2019t think Gotabaya will return to politics again",
     "file_name": "/tmp/news_lk2/articles/b1/b15347b9.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1-\u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0db8-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8-\u0d9a\u0dbb\u0dba\u0dd2/11-396423",
+    "time_ut": 1660839260,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0db8 \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/88/88c80ad3.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -214,6 +278,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0da9\u0dd4 \u0dbd\u0db6\u0db1 \u0d86\u0dba\u0dad\u0db1 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd3\u0d9a\u0dbb\u0dab\u0dba \u0d85\u0dad\u0dca\u200d\u0dba\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/7b/7bcd1f66.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/reminiscences-of-my-short-stint-in-teaching/",
+    "time_ut": 1660836000,
+    "original_lang": "en",
+    "original_title": "Reminiscences of my short stint in teaching",
+    "file_name": "/tmp/news_lk2/articles/95/952c9d48.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1225,11 +1297,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business_247/CBSL-maintains-policy-rates-at-current-levels/395-243296",
+    "url": "https://www.dailymirror.lk/mirror_business/CBSL-maintains-policy-rates-at-current-levels/241-243296",
     "time_ut": 1660803996,
     "original_lang": "en",
     "original_title": "CBSL maintains policy rates at current levels",
-    "file_name": "/tmp/news_lk2/articles/1c/1c2d9633.json"
+    "file_name": "/tmp/news_lk2/articles/86/861fce54.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
