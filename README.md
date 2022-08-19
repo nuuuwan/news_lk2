@@ -1,44 +1,40 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 00:27:55 (LK time)*
+*As of 2022-08-20 00:42:50 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **1** ada-derana-lk ([Interpol confirms arrest of ‘Harak Kata’ by Dubai Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f382d22.json))
-
-* **1** daily-ft-lk ([Haircuts and economic revival strategies](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f56cb2b1.json))
-
-* **1** daily-mirror-lk ([Egg to be sold at Rs. 43; Gazette issued](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/7387a7e5.json))
+* **1** ada-derana-lk ([US ambassador holds talks with opposition leader](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29d64012.json))
 
 ## Last Hour (7 Articles)
 
-* **5** daily-ft-lk ([Energy Minister applauds development partners of National Fuel Pass](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07e7353d.json))
+* **4** daily-ft-lk ([Looking at the problem from the point of view of the State](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1508448.json))
 
-* **1** ada-derana-lk ([Interpol confirms arrest of ‘Harak Kata’ by Dubai Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f382d22.json))
+* **2** ada-derana-lk ([Interpol confirms arrest of ‘Harak Kata’ by Dubai Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f382d22.json))
 
 * **1** daily-mirror-lk ([Egg to be sold at Rs. 43; Gazette issued](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/7387a7e5.json))
 
-## Last 3 Hours (20 Articles)
+## Last 3 Hours (19 Articles)
 
 * **10** daily-ft-lk ([Dialog promotes best data plans for entire family](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f47911b1.json))
 
-* **4** news-first-lk ([Sri Lanka: Student Activists detained for 72 hours; Police want to use Terrorism Act for 3-month detention](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e095716.json))
+* **3** ada-derana-lk ([Govt officials’ foreign employment and referral program expedited](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f28e0a.json))
 
 * **3** daily-mirror-lk ([Disciplinary action against missing Beach VB players](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b173ad72.json))
 
-* **2** ada-derana-lk ([Govt officials’ foreign employment and referral program expedited](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f28e0a.json))
+* **2** news-first-lk ([Passengers Confront Bandula on Bus](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac51fe88.json))
 
 * **1** lankadeepa-lk ([වසන්ත ඇතුළු දෙදෙනෙක් මාස තුනක් රඳවන් ප්‍රශ්න කිරීමට අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a953afc.json))
 
-## Last 24 Hours (184 Articles)
+## Last 24 Hours (185 Articles)
 
 * **35** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
 * **31** news-first-lk ([Thunder showers expected tonight (19)](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc58cf1f.json))
 
-* **23** ada-derana-lk ([Showers or thundershowers expected in four provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f1715b6.json))
+* **24** ada-derana-lk ([Showers or thundershowers expected in four provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f1715b6.json))
 
 * **23** ada-lk ([ජනපති හා එක්සත් ජාතින්ගේ නියෝජිත පිරිස අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2aa02d5f.json))
 
@@ -52,7 +48,7 @@
 
 * **5** colombo-telegraph-com ([Saying No To Authoritarian Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2af95aab.json))
 
-## Last Week (1,272 Articles)
+## Last Week (1,271 Articles)
 
 * **224** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
@@ -60,9 +56,9 @@
 
 * **172** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
 
-* **171** daily-mirror-lk ([Global apparel industry steps up to support Sri Lanka’s apparel sector](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b3fe2a6.json))
+* **169** daily-mirror-lk ([Govt. repeals draconian clauses under Emergency Regulations](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c868bf3d.json))
 
-* **143** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
+* **144** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
 * **140** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
@@ -76,7 +72,7 @@
 
 * **14** colombo-telegraph-com ([Did Bankruptcy Of Sinhala Language Help Push The Country Off The Cliff](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2b2471e.json))
 
-## All Time (1,686 Articles)
+## All Time (1,687 Articles)
 
 * **291** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -88,7 +84,7 @@
 
 * **146** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
-* **143** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
+* **144** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
 * **140** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
