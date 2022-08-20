@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/sumanthiran-condemns-detention-orders-on-protestors-calls-for-pta-to-be-repealed/",
+    "time_ut": 1661001420,
+    "original_lang": "en",
+    "original_title": "Sumanthiran condemns detention orders on protestors, calls for PTA to be repealed",
+    "file_name": "/tmp/news_lk2/articles/1f/1f3917ee.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84426/hirunika-leaves-cid-after-recording-hours-long-statement",
     "time_ut": 1661000280,
     "original_lang": "en",
     "original_title": "Hirunika leaves CID after recording hours-long statement",
     "file_name": "/tmp/news_lk2/articles/3e/3e919751.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/picture_story/\u0db8\u0dc4-\u0d9a\u0db1\u0dca\u0db1\u0dba\u0da7-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0dad\u0ddc\u0dbb\u0dc0/10-396465",
+    "time_ut": 1660999705,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dc4 \u0d9a\u0db1\u0dca\u0db1\u0dba\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0dad\u0ddc\u0dbb\u0dc0",
+    "file_name": "/tmp/news_lk2/articles/5d/5d4ae7f5.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "SLC Exco sends LoD on Rs. 2Bn to National Sports Council Chairman Arjuna",
     "file_name": "/tmp/news_lk2/articles/82/82017cde.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0da2-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d86\u0dba\u0ddd\u0da2\u0db1-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0d9a\u0da7-\u0d85\u0dc3\u0dd4\u0dc0\u0dd9\u0dbd\u0dcf/1-618160",
-    "time_ut": 1660570726,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0dc0\u0dca\u200d\u0dba\u0dcf\u0da2 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0d9a\u0da7 \u0d85\u0dc3\u0dd4\u0dc0\u0dd9\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/7d/7d1a7ce9.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/picture_story/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0-\u0dc4\u0dcf-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0d91\u0d9a\u0db8-\u0d9a\u0dcf\u0dc3\u0dd2\u0dba\u0dda-\u0daf\u0dd9\u0db4\u0dd0\u0dad\u0dca\u0dad\u0d9a\u0dca/10-396324",
-    "time_ut": 1660570556,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0dc4\u0dcf \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d91\u0d9a\u0db8 \u0d9a\u0dcf\u0dc3\u0dd2\u0dba\u0dda \u0daf\u0dd9\u0db4\u0dd0\u0dad\u0dca\u0dad\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/6e/6e376d53.json"
   }
 ]

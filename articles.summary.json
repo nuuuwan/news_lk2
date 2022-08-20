@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/sumanthiran-condemns-detention-orders-on-protestors-calls-for-pta-to-be-repealed/",
+    "time_ut": 1661001420,
+    "original_lang": "en",
+    "original_title": "Sumanthiran condemns detention orders on protestors, calls for PTA to be repealed",
+    "file_name": "/tmp/news_lk2/articles/1f/1f3917ee.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84426/hirunika-leaves-cid-after-recording-hours-long-statement",
     "time_ut": 1661000280,
     "original_lang": "en",
     "original_title": "Hirunika leaves CID after recording hours-long statement",
     "file_name": "/tmp/news_lk2/articles/3e/3e919751.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/picture_story/\u0db8\u0dc4-\u0d9a\u0db1\u0dca\u0db1\u0dba\u0da7-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0dad\u0ddc\u0dbb\u0dc0/10-396465",
+    "time_ut": 1660999705,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dc4 \u0d9a\u0db1\u0dca\u0db1\u0dba\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0dad\u0ddc\u0dbb\u0dc0",
+    "file_name": "/tmp/news_lk2/articles/5d/5d4ae7f5.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
