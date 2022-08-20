@@ -1,46 +1,46 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 15:10:12 (LK time)*
+*As of 2022-08-20 15:23:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **2** news-first-lk ([Three arrested in relation to Ambalangoda shooting incident](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a14f760.json))
+* **1** tamil-mirror-lk ([ராஜபக்ஸவை விட “ரணில் ராஜபக்ஸ” மிகவும் ஆபத்தானவர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fcc4c41.json))
 
-* **1** economy-next-com ([Sri Lanka’s new price controls on eggs could lead to shortages: poultry association](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/361f41ce.json))
+* **1** news-first-lk ([ECSL moots holding local government elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/251cb95f.json))
 
-## Last Hour (5 Articles)
+## Last Hour (6 Articles)
 
 * **3** news-first-lk ([Three dead in Mutur accident](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204b281a.json))
 
+* **2** tamil-mirror-lk ([கொரோனா குறித்த முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eaf86c39.json))
+
 * **1** economy-next-com ([Sri Lanka’s new price controls on eggs could lead to shortages: poultry association](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/361f41ce.json))
 
-* **1** tamil-mirror-lk ([கொரோனா குறித்த முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eaf86c39.json))
-
-## Last 3 Hours (16 Articles)
+## Last 3 Hours (15 Articles)
 
 * **5** news-first-lk ([Hirunika questions student union – PTA correlation](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9b5f110.json))
 
 * **5** economy-next-com ([Sri Lanka Customs arrest three Indians suspected of smuggling in jewellery](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bcc4e2c0.json))
 
-* **2** tamil-mirror-lk ([ஒமிக்ரோன் வைரஸ் திரிபு பற்றி விடுக்கப்பட்ட எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/453157c4.json))
-
-* **2** ada-derana-lk ([Janani wins gold at Indian Open National Para-Athletics Championship](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2953b2b.json))
+* **2** tamil-mirror-lk ([கொரோனா குறித்த முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eaf86c39.json))
 
 * **1** lankadeepa-lk ([‘‘අරගලකරුවන් ගිනි තැබූ ගෙවල් හදා ගන්න රජයෙන් පිහිටක් නෑ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b5935a4.json))
 
+* **1** ada-derana-lk ([Hirunika records statement with CID](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/962f1e82.json))
+
 * **1** daily-mirror-lk ([PCR, RAT test kits are limited; stringent effort to control spread underway: Dr. Herath](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8be841a3.json))
 
-## Last 24 Hours (178 Articles)
+## Last 24 Hours (175 Articles)
 
-* **30** news-first-lk ([UNDCO wants further engagement with SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b8c24bf.json))
+* **28** news-first-lk ([22A is token reform to appease some, says CPA](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed14a08c.json))
 
-* **26** tamil-mirror-lk ([முட்டை விலை குறைகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2b1f921.json))
+* **27** tamil-mirror-lk ([முட்டை விலை குறைகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2b1f921.json))
 
-* **26** lankadeepa-lk ([ඕනෑම සහයක් දෙන්න ඉන්දියාව සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09152337.json))
+* **25** lankadeepa-lk ([නිවාස සංවර්ධන අධිකාරියට කෝටි ගානක පොල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f6636bb.json))
 
-* **22** ada-derana-lk ([Land value in Colombo District accelerates in first half of 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c48e2991.json))
+* **21** ada-derana-lk ([Price of an egg to be slashed by Rs. 5](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/284f1ab1.json))
 
 * **20** ada-lk ([බිත්තරයක මිල රු. 5කින් අඩවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/6188c89b.json))
 
@@ -64,9 +64,9 @@
 
 * **180** ada-lk ([තැපැලේ වෙනසක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47eb3660.json))
 
-* **173** daily-mirror-lk ([Ban on key diaspora groups lifted](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0d66b37.json))
+* **172** daily-mirror-lk ([WHO seeks public help in renaming monkeypox to fight stigma](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/848fd058.json))
 
-* **158** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **159** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **150** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
@@ -80,7 +80,7 @@
 
 * **15** d-b-s-jeyaraj-com ([Hundreds of Tamil mothers Conduct  rally in Kilinochchi  to mark 2,000 days of protests  to seek justice for their sons who they claim were forcibly disappeared during and after the civil war.](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204627e7.json))
 
-## All Time (1,782 Articles)
+## All Time (1,783 Articles)
 
 * **302** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -90,7 +90,7 @@
 
 * **194** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
-* **158** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **159** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **150** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
