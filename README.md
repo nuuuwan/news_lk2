@@ -1,40 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 12:26:30 (LK time)*
+*As of 2022-08-20 12:41:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **2** lankadeepa-lk ([ට්‍රැක්ටරය පෙරළි තුනක් මරුට තව පිරිසක් රෝහලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b60c6ec0.json))
+* **1** tamil-mirror-lk ([ஒமிக்ரோன் வைரஸ் திரிபு பற்றி விடுக்கப்பட்ட எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/453157c4.json))
 
 * **1** ada-derana-lk ([Janani wins gold at Indian Open National Para-Athletics Championship](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2953b2b.json))
 
-* **1** tamil-mirror-lk ([திருகோணமலையில் கோர விபத்து; மூவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/4690758c.json))
-
-* **1** economy-next-com ([Sri Lanka’s ayurvedic hospital staff protest medicine shortages, corruption](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9cb11005.json))
-
-* **1** daily-mirror-lk ([Three Indians nabbed with gold jewellery worth Rs.18mn](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f281cfb.json))
-
-## Last Hour (8 Articles)
+## Last Hour (9 Articles)
 
 * **3** lankadeepa-lk ([ධීවරයන්ගේ හඬටත් සවන්දී ප්‍රශ්න විසඳනු](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0f177a8.json))
 
-* **2** ada-derana-lk ([Customs foils attempt to smuggle in gold jewellery worth Rs. 18 Mn](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4530be0a.json))
+* **2** tamil-mirror-lk ([திருகோணமலையில் கோர விபத்து; மூவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/4690758c.json))
 
-* **1** tamil-mirror-lk ([திருகோணமலையில் கோர விபத்து; மூவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/4690758c.json))
+* **2** ada-derana-lk ([Customs foils attempt to smuggle in gold jewellery worth Rs. 18 Mn](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4530be0a.json))
 
 * **1** economy-next-com ([Sri Lanka’s ayurvedic hospital staff protest medicine shortages, corruption](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9cb11005.json))
 
 * **1** daily-mirror-lk ([Three Indians nabbed with gold jewellery worth Rs.18mn](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f281cfb.json))
 
-## Last 3 Hours (19 Articles)
-
-* **6** news-first-lk ([Sri Lanka: President calls Armed Forces to maintain public order](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b76f77bf.json))
+## Last 3 Hours (18 Articles)
 
 * **5** lankadeepa-lk ([කෝටි දෙකක රන් ආභරණ රේගුවෙන් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86b8214.json))
 
-* **3** tamil-mirror-lk ([மறுசீரமைக்கப்படும் இலங்கை மின்சார சபை](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24278962.json))
+* **5** news-first-lk ([Stop using terrorism act, Amnesty appeals from Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8023468.json))
+
+* **4** tamil-mirror-lk ([மறுசீரமைக்கப்படும் இலங்கை மின்சார சபை](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24278962.json))
 
 * **2** ada-derana-lk ([Customs foils attempt to smuggle in gold jewellery worth Rs. 18 Mn](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4530be0a.json))
 
@@ -42,19 +36,17 @@
 
 * **1** daily-mirror-lk ([Three Indians nabbed with gold jewellery worth Rs.18mn](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f281cfb.json))
 
-* **1** ada-lk ([IMF  නියෝජිතයන් 24 දා එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/0018f95a.json))
+## Last 24 Hours (195 Articles)
 
-## Last 24 Hours (199 Articles)
+* **35** lankadeepa-lk ([ගෝනුන්ගේ සිරුරු නානුඔයේ පාවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8dce3e2f.json))
 
-* **37** lankadeepa-lk ([ජැක්සන් බලන්න ජනපති ජාතික රෝහලට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1f873e2.json))
+* **30** tamil-mirror-lk ([பெற்றோர்களே அவதானம்; 1929க்கு உடன் அழையுங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13bd08e7.json))
 
-* **30** tamil-mirror-lk ([விலை அதிகரிப்பு தொடர்பில் உடனடி நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f9c9d17.json))
-
-* **29** news-first-lk ([Additional $ 25 Mn from Australia to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/362aa8a8.json))
+* **28** news-first-lk ([Treasure hunters arrested with loot worth over Rs. 100 Mn](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a46a68c6.json))
 
 * **24** ada-derana-lk ([India has done its best to assist Sri Lanka - Jaishankar](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49206ead.json))
 
-* **24** daily-mirror-lk ([Government officials’ foreign employment and referral program expedited: PMD](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acb5cb7f.json))
+* **23** daily-mirror-lk ([Finnish PM Sanna Marin facing backlash over leaked party footage](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/321de9b4.json))
 
 * **22** ada-lk ([දඹුල්ලේ එළවළු මිල පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/773033f4.json))
 
@@ -68,7 +60,7 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka’s Determined Non-Compliance Of UNHRC Resolutions In Defiance Of UN & UNHRC Charters](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11ff7e4c.json))
 
-## Last Week (1,328 Articles)
+## Last Week (1,329 Articles)
 
 * **230** lankadeepa-lk ([සදුදා සිට පාසල් සාමාන්‍ය පරිදි](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72606b25.json))
 
@@ -78,7 +70,7 @@
 
 * **174** daily-mirror-lk ([Ranjan signs letter seeking presidential pardon](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3065cbd.json))
 
-* **156** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **157** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **149** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
@@ -92,7 +84,7 @@
 
 * **13** colombo-telegraph-com ([Ripples In The Indian Ocean: Yuan Wang 5 & Easter Sunday 2019](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/1100fecb.json))
 
-## All Time (1,763 Articles)
+## All Time (1,764 Articles)
 
 * **301** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -102,7 +94,7 @@
 
 * **189** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
-* **156** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **157** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **150** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
