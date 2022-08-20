@@ -1,14 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 21:09:22 (LK time)*
+*As of 2022-08-20 21:26:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** economy-next-com ([Sri Lanka to get UN’s support to achieve 2030 agenda for sustainable development](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623faa.json))
-
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (11 Articles)
 
 * **4** news-first-lk ([Sumanthiran condemns detention orders on protestors, calls for PTA to be repealed](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f3917ee.json))
 
@@ -18,11 +14,9 @@
 
 * **2** ada-derana-lk ([Hirunika leaves CID after recording hours-long statement](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e919751.json))
 
-* **2** ada-lk ([මහ කන්නයට අවශ්‍ය පොහොර ප්‍රමාදයකින් තොරව](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d4ae7f5.json))
-
 * **1** economy-next-com ([Sri Lanka to get UN’s support to achieve 2030 agenda for sustainable development](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623faa.json))
 
-## Last 24 Hours (143 Articles)
+## Last 24 Hours (142 Articles)
 
 * **26** tamil-mirror-lk ([’மக்கள் உணரக்கூடிய நல்லிணக்கமே அவசியம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aecffbcf.json))
 
@@ -30,7 +24,7 @@
 
 * **17** daily-mirror-lk ([Cabinet to be sworn  in next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/5113c42c.json))
 
-* **17** ada-derana-lk ([90-day detention order issued on two including IUSF convenor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a29d727a.json))
+* **16** ada-derana-lk ([Govt officials’ foreign employment and referral program expedited](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f28e0a.json))
 
 * **14** daily-ft-lk ([Dialog promotes best data plans for entire family](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f47911b1.json))
 
