@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 01:40:48 (LK time)*
+*As of 2022-08-21 02:08:53 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (5 Articles)
+## Last 3 Hours (4 Articles)
 
 * **2** tamil-mirror-lk ([அமைச்சர் பந்துல யாழ்ப்பாணத்தில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76567d97.json))
 
 * **1** ada-derana-lk ([Ten U.S. congressmen urge additional support for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a110f6db.json))
 
 * **1** daily-mirror-lk ([SL aims to welcome 1 million tourists this year; Harin Fernando](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/826aa719.json))
-
-* **1** lankadeepa-lk ([ඩලස්ලාගේ ගමන අපුරෙන් අරඹයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f6f5c60.json))
 
 ## Last 24 Hours (117 Articles)
 
@@ -32,7 +30,7 @@
 
 * **5** colombo-telegraph-com ([Country Has Fallen Due To The Socialist Thinking](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d3ca26d.json))
 
-## Last Week (1,361 Articles)
+## Last Week (1,360 Articles)
 
 * **239** lankadeepa-lk ([2600 දුම්රිය ටිකට්ටුව 7600ට විකුණලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3ded863b.json))
 
@@ -42,7 +40,7 @@
 
 * **173** daily-mirror-lk ([Two Sri Lankan nationals arrested on robbery charge in Chennai](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/242bbdc8.json))
 
-* **167** tamil-mirror-lk ([பரீட்சையை தவறவிட்ட மாணவர்களுக்கு மீண்டும் வாய்ப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/9796202e.json))
+* **166** tamil-mirror-lk ([ஐ.நா மனித உரிமைகள் பேரவைக்கு தமிழ் கட்சிகள் கூட்டறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c07e8a8.json))
 
 * **152** ada-derana-lk ([Few showers expected in several provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586894b1.json))
 
