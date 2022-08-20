@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 02:08:53 (LK time)*
+*As of 2022-08-21 02:28:32 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (4 Articles)
+## Last 3 Hours (3 Articles)
 
 * **2** tamil-mirror-lk ([அமைச்சர் பந்துல யாழ்ப்பாணத்தில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76567d97.json))
 
 * **1** ada-derana-lk ([Ten U.S. congressmen urge additional support for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a110f6db.json))
 
-* **1** daily-mirror-lk ([SL aims to welcome 1 million tourists this year; Harin Fernando](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/826aa719.json))
-
-## Last 24 Hours (117 Articles)
+## Last 24 Hours (113 Articles)
 
 * **21** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
 
@@ -22,11 +20,11 @@
 
 * **15** ada-derana-lk ([Parts of the island to receive spells of showers today](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/5978dd6a.json))
 
-* **14** daily-mirror-lk ([Best way to find yourself: Lose yourself in the service of others](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d0147ff.json))
-
 * **14** ada-lk ([මහජන සාමය පවත්වාගෙන යාමට ජනපති ත්‍රිවිධ හමුදාව කැඳවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e879c799.json))
 
-* **11** economy-next-com ([IMF team in Sri Lanka  policy talks on program from August 24](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d12f202d.json))
+* **11** daily-mirror-lk ([Tea export volumes down 7.8 MnKgs in July](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d30198f.json))
+
+* **10** economy-next-com ([Sri Lanka Coconut prices continues to increase](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cc118c0.json))
 
 * **5** colombo-telegraph-com ([Country Has Fallen Due To The Socialist Thinking](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d3ca26d.json))
 
