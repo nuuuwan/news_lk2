@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-police-on-lookout-for-suspects-who-damaged-presidents-office-98818/",
+    "time_ut": 1660993200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka police on lookout for suspects who damaged president\u2019s office",
+    "file_name": "/tmp/news_lk2/articles/9e/9ebfba5a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/ship-carrying-21-000mt-fertilizer-under-indian-assistance-reaches-sl/",
+    "time_ut": 1660992780,
+    "original_lang": "en",
+    "original_title": "Ship carrying 21,000MT fertilizer under Indian assistance reaches SL",
+    "file_name": "/tmp/news_lk2/articles/31/311a7ca0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf-\u0d85\u0dc3\u0dca\u0dc3\u0dda-\u0d9a\u0ddd\u0da7\u0dd2-63477\u0d9a-\u0dad\u0ddc\u0dbb\u0db8\u0dca\u0db6\u0dbd\u0dca-\u0d9c\u0dd9\u0db1\u0dbd\u0dca\u0dbd\u0dcf/101-618450",
+    "time_ut": 1660992580,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf \u0d85\u0dc3\u0dca\u0dc3\u0dda \u0d9a\u0ddd\u0da7\u0dd2 63477\u0d9a \u0dad\u0ddc\u0dbb\u0db8\u0dca\u0db6\u0dbd\u0dca \u0d9c\u0dd9\u0db1\u0dbd\u0dca\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/35/35463e83.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/three-indians-arrested-with-rs-18mn-gold/",
+    "time_ut": 1660992360,
+    "original_lang": "en",
+    "original_title": "Three Indians arrested with Rs. 18mn gold",
+    "file_name": "/tmp/news_lk2/articles/f6/f6013d30.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84423/police-seek-public-assistance-identify-50-suspects",
     "time_ut": 1660991700,
     "original_lang": "en",
     "original_title": "Police seek public assistance identify 50 suspects",
     "file_name": "/tmp/news_lk2/articles/5b/5bec2955.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84423/police-seek-public-assistance-to-identify-50-suspects",
+    "time_ut": 1660991700,
+    "original_lang": "en",
+    "original_title": "Police seek public assistance to identify 50 suspects",
+    "file_name": "/tmp/news_lk2/articles/61/61e2396d.json"
   },
   {
     "newspaper_id": "news-first-lk",
