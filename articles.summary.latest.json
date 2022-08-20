@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/health-ministry-urges-public-to-obtain-fourth-dose/",
+    "time_ut": 1660972860,
+    "original_lang": "en",
+    "original_title": "Health Ministry urges public to obtain fourth dose",
+    "file_name": "/tmp/news_lk2/articles/f6/f62968ee.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/world_news/\u0dc3\u0dd0\u0db4\u0ddc\u0dbb\u0dd3\u0dc2\u0dd2\u0dba\u0dcf-\u0db1\u0dca\u200d\u0dba\u0dc2\u0dca\u0da7\u0dd2\u0d9a-\u0db6\u0dbd\u0dcf\u0d9c\u0dcf\u0dbb\u0dba-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0dba\u0dd4-\u0d91\u0db1\u0dca-\u0d92-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7-\u0d85\u0dc0\u0dc3\u0dbb/14-618444",
     "time_ut": 1660971684,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0dd4\u0dbb\u0dd4\u0dbd\u0dca\u0dbd\u0dcf \u0db6\u0dda\u0dbb\u0dcf \u0d9c\u0db1\u0dca\u0db1 \u0db4\u0dd6\u0dc3\u0ddd \u2018\u0dbd\u0ddc\u0d9a\u0dca\u0da9\u0dc0\u0dd4\u0db1\u0dca\u2019",
     "file_name": "/tmp/news_lk2/articles/f5/f55d837d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/who-seeking-public-assistance-in-renaming-monkeypox-to-combat-stigma-98646/",
-    "time_ut": 1660556040,
-    "original_lang": "en",
-    "original_title": "WHO seeking public assistance in renaming monkeypox to combat stigma",
-    "file_name": "/tmp/news_lk2/articles/6c/6c4562bf.json"
   }
 ]
