@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84421/hirunika-records-statement-with-cid",
+    "time_ut": 1660982340,
+    "original_lang": "en",
+    "original_title": "Hirunika records statement with CID",
+    "file_name": "/tmp/news_lk2/articles/96/962f1e82.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-customs-arrest-two-indians-suspect-of-smuggling-in-jewellery-98811/",
     "time_ut": 1660979940,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Four more arrested over fuel racketeering; 9,200 litres of petrol seized",
     "file_name": "/tmp/news_lk2/articles/1a/1af0e89a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/15/sri-lanka-navy-marines-complete-rimpac-2022-hosted-by-the-us-pacific-fleet/",
-    "time_ut": 1660560660,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Navy Marines complete RIMPAC 2022 hosted by the US Pacific Fleet",
-    "file_name": "/tmp/news_lk2/articles/38/3879286b.json"
   }
 ]

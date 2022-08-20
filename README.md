@@ -1,42 +1,46 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 13:23:23 (LK time)*
+*As of 2022-08-20 13:43:50 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
+## Last 30 Minutes (1 Articles)
+
+* **1** ada-derana-lk ([Hirunika records statement with CID](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/962f1e82.json))
+
 ## Last Hour (2 Articles)
+
+* **1** ada-derana-lk ([Hirunika records statement with CID](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/962f1e82.json))
 
 * **1** economy-next-com ([Sri Lanka Customs arrest two Indians suspect of smuggling in jewellery](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e01dff57.json))
 
-* **1** daily-mirror-lk ([PCR, RAT test kits are limited; stringent effort to control spread underway: Dr. Herath](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8be841a3.json))
-
-## Last 3 Hours (17 Articles)
-
-* **5** lankadeepa-lk ([කෝටි දෙකක රන් ආභරණ රේගුවෙන් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86b8214.json))
+## Last 3 Hours (16 Articles)
 
 * **4** tamil-mirror-lk ([மறுசீரமைக்கப்படும் இலங்கை மின்சார சபை](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24278962.json))
+
+* **3** ada-derana-lk ([Customs foils attempt to smuggle in gold jewellery worth Rs. 18 Mn](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4530be0a.json))
+
+* **3** lankadeepa-lk ([ධීවරයන්ගේ හඬටත් සවන්දී ප්‍රශ්න විසඳනු](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0f177a8.json))
 
 * **2** economy-next-com ([Sri Lanka’s ayurvedic hospital staff protest medicine shortages, corruption](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9cb11005.json))
 
 * **2** daily-mirror-lk ([Three Indians nabbed with gold jewellery worth Rs.18mn](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f281cfb.json))
 
-* **2** ada-derana-lk ([Customs foils attempt to smuggle in gold jewellery worth Rs. 18 Mn](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4530be0a.json))
-
 * **2** news-first-lk ([Health Ministry urges public to obtain fourth dose](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f62968ee.json))
 
-## Last 24 Hours (185 Articles)
+## Last 24 Hours (180 Articles)
 
-* **32** lankadeepa-lk ([බ්‍රේක් නැති පා පැදියකින් පල්ලමේ ගිය දරුවා මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d12225cb.json))
+* **31** lankadeepa-lk ([මෙරට ධීවරයන්ට කොරියාවේ රැකියා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec38239c.json))
 
-* **28** tamil-mirror-lk ([காதலியை கண்காணிக்க அபாயா அணிந்த இளைஞன் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/1171cae7.json))
+* **26** tamil-mirror-lk ([மயானத்தில் அடக்கம் செய்ய அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1fce263.json))
 
 * **25** news-first-lk ([UNDCO wants further engagement with SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b8c24bf.json))
 
-* **23** daily-mirror-lk ([President visits Jackson Anthony](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84eb0ac3.json))
+* **23** ada-derana-lk ([Unidentified body found in canal at Polgasowita](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb5d41fa.json))
 
-* **23** ada-lk ([දඹුල්ලේ එළවළු මිල පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/773033f4.json))
+* **22** daily-mirror-lk ([UNP still our ancestral home: Mayantha](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53a987b3.json))
 
-* **22** ada-derana-lk ([Unidentified body found in canal at Polgasowita](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb5d41fa.json))
+* **21** ada-lk ([තෙල් බැරලයකින් ඩොලර් 36ක මහා වංචාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79de0f74.json))
 
 * **14** daily-ft-lk ([Dialog promotes best data plans for entire family](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f47911b1.json))
 
@@ -58,9 +62,9 @@
 
 * **157** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
-* **149** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
+* **150** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
-* **89** economy-next-com ([Sri Lanka imprisoned ex MP’s presidential pardon likely after court vacation: lawyer](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a783dc74.json))
+* **88** economy-next-com ([Sri Lanka chicken, egg prices soar due to demand spike, animal feed shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4cecc007.json))
 
 * **71** daily-ft-lk ([‘Nadagamkarayo’: A management perspective](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee6d9431.json))
 
@@ -70,7 +74,7 @@
 
 * **13** colombo-telegraph-com ([Ripples In The Indian Ocean: Yuan Wang 5 & Easter Sunday 2019](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/1100fecb.json))
 
-## All Time (1,767 Articles)
+## All Time (1,768 Articles)
 
 * **301** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -82,9 +86,9 @@
 
 * **157** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
-* **150** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
+* **150** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
-* **149** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
+* **150** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
 * **124** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 
