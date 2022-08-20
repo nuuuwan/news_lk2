@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/editorial/\u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0dc4\u0dac\u0da7\u0dad\u0dca-\u0dc3\u0dc0\u0db1\u0dca\u0daf\u0dd3-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0dc0\u0dd2\u0dc3\u0db3\u0db1\u0dd4/117-618445",
+    "time_ut": 1660976385,
+    "original_lang": "si",
+    "original_title": "\u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc4\u0dac\u0da7\u0dad\u0dca \u0dc3\u0dc0\u0db1\u0dca\u0daf\u0dd3 \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0dc0\u0dd2\u0dc3\u0db3\u0db1\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/d0/d0f177a8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84419/customs-foils-attempt-to-smuggle-in-gold-jewellery-worth-rs-18-mn",
+    "time_ut": 1660975980,
+    "original_lang": "en",
+    "original_title": "Customs foils attempt to smuggle in gold jewellery worth Rs. 18 Mn",
+    "file_name": "/tmp/news_lk2/articles/45/4530be0a.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/20/water-cut-tonight-20/",
     "time_ut": 1660974300,
@@ -41,11 +57,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddd\u0da7\u0dd2-\u0daf\u0dd9\u0d9a\u0d9a-\u0dbb\u0db1\u0dca-\u0d86\u0db7\u0dbb\u0dab-\u0dbb\u0dda\u0d9c\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-618443",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddd\u0da7\u0dd2-\u0daf\u0dd9\u0d9a\u0d9a-\u0dbb\u0db1\u0dca-\u0d86\u0db7\u0dbb\u0dab-\u0dbb\u0dda\u0d9c\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-618443",
     "time_ut": 1660971677,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a \u0dbb\u0db1\u0dca \u0d86\u0db7\u0dbb\u0dab \u0dbb\u0dda\u0d9c\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/5c/5cefed2e.json"
+    "file_name": "/tmp/news_lk2/articles/e8/e86b8214.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -105,11 +121,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0da5\u0dba\u0db1\u0dca-\u0d85\u0dc3\u0dd6\u0dc0\u0d9a\u0da7-\u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca-\u0daf\u0dd6\u0dc2\u0dab-\u0da0\u0ddd\u0daf\u0db1\u0dcf/101-618442",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0da5\u0dba\u0db1\u0dca-\u0d85\u0dc3\u0dd6\u0dc0\u0d9a\u0da7-\u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca-\u0daf\u0dd6\u0dc2\u0dab-\u0da0\u0ddd\u0daf\u0db1\u0dcf/1-618442",
     "time_ut": 1660966775,
     "original_lang": "si",
     "original_title": "\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0da5\u0dba\u0db1\u0dca \u0d85\u0dc3\u0dd6\u0dc0\u0d9a\u0da7 \u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca \u0daf\u0dd6\u0dc2\u0dab \u0da0\u0ddd\u0daf\u0db1\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/62/62cabb1c.json"
+    "file_name": "/tmp/news_lk2/articles/38/383203da.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -254,6 +270,14 @@
     "original_lang": "en",
     "original_title": "Tea export volumes down 7.8 MnKgs in July",
     "file_name": "/tmp/news_lk2/articles/7d/7d30198f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/imf-team-in-sri-lanka-policy-talks-on-program-from-august-24-98798/",
+    "time_ut": 1660942140,
+    "original_lang": "en",
+    "original_title": "IMF team in Sri Lanka  policy talks on program from August 24",
+    "file_name": "/tmp/news_lk2/articles/d1/d12f202d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1249,11 +1273,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/world_news/\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0db1\u0dd2\u0dba\u0db8\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db1\u0dd2\u0db1\u0dca\u0daf-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0db4\u0dad\u0dba-\u0db8\u0d9f-\u0dc4\u0dd0\u0dbb\u0dd2\u0dbd\u0dcf/14-618404",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0db1\u0dd2\u0dba\u0db8\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db1\u0dd2\u0db1\u0dca\u0daf-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0db4\u0dad\u0dba-\u0db8\u0d9f-\u0dc4\u0dd0\u0dbb\u0dd2\u0dbd\u0dcf/1-618404",
     "time_ut": 1660900021,
     "original_lang": "si",
     "original_title": "\u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0db1\u0dd2\u0dba\u0db8\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0db1\u0dd2\u0db1\u0dca\u0daf \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0db4\u0dad\u0dba \u0db8\u0d9f \u0dc4\u0dd0\u0dbb\u0dd2\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/91/918e3091.json"
+    "file_name": "/tmp/news_lk2/articles/66/66d4e663.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/af/af3b93fb.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84315/three-hour-power-cuts-from-aug-16-19",
-    "time_ut": 1660557540,
-    "original_lang": "en",
-    "original_title": "Three-hour power cuts from Aug 16-19",
-    "file_name": "/tmp/news_lk2/articles/92/927547dc.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84315/pucsl-approves-three-hour-power-cuts-for-aug-16-19",
-    "time_ut": 1660557540,
-    "original_lang": "en",
-    "original_title": "PUCSL approves three-hour power cuts for Aug 16-19",
-    "file_name": "/tmp/news_lk2/articles/bd/bd434193.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-freedom-party-yet-to-decide-on-joining-all-party-govt-98650/",
-    "time_ut": 1660557480,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Freedom Party yet to decide on joining all-party govt",
-    "file_name": "/tmp/news_lk2/articles/11/116a020d.json"
   }
 ]
