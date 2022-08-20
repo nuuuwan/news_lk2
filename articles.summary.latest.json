@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/npp-launches-protest-march/",
+    "time_ut": 1660997100,
+    "original_lang": "en",
+    "original_title": "NPP launches protest march",
+    "file_name": "/tmp/news_lk2/articles/7d/7deb2703.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/public-assistance-sought-to-identify-50-temple-trees-trespassers/",
+    "time_ut": 1660996560,
+    "original_lang": "en",
+    "original_title": "Public assistance sought to identify 50 Temple Trees trespassers",
+    "file_name": "/tmp/news_lk2/articles/1a/1af084ad.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84424/traffic-in-nugegoda-due-to-npp-protest-march",
     "time_ut": 1660994280,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Revised postal charges effective from today",
     "file_name": "/tmp/news_lk2/articles/20/200f4392.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/S-P-pushes-Sri-Lankan-bonds-deeper-into-junk-territory-with-default-rating/342-243090",
-    "time_ut": 1660568303,
-    "original_lang": "en",
-    "original_title": "S&P pushes Sri Lankan bonds deeper into junk territory with \u2019default\u2019 rating",
-    "file_name": "/tmp/news_lk2/articles/16/165dcf51.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-laugfs-gas-makes-a-loss-of-94-pct-in-june-2022-quarter-98657/",
-    "time_ut": 1660568100,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s Laugfs Gas makes a loss of 94-pct in June 2022 quarter",
-    "file_name": "/tmp/news_lk2/articles/0a/0a69fa27.json"
   }
 ]
