@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Gazette-issued-to-maintain-Public-Security-Ordinance/342-243422",
+    "time_ut": 1660965372,
+    "original_lang": "en",
+    "original_title": "Gazette issued to maintain Public Security Ordinance",
+    "file_name": "/tmp/news_lk2/articles/84/84dd75b9.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bc8\u0b95\u0bcd-\u0b95\u0bcb\u0bb0\u0bc1\u0bae\u0bcd-\u0b90-\u0b8e\u0bae\u0bcd-\u0b8e\u0baa\u0bcd/175-302657",
+    "time_ut": 1660964563,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bc8\u0b95\u0bcd \u0b95\u0bcb\u0bb0\u0bc1\u0bae\u0bcd \u0b90.\u0b8e\u0bae\u0bcd.\u0b8e\u0baa\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b9/b9f79b84.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84417/maximum-retail-prices-imposed-on-eggs",
+    "time_ut": 1660963860,
+    "original_lang": "en",
+    "original_title": "Maximum retail prices imposed on eggs",
+    "file_name": "/tmp/news_lk2/articles/d6/d6db4afc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/IMF-eyes-creditor-assurances-as-it-prepares-Sri-Lanka-visit/108-243421",
+    "time_ut": 1660963821,
+    "original_lang": "en",
+    "original_title": "IMF eyes creditor assurances as it prepares Sri Lanka visit",
+    "file_name": "/tmp/news_lk2/articles/ec/ece53bcf.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1/175-302656",
+    "time_ut": 1660962946,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/48/4828d3ff.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dba\u0dd2-\u0d91\u0db8\u0dca-\u0d91\u0dc6\u0dca-\u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba\u0d9a\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-618440",
     "time_ut": 1660962732,
@@ -8,20 +48,20 @@
     "file_name": "/tmp/news_lk2/articles/f4/f44f7697.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dc3\u0db1\u0dca\u0dad-\u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0d9c\u0dda-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db4\u0dd0\u0dba-72\u0d9a\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0d9a\u0dbb\u0dba\u0dd2/11-396456",
+    "time_ut": 1660962352,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dc3\u0db1\u0dca\u0dad \u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0d9c\u0dda \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db4\u0dd0\u0dba 72\u0d9a\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/39/3940f8d1.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Notification-to-Airtel-subscribers-who-use-only-2G-3G-enabled-Mobile-Phones/108-243420",
     "time_ut": 1660962167,
     "original_lang": "en",
     "original_title": "Notification to Airtel subscribers who use only 2G, 3G enabled Mobile Phones",
     "file_name": "/tmp/news_lk2/articles/05/053b18e4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84416/imf-eyes-creditor-assurances-as-it-prepares-sri-lanka-visit",
-    "time_ut": 1660962120,
-    "original_lang": "en",
-    "original_title": "IMF eyes creditor assurances as it prepares Sri Lanka visit",
-    "file_name": "/tmp/news_lk2/articles/52/52d5effe.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -57,19 +97,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Land-Value-Indicator-of-Colombo-district-expands-by-17-in-1H22/108-243417",
+    "url": "https://www.dailymirror.lk/latest_news/Land-Value-Indicator-of-Colombo-district-expands-by-17-in-1H22/342-243417",
     "time_ut": 1660944049,
     "original_lang": "en",
     "original_title": "Land Value Indicator of Colombo district expands by 17% in 1H22",
-    "file_name": "/tmp/news_lk2/articles/85/853ffe20.json"
+    "file_name": "/tmp/news_lk2/articles/aa/aac50905.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Tea-export-volumes-down-7-8-MnKgs-in-July/108-243412",
+    "url": "https://www.dailymirror.lk/business-news/Tea-export-volumes-down-7-8-MnKgs-in-July/273-243412",
     "time_ut": 1660943696,
     "original_lang": "en",
     "original_title": "Tea export volumes down 7.8 MnKgs in July",
-    "file_name": "/tmp/news_lk2/articles/3f/3f5bdc35.json"
+    "file_name": "/tmp/news_lk2/articles/7d/7d30198f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -334,6 +374,14 @@
     "original_lang": "en",
     "original_title": "Govt officials\u2019 foreign employment and referral program expedited",
     "file_name": "/tmp/news_lk2/articles/83/83f28e0a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Cabinet-to-be-sworn-in-next-week/108-243384",
+    "time_ut": 1660928776,
+    "original_lang": "en",
+    "original_title": "Cabinet to be sworn  in next week",
+    "file_name": "/tmp/news_lk2/articles/51/5113c42c.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "India officially hands over Dornier 228 Maritime Patrol Aircraft",
     "file_name": "/tmp/news_lk2/articles/0e/0e5384b2.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0db1\u0ddc\u0dc0\u0dda-\u0db8\u0dd9\u0dc0\u0db1\u0dca-\u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dba\u0dd9\u0d9a\u0dca-\u0dbd\u0ddc\u0dc0\u0dda/2-618134",
-    "time_ut": 1660550816,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0ddc\u0dc0\u0dda \u0db8\u0dd9\u0dc0\u0db1\u0dca \u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dba\u0dd9\u0d9a\u0dca \u0dbd\u0ddc\u0dc0\u0dda",
-    "file_name": "/tmp/news_lk2/articles/bd/bdb00cce.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-receives-Dornier-228-Aircraft-donated-by-India/108-243079",
-    "time_ut": 1660550627,
-    "original_lang": "en",
-    "original_title": "SL receives Dornier 228 Aircraft donated by India",
-    "file_name": "/tmp/news_lk2/articles/fa/fae6a939.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba-\u0dc3\u0db8\u0d9c-\u0dbd\u0dd2\u0db4\u0dd2-\u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4-\u0dad\u0dc4\u0db1\u0db8\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/101-618132",
-    "time_ut": 1660550133,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba \u0dc3\u0db8\u0d9c \u0dbd\u0dd2\u0db4\u0dd2 \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4 \u0dad\u0dc4\u0db1\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f5/f5513440.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4-\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dbd\u0da7-\u0db1\u0dcf\u0db8\u0dba\u0ddd\u0da2\u0db1\u0dcf-\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0db8\u0dc4-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0db4\u0d9a\u0dca\u0dc2\u0dc0\u0dbd\u0da7-\u0daf\u0db1\u0dca\u0dc0\u0dba\u0dd2/101-618131",
-    "time_ut": 1660549854,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dbd\u0da7 \u0db1\u0dcf\u0db8\u0dba\u0ddd\u0da2\u0db1\u0dcf \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0db8\u0dc4 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0db4\u0d9a\u0dca\u0dc2\u0dc0\u0dbd\u0da7 \u0daf\u0db1\u0dca\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/9b/9b9dba81.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd2\u0dc0\u0dc3\u0d9a\u0dd2\u0db1\u0dca-\u0dbd\u0d9a\u0dca\u0dc2-42\u0d9a\u0dca-\u0dc3\u0ddc\u0dbb\u0dcf\u0d9c\u0dad\u0dca-\u0db8\u0dd9\u0dc4\u0dd9\u0d9a\u0dcf\u0dbb\u0dd2\u0dba-\u0daf\u0dd0\u0dbd\u0dda/101-618129",
-    "time_ut": 1660549579,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd2\u0dc0\u0dc3\u0d9a\u0dd2\u0db1\u0dca \u0dbd\u0d9a\u0dca\u0dc2 42\u0d9a\u0dca \u0dc3\u0ddc\u0dbb\u0dcf\u0d9c\u0dad\u0dca \u0db8\u0dd9\u0dc4\u0dd9\u0d9a\u0dcf\u0dbb\u0dd2\u0dba \u0daf\u0dd0\u0dbd\u0dda",
-    "file_name": "/tmp/news_lk2/articles/2b/2b88fc20.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Opposition-nominates-Eran-Kabir-as-COPE-COPA-heads/342-243078",
-    "time_ut": 1660549578,
-    "original_lang": "en",
-    "original_title": "Opposition nominates Eran, Kabir as COPE, COPA heads",
-    "file_name": "/tmp/news_lk2/articles/64/64868e50.json"
   }
 ]

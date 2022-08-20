@@ -1,0 +1,732 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/latest_news/Notification-to-Airtel-subscribers-who-use-only-2G-3G-enabled-Mobile-Phones/342-243420",
+  "time_ut": 1660962167,
+  "original_lang": "en",
+  "original_title": "Notification to Airtel subscribers who use only 2G, 3G enabled Mobile Phones",
+  "text_idx": {
+    "en": {
+      "title": "Notification to Airtel subscribers who use only 2G, 3G enabled Mobile Phones",
+      "author": "unknown",
+      "body_lines": [
+        "The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has granted permission to Bharti Airtel Lanka (Pvt) Ltd (Airtel) to shut down their 3G mobile network by June 24, 2022.",
+        "While issuing a public notice, the TRCSL said with the sunset of the 3G network, the 3G connectivity of Airtel subscribers who use only 2G and 3G enabled mobile phones would be disconnected automatically after the scheduled date of network shut down.",
+        "Airtel's 2G network will continue to operate normally, and voice and text message connectivity will be available to all 2G and 3G customers.",
+        "The 3G shutdown is primarily intended to utilize the existing frequencies to deploy 4G services that offer better speed and capacity.",
+        "A timeline of 15 months has been given to Airtel to avoid service disruptions that might be experienced at the end of the transition period due to the shutdown of their 3G network.",
+        "Airtel is obliged to absorb at least 90% of its 3G subscriber base into its 4G network during the transition phase, subject to the following conditions.",
+        "1. Conduct public awareness campaigns to encourage Airtel subscribers to migrate to the 4G network before the 3G network is decommissioned.",
+        "2. Take every endeavour to provide 4G handsets for its 3G subscribers at subsidized rates on installment basis",
+        "3. Drive the transition by offering incentives such as a series of different promotions, an impressive tariff package for the first six months.",
+        "4. Notify its 3G subscribers via SMS at regular intervals to upgrade to 4G-enabled handsets before the deadline.",
+        "If you are an Airtel subscriber who is still using a 2G or 3G enabled phone, you may contact Airtel over the short code 780 immediately to obtain the 4G connectivity together with a new mobile phone under concessionary terms.",
+        "Please note that you will only be able to enjoy this concession until June 1, 2022.",
+        "If you have encountered any difficulty in obtaining a 4G mobile phone during the said time limit, you may lodge a complaint with this Commission, the TRCSL Director General said. (Chaturanga Samarawickrama)"
+      ],
+      "title_ents": [
+        {
+          "text": "only 2",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "3",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Mobile Phones",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The Telecommunications Regulatory Commission of Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "Bharti Airtel Lanka",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Airtel",
+            "label": "ORG"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "June 24, 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "TRCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Airtel",
+            "label": "ORG"
+          },
+          {
+            "text": "only 2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Airtel",
+            "label": "ORG"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "15 months",
+            "label": "DATE"
+          },
+          {
+            "text": "Airtel",
+            "label": "ORG"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Airtel",
+            "label": "ORG"
+          },
+          {
+            "text": "at least 90%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Airtel",
+            "label": "ORG"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the first six months",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4G",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Airtel",
+            "label": "ORG"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Airtel",
+            "label": "ORG"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "June 1, 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "TRCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "Chaturanga Samarawickrama",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "2G, 3G \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0db4\u0db8\u0dab\u0d9a\u0dca \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dbb\u0db1 Airtel \u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0daf\u0dd3\u0db8",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc3\u0d82\u0daf\u0dda\u0dc1 \u0db1\u0dd2\u0dba\u0dcf\u0db8\u0db1 \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0 (TRCSL) \u0db7\u0dcf\u0dbb\u0dad\u0dd3 \u0d91\u0dba\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0dbd\u0dca \u0dbd\u0d82\u0d9a\u0dcf (\u0db4\u0dca\u200d\u0dbb\u0dba\u0dd2\u0dc0\u0da7\u0dca) \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca (\u0d91\u0dba\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0dbd\u0dca) \u0dc0\u0dd9\u0dad \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda 3G \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0da2\u0dcf\u0dbd\u0dba 2022 \u0da2\u0dd4\u0db1\u0dd2 24 \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0dc0\u0dc3\u0dcf \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dbb \u0dbd\u0db6\u0dcf \u0daf\u0dd3 \u0d87\u0dad.",
+        "\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dd2\u0daf\u0dca\u0db0 \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca TRCSL \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda 3G \u0da2\u0dcf\u0dbd\u0dba\u0dda \u0dc4\u0dd2\u0dbb\u0dd4 \u0db6\u0dd0\u0dc3 \u0dba\u0dd1\u0db8\u0dad\u0dca \u0dc3\u0db8\u0d9f 2G \u0dc3\u0dc4 3G \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0db4\u0db8\u0dab\u0d9a\u0dca \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dbb\u0db1 Airtel \u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dda 3G \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dad\u0dcf\u0dc0\u0dba \u0da2\u0dcf\u0dbd\u0dba \u0dc0\u0dc3\u0dcf \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0dda \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0daf\u0dd2\u0db1\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0dc3\u0dca\u0dc0\u0dba\u0d82\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba\u0dc0 \u0dc0\u0dd2\u0dc3\u0db1\u0dca\u0db0\u0dd2 \u0dc0\u0db1 \u0db6\u0dc0\u0dba\u0dd2.",
+        "Airtel \u0dc4\u0dd2 2G \u0da2\u0dcf\u0dbd\u0dba \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db4\u0dbb\u0dd2\u0daf\u0dd2 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0db1 \u0d85\u0dad\u0dbb, \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 2G \u0dc3\u0dc4 3G \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0dc4\u0dac \u0dc3\u0dc4 \u0d9a\u0dd9\u0da7\u0dd2 \u0db4\u0dab\u0dd2\u0dc0\u0dd2\u0da9 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dad\u0dcf\u0dc0 \u0dbd\u0db6\u0dcf \u0d9c\u0dad \u0dc4\u0dd0\u0d9a.",
+        "3G \u0dc0\u0dc3\u0dcf \u0daf\u0dd0\u0db8\u0dd3\u0db8 \u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d85\u0daf\u0dc4\u0dc3\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda \u0dc0\u0da9\u0dcf \u0dc4\u0ddc\u0db3 \u0dc0\u0dda\u0d9c\u0dba\u0d9a\u0dca \u0dc3\u0dc4 \u0db0\u0dcf\u0dbb\u0dd2\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0db1 4G \u0dc3\u0dda\u0dc0\u0dcf \u0dba\u0dd9\u0daf\u0dc0\u0dd3\u0db8\u0da7 \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dad \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dba\u0dd2.",
+        "\u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda 3G \u0da2\u0dcf\u0dbd\u0dba \u0dc0\u0dc3\u0dcf \u0daf\u0dd0\u0db8\u0dd3\u0db8 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dd2 \u0d9a\u0dcf\u0dbd\u0dba \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0dda \u0d85\u0dad\u0dca\u0dc0\u0dd2\u0db3\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0dc3\u0dda\u0dc0\u0dcf \u0db6\u0dcf\u0db0\u0dcf \u0dc0\u0dc5\u0d9a\u0dca\u0dc0\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d91\u0dba\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0dbd\u0dca \u0dc0\u0dd9\u0dad \u0db8\u0dcf\u0dc3 15 \u0d9a \u0d9a\u0dcf\u0dbd \u0dbb\u0dcf\u0db8\u0dd4\u0dc0\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd3 \u0d87\u0dad.",
+        "\u0d91\u0dba\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0dbd\u0dca \u0db4\u0dc4\u0dad \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2 \u0dc0\u0dbd\u0da7 \u0dba\u0da7\u0dad\u0dca\u0dc0 \u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dd2 \u0d85\u0dc0\u0db0\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0d91\u0dc4\u0dd2 3G \u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a \u0db4\u0daf\u0db1\u0db8\u0dd9\u0db1\u0dca \u0d85\u0dc0\u0db8 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca 90%\u0d9a\u0dca \u0dad\u0db8 4G \u0da2\u0dcf\u0dbd\u0dba\u0da7 \u0d85\u0dc0\u0dc1\u0ddd\u0dc2\u0dab\u0dba \u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0db6\u0dd0\u0db3\u0dd3 \u0dc3\u0dd2\u0da7\u0dd3.",
+        "1. 3G \u0da2\u0dcf\u0dbd\u0dba \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db4\u0dd9\u0dbb 4G \u0da2\u0dcf\u0dbd\u0dba\u0da7 \u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba \u0dc0\u0dd3\u0db8\u0da7 \u0d91\u0dba\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0dbd\u0dca \u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0daf\u0dd2\u0dbb\u0dd2\u0db8\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dc4\u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0daf\u0dd0\u0db1\u0dd4\u0dc0\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8.",
+        "2. \u0dc0\u0dcf\u0dbb\u0dd2\u0d9a \u0db4\u0daf\u0db1\u0db8 \u0db8\u0dad \u0dc3\u0dc4\u0db1\u0daf\u0dcf\u0dba\u0dd3 \u0db8\u0dd2\u0dbd \u0d9c\u0dab\u0db1\u0dca \u0dba\u0da7\u0dad\u0dda \u0d91\u0dc4\u0dd2 3G \u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf 4G \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8\u0da7 \u0dc3\u0dd1\u0db8 \u0d8b\u0dad\u0dca\u0dc3\u0dcf\u0dc4\u0dba\u0d9a\u0dca\u0db8 \u0d9c\u0db1\u0dca\u0db1.",
+        "3. \u0dc0\u0dd2\u0dc0\u0dd2\u0db0 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca, \u0db4\u0dc5\u0db8\u0dd4 \u0db8\u0dcf\u0dc3 \u200b\u200b\u0dc4\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0d86\u0d9a\u0dbb\u0dca\u0dc2\u0dab\u0dd3\u0dba \u0dad\u0dd3\u0dbb\u0dd4\u0db6\u0daf\u0dd4 \u0db4\u0dd0\u0d9a\u0dda\u0da2\u0dba\u0d9a\u0dca \u0dc0\u0dd0\u0db1\u0dd2 \u0daf\u0dd2\u0dbb\u0dd2\u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0dd0\u0db8\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dd2\u0dba \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dc0\u0db1\u0dca\u0db1.",
+        "4. \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0daf\u0dd2\u0db1\u0da7 \u0db4\u0dd9\u0dbb 4G-\u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0dc0\u0dd9\u0dad \u0d8b\u0dad\u0dca\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d91\u0dc4\u0dd2 3G \u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0d9a\u0dd9\u0da7\u0dd2 \u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9 \u0dc4\u0dbb\u0dc4\u0dcf \u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1.",
+        "\u0d94\u0db6 \u0dad\u0dc0\u0db8\u0dad\u0dca 2G \u0dc4\u0ddd 3G \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1\u0dba\u0d9a\u0dca \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dbb\u0db1 Airtel \u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dd9\u0d9a\u0dca \u0db1\u0db8\u0dca, \u0dc3\u0dc4\u0db1\u0daf\u0dcf\u0dba\u0dd3 \u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2 \u0dba\u0da7\u0dad\u0dda \u0db1\u0dc0 \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0d9f 4G \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dad\u0dcf\u0dc0\u0dba \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d94\u0db6\u0da7 \u0dc0\u0dc4\u0dcf\u0db8 780 \u0d9a\u0dd9\u0da7\u0dd2 \u0d9a\u0dda\u0dad\u0dba \u0dc4\u0dbb\u0dc4\u0dcf Airtel \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0d9a\u0dbb \u0d9c\u0dad \u0dc4\u0dd0\u0d9a.",
+        "\u0d94\u0db6\u0da7 \u0db8\u0dd9\u0db8 \u0dc3\u0dc4\u0db1\u0dba \u0db7\u0dd4\u0d9a\u0dca\u0dad\u0dd2 \u0dc0\u0dd2\u0db3\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dca\u0d9a\u0dda 2022 \u0da2\u0dd6\u0db1\u0dd2 1 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0db8\u0dab\u0d9a\u0dca \u0db6\u0dc0 \u0d9a\u0dbb\u0dd4\u0dab\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0dbd\u0d9a\u0db1\u0dca\u0db1.",
+        "\u0d91\u0db8 \u0d9a\u0dcf\u0dbd \u0dc3\u0dd3\u0db8\u0dcf\u0dc0 \u0dad\u0dd4\u0dc5 \u0d94\u0db6\u0da7 4G \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda\u0daf\u0dd3 \u0d9a\u0dd2\u0dc3\u0dd2\u0dba\u0db8\u0dca \u0daf\u0dd4\u0dc2\u0dca\u0d9a\u0dbb\u0dad\u0dcf\u0dc0\u0dba\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0dc0\u0dd3 \u0d87\u0dad\u0dca\u0db1\u0db8\u0dca, \u0d94\u0db6\u0da7 \u0db8\u0dd9\u0db8 \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dd2 \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0db6\u0dc0 TRCSL \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca\u0dc0\u0dbb\u0dba\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba. (\u0da0\u0dad\u0dd4\u0dbb\u0d82\u0d9c \u0dc3\u0db8\u0dbb\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8)"
+      ],
+      "title_ents": [
+        {
+          "text": "2 \u0db4\u0db8\u0dab\u0dd2",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "3",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc3\u0d82\u0daf\u0dda\u0dc1 \u0db1\u0dd2\u0dba\u0dcf\u0db8\u0db1 \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db7\u0dcf\u0dbb\u0dad\u0dd3 \u0d91\u0dba\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0dbd\u0dca \u0dbd\u0d82\u0d9a\u0dcf",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0d91\u0dba\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2022 \u0da2\u0dd6\u0db1\u0dd2 24",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "TRCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d91\u0dba\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "2 \u0db4\u0db8\u0dab\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0dba\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dcf\u0dc3 15 \u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d91\u0dba\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0dba\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0db8 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca 90%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d91\u0dba\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4 \u0db8\u0dcf\u0dc3 \u200b\u200b\u0dc4\u0dba",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4G",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0dba\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d91\u0dba\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2 1, 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "TRCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da0\u0dad\u0dd4\u0dbb\u0d82\u0d9c \u0dc3\u0db8\u0dbb\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "2\u0b9c\u0bbf, 3\u0b9c\u0bbf \u0bb5\u0b9a\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0bae\u0bca\u0baa\u0bc8\u0bb2\u0bcd \u0baa\u0bcb\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bca\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1 \u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8 \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd (TRCSL) \u0baa\u0bbe\u0bb0\u0ba4\u0bbf \u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd \u0bb2\u0b99\u0bcd\u0b95\u0bbe (\u0baa\u0bbf\u0bb0\u0bc8\u0bb5\u0bc7\u0b9f\u0bcd) \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd (\u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd) \u0b95\u0bcd\u0b95\u0bc1 \u0b9c\u0bc2\u0ba9\u0bcd 24, 2022 \u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd 3G \u0bae\u0bca\u0baa\u0bc8\u0bb2\u0bcd \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc8 \u0bae\u0bc2\u0b9f\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0baa\u0bca\u0ba4\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, \u200b\u200bTRCSL 3G \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd \u0b9a\u0bc2\u0bb0\u0bbf\u0baf \u0b85\u0bb8\u0bcd\u0ba4\u0bae\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd, 2G \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 3G \u0b87\u0baf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bca\u0baa\u0bc8\u0bb2\u0bcd \u0baa\u0bcb\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd 3G \u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba4\u0bc7\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0ba4\u0bbe\u0ba9\u0bbe\u0b95\u0bb5\u0bc7 \u0ba4\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd.",
+        "\u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf\u0ba9\u0bcd 2\u0b9c\u0bbf \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0b95 \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb0\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc1\u0b9e\u0bcd\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf \u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 2\u0b9c\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 3\u0b9c\u0bbf \u0bb5\u0bbe\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd.",
+        "3G \u0baa\u0ba3\u0bbf\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0bae\u0bc1\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0b95 \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0bb5\u0bc7\u0b95\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb1\u0ba9\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd 4G \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bc8 \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b8f\u0bb1\u0bcd\u0b95\u0ba9\u0bb5\u0bc7 \u0b89\u0bb3\u0bcd\u0bb3 \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc8 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf\u0ba9\u0bcd 3\u0b9c\u0bbf \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0b9a\u0bc7\u0bb5\u0bc8 \u0b87\u0b9f\u0bc8\u0baf\u0bc2\u0bb1\u0bc1\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0bb5\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95 15 \u0bae\u0bbe\u0ba4 \u0b95\u0bbe\u0bb2 \u0b85\u0bb5\u0b95\u0bbe\u0b9a\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd \u0b85\u0ba4\u0ba9\u0bcd 3G \u0b9a\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 90% \u0b90 \u0b85\u0ba4\u0ba9\u0bcd 4G \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0b95\u0bcd \u0b95\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0baa\u0bbf\u0ba9\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0baa\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0b9f\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "1. \u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd 3\u0b9c\u0bbf \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd 4\u0b9c\u0bbf \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd.",
+        "2. \u0b85\u0ba4\u0ba9\u0bcd 3G \u0b9a\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 4G \u0b95\u0bc8\u0baa\u0bc7\u0b9a\u0bbf\u0b95\u0bb3\u0bc8 \u0ba4\u0bb5\u0ba3\u0bc8 \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0ba9\u0bbf\u0baf \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+        "3. \u0baa\u0bb2\u0bcd\u0bb5\u0bc7\u0bb1\u0bc1 \u0b9a\u0bb2\u0bc1\u0b95\u0bc8\u0b95\u0bb3\u0bcd, \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b86\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b88\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0b95\u0b9f\u0bcd\u0b9f\u0ba3 \u0ba4\u0bca\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bcb\u0ba9\u0bcd\u0bb1 \u0b9a\u0bb2\u0bc1\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd.",
+        "4. \u0b95\u0bbe\u0bb2\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd 4G-\u0b87\u0baf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bc8\u0baa\u0bc7\u0b9a\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4, \u0b85\u0ba4\u0ba9\u0bcd 3G \u0b9a\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba9 \u0b87\u0b9f\u0bc8\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd SMS \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd.",
+        "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bbe\u0bb0\u0bb0\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1, \u0b87\u0ba9\u0bcd\u0ba9\u0bc1\u0bae\u0bcd 2\u0b9c\u0bbf \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 3\u0b9c\u0bbf \u0bb5\u0b9a\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0b83\u0baa\u0bcb\u0ba9\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd, \u0b9a\u0bb2\u0bc1\u0b95\u0bc8 \u0bb5\u0bbf\u0ba4\u0bbf\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bae\u0bca\u0baa\u0bc8\u0bb2\u0bcd \u0b83\u0baa\u0bcb\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd 4\u0b9c\u0bbf \u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1, \u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95 780 \u0b8e\u0ba9\u0bcd\u0bb1 \u0b9a\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bc1 \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bb2\u0bbe\u0bae\u0bcd.",
+        "\u0b87\u0ba8\u0bcd\u0ba4\u0b9a\u0bcd \u0b9a\u0bb2\u0bc1\u0b95\u0bc8\u0baf\u0bc8 \u0b9c\u0bc2\u0ba9\u0bcd 1, 2022 \u0bb5\u0bb0\u0bc8 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc8 \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bb5\u0bc1\u0bae\u0bcd.",
+        "\u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f \u0b95\u0bbe\u0bb2\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd 4G \u0bae\u0bca\u0baa\u0bc8\u0bb2\u0bcd \u0baa\u0bcb\u0ba9\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0ba4\u0bc7\u0ba9\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb0\u0bae\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd, \u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0b95\u0bbe\u0bb0\u0bcd \u0b85\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd \u0b8e\u0ba9 TRCSL \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. (\u0b9a\u0ba4\u0bc1\u0bb0\u0b99\u0bcd\u0b95 \u0b9a\u0bae\u0bb0\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae)"
+      ],
+      "title_ents": [
+        {
+          "text": "2 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "3",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b95\u0bc8\u0baf\u0b9f\u0b95\u0bcd\u0b95 \u0ba4\u0bc6\u0bbe\u0bb2\u0bc8\u0baa\u0bc7\u0b9a\u0bbf\u0b95\u0bb3\u0bcd",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bca\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1 \u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8 \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bbf \u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd \u0bb2\u0b99\u0bcd\u0b95\u0bbe",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 24, 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "TRCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "2 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "15 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 90%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b86\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4\u0b9c\u0bbf",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b8f\u0bb0\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 1, 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "TRCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0ba4\u0bc1\u0bb0\u0b99\u0bcd\u0b95 \u0b9a\u0bae\u0bb0\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
