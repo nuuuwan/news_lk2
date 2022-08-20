@@ -1,26 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 01:22:46 (LK time)*
+*As of 2022-08-21 01:40:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (7 Articles)
+## Last 3 Hours (5 Articles)
 
 * **2** tamil-mirror-lk ([அமைச்சர் பந்துல யாழ்ப்பாணத்தில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76567d97.json))
 
-* **2** ada-derana-lk ([Austria donates consignment of essential medicines to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26c40800.json))
-
-* **2** lankadeepa-lk ([සපුගස්කන්ද යළි වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3eaf05e.json))
+* **1** ada-derana-lk ([Ten U.S. congressmen urge additional support for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a110f6db.json))
 
 * **1** daily-mirror-lk ([SL aims to welcome 1 million tourists this year; Harin Fernando](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/826aa719.json))
 
-## Last 24 Hours (119 Articles)
+* **1** lankadeepa-lk ([ඩලස්ලාගේ ගමන අපුරෙන් අරඹයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f6f5c60.json))
+
+## Last 24 Hours (117 Articles)
 
 * **21** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
 
-* **20** tamil-mirror-lk ([ஆர்ப்பாட்டக்காரர்கள் 90 நாட்களுக்கு தடுத்துவைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00b5fd48.json))
-
 * **19** lankadeepa-lk ([පළාත් කීපයකට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b330ad54.json))
+
+* **18** tamil-mirror-lk ([முன்னாள் ஜனாதிபதியின் வீட்டுக்கு பலத்த பாதுகாப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/4828d3ff.json))
 
 * **15** ada-derana-lk ([Parts of the island to receive spells of showers today](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/5978dd6a.json))
 
