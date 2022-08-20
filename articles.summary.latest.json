@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd-\u0ba4\u0bbe\u0baf\u0bcd\u0bae\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302685",
+    "time_ut": 1660997655,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bbe\u0baf\u0bcd\u0bae\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/8b/8b3a03da.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84425/amnesty-international-urges-sri-lankan-govt-to-stop-using-pta-against-protesters",
+    "time_ut": 1660997640,
+    "original_lang": "en",
+    "original_title": "Amnesty International urges Sri Lankan govt to stop using PTA against protesters",
+    "file_name": "/tmp/news_lk2/articles/ce/ce5baa52.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/20/npp-launches-protest-march/",
     "time_ut": 1660997100,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "India and Sri Lanka two sides of the same coin, must forge ahead together \u2013President",
     "file_name": "/tmp/news_lk2/articles/9d/9d1eeac2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/UK-becomes-the-first-country-to-approve-a-dual-Covid-vaccine-targeting-omicron/108-243093",
-    "time_ut": 1660569894,
-    "original_lang": "en",
-    "original_title": "UK becomes the first country to approve a dual Covid vaccine targeting omicron",
-    "file_name": "/tmp/news_lk2/articles/01/01a41388.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84320/revised-postal-charges-effective-from-today",
-    "time_ut": 1660568640,
-    "original_lang": "en",
-    "original_title": "Revised postal charges effective from today",
-    "file_name": "/tmp/news_lk2/articles/20/200f4392.json"
   }
 ]
