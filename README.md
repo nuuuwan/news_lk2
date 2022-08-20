@@ -1,30 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 22:10:33 (LK time)*
+*As of 2022-08-20 22:28:03 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (4 Articles)
 
-* **2** lankadeepa-lk ([ලාෆ් ගෑස් තව අඩු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edcdc09b.json))
+* **4** lankadeepa-lk ([අරලියගහ මැදුරෙන් බඩු සොරාගත් අයෙක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6befe9a6.json))
 
-## Last Hour (5 Articles)
-
-* **5** lankadeepa-lk ([නාන තටාකයට වැටී තරුණියක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dc304f5.json))
-
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (10 Articles)
 
 * **5** lankadeepa-lk ([නාන තටාකයට වැටී තරුණියක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dc304f5.json))
-
-* **3** news-first-lk ([Sapugaskanda recommences operations](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed010a7a.json))
 
 * **2** tamil-mirror-lk ([50 பேர் தொடர்பில் பொலிஸார் விடுத்துள்ள அவசர செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/656af8d7.json))
 
-* **2** daily-mirror-lk ([CID record statements from Dulanjalee Premadasa and Hirunika](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a42f909.json))
+* **2** news-first-lk ([Dullas, G.L. visit Anuradhapura](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3f482e5.json))
 
 * **1** economy-next-com ([Sri Lanka to get UN’s support to achieve 2030 agenda for sustainable development](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623faa.json))
-
-* **1** ada-derana-lk ([Sapugaskanda Refinery resumes operations](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a97aa9f4.json))
 
 ## Last 24 Hours (140 Articles)
 
