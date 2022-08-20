@@ -25,6 +25,14 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-90-\u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-302654",
+    "time_ut": 1660939189,
+    "original_lang": "ta",
+    "original_title": "\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd 90 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/00/00b5fd48.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a-\u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd/175-302653",
     "time_ut": 1660938258,
     "original_lang": "ta",
@@ -238,6 +246,14 @@
     "original_lang": "en",
     "original_title": "Govt officials\u2019 foreign employment and referral program expedited",
     "file_name": "/tmp/news_lk2/articles/83/83f28e0a.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/textile-maker-teejay-knits-strong-start-to-2022-23/",
+    "time_ut": 1660927140,
+    "original_lang": "en",
+    "original_title": "Textile maker Teejay knits strong start to 2022-23",
+    "file_name": "/tmp/news_lk2/articles/b4/b4ae7a38.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc4\u0dd9\u0da7 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/fb/fbe1dfa8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/15/power-cuts-to-be-extended-from-tuesday-16/",
-    "time_ut": 1660547040,
-    "original_lang": "en",
-    "original_title": "Power Cuts to be extended from Tuesday (16)",
-    "file_name": "/tmp/news_lk2/articles/31/31740832.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/15/india-hands-over-dornier-reconnaissance-aircraft-to-sri-lanka/",
-    "time_ut": 1660547040,
-    "original_lang": "en",
-    "original_title": "India hands over Dornier Reconnaissance Aircraft to Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/a1/a155bd93.json"
   }
 ]
