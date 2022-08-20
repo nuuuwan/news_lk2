@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 01:09:28 (LK time)*
+*As of 2022-08-21 01:22:46 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (2 Articles)
-
-* **1** tamil-mirror-lk ([எரிசக்தி அமைச்சரின் முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84b34724.json))
-
-* **1** ada-derana-lk ([Ten U.S. congressmen urge additional support for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a110f6db.json))
 
 ## Last 3 Hours (7 Articles)
 
@@ -20,11 +14,11 @@
 
 * **1** daily-mirror-lk ([SL aims to welcome 1 million tourists this year; Harin Fernando](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/826aa719.json))
 
-## Last 24 Hours (124 Articles)
-
-* **21** tamil-mirror-lk ([’சர்வதேச முதலீடுகளுக்கு தேசிய பாதுகாப்பு அவசியம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28a14ac.json))
+## Last 24 Hours (119 Articles)
 
 * **21** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
+
+* **20** tamil-mirror-lk ([ஆர்ப்பாட்டக்காரர்கள் 90 நாட்களுக்கு தடுத்துவைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00b5fd48.json))
 
 * **19** lankadeepa-lk ([පළාත් කීපයකට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b330ad54.json))
 
@@ -37,8 +31,6 @@
 * **11** economy-next-com ([IMF team in Sri Lanka  policy talks on program from August 24](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d12f202d.json))
 
 * **5** colombo-telegraph-com ([Country Has Fallen Due To The Socialist Thinking](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d3ca26d.json))
-
-* **4** daily-ft-lk ([UN ‘appalled’ by Saudi 34-year sentence over tweets](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6edf018.json))
 
 ## Last Week (1,361 Articles)
 
