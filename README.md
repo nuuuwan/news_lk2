@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 03:09:51 (LK time)*
+*As of 2022-08-21 03:22:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 3 Hours (2 Articles)
-
-* **1** tamil-mirror-lk ([எரிசக்தி அமைச்சரின் முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84b34724.json))
-
-* **1** ada-derana-lk ([Ten U.S. congressmen urge additional support for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a110f6db.json))
 
 ## Last 24 Hours (111 Articles)
 
