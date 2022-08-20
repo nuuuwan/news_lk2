@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/mrp-for-eggs-gazette-issued/",
+    "time_ut": 1660969680,
+    "original_lang": "en",
+    "original_title": "MRP for eggs, gazette issued",
+    "file_name": "/tmp/news_lk2/articles/cb/cbc58ddc.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/stop-using-terrorism-act-amnesty-appeals-from-sri-lanka/",
+    "time_ut": 1660968960,
+    "original_lang": "en",
+    "original_title": "Stop using terrorism act, Amnesty appeals from Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/c8/c8023468.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/20/sri-lanka-president-calls-armed-forces-to-maintain-public-order/",
     "time_ut": 1660968240,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc4\u0dd9\u0da7 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0dda \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd3\u0db8\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/40/4079e825.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dda\u0dc1\u0dd3\u0dba-\u0db8\u0dad\u0dca\u0db4\u0dd0\u0db1\u0dca-\u0dc3\u0db3\u0dc4\u0dcf-\u0dc0\u0dd9\u0db1\u0db8-\u0d87\u0db4\u0dca-\u0d91\u0d9a\u0d9a\u0dca/101-618137",
-    "time_ut": 1660553974,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0db8\u0dad\u0dca\u0db4\u0dd0\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd9\u0db1\u0db8 \u0d87\u0db4\u0dca \u0d91\u0d9a\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/9d/9d7c4342.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db1\u0ddc\u0dbb\u0ddc\u0da0\u0dca\u0da0\u0ddd\u0dbd\u0dda-\u0db6\u0dd2\u0db3\u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0d9a\u0dca/11-396314",
-    "time_ut": 1660553579,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0ddc\u0dbb\u0ddc\u0da0\u0dca\u0da0\u0ddd\u0dbd\u0dda \u0db6\u0dd2\u0db3\u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/a3/a30e8f0a.json"
   }
 ]

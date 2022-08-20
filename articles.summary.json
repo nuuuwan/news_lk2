@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/mrp-for-eggs-gazette-issued/",
+    "time_ut": 1660969680,
+    "original_lang": "en",
+    "original_title": "MRP for eggs, gazette issued",
+    "file_name": "/tmp/news_lk2/articles/cb/cbc58ddc.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/stop-using-terrorism-act-amnesty-appeals-from-sri-lanka/",
+    "time_ut": 1660968960,
+    "original_lang": "en",
+    "original_title": "Stop using terrorism act, Amnesty appeals from Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/c8/c8023468.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/20/sri-lanka-president-calls-armed-forces-to-maintain-public-order/",
     "time_ut": 1660968240,
     "original_lang": "en",

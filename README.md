@@ -1,30 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 09:51:38 (LK time)*
+*As of 2022-08-20 10:10:50 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (2 Articles)
 
-* **2** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
+* **2** news-first-lk ([Stop using terrorism act, Amnesty appeals from Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8023468.json))
 
-## Last Hour (6 Articles)
+## Last Hour (5 Articles)
 
-* **2** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
+* **4** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
 
 * **1** ada-derana-lk ([Navy rescues 06 fishermen from distressed fishing trawler](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/647e49b4.json))
 
-* **1** lankadeepa-lk ([දේශපාලනඥයන් අසූවකට අල්ලස් දූෂණ චෝදනා](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62cabb1c.json))
+## Last 3 Hours (20 Articles)
 
-* **1** economy-next-com ([Sri Lanka Coconut prices continues to increase](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cc118c0.json))
-
-* **1** tamil-mirror-lk ([இலங்கைக்கு படையெடுக்கவுள்ள உயர்மட்ட அதிகாரிகள் குழு](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd304a07.json))
-
-## Last 3 Hours (19 Articles)
-
-* **4** lankadeepa-lk ([පළාත් කීපයකට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b330ad54.json))
+* **4** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
 
 * **3** ada-derana-lk ([Parts of the island to receive spells of showers today](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/5978dd6a.json))
+
+* **3** lankadeepa-lk ([බිත්තරවලට පාලන මිලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1393262c.json))
 
 * **3** tamil-mirror-lk ([முன்னாள் ஜனாதிபதியின் வீட்டுக்கு பலத்த பாதுகாப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/4828d3ff.json))
 
@@ -32,15 +28,13 @@
 
 * **3** ada-lk ([මහජන සාමය පවත්වාගෙන යාමට ජනපති ත්‍රිවිධ හමුදාව කැඳවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e879c799.json))
 
-* **2** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
-
 * **1** economy-next-com ([Sri Lanka Coconut prices continues to increase](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cc118c0.json))
 
-## Last 24 Hours (204 Articles)
+## Last 24 Hours (206 Articles)
 
 * **38** lankadeepa-lk ([පළාත් කිහිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff4a5b62.json))
 
-* **31** news-first-lk ([Liquor stores using unjust sales methods](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a050f3e.json))
+* **33** news-first-lk ([Liquor stores using unjust sales methods](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a050f3e.json))
 
 * **30** tamil-mirror-lk ([கால்வாயில் மீட்கப்பட்ட சடலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e8357eb.json))
 
@@ -58,11 +52,11 @@
 
 * **3** colombo-telegraph-com ([A Generational Shift To Face The Crisis In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49772f46.json))
 
-## Last Week (1,310 Articles)
+## Last Week (1,312 Articles)
 
 * **228** lankadeepa-lk ([පාඩු ලබද්දී බෝනස් ගෙවන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde0fb6.json))
 
-* **184** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
+* **186** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
 * **176** ada-lk ([සමාව ඉල්ලීමේ ලිපිවලට රංජන් අත්සන් තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d860073d.json))
 
@@ -82,7 +76,7 @@
 
 * **13** colombo-telegraph-com ([Ripples In The Indian Ocean: Yuan Wang 5 & Easter Sunday 2019](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/1100fecb.json))
 
-## All Time (1,740 Articles)
+## All Time (1,742 Articles)
 
 * **295** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -90,7 +84,7 @@
 
 * **234** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **184** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
+* **186** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
 * **153** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
