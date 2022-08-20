@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd2\u0dbb\u0dd4\u0dab\u0dd2\u0d9a\u0dcf-\u0dc3\u0dd3-\u0d85\u0dba\u0dd2-\u0da9\u0dd2\u0dba\u0da7/101-618449",
+    "time_ut": 1660989217,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd2\u0dbb\u0dd4\u0dab\u0dd2\u0d9a\u0dcf \u0dc3\u0dd3.\u0d85\u0dba\u0dd2.\u0da9\u0dd2\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/19/197b5a96.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Three-women-killed-18-injured-in-accident-in-Muthur/342-243426",
+    "time_ut": 1660988985,
+    "original_lang": "en",
+    "original_title": "Three women killed, 18 injured in accident in Muthur",
+    "file_name": "/tmp/news_lk2/articles/b5/b5377270.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb8\u0bb5\u0bc8-\u0bb5\u0bbf\u0b9f-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb8-\u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd-\u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd/175-302667",
     "time_ut": 1660987689,
@@ -206,6 +222,14 @@
     "original_lang": "ta",
     "original_title": "\u0bb5\u0bbf\u0baa\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8; \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/61/61460058.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bb5\u0bbf\u0baa\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf-\u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bae\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/72-302661",
+    "time_ut": 1660974278,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbf\u0baa\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8; \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/e5/e5f16b65.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -814,6 +838,14 @@
     "original_lang": "en",
     "original_title": "Fuel price reductions seen as a key to share market growth",
     "file_name": "/tmp/news_lk2/articles/40/400f09ba.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/19/10-congressmen-urge-blinken-to-use-all-diplomatic-means-to-ensure-citizens-rights-to-protest-are-protected/",
+    "time_ut": 1660925940,
+    "original_lang": "en",
+    "original_title": "10 Congressmen urge Blinken to use all diplomatic means to ensure citizens rights to protest are protected",
+    "file_name": "/tmp/news_lk2/articles/7b/7b396120.json"
   },
   {
     "newspaper_id": "news-first-lk",
