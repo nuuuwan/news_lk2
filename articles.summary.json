@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/slc-releases-squad-for-asia-cup-2022/",
+    "time_ut": 1660990920,
+    "original_lang": "en",
+    "original_title": "SLC releases squad for Asia Cup 2022",
+    "file_name": "/tmp/news_lk2/articles/31/31484193.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe/175-302669",
+    "time_ut": 1660990429,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/51/51fd5eea.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84422/three-killed-as-tractor-transporting-group-of-people-topples",
+    "time_ut": 1660990260,
+    "original_lang": "en",
+    "original_title": "Three killed as tractor transporting group of people topples",
+    "file_name": "/tmp/news_lk2/articles/39/394bced9.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd2\u0dbb\u0dd4\u0dab\u0dd2\u0d9a\u0dcf-\u0dc3\u0dd3-\u0d85\u0dba\u0dd2-\u0da9\u0dd2\u0dba\u0da7/101-618449",
     "time_ut": 1660989217,
@@ -96,6 +120,14 @@
     "file_name": "/tmp/news_lk2/articles/88/88c4fc9b.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dc0-\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba-\u0dbd\u0db6\u0db1-\u0dc3\u0dad\u0dd2\u0dba\u0dda\u0daf\u0dd3-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/11-396462",
+    "time_ut": 1660983540,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dc0 \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0dbd\u0db6\u0db1 \u0dc3\u0dad\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e3/e301afa7.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84421/hirunika-records-statement-with-cid",
     "time_ut": 1660982340,
@@ -185,11 +217,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Three-Indians-nabbed-with-gold-jewellery-worth-Rs-18mn/342-243423",
+    "url": "https://www.dailymirror.lk/breaking_news/Three-Indians-nabbed-with-gold-jewellery-worth-Rs-18mn/108-243423",
     "time_ut": 1660977190,
     "original_lang": "en",
     "original_title": "Three Indians nabbed with gold jewellery worth Rs.18mn",
-    "file_name": "/tmp/news_lk2/articles/2f/2f281cfb.json"
+    "file_name": "/tmp/news_lk2/articles/2f/2fde6c41.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
