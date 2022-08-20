@@ -1,24 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 20:44:19 (LK time)*
+*As of 2022-08-20 21:09:22 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** economy-next-com ([Sri Lanka to get UN’s support to achieve 2030 agenda for sustainable development](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623faa.json))
 
-## Last Hour (2 Articles)
-
-* **1** economy-next-com ([Sri Lanka to get UN’s support to achieve 2030 agenda for sustainable development](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623faa.json))
-
-* **1** tamil-mirror-lk ([திடீரென CIDக்கு அழைக்கப்பட்டார் சஜித்தின் சகோதரி; காரணம் என்ன?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5df65b4.json))
-
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (13 Articles)
 
 * **4** news-first-lk ([Sumanthiran condemns detention orders on protestors, calls for PTA to be repealed](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f3917ee.json))
 
-* **3** tamil-mirror-lk ([தேசிய மக்கள் சக்தியின் பேரணி ஆரம்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c0c4893.json))
+* **2** tamil-mirror-lk ([50 பேர் தொடர்பில் பொலிஸார் விடுத்துள்ள அவசர செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/656af8d7.json))
 
 * **2** daily-mirror-lk ([CID record statements from Dulanjalee Premadasa and Hirunika](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a42f909.json))
 
@@ -28,19 +22,19 @@
 
 * **1** economy-next-com ([Sri Lanka to get UN’s support to achieve 2030 agenda for sustainable development](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623faa.json))
 
-## Last 24 Hours (145 Articles)
+## Last 24 Hours (143 Articles)
 
 * **26** tamil-mirror-lk ([’மக்கள் உணரக்கூடிய நல்லிணக்கமே அவசியம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aecffbcf.json))
 
 * **26** news-first-lk ([Sri Lanka: Student Activists detained for 72 hours; Police want to use Terrorism Act for 3-month detention](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e095716.json))
 
-* **18** daily-mirror-lk ([Egg prices to come down by Rs.5 from Monday: Poultry Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/936ec36f.json))
+* **17** daily-mirror-lk ([Cabinet to be sworn  in next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/5113c42c.json))
 
 * **17** ada-derana-lk ([90-day detention order issued on two including IUSF convenor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a29d727a.json))
 
-* **14** ada-lk ([ජාතික ඉන්ධන බලපත්‍රය ක්‍රියාත්මක නොකළ ඉන්ධනහල් 12කට ඉන්ධන නොදෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26a3d00c.json))
-
 * **14** daily-ft-lk ([Dialog promotes best data plans for entire family](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f47911b1.json))
+
+* **13** ada-lk ([මහජන සාමය පවත්වාගෙන යාමට ජනපති ත්‍රිවිධ හමුදාව කැඳවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e879c799.json))
 
 * **13** lankadeepa-lk ([වසන්ත ඇතුළු දෙදෙනෙක් මාස තුනක් රඳවන් ප්‍රශ්න කිරීමට අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a953afc.json))
 
