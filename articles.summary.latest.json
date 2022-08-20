@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-customs-arrest-two-indians-suspect-of-smuggling-in-jewellery-98811/",
+    "time_ut": 1660979940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Customs arrest two Indians suspect of smuggling in jewellery",
+    "file_name": "/tmp/news_lk2/articles/e0/e01dff57.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/PCR-RAT-test-kits-are-limited-stringent-effort-to-control-spread-underway-Dr-Herath/342-243425",
+    "time_ut": 1660979375,
+    "original_lang": "en",
+    "original_title": "PCR, RAT test kits are limited; stringent effort to control spread underway: Dr. Herath",
+    "file_name": "/tmp/news_lk2/articles/8b/8be841a3.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bae\u0bbf\u0b95\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd-\u0bb5\u0bc8\u0bb0\u0bb8\u0bcd-\u0ba4\u0bbf\u0bb0\u0bbf\u0baa\u0bc1-\u0baa\u0bb1\u0bcd\u0bb1\u0bbf-\u0bb5\u0bbf\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-302664",
     "time_ut": 1660978097,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Jayanath Colombage approved as new ambassador to Indonesia",
     "file_name": "/tmp/news_lk2/articles/b7/b7e622e0.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/15/pns-taimur-leaves-sri-lanka/",
-    "time_ut": 1660560240,
-    "original_lang": "en",
-    "original_title": "PNS Taimur leaves Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/ae/aea2f190.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd9\u0da7-\u0dc3\u0dd2\u0da7-\u0db4\u0dd0\u0dba-03\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca/11-396319",
-    "time_ut": 1660559567,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0dd9\u0da7 \u0dc3\u0dd2\u0da7 \u0db4\u0dd0\u0dba 03\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/8c/8cfe1307.json"
   }
 ]
