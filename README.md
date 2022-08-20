@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 02:43:03 (LK time)*
+*As of 2022-08-21 03:09:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (3 Articles)
+## Last 3 Hours (2 Articles)
 
-* **2** tamil-mirror-lk ([அமைச்சர் பந்துல யாழ்ப்பாணத்தில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76567d97.json))
+* **1** tamil-mirror-lk ([எரிசக்தி அமைச்சரின் முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84b34724.json))
 
 * **1** ada-derana-lk ([Ten U.S. congressmen urge additional support for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a110f6db.json))
 
-## Last 24 Hours (113 Articles)
+## Last 24 Hours (111 Articles)
 
 * **21** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
 
@@ -22,9 +22,9 @@
 
 * **14** ada-lk ([මහජන සාමය පවත්වාගෙන යාමට ජනපති ත්‍රිවිධ හමුදාව කැඳවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e879c799.json))
 
-* **11** daily-mirror-lk ([Tea export volumes down 7.8 MnKgs in July](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d30198f.json))
-
 * **10** economy-next-com ([Sri Lanka Coconut prices continues to increase](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cc118c0.json))
+
+* **9** daily-mirror-lk ([Notification to Airtel subscribers who use only 2G, 3G enabled Mobile Phones](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/053b18e4.json))
 
 * **5** colombo-telegraph-com ([Country Has Fallen Due To The Socialist Thinking](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d3ca26d.json))
 
