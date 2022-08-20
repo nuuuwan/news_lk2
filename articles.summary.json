@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84418/navy-rescues-06-fishermen-from-distressed-fishing-trawler",
+    "time_ut": 1660967280,
+    "original_lang": "en",
+    "original_title": "Navy rescues 06 fishermen from distressed fishing trawler",
+    "file_name": "/tmp/news_lk2/articles/64/647e49b4.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0da5\u0dba\u0db1\u0dca-\u0d85\u0dc3\u0dd6\u0dc0\u0d9a\u0da7-\u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca-\u0daf\u0dd6\u0dc2\u0dab-\u0da0\u0ddd\u0daf\u0db1\u0dcf/101-618442",
+    "time_ut": 1660966775,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0da5\u0dba\u0db1\u0dca \u0d85\u0dc3\u0dd6\u0dc0\u0d9a\u0da7 \u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca \u0daf\u0dd6\u0dc2\u0dab \u0da0\u0ddd\u0daf\u0db1\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/62/62cabb1c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-coconut-prices-continues-to-increase-98801/",
+    "time_ut": 1660966440,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Coconut prices continues to increase",
+    "file_name": "/tmp/news_lk2/articles/8c/8cc118c0.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0b9f\u0bc8\u0baf\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3-\u0b89\u0baf\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd-\u0b95\u0bc1\u0bb4\u0bc1/175-302658",
+    "time_ut": 1660966077,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0b9f\u0bc8\u0baf\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0b89\u0baf\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/cd/cd304a07.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Gazette-issued-to-maintain-Public-Security-Ordinance/342-243422",
     "time_ut": 1660965372,
@@ -816,6 +848,14 @@
     "file_name": "/tmp/news_lk2/articles/b0/b0c0ceb5.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-protestors-must-bear-costs-of-damages-to-galle-face-green-minister-98787/",
+    "time_ut": 1660910820,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s protestors must bear costs of damages to Galle Face Green: minister",
+    "file_name": "/tmp/news_lk2/articles/c5/c56cc628.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba8\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd-\u0bb0\u0b9e\u0bcd\u0b9a\u0ba9\u0bcd/175-302629",
     "time_ut": 1660910587,
@@ -833,11 +873,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dd2\u0dbb\u0daf\u0da9\u0dd4\u0dc0\u0db8\u0dca-\u0dc0\u0dd2\u0daf\u0dd2\u0db1-\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca-\u2018\u0daf-\u0d9c\u0dda\u0db8\u0dca\u2019-\u0db6\u0dbd\u0dba\u0dd2/101-618417",
+    "url": "https://www.lankadeepa.lk/main_picture/\u0dc3\u0dd2\u0dbb\u0daf\u0da9\u0dd4\u0dc0\u0db8\u0dca-\u0dc0\u0dd2\u0daf\u0dd2\u0db1-\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca-\u2018\u0daf-\u0d9c\u0dda\u0db8\u0dca\u2019-\u0db6\u0dbd\u0dba\u0dd2/11-618417",
     "time_ut": 1660909876,
     "original_lang": "si",
     "original_title": "\u0dc3\u0dd2\u0dbb\u0daf\u0da9\u0dd4\u0dc0\u0db8\u0dca \u0dc0\u0dd2\u0daf\u0dd2\u0db1 \u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca \u2018\u0daf \u0d9c\u0dda\u0db8\u0dca\u2019 \u0db6\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/4b/4b43d615.json"
+    "file_name": "/tmp/news_lk2/articles/dc/dc526e3b.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
