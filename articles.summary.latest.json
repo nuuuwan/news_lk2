@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84424/traffic-in-nugegoda-due-to-npp-protest-march",
+    "time_ut": 1660994280,
+    "original_lang": "en",
+    "original_title": "Traffic in Nugegoda due to NPP protest march",
+    "file_name": "/tmp/news_lk2/articles/ae/aeb76f91.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbe\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95-\u0bae\u0bbf\u0ba4\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bae\u0bb0\u0bc8\u0b95\u0bb3\u0bcd/175-302683",
+    "time_ut": 1660994045,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbe\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95 \u0bae\u0bbf\u0ba4\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bb0\u0bc8\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/82/82739f21.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-police-on-lookout-for-suspects-who-damaged-presidents-office-98818/",
     "time_ut": 1660993200,
@@ -134,6 +150,14 @@
     "original_lang": "en",
     "original_title": "Three dead in Mutur accident",
     "file_name": "/tmp/news_lk2/articles/20/204b281a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4-2\u0da7-\u0d85\u0da9\u0dd4-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0dd2\u0da7\u0dd2\u0db1-\u0db8\u0dc0\u0dca\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca\u0d9c\u0dad\u0dc0\u0dd3\u0db8\u0da7-\u0d85\u0dc0\u0dc3\u0dbb-\u0db1\u0dd1/11-396463",
+    "time_ut": 1660985765,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 2\u0da7 \u0d85\u0da9\u0dd4 \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0db8\u0dc0\u0dca\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7 \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca\u0d9c\u0dad\u0dc0\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dbb \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/9a/9ac14578.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s Laugfs Gas makes a loss of 94-pct in June 2022 quarter",
     "file_name": "/tmp/news_lk2/articles/0a/0a69fa27.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/high-impairment-provisions-neutralise-solid-6-month-operational-growth-of-combank-group/",
-    "time_ut": 1660567980,
-    "original_lang": "en",
-    "original_title": "High impairment provisions neutralise solid 6-month operational growth of ComBank Group",
-    "file_name": "/tmp/news_lk2/articles/09/09daf99b.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/ai-2021-successfully-concludes-with-winners-showcasing-innovative-solutions-for-sustainable-living/",
-    "time_ut": 1660567920,
-    "original_lang": "en",
-    "original_title": "AI 2021 successfully\u00a0concludes\u00a0with winners showcasing\u00a0innovative solutions\u00a0for sustainable living",
-    "file_name": "/tmp/news_lk2/articles/8d/8d53c278.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/versatile-business-and-peoples-professional-ken-vijayakumar-elected-president-cipm-sl/",
-    "time_ut": 1660567860,
-    "original_lang": "en",
-    "original_title": "Versatile business and people\u2019s professional Ken Vijayakumar elected president CIPM SL",
-    "file_name": "/tmp/news_lk2/articles/33/33124f34.json"
   }
 ]
