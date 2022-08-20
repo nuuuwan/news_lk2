@@ -689,6 +689,14 @@
   },
   {
     "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-coconut-prices-continue-to-increase-98801/",
+    "time_ut": 1660966440,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Coconut prices continue to increase",
+    "file_name": "/tmp/news_lk2/articles/79/7928dc12.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-coconut-prices-continues-to-increase-98801/",
     "time_ut": 1660966440,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "2500 academics and professionals identified to advise govt. : NMSJ",
     "file_name": "/tmp/news_lk2/articles/b1/b1486de3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Prez-has-not-learned-anything-from-the-past-Ven-Sobitha-Thera/155-243103",
-    "time_ut": 1660581657,
-    "original_lang": "en",
-    "original_title": "Prez has not learned anything from the past: Ven. Sobitha Thera",
-    "file_name": "/tmp/news_lk2/articles/09/09d0ede0.json"
   }
 ]
