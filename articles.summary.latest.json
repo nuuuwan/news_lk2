@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7-\u0dc0\u0dd0\u0dc3\u0dd2-\u0dc0\u0dcf\u0dbb-\u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0dca/1-618438",
+    "time_ut": 1660959115,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2 \u0dc0\u0dcf\u0dbb \u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/b3/b330ad54.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Saying-No-to-Authoritarian-Governance/172-243400",
     "time_ut": 1660942120,
@@ -22,6 +30,14 @@
     "original_lang": "en",
     "original_title": "Best way to find yourself: Lose yourself in the service of others",
     "file_name": "/tmp/news_lk2/articles/9d/9d0147ff.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b85\u0ba4\u0bbf\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1/175-302655",
+    "time_ut": 1660939596,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8: \u0b85\u0ba4\u0bbf\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a0/a03d1fc0.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0b86\u0bb3\u0bc1\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b8e\u0bae\u0bcd.\u0baa\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/0a/0a21d42f.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0ddc\u0dbb\u0ddc\u0da0\u0dca\u0da0\u0ddd\u0dbd-\u0db6\u0dbd\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dda-\u0db6\u0dd2\u0db3\u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0d9a\u0dca/101-618126",
-    "time_ut": 1660547362,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0ddc\u0dbb\u0ddc\u0da0\u0dca\u0da0\u0ddd\u0dbd \u0db6\u0dbd\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dda \u0db6\u0dd2\u0db3\u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/30/3051df30.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd9\u0da7-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2/101-618125",
-    "time_ut": 1660547283,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0dd9\u0da7 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/fb/fbe1dfa8.json"
   }
 ]
