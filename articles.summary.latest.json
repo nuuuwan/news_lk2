@@ -24,6 +24,14 @@
     "file_name": "/tmp/news_lk2/articles/9d/9d0147ff.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a-\u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd/175-302653",
+    "time_ut": 1660938258,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/e2/e28a14ac.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Dullas-accuses-Govt-of-political-revenge-against-MPs-who-supported-him/56-738915",
     "time_ut": 1660938171,
@@ -1614,6 +1622,22 @@
     "original_lang": "en",
     "original_title": "Sri Lanka going the Turkey way?",
     "file_name": "/tmp/news_lk2/articles/9f/9fd40788.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79074",
+    "time_ut": 1660850100,
+    "original_lang": "en",
+    "original_title": "SLPP Dissident MP Alahapperuma writes to Prime Minister Gunewardena Complaing  of Discrimatory Treatment being meted out against MPs who supported him at the July 20 Presidential Election.",
+    "file_name": "/tmp/news_lk2/articles/52/526b66d1.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79077",
+    "time_ut": 1660849020,
+    "original_lang": "en",
+    "original_title": "SLPP Delegation led by National Organizer Basil Rajapaksa Meets President Wickremesinghe and Requests him to Facilitate Former President Gotabaya Rajapaksa\u2019s safe Return to Sri Lanka :assures party\u2019s fullest support to Ranil\u2019s  endeavours to ensure the recovery of Sri Lanka\u2019s economy.",
+    "file_name": "/tmp/news_lk2/articles/0e/0e6c31be.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "India hands over Dornier Reconnaissance Aircraft to Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/a1/a155bd93.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/cannot-support-sri-lankas-imf-bound-caretaker-president-mp-vasudeva-n-98602/",
-    "time_ut": 1660546740,
-    "original_lang": "en",
-    "original_title": "Cannot support Sri Lanka\u2019s IMF-bound \u201ccaretaker\u201d president: MP Vasudeva N",
-    "file_name": "/tmp/news_lk2/articles/29/291b60b6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-imposes-ban-on-three-new-entities-and-55-individuals/108-243075",
-    "time_ut": 1660546687,
-    "original_lang": "en",
-    "original_title": "Sri Lanka imposes ban on three new entities and 55 individuals",
-    "file_name": "/tmp/news_lk2/articles/cc/cc153571.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/15/two-week-court-vacation-in-sri-lanka/",
-    "time_ut": 1660546680,
-    "original_lang": "en",
-    "original_title": "Coastal Train Operations delayed",
-    "file_name": "/tmp/news_lk2/articles/67/67140fcf.json"
   }
 ]
