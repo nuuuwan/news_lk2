@@ -9,6 +9,14 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84429/ten-us-congress-members-urge-additional-support-for-sri-lanka",
+    "time_ut": 1661021040,
+    "original_lang": "en",
+    "original_title": "Ten U.S. Congress members urge additional support for Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/b1/b113c3a6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84429/ten-us-congressmen-urge-additional-support-for-sri-lanka-",
     "time_ut": 1661021040,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "JVP Support Surges with the Collapse of  the Economy and the Gotabaya Presidency",
     "file_name": "/tmp/news_lk2/articles/38/380bfa89.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/How-India-came-out-of-the-1991-economic-crisis-Liberalization-greatly-helped-but-consistency-is-required-for-full-benefits/172-243126",
-    "time_ut": 1660584618,
-    "original_lang": "en",
-    "original_title": "How India came out of the 1991 economic crisis Liberalization greatly helped, but consistency is required for full benefits",
-    "file_name": "/tmp/news_lk2/articles/fc/fcfe3c0d.json"
   }
 ]
