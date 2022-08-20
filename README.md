@@ -1,24 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 20:06:22 (LK time)*
+*As of 2022-08-20 20:24:33 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
-
-* **1** tamil-mirror-lk ([திடீரென CIDக்கு அழைக்கப்பட்டார் சஜித்தின் சகோதரி; காரணம் என்ன?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5df65b4.json))
-
-* **1** news-first-lk ([President assures fertilizer for farmers without delay](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/078948f2.json))
-
-## Last Hour (8 Articles)
+## Last Hour (5 Articles)
 
 * **3** news-first-lk ([Sapugaskanda recommences operations](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed010a7a.json))
 
 * **2** tamil-mirror-lk ([50 பேர் தொடர்பில் பொலிஸார் விடுத்துள்ள அவசர செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/656af8d7.json))
-
-* **2** daily-mirror-lk ([CID record statements from Dulanjalee Premadasa and Hirunika](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a42f909.json))
-
-* **1** ada-derana-lk ([Sapugaskanda Refinery resumes operations](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a97aa9f4.json))
 
 ## Last 3 Hours (17 Articles)
 
@@ -32,11 +22,11 @@
 
 * **2** ada-lk ([මහ කන්නයට අවශ්‍ය පොහොර ප්‍රමාදයකින් තොරව](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d4ae7f5.json))
 
-## Last 24 Hours (153 Articles)
-
-* **29** news-first-lk ([Army Chief Pays His First Formal Courtesy Call on New President](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58e9d944.json))
+## Last 24 Hours (151 Articles)
 
 * **27** tamil-mirror-lk ([சிஐடிக்கு வருமாறு ஹிருணிகாவுக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd34d3f1.json))
+
+* **27** news-first-lk ([Dullas alleges ‘hate politics’ within Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a899547d.json))
 
 * **18** daily-mirror-lk ([Egg prices to come down by Rs.5 from Monday: Poultry Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/936ec36f.json))
 
