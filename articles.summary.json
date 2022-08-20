@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/slaf-commander-calls-on-president/",
+    "time_ut": 1660970100,
+    "original_lang": "en",
+    "original_title": "SLAF Commander calls on President",
+    "file_name": "/tmp/news_lk2/articles/58/58453076.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/20/mrp-for-eggs-gazette-issued/",
     "time_ut": 1660969680,
     "original_lang": "en",
@@ -22,6 +30,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka: President calls Armed Forces to maintain public order",
     "file_name": "/tmp/news_lk2/articles/b7/b76f77bf.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/IMF--\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0db1\u0dca-24-\u0daf\u0dcf-\u0d91\u0dba\u0dd2/11-396461",
+    "time_ut": 1660967870,
+    "original_lang": "si",
+    "original_title": "IMF  \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0db1\u0dca 24 \u0daf\u0dcf \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/00/0018f95a.json"
   },
   {
     "newspaper_id": "news-first-lk",
