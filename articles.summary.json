@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/ecsl-moots-holding-local-government-elections/",
+    "time_ut": 1660987500,
+    "original_lang": "en",
+    "original_title": "ECSL moots holding local government elections",
+    "file_name": "/tmp/news_lk2/articles/25/251cb95f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/three-arrested-in-relation-to-ambalangoda-shooting-incident/",
+    "time_ut": 1660987260,
+    "original_lang": "en",
+    "original_title": "Three arrested in relation to Ambalangoda shooting incident",
+    "file_name": "/tmp/news_lk2/articles/7a/7a14f760.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-new-price-controls-on-eggs-could-lead-to-shortages-poultry-association-98817/",
+    "time_ut": 1660986720,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s new price controls on eggs could lead to shortages: poultry association",
+    "file_name": "/tmp/news_lk2/articles/36/361f41ce.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302666",
+    "time_ut": 1660986352,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ea/eaf86c39.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/20/three-dead-in-mutur-accident/",
     "time_ut": 1660985940,
     "original_lang": "en",
@@ -262,6 +294,14 @@
     "original_lang": "si",
     "original_title": "\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0da5\u0dba\u0db1\u0dca \u0d85\u0dc3\u0dd6\u0dc0\u0d9a\u0da7 \u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca \u0daf\u0dd6\u0dc2\u0dab \u0da0\u0ddd\u0daf\u0db1\u0dcf",
     "file_name": "/tmp/news_lk2/articles/38/383203da.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/picture_story/\u0dba\u0dcf\u0db4\u0db1\u0dba\u0dda-\u0db8\u0dd2\u0daf\u0dd2-\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1\u0da7-\u0daf\u0db9\u0dd4\u0dbd\u0dca\u0dbd\u0dda-\u0daf\u0dd3-\u0d89\u0dc4\u0dc5-\u0db8\u0dd2\u0dbd\u0d9a\u0dca/10-396460",
+    "time_ut": 1660966592,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dcf\u0db4\u0db1\u0dba\u0dda \u0db8\u0dd2\u0daf\u0dd2 \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1\u0da7 \u0daf\u0db9\u0dd4\u0dbd\u0dca\u0dbd\u0dda \u0daf\u0dd3 \u0d89\u0dc4\u0dc5 \u0db8\u0dd2\u0dbd\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/7b/7b06cdbf.json"
   },
   {
     "newspaper_id": "economy-next-com",
