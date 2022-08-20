@@ -1,32 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 00:44:46 (LK time)*
+*As of 2022-08-21 01:09:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (2 Articles)
 
 * **1** tamil-mirror-lk ([எரிசக்தி அமைச்சரின் முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84b34724.json))
 
-## Last Hour (3 Articles)
-
-* **2** tamil-mirror-lk ([அமைச்சர் பந்துல யாழ்ப்பாணத்தில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76567d97.json))
-
 * **1** ada-derana-lk ([Ten U.S. congressmen urge additional support for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a110f6db.json))
 
-## Last 3 Hours (8 Articles)
-
-* **3** lankadeepa-lk ([‘‘ජනපති පරිනත දේශපාලකයෙක්‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0310740.json))
+## Last 3 Hours (7 Articles)
 
 * **2** tamil-mirror-lk ([அமைச்சர் பந்துல யாழ்ப்பாணத்தில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76567d97.json))
 
 * **2** ada-derana-lk ([Austria donates consignment of essential medicines to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26c40800.json))
 
+* **2** lankadeepa-lk ([සපුගස්කන්ද යළි වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3eaf05e.json))
+
 * **1** daily-mirror-lk ([SL aims to welcome 1 million tourists this year; Harin Fernando](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/826aa719.json))
 
-## Last 24 Hours (129 Articles)
+## Last 24 Hours (124 Articles)
 
-* **25** tamil-mirror-lk ([சில தினங்களில் விலைகள் குறையும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fe5d3af.json))
+* **21** tamil-mirror-lk ([’சர்வதேச முதலீடுகளுக்கு தேசிய பாதுகாப்பு அவசியம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28a14ac.json))
 
 * **21** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
 
@@ -43,8 +39,6 @@
 * **5** colombo-telegraph-com ([Country Has Fallen Due To The Socialist Thinking](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d3ca26d.json))
 
 * **4** daily-ft-lk ([UN ‘appalled’ by Saudi 34-year sentence over tweets](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6edf018.json))
-
-* **1** d-b-s-jeyaraj-com ([The 2000 Day “Poaraattam” (Struggle) by Tamil Women for Their “Disappeared” Loved Ones.](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55159169.json))
 
 ## Last Week (1,361 Articles)
 
