@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-get-uns-support-to-achieve-2030-agenda-for-sustainable-development-98802/",
+    "time_ut": 1661007360,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to get UN\u2019s support to achieve 2030 agenda for sustainable development",
+    "file_name": "/tmp/news_lk2/articles/47/47623faa.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bc6\u0ba9-CID\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd-\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0b9a\u0b95\u0bcb\u0ba4\u0bb0\u0bbf-\u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd-\u0b8e\u0ba9\u0bcd\u0ba9/175-302688",
     "time_ut": 1661004881,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0d9c\u0dda \u0db4\u0dcf \u0db4\u0dc4\u0dbb\u0dd2\u0db1\u0dca \u0d9a\u0ddc\u0db1\u0dca\u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb \u0db6\u0dc3\u0dba\u0dd9\u0db1\u0dca \u0d91\u0dc5\u0dd2\u0dba\u0da7 \u0dc0\u0dd2\u0dc3\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/db/db21e689.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84321/covid-three-deaths-and-129-cases-confirmed",
-    "time_ut": 1660572600,
-    "original_lang": "en",
-    "original_title": "COVID: Three deaths and 129 cases confirmed",
-    "file_name": "/tmp/news_lk2/articles/f6/f6e69745.json"
   }
 ]
