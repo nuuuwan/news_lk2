@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/20/hirunika-questions-student-union-pta-correlation/",
+    "time_ut": 1660983840,
+    "original_lang": "en",
+    "original_title": "Hirunika questions student union \u2013 PTA correlation",
+    "file_name": "/tmp/news_lk2/articles/e9/e9b5f110.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/imf-staff-plans-to-visit-sri-lanka-august-24-31-98815/",
+    "time_ut": 1660983720,
+    "original_lang": "en",
+    "original_title": "IMF staff plans to visit Sri Lanka August 24-31",
+    "file_name": "/tmp/news_lk2/articles/88/88c4fc9b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84421/hirunika-records-statement-with-cid",
     "time_ut": 1660982340,
@@ -14,6 +30,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka Customs arrest two Indians suspect of smuggling in jewellery",
     "file_name": "/tmp/news_lk2/articles/e0/e01dff57.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-customs-arrest-two-indians-suspected-of-smuggling-in-jewellery-98811/",
+    "time_ut": 1660979940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Customs arrest two Indians suspected of smuggling in jewellery",
+    "file_name": "/tmp/news_lk2/articles/ac/acf1a121.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -272,12 +296,28 @@
     "file_name": "/tmp/news_lk2/articles/ec/ece53bcf.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/gtf-welcomes-the-delisting-of-diaspora-entities-calls-for-a-well-targeted-unhrc-resolution-on-sri-lanka/",
+    "time_ut": 1660963505,
+    "original_lang": "en",
+    "original_title": "GTF Welcomes The Delisting Of Diaspora Entities & Calls For A Well-Targeted UNHRC Resolution On Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/b1/b1a7ebc2.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0db1\u0dd2\u0dc0\u0dcf\u0dc3-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7-\u0d85\u0dba\u0dc0\u0dd2\u0dba-\u0dba\u0dd4\u0dad\u0dd4-\u0dab\u0dba-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba-\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-10-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/11-396457",
     "time_ut": 1660963245,
     "original_lang": "si",
     "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db1\u0dd2\u0dc0\u0dcf\u0dc3 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0d85\u0dba\u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0dab\u0dba \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 10 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/39/397acd86.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/country-has-fallen-due-to-the-socialist-thinking/",
+    "time_ut": 1660963014,
+    "original_lang": "en",
+    "original_title": "Country Has Fallen Due To The Socialist Thinking",
+    "file_name": "/tmp/news_lk2/articles/8d/8d3ca26d.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
