@@ -1,18 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-20 17:08:50 (LK time)*
+*As of 2022-08-20 17:23:46 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
-
-* **1** ada-derana-lk ([Traffic in Nugegoda due to NPP protest march](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeb76f91.json))
-
-* **1** tamil-mirror-lk ([வாவியில் சடலமாக மிதக்கும் மரைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82739f21.json))
-
-## Last Hour (6 Articles)
-
-* **2** news-first-lk ([Three Indians arrested with Rs. 18mn gold](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6013d30.json))
+## Last Hour (3 Articles)
 
 * **1** ada-derana-lk ([Traffic in Nugegoda due to NPP protest march](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeb76f91.json))
 
@@ -20,9 +12,7 @@
 
 * **1** economy-next-com ([Sri Lanka police on lookout for suspects who damaged president’s office](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9ebfba5a.json))
 
-* **1** lankadeepa-lk ([මුදල් අර්බුද අස්සේ කෝටි 63477ක තොරම්බල් ගෙනල්ලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35463e83.json))
-
-## Last 3 Hours (21 Articles)
+## Last 3 Hours (20 Articles)
 
 * **6** news-first-lk ([Three dead in Mutur accident](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204b281a.json))
 
@@ -30,21 +20,21 @@
 
 * **4** tamil-mirror-lk ([கொரோனா குறித்த முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eaf86c39.json))
 
-* **3** lankadeepa-lk ([‘‘අරගලකරුවන් ගිනි තැබූ ගෙවල් හදා ගන්න රජයෙන් පිහිටක් නෑ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b5935a4.json))
-
 * **2** economy-next-com ([Sri Lanka’s new price controls on eggs could lead to shortages: poultry association](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/361f41ce.json))
+
+* **2** lankadeepa-lk ([හිරුණිකා සී.අයි.ඩියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/197b5a96.json))
 
 * **1** daily-mirror-lk ([Three women killed, 18 injured in accident in Muthur](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5377270.json))
 
 * **1** ada-lk ([අවුරුදු 2ට අඩු දරුවන් සිටින මව්වරුන්ට විදෙස්ගතවීමට අවසර නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9ac14578.json))
 
-## Last 24 Hours (173 Articles)
+## Last 24 Hours (171 Articles)
 
 * **28** news-first-lk ([CIABOC discontinues 2018 MP crossover probe due to ‘insufficient information’](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1874513.json))
 
-* **26** tamil-mirror-lk ([குறைகின்றது முட்டை விலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd33b027.json))
+* **25** tamil-mirror-lk ([புதிய திரைப்படத்தில் நடிக்கின்றார் ரஞ்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/079b18b7.json))
 
-* **22** lankadeepa-lk ([සිරදඩුවම් විදින රන්ජන් ‘ද ගේම්’ බලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc526e3b.json))
+* **21** lankadeepa-lk ([රජයේ නිලධාරීන්ට රට යන්න වරම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f3afd3d.json))
 
 * **21** ada-lk ([හිටපු ජනපතිගෙන් CIDයට පැය පහක ප්‍රකාශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70eba152.json))
 
