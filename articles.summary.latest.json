@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0bb0\u0bc1\u0ba3\u0bcd\u0b9f-\u0ba8\u0bbe\u0bb3\u0bbe\u0b95-\u0b85\u0bae\u0bc8\u0baf\u0bc1\u0bae\u0bcd/175-302733",
+    "time_ut": 1661084672,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb0\u0bc1\u0ba3\u0bcd\u0b9f \u0ba8\u0bbe\u0bb3\u0bbe\u0b95 \u0b85\u0bae\u0bc8\u0baf\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/23/237448df.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/21/concealed-stocks-of-eggs-will-be-confiscated/",
     "time_ut": 1661083080,
@@ -22,6 +30,14 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbd\u0db6\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dc5\u0dd2 \u0d85\u0da9\u0dd4\u0dc0\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/b9/b90f4611.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84439/interrogation-of-wasantha-mudalige-to-be-handed-over-to-cid",
+    "time_ut": 1661082000,
+    "original_lang": "en",
+    "original_title": "Interrogation of Wasantha Mudalige to be handed over to CID",
+    "file_name": "/tmp/news_lk2/articles/73/737c1b51.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -470,6 +486,14 @@
     "original_lang": "si",
     "original_title": "\u0d9c\u0db1\u0dd2\u0d9a\u0dcf \u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0d9a\u0dca \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dba \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d91\u0dc3\u0dca.\u0d91\u0dc6\u0dca \u0dc3\u0dd9\u0db6\u0dbd\u0dcf \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
     "file_name": "/tmp/news_lk2/articles/ec/ec0f79e0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dab\u0dd2\u0d9a\u0dcf-\u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0d9a\u0dca-\u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dba-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0d91\u0dc3\u0dca-\u0d91\u0dc6\u0dca-\u0dc3\u0dd9\u0db6\u0dbd\u0dcf-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/101-618469",
+    "time_ut": 1661061305,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dab\u0dd2\u0d9a\u0dcf \u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0d9a\u0dca \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dba \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d91\u0dc3\u0dca.\u0d91\u0dc6\u0dca \u0dc3\u0dd9\u0db6\u0dbd\u0dcf \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/52/520ae377.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Air Force inducts Dornier to its fleet",
     "file_name": "/tmp/news_lk2/articles/95/95d08d9d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc6\u0dd4\u0dbd\u0dca\u0dc6\u0dda\u0dc3\u0dca-\u0dc4\u0dd9\u0dbd\u0dca\u0db8\u0da7\u0dca-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0d89\u0dc0\u0dad\u0da7/11-396339",
-    "time_ut": 1660638250,
-    "original_lang": "si",
-    "original_title": "\u0dc6\u0dd4\u0dbd\u0dca\u0dc6\u0dda\u0dc3\u0dca \u0dc4\u0dd9\u0dbd\u0dca\u0db8\u0da7\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0d89\u0dc0\u0dad\u0da7",
-    "file_name": "/tmp/news_lk2/articles/2c/2cc96dc1.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-manufacturing-pmi-down-in-july-services-marginally-up-98675/",
-    "time_ut": 1660638060,
-    "original_lang": "en",
-    "original_title": "Sri Lanka manufacturing PMI down in July, services marginally up",
-    "file_name": "/tmp/news_lk2/articles/f1/f17fb493.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/16/norochcholai-two-weeks-to-rectify-breakdown/",
-    "time_ut": 1660638000,
-    "original_lang": "en",
-    "original_title": "Norochcholai: Two weeks to rectify breakdown",
-    "file_name": "/tmp/news_lk2/articles/23/23e822c2.json"
   }
 ]
