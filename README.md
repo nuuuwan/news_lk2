@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-22 03:43:00 (LK time)*
+*As of 2022-08-22 04:11:03 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (5 Articles)
 
 * **5** daily-ft-lk ([Ken Vijayakumar elected President of CIPM SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3727b455.json))
-
-* **1** tamil-mirror-lk ([யாழ் - கொழும்பு ரயில் சேவைகளை அதிகரிக்க நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b44095b.json))
 
 ## Last 24 Hours (152 Articles)
 
@@ -30,7 +28,7 @@
 
 * **1** colombo-telegraph-com ([Child’s Guide To UK’s Trade Concessions To Developing Countries](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/126b6872.json))
 
-## Last Week (1,372 Articles)
+## Last Week (1,371 Articles)
 
 * **251** lankadeepa-lk ([හරක් කටාගේ වෙඩික්කරු අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a01760c.json))
 
@@ -38,9 +36,9 @@
 
 * **180** ada-lk ([ජොනී, නාමල්, මහින්දානන්ද, රෝහිත, පවිත්‍රා ඇතුළු පිරිසකට ඇමතිධුර දෙන්නැයි බැසිල් ජනපතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5ffadcf1.json))
 
-* **171** daily-mirror-lk ([India’s generous assistance to Sri Lanka heartening, says Commonwealth Secretary General](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39689d11.json))
-
 * **170** tamil-mirror-lk ([யாழில் வாள்வெட்டு: இளைஞர் வைத்தியசாலையில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6b6db46.json))
+
+* **170** daily-mirror-lk ([President a prisoner of the SLPP: Jayasekara](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b524044.json))
 
 * **158** ada-derana-lk ([Leading gunman of Harak Kata’s criminal gang under arrest](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6e75abd.json))
 
