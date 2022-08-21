@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/21/cpc-tus-to-protest-tomorrow-22/",
+    "time_ut": 1661063160,
+    "original_lang": "en",
+    "original_title": "CPC TUs to protest tomorrow (22)",
+    "file_name": "/tmp/news_lk2/articles/b1/b17397f3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Resolving-economic-crisis-President-stresses-special-focus-on-agriculture/108-243433",
+    "time_ut": 1661062945,
+    "original_lang": "en",
+    "original_title": "Resolving economic crisis : President stresses special focus on agriculture",
+    "file_name": "/tmp/news_lk2/articles/1b/1ba7898c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84433/sajith-urges-govt-to-act-in-best-interest-of-people-and-country",
+    "time_ut": 1661062680,
+    "original_lang": "en",
+    "original_title": "Sajith urges govt to act in best interest of people and country",
+    "file_name": "/tmp/news_lk2/articles/9c/9ca32131.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/21/egg-prices-discussions-between-minister-polutry-businessmen-tomorrow-22/",
+    "time_ut": 1661062020,
+    "original_lang": "en",
+    "original_title": "Egg prices: Discussions between Minister & Poultry Businessmen tomorrow (22)",
+    "file_name": "/tmp/news_lk2/articles/1b/1b012c4e.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd6\u0dc2\u0dab\u0dba\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0db4\u0dcf\u0dbb\u0da7-\u0db6\u0dd0\u0dc3\u0dca\u0dc3-\u0db8\u0dd2\u0db1\u0dd2\u0dc3\u0dca\u0dc3\u0dd4\u0db1\u0dca\u0da7-\u0daf\u0dac\u0dd4\u0dc0\u0db8\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf/101-618470",
     "time_ut": 1661061828,
@@ -88,6 +120,14 @@
     "file_name": "/tmp/news_lk2/articles/37/37bfb7f0.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/GotaGoHome-France-activist-arrested-over-May-9-violence-when-visiting-Sri-Lanka/108-243431",
+    "time_ut": 1661057086,
+    "original_lang": "en",
+    "original_title": "'GotaGoHome' France activist arrested over May 9 violence when visiting Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/4a/4a325225.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/21/1-500-dengue-cases-being-reported-per-week/",
     "time_ut": 1661056860,
@@ -126,6 +166,14 @@
     "original_lang": "en",
     "original_title": "NTC to take action against over 100 buses for overcharging passengers",
     "file_name": "/tmp/news_lk2/articles/cb/cbc93839.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0daf\u0dd2\u0db1\u0d9a\u0dca--\u0dad\u0dd4\u0dc5-\u0dc0\u0dd3-\u0d85\u0dbd\u0dd9\u0dc0\u0dd2-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba-\u0dc0\u0dd3-\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca-\u0da7\u0ddc\u0db1\u0dca-844\u0d9a\u0dca-\u0db8\u0dd2\u0dbd-\u0daf\u0dd3-\u0d9c\u0db1\u0dd3/11-396481",
+    "time_ut": 1661055914,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dd9\u0daf\u0dd2\u0db1\u0d9a\u0dca  \u0dad\u0dd4\u0dc5 \u0dc0\u0dd3 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0dc0\u0dd3 \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0da7\u0ddc\u0db1\u0dca 844\u0d9a\u0dca \u0db8\u0dd2\u0dbd \u0daf\u0dd3 \u0d9c\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/c2/c2cfaf2d.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "Vice Admiral of Indian Navy pays homage at memorial of Indian soldiers in Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/02/02bd1329.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/main_picture/\u0dba\u0dd4\u0dc0\u0dcf\u0db1\u0dca-\u0dc0\u0dd0\u0db1\u0dca\u0d9c\u0dca-5-\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7-\u0dc0\u0dbb\u0dcf\u0dba\u0da7/11-618180",
-    "time_ut": 1660622526,
-    "original_lang": "si",
-    "original_title": "\u0dba\u0dd4\u0dc0\u0dcf\u0db1\u0dca \u0dc0\u0dd0\u0db1\u0dca\u0d9c\u0dca 5 \u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0dc0\u0dbb\u0dcf\u0dba\u0da7",
-    "file_name": "/tmp/news_lk2/articles/82/82681876.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0ba4\u0ba9\u0ba4\u0bc1-\u0b95\u0bbe\u0ba4\u0bb2\u0bcd-\u0b95\u0ba4\u0bc8\u0baf\u0bc8-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bb1\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd/72-302410",
-    "time_ut": 1660622120,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0ba9\u0ba4\u0bc1 \u0b95\u0bbe\u0ba4\u0bb2\u0bcd \u0b95\u0ba4\u0bc8\u0baf\u0bc8 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bb1\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/66/66f7b28c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Chinese-vessel-Yuan-Wang-5-arrives/155-243149",
-    "time_ut": 1660622074,
-    "original_lang": "en",
-    "original_title": "Chinese vessel \u2019Yuan Wang 5\u2019 arrives",
-    "file_name": "/tmp/news_lk2/articles/20/203a4b50.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/visheshanga/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc4\u0dd2\u0d9f\u0dba\u0da7-\u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dba-\u0d9a\u0dc5-\u0dc0\u0dd0\u0dbb\u0dd0\u0daf\u0dd2-\u0dc4\u0dbb\u0dd2\u0d9c\u0dc3\u0dca\u0dc3\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dba\u0dd2/26-618179",
-    "time_ut": 1660621819,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dd2\u0d9f\u0dba\u0da7 \u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dba \u0d9a\u0dc5 \u0dc0\u0dd0\u0dbb\u0dd0\u0daf\u0dd2 \u0dc4\u0dbb\u0dd2\u0d9c\u0dc3\u0dca\u0dc3\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/b2/b2f0b580.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/16/mfa-sabry-meets-with-undp-deputy-regional-director/",
-    "time_ut": 1660621560,
-    "original_lang": "en",
-    "original_title": "MFA Sabry meets with UNDP Deputy Regional Director",
-    "file_name": "/tmp/news_lk2/articles/b1/b17d7002.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8-\u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bbf\u0baf-\u0b9a\u0bc0\u0ba9\u0b95\u0bcd-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd/175-302408",
-    "time_ut": 1660621299,
-    "original_lang": "ta",
-    "original_title": "\u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bbf\u0baf \u0b9a\u0bc0\u0ba9\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/d7/d75a2212.json"
   }
 ]
