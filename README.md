@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-22 04:43:08 (LK time)*
+*As of 2022-08-22 05:13:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (5 Articles)
+## Last 3 Hours (4 Articles)
 
-* **5** daily-ft-lk ([Ken Vijayakumar elected President of CIPM SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3727b455.json))
+* **4** daily-ft-lk ([Nine Sri Lankan apparel exporters successfully participate in ‘Sourcing at Magic Las Vegas’, USA](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecab6fdd.json))
 
 ## Last 24 Hours (152 Articles)
 
