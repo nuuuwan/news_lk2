@@ -392,6 +392,38 @@
     "file_name": "/tmp/news_lk2/articles/2f/2fb58279.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/state-owned-kalubowitiyana-tea-soars-to-new-heights/",
+    "time_ut": 1661088180,
+    "original_lang": "en",
+    "original_title": "State owned Kalubowitiyana Tea soars to new heights",
+    "file_name": "/tmp/news_lk2/articles/86/86aae731.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/ceylinco-insurance-most-respected-insurer-in-sri-lanka-for-yet-another-year/",
+    "time_ut": 1661088120,
+    "original_lang": "en",
+    "original_title": "Ceylinco Insurance \u2018Most Respected Insurer\u2019 in Sri Lanka for yet another year",
+    "file_name": "/tmp/news_lk2/articles/b4/b4067496.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/prime-lending-rate-spikes-to-25-68/",
+    "time_ut": 1661088060,
+    "original_lang": "en",
+    "original_title": "Prime Lending Rate spikes to 25.68%",
+    "file_name": "/tmp/news_lk2/articles/f1/f1ec4f03.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/ranil-sajith-2nd-round-of-talks-couldnt-come-at-a-better-time/",
+    "time_ut": 1661088000,
+    "original_lang": "en",
+    "original_title": "Ranil, Sajith 2nd round of talks couldn\u2019t come at a better time",
+    "file_name": "/tmp/news_lk2/articles/6c/6c3127ef.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0bb5\u0b9a\u0bae\u0bcd-\u0b87\u0bb2\u0bcd\u0bb2\u0bc8-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf/175-302735",
     "time_ut": 1661087251,
@@ -440,12 +472,36 @@
     "file_name": "/tmp/news_lk2/articles/1a/1a5fbab7.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/quickee-lk-donates-digital-teaching-system-to-s-thomas-college-mt-lavinia/",
+    "time_ut": 1661084940,
+    "original_lang": "en",
+    "original_title": "Quickee.lk donates digital teaching system to S. Thomas\u2019 College, Mt Lavinia",
+    "file_name": "/tmp/news_lk2/articles/6a/6a26b421.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/smartphone-industry-is-evolving-at-a-breakneck-speed-yiran-an-senior-product-manager-vivo-imaging-centre/",
+    "time_ut": 1661084760,
+    "original_lang": "en",
+    "original_title": "Smartphone industry is evolving at a breakneck speed: Yiran An, senior product manager, vivo Imaging Centre",
+    "file_name": "/tmp/news_lk2/articles/a7/a7920167.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0bb0\u0bc1\u0ba3\u0bcd\u0b9f-\u0ba8\u0bbe\u0bb3\u0bbe\u0b95-\u0b85\u0bae\u0bc8\u0baf\u0bc1\u0bae\u0bcd/175-302733",
     "time_ut": 1661084672,
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb0\u0bc1\u0ba3\u0bcd\u0b9f \u0ba8\u0bbe\u0bb3\u0bbe\u0b95 \u0b85\u0bae\u0bc8\u0baf\u0bc1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/23/237448df.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/increasing-productivity-and-reducing-costs-with-hr-pro-saas-cloud-technology/",
+    "time_ut": 1661084520,
+    "original_lang": "en",
+    "original_title": "Increasing productivity and reducing costs with HR Pro SaaS cloud technology",
+    "file_name": "/tmp/news_lk2/articles/f0/f0287cba.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -4086,6 +4142,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0db8 \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8 \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/88/88c80ad3.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/cops-and-robbers/",
+    "time_ut": 1660839240,
+    "original_lang": "en",
+    "original_title": "Cops and robbers",
+    "file_name": "/tmp/news_lk2/articles/78/7897697c.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
