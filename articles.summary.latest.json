@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0b9a\u0b9f\u0bcd\u0b9f-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-302709",
+    "time_ut": 1661052643,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b9a\u0b9f\u0bcd\u0b9f \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/62/6264a707.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/Zaporizhzhia-\u0db6\u0dbd\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0da7-UN-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd2\u0dba\u0dcf-\u0db8\u0dd0\u0daf\u0dd2\u0dc4\u0dad\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/3-396477",
+    "time_ut": 1661052288,
+    "original_lang": "si",
+    "original_title": "Zaporizhzhia \u0db6\u0dbd\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0da7 UN \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd2\u0dba\u0dcf \u0db8\u0dd0\u0daf\u0dd2\u0dc4\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/6d/6d5652fe.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4-\u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca-\u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca-\u0dad\u0dd2\u0dba\u0dd4\u0dab\u0dd4-\u0dbd\u0dd9\u0dc3-\u0d89\u0dc4\u0dc5\u0da7/3-396476",
+    "time_ut": 1661052238,
+    "original_lang": "si",
+    "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca \u0dad\u0dd2\u0dba\u0dd4\u0dab\u0dd4 \u0dbd\u0dd9\u0dc3 \u0d89\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/d6/d6a31348.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0dad\u0dc0\u0dad\u0dca-\u0db0\u0dcf\u0db1\u0dca\u200d\u0dba-\u0db1\u0dd0\u0dc0\u0dca-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dd2\u0da7\u0dad\u0dca-\u0dc0\u0dda/3-396475",
+    "time_ut": 1661052178,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dc0\u0dad\u0dca \u0db0\u0dcf\u0db1\u0dca\u200d\u0dba \u0db1\u0dd0\u0dc0\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dad\u0dca \u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/02/02bdb6eb.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/fisheries-jobs-for-1047-sri-lankans-in-korea-this-year-labour-ministry-98824/",
+    "time_ut": 1661052120,
+    "original_lang": "en",
+    "original_title": "Fisheries jobs for 1,047 Sri Lankans in Korea this year: labour ministry",
+    "file_name": "/tmp/news_lk2/articles/73/73c7d7a2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0dc3\u0ddd\u0db8\u0dcf\u0dbd\u0dd2\u0dba\u0dcf-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0db8\u0ddc\u0d9c\u0da9\u0dd2\u0dc2\u0dd4-\u0dc4\u0ddd\u0da7\u0dbd\u0dca-\u0dc0\u0dd0\u0da7\u0dbd\u0dd3\u0db8-\u0db1\u0dd2\u0db8\u0dcf-\u0d9a\u0dbb\u0dba\u0dd2/3-396474",
+    "time_ut": 1661052118,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0ddd\u0db8\u0dcf\u0dbd\u0dd2\u0dba\u0dcf \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db8\u0ddc\u0d9c\u0da9\u0dd2\u0dc2\u0dd4 \u0dc4\u0ddd\u0da7\u0dbd\u0dca \u0dc0\u0dd0\u0da7\u0dbd\u0dd3\u0db8 \u0db1\u0dd2\u0db8\u0dcf \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/52/52a2ab56.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db8\u0dd9\u0db1\u0dca\u0d9c\u0dca\u0da7\u0dd2\u0dba\u0dcf\u0db1\u0dca-\u0dbb\u0dc3\u0dcf\u0dba\u0db1\u0dcf\u0d9c\u0dcf\u0dbb-\u0db8\u0ddc\u0da9\u0dd2\u0dba\u0dd4\u0dbd\u0dba-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca---\u0da0\u0dd3\u0db1\u0dba/3-396469",
+    "time_ut": 1661051881,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd9\u0db1\u0dca\u0d9c\u0dca\u0da7\u0dd2\u0dba\u0dcf\u0db1\u0dca \u0dbb\u0dc3\u0dcf\u0dba\u0db1\u0dcf\u0d9c\u0dcf\u0dbb \u0db8\u0ddc\u0da9\u0dd2\u0dba\u0dd4\u0dbd\u0dba \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca - \u0da0\u0dd3\u0db1\u0dba",
+    "file_name": "/tmp/news_lk2/articles/d5/d578adc2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84431/sri-lanka-aims-to-welcome-1-million-tourists-this-year-harin",
+    "time_ut": 1661051280,
+    "original_lang": "en",
+    "original_title": "Sri Lanka aims to welcome 1 million tourists this year: Harin",
+    "file_name": "/tmp/news_lk2/articles/db/db3a4c74.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd0\u0dc3\u0dca\u0dc3\u0dda-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8\u0d9a\u0dca/101-618460",
     "time_ut": 1661049890,
@@ -73,19 +137,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da9\u0dbd\u0dc3\u0dca\u0dbd\u0dcf\u0d9c\u0dda-\u0d9c\u0db8\u0db1-\u0d85\u0db4\u0dd4\u0dbb\u0dd9\u0db1\u0dca-\u0d85\u0dbb\u0db9\u0dba\u0dd2/101-618459",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dbd\u0dc3\u0dca\u0dbd\u0dcf\u0d9c\u0dda-\u0d9c\u0db8\u0db1-\u0d85\u0db4\u0dd4\u0dbb\u0dd9\u0db1\u0dca-\u0d85\u0dbb\u0db9\u0dba\u0dd2/1-618459",
     "time_ut": 1661015498,
     "original_lang": "si",
     "original_title": "\u0da9\u0dbd\u0dc3\u0dca\u0dbd\u0dcf\u0d9c\u0dda \u0d9c\u0db8\u0db1 \u0d85\u0db4\u0dd4\u0dbb\u0dd9\u0db1\u0dca \u0d85\u0dbb\u0db9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/6f/6f6f5c60.json"
+    "file_name": "/tmp/news_lk2/articles/6b/6bd13990.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf-\u0dba\u0dc5\u0dd2-\u0dc0\u0dd0\u0da9/101-618458",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf-\u0dba\u0dc5\u0dd2-\u0dc0\u0dd0\u0da9/1-618458",
     "time_ut": 1661015238,
     "original_lang": "si",
     "original_title": "\u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf \u0dba\u0dc5\u0dd2 \u0dc0\u0dd0\u0da9",
-    "file_name": "/tmp/news_lk2/articles/f3/f3eaf05e.json"
+    "file_name": "/tmp/news_lk2/articles/bd/bd27d89e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -96,20 +160,28 @@
     "file_name": "/tmp/news_lk2/articles/26/26c40800.json"
   },
   {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db4\u0dbb\u0dd2\u0db1\u0dad-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0dd9\u0d9a\u0dca\u2018\u2018/101-618457",
-    "time_ut": 1661012350,
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf-\u0db4\u0dd2\u0dbb\u0dd2\u0db4\u0dc4\u0daf\u0dd4\u0dc0-\u0dc0\u0dd0\u0da9/11-396468",
+    "time_ut": 1661012794,
     "original_lang": "si",
-    "original_title": "\u2018\u2018\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db4\u0dbb\u0dd2\u0db1\u0dad \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0dd9\u0d9a\u0dca\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/c0/c0310740.json"
+    "original_title": "\u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf \u0db4\u0dd2\u0dbb\u0dd2\u0db4\u0dc4\u0daf\u0dd4\u0dc0 \u0dc0\u0dd0\u0da9",
+    "file_name": "/tmp/news_lk2/articles/da/daa92ce9.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0dcf\u0dc6\u0dca-\u0d9c\u0dd1\u0dc3\u0dca-\u0dad\u0dc0-\u0d85\u0da9\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/101-618455",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db4\u0dbb\u0dd2\u0db1\u0dad-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0dd9\u0d9a\u0dca\u2018\u2018/1-618457",
+    "time_ut": 1661012350,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db4\u0dbb\u0dd2\u0db1\u0dad \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0dd9\u0d9a\u0dca\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/a7/a7fbca45.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0dcf\u0dc6\u0dca-\u0d9c\u0dd1\u0dc3\u0dca-\u0dad\u0dc0-\u0d85\u0da9\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/1-618455",
     "time_ut": 1661011863,
     "original_lang": "si",
     "original_title": "\u0dbd\u0dcf\u0dc6\u0dca \u0d9c\u0dd1\u0dc3\u0dca \u0dad\u0dc0 \u0d85\u0da9\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ed/edcdc09b.json"
+    "file_name": "/tmp/news_lk2/articles/d7/d7235ec2.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7926,77 +7998,5 @@
     "original_lang": "en",
     "original_title": "President says India and  Sri Lanka two sides of the same coin, must forge ahead together",
     "file_name": "/tmp/news_lk2/articles/5b/5b7c4870.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Celebration-of-75-glorious-years-of-India-s-independence-in-Sri-Lanka/56-738718",
-    "time_ut": 1660593750,
-    "original_lang": "en",
-    "original_title": "Celebration of 75 glorious years of India\u2019s independence in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/51/511d15c8.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/India-gifts-Dornier-aircraft-to-strengthen-maritime-security-of-SL/56-738717",
-    "time_ut": 1660593688,
-    "original_lang": "en",
-    "original_title": "India gifts Dornier aircraft to strengthen maritime security of SL",
-    "file_name": "/tmp/news_lk2/articles/90/90b6df9e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Sri-Lanka-celebrates-26th-anniversary-of-diplomatic-relations-with-Lithuania/56-738716",
-    "time_ut": 1660593639,
-    "original_lang": "en",
-    "original_title": "Sri Lanka celebrates 26th anniversary of diplomatic relations with Lithuania",
-    "file_name": "/tmp/news_lk2/articles/f3/f3bc6f5c.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/consolidating-power-of-government-at-expense-of-people/",
-    "time_ut": 1660593600,
-    "original_lang": "en",
-    "original_title": "Consolidating Power Of Government At Expense Of People",
-    "file_name": "/tmp/news_lk2/articles/45/4500dae3.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Hela-Apparel-marks-impressive-start-to-FY-23-with-Rs-354-m-PAT-in-1Q/34-738715",
-    "time_ut": 1660593476,
-    "original_lang": "en",
-    "original_title": "Hela Apparel marks impressive start to FY 23 with Rs. 354 m PAT in 1Q",
-    "file_name": "/tmp/news_lk2/articles/a9/a97bbdcb.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/SLASSCOM-welcomes-relaxation-of-mandatory-forex-conversion/34-738714",
-    "time_ut": 1660593451,
-    "original_lang": "en",
-    "original_title": "SLASSCOM welcomes relaxation of mandatory forex conversion",
-    "file_name": "/tmp/news_lk2/articles/60/60b08edc.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Industry-veteran-appointed-as-new-DG-Civil-Aviation-CEO-Civil-Aviation-Authority/34-738713",
-    "time_ut": 1660593436,
-    "original_lang": "en",
-    "original_title": "Industry veteran appointed as new DG Civil Aviation, CEO Civil Aviation Authority",
-    "file_name": "/tmp/news_lk2/articles/36/36d48e6d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/StrEdge-promotes-SMART-restructuring-of-businesses/34-738712",
-    "time_ut": 1660593411,
-    "original_lang": "en",
-    "original_title": "StrEdge promotes \u2018SMART\u2019 restructuring of businesses",
-    "file_name": "/tmp/news_lk2/articles/b0/b0e53b30.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Clamour-of-systems-change-by-the-Aragalaya-on-public-discontent/4-738705",
-    "time_ut": 1660592679,
-    "original_lang": "en",
-    "original_title": "Clamour of systems change by the Aragalaya on public discontent",
-    "file_name": "/tmp/news_lk2/articles/19/19406224.json"
   }
 ]
