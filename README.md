@@ -1,28 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-22 02:25:04 (LK time)*
+*As of 2022-08-22 02:45:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **1** daily-ft-lk ([Ken Vijayakumar elected President of CIPM SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3727b455.json))
+* **4** daily-ft-lk ([Nine Sri Lankan apparel exporters successfully participate in ‘Sourcing at Magic Las Vegas’, USA](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecab6fdd.json))
 
-## Last Hour (1 Articles)
+## Last Hour (5 Articles)
 
-* **1** daily-ft-lk ([Ken Vijayakumar elected President of CIPM SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3727b455.json))
+* **5** daily-ft-lk ([Ken Vijayakumar elected President of CIPM SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3727b455.json))
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (11 Articles)
 
-* **4** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cd49cf2.json))
+* **8** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cd49cf2.json))
 
 * **2** ada-derana-lk ([Sri Lanka envoy expresses gratitude to US congresspeople for showing interest in the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eec8e000.json))
 
-* **2** daily-mirror-lk ([Marking 75 years of Indian Independence: DEMOCRACY THAT IS INDIA: INTRIGUING, EVOLVING AND INSPIRING](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21992fff.json))
-
 * **1** tamil-mirror-lk ([யாழ் - கொழும்பு ரயில் சேவைகளை அதிகரிக்க நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b44095b.json))
 
-## Last 24 Hours (148 Articles)
+## Last 24 Hours (152 Articles)
 
 * **30** lankadeepa-lk ([වැස්සේ වැඩිවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a73cfa5b.json))
 
@@ -36,13 +34,13 @@
 
 * **17** daily-mirror-lk (['GotaGoHome' France activist arrested over May 9 violence when visiting Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a325225.json))
 
-* **9** economy-next-com ([Fisheries jobs for 1,047 Sri Lankans in Korea this year: labour ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73c7d7a2.json))
+* **9** daily-ft-lk ([Child’s guide to UK’s trade concessions to developing countries](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0e8c263.json))
 
-* **5** daily-ft-lk ([Child’s guide to UK’s trade concessions to developing countries](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0e8c263.json))
+* **9** economy-next-com ([Fisheries jobs for 1,047 Sri Lankans in Korea this year: labour ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73c7d7a2.json))
 
 * **1** colombo-telegraph-com ([Child’s Guide To UK’s Trade Concessions To Developing Countries](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/126b6872.json))
 
-## Last Week (1,369 Articles)
+## Last Week (1,373 Articles)
 
 * **251** lankadeepa-lk ([හරක් කටාගේ වෙඩික්කරු අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a01760c.json))
 
@@ -58,7 +56,7 @@
 
 * **88** economy-next-com ([Sri Lanka’s bond yields steady; rupee guidance peg appreciates by 7 cents](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66cb130f.json))
 
-* **65** daily-ft-lk ([Lankan motorists deprived of super diesel: A penny wise pound foolish move?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fae6a4b6.json))
+* **69** daily-ft-lk ([Lankan motorists deprived of super diesel: A penny wise pound foolish move?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fae6a4b6.json))
 
 * **53** island-lk ([Doing it…dad’s way](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba8f05b3.json))
 
@@ -66,7 +64,7 @@
 
 * **15** d-b-s-jeyaraj-com ([Immigration Dept  Grants Scottish National Kayleigh Fraser  a  Grace Period to Leave Sri Lanka Following  the Dismissal  of het Writ Application Against her Deportation Order by the Court of Appeal](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0edd29bc.json))
 
-## All Time (2,005 Articles)
+## All Time (2,009 Articles)
 
 * **342** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,7 +78,7 @@
 
 * **180** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
-* **155** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
+* **159** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
 * **131** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 
