@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/21/wasantha-mudalige-and-others-detained-at-peliyagoda/",
+    "time_ut": 1661078280,
+    "original_lang": "en",
+    "original_title": "Wasantha Mudalige and others detained at Peliyagoda",
+    "file_name": "/tmp/news_lk2/articles/d1/d130e5ea.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dda\u0dad\u0dba\u0da7-\u0dc3\u0dc4\u0dcf\u0dba-\u0daf\u0dd4\u0db1\u0dca-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0da7-\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0dad\u0dd4\u0dad\u0dd2-\u0db4\u0dd4\u0daf\u0dba\u0dd2/101-618482",
     "time_ut": 1661077442,
@@ -22,6 +30,14 @@
     "original_lang": "en",
     "original_title": "Navy seizes petrol stock worth over Rs. 900,000 in Kalpitiya",
     "file_name": "/tmp/news_lk2/articles/36/364b8e95.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0d9a\u0dd1\u0db8\u0da7-\u0d8b\u0dad\u0dca\u0dc3\u0dcf\u0dc4-\u0d9a\u0dc5-13-\u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2-\u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2-\u0daf\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396486",
+    "time_ut": 1661074603,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0d9a\u0dd1\u0db8\u0da7 \u0d8b\u0dad\u0dca\u0dc3\u0dcf\u0dc4 \u0d9a\u0dc5 13 \u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2 \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2 \u0daf\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/72/7256f955.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "No fuel price revision despite drop in world market",
     "file_name": "/tmp/news_lk2/articles/7a/7a4fc620.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/16/gotabaya-entitled-to-public-funds-bandula/",
-    "time_ut": 1660632060,
-    "original_lang": "en",
-    "original_title": "Gotabaya entitled to Public Funds \u2013 Bandula",
-    "file_name": "/tmp/news_lk2/articles/a9/a9827912.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-shares-slip-over-1-pct-in-mid-day-trade-98667/",
-    "time_ut": 1660632000,
-    "original_lang": "en",
-    "original_title": "Sri Lanka shares slip over 1-pct in mid-day trade",
-    "file_name": "/tmp/news_lk2/articles/b9/b972ef27.json"
   }
 ]
