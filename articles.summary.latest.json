@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84438/visiting-undco-delegates-on-visit-to-northern-areas",
+    "time_ut": 1661079780,
+    "original_lang": "en",
+    "original_title": "Visiting UNDCO delegates on visit to northern areas",
+    "file_name": "/tmp/news_lk2/articles/54/545d8bd8.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0ba4\u0bc1\u0bb5\u0bae\u0bcd\u0b95\u0ba8\u0bcd\u0ba4\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bb5\u0bb1\u0bbf-\u0bb5\u0bc0\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4-\u0baf\u0bc1\u0bb5\u0ba4\u0bbf-\u0baa\u0bb2\u0bbf/175-302731",
+    "time_ut": 1661079763,
+    "original_lang": "ta",
+    "original_title": "\u0b89\u0ba4\u0bc1\u0bb5\u0bae\u0bcd\u0b95\u0ba8\u0bcd\u0ba4\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bb5\u0bb1\u0bbf \u0bb5\u0bc0\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4 \u0baf\u0bc1\u0bb5\u0ba4\u0bbf \u0baa\u0bb2\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/bd/bdce2deb.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd0\u0dc3\u0dca\u0db6\u0dd1-\u0db8\u0dc3\u0dca-\u0d9a\u0dd2\u0dbd\u0ddd-14-\u0d9a\u0dca-\u0dc3\u0dd2\u0dbd\u0dcf\u0dc0\u0dad\u0dd4\u0dbb\u0dd9\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-618483",
+    "time_ut": 1661079356,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd0\u0dc3\u0dca\u0db6\u0dd1 \u0db8\u0dc3\u0dca \u0d9a\u0dd2\u0dbd\u0ddd 14 \u0d9a\u0dca \u0dc3\u0dd2\u0dbd\u0dcf\u0dc0\u0dad\u0dd4\u0dbb\u0dd9\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/73/735fbbf7.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/21/wasantha-mudalige-and-others-detained-at-peliyagoda/",
     "time_ut": 1661078280,
@@ -569,11 +593,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/world_news/\u0db4\u0dd4\u0da7\u0dd2\u0db1\u0dca-\u0d8b\u0db4\u0daf\u0dda\u0dc1\u0d9a\u0dba\u0dcf\u0d9c\u0dda-\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba-\u0db6\u0ddd\u0db8\u0dca\u0db6-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2/14-618466",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dd4\u0da7\u0dd2\u0db1\u0dca-\u0d8b\u0db4\u0daf\u0dda\u0dc1\u0d9a\u0dba\u0dcf\u0d9c\u0dda-\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba-\u0db6\u0ddd\u0db8\u0dca\u0db6-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2/1-618466",
     "time_ut": 1661051652,
     "original_lang": "si",
     "original_title": "\u0db4\u0dd4\u0da7\u0dd2\u0db1\u0dca \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0d9a\u0dba\u0dcf\u0d9c\u0dda \u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba \u0db6\u0ddd\u0db8\u0dca\u0db6 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/06/06febc74.json"
+    "file_name": "/tmp/news_lk2/articles/7f/7f0e27cc.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba\u0dad\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd\u0dda \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca \u0db1\u0dd1?",
     "file_name": "/tmp/news_lk2/articles/9d/9db7ff45.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc5\u0db8\u0dcf-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1-\u0dc3\u0db3\u0dc4\u0dcf-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0ddd\u0db4\u0daf\u0dda\u0dc1-\u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf\u0daf\u0dd3\u0db8\u0da7-\u0dba\u0dba\u0dd2/101-618196",
-    "time_ut": 1660632871,
-    "original_lang": "si",
-    "original_title": "\u0dc5\u0db8\u0dcf \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0ddd\u0db4\u0daf\u0dda\u0dc1 \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf\u0daf\u0dd3\u0db8\u0da7 \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/16/16115a1c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0dcf\u0dad\u0dd2\u0dba-\u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd3\u0db8\u0dda-\u0daf\u0dd3-\u0dad\u0db8-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dba-\u0db1\u0dd2\u0dc3\u0dd2-\u0dbd\u0dd9\u0dc3-\u0d89\u0da7\u0dd4\u0d9a\u0dbb\u0db1\u0dca\u0db1/101-618195",
-    "time_ut": 1660632481,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0dba \u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd3\u0db8\u0dda \u0daf\u0dd3 \u0dad\u0db8 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dba \u0db1\u0dd2\u0dc3\u0dd2 \u0dbd\u0dd9\u0dc3 \u0d89\u0da7\u0dd4\u0d9a\u0dbb\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/77/7714bf29.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/No-fuel-price-revision-despite-drop-in-world-market/342-243159",
-    "time_ut": 1660632387,
-    "original_lang": "en",
-    "original_title": "No fuel price revision despite drop in world market",
-    "file_name": "/tmp/news_lk2/articles/7a/7a4fc620.json"
   }
 ]
