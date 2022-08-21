@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1-\u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0bae\u0bcd-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd/175-302711",
+    "time_ut": 1661055623,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0bae\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/3f/3f6ce970.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/21/sri-lanka-coconut-prices-continue-to-rise/",
+    "time_ut": 1661055420,
+    "original_lang": "en",
+    "original_title": "Sri Lanka: Coconut prices continue to rise",
+    "file_name": "/tmp/news_lk2/articles/4a/4a5bf8fd.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/21/208-sri-lanka-bound-flights-had-stopover-at-thiruvananthapuram-int-l-airport-for-refueling-till-date/",
+    "time_ut": 1661054760,
+    "original_lang": "en",
+    "original_title": "208 Sri Lanka bound flights had stopover at Thiruvananthapuram Int\u2019l airport for refueling till date",
+    "file_name": "/tmp/news_lk2/articles/17/171693f1.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb2\u0bbe\u0b83\u0baa\u0bcd-\u0baa\u0bbe\u0bb5\u0ba9\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0b95\u0bbf\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/175-302710",
     "time_ut": 1661053641,
     "original_lang": "ta",
@@ -14,6 +38,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b9a\u0b9f\u0bcd\u0b9f \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
     "file_name": "/tmp/news_lk2/articles/62/6264a707.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dbb\u0dd3\u0db1\u0dca\u0d9c\u0dda-\u0d89\u0dbd\u0d9a\u0dca\u0d9a\u0dba/11-396479",
+    "time_ut": 1661052583,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dbb\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0d89\u0dbd\u0d9a\u0dca\u0d9a\u0dba",
+    "file_name": "/tmp/news_lk2/articles/4d/4d2181d4.json"
   },
   {
     "newspaper_id": "ada-lk",

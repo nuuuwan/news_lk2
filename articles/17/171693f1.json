@@ -1,0 +1,531 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/08/21/208-sri-lanka-bound-flights-had-stopover-at-thiruvananthapuram-int-l-airport-for-refueling-till-date/",
+  "time_ut": 1661054760,
+  "original_lang": "en",
+  "original_title": "208 Sri Lanka bound flights had stopover at Thiruvananthapuram Int\u2019l airport for refueling till date",
+  "text_idx": {
+    "en": {
+      "title": "208 Sri Lanka bound flights had stopover at Thiruvananthapuram Int\u2019l airport for refueling till date",
+      "author": "unknown",
+      "body_lines": [
+        "(ANI): A total of 208 Sri Lanka flights had a stopover at Kerala's Thiruvananthapuram International Airport for refuelling to date.",
+        "On Saturday (20), 4 flights had stopped at Thiruvananthapuram for refuelling.",
+        "With this, the total number of Sri Lankan flights had a stopover since May 27 this year is 208.\u00a0 Of these, the most number of flights is SriLankan Airlines.",
+        "Moreover, 130 SriLankan Airlines flights stopped at Thiruvananthapuram for refuelling till yesterday.",
+        "Other airlines are Fly Dubai, Oman Air, Gulf Air, Air Arabia, Emirates and Fits Voyage flying to various destinations.",
+        "The Sri Lankan flights started refuelling from Thiruvananthapuram Airport since May 27, 2022 after they faced a shortage of fuel.",
+        "Notably, Sri Lanka is suffering its worst economic crisis since gaining independence in 1948, which comes on the heels of successive waves of COVID-19, threatening to undo years of development progress and severely undermining the country's ability to achieve the Sustainable Development Goals (SDGs).",
+        "208 Sri Lanka bound flights had stopover at Thiruvananthapuram Int\u2019l airport for refueling till date"
+      ],
+      "title_ents": [
+        {
+          "text": "208",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Sri Lanka",
+          "label": "LOC"
+        },
+        {
+          "text": "Thiruvananthapuram",
+          "label": "FAC"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "ANI",
+            "label": "ORG"
+          },
+          {
+            "text": "208",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Kerala",
+            "label": "GPE"
+          },
+          {
+            "text": "Thiruvananthapuram International Airport",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "Saturday",
+            "label": "DATE"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Thiruvananthapuram",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lankan",
+            "label": "NORP"
+          },
+          {
+            "text": "May 27 this year",
+            "label": "DATE"
+          },
+          {
+            "text": "208",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SriLankan Airlines",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "130",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SriLankan Airlines",
+            "label": "ORG"
+          },
+          {
+            "text": "Thiruvananthapuram",
+            "label": "ORG"
+          },
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Fly Dubai",
+            "label": "PERSON"
+          },
+          {
+            "text": "Oman Air",
+            "label": "ORG"
+          },
+          {
+            "text": "Gulf Air",
+            "label": "ORG"
+          },
+          {
+            "text": "Air Arabia",
+            "label": "GPE"
+          },
+          {
+            "text": "Emirates",
+            "label": "GPE"
+          },
+          {
+            "text": "Fits Voyage",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Thiruvananthapuram Airport",
+            "label": "FAC"
+          },
+          {
+            "text": "May 27, 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "1948",
+            "label": "DATE"
+          },
+          {
+            "text": "years",
+            "label": "DATE"
+          },
+          {
+            "text": "the Sustainable Development Goals",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "208",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "LOC"
+          },
+          {
+            "text": "Thiruvananthapuram",
+            "label": "FAC"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0db6\u0dbd\u0dcf \u0dba\u0db1 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca 208\u0d9a\u0dca \u0db8\u0dda \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0db1\u0dca\u0dad\u0db4\u0dd4\u0dbb\u0db8\u0dca \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0dd4\u0db4\u0dc5\u0dda \u0db1\u0dad\u0dbb \u0d9a\u0dbb \u0d87\u0dad.",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "(ANI): \u0db8\u0dda \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca 208 \u0d9a\u0dca \u0d9a\u0dda\u0dbb\u0dc5\u0dba\u0dda \u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0dad\u0db8\u0dca\u0db4\u0dd4\u0dbb\u0db8\u0dca \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0dd4\u0db4\u0dc5\u0dda \u0db1\u0dad\u0dbb \u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf (20) \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dcf 4\u0d9a\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0db1\u0dca\u0dad\u0db4\u0dd4\u0dbb\u0db8\u0dca \u0dc4\u0dd2 \u0db1\u0dad\u0dbb \u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dd2.",
+        "\u0db8\u0dda \u0dc3\u0db8\u0d9f, \u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0db8\u0dd0\u0dba\u0dd2 27 \u0dc3\u0dd2\u0da7 \u0db1\u0dd0\u0dc0\u0dad\u0dd4\u0db8\u0dca \u0d87\u0dad\u0dd2 \u0db8\u0dd4\u0dc5\u0dd4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 208 \u0d9a\u0dd2.\u00a0 \u0db8\u0dd9\u0dba\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2\u0db8 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba\u0dba\u0dd2.",
+        "\u0d91\u0db4\u0db8\u0dab\u0d9a\u0dca \u0db1\u0ddc\u0dc0, \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0db1\u0dca\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba\u0dda \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca 130\u0d9a\u0dca \u0d8a\u0dba\u0dda \u0dc0\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0db1\u0dca\u0dad\u0db4\u0dd4\u0dbb\u0db8\u0dca \u0dc4\u0dd2 \u0db1\u0dad\u0dbb \u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0d85\u0db1\u0dd9\u0d9a\u0dd4\u0dad\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca \u0dc0\u0db1\u0dca\u0db1\u0dda \u0dc6\u0dca\u0dbd\u0dba\u0dd2 \u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2, \u0d95\u0db8\u0dcf\u0db1\u0dca \u0d91\u0dba\u0dcf\u0dbb\u0dca, \u0d9c\u0dbd\u0dca\u0dc6\u0dca \u0d91\u0dba\u0dcf\u0dbb\u0dca, \u0d91\u0dba\u0dcf\u0dbb\u0dca \u0d87\u0dbb\u0db6\u0dd2\u0dba\u0dcf, \u0d91\u0db8\u0dd2\u0dbb\u0dda\u0da7\u0dca\u0dc3\u0dca \u0dc3\u0dc4 \u0dc6\u0dd2\u0da7\u0dca\u0dc3\u0dca \u0dc0\u0ddc\u0dba\u0dda\u0da2\u0dca \u0dc0\u0dd2\u0dc0\u0dd2\u0db0 \u0d9c\u0db8\u0db1\u0dcf\u0db1\u0dca\u0dad \u0dc0\u0dd9\u0dad \u0db4\u0dd2\u0dba\u0dcf\u0dc3\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dba\u0dd2.",
+        "2022 \u0db8\u0dd0\u0dba\u0dd2 27 \u0daf\u0dd2\u0db1 \u0dc3\u0dd2\u0da7 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca \u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0db1\u0dca\u0dad\u0db4\u0dd4\u0dbb\u0db8\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0dd4\u0db4\u0dc5\u0dd9\u0db1\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc3\u0dd0\u0db4\u0dba\u0dd3\u0db8 \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dc5\u0dda \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dd2\u0d9f\u0dba\u0d9a\u0da7 \u0db8\u0dd4\u0dc4\u0dd4\u0dab \u0daf\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0dc0\u0dba.",
+        "\u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0d9a\u0dbb\u0dd4\u0dab\u0d9a\u0dca \u0db1\u0db8\u0dca, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 1948 \u0db1\u0dd2\u0daf\u0dc4\u0dc3 \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0d91\u0dc4\u0dd2 \u0daf\u0dbb\u0dd4\u0dab\u0dd4\u0dad\u0db8 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7 \u0d9c\u0ddc\u0daf\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0d91\u0dba \u0dc0\u0dc3\u0dbb \u0d9c\u0dab\u0db1\u0dcf\u0dc0\u0d9a \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db4\u0dca\u200d\u0dbb\u0d9c\u0dad\u0dd2\u0dba \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dad\u0dbb\u0dca\u0da2\u0db1\u0dba \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dc4 \u0dad\u0dd2\u0dbb\u0dc3\u0dcf\u0dbb \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d89\u0dbd\u0d9a\u0dca\u0d9a (SDGs) \u0dc3\u0dcf\u0d9a\u0dca\u0dc2\u0dcf\u0dad\u0dca \u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dbb\u0da7\u0da7 \u0d87\u0dad\u0dd2 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0 \u0db6\u0dbb\u0db4\u0dad\u0dbd \u0dbd\u0dd9\u0dc3 \u0dc4\u0dd1\u0dbd\u0dca\u0dbd\u0dd4\u0dc0\u0da7 \u0dbd\u0d9a\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19 \u0dc4\u0dd2 \u0d85\u0db1\u0dd4\u0db4\u0dca\u200d\u0dbb\u0dcf\u0db4\u0dca\u0dad\u0dd2\u0d9a \u0dbb\u0dd0\u0dbd\u0dca\u0dbd \u0db8\u0dad \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dda. )",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0db6\u0dbd\u0dcf \u0dba\u0db1 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca 208\u0d9a\u0dca \u0db8\u0dda \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0db1\u0dca\u0dad\u0db4\u0dd4\u0dbb\u0db8\u0dca \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0dd4\u0db4\u0dc5\u0dda \u0db1\u0dad\u0dbb \u0d9a\u0dbb \u0d87\u0dad."
+      ],
+      "title_ents": [
+        {
+          "text": "208",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "LOC"
+        },
+        {
+          "text": "\u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0db1\u0dca\u0dad\u0db4\u0dd4\u0dbb\u0db8\u0dca",
+          "label": "FAC"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "ANI",
+            "label": "ORG"
+          },
+          {
+            "text": "208",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0dda\u0dbb\u0dbd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0db1\u0dca\u0dad\u0db4\u0dd4\u0dbb\u0db8\u0dca \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0dd4\u0db4\u0dc5",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0db1\u0dca\u0dad\u0db4\u0dd4\u0dbb\u0db8\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0db8\u0dd0\u0dba\u0dd2 27",
+            "label": "DATE"
+          },
+          {
+            "text": "208",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "130",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0db1\u0dca\u0dad\u0db4\u0dd4\u0dbb\u0db8\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2 \u0db4\u0dd2\u0dba\u0dcf\u0dc3\u0dbb \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d95\u0db8\u0dcf\u0db1\u0dca \u0d91\u0dba\u0dcf\u0dbb\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9c\u0dbd\u0dca\u0dc6\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0dba\u0dcf\u0dbb\u0dca \u0d85\u0dbb\u0dcf\u0db6\u0dd2\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d91\u0db8\u0dd2\u0dbb\u0dda\u0da7\u0dca\u0dc3\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9c\u0db8\u0db1\u0da7 \u0d9c\u0dd0\u0dbd\u0db4\u0dda",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0db1\u0dca\u0dad\u0db4\u0dd4\u0dbb\u0db8\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0dd4\u0db4\u0dc5",
+            "label": "FAC"
+          },
+          {
+            "text": "2022 \u0db8\u0dd0\u0dba\u0dd2 27",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "1948",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dad\u0dd2\u0dbb\u0dc3\u0dcf\u0dbb \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d89\u0dbd\u0d9a\u0dca\u0d9a",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "208",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0db1\u0dca\u0dad\u0db4\u0dd4\u0dbb\u0db8\u0dca",
+            "label": "FAC"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd 208 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bb5\u0bb0\u0bc8 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9.",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "(ANI): \u0b95\u0bc7\u0bb0\u0bb3\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bb5\u0bb0\u0bc8 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0bae\u0bca\u0ba4\u0bcd\u0ba4\u0bae\u0bcd 208 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9.",
+        "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (20) \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 4 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bc1\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9.",
+        "\u0b87\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd, \u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc7 27 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 208 \u0b86\u0b95\u0bc1\u0bae\u0bcd.\u00a0 \u0b87\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd, \u0b85\u0ba4\u0bbf\u0b95 \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd \u0b86\u0b95\u0bc1\u0bae\u0bcd.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0bb0\u0bc8 130 \u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bc1\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9.",
+        "\u0baa\u0bbf\u0bb1 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b83\u0baa\u0bcd\u0bb3\u0bc8 \u0ba4\u0bc1\u0baa\u0bbe\u0baf\u0bcd, \u0b93\u0bae\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd, \u0b95\u0bb2\u0bcd\u0b83\u0baa\u0bcd \u0b8f\u0bb0\u0bcd, \u0b8f\u0bb0\u0bcd \u0b85\u0bb0\u0bc7\u0baa\u0bbf\u0baf\u0bbe, \u0b8e\u0bae\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd\u0bb8\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b83\u0baa\u0bbf\u0b9f\u0bcd\u0bb8\u0bcd \u0bb5\u0bcb\u0baf\u0bc7\u0b9c\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bc8 \u0baa\u0bb2\u0bcd\u0bb5\u0bc7\u0bb1\u0bc1 \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bb1\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba4\u0bc8 \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0bae\u0bc7 27, 2022 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, 1948 \u0b87\u0bb2\u0bcd \u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0ba4\u0ba9\u0bcd \u0bae\u0bcb\u0b9a\u0bae\u0bbe\u0ba9 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9 COVID-19 \u0b85\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0bae\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0baa\u0bb2 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bbe\u0bb2 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0ba4\u0bb5\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95 \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9 \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8 (SDGs) \u0b85\u0b9f\u0bc8\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0bb1\u0ba9\u0bc8 \u0b95\u0b9f\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bc8\u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b89\u0b9f\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. )",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd 208 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bb5\u0bb0\u0bc8 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9."
+      ],
+      "title_ents": [
+        {
+          "text": "208",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "LOC"
+        },
+        {
+          "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+          "label": "FAC"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b8f\u0b8e\u0ba9\u0bcd\u0b90",
+            "label": "ORG"
+          },
+          {
+            "text": "208",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc7 27",
+            "label": "DATE"
+          },
+          {
+            "text": "208",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "130",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba4\u0bc1\u0baa\u0bbe\u0baf\u0bcd \u0baa\u0bb1\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b93\u0bae\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bb3\u0bc8\u0b95\u0bc1\u0b9f\u0bbe \u0b8f\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8f\u0bb0\u0bcd \u0b85\u0bb0\u0bc7\u0baa\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8e\u0bae\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd\u0bb8\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0baf\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0bae\u0bc7 27, 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "1948",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "208",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+            "label": "FAC"
+          }
+        ]
+      ]
+    }
+  }
+}
