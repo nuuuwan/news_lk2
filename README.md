@@ -1,24 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 20:29:03 (LK time)*
+*As of 2022-08-21 20:43:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** economy-next-com ([Sri Lanka tea exports down 10-pct in July; dollar and rupee earnings up](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/245f4666.json))
 
-* **1** tamil-mirror-lk ([எரிபொருள் பாவனை குறைவடைந்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48b42ab5.json))
+## Last Hour (5 Articles)
 
-## Last Hour (6 Articles)
-
-* **4** tamil-mirror-lk ([நாளை எதிர்ப்பு போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/adb0214b.json))
+* **3** tamil-mirror-lk ([பொலிஸ் நிலையத்தில் காத்திருந்த பொன்சேகா](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0b6043a.json))
 
 * **1** economy-next-com ([Sri Lanka tea exports down 10-pct in July; dollar and rupee earnings up](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/245f4666.json))
 
 * **1** daily-mirror-lk ([UN Special Rapporteur against detention order on IUSF convenor & two others](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d92a981e.json))
 
-## Last 3 Hours (18 Articles)
+## Last 3 Hours (17 Articles)
 
 * **7** tamil-mirror-lk ([இலங்கைக்கு இருண்ட நாளாக அமையும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/237448df.json))
 
@@ -29,8 +27,6 @@
 * **2** daily-mirror-lk ([Probe on arrested Uni students handed over to CID](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/439ac64b.json))
 
 * **2** news-first-lk ([If you cannot perform, leave : President to State Sector](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f128794.json))
-
-* **1** ada-lk ([කාටවත් නිකන් කන්න දෙන්න බෑ වැඩ කරන්න බැරිනම් ගෙදර යන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad34ce9a.json))
 
 ## Last 24 Hours (129 Articles)
 
@@ -48,19 +44,19 @@
 
 * **7** economy-next-com ([Fisheries jobs for 1,047 Sri Lankans in Korea this year: labour ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73c7d7a2.json))
 
-## Last Week (1,377 Articles)
+## Last Week (1,372 Articles)
 
 * **249** lankadeepa-lk ([කොවිඩ් ආසාදිතයන් 96 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/9581b597.json))
 
-* **200** news-first-lk ([Will support from Opposition until Tamil people are satisfied: C.V. Wigneswaran](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60172509.json))
+* **198** news-first-lk ([1 hour Power cut for today (15), tomorrow (16)](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4994f786.json))
 
 * **179** ada-lk ([ජොනී, නාමල්, මහින්දානන්ද, රෝහිත, පවිත්‍රා ඇතුළු පිරිසකට ඇමතිධුර දෙන්නැයි බැසිල් ජනපතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5ffadcf1.json))
 
 * **170** tamil-mirror-lk ([பாகிஸ்தான் கப்பலுடன் போர் பயிற்சி இல்லை: இலங்கை கடற்படை](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96d36a5d.json))
 
-* **170** daily-mirror-lk ([Universal Social Welfare vs. Targeted Social Protection](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9c92f3d.json))
+* **168** daily-mirror-lk ([Tourist arrivals from August 1 – 11 cross 16,000 mark](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c28f5fcd.json))
 
-* **156** ada-derana-lk ([Another diesel shipment to reach the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7ac4b242.json))
+* **155** ada-derana-lk ([Woman found murdered inside her home in Kandy](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c7cc2b5.json))
 
 * **89** economy-next-com ([Sri Lanka tea sold at historic high prices in July 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe1ef683.json))
 
