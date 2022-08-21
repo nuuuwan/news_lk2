@@ -1,42 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 18:55:41 (LK time)*
+*As of 2022-08-21 19:11:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
-
-* **1** tamil-mirror-lk ([இலவசம் இல்லை: ஜனாதிபதி அதிரடி](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33e63258.json))
-
-* **1** ada-derana-lk ([Police seek public assistance identify more suspects](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44b0aafe.json))
-
-* **1** news-first-lk ([If you cannot perform, leave : President to State Sector](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f128794.json))
-
-## Last Hour (6 Articles)
+## Last Hour (5 Articles)
 
 * **2** ada-derana-lk ([27-year-old female falls to death from Uthuwankanda](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f6f668c.json))
 
-* **2** economy-next-com ([Sri Lanka schedules 3-hour power cuts for Aug 22](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a5fbab7.json))
-
 * **1** tamil-mirror-lk ([இலவசம் இல்லை: ஜனாதிபதி அதிரடி](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33e63258.json))
 
 * **1** news-first-lk ([If you cannot perform, leave : President to State Sector](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f128794.json))
 
-## Last 3 Hours (26 Articles)
+* **1** economy-next-com ([Sri Lanka’s petroleum sector trade unions to launch protest on Aug 22 against new reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38f14338.json))
+
+## Last 3 Hours (25 Articles)
 
 * **6** ada-derana-lk ([Visiting UNDCO delegates on visit to northern areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/545d8bd8.json))
-
-* **5** news-first-lk ([Wasantha Mudalige and others detained at Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d130e5ea.json))
 
 * **5** lankadeepa-lk ([කැස්බෑ මස් කිලෝ 14 ක් සිලාවතුරෙන් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/735fbbf7.json))
 
 * **4** tamil-mirror-lk ([உதுவம்கந்தயில் தவறி வீழ்ந்த யுவதி பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e749c5c7.json))
 
+* **4** news-first-lk ([Do not sign detention order – UN Rapporteur calls on President](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a741798.json))
+
 * **3** economy-next-com ([Austria donates 27 essential medicines to crisis hit Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47350cc5.json))
 
 * **3** ada-lk ([සරදියෙල් ගලෙන් වැටී පේරාදෙණිය සරසවි සිසුවිය මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bab37f2.json))
 
-## Last 24 Hours (128 Articles)
+## Last 24 Hours (126 Articles)
 
 * **31** lankadeepa-lk ([නාන තටාකයට වැටී තරුණියක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dc304f5.json))
 
@@ -46,17 +38,17 @@
 
 * **18** ada-derana-lk ([Sapugaskanda Refinery resumes operations](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a97aa9f4.json))
 
-* **18** ada-lk ([වී අලෙවි මණ්ඩලය වී මෙට්‍රික් ටොන් 332 ක් මිලදී ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27f1d8ac.json))
+* **17** ada-lk ([සපුගස්කන්ද පිරිපහදුව වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/daa92ce9.json))
 
-* **12** daily-mirror-lk ([CID record statements from Dulanjalee Premadasa and Hirunika](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a42f909.json))
+* **11** daily-mirror-lk ([204 Lankan flights stopped for refuelling at Thiruvananthapuram airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86de61ba.json))
 
 * **7** economy-next-com ([Sri Lanka to get UN’s support to achieve 2030 agenda for sustainable development](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623faa.json))
 
-## Last Week (1,369 Articles)
+## Last Week (1,368 Articles)
 
 * **249** lankadeepa-lk ([කොවිඩ් ආසාදිතයන් 96 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/9581b597.json))
 
-* **200** news-first-lk ([‘Victimized’ SLPP seniors pushing compensation: Report](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4db0d7d9.json))
+* **199** news-first-lk ([Will support from Opposition until Tamil people are satisfied: C.V. Wigneswaran](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60172509.json))
 
 * **178** ada-lk ([ජොනී, නාමල්, මහින්දානන්ද, රෝහිත, පවිත්‍රා ඇතුළු පිරිසකට ඇමතිධුර දෙන්නැයි බැසිල් ජනපතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5ffadcf1.json))
 
