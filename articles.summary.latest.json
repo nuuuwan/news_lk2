@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84445/sri-lanka-envoy-expresses-gratitude-to-us-congresspeople-for-showing-interest-in-the-country",
+    "time_ut": 1661106240,
+    "original_lang": "en",
+    "original_title": "Sri Lanka envoy expresses gratitude to US congresspeople for showing interest in the country",
+    "file_name": "/tmp/news_lk2/articles/ee/eec8e000.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-hikes-kerosene-price-290-pct-in-steep-correction-98845/",
     "time_ut": 1661101080,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0db8\u0dbb\u0dab \u0dad\u0dc0\u0dad\u0dca 6\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/00/00b13847.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad\u0dda\u0daf\u0dd3-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0dc0\u0dcf\u0dc4\u0db1\u0dc0\u0dbd\u0da7-\u0db4\u0dc4\u0dbb-\u0daf\u0dd4\u0db1\u0dca-\u0dad\u0dc0\u0dad\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-618216",
-    "time_ut": 1660647448,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad\u0dda\u0daf\u0dd3 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dc0\u0dcf\u0dc4\u0db1\u0dc0\u0dbd\u0da7 \u0db4\u0dc4\u0dbb \u0daf\u0dd4\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/d3/d3db7e3a.json"
   }
 ]
