@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 06:41:37 (LK time)*
+*As of 2022-08-21 07:22:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,9 +8,9 @@
 
 * **21** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
 
-* **19** tamil-mirror-lk ([முன்னாள் ஜனாதிபதியின் வீட்டுக்கு பலத்த பாதுகாப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/4828d3ff.json))
+* **20** tamil-mirror-lk ([முன்னாள் ஜனாதிபதியின் வீட்டுக்கு பலத்த பாதுகாப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/4828d3ff.json))
 
-* **19** lankadeepa-lk ([පළාත් කීපයකට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b330ad54.json))
+* **18** lankadeepa-lk ([බිත්තරවලට පාලන මිලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1393262c.json))
 
 * **16** ada-derana-lk ([Parts of the island to receive spells of showers today](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/5978dd6a.json))
 
@@ -34,7 +34,7 @@
 
 * **173** daily-mirror-lk ([Two Sri Lankan nationals arrested on robbery charge in Chennai](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/242bbdc8.json))
 
-* **167** tamil-mirror-lk ([ஐ.நா மனித உரிமைகள் பேரவைக்கு தமிழ் கட்சிகள் கூட்டறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c07e8a8.json))
+* **167** tamil-mirror-lk ([நாளை முதல் மற்றுமொரு அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e18dea11.json))
 
 * **153** ada-derana-lk ([Few showers expected in several provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586894b1.json))
 
@@ -48,7 +48,7 @@
 
 * **15** d-b-s-jeyaraj-com ([Hundreds of Tamil mothers Conduct  rally in Kilinochchi  to mark 2,000 days of protests  to seek justice for their sons who they claim were forcibly disappeared during and after the civil war.](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204627e7.json))
 
-## All Time (1,853 Articles)
+## All Time (1,854 Articles)
 
 * **312** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -58,7 +58,7 @@
 
 * **204** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
-* **169** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **170** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **160** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
