@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Nine-Senior-Brigadiers-promoted-as-Major-Generals/108-243436",
+    "time_ut": 1661068718,
+    "original_lang": "en",
+    "original_title": "Nine Senior Brigadiers promoted as Major Generals",
+    "file_name": "/tmp/news_lk2/articles/2b/2bd3e87d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84435/two-arrested-over-shooting-inside-mount-lavinia-court",
+    "time_ut": 1661068620,
+    "original_lang": "en",
+    "original_title": "Two arrested over shooting inside Mount Lavinia court",
+    "file_name": "/tmp/news_lk2/articles/f1/f1948067.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd4\u0db1\u0dbb\u0dca\u0da2\u0db1\u0db1\u0dd3\u0dba-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0da7-\u0d9c\u0dd9\u0dc0\u0dd2\u0dba-\u0dba\u0dd4\u0dad\u0dd4-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-28-\u0dc0\u0dc4\u0dcf-\u0d9c\u0dd9\u0dc0\u0db1\u0dca\u0db1/101-618474",
     "time_ut": 1661067717,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Yuan Wang 5 arrives",
     "file_name": "/tmp/news_lk2/articles/7c/7c64b3f3.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd-\u0db8\u0dd4\u0dbd\u0dca-\u0db4\u0dd4\u0da7\u0dd4-\u0dc0\u0dd9\u0db1\u0dc3\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba-\u0dbd\u0db6\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca/11-396333",
-    "time_ut": 1660625770,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd \u0db8\u0dd4\u0dbd\u0dca \u0db4\u0dd4\u0da7\u0dd4 \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/1b/1b3aa8b7.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/india-gifts-maritime-surveillance-aircraft-to-sri-lanka-amid-chinese-spy-ship-row-98662/",
-    "time_ut": 1660625460,
-    "original_lang": "en",
-    "original_title": "India gifts maritime surveillance aircraft to Sri Lanka amid Chinese \u2018spy ship\u2019 row",
-    "file_name": "/tmp/news_lk2/articles/e1/e1564a36.json"
   }
 ]
