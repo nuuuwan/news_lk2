@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-22 02:45:19 (LK time)*
+*As of 2022-08-22 03:12:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last Hour (4 Articles)
 
 * **4** daily-ft-lk ([Nine Sri Lankan apparel exporters successfully participate in ‘Sourcing at Magic Las Vegas’, USA](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecab6fdd.json))
 
-## Last Hour (5 Articles)
-
-* **5** daily-ft-lk ([Ken Vijayakumar elected President of CIPM SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3727b455.json))
-
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (9 Articles)
 
 * **8** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cd49cf2.json))
-
-* **2** ada-derana-lk ([Sri Lanka envoy expresses gratitude to US congresspeople for showing interest in the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eec8e000.json))
 
 * **1** tamil-mirror-lk ([யாழ் - கொழும்பு ரயில் சேவைகளை அதிகரிக்க நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b44095b.json))
 
