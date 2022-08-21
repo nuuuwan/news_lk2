@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd4\u0db1\u0dbb\u0dca\u0da2\u0db1\u0db1\u0dd3\u0dba-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0da7-\u0d9c\u0dd9\u0dc0\u0dd2\u0dba-\u0dba\u0dd4\u0dad\u0dd4-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-28-\u0dc0\u0dc4\u0dcf-\u0d9c\u0dd9\u0dc0\u0db1\u0dca\u0db1/101-618474",
+    "time_ut": 1661067717,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd4\u0db1\u0dbb\u0dca\u0da2\u0db1\u0db1\u0dd3\u0dba \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0da7 \u0d9c\u0dd9\u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 28 \u0dc0\u0dc4\u0dcf \u0d9c\u0dd9\u0dc0\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/bd/bd02fc95.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-sapugaskanda-oil-refinery-to-run-for-40-days-with-two-oil-shipments-98827/",
+    "time_ut": 1661067600,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s Sapugaskanda oil refinery to run for 40-days with two oil shipments",
+    "file_name": "/tmp/news_lk2/articles/ab/abc1551e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/175-302726",
+    "time_ut": 1661067134,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/77/774a0666.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0ba4\u0bc0-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0b8e\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9/76-302725",
     "time_ut": 1661066684,
     "original_lang": "ta",
     "original_title": "\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0ba4\u0bc0;   \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9",
     "file_name": "/tmp/news_lk2/articles/be/be5d60fc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Poultry-farmers-to-ignore-price-control-on-eggs/108-243435",
+    "time_ut": 1661066134,
+    "original_lang": "en",
+    "original_title": "Poultry farmers to ignore price control on eggs",
+    "file_name": "/tmp/news_lk2/articles/11/1128971a.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
