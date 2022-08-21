@@ -288,6 +288,14 @@
     "file_name": "/tmp/news_lk2/articles/db/db1ab8ae.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/childs-guide-to-uks-trade-concessions-to-developing-countries/",
+    "time_ut": 1661091969,
+    "original_lang": "en",
+    "original_title": "Child\u2019s Guide To UK\u2019s Trade Concessions To Developing Countries",
+    "file_name": "/tmp/news_lk2/articles/12/126b6872.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/UN-Special-Rapporteur-against-detention-order-on-IUSF-convenor-two-others/108-243441",
     "time_ut": 1661091508,
