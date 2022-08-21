@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Seeking-blessings/110-243442",
+    "time_ut": 1661095739,
+    "original_lang": "en",
+    "original_title": "Seeking blessings...",
+    "file_name": "/tmp/news_lk2/articles/1d/1da5f99e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/21/sri-lanka-s-plunge-to-crisis-caused-by-corruption/",
+    "time_ut": 1661094720,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s plunge to crisis caused by corruption",
+    "file_name": "/tmp/news_lk2/articles/af/af82a170.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/top-un-officials-asks-sri-lanka-president-to-not-to-sign-detention-orders-on-iusf-convenor-98844/",
+    "time_ut": 1661094480,
+    "original_lang": "en",
+    "original_title": "Top UN officials asks Sri Lanka president to not to sign detention orders on IUSF convenor",
+    "file_name": "/tmp/news_lk2/articles/67/6779d21c.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8\u0baf-\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-302757",
+    "time_ut": 1661094408,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8\u0baf \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a8/a85b2e68.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-tea-exports-down-10-pct-in-july-dollar-and-rupee-earnings-up-98828/",
     "time_ut": 1661093340,
