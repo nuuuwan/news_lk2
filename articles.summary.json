@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Immorality-of-attack-on-university-students/14-738939",
+    "time_ut": 1661107691,
+    "original_lang": "en",
+    "original_title": "Immorality of attack on university students",
+    "file_name": "/tmp/news_lk2/articles/8c/8cd49cf2.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84445/sri-lanka-envoy-expresses-gratitude-to-us-congresspeople-for-showing-interest-in-the-country",
     "time_ut": 1661106240,
     "original_lang": "en",
     "original_title": "Sri Lanka envoy expresses gratitude to US congresspeople for showing interest in the country",
     "file_name": "/tmp/news_lk2/articles/ee/eec8e000.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/IMF-facility-and-future-burdens-EDITORIAL/172-243448",
+    "time_ut": 1661104827,
+    "original_lang": "en",
+    "original_title": "IMF facility and future burdens - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/af/affe7f2f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Marking-75-years-of-Indian-Independence-DEMOCRACY-THAT-IS-INDIA-INTRIGUING-EVOLVING-AND-INSPIRING/172-243447",
+    "time_ut": 1661104669,
+    "original_lang": "en",
+    "original_title": "Marking 75 years of Indian Independence: DEMOCRACY THAT IS INDIA: INTRIGUING, EVOLVING AND INSPIRING",
+    "file_name": "/tmp/news_lk2/articles/21/21992fff.json"
   },
   {
     "newspaper_id": "economy-next-com",
