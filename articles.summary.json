@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd0\u0dc3\u0dca\u0dc3\u0dda-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8\u0d9a\u0dca/101-618460",
+    "time_ut": 1661049890,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd0\u0dc3\u0dca\u0dc3\u0dda \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/a7/a73cfa5b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84430/showery-condition-to-enhance-in-some-areas",
+    "time_ut": 1661046840,
+    "original_lang": "en",
+    "original_title": "Showery condition to enhance in some areas",
+    "file_name": "/tmp/news_lk2/articles/37/3788ce21.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-302704",
     "time_ut": 1661025279,
@@ -998,6 +1014,14 @@
     "original_lang": "en",
     "original_title": "Tea export volumes down 7.8 MnKgs in July",
     "file_name": "/tmp/news_lk2/articles/7d/7d30198f.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79104",
+    "time_ut": 1660942320,
+    "original_lang": "en",
+    "original_title": "Wickremesinghe does not seem to have learnt a lesson from a basic mental aberration that the UNP suffers from: Crushing legitimate dissent by force using UNP thugs or security services has been one of the main reasons for the nemesis of the party,",
+    "file_name": "/tmp/news_lk2/articles/c3/c37b8a6e.json"
   },
   {
     "newspaper_id": "economy-next-com",
