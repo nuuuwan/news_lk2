@@ -1,20 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 10:35:38 (LK time)*
+*As of 2022-08-21 10:49:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last Hour (8 Articles)
 
-* **3** news-first-lk ([Health Ministry focuses on filling stations near major Hospitals](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b217797.json))
-
-* **1** daily-mirror-lk ([GotaGoGama France activist arrested over May 9 violence when visiting Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37bfb7f0.json))
-
-* **1** tamil-mirror-lk ([“சட்ட நடவடிக்கை எடுக்கப்படும்’’ பொலிஸார் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41834fd4.json))
-
-## Last Hour (10 Articles)
-
-* **6** news-first-lk ([208 Sri Lanka bound flights had stopover at Thiruvananthapuram Int’l airport for refueling till date](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/171693f1.json))
+* **4** news-first-lk ([NTC to take action against over 100 buses for overcharging passengers](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbc93839.json))
 
 * **3** tamil-mirror-lk ([இன்று மூன்று மணித்தியாலம் வெட்டப்படும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f6ce970.json))
 
@@ -56,17 +48,17 @@
 
 * **3** colombo-telegraph-com ([Privatizing Sri Lanka Ex-Ante IMF Bailout Of BlackRock: Adani Greenwash In Mannar & Pooneryn](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75c596e0.json))
 
-## Last Week (1,377 Articles)
+## Last Week (1,371 Articles)
 
 * **238** lankadeepa-lk ([ඉස්සූ තැපැල් ගාස්තු මෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d774c9b.json))
 
 * **199** news-first-lk ([Two arrested with nearly 2,000l diesel](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c5470bf.json))
 
-* **189** ada-lk ([අවුරුදු 3ට වන අලි මරණ 1110ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26d1f8dd.json))
+* **188** ada-lk ([රනිල් වික්‍රමසිංහ කියන්නේ ජාතික වස්තුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1aa38de.json))
 
-* **171** daily-mirror-lk ([Number of vehicles can now be registered under BRN under NFP: ICTA](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d18fff02.json))
+* **168** daily-mirror-lk ([Pakistan commemorate 75th Independence Day](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca00cb95.json))
 
-* **165** tamil-mirror-lk ([சென்னையில் கொள்ளையடித்த இரு இலங்கையர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/feca54bb.json))
+* **163** tamil-mirror-lk ([யாழில் அதிசய கோழிக் குஞ்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9b0e9e2.json))
 
 * **152** ada-derana-lk ([Four more Sri Lankans reach TN on illegal vessel](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1df35809.json))
 
