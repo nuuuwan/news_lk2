@@ -1,28 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 12:28:40 (LK time)*
+*As of 2022-08-21 12:46:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** lankadeepa-lk ([දිස්ත්‍රික් අටක පුරන් කුඹුරු බින්දුවට බස්සයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4569a267.json))
+* **1** lankadeepa-lk ([කවුරු විරුද්ධ වුණත් ඛනිජ තෙල්  ප්‍රතිව්‍යුහගත කරනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62c36d28.json))
 
-## Last Hour (8 Articles)
+## Last Hour (6 Articles)
 
-* **3** news-first-lk ([Person arrested for transporting 1,000l diesel](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/415e7e31.json))
-
-* **2** lankadeepa-lk ([දූෂණයට එරෙහිව පාරට බැස්ස මිනිස්සුන්ට දඬුවම් දෙන්න එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f5cddb3.json))
+* **2** lankadeepa-lk ([දිස්ත්‍රික් අටක පුරන් කුඹුරු බින්දුවට බස්සයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4569a267.json))
 
 * **2** daily-mirror-lk ([Resolving economic crisis : President stresses special focus on agriculture](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1ba7898c.json))
+
+* **1** news-first-lk ([CPC TUs to protest tomorrow (22)](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b17397f3.json))
 
 * **1** ada-derana-lk ([Sajith urges govt to act in best interest of people and country](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ca32131.json))
 
 ## Last 3 Hours (27 Articles)
 
-* **9** news-first-lk ([208 Sri Lanka bound flights had stopover at Thiruvananthapuram Int’l airport for refueling till date](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/171693f1.json))
+* **8** news-first-lk ([Sri Lanka: Coconut prices continue to rise](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a5bf8fd.json))
 
-* **5** lankadeepa-lk ([සාමකාමී උද්ඝෝෂකයන්ට පහරදී ජාත්‍යන්තරය ඉදිරියේ රට අනතුරේ ඇමුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc9fa52b.json))
+* **6** lankadeepa-lk ([සාමකාමී උද්ඝෝෂකයන්ට පහරදී ජාත්‍යන්තරය ඉදිරියේ රට අනතුරේ ඇමුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc9fa52b.json))
 
 * **5** tamil-mirror-lk ([இன்று மூன்று மணித்தியாலம் வெட்டப்படும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f6ce970.json))
 
@@ -40,29 +40,29 @@
 
 * **19** tamil-mirror-lk ([கொரோனா குறித்த முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eaf86c39.json))
 
-* **16** lankadeepa-lk ([‘‘අරගලකරුවන් ගිනි තැබූ ගෙවල් හදා ගන්න රජයෙන් පිහිටක් නෑ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/731b7aab.json))
+* **17** lankadeepa-lk ([‘‘අරගලකරුවන් ගිනි තැබූ ගෙවල් හදා ගන්න රජයෙන් පිහිටක් නෑ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/731b7aab.json))
 
 * **15** ada-derana-lk ([Hirunika records statement with CID](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/962f1e82.json))
 
 * **15** ada-lk ([නව කැබිනට් මණ්ඩලය ලබන සතියේදී දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e301afa7.json))
 
-* **9** daily-mirror-lk ([PCR, RAT test kits are limited; stringent effort to control spread underway: Dr. Herath](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8be841a3.json))
-
 * **9** economy-next-com ([Sri Lanka Customs arrest three Indians suspected of smuggling in jewellery](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bcc4e2c0.json))
 
 * **9** island-lk ([Three Sinha Industries donates medical equipment to Lady Ridgeway Hospital](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c05aac6.json))
 
+* **8** daily-mirror-lk ([Three women killed, 18 injured in accident in Muthur](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5377270.json))
+
 * **3** colombo-telegraph-com ([Privatizing Sri Lanka Ex-Ante IMF Bailout Of BlackRock: Adani Greenwash In Mannar & Pooneryn](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75c596e0.json))
 
-## Last Week (1,366 Articles)
+## Last Week (1,365 Articles)
 
-* **241** lankadeepa-lk ([ඇතෙක් - අලි දෙදෙනෙක් විදුලි රැහැනට බිලි](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51ff7f56.json))
+* **242** lankadeepa-lk ([ඇතෙක් - අලි දෙදෙනෙක් විදුලි රැහැනට බිලි](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51ff7f56.json))
 
-* **198** news-first-lk ([ICTA to monitor QR-based fuel distribution](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51ab0232.json))
+* **197** news-first-lk ([Teenage boy drowns in Rideegama](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f1672e5.json))
 
 * **181** ada-lk ([ඩයස්පෝරා සංවිධාන 6ක තහනම ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43912e51.json))
 
-* **170** daily-mirror-lk ([90% buses will provide shuttle for school children: Gemunu](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b69a1e5.json))
+* **169** daily-mirror-lk ([Cardinal calls for a fresh probe on Easter attack](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37ad8cb4.json))
 
 * **163** tamil-mirror-lk ([ICTA விடுத்துள்ள அறிவித்தல்.](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/545af311.json))
 
@@ -78,9 +78,9 @@
 
 * **16** d-b-s-jeyaraj-com ([Hundreds of Tamil mothers Conduct  rally in Kilinochchi  to mark 2,000 days of protests  to seek justice for their sons who they claim were forcibly disappeared during and after the civil war.](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204627e7.json))
 
-## All Time (1,896 Articles)
+## All Time (1,897 Articles)
 
-* **318** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **319** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **254** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
