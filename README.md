@@ -1,30 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 15:09:58 (LK time)*
+*As of 2022-08-21 15:24:36 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **1** lankadeepa-lk ([සංචාරක සමාගම හිමිකරු පැහැරගෙන මුදල් කොල්ල කෑ අයෙක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48c562e6.json))
+
+* **1** news-first-lk ([University student falls off Uthuwankanda, dies from injuries](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f14c38b8.json))
+
+## Last Hour (6 Articles)
 
 * **2** news-first-lk ([3-hour power cut approved for Monday (22)](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52b5729a.json))
+
+* **1** lankadeepa-lk ([සංචාරක සමාගම හිමිකරු පැහැරගෙන මුදල් කොල්ල කෑ අයෙක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48c562e6.json))
 
 * **1** ada-derana-lk ([Power cut schedule for Aug 22](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f00ba1c.json))
 
 * **1** daily-mirror-lk ([Female undergrad falls to death from Uthuwankanda mountain](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed1f6ec0.json))
 
-## Last Hour (7 Articles)
-
-* **3** news-first-lk ([Committees to probe price fluctuations & nutritional levels of goods](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/8454feba.json))
-
-* **2** daily-mirror-lk ([Six million vehicles registered for National Fuel Pass QR system](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d68811a6.json))
-
-* **1** ada-derana-lk ([Power cut schedule for Aug 22](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f00ba1c.json))
-
 * **1** tamil-mirror-lk ([கோழி இறைச்சிக்கும் வருகின்றது கட்டுப்பாட்டு விலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/088e07dd.json))
 
-## Last 3 Hours (24 Articles)
+## Last 3 Hours (25 Articles)
 
-* **8** lankadeepa-lk ([කවුරු විරුද්ධ වුණත් ඛනිජ තෙල්  ප්‍රතිව්‍යුහගත කරනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62c36d28.json))
+* **9** lankadeepa-lk ([කවුරු විරුද්ධ වුණත් ඛනිජ තෙල්  ප්‍රතිව්‍යුහගත කරනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62c36d28.json))
 
 * **4** news-first-lk ([Govt focuses on control price for chicken](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/468bdcb0.json))
 
@@ -38,9 +38,9 @@
 
 * **1** ada-lk ([’බිත්තර ගැසට්ටුව’ රිවස් කිරීමක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9afd08e.json))
 
-## Last 24 Hours (124 Articles)
+## Last 24 Hours (123 Articles)
 
-* **24** lankadeepa-lk ([හිරුණිකා සී.අයි.ඩියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e67f7229.json))
+* **24** lankadeepa-lk ([මුදල් අර්බුද අස්සේ කෝටි 63477ක තොරම්බල් ගෙනල්ලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35463e83.json))
 
 * **22** news-first-lk ([SLC releases squad for Asia Cup 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31484193.json))
 
@@ -50,7 +50,7 @@
 
 * **16** ada-lk ([මහ කන්නයේ බඩ ඉරිඟු ගොවීන්ට රසායනික  පොහොර ඕන නම් ලියාපදිංචි වෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db78ae4d.json))
 
-* **12** daily-mirror-lk ([Three women killed, 18 injured in accident in Muthur](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5377270.json))
+* **11** daily-mirror-lk ([CID record statements from Dulanjalee Premadasa and Hirunika](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a42f909.json))
 
 * **6** island-lk ([The Ministry of Planning and Economic Affairs](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/494b9ff2.json))
 
@@ -58,9 +58,9 @@
 
 * **2** colombo-telegraph-com ([Jaffna University Vice-Chancellor Caught Copying & Cheating](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aac75776.json))
 
-## Last Week (1,363 Articles)
+## Last Week (1,364 Articles)
 
-* **243** lankadeepa-lk ([රස්නායකපුර නිවෙසකට පැන කපා කොටා දේපොළ කොල්ල කති](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9eba17f1.json))
+* **244** lankadeepa-lk ([රස්නායකපුර නිවෙසකට පැන කපා කොටා දේපොළ කොල්ල කති](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9eba17f1.json))
 
 * **198** news-first-lk ([Three elephant carcasses discovered in Paddy Field](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e540d3.json))
 
@@ -82,9 +82,9 @@
 
 * **16** d-b-s-jeyaraj-com ([Hundreds of Tamil mothers Conduct  rally in Kilinochchi  to mark 2,000 days of protests  to seek justice for their sons who they claim were forcibly disappeared during and after the civil war.](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204627e7.json))
 
-## All Time (1,923 Articles)
+## All Time (1,924 Articles)
 
-* **327** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **328** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **257** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
