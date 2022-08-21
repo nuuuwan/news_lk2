@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-22 03:12:56 (LK time)*
+*As of 2022-08-22 03:24:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
+## Last Hour (1 Articles)
 
-* **4** daily-ft-lk ([Nine Sri Lankan apparel exporters successfully participate in ‘Sourcing at Magic Las Vegas’, USA](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecab6fdd.json))
+* **1** daily-ft-lk ([Ranil and the 134 backing him must be sent home: AKD](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ed9c4f9.json))
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (8 Articles)
 
-* **8** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cd49cf2.json))
+* **7** daily-ft-lk ([Sri Lanka’s sovereign debt restructure as it stands now](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf9b958.json))
 
 * **1** tamil-mirror-lk ([யாழ் - கொழும்பு ரயில் சேவைகளை அதிகரிக்க நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b44095b.json))
 
