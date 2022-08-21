@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 23:08:28 (LK time)*
+*As of 2022-08-21 23:26:36 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
-
-* **2** lankadeepa-lk ([සුදුසු කල දේශපාලනයෙන් සමු ගන්නවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b197329.json))
+## Last Hour (1 Articles)
 
 * **1** economy-next-com ([Sri Lanka hikes kerosene price 290-pct in steep correction](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78f4d99f.json))
 
-* **1** daily-mirror-lk ([One killed, two injured in Ambalangoda shooting](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/8470b3e9.json))
-
-## Last 3 Hours (24 Articles)
+## Last 3 Hours (23 Articles)
 
 * **6** lankadeepa-lk ([අම්බලන්ගොඩ වෙඩි තැබිමකින් අයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9924e9ad.json))
 
@@ -20,13 +16,13 @@
 
 * **4** daily-mirror-lk ([Seeking blessings...](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1da5f99e.json))
 
-* **3** economy-next-com ([Sri Lanka tea exports down 10-pct in July; dollar and rupee earnings up](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/245f4666.json))
-
 * **3** ada-derana-lk ([One killed, another injured in shooting in Ambalangoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a01beb38.json))
 
 * **3** news-first-lk ([Sri Lanka’s plunge to crisis caused by corruption](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af82a170.json))
 
-## Last 24 Hours (143 Articles)
+* **2** economy-next-com ([Top UN officials asks Sri Lanka president to not to sign detention orders on IUSF convenor](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/6779d21c.json))
+
+## Last 24 Hours (142 Articles)
 
 * **30** lankadeepa-lk ([වැස්සේ වැඩිවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a73cfa5b.json))
 
@@ -38,11 +34,11 @@
 
 * **17** ada-lk ([මෙන්ග්ටියාන් රසායනාගාර මොඩියුලය සූදානම් - චීනය](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d578adc2.json))
 
-* **16** daily-mirror-lk ([SL aims to welcome 1 million tourists this year; Harin Fernando](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/826aa719.json))
+* **15** daily-mirror-lk (['GotaGoHome' France activist arrested over May 9 violence when visiting Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a325225.json))
 
 * **9** economy-next-com ([Fisheries jobs for 1,047 Sri Lankans in Korea this year: labour ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73c7d7a2.json))
 
-## Last Week (1,376 Articles)
+## Last Week (1,373 Articles)
 
 * **251** lankadeepa-lk ([හරක් කටාගේ වෙඩික්කරු අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a01760c.json))
 
@@ -54,11 +50,11 @@
 
 * **172** daily-mirror-lk ([Tourist arrivals from August 1 – 11 cross 16,000 mark](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c28f5fcd.json))
 
-* **157** ada-derana-lk ([Cardinal Ranjith’s request to President Ranil](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/629fcc01.json))
+* **156** ada-derana-lk ([Leading gunman of Harak Kata’s criminal gang under arrest](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6e75abd.json))
 
 * **88** economy-next-com ([Sri Lanka’s bond yields steady; rupee guidance peg appreciates by 7 cents](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66cb130f.json))
 
-* **71** daily-ft-lk ([‘Nadagamkarayo’: A management perspective](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee6d9431.json))
+* **69** daily-ft-lk ([JR and expert advice: Failing to implement Goh Keng Swee Report of 1980](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6977939.json))
 
 * **53** island-lk ([Doing it…dad’s way](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba8f05b3.json))
 
