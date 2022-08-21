@@ -1,11 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84437/navy-seizes-petrol-stock-worth-over-rs-900000-in-kalpitiya",
+    "time_ut": 1661076360,
+    "original_lang": "en",
+    "original_title": "Navy seizes petrol stock worth over Rs. 900,000 in Kalpitiya",
+    "file_name": "/tmp/news_lk2/articles/36/364b8e95.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a-\u0dc3\u0db8\u0dcf\u0d9c\u0db8-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4-\u0db4\u0dd0\u0dc4\u0dd0\u0dbb\u0d9c\u0dd9\u0db1-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d9a\u0ddc\u0dbd\u0dca\u0dbd-\u0d9a\u0dd1-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-618480",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a-\u0dc3\u0db8\u0dcf\u0d9c\u0db8-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4-\u0db4\u0dd0\u0dc4\u0dd0\u0dbb\u0d9c\u0dd9\u0db1-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d9a\u0ddc\u0dbd\u0dca\u0dbd-\u0d9a\u0dd1-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/101-618480",
     "time_ut": 1661074412,
     "original_lang": "si",
     "original_title": "\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4 \u0db4\u0dd0\u0dc4\u0dd0\u0dbb\u0d9c\u0dd9\u0db1 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d9a\u0ddc\u0dbd\u0dca\u0dbd \u0d9a\u0dd1 \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/48/48c562e6.json"
+    "file_name": "/tmp/news_lk2/articles/79/79c1923f.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -46,6 +54,14 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bcb\u0bb4\u0bbf \u0b87\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8",
     "file_name": "/tmp/news_lk2/articles/08/088e07dd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Music-teacher-arrested-for-harassing-schoolgirls/108-243438",
+    "time_ut": 1661072227,
+    "original_lang": "en",
+    "original_title": "Music teacher arrested for harassing schoolgirls",
+    "file_name": "/tmp/news_lk2/articles/93/930113e9.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0db1\u0da2\u0dd2\u0dc0\u0dd2 \u0dc0\u0dd9\u0da9\u0dd2\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca \u0d85\u0dba\u0d9a\u0dd4\u0da7 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd",
     "file_name": "/tmp/news_lk2/articles/8c/8c0fed8c.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc5\u0db8\u0dcf-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1-\u0dc3\u0db3\u0dc4\u0dcf-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0ddd\u0db4\u0daf\u0dda\u0dc1/11-396336",
-    "time_ut": 1660629664,
-    "original_lang": "si",
-    "original_title": "\u0dc5\u0db8\u0dcf \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0ddd\u0db4\u0daf\u0dda\u0dc1",
-    "file_name": "/tmp/news_lk2/articles/57/57da8aac.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84331/committee-to-approve-new-appointments-changes-to-heads-of-govt-institutions",
-    "time_ut": 1660629120,
-    "original_lang": "en",
-    "original_title": "Committee to approve new appointments, changes to heads of govt institutions",
-    "file_name": "/tmp/news_lk2/articles/05/05b1ac1b.json"
   }
 ]
