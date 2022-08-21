@@ -1,32 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 22:51:19 (LK time)*
+*As of 2022-08-21 23:08:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (4 Articles)
+
+* **2** lankadeepa-lk ([සුදුසු කල දේශපාලනයෙන් සමු ගන්නවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b197329.json))
 
 * **1** economy-next-com ([Sri Lanka hikes kerosene price 290-pct in steep correction](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78f4d99f.json))
 
-* **1** lankadeepa-lk ([22 වගන්තියකට විරෝධය පා මන්ත්‍රීවරු 80කගෙන් ජනපතිට ලිපියක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/4228266f.json))
+* **1** daily-mirror-lk ([One killed, two injured in Ambalangoda shooting](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/8470b3e9.json))
 
-## Last Hour (9 Articles)
-
-* **4** lankadeepa-lk ([ප්‍රා: මන්ත්‍රී බේරේට තල්ලු කළ අයෙක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/9279e73e.json))
-
-* **2** daily-mirror-lk ([Work or go home: Prez tells state officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f8d296a.json))
-
-* **1** economy-next-com ([Sri Lanka hikes kerosene price 290-pct in steep correction](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78f4d99f.json))
-
-* **1** tamil-mirror-lk ([மண்ணெண்ணெய் விலை அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa633b9a.json))
-
-* **1** ada-derana-lk ([Price of kerosene increased by Rs. 253 per litre](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1df266e.json))
-
-## Last 3 Hours (26 Articles)
-
-* **7** tamil-mirror-lk ([சீ.ஐ.டியில் தடுத்து வைத்து விசாரணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db1ab8ae.json))
+## Last 3 Hours (24 Articles)
 
 * **6** lankadeepa-lk ([අම්බලන්ගොඩ වෙඩි තැබිමකින් අයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9924e9ad.json))
+
+* **5** tamil-mirror-lk ([நாளைய மின்வெட்டு விவரம் வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85b2e68.json))
 
 * **4** daily-mirror-lk ([Seeking blessings...](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1da5f99e.json))
 
@@ -52,7 +42,7 @@
 
 * **9** economy-next-com ([Fisheries jobs for 1,047 Sri Lankans in Korea this year: labour ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73c7d7a2.json))
 
-## Last Week (1,378 Articles)
+## Last Week (1,376 Articles)
 
 * **251** lankadeepa-lk ([හරක් කටාගේ වෙඩික්කරු අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a01760c.json))
 
@@ -70,7 +60,7 @@
 
 * **71** daily-ft-lk ([‘Nadagamkarayo’: A management perspective](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee6d9431.json))
 
-* **55** island-lk ([Is ‘Knowing’ everything?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e97047a8.json))
+* **53** island-lk ([Doing it…dad’s way](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba8f05b3.json))
 
 * **15** colombo-telegraph-com ([A True Democratic Leadership](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e696b38d.json))
 
