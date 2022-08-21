@@ -192,6 +192,14 @@
     "file_name": "/tmp/news_lk2/articles/1f/1f3917ee.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/perversions-of-the-justice-system/",
+    "time_ut": 1661000820,
+    "original_lang": "en",
+    "original_title": "Perversions of the Justice System",
+    "file_name": "/tmp/news_lk2/articles/0e/0ec538c3.json"
+  },
+  {
     "newspaper_id": "colombo-telegraph-com",
     "url": "https://www.colombotelegraph.com/index.php/perversions-of-the-justice-system-comparative-remarks-on-sri-lanka-the-usa/",
     "time_ut": 1661000420,
@@ -304,6 +312,14 @@
     "file_name": "/tmp/news_lk2/articles/35/35463e83.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/the-ethnic-front-in-sri-lankas-contemporary-history/",
+    "time_ut": 1660992420,
+    "original_lang": "en",
+    "original_title": "The ethnic front in Sri Lanka\u2019s contemporary history",
+    "file_name": "/tmp/news_lk2/articles/ea/ea17686c.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/20/three-indians-arrested-with-rs-18mn-gold/",
     "time_ut": 1660992360,
@@ -326,6 +342,14 @@
     "original_lang": "en",
     "original_title": "Police seek public assistance to identify 50 suspects",
     "file_name": "/tmp/news_lk2/articles/61/61e2396d.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/a-tale-of-two-exes-gota-returning-en-route-to-us-trump-under-siege-in-the-us/",
+    "time_ut": 1660991520,
+    "original_lang": "en",
+    "original_title": "A tale of two exes: Gota returning en route to US, Trump under siege in the US",
+    "file_name": "/tmp/news_lk2/articles/30/3071b700.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
@@ -360,12 +384,36 @@
     "file_name": "/tmp/news_lk2/articles/51/51fd5eea.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/partition-of-india-facts-hearsay-literature-and-films/",
+    "time_ut": 1660990380,
+    "original_lang": "en",
+    "original_title": "Partition of India: facts, hearsay, literature and films",
+    "file_name": "/tmp/news_lk2/articles/61/6128c759.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84422/three-killed-as-tractor-transporting-group-of-people-topples",
     "time_ut": 1660990260,
     "original_lang": "en",
     "original_title": "Three killed as tractor transporting group of people topples",
     "file_name": "/tmp/news_lk2/articles/39/394bced9.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/on-conflict-and-consensus/",
+    "time_ut": 1660990140,
+    "original_lang": "en",
+    "original_title": "On conflict and consensus",
+    "file_name": "/tmp/news_lk2/articles/b5/b51bdea4.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/the-ministry-of-planning-and-economic-affairs/",
+    "time_ut": 1660989660,
+    "original_lang": "en",
+    "original_title": "The Ministry of Planning and Economic Affairs",
+    "file_name": "/tmp/news_lk2/articles/49/494b9ff2.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -408,6 +456,14 @@
     "file_name": "/tmp/news_lk2/articles/25/251cb95f.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/passion-for-shopping-strongly-hits-the-wallet/",
+    "time_ut": 1660987500,
+    "original_lang": "en",
+    "original_title": "passion for shopping strongly\u00a0 hits the wallet",
+    "file_name": "/tmp/news_lk2/articles/d9/d9e49179.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/20/three-arrested-in-relation-to-ambalangoda-shooting-incident/",
     "time_ut": 1660987260,
@@ -430,6 +486,22 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/ea/eaf86c39.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/unilever-ranked-no-1-most-respected-fmcg-company-in-lanka-once-again/",
+    "time_ut": 1660986180,
+    "original_lang": "en",
+    "original_title": "Unilever ranked No 1 most respected FMCG company in Lanka once again",
+    "file_name": "/tmp/news_lk2/articles/e1/e111965f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/three-sinha-industries-donates-medical-equipment-to-lady-ridgeway-hospital/",
+    "time_ut": 1660986120,
+    "original_lang": "en",
+    "original_title": "Three Sinha Industries donates medical equipment to Lady Ridgeway Hospital",
+    "file_name": "/tmp/news_lk2/articles/1c/1c05aac6.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -1214,6 +1286,14 @@
     "original_lang": "en",
     "original_title": "ComBank revolutionises Sri Lankan banking with \u2018wearable banking\u2019 via Flash Digital Account",
     "file_name": "/tmp/news_lk2/articles/46/46df53bf.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/rootcode-wins-startup-of-the-year-and-peoples-choice-award-at-saarc-startup-awards-2022/",
+    "time_ut": 1660926960,
+    "original_lang": "en",
+    "original_title": "Rootcode wins Startup of the Year and People\u2019s Choice Award at SAARC Startup Awards 2022",
+    "file_name": "/tmp/news_lk2/articles/d3/d34e9d98.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -4577,6 +4657,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/gota-coming/",
+    "time_ut": 1660756980,
+    "original_lang": "en",
+    "original_title": "Gota coming?",
+    "file_name": "/tmp/news_lk2/articles/f2/f2403c35.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/sme-businesses-in-puttalam-enriched-by-seylan-bank-and-ccc-workshop/",
     "time_ut": 1660756920,
     "original_lang": "en",
@@ -7910,93 +7998,5 @@
     "original_lang": "en",
     "original_title": "What kind of ship is the Yuan Wang 5? Why is its presence in the Indian Ocean a cause of concern for India?  Explained Through  Questions and Answers",
     "file_name": "/tmp/news_lk2/articles/80/8051de7b.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/the-despot-president-was-replaced-by-a-tyrant-in-sri-lanka/",
-    "time_ut": 1660591331,
-    "original_lang": "en",
-    "original_title": "The Despot President Was Replaced By A Tyrant In Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/2d/2d2d53f5.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79025",
-    "time_ut": 1660590900,
-    "original_lang": "en",
-    "original_title": "Chinese Yuan Wang 5 vessel  mired in a geopolitical tussle docks at the Hambantota Port;welcome ceremony attended by MPs Weerawansa, Nanayakkara and Weerasekera; \u201cOn behalf of the President, I came here today to welcome the ship and wish them,\u201d says Sarath  Weerasekera.",
-    "file_name": "/tmp/news_lk2/articles/6f/6f08954b.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79023",
-    "time_ut": 1660590360,
-    "original_lang": "en",
-    "original_title": "China\u2019s satellite tracking vessel Yuan Wang 5  arrives at Sri Lanka\u2019s southern Hambantota Port  on August 16  despite India and the U.S. voicing concern with Colombo over the military ship\u2019s visit.",
-    "file_name": "/tmp/news_lk2/articles/e0/e02f8ef0.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bc1\u0bae\u0bcd-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-302403",
-    "time_ut": 1660590161,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd, \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/51/514b19be.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1/175-302402",
-    "time_ut": 1660589863,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bb0\u0b9a \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/02/0247acee.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79021",
-    "time_ut": 1660589820,
-    "original_lang": "en",
-    "original_title": "Govt decides not to  implement recommendations in in the final report of the \u2018One Country, One Law\u201d Presidential Task Force (PTF) headed by Bodu Bala Sena General Secretary Ven. Galagodaaththe Gnanasara Thera.",
-    "file_name": "/tmp/news_lk2/articles/10/103f60bc.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79019",
-    "time_ut": 1660589280,
-    "original_lang": "en",
-    "original_title": "Immigration Dept  Grants Scottish National Kayleigh Fraser  a  Grace Period to Leave Sri Lanka Following  the Dismissal  of het Writ Application Against her Deportation Order by the Court of Appeal",
-    "file_name": "/tmp/news_lk2/articles/0e/0edd29bc.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84324/president-orders-to-strictly-limit-state-sector-expenditures",
-    "time_ut": 1660588140,
-    "original_lang": "en",
-    "original_title": "President orders to strictly limit state sector expenditures",
-    "file_name": "/tmp/news_lk2/articles/29/29d6a7f4.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-rupee-guidance-peg-edges-up-market-sees-dull-trade-in-govt-securities-98659/",
-    "time_ut": 1660587000,
-    "original_lang": "en",
-    "original_title": "Sri Lanka rupee guidance peg edges up; market sees dull trade in govt securities",
-    "file_name": "/tmp/news_lk2/articles/62/626d125d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-stocks-rally-continues-for-12th-straight-session-on-political-stability-hopes-98658/",
-    "time_ut": 1660586280,
-    "original_lang": "en",
-    "original_title": "Sri Lanka stocks rally continues for 12th straight session on political stability hopes",
-    "file_name": "/tmp/news_lk2/articles/16/16a9ab5d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Certain-elements-spreading-malicious-propaganda-to-destroy-confectionery-industry-Association/342-243128",
-    "time_ut": 1660585927,
-    "original_lang": "en",
-    "original_title": "Certain elements spreading malicious propaganda to destroy confectionery industry: Association",
-    "file_name": "/tmp/news_lk2/articles/ef/ef662582.json"
   }
 ]

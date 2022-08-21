@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 05:20:46 (LK time)*
+*As of 2022-08-21 05:52:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (112 Articles)
+## Last 24 Hours (121 Articles)
 
 * **21** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
 
@@ -20,9 +20,11 @@
 
 * **9** daily-mirror-lk ([Notification to Airtel subscribers who use only 2G, 3G enabled Mobile Phones](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/053b18e4.json))
 
+* **9** island-lk ([Three Sinha Industries donates medical equipment to Lady Ridgeway Hospital](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c05aac6.json))
+
 * **5** colombo-telegraph-com ([Country Has Fallen Due To The Socialist Thinking](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d3ca26d.json))
 
-## Last Week (1,362 Articles)
+## Last Week (1,373 Articles)
 
 * **239** lankadeepa-lk ([2600 දුම්රිය ටිකට්ටුව 7600ට විකුණලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3ded863b.json))
 
@@ -40,13 +42,13 @@
 
 * **71** daily-ft-lk ([‘Nadagamkarayo’: A management perspective](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee6d9431.json))
 
-* **57** island-lk ([Aragalaya goes home](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fdc9f5e.json))
+* **68** island-lk ([Aragalaya goes home](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fdc9f5e.json))
 
 * **18** colombo-telegraph-com ([Ripples In The Indian Ocean: Yuan Wang 5 & Easter Sunday 2019](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/1100fecb.json))
 
 * **15** d-b-s-jeyaraj-com ([Hundreds of Tamil mothers Conduct  rally in Kilinochchi  to mark 2,000 days of protests  to seek justice for their sons who they claim were forcibly disappeared during and after the civil war.](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204627e7.json))
 
-## All Time (1,839 Articles)
+## All Time (1,852 Articles)
 
 * **312** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -66,6 +68,6 @@
 
 * **122** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 
-* **78** island-lk ([Lanka’s misery should be warning to us all on global food, fuel and finance crisis: UNDP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564b2893.json))
+* **91** island-lk ([Lanka’s misery should be warning to us all on global food, fuel and finance crisis: UNDP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564b2893.json))
 
 * **35** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))
