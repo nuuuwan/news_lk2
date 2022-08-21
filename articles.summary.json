@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84440/27-year-old-female-falls-to-death-from-uthuwankanda",
+    "time_ut": 1661086020,
+    "original_lang": "en",
+    "original_title": "27-year-old female falls to death from Uthuwankanda",
+    "file_name": "/tmp/news_lk2/articles/6f/6f6f668c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-petroleum-sector-trade-unions-to-launch-protest-on-aug-22-against-new-reforms-98833/",
+    "time_ut": 1661085840,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s petroleum sector trade unions to launch protest on Aug 22 against new reforms",
+    "file_name": "/tmp/news_lk2/articles/38/38f14338.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-3-hour-power-cuts-for-aug-22-98829/",
+    "time_ut": 1661085660,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules 3-hour power cuts for Aug 22",
+    "file_name": "/tmp/news_lk2/articles/1a/1a5fbab7.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0bb0\u0bc1\u0ba3\u0bcd\u0b9f-\u0ba8\u0bbe\u0bb3\u0bbe\u0b95-\u0b85\u0bae\u0bc8\u0baf\u0bc1\u0bae\u0bcd/175-302733",
     "time_ut": 1661084672,
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb0\u0bc1\u0ba3\u0bcd\u0b9f \u0ba8\u0bbe\u0bb3\u0bbe\u0b95 \u0b85\u0bae\u0bc8\u0baf\u0bc1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/23/237448df.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0da7\u0dc0\u0dad\u0dca-\u0db1\u0dd2\u0d9a\u0db1\u0dca-\u0d9a\u0db1\u0dca\u0db1-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0db6\u0dd1-\u0dc0\u0dd0\u0da9-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0db6\u0dd0\u0dbb\u0dd2\u0db1\u0db8\u0dca-\u0d9c\u0dd9\u0daf\u0dbb-\u0dba\u0db1\u0dca\u0db1/11-396490",
+    "time_ut": 1661083537,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dcf\u0da7\u0dc0\u0dad\u0dca \u0db1\u0dd2\u0d9a\u0db1\u0dca \u0d9a\u0db1\u0dca\u0db1 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db6\u0dd1 \u0dc0\u0dd0\u0da9 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0db6\u0dd0\u0dbb\u0dd2\u0db1\u0db8\u0dca \u0d9c\u0dd9\u0daf\u0dbb \u0dba\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/ad/ad34ce9a.json"
   },
   {
     "newspaper_id": "news-first-lk",
