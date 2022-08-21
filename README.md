@@ -1,26 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-21 21:11:53 (LK time)*
+*As of 2022-08-21 21:25:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** daily-mirror-lk ([Seeking blessings...](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1da5f99e.json))
+
+## Last Hour (4 Articles)
 
 * **1** daily-mirror-lk ([Seeking blessings...](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1da5f99e.json))
 
 * **1** news-first-lk ([Sri Lanka’s plunge to crisis caused by corruption](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af82a170.json))
 
-## Last Hour (5 Articles)
-
-* **2** economy-next-com ([Sri Lanka tea exports down 10-pct in July; dollar and rupee earnings up](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/245f4666.json))
-
-* **1** daily-mirror-lk ([Seeking blessings...](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1da5f99e.json))
-
-* **1** news-first-lk ([Sri Lanka’s plunge to crisis caused by corruption](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af82a170.json))
+* **1** economy-next-com ([Top UN officials asks Sri Lanka president to not to sign detention orders on IUSF convenor](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/6779d21c.json))
 
 * **1** tamil-mirror-lk ([நாளைய மின்வெட்டு விவரம் வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85b2e68.json))
 
-## Last 3 Hours (19 Articles)
+## Last 3 Hours (17 Articles)
 
 * **7** tamil-mirror-lk ([இலவசம் இல்லை: ஜனாதிபதி அதிரடி](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33e63258.json))
 
@@ -28,13 +26,13 @@
 
 * **3** news-first-lk ([If you cannot perform, leave : President to State Sector](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f128794.json))
 
-* **3** economy-next-com ([Sri Lanka’s petroleum sector trade unions to launch protest on Aug 22 against new reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38f14338.json))
+* **2** economy-next-com ([Sri Lanka tea exports down 10-pct in July; dollar and rupee earnings up](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/245f4666.json))
 
-* **3** ada-derana-lk ([27-year-old female falls to death from Uthuwankanda](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f6f668c.json))
+* **2** ada-derana-lk ([Police seek public assistance identify more suspects](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44b0aafe.json))
 
-## Last 24 Hours (133 Articles)
+## Last 24 Hours (132 Articles)
 
-* **31** lankadeepa-lk ([නාන තටාකයට වැටී තරුණියක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dc304f5.json))
+* **30** lankadeepa-lk ([අරලියගහ මැදුරෙන් බඩු සොරාගත් අයෙක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6befe9a6.json))
 
 * **25** tamil-mirror-lk ([அமைச்சர் பந்துல யாழ்ப்பாணத்தில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76567d97.json))
 
@@ -48,9 +46,9 @@
 
 * **8** economy-next-com ([Fisheries jobs for 1,047 Sri Lankans in Korea this year: labour ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73c7d7a2.json))
 
-## Last Week (1,375 Articles)
+## Last Week (1,372 Articles)
 
-* **248** lankadeepa-lk ([කෝප් එරාන්ට - කෝපා කබීර්ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db130433.json))
+* **246** lankadeepa-lk ([ඇවෙන්ඩ්‍රා හෝටලයෙන් මැයි 9 වැනි දා ගිනි අවි 4 ක් උත්සලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e923b94.json))
 
 * **199** news-first-lk ([1 hour Power cut for today (15), tomorrow (16)](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4994f786.json))
 
@@ -70,7 +68,7 @@
 
 * **15** colombo-telegraph-com ([A True Democratic Leadership](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e696b38d.json))
 
-* **15** d-b-s-jeyaraj-com ([Ranil Wickremesinghe, Dulles Alahapperuma and the Historic 2022 Presidential Election](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9e215e0.json))
+* **14** d-b-s-jeyaraj-com ([Immigration Dept  Grants Scottish National Kayleigh Fraser  a  Grace Period to Leave Sri Lanka Following  the Dismissal  of het Writ Application Against her Deportation Order by the Court of Appeal](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0edd29bc.json))
 
 ## All Time (1,973 Articles)
 
