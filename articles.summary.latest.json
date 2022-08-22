@@ -1,5 +1,77 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a\u0b9a\u0baa\u0bc8-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bc8-\u0baa\u0bc7\u0bb0-\u0bb5\u0bbe\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0ba4\u0bb3\u0bcd\u0bb3\u0bbf\u0baf-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-302776",
+    "time_ut": 1661142518,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a\u0b9a\u0baa\u0bc8 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bc8 \u0baa\u0bc7\u0bb0 \u0bb5\u0bbe\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd   \u0ba4\u0bb3\u0bcd\u0bb3\u0bbf\u0baf \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/6e/6ea0b097.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0da2\u0dcf\u0dad\u0dd2\u0dba-\u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dda-\u0d87\u0dba\u0dd2-/26-618515",
+    "time_ut": 1661142363,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0dba \u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dda \u0d87\u0dba\u0dd2?",
+    "file_name": "/tmp/news_lk2/articles/db/db0bd067.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/22/66-covid-cases-reported-on-sunday-21/",
+    "time_ut": 1661142000,
+    "original_lang": "en",
+    "original_title": "66 COVID cases reported on Sunday (21)",
+    "file_name": "/tmp/news_lk2/articles/e9/e95f6b96.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0dbb\u0d9a\u0dca-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0dc0\u0dbd\u0dca-\u0d85\u0dbd\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca-\u0db8\u0dbb\u0dd4\u0da7/1-618514",
+    "time_ut": 1661141507,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dbb\u0d9a\u0dca \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc0\u0dbd\u0dca \u0d85\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/68/6825339e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0b95\u0ba9\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/175-302773",
+    "time_ut": 1661141187,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0b95\u0ba9\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b5/b5dff4c3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dad\u0dc4\u0dd0\u0dbb-\u0d9c\u0dd2\u0dba-\u0d96\u0dc2\u0db0-\u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0db6\u0dcf\u0dbb\u0dba\u0da7/1-618513",
+    "time_ut": 1661140933,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dad\u0dc4\u0dd0\u0dbb \u0d9c\u0dd2\u0dba \u0d96\u0dc2\u0db0 \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db6\u0dcf\u0dbb\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/4f/4ff3aa1c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dda-\u0db1\u0ddc\u0daf\u0d9a\u0dd2\u0db1-\u0db4\u0dd0\u0dad\u0dca\u0dad\u0d9a\u0dca/26-618512",
+    "time_ut": 1661140919,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dda \u0db1\u0ddc\u0daf\u0d9a\u0dd2\u0db1 \u0db4\u0dd0\u0dad\u0dca\u0dad\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/ca/caa46876.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0dbd\u0dca\u0d9c\u0db8\u0dd4-\u0dc0\u0d9a\u0dd4\u0d9c\u0da9\u0dd4-\u0dbb\u0ddd\u0dc4\u0dbd\u0dda-\u0dc0\u0dd0\u0da9-\u0d85\u0dad\u0dbb\u0db8\u0d9f-\u0db1\u0dad\u0dbb-\u0dc0\u0dd9\u0dba\u0dd2/1-618511",
+    "time_ut": 1661140411,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0dbd\u0dca\u0d9c\u0db8\u0dd4 \u0dc0\u0d9a\u0dd4\u0d9c\u0da9\u0dd4 \u0dbb\u0ddd\u0dc4\u0dbd\u0dda \u0dc0\u0dd0\u0da9 \u0d85\u0dad\u0dbb\u0db8\u0d9f \u0db1\u0dad\u0dbb \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a1/a1f68387.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0b95\u0bcb\u0bb0-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0bae\u0bcd\u0baa\u0bb5-\u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc7\u0baf\u0bc7-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0baa\u0bb2\u0bbf/72-302771",
+    "time_ut": 1661139989,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0bb0 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1; \u0b9a\u0bae\u0bcd\u0baa\u0bb5 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc7\u0baf\u0bc7 \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0baa\u0bb2\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/ce/ce23b557.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/22/chinese-missile-and-satellite-tracking-vessel-yuan-wang-5-to-depart-sri-lanka-on-monday-22/",
     "time_ut": 1661139960,
@@ -32,12 +104,28 @@
     "file_name": "/tmp/news_lk2/articles/31/31ddbbe4.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/front_page/Cabinet-should-be-formed-if-all-party-govt-unrealistic-Basil/238-243475",
+    "time_ut": 1661138582,
+    "original_lang": "en",
+    "original_title": "Cabinet should be formed if all party govt. unrealistic - Basil",
+    "file_name": "/tmp/news_lk2/articles/9e/9e21c2bd.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc7-9-\u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8-\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd-9-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-302768",
     "time_ut": 1661138417,
     "original_lang": "ta",
     "original_title": "\u0bae\u0bc7 9 \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8: \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 9 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/a4/a4e83aa1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/President-orders-removal-of-British-Instagrammer-from-SL/108-243472",
+    "time_ut": 1661138281,
+    "original_lang": "en",
+    "original_title": "President orders removal of British Instagrammer from SL",
+    "file_name": "/tmp/news_lk2/articles/f2/f27dad49.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -54,6 +142,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd 8 \u0baa\u0bc7\u0bb0\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/50/50a36ec6.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf-24-\u0d91\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd1---\u0d91\u0db1-\u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca-\u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4-\u0db1\u0dd1/11-396495",
+    "time_ut": 1661137485,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf 24 \u0d91\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd1 - \u0d91\u0db1 \u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/45/457d9c32.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -113,11 +209,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7-\u0dad\u0daf-\u0dc0\u0dd0\u0dc3\u0dd2/101-618499",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7-\u0dad\u0daf-\u0dc0\u0dd0\u0dc3\u0dd2/1-618499",
     "time_ut": 1661135906,
     "original_lang": "si",
     "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7 \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/b2/b2ac0366.json"
+    "file_name": "/tmp/news_lk2/articles/92/922045cc.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -137,11 +233,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/UK-based-Kavida-to-invest-US-500-000-to-support-Sri-Lankas-apparel-resilience/273-243460",
+    "url": "https://www.dailymirror.lk/business/UK-based-Kavida-to-invest-US-500-000-to-support-Sri-Lankas-apparel-resilience/215-243460",
     "time_ut": 1661135547,
     "original_lang": "en",
     "original_title": "UK-based Kavida to invest US$ 500, 000 to support  Sri Lanka\u2019s apparel resilience",
-    "file_name": "/tmp/news_lk2/articles/ad/ada596f2.json"
+    "file_name": "/tmp/news_lk2/articles/dc/dc466a38.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7902,101 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka shares bucks winning streak on profit taking after gaining 20%",
     "file_name": "/tmp/news_lk2/articles/47/475dc415.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0b95\u0bb3\u0bc8-\u0b8f\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1-\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd/175-302463",
-    "time_ut": 1660670906,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/c2/c2856c05.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/No-contribution-was-made-by-govt-for-fmr-prezs-foreign-tours/108-243182",
-    "time_ut": 1660670243,
-    "original_lang": "en",
-    "original_title": "No contribution was made by govt. for fmr prez\u2019s foreign tours",
-    "file_name": "/tmp/news_lk2/articles/6a/6a4327ea.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84347/govt-says-former-president-not-using-state-funds-on-expenses-abroad",
-    "time_ut": 1660669740,
-    "original_lang": "en",
-    "original_title": "Govt says former President not using state funds on expenses abroad",
-    "file_name": "/tmp/news_lk2/articles/1d/1de8bfb7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Adani-Green-Energy-issued-provisional-approvals-for-two-wind-projects/342-243181",
-    "time_ut": 1660668570,
-    "original_lang": "en",
-    "original_title": "Adani Green Energy issued provisional approvals for two wind projects",
-    "file_name": "/tmp/news_lk2/articles/47/47339cb0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84346/indias-adani-green-energy-given-provisional-approval-for-two-wind-projects",
-    "time_ut": 1660668540,
-    "original_lang": "en",
-    "original_title": "India\u2019s Adani Green Energy given provisional approval for two wind projects",
-    "file_name": "/tmp/news_lk2/articles/c9/c9cbf497.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/LPBOA-proposes-NTC-establish-tourist-information-unit/342-243180",
-    "time_ut": 1660668453,
-    "original_lang": "en",
-    "original_title": "LPBOA proposes NTC establish tourist information unit",
-    "file_name": "/tmp/news_lk2/articles/aa/aaa4069a.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0daf\u0dcf\u0db1\u0dd2-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0da7-\u0dc3\u0dd6\u0dc5\u0d82-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2-\u0daf\u0dd9\u0d9a\u0d9a\u0dca/11-396349",
-    "time_ut": 1660667822,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0daf\u0dcf\u0db1\u0dd2 \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0da7 \u0dc3\u0dd6\u0dc5\u0d82 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/4b/4b95390c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Emergency-will-not-be-extended-beyond-Aug-18-President/108-243179",
-    "time_ut": 1660667751,
-    "original_lang": "en",
-    "original_title": "Emergency will not be extended beyond Aug. 18: President",
-    "file_name": "/tmp/news_lk2/articles/20/20ac604c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/16/the-land-may-divide-us-but-the-sky-and-the-ocean-unites-us-all-wimal-at-the-welcome-ceremony-for-yuan-wang-5/",
-    "time_ut": 1660667400,
-    "original_lang": "en",
-    "original_title": "The land may divide us, but the sky and the ocean unites us all: Wimal at the welcome ceremony for Yuan Wang 5",
-    "file_name": "/tmp/news_lk2/articles/2d/2d2b0c68.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/16/adani-given-approval-for-two-wind-projects/",
-    "time_ut": 1660667160,
-    "original_lang": "en",
-    "original_title": "Adani given approval for Two Wind Projects",
-    "file_name": "/tmp/news_lk2/articles/d1/d1a62c5e.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf\u0bbe-\u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-302450",
-    "time_ut": 1660666999,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf\u0bbe \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/64/6482a7d9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/16/norochcholai-to-take-eight-days-to-cool-down-ceb/",
-    "time_ut": 1660666980,
-    "original_lang": "en",
-    "original_title": "Norochcholai to take eight days to cool down: CEB",
-    "file_name": "/tmp/news_lk2/articles/7b/7b15d8ab.json"
   }
 ]

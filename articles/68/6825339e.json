@@ -1,0 +1,201 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0dbb\u0d9a\u0dca-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0dc0\u0dbd\u0dca-\u0d85\u0dbd\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca-\u0db8\u0dbb\u0dd4\u0da7/1-618514",
+  "time_ut": 1661141507,
+  "original_lang": "si",
+  "original_title": "\u0dc4\u0dbb\u0d9a\u0dca \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc0\u0dbd\u0dca \u0d85\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+  "text_idx": {
+    "en": {
+      "title": "Two people who went to look at cattle were killed by wild elephants",
+      "author": "unknown",
+      "body_lines": [
+        "Welikanda and Aralagangwila Police said that two people in Dimbulagala and Welikanda, Dimbulagala Divisions who went to see cattle died in the attacks of wild elephants on the night of the 21st.",
+        "The police say that Sarath Palitha, an unmarried man, and Bandula Dissanayake of Welikanda Dimbulane Dissanayake Mudiansela, thirty-seven years old, were killed in a wild elephant attack in Aralagangwila Kandegama Pradesh."
+      ],
+      "title_ents": [
+        {
+          "text": "Two",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Welikanda",
+            "label": "ORG"
+          },
+          {
+            "text": "Aralagangwila Police",
+            "label": "ORG"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Dimbulagala",
+            "label": "PERSON"
+          },
+          {
+            "text": "Welikanda",
+            "label": "ORG"
+          },
+          {
+            "text": "Dimbulagala Divisions",
+            "label": "PERSON"
+          },
+          {
+            "text": "the night of the 21st",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "Sarath Palitha",
+            "label": "PERSON"
+          },
+          {
+            "text": "Bandula Dissanayake",
+            "label": "PERSON"
+          },
+          {
+            "text": "Dissanayake Mudiansela",
+            "label": "PERSON"
+          },
+          {
+            "text": "thirty-seven years old",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc4\u0dbb\u0d9a\u0dca \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc0\u0dbd\u0dca \u0d85\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+      "author": "unknown",
+      "body_lines": [
+        "\u0d9c\u0dc0\u0dba\u0dd2\u0db1\u0dca \u0db6\u0dd0\u0dbd\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d9c\u0dd2\u0dba \u0daf\u0dd2\u0db9\u0dd4\u0dbd\u0dcf\u0d9c\u0dbd \u0dc3\u0dc4 \u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0db1\u0dca\u0daf, \u0daf\u0dd2\u0db9\u0dd4\u0dbd\u0dcf\u0d9c\u0dbd \u0d9a\u0ddc\u0da7\u0dca\u0da8\u0dcf\u0dc3\u0dc0\u0dbd \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0d9a\u0dd4 21 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dda \u0d91\u0dbd\u0dca\u0dbd \u0d9a\u0dc5 \u0dc0\u0db1 \u0d85\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dba\u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0db1\u0dca\u0daf \u0dc3\u0dc4 \u0d85\u0dbb\u0dbd\u0d9c\u0d82\u0dc0\u0dd2\u0dbd \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0d85\u0dbb\u0dbd\u0d9c\u0d82\u0dc0\u0dd2\u0dbd \u0d9a\u0db1\u0dca\u0daf\u0dda\u0d9c\u0db8 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dca\u0dba\u0dda \u0daf\u0dd3 \u0dc0\u0dbd\u0dca \u0d85\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dba\u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dca\u0dad\u0dda\u00a0 \u0dc3\u0dbb\u0dad\u0dca \u0db4\u0dcf\u0dbd\u0dd2\u0dad,\u00a0 \u0d85\u0dc0\u0dd2\u0dc0\u0dcf\u0dc4\u0d9a \u0d85\u0dba\u0d9a\u0dd4 \u0dc3\u0dc4\u00a0\u00a0\u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0db1\u0dca\u0daf \u0daf\u0dd2\u0db9\u0dd4\u0dbd\u0dcf\u0db1\u0dda \u0daf\u0dd2\u0dc3\u0dcf\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dd4\u0daf\u0dd2\u0dba\u0db1\u0dca\u0dc3\u0dda\u0dbd\u0dcf\u0d9c\u0dda \u0db6\u0db1\u0dca\u0daf\u0dd4\u0dbd \u0daf\u0dd2\u0dc3\u0dcf\u0db1\u0dcf\u0dba\u0d9a \u0dba\u0db1 \u0dad\u0dd2\u0dc3\u0dca \u0dc4\u0dad\u0dca \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2 \u0d85\u0dba\u0d9a\u0dd4 \u0db6\u0dc0 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0d9a\u0dd2\u0dba\u0dba\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0daf\u0dd9\u0d9a",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0db1\u0dca\u0daf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dbb\u0dbd\u0d9c\u0d82\u0dc0\u0dd2\u0dbd \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0daf\u0dd2\u0db9\u0dd4\u0dbd\u0dcf\u0d9c\u0dbd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0db1\u0dca\u0daf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd2\u0db9\u0dd4\u0dbd\u0dcf\u0d9c\u0dbd \u0d9a\u0ddc\u0da7\u0dca\u0da8\u0dcf\u0dc3",
+            "label": "PERSON"
+          },
+          {
+            "text": "21 \u0dc0\u0dd9\u0db1\u0dd2\u0daf\u0dcf \u0dbb\u0dd1",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dbb\u0dad\u0dca \u0db4\u0dcf\u0dbd\u0dd2\u0dad",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db6\u0db1\u0dca\u0daf\u0dd4\u0dbd \u0daf\u0dd2\u0dc3\u0dcf\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0daf\u0dd2\u0dc3\u0dcf\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dd4\u0daf\u0dd2\u0dba\u0db1\u0dca\u0dc3\u0dda\u0dbd\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 \u0dad\u0dd2\u0dc3\u0dca \u0dc4\u0dad\u0d9a\u0dd2",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0bbe\u0bb2\u0bcd\u0ba8\u0b9f\u0bc8\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0baf\u0bbe\u0ba9\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0ba4\u0bbf\u0bae\u0bcd\u0baa\u0bc1\u0bb2\u0bbe\u0b95\u0bb2 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb2\u0bbf\u0b95\u0ba8\u0bcd\u0ba4, \u0ba4\u0bbf\u0bae\u0bcd\u0baa\u0bc1\u0bb2\u0bbe\u0b95\u0bb2 \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bcd\u0ba8\u0b9f\u0bc8\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0baf\u0bbe\u0ba9\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 21\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0b87\u0bb0\u0bb5\u0bc1 \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0bb5\u0bc6\u0bb2\u0bbf\u0b95\u0ba8\u0bcd\u0ba4, \u0b85\u0bb0\u0bb2\u0b95\u0b99\u0bcd\u0bb5\u0bbf\u0bb2 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0b85\u0bb0\u0bb2\u0b95\u0b99\u0bcd\u0bb5\u0bbf\u0bb2 \u0b95\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0bae \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0baf\u0bbe\u0ba9\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba3\u0bae\u0bbe\u0b95\u0bbe\u0ba4 \u0b9a\u0bb0\u0ba4\u0bcd \u0baa\u0bbe\u0bb2\u0bbf\u0ba4 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc7\u0bb4\u0bc1 \u0bb5\u0baf\u0ba4\u0bbe\u0ba9 \u0bb5\u0bc6\u0bb2\u0bbf\u0b95\u0ba8\u0bcd\u0ba4 \u0b9f\u0bbf\u0bae\u0bcd\u0baa\u0bc1\u0bb2\u0bbe\u0ba9\u0bc8 \u0ba4\u0bbf\u0bb8\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0ba9\u0bcd\u0b9a\u0bc7\u0bb2\u0bbe\u0bb5\u0bc8 \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0baa\u0ba8\u0bcd\u0ba4\u0bc1\u0bb2 \u0ba4\u0bbf\u0bb8\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0bb5\u0bc6\u0bb2\u0bbf\u0b95\u0ba8\u0bcd\u0ba4",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0bb2\u0b95\u0b99\u0bcd\u0bb5\u0bbf\u0bb2 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0bae\u0bcd\u0baa\u0bc1\u0bb2\u0bbe\u0b95\u0bb2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb5\u0bc6\u0bb2\u0bbf\u0b95\u0ba8\u0bcd\u0ba4",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0bae\u0bcd\u0baa\u0bc1\u0bb2\u0bbe\u0b95\u0bb2 \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "21 \u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0b87\u0bb0\u0bb5\u0bc1",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bb0\u0ba4\u0bcd \u200b\u200b\u0baa\u0bbe\u0bb2\u0bbf\u0ba4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0ba8\u0bcd\u0ba4\u0bc1\u0bb2 \u0ba4\u0bbf\u0bb8\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0b9a\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0b9a\u0bc6\u0bb2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc7\u0bb4\u0bc1 \u0bb5\u0baf\u0ba4\u0bc1",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
