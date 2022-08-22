@@ -1,34 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-22 22:33:37 (LK time)*
+*As of 2022-08-22 22:47:53 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **1** ada-derana-lk ([Sri Lanka expecting IMF funding by year-end if all goes to plan: CBSL chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/221f720e.json))
+* **1** ada-derana-lk ([Police seek assistance to identify suspects who stormed PM’s Office](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7dfb882.json))
 
-* **1** daily-mirror-lk ([President never ordered British woman to be deported](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c94feaff.json))
+## Last Hour (3 Articles)
 
-## Last Hour (2 Articles)
-
-* **1** ada-derana-lk ([Sri Lanka expecting IMF funding by year-end if all goes to plan: CBSL chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/221f720e.json))
+* **2** ada-derana-lk ([Sri Lanka expecting IMF funding by year-end if all goes to plan: CBSL chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/221f720e.json))
 
 * **1** daily-mirror-lk ([President never ordered British woman to be deported](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c94feaff.json))
 
-## Last 3 Hours (25 Articles)
-
-* **7** daily-mirror-lk ([EU concerned about using  PTA](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d80a9d97.json))
+## Last 3 Hours (21 Articles)
 
 * **6** tamil-mirror-lk ([கோட்டாவுக்குப் பாதுகாப்பு வேண்டும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2f999dd.json))
 
-* **6** news-first-lk ([3,500+ arrested so far over 9th May Violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8ceccfce.json))
-
 * **5** lankadeepa-lk ([ලංකාවේ ප්‍රජාතන්ත්‍රවාදය ක්‍රමක්‍රමයෙන් විනාශ කරනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6a41a41.json))
 
-* **1** ada-derana-lk ([Sri Lanka expecting IMF funding by year-end if all goes to plan: CBSL chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/221f720e.json))
+* **4** daily-mirror-lk ([Protection better than cure...](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff1afd90.json))
 
-## Last 24 Hours (223 Articles)
+* **4** news-first-lk ([Sri Lankan Apparel exporters at Sourcing at Magic in Las Vegas](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5af4ca40.json))
+
+* **2** ada-derana-lk ([Sri Lanka expecting IMF funding by year-end if all goes to plan: CBSL chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/221f720e.json))
+
+## Last 24 Hours (224 Articles)
 
 * **54** lankadeepa-lk ([ගෝඨාභය යුද අධිකරණය යවන්නැයි සංදේශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f1bcfa.json))
 
@@ -38,9 +36,9 @@
 
 * **28** news-first-lk ([Heavy rains expected today (22)](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/288362c4.json))
 
-* **26** daily-mirror-lk ([Marking 75 years of Indian Independence: DEMOCRACY THAT IS INDIA: INTRIGUING, EVOLVING AND INSPIRING](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21992fff.json))
+* **26** ada-derana-lk ([Sri Lanka envoy expresses gratitude to US congresspeople for showing interest in the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eec8e000.json))
 
-* **25** ada-derana-lk ([Sri Lanka envoy expresses gratitude to US congresspeople for showing interest in the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eec8e000.json))
+* **26** daily-mirror-lk ([Marking 75 years of Indian Independence: DEMOCRACY THAT IS INDIA: INTRIGUING, EVOLVING AND INSPIRING](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21992fff.json))
 
 * **13** economy-next-com ([Sri Lanka Navy seizes smuggled medicines worth 4.5m rupees](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/760e250e.json))
 
@@ -48,7 +46,7 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka: Protesters Must Not Be Detained Under The Draconian Anti-Terror Law: Amnesty International](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f24273.json))
 
-## Last Week (1,398 Articles)
+## Last Week (1,399 Articles)
 
 * **261** lankadeepa-lk ([විසි දෙකට කඹ ඇදිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/503d62f2.json))
 
@@ -60,7 +58,7 @@
 
 * **166** daily-mirror-lk ([2500 academics and professionals identified to advise govt. : NMSJ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1486de3.json))
 
-* **157** ada-derana-lk ([UK becomes first to approve COVID vaccine targeting both Omicron and original strain](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edc28e40.json))
+* **158** ada-derana-lk ([UK becomes first to approve COVID vaccine targeting both Omicron and original strain](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edc28e40.json))
 
 * **90** economy-next-com ([Sri Lanka stocks rally continues for 12th straight session on political stability hopes](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16a9ab5d.json))
 
@@ -72,7 +70,7 @@
 
 * **15** d-b-s-jeyaraj-com ([Immigration Dept  Grants Scottish National Kayleigh Fraser  a  Grace Period to Leave Sri Lanka Following  the Dismissal  of het Writ Application Against her Deportation Order by the Court of Appeal](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0edd29bc.json))
 
-## All Time (2,233 Articles)
+## All Time (2,234 Articles)
 
 * **397** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -84,7 +82,7 @@
 
 * **231** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
-* **203** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
+* **204** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
 * **159** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
