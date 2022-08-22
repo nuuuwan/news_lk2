@@ -1,14 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-23 04:27:50 (LK time)*
+*As of 2022-08-23 04:48:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (8 Articles)
+## Last Hour (1 Articles)
 
-* **8** daily-ft-lk ([Kerosene price hike: Setting the rural and urban periphery on fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5ac80b6.json))
+* **1** economy-next-com ([Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e7d91a9.json))
 
-## Last 24 Hours (233 Articles)
+## Last 3 Hours (7 Articles)
+
+* **6** daily-ft-lk ([Five ways to connect Sri Lanka’s small businesses to global value chains](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95ca79f0.json))
+
+* **1** economy-next-com ([Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e7d91a9.json))
+
+## Last 24 Hours (234 Articles)
 
 * **55** lankadeepa-lk ([ගෝඨාභය යුද අධිකරණය යවන්නැයි සංදේශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f1bcfa.json))
 
@@ -22,13 +28,13 @@
 
 * **26** daily-mirror-lk ([UK-based Kavida to invest US$ 500, 000 to support  Sri Lanka’s apparel resilience](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc466a38.json))
 
-* **13** economy-next-com ([Sri Lanka Navy seizes smuggled medicines worth 4.5m rupees](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/760e250e.json))
+* **14** economy-next-com ([Sri Lanka Navy seizes smuggled medicines worth 4.5m rupees](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/760e250e.json))
 
 * **11** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
 
 * **1** colombo-telegraph-com ([Sri Lanka: Protesters Must Not Be Detained Under The Draconian Anti-Terror Law: Amnesty International](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f24273.json))
 
-## Last Week (1,385 Articles)
+## Last Week (1,386 Articles)
 
 * **262** lankadeepa-lk ([විසි දෙකට කඹ ඇදිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/503d62f2.json))
 
@@ -42,7 +48,7 @@
 
 * **158** ada-derana-lk ([Chinese Embassy to launch welcoming ceremony for arrival of Chinese research vessel](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86362752.json))
 
-* **87** economy-next-com ([Chinese tracking vessel Yuan Wang 5 docks at Sri Lanka’s Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e547836.json))
+* **88** economy-next-com ([Chinese tracking vessel Yuan Wang 5 docks at Sri Lanka’s Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e547836.json))
 
 * **65** daily-ft-lk ([Provisional approval for two Adani Group wind power projects worth $ 500 m](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27e54012.json))
 
@@ -52,7 +58,7 @@
 
 * **10** d-b-s-jeyaraj-com ([Police use Tear Gas and Water Cannon to  Disperse Protest Demonstration Organized by the Inter-University Student Federation;Six persons including Wasantha Mudalige  taken into custody](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd7d49cb.json))
 
-## All Time (2,257 Articles)
+## All Time (2,258 Articles)
 
 * **398** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -68,7 +74,7 @@
 
 * **170** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
-* **144** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
+* **145** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 
 * **126** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 

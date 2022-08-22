@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-shares-gain-for-third-straight-session-to-1-wk-high-market-heavyweights-lead-98885/",
+    "time_ut": 1661208420,
+    "original_lang": "en",
+    "original_title": "Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead",
+    "file_name": "/tmp/news_lk2/articles/4e/4e7d91a9.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Imithiaz-calls-out-President-on-his-duplicity-concerning-the-Aragalaya/56-739001",
     "time_ut": 1661202027,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5\u0dad\u0dca \u0dc4\u0dcf\u0db1\u0dca\u0dc3\u0dd2\u0dba\u0dd2 - \u0d9c\u0dd9\u0da9\u0dd2\u0dba\u0d9a\u0dca 700 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/cf/cfa439e1.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbd\u0dcf\u0dc6\u0dca-\u0d9c\u0dd1\u0dc3\u0dca\u0dc0\u0dbd-\u2019\u0d9c\u0dd1\u0dc3\u0dca\u2019-\u0db6\u0dc3\u0dd2\u0dba\u0dd2/11-396388",
-    "time_ut": 1660751498,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0dcf\u0dc6\u0dca \u0d9c\u0dd1\u0dc3\u0dca\u0dc0\u0dbd \u2019\u0d9c\u0dd1\u0dc3\u0dca\u2019 \u0db6\u0dc3\u0dd2\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/aa/aa73966b.json"
   }
 ]
