@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/22/heavy-rains-expected-today-22/",
+    "time_ut": 1661129460,
+    "original_lang": "en",
+    "original_title": "Heavy rains expected today (22)",
+    "file_name": "/tmp/news_lk2/articles/28/288362c4.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Ranil-and-the-134-backing-him-must-be-sent-home-AKD/56-738958",
     "time_ut": 1661115696,
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bc6\u0ba3\u0bcd \u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd: \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0ba9\u0bb0\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7 \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/79/797b508c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-to-get-access-to-UK-market-for-over-80-products-under-new-Trading-Scheme/108-243175",
-    "time_ut": 1660655399,
-    "original_lang": "en",
-    "original_title": "SL to get access to UK market for over 80% products under new Trading Scheme",
-    "file_name": "/tmp/news_lk2/articles/6c/6cfb1bdf.json"
   }
 ]
