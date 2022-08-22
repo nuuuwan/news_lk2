@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/22/no-qr-for-generators/",
+    "time_ut": 1661146800,
+    "original_lang": "en",
+    "original_title": "No QR for generators?",
+    "file_name": "/tmp/news_lk2/articles/44/44ac45e2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84450/police-file-terrorism-charges-against-pakistans-imran-khan",
+    "time_ut": 1661146620,
+    "original_lang": "en",
+    "original_title": "Police file terrorism charges against Pakistan\u2019s Imran Khan",
+    "file_name": "/tmp/news_lk2/articles/f6/f6f8b7bd.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/22/sri-lanka-s-monthly-fuel-bill-drops-to-usd-230-mn/",
+    "time_ut": 1661146200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s monthly fuel bill drops to USD 230 Mn",
+    "file_name": "/tmp/news_lk2/articles/f0/f0b8cb04.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84449/supreme-court-commences-hearing-petitions-against-22nd-amendment",
+    "time_ut": 1661145600,
+    "original_lang": "en",
+    "original_title": "Supreme Court commences hearing petitions against 22nd Amendment",
+    "file_name": "/tmp/news_lk2/articles/c8/c89f1461.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/22/21-000-mt-of-urea-for-local-farmers/",
+    "time_ut": 1661145360,
+    "original_lang": "en",
+    "original_title": "21,000 MT of Urea for local Farmers",
+    "file_name": "/tmp/news_lk2/articles/42/42df67ed.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dad\u0ddd\u0db1\u0dd2\u0d9c\u0dbd-\u0dc3\u0dd9\u0dbd\u0dca\u0dbd\u0dd2\u0db4\u0dd2-\u0db8\u0dc4\u0da2\u0db1-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dbb\u0dca\u0dc1\u0db1\u0dba\u0da7/11-396500",
+    "time_ut": 1661145232,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0ddd\u0db1\u0dd2\u0d9c\u0dbd \u0dc3\u0dd9\u0dbd\u0dca\u0dbd\u0dd2\u0db4\u0dd2 \u0db8\u0dc4\u0da2\u0db1 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dbb\u0dca\u0dc1\u0db1\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/db/db51693d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0d9a\u0dad\u0dcf\u0dc0-\u0dc4\u0dcf-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0-\u0db4\u0dbb\u0dc3\u0dca\u0db4\u0dbb\u0dba\u0dd2/101-618518",
+    "time_ut": 1661144969,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda \u0d9a\u0dad\u0dcf\u0dc0 \u0dc4\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0 \u0db4\u0dbb\u0dc3\u0dca\u0db4\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/72/7238bf02.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbb\u0da7-\u0db6\u0dcf\u0dbb\u0d9c\u0dad\u0dca-\u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4-\u0d89\u0da7\u0dd4-\u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca-\u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf/101-618517",
     "time_ut": 1661144659,
@@ -32,6 +88,14 @@
     "file_name": "/tmp/news_lk2/articles/f8/f82a6cf3.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8-\u0dc0\u0dd9\u0dbb\u0dc5\u0dd9\u0db1\u0dca-\u0d96\u0dc2\u0db0-\u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-396498",
+    "time_ut": 1661143933,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0dc0\u0dd9\u0dbb\u0dc5\u0dd9\u0db1\u0dca \u0d96\u0dc2\u0db0 \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/62/623da86d.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a\u0b9a\u0baa\u0bc8-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bc8-\u0baa\u0bc7\u0bb0-\u0bb5\u0bbe\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0ba4\u0bb3\u0bcd\u0bb3\u0bbf\u0baf-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-302776",
     "time_ut": 1661142518,
@@ -46,6 +110,14 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0dba \u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dda \u0d87\u0dba\u0dd2?",
     "file_name": "/tmp/news_lk2/articles/db/db0bd067.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dc3\u0db1\u0dca\u0dad-\u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0d9c\u0dda-\u0d87\u0dad\u0dd4\u0dc5\u0dd4--\u0dad\u0dd2\u0dd2\u0daf\u0dd9\u0db1\u0dcf-\u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca-\u0dbb\u0db3\u0dc0\u0dcf\u0d9c\u0dd9\u0db1-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d85\u0dc0\u0dc3\u0dbb-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-396497",
+    "time_ut": 1661142236,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dc3\u0db1\u0dca\u0dad \u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0d9c\u0dda \u0d87\u0dad\u0dd4\u0dc5\u0dd4  \u0dad\u0dd2\u0dd2\u0daf\u0dd9\u0db1\u0dcf \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0dbb\u0db3\u0dc0\u0dcf\u0d9c\u0dd9\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dbb \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/b4/b4525671.json"
   },
   {
     "newspaper_id": "news-first-lk",
