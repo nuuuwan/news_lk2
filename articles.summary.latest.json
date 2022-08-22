@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Mano-welcomes-direct-cash-subsidy-by-govt-in-the-wake-of-kerosene-price-increase/342-243510",
+    "time_ut": 1661183339,
+    "original_lang": "en",
+    "original_title": "Mano welcomes direct cash subsidy by govt. in the wake of kerosene price increase",
+    "file_name": "/tmp/news_lk2/articles/db/dbc833a5.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd9\u0dc0\u0da7\u0dda-\u0dbb\u0dd9\u0daf\u0dd2-\u0d9a\u0da9\u0dba\u0d9a\u0dca-\u0d9c\u0dd2\u0db1\u0dd2-\u0dbb\u0d9a\u0dd4\u0dc3\u0dcf\u0da7-\u0db6\u0dd2\u0dbd\u0dd2/101-618572",
+    "time_ut": 1661182872,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd9\u0dc0\u0da7\u0dda \u0dbb\u0dd9\u0daf\u0dd2 \u0d9a\u0da9\u0dba\u0d9a\u0dca \u0d9c\u0dd2\u0db1\u0dd2 \u0dbb\u0d9a\u0dd4\u0dc3\u0dcf\u0da7 \u0db6\u0dd2\u0dbd\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/37/377c8d0a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302829",
+    "time_ut": 1661182627,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd - \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/66/6612c9b5.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bb0\u0bcd/175-302828",
     "time_ut": 1661181825,
@@ -7974,29 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b8a\u0b9a\u0bbf \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bbe\u0bb2\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/d0/d029b7df.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84362/if-we-keep-arguing-then-we-all-are-going-to-suffer-president",
-    "time_ut": 1660737360,
-    "original_lang": "en",
-    "original_title": "\u2018If we keep arguing, then we all are going to suffer\u2019 \u2013 President",
-    "file_name": "/tmp/news_lk2/articles/33/33fc8262.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0d9c\u0dda-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba-\u0d87\u0dad\u0dd0\u0db8\u0dca-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0dc0\u0dd2\u0d9a\u0dd8\u0dad\u0dd2-\u0d9a\u0dbb\u0dbd\u0dcf---\u0db6\u0db1\u0dca\u0daf\u0dd4\u0dbd/11-396384",
-    "time_ut": 1660736007,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba \u0d87\u0dad\u0dd0\u0db8\u0dca \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0dc0\u0dd2\u0d9a\u0dd8\u0dad\u0dd2 \u0d9a\u0dbb\u0dbd\u0dcf - \u0db6\u0db1\u0dca\u0daf\u0dd4\u0dbd",
-    "file_name": "/tmp/news_lk2/articles/09/09847ce2.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-partners-with-usaid-to-convert-petrol-run-tuktuks-to-electricity-98704/",
-    "time_ut": 1660735980,
-    "original_lang": "en",
-    "original_title": "Sri Lanka partners with USAID to convert petrol-run tuktuks to electricity",
-    "file_name": "/tmp/news_lk2/articles/47/4724c98e.json"
   }
 ]
