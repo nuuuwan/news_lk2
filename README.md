@@ -1,16 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-22 06:44:41 (LK time)*
+*As of 2022-08-22 07:49:12 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** news-first-lk ([Heavy rains expected today (22)](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/288362c4.json))
-
-## Last Hour (1 Articles)
-
-* **1** news-first-lk ([Heavy rains expected today (22)](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/288362c4.json))
 
 ## Last 3 Hours (1 Articles)
 
@@ -24,9 +16,9 @@
 
 * **23** news-first-lk ([208 Sri Lanka bound flights had stopover at Thiruvananthapuram Int’l airport for refueling till date](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/171693f1.json))
 
-* **20** ada-derana-lk ([Showery condition to enhance in some areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3788ce21.json))
+* **19** ada-derana-lk ([Sri Lanka aims to welcome 1 million tourists this year: Harin](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db3a4c74.json))
 
-* **18** ada-lk ([මෙන්ග්ටියාන් රසායනාගාර මොඩියුලය සූදානම් - චීනය](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d578adc2.json))
+* **19** ada-lk ([මෙන්ග්ටියාන් රසායනාගාර මොඩියුලය සූදානම් - චීනය](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d578adc2.json))
 
 * **17** daily-mirror-lk (['GotaGoHome' France activist arrested over May 9 violence when visiting Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a325225.json))
 
@@ -38,17 +30,17 @@
 
 * **1** colombo-telegraph-com ([Child’s Guide To UK’s Trade Concessions To Developing Countries](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/126b6872.json))
 
-## Last Week (1,383 Articles)
+## Last Week (1,379 Articles)
 
-* **251** lankadeepa-lk ([හරක් කටාගේ වෙඩික්කරු අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a01760c.json))
+* **249** lankadeepa-lk ([රුහුණු කුමාරි පීලි පනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d122fee.json))
 
 * **202** news-first-lk ([1 hour Power cut for today (15), tomorrow (16)](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4994f786.json))
 
-* **180** ada-lk ([ජොනී, නාමල්, මහින්දානන්ද, රෝහිත, පවිත්‍රා ඇතුළු පිරිසකට ඇමතිධුර දෙන්නැයි බැසිල් ජනපතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5ffadcf1.json))
+* **179** ada-lk ([ඉන්ධන කෝටාව මේ සතියේදී වෙනසක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7bf67bad.json))
 
 * **170** tamil-mirror-lk ([யாழில் வாள்வெட்டு: இளைஞர் வைத்தியசாலையில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6b6db46.json))
 
-* **170** daily-mirror-lk ([President a prisoner of the SLPP: Jayasekara](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b524044.json))
+* **169** daily-mirror-lk ([Techno Ministry flouts regulations in purchasing office space at One Galle Face](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e630bdcc.json))
 
 * **158** ada-derana-lk ([Leading gunman of Harak Kata’s criminal gang under arrest](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6e75abd.json))
 
@@ -62,11 +54,11 @@
 
 * **15** d-b-s-jeyaraj-com ([Immigration Dept  Grants Scottish National Kayleigh Fraser  a  Grace Period to Leave Sri Lanka Following  the Dismissal  of het Writ Application Against her Deportation Order by the Court of Appeal](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0edd29bc.json))
 
-## All Time (2,021 Articles)
+## All Time (2,022 Articles)
 
 * **342** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **264** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **265** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **258** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
