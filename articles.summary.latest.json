@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db4\u0dda-\u0dc3\u0dda\u0dbd\u0dba\u0dd2\u0db1\u0dca-\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf-\u0dc0\u0dd9\u0dc5\u0dd9\u0db3-\u0db4\u0ddc\u0dc5\u0da7/101-618574",
+    "time_ut": 1661188692,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db4\u0dda \u0dc3\u0dda\u0dbd\u0dba\u0dd2\u0db1\u0dca \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc0\u0dd9\u0dc5\u0dd9\u0db3 \u0db4\u0ddc\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/95/95f8634d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84470/police-seek-assistance-to-identify-suspects-who-stormed-pms-office-",
     "time_ut": 1661187840,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0dca\u0dae\u0dd2\u0dbb \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca\u0da7\u0dd4\u0dc0 \u0dbd\u0db6\u0db1 \u0dc3\u0dad\u0dd2\u0dba\u0dda",
     "file_name": "/tmp/news_lk2/articles/73/736f9ae0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/No-longer-intend-to-criticize-govt-SJB/110-243243",
-    "time_ut": 1660741376,
-    "original_lang": "en",
-    "original_title": "No longer intend to criticize govt.: SJB",
-    "file_name": "/tmp/news_lk2/articles/1c/1c5c3d9c.json"
   }
 ]
