@@ -1,5 +1,117 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dd2\u0dba-\u0dc0\u0dc3\u0dbb\u0dda-\u0d9a\u0dd2\u0dbb\u0dd2\u0db4\u0dd2\u0da7\u0dd2-\u0da7\u0ddc\u0db1\u0dca-\u0d85\u0dc3\u0dd6\u0dad\u0dd4\u0db1\u0dca\u0daf\u0dc4\u0dc3\u0d9a\u0dca-\u0db6\u0dd3\u0dbd\u0dcf/101-618501",
+    "time_ut": 1661137068,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dd2\u0dba \u0dc0\u0dc3\u0dbb\u0dda \u0d9a\u0dd2\u0dbb\u0dd2\u0db4\u0dd2\u0da7\u0dd2 \u0da7\u0ddc\u0db1\u0dca \u0d85\u0dc3\u0dd6\u0dad\u0dd4\u0db1\u0dca\u0daf\u0dc4\u0dc3\u0d9a\u0dca \u0db6\u0dd3\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/4d/4d806821.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd1\u0db8-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf-\u0dc0\u0dd4\u0dab\u0dd0\u0dba\u0dd2-\u0db4\u0dd2\u0dba\u0dcf-\u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9c\u0dda-\u0d94\u0dc5\u0dd4\u0dc0-\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dd2\u0dba\u0dda-\u0dc4\u0db4\u0dca\u0db4\u0dbd\u0dcf/101-618500",
+    "time_ut": 1661136559,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd1\u0db8 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf \u0dc0\u0dd4\u0dab\u0dd0\u0dba\u0dd2 \u0db4\u0dd2\u0dba\u0dcf \u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9c\u0dda \u0d94\u0dc5\u0dd4\u0dc0 \u0db6\u0dd2\u0dad\u0dca\u0dad\u0dd2\u0dba\u0dda \u0dc4\u0db4\u0dca\u0db4\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/bf/bf65c624.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84447/igp-instructs-to-hand-over-iusf-convenor-and-two-others-to-tid",
+    "time_ut": 1661136300,
+    "original_lang": "en",
+    "original_title": "IGP instructs to hand over IUSF convenor and two others to TID",
+    "file_name": "/tmp/news_lk2/articles/c0/c0321ee1.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8-\u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302766",
+    "time_ut": 1661136077,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/90/9083dd8c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/22/sln-seized-illegal-petrol-worth-over-rs-900-000-kalpitiya/",
+    "time_ut": 1661136060,
+    "original_lang": "en",
+    "original_title": "SLN seized illegal petrol worth over Rs.900,000 Kalpitiya",
+    "file_name": "/tmp/news_lk2/articles/fe/fedaaaea.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Central-Bank-recommends-Finance-Ministry-to-ban-all-open-account-imports/273-243464",
+    "time_ut": 1661135958,
+    "original_lang": "en",
+    "original_title": "Central Bank recommends Finance Ministry to ban all open account imports",
+    "file_name": "/tmp/news_lk2/articles/f2/f27c39f9.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7-\u0dad\u0daf-\u0dc0\u0dd0\u0dc3\u0dd2/101-618499",
+    "time_ut": 1661135906,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7 \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/b2/b2ac0366.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84446/fairly-heavy-rainfall-expected-in-parts-of-the-island",
+    "time_ut": 1661135880,
+    "original_lang": "en",
+    "original_title": "Fairly heavy rainfall expected in parts of the island",
+    "file_name": "/tmp/news_lk2/articles/07/071d6ef3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/President-contacts-Gotabaya-about-his-return/108-243462",
+    "time_ut": 1661135741,
+    "original_lang": "en",
+    "original_title": "President contacts Gotabaya about his return",
+    "file_name": "/tmp/news_lk2/articles/2d/2d0f3147.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/UK-based-Kavida-to-invest-US-500-000-to-support-Sri-Lankas-apparel-resilience/273-243460",
+    "time_ut": 1661135547,
+    "original_lang": "en",
+    "original_title": "UK-based Kavida to invest US$ 500, 000 to support  Sri Lanka\u2019s apparel resilience",
+    "file_name": "/tmp/news_lk2/articles/ad/ada596f2.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-302765",
+    "time_ut": 1661134851,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1: \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/19/19d590b5.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0d9c\u0db8\u0db1\u0dca-\u0db8\u0d9f-\u0dc4\u0ddc\u0db3-\u0db1\u0dd1\u2018\u2018/101-618498",
+    "time_ut": 1661134804,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d9c\u0db8\u0db1\u0dca \u0db8\u0d9f \u0dc4\u0ddc\u0db3 \u0db1\u0dd1\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/64/642298a3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba-\u0dba\u0dd4\u0daf-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba-\u0dba\u0dc0\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0dc3\u0d82\u0daf\u0dda\u0dc1\u0dba\u0d9a\u0dca/101-618497",
+    "time_ut": 1661134347,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dba\u0dd4\u0daf \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba \u0dba\u0dc0\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0dc3\u0d82\u0daf\u0dda\u0dc1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/e5/e5f1bcfa.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dd9\u0dbd\u0dca\u0daf\u0dd4\u0dc0-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-396493",
+    "time_ut": 1661133652,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd9\u0dbd\u0dca\u0daf\u0dd4\u0dc0 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/c7/c70ce0dd.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/22/heavy-rains-expected-today-22/",
     "time_ut": 1661129460,
@@ -97,11 +209,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/IMF-facility-and-future-burdens-EDITORIAL/172-243448",
+    "url": "https://www.dailymirror.lk/opinion/IMF-facility-and-future-burdens-EDITORIAL/231-243448",
     "time_ut": 1661104827,
     "original_lang": "en",
     "original_title": "IMF facility and future burdens - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/af/affe7f2f.json"
+    "file_name": "/tmp/news_lk2/articles/8e/8e334296.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -144,6 +256,14 @@
     "file_name": "/tmp/news_lk2/articles/84/8470b3e9.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Update-Two-killed-two-injured-in-Ambalangoda-shooting/108-243445",
+    "time_ut": 1661100607,
+    "original_lang": "en",
+    "original_title": "Update: Two killed, two injured in Ambalangoda shooting",
+    "file_name": "/tmp/news_lk2/articles/9b/9ba16405.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4-\u0d9a\u0dbd-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0db8\u0dd4-\u0d9c\u0db1\u0dca\u0db1\u0dc0\u0dcf/1-618494",
     "time_ut": 1661099944,
@@ -161,11 +281,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Work-or-go-home-Prez-tells-state-officials/155-243444",
+    "url": "https://www.dailymirror.lk/latest_news/Work-or-go-home-Prez-tells-state-officials/342-243444",
     "time_ut": 1661099462,
     "original_lang": "en",
     "original_title": "Work or go home: Prez tells state officials",
-    "file_name": "/tmp/news_lk2/articles/3f/3f8d296a.json"
+    "file_name": "/tmp/news_lk2/articles/16/163d69c7.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7878,125 +7998,5 @@
     "original_lang": "en",
     "original_title": "Emergency unlikely to be extended \u2013 President",
     "file_name": "/tmp/news_lk2/articles/9e/9efb28e6.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb5\u0bcd\u0bb5\u0bbe\u0bb0-\u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8/175-302447",
-    "time_ut": 1660663234,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb5\u0bcd\u0bb5\u0bbe\u0bb0 \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/77/779ec849.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0db8\u0dd9\u0dd2-\u0dc3\u0dad\u0dd2\u0dba\u0dda-\u0d89\u0dc0\u0dad\u0da7/101-618232",
-    "time_ut": 1660662742,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0db8\u0dd9\u0dd2 \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0d89\u0dc0\u0dad\u0da7",
-    "file_name": "/tmp/news_lk2/articles/ec/ec504ce0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Kaduwela-OIC-averts-planned-attack-by-gang-Three-arrested/108-243177",
-    "time_ut": 1660660911,
-    "original_lang": "en",
-    "original_title": "Kaduwela OIC averts planned attack by gang: Three arrested",
-    "file_name": "/tmp/news_lk2/articles/06/06373d3b.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dcf\u0dbb\u0dc0\u0dbb\u0dd4\u0db1\u0dca-\u0db4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d91\u0da2\u0dcf\u0db4-\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4-\u0dc3\u0dd3\u0dad\u0dbd-\u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba\u0d9a\u0dca/1-618231",
-    "time_ut": 1660660306,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dcf\u0dbb\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d91\u0da2\u0dcf\u0db4 \u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4 \u0dc3\u0dd3\u0dad\u0dbd \u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/4c/4c021c6b.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bbe\u0bb2-\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf/175-302446",
-    "time_ut": 1660659821,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bbe\u0bb2 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd  \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd;  \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/6b/6b5d71db.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84344/president-says-state-of-emergency-will-not-be-extended",
-    "time_ut": 1660659060,
-    "original_lang": "en",
-    "original_title": "President says state of emergency will not be extended",
-    "file_name": "/tmp/news_lk2/articles/3b/3b764e78.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84343/undco-regional-director-for-asia-pacific-arrives-in-sri-lanka",
-    "time_ut": 1660658520,
-    "original_lang": "en",
-    "original_title": "UNDCO Regional Director for Asia-Pacific arrives in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/50/504cbb8a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/16/pmb-to-start-purchasing-paddy-from-tomorrow-17/",
-    "time_ut": 1660658400,
-    "original_lang": "en",
-    "original_title": "PMB to start purchasing paddy from tomorrow (17)",
-    "file_name": "/tmp/news_lk2/articles/fc/fc6710fa.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/16/usd-2-1-mn-to-improve-lives-of-the-marginalized-from-wusc/",
-    "time_ut": 1660658220,
-    "original_lang": "en",
-    "original_title": "USD 2.1 Mn to improve lives of the marginalized from WUSC",
-    "file_name": "/tmp/news_lk2/articles/64/645803aa.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0dbb\u0dcf\u0da2\u0db0\u0dcf\u0db1\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd-\u0dc0\u0dd9\u0dc5\u0db3-\u0dc3\u0dc4\u0db1\u0dba\u0d9a\u0dca/11-396347",
-    "time_ut": 1660658168,
-    "original_lang": "si",
-    "original_title": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0dbb\u0dcf\u0da2\u0db0\u0dcf\u0db1\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0dc0\u0dd9\u0dc5\u0db3 \u0dc3\u0dc4\u0db1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/56/567f9935.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/16/cid-summons-swimming-champ-julian-bolling/",
-    "time_ut": 1660657560,
-    "original_lang": "en",
-    "original_title": "CID summons Swimming Champ Julian Bolling",
-    "file_name": "/tmp/news_lk2/articles/b0/b02f747c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/16/sri-lanka-s-fm-briefs-diplomatic-corps-on-pta-etc/",
-    "time_ut": 1660657440,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s FM briefs Diplomatic Corps on PTA, etc.",
-    "file_name": "/tmp/news_lk2/articles/8b/8b00e195.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf\u0da7-\u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad\u0dba\u0da7-\u0dba\u0db1\u0dca\u0db1-\u0db8\u0dd2\u0dbd\u0daf\u0dd2-\u0d9c\u0dad\u0dca-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dba\u0dda-\u0dc0\u0dd2\u0dba\u0daf\u0db8-\u0da2\u0db1\u0dad\u0dcf-\u0db6\u0daf\u0dd4-\u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0db1\u0dca/11-396346",
-    "time_ut": 1660656974,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0da7 \u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad\u0dba\u0da7 \u0dba\u0db1\u0dca\u0db1 \u0db8\u0dd2\u0dbd\u0daf\u0dd2 \u0d9c\u0dad\u0dca \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba\u0dda \u0dc0\u0dd2\u0dba\u0daf\u0db8 \u0da2\u0db1\u0dad\u0dcf \u0db6\u0daf\u0dd4 \u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/23/2326c459.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/16/yuan-wang-s-research-activities-are-consistent-with-int-l-law-chinese-foreign-ministry-spokesperson/",
-    "time_ut": 1660656360,
-    "original_lang": "en",
-    "original_title": "Yuan Wang\u2019s research activities are consistent with Int\u2019l law: Chinese Foreign Ministry Spokesperson",
-    "file_name": "/tmp/news_lk2/articles/c6/c632bacd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Authorities-remain-to-be-vigilant-on-delisted-persons-entities-SL/108-243176",
-    "time_ut": 1660655496,
-    "original_lang": "en",
-    "original_title": "Authorities remain to be vigilant on delisted persons & entities - SL",
-    "file_name": "/tmp/news_lk2/articles/7e/7e883966.json"
   }
 ]
