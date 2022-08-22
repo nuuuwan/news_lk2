@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab-\u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba-\u0dc0\u0dd0\u0dbb\u0dd0\u0daf\u0dd2\u0dbd\u0dcf-\u0da2\u0d82\u0da2\u0dcf\u0dbd\u0dba\u0d9a\u0dca/1-618575",
+    "time_ut": 1661210062,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab \u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba \u0dc0\u0dd0\u0dbb\u0dd0\u0daf\u0dd2\u0dbd\u0dcf \u0da2\u0d82\u0da2\u0dcf\u0dbd\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/32/3258a599.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-shares-gain-for-third-straight-session-to-1-wk-high-market-heavyweights-lead-98885/",
     "time_ut": 1661208420,
@@ -185,11 +193,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db4\u0dda-\u0dc3\u0dda\u0dbd\u0dba\u0dd2\u0db1\u0dca-\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf-\u0dc0\u0dd9\u0dc5\u0dd9\u0db3-\u0db4\u0ddc\u0dc5\u0da7/101-618574",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db4\u0dda-\u0dc3\u0dda\u0dbd\u0dba\u0dd2\u0db1\u0dca-\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf-\u0dc0\u0dd9\u0dc5\u0dd9\u0db3-\u0db4\u0ddc\u0dc5\u0da7/1-618574",
     "time_ut": 1661188692,
     "original_lang": "si",
     "original_title": "\u0d85\u0db4\u0dda \u0dc3\u0dda\u0dbd\u0dba\u0dd2\u0db1\u0dca \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc0\u0dd9\u0dc5\u0dd9\u0db3 \u0db4\u0ddc\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/95/95f8634d.json"
+    "file_name": "/tmp/news_lk2/articles/ac/ac99a2be.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba \u0db4\u0dd4\u0dad\u0dca\u0dad\u0dd4 \u0d85\u0daf \u0dad\u0dd9\u0dbd\u0dca \u0dc0\u0dbd\u0dd2\u0db1\u0dd4\u0dad\u0dca \u0d9c\u0dc3\u0dcf \u0d9a\u0db1\u0dc0\u0dcf\u0daf\u0dd0\u0dba\u0dd2 \u0dc3\u0dd0\u0d9a\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/39/39c82939.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2-\u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5\u0dad\u0dca-\u0dc4\u0dcf\u0db1\u0dca\u0dc3\u0dd2\u0dba\u0dd2---\u0d9c\u0dd9\u0da9\u0dd2\u0dba\u0d9a\u0dca-700-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/11-396389",
-    "time_ut": 1660752034,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5\u0dad\u0dca \u0dc4\u0dcf\u0db1\u0dca\u0dc3\u0dd2\u0dba\u0dd2 - \u0d9c\u0dd9\u0da9\u0dd2\u0dba\u0d9a\u0dca 700 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/cf/cfa439e1.json"
   }
 ]
