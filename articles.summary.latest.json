@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/22/3-500-arrested-so-far-over-9th-may-violence/",
+    "time_ut": 1661177040,
+    "original_lang": "en",
+    "original_title": "3,500+ arrested so far over 9th May Violence",
+    "file_name": "/tmp/news_lk2/articles/8c/8ceccfce.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84468/activist-piyath-nikeshala-remanded",
+    "time_ut": 1661176860,
+    "original_lang": "en",
+    "original_title": "Activist Piyath Nikeshala remanded",
+    "file_name": "/tmp/news_lk2/articles/47/47dd024c.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4-\u0bae\u0bb8\u0bcd\u0b95\u0bc6\u0bb2\u0bbf\u0baf\u0bbe-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b89\u0ba3\u0bcd\u0bae\u0bc8-\u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/76-302809",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0bb8\u0bcd\u0b95\u0bc6\u0bb2\u0bbf\u0baf\u0bbe-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b89\u0ba3\u0bcd\u0bae\u0bc8-\u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/76-302809",
     "time_ut": 1661176429,
     "original_lang": "ta",
-    "original_title": "\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4 \u0bae\u0bb8\u0bcd\u0b95\u0bc6\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd  \u0b89\u0ba3\u0bcd\u0bae\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/e0/e08f1889.json"
+    "original_title": "\u0bae\u0bb8\u0bcd\u0b95\u0bc6\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd  \u0b89\u0ba3\u0bcd\u0bae\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/21/21c7c54d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd: 17 \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bc6\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/a6/a65a4772.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0baa\u0bb2-\u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1-\u0bb5\u0bc6\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302501",
-    "time_ut": 1660732070,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bb2 \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/1a/1ab784e7.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-runaway-ex-president-to-return-on-aug-24-25-cousin-98700/",
-    "time_ut": 1660731720,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s runaway ex president to return on Aug 24, 25: cousin",
-    "file_name": "/tmp/news_lk2/articles/2b/2bacdda1.json"
   }
 ]
