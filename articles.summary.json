@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Gone-with-the-wind-but-ill-winds-still-blow/4-738978",
+    "time_ut": 1661197798,
+    "original_lang": "en",
+    "original_title": "Gone with the wind but ill winds still blow",
+    "file_name": "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Saying-no-to-authoritarian-governance/14-738977",
+    "time_ut": 1661197429,
+    "original_lang": "en",
+    "original_title": "Saying no to authoritarian governance",
+    "file_name": "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe-\u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302836",
     "time_ut": 1661196390,
