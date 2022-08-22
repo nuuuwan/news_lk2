@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-23 03:10:21 (LK time)*
+*As of 2022-08-23 03:26:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (5 Articles)
+## Last Hour (4 Articles)
 
-* **5** daily-ft-lk ([Tyeab Akbarally joins Sunshine Holdings Board](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/600c61b7.json))
+* **4** daily-ft-lk ([PwC to hold webinar on ESG practices for food and beverage industry](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/077b506e.json))
 
 ## Last 3 Hours (15 Articles)
 
