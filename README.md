@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-23 02:56:08 (LK time)*
+*As of 2022-08-23 03:10:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (4 Articles)
-
-* **4** daily-ft-lk ([PwC to hold webinar on ESG practices for food and beverage industry](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/077b506e.json))
 
 ## Last Hour (5 Articles)
 
