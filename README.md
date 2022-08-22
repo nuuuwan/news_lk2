@@ -1,20 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-23 03:26:10 (LK time)*
+*As of 2022-08-23 03:49:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
-
-* **4** daily-ft-lk ([PwC to hold webinar on ESG practices for food and beverage industry](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/077b506e.json))
-
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (12 Articles)
 
 * **11** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
 
-* **2** tamil-mirror-lk ([பாண் விலை தொடர்பான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f8d724f.json))
-
-* **2** ada-derana-lk ([President and Opposition Leader hold talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5635e8e.json))
+* **1** tamil-mirror-lk ([கொரோனா மரணங்கள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3712e701.json))
 
 ## Last 24 Hours (233 Articles)
 
