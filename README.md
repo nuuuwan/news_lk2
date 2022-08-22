@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-23 03:49:17 (LK time)*
+*As of 2022-08-23 04:12:43 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (12 Articles)
+## Last 3 Hours (11 Articles)
 
 * **11** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
-
-* **1** tamil-mirror-lk ([கொரோனா மரணங்கள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3712e701.json))
 
 ## Last 24 Hours (233 Articles)
 
