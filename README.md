@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-23 04:12:43 (LK time)*
+*As of 2022-08-23 04:27:50 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (8 Articles)
 
-* **11** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
+* **8** daily-ft-lk ([Kerosene price hike: Setting the rural and urban periphery on fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5ac80b6.json))
 
 ## Last 24 Hours (233 Articles)
 
