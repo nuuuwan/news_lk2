@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe-\u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302836",
+    "time_ut": 1661196390,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/37/3712e701.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84472/fauci-to-step-down-after-decades-as-top-us-infection-expert",
+    "time_ut": 1661195880,
+    "original_lang": "en",
+    "original_title": "Fauci to step down after decades as top US infection expert",
+    "file_name": "/tmp/news_lk2/articles/85/85f5ad1a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0ba3\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302835",
     "time_ut": 1661195062,
     "original_lang": "ta",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Scottish Instragrammer Missing after losing deportation case \u2013 Immigration Dept",
     "file_name": "/tmp/news_lk2/articles/8e/8e640414.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd/175-302507",
-    "time_ut": 1660747136,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bb0\u0b9a \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/42/42b0d0c5.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0dcf\u0dc6\u0dca-\u0d9c\u0dd1\u0dc3\u0dca-\u0db8\u0dd2\u0dbd-1050\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dc4\u0dc5\u0da7/1-618297",
-    "time_ut": 1660746173,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0dcf\u0dc6\u0dca \u0d9c\u0dd1\u0dc3\u0dca \u0db8\u0dd2\u0dbd 1050\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/54/54c9de2f.json"
   }
 ]
