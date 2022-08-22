@@ -1,0 +1,282 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd-8-\u0baa\u0bc7\u0bb0\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbe\u0bb2\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-302767",
+  "time_ut": 1661137563,
+  "original_lang": "ta",
+  "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd 8 \u0baa\u0bc7\u0bb0\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+  "text_idx": {
+    "en": {
+      "title": "8 Sri Lankans rescued by Indian Navy",
+      "author": "unknown",
+      "body_lines": [
+        "Four days ago, 8 persons with a two-and-a-half-month-old baby were dropped on the third sandbar of the Indian sea, and yesterday (21) morning, the Indian Coast Guard rescued all 8 persons.",
+        "All 8 boats belonging to two families have been rescued by the Indian Coast Guard and handed over to the Marine Police.",
+        "The said 8 are reported to be from Greater Jaffna and Kilinochchi area. (a)"
+      ],
+      "title_ents": [
+        {
+          "text": "8",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Sri Lankans",
+          "label": "NORP"
+        },
+        {
+          "text": "Indian Navy",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Four days ago",
+            "label": "DATE"
+          },
+          {
+            "text": "8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "third",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Indian",
+            "label": "NORP"
+          },
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "21) morning",
+            "label": "TIME"
+          },
+          {
+            "text": "the Indian Coast Guard",
+            "label": "ORG"
+          },
+          {
+            "text": "8",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Indian Coast Guard",
+            "label": "ORG"
+          },
+          {
+            "text": "the Marine Police",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Greater Jaffna",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kilinochchi",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca 8 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0db6\u0dda\u0dbb\u0dcf \u0d9c\u0dd0\u0db1\u0dda",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0db8\u0dd3\u0da7 \u0daf\u0dd2\u0db1 \u0dc4\u0dad\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb \u0db8\u0dcf\u0dc3 \u0daf\u0dd9\u0d9a\u0dc4\u0db8\u0dcf\u0dbb\u0d9a \u0db6\u0dd2\u0dc5\u0dd2\u0db3\u0d9a\u0dd4 \u0dc3\u0db8\u0d9f \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd2\u0db1\u0dca 8 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dda \u0dad\u0dd4\u0db1\u0dca\u0dc0\u0db1 \u0dc0\u0dd0\u0dbd\u0dd2 \u0dad\u0da7\u0dcf\u0d9a\u0dba\u0da7 \u0dc0\u0dd0\u0da7\u0dd3 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0d8a\u0dba\u0dda (21) \u0d8b\u0daf\u0dd1\u0dc3\u0db1 \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0d91\u0db8 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd2\u0db1\u0dca 8 \u0daf\u0dd9\u0db1\u0dcf\u0db8 \u0db6\u0dda\u0dbb\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd2\u0dba.",
+        "\u0db4\u0dc0\u0dd4\u0dbd\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0da7 \u0d85\u0dba\u0dad\u0dca \u0db6\u0ddd\u0da7\u0dca\u0da7\u0dd4 8\u0db8 \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db7\u0da7\u0dba\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db6\u0dda\u0dbb\u0dcf\u0d9c\u0dd9\u0db1 \u0db8\u0dd0\u0dbb\u0dd3\u0db1\u0dca \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0dc0\u0dd9\u0dad \u0db7\u0dcf\u0dbb\u0daf\u0dd3 \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf.",
+        "\u0d91\u0db8 8 \u0daf\u0dd9\u0db1\u0dcf \u0db8\u0dc4 \u0dba\u0dcf\u0db4\u0db1\u0dba \u0dc3\u0dc4 \u0d9a\u0dd2\u0dbd\u0dd2\u0db1\u0ddc\u0da0\u0dca\u0da0\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0d85\u0dba \u0db6\u0dc0 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dda. (\u0d92)"
+      ],
+      "title_ents": [
+        {
+          "text": "8",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca",
+          "label": "NORP"
+        },
+        {
+          "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0daf\u0dc0\u0dc3\u0dca \u0dc4\u0dad\u0dbb\u0d9a\u0da7 \u0d9a\u0dbd\u0dd2\u0db1\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dad\u0dd9\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "21) \u0d8b\u0daf\u0dd1\u0dc3\u0db1",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "8",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0dbb\u0dd3\u0db1\u0dca \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0dba\u0dcf\u0db4\u0db1\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0dd2\u0db1\u0ddc\u0da0\u0dca\u0da0\u0dd2",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd 8 \u0baa\u0bc7\u0bb0\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+      "author": "unknown",
+      "body_lines": [
+        "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bae\u0bcd \u0bae\u0ba3\u0bb2\u0bcd \u0ba4\u0bc0\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bb0\u0bc8 \u0bae\u0bbe\u0ba4 \u0b95\u0bc8 \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd 8 \u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 (21) \u0b95\u0bbe\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 8 \u0baa\u0bc7\u0bb0\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 8 \u0baa\u0bcb\u0bb0\u0bc8\u0baf\u0bc1\u0bae\u0bcd\u00a0 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8 \u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bb0\u0bc8\u0ba9\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbf\u0b9f\u0bae\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b87\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0ba3\u0bcd\u0b9f\u0baa\u0bae\u0bcd \u0b85\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bc1\u0bb5\u0bbe\u0bb4\u0bcd\u0bb5\u0bc1 \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bbf\u0bb2\u0bcd \u0ba4\u0b99\u0bcd\u0b95 \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f \u0b89\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 8 \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba9 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. (a)"
+      ],
+      "title_ents": [
+        {
+          "text": "8",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+          "label": "NORP"
+        },
+        {
+          "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "21) \u0b95\u0bbe\u0bb2\u0bc8",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "8",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bb0\u0bc8\u0ba9\u0bcd \u0baa\u0bcb\u0bb2\u0bc0\u0bb8\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf",
+            "label": "GPE"
+          }
+        ]
+      ]
+    }
+  }
+}
