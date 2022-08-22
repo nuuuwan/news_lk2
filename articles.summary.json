@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84455/all-passenger-transport-regulatory-powers-to-be-vested-in-ntc",
+    "time_ut": 1661152140,
+    "original_lang": "en",
+    "original_title": "All passenger transport regulatory powers to be vested in NTC",
+    "file_name": "/tmp/news_lk2/articles/1b/1bea5774.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84454/another-person-who-forcibly-entered-rupavahini-premises-arrested",
+    "time_ut": 1661151660,
+    "original_lang": "en",
+    "original_title": "Another person who forcibly entered Rupavahini premises arrested",
+    "file_name": "/tmp/news_lk2/articles/be/be2aecfc.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84453/nearly-300000-citizens-at-risk-of-losing-their-votes",
+    "time_ut": 1661151300,
+    "original_lang": "en",
+    "original_title": "Nearly 300,000 citizens at risk of losing their votes",
+    "file_name": "/tmp/news_lk2/articles/64/64ded1a2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84452/direct-cash-subsidy-for-low-income-families-sectors-dependent-on-kerosene",
     "time_ut": 1661150400,
     "original_lang": "en",
@@ -9,11 +33,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/main_picture/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0dcf\u0d82\u0d9a\u0dda\u0dba-\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dda-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba-\u0d9c\u0dd0\u0db1-\u0d9a\u0dd2\u0dba\u0db1-\u0dad\u0ddd\u0dab\u0dd2\u0d9c\u0dbd-\u0dc3\u0dd9\u0dbd\u0dca-\u0dbd\u0dd2\u0db4\u0dd2\u0dba/11-618527",
+    "url": "https://www.lankadeepa.lk/news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0dcf\u0d82\u0d9a\u0dda\u0dba-\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dda-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba-\u0d9c\u0dd0\u0db1-\u0d9a\u0dd2\u0dba\u0db1-\u0dad\u0ddd\u0dab\u0dd2\u0d9c\u0dbd-\u0dc3\u0dd9\u0dbd\u0dca-\u0dbd\u0dd2\u0db4\u0dd2\u0dba/101-618527",
     "time_ut": 1661150114,
     "original_lang": "si",
     "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dda\u0dba \u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dda \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba \u0d9c\u0dd0\u0db1 \u0d9a\u0dd2\u0dba\u0db1 \u0dad\u0ddd\u0dab\u0dd2\u0d9c\u0dbd \u0dc3\u0dd9\u0dbd\u0dca \u0dbd\u0dd2\u0db4\u0dd2\u0dba",
-    "file_name": "/tmp/news_lk2/articles/4f/4f6672e3.json"
+    "file_name": "/tmp/news_lk2/articles/d7/d72b98ba.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d86\u0dbb\u0dd4\u0d9a\u0dca\u0d9a\u0dd4-\u0db1\u0dc0\u0dba\u0dda-\u0db4\u0dcf\u0dbd\u0db8\u0dda-\u0db6\u0db9\u0dbb-\u0d87\u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dd2\u0db8\u0dd9\u0db1\u0dca-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7-\u0db6\u0dcf\u0db0\u0dcf/11-396504",
+    "time_ut": 1661149784,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dbb\u0dd4\u0d9a\u0dca\u0d9a\u0dd4 \u0db1\u0dc0\u0dba\u0dda \u0db4\u0dcf\u0dbd\u0db8\u0dda \u0db6\u0db9\u0dbb \u0d87\u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dd2\u0db8\u0dd9\u0db1\u0dca \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0db6\u0dcf\u0db0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/12/128f8903.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -257,11 +289,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/visheshanga/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dda-\u0db1\u0ddc\u0daf\u0d9a\u0dd2\u0db1-\u0db4\u0dd0\u0dad\u0dca\u0dad\u0d9a\u0dca/26-618512",
+    "url": "https://www.lankadeepa.lk/features/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dda-\u0db1\u0ddc\u0daf\u0d9a\u0dd2\u0db1-\u0db4\u0dd0\u0dad\u0dca\u0dad\u0d9a\u0dca/2-618512",
     "time_ut": 1661140919,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dda \u0db1\u0ddc\u0daf\u0d9a\u0dd2\u0db1 \u0db4\u0dd0\u0dad\u0dca\u0dad\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/ca/caa46876.json"
+    "file_name": "/tmp/news_lk2/articles/44/44dabcdf.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
