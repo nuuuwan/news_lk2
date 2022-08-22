@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd-\u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b86\u0bb8\u0bbf/175-302808",
+    "time_ut": 1661175407,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b86\u0bb8\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/b1/b1f55347.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Hyde-Park-Peoples-Bank-shifted-to-new-location/342-243503",
+    "time_ut": 1661175148,
+    "original_lang": "en",
+    "original_title": "Hyde Park People\u2019s Bank shifted to new location",
+    "file_name": "/tmp/news_lk2/articles/6f/6f274beb.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/22/yuan-wang-5-leaves-sri-lanka-after-6-day-replenishment/",
     "time_ut": 1661173620,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Decision taken to stop human smuggling rackets operating with the use of visit visas: Manusha",
     "file_name": "/tmp/news_lk2/articles/09/09217c53.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Collective-effort-to-bust-human-smuggling-rackets-using-visit-visas-Manusha/342-243232",
-    "time_ut": 1660730950,
-    "original_lang": "en",
-    "original_title": "Collective effort to bust human smuggling rackets using visit visas: Manusha",
-    "file_name": "/tmp/news_lk2/articles/40/40f4caeb.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84359/multiple-explosions-arson-attacks-rock-southern-thailand",
-    "time_ut": 1660730880,
-    "original_lang": "en",
-    "original_title": "Multiple explosions, arson attacks rock southern Thailand",
-    "file_name": "/tmp/news_lk2/articles/1b/1b420212.json"
   }
 ]
