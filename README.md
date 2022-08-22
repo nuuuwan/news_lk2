@@ -1,32 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-22 23:44:57 (LK time)*
+*As of 2022-08-23 00:11:44 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last Hour (5 Articles)
 
 * **5** ada-lk ([චීන අධිවේගී දුම්රිය බලවේග කට්ටල ඉන්දුනීසියාවට යවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c3ee167.json))
 
-## Last Hour (6 Articles)
+## Last 3 Hours (12 Articles)
 
 * **5** ada-lk ([චීන අධිවේගී දුම්රිය බලවේග කට්ටල ඉන්දුනීසියාවට යවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c3ee167.json))
-
-* **1** lankadeepa-lk ([අපේ සේලයින් යුරෝපා වෙළෙඳ පොළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95f8634d.json))
-
-## Last 3 Hours (17 Articles)
-
-* **5** ada-lk ([චීන අධිවේගී දුම්රිය බලවේග කට්ටල ඉන්දුනීසියාවට යවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c3ee167.json))
-
-* **4** lankadeepa-lk ([පිළියන්දල කලබල කළ ශ්‍රීලනීප ප්‍රා මන්ත්‍රි අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f39414c.json))
-
-* **4** tamil-mirror-lk ([நீதிமன்றத்துக்குள் துப்பாக்கிச் சூடு; இருவர் சிக்கினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d38a8ee.json))
 
 * **2** ada-derana-lk ([Sri Lanka expecting IMF funding by year-end if all goes to plan: CBSL chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/221f720e.json))
 
 * **2** daily-mirror-lk ([Mano welcomes direct cash subsidy by govt. in the wake of kerosene price increase](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc833a5.json))
 
-## Last 24 Hours (227 Articles)
+* **2** tamil-mirror-lk ([மே 9 வன்முறை சம்பவங்கள்; சு.கவின் முக்கியஸ்தர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13a6c1c4.json))
+
+* **1** lankadeepa-lk ([අපේ සේලයින් යුරෝපා වෙළෙඳ පොළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95f8634d.json))
+
+## Last 24 Hours (225 Articles)
 
 * **55** lankadeepa-lk ([ගෝඨාභය යුද අධිකරණය යවන්නැයි සංදේශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f1bcfa.json))
 
@@ -36,7 +30,7 @@
 
 * **28** news-first-lk ([Heavy rains expected today (22)](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/288362c4.json))
 
-* **26** ada-derana-lk ([Sri Lanka envoy expresses gratitude to US congresspeople for showing interest in the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eec8e000.json))
+* **24** ada-derana-lk ([Fairly heavy rainfall expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/071d6ef3.json))
 
 * **24** daily-mirror-lk ([UK-based Kavida to invest US$ 500, 000 to support  Sri Lanka’s apparel resilience](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc466a38.json))
 
@@ -46,7 +40,7 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka: Protesters Must Not Be Detained Under The Draconian Anti-Terror Law: Amnesty International](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f24273.json))
 
-## Last Week (1,396 Articles)
+## Last Week (1,395 Articles)
 
 * **262** lankadeepa-lk ([විසි දෙකට කඹ ඇදිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/503d62f2.json))
 
@@ -58,7 +52,7 @@
 
 * **160** daily-mirror-lk ([Jayakantha appointed as new Civil Aviation DG](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0443d16.json))
 
-* **157** ada-derana-lk ([President orders to strictly limit state sector expenditures](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29d6a7f4.json))
+* **156** ada-derana-lk ([Chinese Embassy to launch welcoming ceremony for arrival of Chinese research vessel](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86362752.json))
 
 * **88** economy-next-com ([Sri Lanka sovereign rating at SD but ISBs downgraded to ‘D’ by S&P](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77536cc3.json))
 
