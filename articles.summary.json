@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Imithiaz-calls-out-President-on-his-duplicity-concerning-the-Aragalaya/56-739001",
+    "time_ut": 1661202027,
+    "original_lang": "en",
+    "original_title": "Imithiaz calls out President on his duplicity concerning the \u2018Aragalaya\u2019",
+    "file_name": "/tmp/news_lk2/articles/03/036fd6d0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Chinese-research-ship-Yuan-Wang-5-leaves-Sri-Lanka/56-739000",
+    "time_ut": 1661201962,
+    "original_lang": "en",
+    "original_title": "Chinese research ship Yuan Wang 5 leaves Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/65/65c7bf25.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Right-of-Reply-Qualification-of-MPs/56-738999",
+    "time_ut": 1661201880,
+    "original_lang": "en",
+    "original_title": "Right of Reply: Qualification of MPs",
+    "file_name": "/tmp/news_lk2/articles/92/9237b6e7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/PwC-to-hold-webinar-on-ESG-practices-for-food-and-beverage-industry/34-738998",
+    "time_ut": 1661201784,
+    "original_lang": "en",
+    "original_title": "PwC to hold webinar on ESG practices for food and beverage industry",
+    "file_name": "/tmp/news_lk2/articles/07/077b506e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Tyeab-Akbarally-joins-Sunshine-Holdings-Board/34-738997",
+    "time_ut": 1661201756,
+    "original_lang": "en",
+    "original_title": "Tyeab Akbarally joins Sunshine Holdings Board",
+    "file_name": "/tmp/news_lk2/articles/60/600c61b7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Five-ways-to-connect-Sri-Lanka-s-small-businesses-to-global-value-chains/4-738985",
     "time_ut": 1661199762,
     "original_lang": "en",
