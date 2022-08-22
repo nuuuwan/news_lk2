@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Kerosene-price-hike-Setting-the-rural-and-urban-periphery-on-fire/4-738982",
+    "time_ut": 1661198314,
+    "original_lang": "en",
+    "original_title": "Kerosene price hike: Setting the rural and urban periphery on fire",
+    "file_name": "/tmp/news_lk2/articles/c5/c5ac80b6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-tough-guy-President-and-the-Aragalaya/4-738979",
+    "time_ut": 1661197918,
+    "original_lang": "en",
+    "original_title": "The \u2018tough guy\u2019 President and the Aragalaya",
+    "file_name": "/tmp/news_lk2/articles/8f/8f85bfc8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Gone-with-the-wind-but-ill-winds-still-blow/4-738978",
     "time_ut": 1661197798,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Laugfs Gas drops price of domestic gas cylinder",
     "file_name": "/tmp/news_lk2/articles/91/91570bb3.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd2\u0db8\u0dbd\u0dca---\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf-\u0dba\u0dc5\u0dd2-\u0dc0\u0dd0\u0da9/101-618299",
-    "time_ut": 1660749045,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd2\u0db8\u0dbd\u0dca - \u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0dba\u0dc5\u0dd2 \u0dc0\u0dd0\u0da9",
-    "file_name": "/tmp/news_lk2/articles/75/75046e5e.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bc6\u0ba9-\u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b9a\u0bae\u0bc8\u0baf\u0bb2\u0bcd-\u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1-\u0bb5\u0bbf\u0bb2\u0bc8/175-302515",
-    "time_ut": 1660748947,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bc6\u0ba9 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0bae\u0bc8\u0baf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/1e/1eef1779.json"
   }
 ]

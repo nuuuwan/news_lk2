@@ -1,36 +1,36 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-23 01:28:31 (LK time)*
+*As of 2022-08-23 01:45:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **2** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
+* **3** daily-ft-lk ([Gone with the wind but ill winds still blow](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a628ed6c.json))
 
 ## Last Hour (6 Articles)
 
-* **2** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
+* **4** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
+
+* **1** tamil-mirror-lk ([கொரோனா மரணங்கள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3712e701.json))
+
+* **1** ada-derana-lk ([Fauci to step down after decades as top US infection expert](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85f5ad1a.json))
+
+## Last 3 Hours (16 Articles)
+
+* **5** ada-lk ([චීන අධිවේගී දුම්රිය බලවේග කට්ටල ඉන්දුනීසියාවට යවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c3ee167.json))
+
+* **4** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
 
 * **2** tamil-mirror-lk ([பாண் விலை தொடர்பான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f8d724f.json))
 
 * **2** ada-derana-lk ([President and Opposition Leader hold talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5635e8e.json))
 
-## Last 3 Hours (15 Articles)
-
-* **5** ada-lk ([චීන අධිවේගී දුම්රිය බලවේග කට්ටල ඉන්දුනීසියාවට යවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c3ee167.json))
-
-* **3** ada-derana-lk ([Police seek assistance to identify suspects who stormed PM’s Office](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7dfb882.json))
-
-* **2** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
-
-* **2** tamil-mirror-lk ([பாண் விலை தொடர்பான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f8d724f.json))
-
 * **2** daily-mirror-lk ([Importance of looking at the bigger picture](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70280c2a.json))
 
 * **1** lankadeepa-lk ([අපේ සේලයින් යුරෝපා වෙළෙඳ පොළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95f8634d.json))
 
-## Last 24 Hours (229 Articles)
+## Last 24 Hours (231 Articles)
 
 * **55** lankadeepa-lk ([ගෝඨාභය යුද අධිකරණය යවන්නැයි සංදේශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f1bcfa.json))
 
@@ -46,11 +46,11 @@
 
 * **13** economy-next-com ([Sri Lanka Navy seizes smuggled medicines worth 4.5m rupees](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/760e250e.json))
 
-* **7** daily-ft-lk ([Ken Vijayakumar elected President of CIPM SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3727b455.json))
+* **9** daily-ft-lk ([Ken Vijayakumar elected President of CIPM SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3727b455.json))
 
 * **1** colombo-telegraph-com ([Sri Lanka: Protesters Must Not Be Detained Under The Draconian Anti-Terror Law: Amnesty International](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f24273.json))
 
-## Last Week (1,386 Articles)
+## Last Week (1,383 Articles)
 
 * **262** lankadeepa-lk ([විසි දෙකට කඹ ඇදිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/503d62f2.json))
 
@@ -66,15 +66,15 @@
 
 * **87** economy-next-com ([Chinese tracking vessel Yuan Wang 5 docks at Sri Lanka’s Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e547836.json))
 
-* **63** daily-ft-lk ([Sri Lanka celebrates 26th anniversary of diplomatic relations with Lithuania](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3bc6f5c.json))
+* **61** daily-ft-lk ([Committee on High Posts approves five new Ministry Secretaries, one Ambassador](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abf35d13.json))
 
 * **54** island-lk ([SL seen as losing billions of dollars as a result of not making use of her locational advantage](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e52cd6c3.json))
 
-* **15** colombo-telegraph-com ([Consolidating Power Of Government At Expense Of People](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4500dae3.json))
+* **14** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
 * **10** d-b-s-jeyaraj-com ([Police use Tear Gas and Water Cannon to  Disperse Protest Demonstration Organized by the Inter-University Student Federation;Six persons including Wasantha Mudalige  taken into custody](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd7d49cb.json))
 
-## All Time (2,248 Articles)
+## All Time (2,250 Articles)
 
 * **398** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -88,7 +88,7 @@
 
 * **206** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
-* **161** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
+* **163** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
 * **144** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 
