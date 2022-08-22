@@ -113,11 +113,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/22-\u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0da7-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba-\u0db4\u0dcf-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4-80\u0d9a\u0d9c\u0dd9\u0db1\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca/1-618495",
+    "url": "https://www.lankadeepa.lk/news/22-\u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0da7-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba-\u0db4\u0dcf-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4-80\u0d9a\u0d9c\u0dd9\u0db1\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca/101-618495",
     "time_ut": 1661100720,
     "original_lang": "si",
     "original_title": "22 \u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0da7 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba \u0db4\u0dcf \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4 80\u0d9a\u0d9c\u0dd9\u0db1\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/42/4228266f.json"
+    "file_name": "/tmp/news_lk2/articles/36/3655530c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1001,11 +1001,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dab\u0dd2\u0d9a\u0dcf-\u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0d9a\u0dca-\u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dba-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0d91\u0dc3\u0dca-\u0d91\u0dc6\u0dca-\u0dc3\u0dd9\u0db6\u0dbd\u0dcf-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/101-618469",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dab\u0dd2\u0d9a\u0dcf-\u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0d9a\u0dca-\u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dba-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0d91\u0dc3\u0dca-\u0d91\u0dc6\u0dca-\u0dc3\u0dd9\u0db6\u0dbd\u0dcf-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-618469",
     "time_ut": 1661061305,
     "original_lang": "si",
     "original_title": "\u0d9c\u0dab\u0dd2\u0d9a\u0dcf \u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0d9a\u0dca \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dba \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d91\u0dc3\u0dca.\u0d91\u0dc6\u0dca \u0dc3\u0dd9\u0db6\u0dbd\u0dcf \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/52/520ae377.json"
+    "file_name": "/tmp/news_lk2/articles/8c/8cb9c801.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -1497,6 +1497,22 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/the-fifth-amendment-the-paper-chase-and-the-ultimate-threat-to-u-s-democracy/",
+    "time_ut": 1661001240,
+    "original_lang": "en",
+    "original_title": "THE FIFTH AMENDMENT, THE PAPER CHASE AND THE ULTIMATE THREAT TO U.S. DEMOCRACY",
+    "file_name": "/tmp/news_lk2/articles/3f/3ff16510.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/ceylons-solitary-silver-medal/",
+    "time_ut": 1661000940,
+    "original_lang": "en",
+    "original_title": "CEYLON\u2019S SOLITARY SILVER MEDAL",
+    "file_name": "/tmp/news_lk2/articles/74/7490c1fd.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/perversions-of-the-justice-system/",
     "time_ut": 1661000820,
     "original_lang": "en",
@@ -1630,6 +1646,14 @@
     "original_lang": "en",
     "original_title": "Three Indians arrested with Rs. 18mn gold",
     "file_name": "/tmp/news_lk2/articles/f6/f6013d30.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/my-life-was-exciting-says-ex-stc-teacher-in-germany/",
+    "time_ut": 1660992240,
+    "original_lang": "en",
+    "original_title": "MY LIFE WAS EXCITING SAYS EX-STC TEACHER IN GERMANY",
+    "file_name": "/tmp/news_lk2/articles/e8/e8d89c70.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
