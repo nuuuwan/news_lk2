@@ -1,36 +1,38 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-24 00:46:55 (LK time)*
+*As of 2022-08-24 01:08:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
+## Last 30 Minutes (1 Articles)
+
+* **1** ada-derana-lk ([Sri Lanka aims to cut fiscal deficit in budget 2023](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/444a0ec7.json))
+
 ## Last Hour (1 Articles)
 
-* **1** tamil-mirror-lk ([அரச ஊழியர்களை வழமை போன்று பணிக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/328f145f.json))
+* **1** ada-derana-lk ([Sri Lanka aims to cut fiscal deficit in budget 2023](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/444a0ec7.json))
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (7 Articles)
 
 * **3** tamil-mirror-lk ([சிறுவர் இல்லத்தில் இருந்த மூவர் தப்பியோட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86d7dd52.json))
 
+* **2** ada-derana-lk ([State sector employees required to report for duty as usual](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbf47555.json))
+
 * **2** economy-next-com ([Sri Lanka halts imports of over 300 items](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a96f0522.json))
 
-* **2** ada-derana-lk ([Sri Lanka suspends import of over 300 items](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e6ba21d.json))
-
-* **2** lankadeepa-lk ([ගාල්ලේ ළමා නිවාසයකින් දරුවන් තිදෙනකු පැන ගිහින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/496fc8e1.json))
-
-## Last 24 Hours (228 Articles)
+## Last 24 Hours (227 Articles)
 
 * **52** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43863138.json))
 
-* **35** tamil-mirror-lk ([கொரோனா மரணங்கள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3712e701.json))
+* **34** tamil-mirror-lk ([’ஐ.எம்.எப் கடன் இந்த வருட இறுதிக்குள் கிடைக்கும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61c50a42.json))
 
 * **29** news-first-lk ([3-hour power cuts today](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41c9a5b.json))
 
 * **29** ada-lk ([මන්ත්‍රීට පහරදී බේරේ වැවට  තල්ලුකළ තරුණිය අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73a17ca7.json))
 
-* **24** economy-next-com ([Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e7d91a9.json))
+* **24** ada-derana-lk ([Showers expected in several provinces and districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca8b7e47.json))
 
-* **24** ada-derana-lk ([Fauci to step down after decades as top US infection expert](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85f5ad1a.json))
+* **24** economy-next-com ([Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e7d91a9.json))
 
 * **23** daily-mirror-lk ([National inflation increases to 66.7%](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01fffc8f.json))
 
@@ -38,7 +40,7 @@
 
 * **1** colombo-telegraph-com ([Wickremesinghe/Rajapaksa – An Axis Of Evil](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afed3211.json))
 
-## Last Week (1,412 Articles)
+## Last Week (1,413 Articles)
 
 * **275** lankadeepa-lk ([කෝටි 24 කොකේන් සමග පෝලන්ත ජාතිකයා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68c8b78e.json))
 
@@ -50,7 +52,7 @@
 
 * **160** daily-mirror-lk ([Aragalaya is far from over](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c478b17d.json))
 
-* **156** ada-derana-lk ([Showers or thundershowers expected in five provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc79d8bb.json))
+* **157** ada-derana-lk ([Showers or thundershowers expected in five provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc79d8bb.json))
 
 * **99** economy-next-com ([Sri Lanka to launch new weekend long-distance train and bus service](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50022422.json))
 
@@ -62,7 +64,7 @@
 
 * **11** d-b-s-jeyaraj-com ([Police use Tear Gas and Water Cannon to  Disperse Protest Demonstration Organized by the Inter-University Student Federation;Six persons including Wasantha Mudalige  taken into custody](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd7d49cb.json))
 
-## All Time (2,487 Articles)
+## All Time (2,488 Articles)
 
 * **451** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -74,7 +76,7 @@
 
 * **266** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
-* **229** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
+* **230** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
 * **170** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
