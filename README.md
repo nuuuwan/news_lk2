@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-23 05:10:11 (LK time)*
+*As of 2022-08-23 05:28:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3258a599.json))
 
-## Last Hour (2 Articles)
+## Last 3 Hours (4 Articles)
 
-* **1** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3258a599.json))
-
-* **1** economy-next-com ([Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e7d91a9.json))
-
-## Last 3 Hours (7 Articles)
-
-* **5** daily-ft-lk ([Tyeab Akbarally joins Sunshine Holdings Board](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/600c61b7.json))
+* **2** daily-ft-lk ([Chinese research ship Yuan Wang 5 leaves Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65c7bf25.json))
 
 * **1** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3258a599.json))
 
