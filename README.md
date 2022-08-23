@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-24 04:33:09 (LK time)*
+*As of 2022-08-24 04:47:45 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,9 +12,9 @@
 
 * **2** daily-ft-lk ([First tribal woman president symbolises India’s pluralist legacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a998f7.json))
 
-## Last 24 Hours (214 Articles)
+## Last 24 Hours (213 Articles)
 
-* **52** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43863138.json))
+* **51** lankadeepa-lk ([පොලීසිය අරලියගහ මන්දිරයේ තොරතුරු ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68bc09f1.json))
 
 * **33** tamil-mirror-lk ([இன்று கடும் மழை](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/260025e9.json))
 
