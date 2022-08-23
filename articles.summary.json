@@ -1,6 +1,94 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84492/ex-president-gotabaya-may-return-home-by-early-september-sources",
+    "time_ut": 1661258340,
+    "original_lang": "en",
+    "original_title": "Ex-President Gotabaya may return home by early September \u2013 sources",
+    "file_name": "/tmp/news_lk2/articles/f2/f26cf214.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/covid19/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0db8\u0dbb\u0dab-\u0dad\u0dc0\u0dad\u0dca-4-\u0d9a\u0dca/203-618634",
+    "time_ut": 1661258211,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0db8\u0dbb\u0dab \u0dad\u0dc0\u0dad\u0dca 4 \u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/09/098c0b84.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-three-hour-power-cuts-for-august-24-98924/",
+    "time_ut": 1661258160,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules three hour power cuts for August 24",
+    "file_name": "/tmp/news_lk2/articles/2a/2abdff55.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-treasuries-yield-flat-peg-steady-98927/",
+    "time_ut": 1661258160,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Treasuries yield flat, peg steady",
+    "file_name": "/tmp/news_lk2/articles/20/2020c66d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/unicef-rotary-partner-to-provide-essential-aid-to-sri-lankan-families-98921/",
+    "time_ut": 1661257980,
+    "original_lang": "en",
+    "original_title": "UNICEF, Rotary partner to provide essential aid to Sri Lankan families",
+    "file_name": "/tmp/news_lk2/articles/bb/bba472f9.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84491/basl-slams-govt-over-abuse-of-pta-to-arrest-and-detain-protesters",
+    "time_ut": 1661257800,
+    "original_lang": "en",
+    "original_title": "BASL slams govt over abuse of PTA to arrest and detain protesters",
+    "file_name": "/tmp/news_lk2/articles/b8/b80d3b5b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-state-radio-station-awards-solar-farm-contract-to-private-firm-98919/",
+    "time_ut": 1661257500,
+    "original_lang": "en",
+    "original_title": "Sri Lanka state radio station awards solar farm contract to private firm",
+    "file_name": "/tmp/news_lk2/articles/e6/e65993ab.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/PTA-\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd-BASL-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302876",
+    "time_ut": 1661257337,
+    "original_lang": "ta",
+    "original_title": "PTA \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd: BASL \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/93/932a7500.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dcf\u0dbd\u0dba\u0d9a\u0dca-\u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1\u0dba\u0d9a\u0dca-\u0dc3\u0ddc\u0dbb\u0dcf\u0d9c\u0dad\u0dca-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0dc3\u0dd0\u0dbb\u0dba\u0db1\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0dc3\u0dd2\u0dc0\u0dd4\u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dda-\u0dc0\u0dd0\u0da9-\u0dad\u0dc4\u0db1\u0db8\u0dca/101-618632",
+    "time_ut": 1661257044,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dcf\u0dbd\u0dba\u0d9a\u0dca-\u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1\u0dba\u0d9a\u0dca \u0dc3\u0ddc\u0dbb\u0dcf\u0d9c\u0dad\u0dca \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dc3\u0dd0\u0dbb\u0dba\u0db1\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dc3\u0dd2\u0dc0\u0dd4\u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dda \u0dc0\u0dd0\u0da9 \u0dad\u0dc4\u0db1\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/92/92d66379.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/First-organic-supermarket-restaurant-chain-opened/110-243578",
+    "time_ut": 1661257013,
+    "original_lang": "en",
+    "original_title": "First organic supermarket, restaurant chain opened",
+    "file_name": "/tmp/news_lk2/articles/a2/a2e600fd.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dda\u0dbb\u0dda-\u0dc0\u0dd0\u0dc0\u0da7-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0dad\u0dbd\u0dca\u0dbd\u0dd4\u0d9a\u0dc5\u0dd0\u0dba\u0dd2-\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0dc4\u0db3\u0dd4\u0db1\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda-\u0db4\u0dd9\u0dbb\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0da7/101-618630",
+    "time_ut": 1661256545,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dda\u0dbb\u0dda \u0dc0\u0dd0\u0dc0\u0da7 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0dad\u0dbd\u0dca\u0dbd\u0dd4\u0d9a\u0dc5\u0dd0\u0dba\u0dd2 \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0db4\u0dd9\u0dbb\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0da7",
+    "file_name": "/tmp/news_lk2/articles/c5/c589cc14.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84490/three-hour-power-cut-scheduled-for-tomorrow",
     "time_ut": 1661256480,
     "original_lang": "en",
@@ -17,11 +105,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba-\u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda-\u0db4\u0db1\u0dad-\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dd3-\u0db1\u0ddc\u0dc0\u0db1-\u0d85\u0dba\u0dd4\u0dbb\u0dd2\u0db1\u0dca-\u0db7\u0dcf\u0dc0\u0dd2\u0dad-\u0d9a\u0dbb\u0dbd\u0dcf/1-618629",
+    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba-\u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda-\u0db4\u0db1\u0dad-\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dd3-\u0db1\u0ddc\u0dc0\u0db1-\u0d85\u0dba\u0dd4\u0dbb\u0dd2\u0db1\u0dca-\u0db7\u0dcf\u0dc0\u0dd2\u0dad-\u0d9a\u0dbb\u0dbd\u0dcf/101-618629",
     "time_ut": 1661256128,
     "original_lang": "si",
     "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dd3 \u0db1\u0ddc\u0dc0\u0db1 \u0d85\u0dba\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0db7\u0dcf\u0dc0\u0dd2\u0dad \u0d9a\u0dbb\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/35/35c167b9.json"
+    "file_name": "/tmp/news_lk2/articles/46/46530023.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -185,11 +273,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Repeal-PTA-and-release-arrested-Uni-students-NPP/342-243574",
+    "url": "https://www.dailymirror.lk/breaking_news/Repeal-PTA-and-release-arrested-Uni-students-NPP/108-243574",
     "time_ut": 1661251749,
     "original_lang": "en",
     "original_title": "Repeal PTA and release arrested Uni.  students: NPP",
-    "file_name": "/tmp/news_lk2/articles/65/65661156.json"
+    "file_name": "/tmp/news_lk2/articles/a5/a54a7f65.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -281,19 +369,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dbb\u0dca\u0db1\u0dd2\u0db8\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0dc3\u0dc4\u0ddd\u0daf\u0dbb-\u0daf\u0dd1\u0dad-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/1-618618",
-    "time_ut": 1661248630,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dbb\u0dca\u0db1\u0dd2\u0db8\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc3\u0dc4\u0ddd\u0daf\u0dbb \u0daf\u0dd1\u0dad \u0daf\u0dd2\u0d9c\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a5/a515f502.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dbb\u0dca\u0db8\u0dd9\u0dd2\u0db1\u0dd2\u0dba\u0dcf\u0dc0-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0dc3\u0dc4\u0ddd\u0daf\u0dbb-\u0daf\u0dd1\u0dad-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/1-618618",
     "time_ut": 1661248630,
     "original_lang": "si",
     "original_title": "\u0d86\u0dbb\u0dca\u0db8\u0dd9\u0dd2\u0db1\u0dd2\u0dba\u0dcf\u0dc0 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc3\u0dc4\u0ddd\u0daf\u0dbb \u0daf\u0dd1\u0dad \u0daf\u0dd2\u0d9c\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/d8/d858746d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dbb\u0dca\u0db1\u0dd2\u0db8\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0dc3\u0dc4\u0ddd\u0daf\u0dbb-\u0daf\u0dd1\u0dad-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/1-618618",
+    "time_ut": 1661248630,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dbb\u0dca\u0db1\u0dd2\u0db8\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc3\u0dc4\u0ddd\u0daf\u0dbb \u0daf\u0dd1\u0dad \u0daf\u0dd2\u0d9c\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a5/a515f502.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -326,6 +414,14 @@
     "original_lang": "si",
     "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad \u0db4\u0db1\u0dad\u0da7 \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0db8\u0dd4\u0dc4\u0dd4\u0dab\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/92/920b6c84.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db8\u0dad\u0dbb-\u0d9a\u0ddc\u0da7\u0dc3\u0dca-\u0db1\u0dd0\u0dad\u0dd2\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u2019\u0d9a\u0ddc\u0da7-\u0d8b\u0da9\u2019-\u0dba\u0db1-\u0dc4\u0dd0\u0da9/11-396554",
+    "time_ut": 1661246918,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db8\u0dad\u0dbb \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db1\u0dd0\u0dad\u0dd2\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u2019\u0d9a\u0ddc\u0da7 \u0d8b\u0da9\u2019 \u0dba\u0db1 \u0dc4\u0dd0\u0da9",
+    "file_name": "/tmp/news_lk2/articles/eb/eb004a6d.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
