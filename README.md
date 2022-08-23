@@ -1,24 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-23 06:45:42 (LK time)*
+*As of 2022-08-23 07:42:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
+## Last 30 Minutes (1 Articles)
+
+* **1** news-first-lk ([3-hour power cuts today](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41c9a5b.json))
+
+## Last Hour (1 Articles)
+
+* **1** news-first-lk ([3-hour power cuts today](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41c9a5b.json))
+
 ## Last 3 Hours (2 Articles)
+
+* **1** news-first-lk ([3-hour power cuts today](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41c9a5b.json))
 
 * **1** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3258a599.json))
 
-* **1** economy-next-com ([Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e7d91a9.json))
+## Last 24 Hours (240 Articles)
 
-## Last 24 Hours (241 Articles)
-
-* **56** lankadeepa-lk ([ගෝඨාභය යුද අධිකරණය යවන්නැයි සංදේශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f1bcfa.json))
+* **55** lankadeepa-lk ([‘‘ශ්‍රී ලංකාව ගමන් මඟ හොඳ නෑ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/642298a3.json))
 
 * **38** tamil-mirror-lk ([அம்பலாங்கொடையில் துப்பாக்கிச் சூடு: இருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19d590b5.json))
 
-* **36** ada-lk ([දෙල්දුව වෙඩි තැබීමෙන් දෙදෙනෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c70ce0dd.json))
+* **35** ada-lk ([ගෝඨා 24 එන්නේ නෑ - එන දිනයක් තහවුරු නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/457d9c32.json))
 
-* **27** news-first-lk ([SLN seized illegal petrol worth over Rs.900,000 Kalpitiya](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fedaaaea.json))
+* **28** news-first-lk ([SLN seized illegal petrol worth over Rs.900,000 Kalpitiya](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fedaaaea.json))
 
 * **26** ada-derana-lk ([Fairly heavy rainfall expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/071d6ef3.json))
 
@@ -36,11 +44,11 @@
 
 * **261** lankadeepa-lk ([ඉන්ධන හිඟයට උත්තරය කළ වැරැදි හරිගස්සා ගැනීමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2f0b580.json))
 
-* **207** news-first-lk ([Chinese Research / Survey Vessel Yuan Wang 5 reaches Sri Lanka’s Hambantota](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8fd8b3f4.json))
+* **208** news-first-lk ([Chinese Research / Survey Vessel Yuan Wang 5 reaches Sri Lanka’s Hambantota](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8fd8b3f4.json))
 
 * **184** tamil-mirror-lk ([சட்டத்தரணிகளான பொலிஸ் அதிகாரிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/4295bcbf.json))
 
-* **184** ada-lk ([QR කේතය පරීක්ෂා කිරිමෙන් සංවර්ධන නිලධාරීන් ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd06b214.json))
+* **183** ada-lk ([දඩුලේනා ජාතික සත්ත්වයාගෙන් ඉවත්කිරීමේ යෝජනාව ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c06f213.json))
 
 * **160** daily-mirror-lk ([Chinese vessel ’Yuan Wang 5’ arrives](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/203a4b50.json))
 
@@ -56,7 +64,7 @@
 
 * **10** d-b-s-jeyaraj-com ([Police use Tear Gas and Water Cannon to  Disperse Protest Demonstration Organized by the Inter-University Student Federation;Six persons including Wasantha Mudalige  taken into custody](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd7d49cb.json))
 
-## All Time (2,271 Articles)
+## All Time (2,272 Articles)
 
 * **399** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -64,7 +72,7 @@
 
 * **285** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
-* **254** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
+* **255** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
 * **234** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 

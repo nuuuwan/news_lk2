@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/3-hour-power-cuts-today/",
+    "time_ut": 1661219520,
+    "original_lang": "en",
+    "original_title": "3-hour power cuts today",
+    "file_name": "/tmp/news_lk2/articles/c4/c41c9a5b.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab-\u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba-\u0dc0\u0dd0\u0dbb\u0dd0\u0daf\u0dd2\u0dbd\u0dcf-\u0da2\u0d82\u0da2\u0dcf\u0dbd\u0dba\u0d9a\u0dca/1-618575",
     "time_ut": 1661210062,
