@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1-\u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7-\u0dad\u0daf-\u0dc3\u0dd4\u0dc5\u0d82-\u0dc3\u0dc4-\u0d85\u0d9a\u0dd4\u0dab\u0dd4-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4/101-618585",
+    "time_ut": 1661229116,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1 \u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7 \u0dad\u0daf \u0dc3\u0dd4\u0dc5\u0d82 \u0dc3\u0dc4 \u0d85\u0d9a\u0dd4\u0dab\u0dd4 \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/e8/e8aa8c56.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Spike-in-influenza-fever-patients-normal-not-COVID-cases-Dr-Herath/342-243561",
+    "time_ut": 1661228658,
+    "original_lang": "en",
+    "original_title": "Spike in influenza, fever patients normal, not COVID cases: Dr. Herath",
+    "file_name": "/tmp/news_lk2/articles/92/92133144.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/sri-lanka-govt-must-permit-the-safe-return-of-gotabaya-family-hrcsl/",
+    "time_ut": 1661228640,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Govt must permit the safe return of Gotabaya & Family \u2013 HRCSL",
+    "file_name": "/tmp/news_lk2/articles/d7/d75cc5eb.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/egg-producers-agree-to-drop-prices-minister/",
+    "time_ut": 1661228580,
+    "original_lang": "en",
+    "original_title": "Egg producers agree to drop prices \u2013 Minister",
+    "file_name": "/tmp/news_lk2/articles/13/13ab5fd7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/non-parliament-parties-to-meet-ec-today-23/",
+    "time_ut": 1661228280,
+    "original_lang": "en",
+    "original_title": "Non-Parliament parties to meet EC today (23)",
+    "file_name": "/tmp/news_lk2/articles/2c/2c691185.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/120-000-mt-of-crude-to-reach-sl-soon/",
+    "time_ut": 1661227800,
+    "original_lang": "en",
+    "original_title": "120,000 MT of Crude to reach SL soon",
+    "file_name": "/tmp/news_lk2/articles/4e/4ea9a75e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0da2\u0db1\u0dad\u0dcf-\u0da1\u0db1\u0dca\u0daf\u0dd9\u0db1\u0dca-\u0db4\u0dad\u0dca\u0dc0\u0dd6-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0db1\u0dd2\u0dbd-\u0d9a\u0dcf\u0dbd\u0dba-\u0dc4\u0dd2\u0dad\u0dd4\u0db8\u0dad\u0dda-\u0db1\u0ddc\u0d9a\u0db4\u0db1\u0dd4/26-618578",
+    "time_ut": 1661227396,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dad\u0dcf \u0da1\u0db1\u0dca\u0daf\u0dd9\u0db1\u0dca \u0db4\u0dad\u0dca\u0dc0\u0dd6 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0db1\u0dd2\u0dbd \u0d9a\u0dcf\u0dbd\u0dba \u0dc4\u0dd2\u0dad\u0dd4\u0db8\u0dad\u0dda \u0db1\u0ddc\u0d9a\u0db4\u0db1\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/50/502a67a9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/surge-in-covid-cases-health-min-concerned/",
+    "time_ut": 1661227200,
+    "original_lang": "en",
+    "original_title": "Surge in COVID cases, Health Min. concerned",
+    "file_name": "/tmp/news_lk2/articles/e9/e995c901.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/SL-ranks-5th-among-10-countries-with-highest-food-price-inflation-World-Bank/108-243560",
     "time_ut": 1661226713,
@@ -30,6 +94,14 @@
     "original_lang": "en",
     "original_title": "\u2019Haal Sameera\u2019 arrested with firearms in Minuwangoda for extortion",
     "file_name": "/tmp/news_lk2/articles/2b/2bd9b3d9.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dbd\u0dca\u0dbd\u0db8\u0dca-\u0db6\u0dd0\u0dc3\u0dca\u0dc3-\u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba/11-396536",
+    "time_ut": 1661224240,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dbd\u0dca\u0dbd\u0db8\u0dca \u0db6\u0dd0\u0dc3\u0dca\u0dc3 \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba",
+    "file_name": "/tmp/news_lk2/articles/17/17c99a47.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -153,19 +225,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Positive-investor-interest-for-EOI-floated-by-Colombo-Lotus-Tower/108-243555",
+    "url": "https://www.dailymirror.lk/latest_news/Positive-investor-interest-for-EOI-floated-by-Colombo-Lotus-Tower/342-243555",
     "time_ut": 1661204061,
     "original_lang": "en",
     "original_title": "Positive investor interest for EOI floated by Colombo Lotus Tower",
-    "file_name": "/tmp/news_lk2/articles/3c/3cdfeb58.json"
+    "file_name": "/tmp/news_lk2/articles/4c/4cc1e894.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/National-inflation-increases-to-66-7/108-243552",
+    "url": "https://www.dailymirror.lk/latest_news/National-inflation-increases-to-66-7/342-243552",
     "time_ut": 1661203903,
     "original_lang": "en",
     "original_title": "National inflation increases to 66.7%",
-    "file_name": "/tmp/news_lk2/articles/39/39a52a5d.json"
+    "file_name": "/tmp/news_lk2/articles/01/01fffc8f.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -358,6 +430,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0db4\u0dda \u0dc3\u0dda\u0dbd\u0dba\u0dd2\u0db1\u0dca \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc0\u0dd9\u0dc5\u0dd9\u0db3 \u0db4\u0ddc\u0dc5\u0da7",
     "file_name": "/tmp/news_lk2/articles/ac/ac99a2be.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/front_page/Aragalaya-causes-Rs-5-million-in-damages-to-Galle-Face-Ministry/238-243521",
+    "time_ut": 1661188482,
+    "original_lang": "en",
+    "original_title": "Aragalaya causes Rs.5 million in damages to Galle Face: Ministry",
+    "file_name": "/tmp/news_lk2/articles/38/38195116.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -7918,85 +7998,5 @@
     "original_lang": "en",
     "original_title": "New Cabinet appointment to be delayed by week",
     "file_name": "/tmp/news_lk2/articles/de/de79d30b.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb8\u0bcd\u0b95\u0b9f\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd/175-302544",
-    "time_ut": 1660785295,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbf\u0bb8\u0bcd\u0b95\u0b9f\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/8d/8da98433.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/GR-applies-for-US-Green-Card-looks-to-settle-back-in-US/342-243265",
-    "time_ut": 1660784696,
-    "original_lang": "en",
-    "original_title": "GR applies for US Green Card, looks to settle back in US",
-    "file_name": "/tmp/news_lk2/articles/bf/bfceac11.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bc8\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd-\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-302543",
-    "time_ut": 1660784528,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0ba9\u0bc8\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd: \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/b4/b487d3c8.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Rotary-Membership-Talk-Show-Our-Role-in-rebuilding-Sri-Lanka-to-be-held-tomorrow/34-738836",
-    "time_ut": 1660781196,
-    "original_lang": "en",
-    "original_title": "Rotary Membership Talk Show: \u2018Our Role in rebuilding Sri Lanka\u2019 to be held tomorrow",
-    "file_name": "/tmp/news_lk2/articles/25/25986ba6.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Dickwella-Estate-achieves-record-for-FBOPF1-grade/34-738835",
-    "time_ut": 1660781058,
-    "original_lang": "en",
-    "original_title": "Dickwella Estate achieves record for FBOPF1 grade",
-    "file_name": "/tmp/news_lk2/articles/96/96bc8bc7.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Brombil-Estates-achieves-highest-price-of-Rs-10-950-for-tea-sold-at-public-auction/34-738834",
-    "time_ut": 1660780998,
-    "original_lang": "en",
-    "original_title": "Brombil Estates achieves highest price of Rs. 10,950 for tea sold at public auction",
-    "file_name": "/tmp/news_lk2/articles/38/384e0e3a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/LAUGFS-reduces-domestic-gas-prices/34-738833",
-    "time_ut": 1660780916,
-    "original_lang": "en",
-    "original_title": "LAUGFS reduces domestic gas prices",
-    "file_name": "/tmp/news_lk2/articles/7c/7c5b53a8.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Kanchana-calls-on-CEB-unions-to-submit-proposals-for-restructuring/34-738832",
-    "time_ut": 1660780864,
-    "original_lang": "en",
-    "original_title": "Kanchana calls on CEB unions to submit proposals for restructuring",
-    "file_name": "/tmp/news_lk2/articles/f1/f1bd0113.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Ranil-s-cabinet-trap-and-Aragalaya/4-738823",
-    "time_ut": 1660780220,
-    "original_lang": "en",
-    "original_title": "Ranil\u2019s cabinet trap and Aragalaya",
-    "file_name": "/tmp/news_lk2/articles/b1/b181addd.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Harsha-s-harsh-blueprint-and-AKD-as-alternative/4-738822",
-    "time_ut": 1660779998,
-    "original_lang": "en",
-    "original_title": "Harsha\u2019s harsh blueprint and AKD as alternative",
-    "file_name": "/tmp/news_lk2/articles/84/84aa8372.json"
   }
 ]
