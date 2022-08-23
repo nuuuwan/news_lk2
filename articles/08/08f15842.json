@@ -1,0 +1,498 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/08/23/mtv-joins-freesat-a-digital-satellite-television-platform/",
+  "time_ut": 1661263500,
+  "original_lang": "en",
+  "original_title": "MTV joins Freesat \u2013 a Digital Satellite Television Platform",
+  "text_idx": {
+    "en": {
+      "title": "MTV joins Freesat \u2013 a Digital Satellite Television Platform",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st); MTV Channel (Pvt) Ltd, comprising of Sirasa TV, Shakthi TV, TV-1, and News 1st, entered into an agreement with Digital Satellite Television Platform freesat in Colombo on Tuesday (23).",
+        "Freesat, a digital satellite media platform, broadcasting on the latest DVB-S2X technology, has the unique proposition of offering its channels free to users.",
+        "The agreements were officially exchanged between Susara Dinal, the CEO of MTV Channel (Pvt) Ltd. and Kaminda Samarakoon, the CEO of freesat.",
+        "\"We wanted to have a service where we are able to provide all the Sri Lankans to have a proper quality picture. Our technology is DVB-S2X. This is the world's second platform, and we are proud to have it in Sri Lanka,\" said Kaminda Samarakoon, the CEO of Freesat.",
+        "\"Every single household in Sri Lanka can access SD or HD or 4K pictures in greater quality using this platform. We used the widely accepted DVB-S2X technology. Our compression technology is H265 or HEVC. It is not used by anyone in Sri Lanka at the moment,\" said Pranalanka Warunawansa, the Chief Technical Officer of Freesat",
+        "The partnership between MTV Channel Pvt Ltd and Freesat will see your favourite three local TV channels, Sirasa, Shakthi, TV-1 and of course your trusted news provider, News 1st, available absolutely free and with crystal clear reception on Freesat.",
+        "Stop using PTA, and immediately rescind Detention Orders \u2013 BASL tells President"
+      ],
+      "title_ents": [
+        {
+          "text": "MTV",
+          "label": "ORG"
+        },
+        {
+          "text": "Freesat",
+          "label": "ORG"
+        },
+        {
+          "text": "Digital Satellite Television Platform",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "MTV Channel (Pvt) Ltd",
+            "label": "ORG"
+          },
+          {
+            "text": "Sirasa TV",
+            "label": "ORG"
+          },
+          {
+            "text": "Shakthi TV",
+            "label": "ORG"
+          },
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "Digital Satellite Television Platform",
+            "label": "ORG"
+          },
+          {
+            "text": "Colombo",
+            "label": "GPE"
+          },
+          {
+            "text": "Tuesday",
+            "label": "DATE"
+          },
+          {
+            "text": "23",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Freesat",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Susara Dinal",
+            "label": "ORG"
+          },
+          {
+            "text": "MTV Channel (Pvt) Ltd.",
+            "label": "ORG"
+          },
+          {
+            "text": "Kaminda Samarakoon",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lankans",
+            "label": "NORP"
+          },
+          {
+            "text": "second",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Kaminda Samarakoon",
+            "label": "PERSON"
+          },
+          {
+            "text": "Freesat",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "H265",
+            "label": "DATE"
+          },
+          {
+            "text": "HEVC",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Pranalanka Warunawansa",
+            "label": "PERSON"
+          },
+          {
+            "text": "Freesat",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "MTV Channel Pvt Ltd",
+            "label": "ORG"
+          },
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sirasa",
+            "label": "ORG"
+          },
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "Freesat",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "PTA",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "MTV \u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0da0\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0dc0\u0dda\u0daf\u0dd2\u0d9a\u0dcf\u0dc0\u0d9a\u0dca \u0dc0\u0db1 Freesat \u0dc4\u0dcf \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0dc0\u0dda",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); MTV Channel (Pvt) Ltd, Sirasa TV, Shakthi TV, TV-1, \u0dc3\u0dc4 News 1st \u0dc3\u0db8\u0db1\u0dca\u0dc0\u0dd2\u0dad \u0dc0\u0db1 \u0d85\u0dad\u0dbb, Digital Satellite Television Platform freesat \u0dc3\u0db8\u0d9f \u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf (23) \u0d9a\u0ddc\u0dc5\u0db9\u0daf\u0dd3 \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0d9a\u0da7 \u0d91\u0dc5\u0db9\u0dd4\u0dab\u0dd2.",
+        "Freesat, \u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0da0\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0dc0\u0dda\u0daf\u0dd2\u0d9a\u0dcf\u0dc0\u0d9a\u0dca, \u0db1\u0dc0\u0dad\u0db8 DVB-S2X \u0dad\u0dcf\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0d9a\u0dcf\u0dc1\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2, \u0d91\u0dc4\u0dd2 \u0db1\u0dcf\u0dbd\u0dd2\u0d9a\u0dcf \u0db4\u0dbb\u0dd2\u0dc1\u0dd3\u0dbd\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0db1\u0ddc\u0db8\u0dd2\u0dbd\u0dda \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0dd0\u0db8\u0dd3\u0db8\u0dda \u0dc3\u0dd4\u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dd3 \u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0d9a\u0dca \u0d87\u0dad.",
+        "MTV Channel (Pvt) Ltd \u0dc4\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3 \u0dc3\u0dd4\u0dc3\u0dcf\u0dbb \u0daf\u0dd2\u0db1\u0dcf\u0dbd\u0dca \u0dc3\u0dc4 freesat \u0dc4\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3 \u0d9a\u0db8\u0dd2\u0db1\u0dca\u0daf \u0dc3\u0db8\u0dbb\u0d9a\u0ddd\u0db1\u0dca \u0d85\u0dad\u0dbb \u0db8\u0dd9\u0db8 \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0dca \u0db1\u0dd2\u0dbd \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dc4\u0dd4\u0dc0\u0db8\u0dcf\u0dbb\u0dd4 \u0dc0\u0dd2\u0dba.",
+        "\"\u0d85\u0db4\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0dc0\u0dd6\u0dba\u0dda \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0db1\u0dd2\u0dc3\u0dd2 \u0d9c\u0dd4\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0da0\u0dd2\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2 \u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7\u0dba\u0dd2. \u0d85\u0db4\u0d9c\u0dda \u0dad\u0dcf\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba DVB-S2X \u0dc0\u0dda. \u0db8\u0dd9\u0dba \u0dbd\u0ddd\u0d9a\u0dba\u0dda \u0daf\u0dd9\u0dc0\u0db1 \u0dc0\u0dda\u0daf\u0dd2\u0d9a\u0dcf\u0dc0 \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dad\u0dd2\u0db6\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0d85\u0db4\u0dd2 \u0d86\u0da9\u0db8\u0dca\u0db6\u0dbb \u0dc0\u0dd9\u0db8\u0dd4.\" \u0dba\u0dd0\u0dba\u0dd2 Freesat \u0dc4\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3 \u0d9a\u0db8\u0dd2\u0db1\u0dca\u0daf \u0dc3\u0db8\u0dbb\u0d9a\u0ddd\u0db1\u0dca \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\"\u0db8\u0dd9\u0db8 \u0dc0\u0dda\u0daf\u0dd2\u0d9a\u0dcf\u0dc0 \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba\u0dd9\u0db1\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc3\u0dd1\u0db8 \u0db1\u0dd2\u0dc0\u0dc3\u0d9a\u0da7\u0db8 SD \u0dc4\u0ddd HD \u0dc4\u0ddd 4K \u0db4\u0dd2\u0db1\u0dca\u0dad\u0dd6\u0dbb \u0dc0\u0da9\u0dcf\u0dad\u0dca \u0d9c\u0dd4\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1 \u0dc0\u0dd2\u0dba \u0dc4\u0dd0\u0d9a. \u0d85\u0db4\u0dd2 \u0db6\u0dc4\u0dd4\u0dbd\u0dc0 \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dad\u0dca DVB-S2X \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dc5\u0dd9\u0db8\u0dd4. \u0d85\u0db4\u0d9c\u0dda \u0dc3\u0db8\u0dca\u0db4\u0dd3\u0da9\u0db1 \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba H265 \u0dc4\u0ddd HEVC \u0dc0\u0dda. \u0d91\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d9a\u0dd2\u0dc3\u0dd2\u0dc0\u0dd9\u0d9a\u0dd4 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0db1\u0ddc\u0d9a\u0dd9\u0dbb\u0dda. \u0d92 \u0db8\u0ddc\u0dc4\u0ddc\u0dad\" \u0dba\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc6\u0dca\u200d\u0dbb\u0dd3\u0dc3\u0dd0\u0da7\u0dca \u0dc4\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3 \u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dbb\u0dd4\u0dab\u0dc0\u0d82\u0dc1 \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba",
+        "MTV Channel Pvt Ltd \u0dc3\u0dc4 Freesat \u0d85\u0dad\u0dbb \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dd3\u0dad\u0dcf\u0dc0\u0dba\u0dd9\u0db1\u0dca \u0d94\u0db6\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dad\u0db8 \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0db1\u0dcf\u0dbd\u0dd2\u0d9a\u0dcf \u0dad\u0dd4\u0db1 \u0dc0\u0db1 Sirasa, Shakthi, TV-1 \u0dc3\u0dc4 \u0d87\u0dad\u0dca\u0dad \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca\u0db8 \u0d94\u0db6\u0d9c\u0dda \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3\u0db1\u0dd3\u0dba \u0db4\u0dd4\u0dc0\u0dad\u0dca \u0dc3\u0db4\u0dba\u0db1\u0dca\u0db1\u0dd9\u0d9a\u0dd4 \u0dc0\u0db1 News 1st, \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab\u0dba\u0dd9\u0db1\u0dca\u0db8 \u0db1\u0ddc\u0db8\u0dd2\u0dbd\u0dda \u0dc3\u0dc4 Freesat \u0dc4\u0dd2 \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0d9a\u0dca \u0dc3\u0dc4\u0dd2\u0dad\u0dc0 \u0dbd\u0db6\u0dcf \u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2\u0dba.",
+        "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0db1\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1, \u0dbb\u0dd0\u0db3\u0dc0\u0dd4\u0db8\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0d9c \u0dc0\u0dc4\u0dcf\u0db8 \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 - BASL \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0d9a\u0dd2\u0dba\u0dba\u0dd2"
+      ],
+      "title_ents": [
+        {
+          "text": "MTV",
+          "label": "ORG"
+        },
+        {
+          "text": "Freesat",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0da0\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0dc0\u0dda\u0daf\u0dd2\u0d9a\u0dcf\u0dc0",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "MTV Channel (Pvt) Ltd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dbb\u0dc3 \u0da7\u0dd3.\u0dc0\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0da7\u0dd3.\u0dc0\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0da0\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0dc0\u0dda\u0daf\u0dd2\u0d9a\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "23",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Freesat",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd4\u0dc3\u0dcf\u0dbb \u0daf\u0dd2\u0db1\u0dcf\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "MTV Channel (Pvt) Ltd.",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dcf\u0db8\u0dd2\u0db1\u0dca\u0daf \u0dc3\u0db8\u0dbb\u0d9a\u0ddd\u0db1\u0dca",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0dcf\u0db8\u0dd2\u0db1\u0dca\u0daf \u0dc3\u0db8\u0dbb\u0d9a\u0ddd\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "Freesat",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "H265",
+            "label": "DATE"
+          },
+          {
+            "text": "HEVC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dbb\u0dd4\u0dab\u0dc0\u0d82\u0dc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "Freesat",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "MTV Channel Pvt Ltd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dbb\u0dc3",
+            "label": "ORG"
+          },
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "Freesat",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "PTA",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b8e\u0bae\u0bcd\u0b9f\u0bbf\u0bb5\u0bbf \u0b83\u0baa\u0bcd\u0bb0\u0bc0\u0b9a\u0bbe\u0b9f\u0bcd - \u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bcb\u0bb3\u0bcd \u0ba4\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bc7\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba3\u0bc8\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); MTV Channel (Pvt) Ltd, Sirasa TV, Shakthi TV, TV-1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd News 1st \u0b86\u0b95\u0bbf\u0baf\u0ba9 \u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1, \u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd Satellite Television Platform freesat \u0b89\u0b9f\u0ba9\u0bcd \u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (23) \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0b9f\u0ba9\u0bcd\u0baa\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b92\u0ba9\u0bcd\u0bb1\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b83\u0baa\u0bcd\u0bb0\u0bc0\u0b9a\u0bbe\u0b9f\u0bcd, \u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bc8\u0b9f\u0bcd \u0bae\u0bc0\u0b9f\u0bbf\u0baf\u0bbe \u0ba4\u0bb3\u0bae\u0bcd, \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf DVB-S2X \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb3\u0bbf\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1, \u0b85\u0ba4\u0ba9\u0bcd \u0b9a\u0bc7\u0ba9\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0baf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0bb5\u0b9a\u0bae\u0bbe\u0b95 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0ba9\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bbe\u0ba9 \u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bca\u0bb4\u0bbf\u0bb5\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "MTV Channel (Pvt) Ltd. \u0b87\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 Susara Dinal \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd freesat \u0b87\u0ba9\u0bcd CEO \u0b95\u0bae\u0bbf\u0ba8\u0bcd\u0ba4 \u0b9a\u0bae\u0bb0\u0b95\u0bcb\u0ba9\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0b95 \u0baa\u0bb0\u0bbf\u0bae\u0bbe\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9.",
+        "\"\u0b8e\u0bb2\u0bcd\u0bb2\u0bbe \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 \u0ba4\u0bb0\u0bae\u0bbe\u0ba9 \u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0b92\u0bb0\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bc8 \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0bb1 \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0bcb\u0bae\u0bcd. \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0bae\u0bcd DVB-S2X. \u0b87\u0ba4\u0bc1 \u0b89\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0ba4\u0bb3\u0bae\u0bbe\u0b95\u0bc1\u0bae\u0bcd, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0ba4\u0bc8 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bc8 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bbf\u0bb1\u0bcb\u0bae\u0bcd.\" \u0b83\u0baa\u0bcd\u0bb0\u0bc0\u0b9a\u0bbe\u0b9f\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0b95\u0bae\u0bbf\u0ba8\u0bcd\u0ba4 \u0b9a\u0bae\u0bb0\u0b95\u0bcb\u0ba9\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0b95 \u0ba4\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd SD \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 HD \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 4K \u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0ba3\u0bc1\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd. \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bb0\u0bb5\u0bb2\u0bbe\u0b95 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f DVB-S2X \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcb\u0bae\u0bcd. \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0b95 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0bae\u0bcd H265 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 HEVC \u0b86\u0b95\u0bc1\u0bae\u0bcd. \u0b87\u0ba4\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0bb5\u0bb0\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 \u0b85\u0ba8\u0bcd\u0ba4 \u0ba4\u0bb0\u0bc1\u0ba3\u0bae\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b83\u0baa\u0bcd\u0bb0\u0bc0\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0baa\u0bbf\u0bb0\u0ba3\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0bb5\u0bb0\u0bc1\u0ba3\u0bb5\u0ba9\u0bcd\u0b9a \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
+        "\u0b8e\u0bae\u0bcd\u0b9f\u0bbf\u0bb5\u0bbf \u0b9a\u0bc7\u0ba9\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bc8\u0bb5\u0bc7\u0b9f\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b83\u0baa\u0bcd\u0bb0\u0bc0\u0b9a\u0bbe\u0b9f\u0bcd \u0b87\u0b9f\u0bc8\u0baf\u0bc7\u0baf\u0bbe\u0ba9 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0bc2\u0bb0\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf \u0b9a\u0bc7\u0ba9\u0bb2\u0bcd\u0b95\u0bb3\u0bbe\u0ba9 \u0b9a\u0bbf\u0bb0\u0b9a, \u0b9a\u0b95\u0bcd\u0ba4\u0bbf, \u0b9f\u0bbf\u0bb5\u0bbf-1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0b9a\u0bcd\u0b9a\u0baf\u0bae\u0bbe\u0b95 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0b95\u0bae\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bbe\u0ba9 \u0ba8\u0bbf\u0baf\u0bc2\u0bb8\u0bcd 1st \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bc8 \u0b83\u0baa\u0bcd\u0bb0\u0bc0\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0bb5\u0b9a\u0bae\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb3\u0bbf\u0bb5\u0bbe\u0ba9 \u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0baa\u0bc1\u0b9f\u0ba9\u0bc1\u0bae\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd.",
+        "PTA \u0b90\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd - BASL \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b8e\u0bae\u0bcd\u0b9f\u0bbf\u0bb5\u0bbf",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b83\u0baa\u0bcd\u0bb0\u0bc0\u0b9a\u0bbe\u0b9f\u0bcd",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bcb\u0bb3\u0bcd \u0ba4\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bc7\u0b9f\u0bc8",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b8e\u0bae\u0bcd\u0b9f\u0bbf\u0bb5\u0bbf \u0b9a\u0bc7\u0ba9\u0bb2\u0bcd (\u0baa\u0bbf\u0bb0\u0bc8\u0bb5\u0bc7\u0b9f\u0bcd) \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0bb0\u0b9a \u0b9f\u0bbf.\u0bb5\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b9f\u0bbf.\u0bb5\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bcb\u0bb3\u0bcd \u0ba4\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bc7\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "23",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b83\u0baa\u0bcd\u0bb0\u0bc0\u0b9a\u0bbe\u0b9f\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc1\u0b9a\u0bb0\u0bbe \u0ba4\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0bae\u0bcd\u0b9f\u0bbf\u0bb5\u0bbf \u0b9a\u0bc7\u0ba9\u0bb2\u0bcd (\u0baa\u0bbf\u0bb0\u0bc8\u0bb5\u0bc7\u0b9f\u0bcd) \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd.",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bae\u0bbf\u0ba8\u0bcd\u0ba4 \u0b9a\u0bae\u0bb0\u0b95\u0bcb\u0ba9\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bae\u0bbf\u0ba8\u0bcd\u0ba4 \u0b9a\u0bae\u0bb0\u0b95\u0bcb\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bcd\u0bb0\u0bc0\u0b9a\u0bbe\u0b9f\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "H265",
+            "label": "DATE"
+          },
+          {
+            "text": "HEVC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0ba3\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0bb5\u0bb0\u0bc1\u0ba3\u0bb5\u0ba9\u0bcd\u0b9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bcd\u0bb0\u0bc0\u0b9a\u0bbe\u0b9f\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8e\u0bae\u0bcd\u0b9f\u0bbf\u0bb5\u0bbf \u0b9a\u0bc7\u0ba9\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bc8\u0bb5\u0bc7\u0b9f\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0bb0\u0b9a",
+            "label": "ORG"
+          },
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bcd\u0bb0\u0bc0\u0b9a\u0bbe\u0b9f\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "PTA",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
