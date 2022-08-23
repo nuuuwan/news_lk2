@@ -1,0 +1,357 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/08/23/dr-harsha-de-silva-chairs-committee-on-public-finance/",
+  "time_ut": 1661251860,
+  "original_lang": "en",
+  "original_title": "Dr. Harsha De Silva chairs Committee on Public Finance",
+  "text_idx": {
+    "en": {
+      "title": "Dr. Harsha De Silva chairs Committee on Public Finance",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st): The first Committee meeting of the Committee on Public Finance for the Third Session of the Ninth Parliament held under the chairmanship of (Dr.) Harsha de Silva.",
+        "In accordance with the Standing Order 121, the Committee of Selection appointed (Dr.) Harsha de Silva, Member of Parliament as the Chairman of the Committee recently.",
+        "Accordingly, the Appropriation (Amendment) Bill to amend the Appropriation Act No. 30 of 2021 was considered at the committee and approved.",
+        "Furthermore, the Social Security Contribution Levy Bill was also approved.",
+        "Regulations under the Foreign Exchange Act, No. 12 of 2017, Order under the Special Commodity Levy Act, No. 48 of 2007 and a Resolution under the Customs Ordinance (Chapter 235) also received approval of the Committee on Public Finance.",
+        "Sri Lanka: Student activists held under PTA moved to Tangalle Detention Center"
+      ],
+      "title_ents": [
+        {
+          "text": "Harsha De Silva",
+          "label": "PERSON"
+        },
+        {
+          "text": "Committee on Public Finance",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "the Committee on Public Finance",
+            "label": "ORG"
+          },
+          {
+            "text": "the Ninth Parliament",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "121",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Committee of Selection",
+            "label": "ORG"
+          },
+          {
+            "text": "Parliament",
+            "label": "ORG"
+          },
+          {
+            "text": "Committee",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "the Appropriation Act No.",
+            "label": "LAW"
+          },
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "the Social Security Contribution",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "the Foreign Exchange Act",
+            "label": "LAW"
+          },
+          {
+            "text": "Order",
+            "label": "PERSON"
+          },
+          {
+            "text": "48 of 2007",
+            "label": "DATE"
+          },
+          {
+            "text": "Resolution",
+            "label": "FAC"
+          },
+          {
+            "text": "the Customs Ordinance",
+            "label": "ORG"
+          },
+          {
+            "text": "Chapter 235",
+            "label": "LAW"
+          },
+          {
+            "text": "the Committee on Public Finance",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "PTA",
+            "label": "ORG"
+          },
+          {
+            "text": "Tangalle Detention Center",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba \u0dc4\u0dbb\u0dca\u0dc2 \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dbb\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st): \u0db1\u0dc0\u0dc0\u0dd0\u0db1\u0dd2 \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0dad\u0dd4\u0db1\u0dca\u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dd0\u0dc3\u0dd2\u0dc0\u0dcf\u0dbb\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8 (\u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba) \u0dc4\u0dbb\u0dca\u0dc2 \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf \u0db8\u0dc4\u0dad\u0dcf\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd2\u0dab\u0dd2.",
+        "\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb \u0db1\u0dd2\u0dba\u0ddd\u0d9c 121 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dbb\u0dc0 \u0dad\u0dda\u0dbb\u0dd3\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dbd\u0dd9\u0dc3 \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 (\u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba) \u0dc4\u0dbb\u0dca\u0dc2 \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba\u0daf\u0dcf \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 2021 \u0d85\u0d82\u0d9a 30 \u0daf\u0dbb\u0db1 \u0dc0\u0dd2\u0dc3\u0dbb\u0dca\u0da2\u0db1 \u0db4\u0db1\u0dad \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd6 \u0dc0\u0dd2\u0dc3\u0dbb\u0dca\u0da2\u0db1 (\u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1) \u0db4\u0db1\u0dad\u0dca \u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dc3\u0dbd\u0d9a\u0dcf \u0db6\u0dbd\u0dcf \u0d85\u0db1\u0dd4\u0db8\u0dad \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0dad\u0dc0\u0daf, \u0dc3\u0db8\u0dcf\u0da2 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dab \u0daf\u0dcf\u0dba\u0d9a \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0db4\u0db1\u0dad\u0dca \u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad \u0daf \u0d85\u0db1\u0dd4\u0db8\u0dad \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "2017 \u0d85\u0d82\u0d9a 12 \u0daf\u0dbb\u0db1 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba \u0db4\u0db1\u0dad \u0dba\u0da7\u0dad\u0dda \u0dbb\u0dd9\u0d9c\u0dd4\u0dbd\u0dcf\u0dc3\u0dd2, 2007 \u0d85\u0d82\u0d9a 48 \u0daf\u0dbb\u0db1 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0dc0\u0dd9\u0dc5\u0db3 \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0db6\u0daf\u0dca\u0daf \u0dba\u0da7\u0dad\u0dda \u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba \u0dc3\u0dc4 \u0dbb\u0dda\u0d9c\u0dd4 \u0d86\u0da5\u0dcf\u0db4\u0db1\u0dad (\u0db4\u0dbb\u0dd2\u0da0\u0dca\u0da1\u0dda\u0daf\u0dba 235) \u0dba\u0da7\u0dad\u0dda \u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0d9a\u0dca \u0daf \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0\u0dda \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba \u0dbd\u0db6\u0dcf \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0dbd\u0daf\u0dd3.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0: \u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad \u0dba\u0da7\u0dad\u0dda \u0dbb\u0db3\u0dc0\u0dcf \u0dc3\u0dd2\u0da7\u0dd2 \u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0dad\u0d82\u0d9c\u0dbd\u0dca\u0dbd \u0dbb\u0dd0\u0db3\u0dc0\u0dd4\u0db8\u0dca \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dc0\u0dd9\u0dad \u0d9c\u0dd9\u0db1 \u0dba\u0db1 \u0dbd\u0daf\u0dd3"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc4\u0dbb\u0dca\u0dc2 \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0dbb\u0dcf\u0da2\u0dca\u0dba \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0dcf\u0da2\u0dca\u0dba \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dc0\u0dc0\u0dd0\u0db1\u0dd2 \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "121",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dad\u0dda\u0dbb\u0dd3\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0dc3\u0dbb\u0dca\u0da2\u0db1 \u0db4\u0db1\u0dad \u0d85\u0d82\u0d9a.",
+            "label": "LAW"
+          },
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0db8\u0dcf\u0da2 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dab \u0daf\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba \u0db4\u0db1\u0dad",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0db1\u0dd2\u0dba\u0ddd\u0d9c",
+            "label": "PERSON"
+          },
+          {
+            "text": "2007 48",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0db7\u0dda\u0daf\u0db1\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0dbb\u0dda\u0d9c\u0dd4 \u0d86\u0da5\u0dcf\u0db4\u0db1\u0dad",
+            "label": "ORG"
+          },
+          {
+            "text": "235 \u0db4\u0dbb\u0dd2\u0da0\u0dca\u0da1\u0dda\u0daf\u0dba",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0dbb\u0dcf\u0da2\u0dca\u0dba \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "PTA",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dad\u0d82\u0d9c\u0dbd\u0dca\u0dbd \u0dbb\u0dd0\u0db3\u0dc0\u0dd4\u0db8\u0dca \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0bb2\u0bbe\u0ba8\u0bbf\u0ba4\u0bbf \u0bb9\u0bb0\u0bcd\u0bb7 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe \u0baa\u0bca\u0ba4\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st): \u0b92\u0ba9\u0bcd\u0baa\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0b85\u0bae\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bca\u0ba4\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bb5\u0ba4\u0bc1 \u0b95\u0bc1\u0bb4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd (\u0b9f\u0bbe\u0b95\u0bcd\u0b9f\u0bb0\u0bcd) \u0bb9\u0bb0\u0bcd\u0bb7 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1.",
+        "\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0baf\u0bb1\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8 121\u0b87\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb0\u0bae\u0bcd, \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbe\u0b95 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd (\u0b9f\u0bbe\u0b95\u0bcd\u0b9f\u0bb0\u0bcd) \u0bb9\u0bb0\u0bcd\u0bb7 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe \u0b85\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd.",
+        "\u0b85\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, 2021 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd 30 \u0b86\u0bae\u0bcd \u0b87\u0bb2\u0b95\u0bcd\u0b95 \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 (\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd) \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bb0\u0bbf\u0b9a\u0bc0\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, \u0b9a\u0bae\u0bc2\u0b95 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bb2\u0bc6\u0bb5\u0bbf \u0bae\u0b9a\u0bcb\u0ba4\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b85\u0ba8\u0bcd\u0ba8\u0bbf\u0baf\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bbe\u0bb5\u0ba3\u0bbf\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd, 2017 \u0b87\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd. 12, \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bcd\u0b9f \u0bb5\u0bb0\u0bbf\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b86\u0ba3\u0bc8, 2007 \u0b8e\u0ba3\u0bcd. 48 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd (\u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0baf\u0bae\u0bcd 235) \u0b95\u0bc0\u0bb4\u0bcd \u0b92\u0bb0\u0bc1 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0baa\u0bca\u0ba4\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8: \u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4 \u0ba4\u0b9f\u0bc8\u0b9a\u0bcd\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd \u0b86\u0bb0\u0bcd\u0bb5\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bbe\u0bb2\u0bc8 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bb9\u0bb0\u0bcd\u0bb7 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0baa\u0bca\u0ba4\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bc1\u0bb4\u0bc1",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bca\u0ba4\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0baa\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "121",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b8e\u0ba3\u0bcd.",
+            "label": "LAW"
+          },
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bae\u0bc2\u0b95 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b85\u0ba8\u0bcd\u0ba8\u0bbf\u0baf \u0b9a\u0bc6\u0bb2\u0bbe\u0bb5\u0ba3\u0bbf \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0b86\u0bb0\u0bcd\u0b9f\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "48 \u0b87\u0ba9\u0bcd 2007",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0b99\u0bcd\u0b95 \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0baf\u0bae\u0bcd 235",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0baa\u0bca\u0ba4\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "PTA",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0b99\u0bcd\u0b95\u0bbe\u0bb2\u0bc8 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}

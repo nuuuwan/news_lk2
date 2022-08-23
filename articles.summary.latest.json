@@ -1,11 +1,75 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/poultry-farmer-associations-allege-egg-mafia/",
+    "time_ut": 1661252640,
+    "original_lang": "en",
+    "original_title": "Poultry Farmer associations allege egg mafia",
+    "file_name": "/tmp/news_lk2/articles/fa/fa1d8483.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/3-hour-power-cut-approved-for-wednesday-24/",
+    "time_ut": 1661252520,
+    "original_lang": "en",
+    "original_title": "3-hour power cut approved for Wednesday (24)",
+    "file_name": "/tmp/news_lk2/articles/88/882fce30.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0da7-\u0d9c\u0da2\u0db8\u0dd4\u0dad\u0dd4-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca-\u0d85\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0dda-\u0dc0\u0dd0\u0da7\u0dda/1-618623",
+    "url": "https://www.lankadeepa.lk/main_picture/\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dda-\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb-\u0d9a\u0da9-\u0db4\u0dcf\u0dc5\u0dd4\u0dc0\u0da7:\u0db8\u0dd2\u0dbd\u0dad\u0dca-\u0db4\u0dc4\u0dc5\u0da7/11-618624",
+    "time_ut": 1661252359,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dda \u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb \u0d9a\u0da9 \u0db4\u0dcf\u0dc5\u0dd4\u0dc0\u0da7:\u0db8\u0dd2\u0dbd\u0dad\u0dca \u0db4\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/bc/bc01da86.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84487/malaysias-top-court-sends-ex-pm-to-jail-as-najib-loses-final-appeal",
+    "time_ut": 1661252040,
+    "original_lang": "en",
+    "original_title": "Malaysia\u2019s top court sends ex-PM to jail as Najib loses final appeal",
+    "file_name": "/tmp/news_lk2/articles/79/7951250e.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-three-hour-power-cuts-for-aug-24-98912/",
+    "time_ut": 1661251860,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules three-hour power cuts for Aug 24",
+    "file_name": "/tmp/news_lk2/articles/6f/6f543aa8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/dr-harsha-de-silva-chairs-committee-on-public-finance/",
+    "time_ut": 1661251860,
+    "original_lang": "en",
+    "original_title": "Dr. Harsha De Silva chairs Committee on Public Finance",
+    "file_name": "/tmp/news_lk2/articles/85/85afc527.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Repeal-PTA-and-release-arrested-Uni-students-NPP/342-243574",
+    "time_ut": 1661251749,
+    "original_lang": "en",
+    "original_title": "Repeal PTA and release arrested Uni.  students: NPP",
+    "file_name": "/tmp/news_lk2/articles/65/65661156.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-cabinet-nod-for-presidents-state-sector-cyber-security-policy-98911/",
+    "time_ut": 1661251620,
+    "original_lang": "en",
+    "original_title": "Sri Lanka cabinet nod for president\u2019s state sector cyber security policy",
+    "file_name": "/tmp/news_lk2/articles/c2/c2927ceb.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0da7-\u0d9c\u0da2\u0db8\u0dd4\u0dad\u0dd4-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca-\u0d85\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0dda-\u0dc0\u0dd0\u0da7\u0dda/101-618623",
     "time_ut": 1661251488,
     "original_lang": "si",
     "original_title": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0da7 \u0d9c\u0da2\u0db8\u0dd4\u0dad\u0dd4 \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0d85\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0dda \u0dc0\u0dd0\u0da7\u0dda",
-    "file_name": "/tmp/news_lk2/articles/ee/ee20b3f4.json"
+    "file_name": "/tmp/news_lk2/articles/0a/0a0747bc.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -17,19 +81,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Vendors-stick-to-selling-eggs-at-retail-price/110-243571",
+    "url": "https://www.dailymirror.lk/latest_news/Vendors-stick-to-selling-eggs-at-retail-price/342-243571",
     "time_ut": 1661250819,
     "original_lang": "en",
     "original_title": "Vendors stick to selling eggs at retail price",
-    "file_name": "/tmp/news_lk2/articles/11/11a28d9e.json"
+    "file_name": "/tmp/news_lk2/articles/ef/ef9e38b6.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dc5\u0db9-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0d9a\u0dd4\u0d9c\u0dda-\u0dc3\u0db4\u0dad\u0dca\u0dad\u0dd4\u0dc0\u0d9a\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dda--\u0db1\u0dba\u0dd2-\u0db4\u0dd0\u0da7\u0dc0\u0dd9\u0d9a\u0dca/1-618622",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0dc5\u0db9-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0d9a\u0dd4\u0d9c\u0dda-\u0dc3\u0db4\u0dad\u0dca\u0dad\u0dd4\u0dc0\u0d9a\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dda--\u0db1\u0dba\u0dd2-\u0db4\u0dd0\u0da7\u0dc0\u0dd9\u0d9a\u0dca/101-618622",
     "time_ut": 1661250809,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0d9a\u0dd4\u0d9c\u0dda \u0dc3\u0db4\u0dad\u0dca\u0dad\u0dd4\u0dc0\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dda  \u0db1\u0dba\u0dd2 \u0db4\u0dd0\u0da7\u0dc0\u0dd9\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/ae/aef309d7.json"
+    "file_name": "/tmp/news_lk2/articles/99/9951621a.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -72,6 +136,14 @@
     "file_name": "/tmp/news_lk2/articles/57/57749e79.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0d86\u0dbb\u0dca\u0db8\u0dda\u0db1\u0dd2\u0dba\u0dcf-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0dc3\u0dd4\u0db6\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca/11-396559",
+    "time_ut": 1661248768,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0d86\u0dbb\u0dca\u0db8\u0dda\u0db1\u0dd2\u0dba\u0dcf \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0dd4\u0db6\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/37/375cbb43.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dbb\u0dca\u0db8\u0dd9\u0dd2\u0db1\u0dd2\u0dba\u0dcf\u0dc0-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0dc3\u0dc4\u0ddd\u0daf\u0dbb-\u0daf\u0dd1\u0dad-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/1-618618",
     "time_ut": 1661248630,
@@ -105,11 +177,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad-\u0db4\u0db1\u0dad\u0da7-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0db8\u0dd4\u0dc4\u0dd4\u0dab\u0d9a\u0dca/1-618617",
+    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad-\u0db4\u0db1\u0dad\u0da7-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0db8\u0dd4\u0dc4\u0dd4\u0dab\u0d9a\u0dca/101-618617",
     "time_ut": 1661247923,
     "original_lang": "si",
     "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad \u0db4\u0db1\u0dad\u0da7 \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0db8\u0dd4\u0dc4\u0dd4\u0dab\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/a1/a1dcc67c.json"
+    "file_name": "/tmp/news_lk2/articles/92/920b6c84.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -129,11 +201,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca--\u0dc3\u0ddc\u0dbb-\u0db8\u0dd4\u0dbd\u0da7-\u0dc0\u0dd0\u0da7\u0dd4\u0dab-\u0d9c\u0dd2\u0dbb\u0dc0\u0dcf-\u0dc0\u0d9c\u0dd9\u0dca/1-618616",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca--\u0dc3\u0ddc\u0dbb-\u0db8\u0dd4\u0dbd\u0da7-\u0dc0\u0dd0\u0da7\u0dd4\u0dab-\u0d9c\u0dd2\u0dbb\u0dc0\u0dcf-\u0dc0\u0d9c\u0dd9\u0dca/101-618616",
     "time_ut": 1661246168,
     "original_lang": "si",
     "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca, \u0dc3\u0ddc\u0dbb \u0db8\u0dd4\u0dbd\u0da7 \u0dc0\u0dd0\u0da7\u0dd4\u0dab \u0d9c\u0dd2\u0dbb\u0dc0\u0dcf \u0dc0\u0d9c\u0dd9\u0dca",
-    "file_name": "/tmp/news_lk2/articles/dd/ddc2ef70.json"
+    "file_name": "/tmp/news_lk2/articles/fb/fb8fef72.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7926,77 +7998,5 @@
     "original_lang": "en",
     "original_title": "Protest by Ayurvedic TUs",
     "file_name": "/tmp/news_lk2/articles/8c/8c0ea04b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/IUSF-protest-march-sets-off/108-243300",
-    "time_ut": 1660817243,
-    "original_lang": "en",
-    "original_title": "IUSF protest march sets off",
-    "file_name": "/tmp/news_lk2/articles/6d/6dbaddad.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0ddd\u0db8\u0dcf\u0d9c\u0db8-\u0db8\u0dd4\u0dc0\u0db1\u0dca-\u0db8\u0dd2\u0dba\u0d9c\u0dd2\u0dba\u0dda-\u0da2\u0dbd\u0db7\u0dd3\u0dad\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca/11-396412",
-    "time_ut": 1660816992,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0ddd\u0db8\u0dcf\u0d9c\u0db8 \u0db8\u0dd4\u0dc0\u0db1\u0dca \u0db8\u0dd2\u0dba\u0d9c\u0dd2\u0dba\u0dda \u0da2\u0dbd\u0db7\u0dd3\u0dad\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/6e/6e8b25d0.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0b9f\u0bcd\u0b9f\u0b88\u0b9f\u0bc1-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf-\u0b85\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0ba4\u0bbf/175-302563",
-    "time_ut": 1660816990,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0b9f\u0bcd\u0b9f\u0b88\u0b9f\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf  \u0b85\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0ba4\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/04/0445199b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/18/asset-managers-on-alert-after-whatsapp-crackdown-on-banks/",
-    "time_ut": 1660816980,
-    "original_lang": "en",
-    "original_title": "Asset managers on alert after \u2018WhatsApp\u2019 crackdown on banks",
-    "file_name": "/tmp/news_lk2/articles/25/25109978.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/22\u0b86\u0bb5\u0ba4\u0bc1-\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0bae\u0ba9\u0bc1\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd/175-302562",
-    "time_ut": 1660816377,
-    "original_lang": "ta",
-    "original_title": "22\u0b86\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1  \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0bae\u0ba9\u0bc1\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/16/1671e494.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d8b\u0dc3\u0dc3\u0dca-\u0db4\u0dd9\u0dc5-\u0db4\u0dca\u200d\u0dbb\u0dcf\u0dba\u0ddd\u0d9c\u0dd2\u0d9a-\u0db4\u0dbb\u0dd2\u0d9a\u0dca\u0dc2\u0dab-\u0dc4\u0dd9\u0da7-\u0dc3\u0dd2\u0da7-\u0daf\u0dd2\u0db1-\u0dad\u0dd4\u0db1\u0d9a\u0dca/1-618335",
-    "time_ut": 1660816343,
-    "original_lang": "si",
-    "original_title": "\u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0dba\u0ddd\u0d9c\u0dd2\u0d9a \u0db4\u0dbb\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dc4\u0dd9\u0da7 \u0dc3\u0dd2\u0da7 \u0daf\u0dd2\u0db1 \u0dad\u0dd4\u0db1\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/17/17a279d2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84378/suspect-arrested-for-cannabis-to-school-children",
-    "time_ut": 1660815780,
-    "original_lang": "en",
-    "original_title": "Suspect arrested for cannabis to school children",
-    "file_name": "/tmp/news_lk2/articles/59/591ebfd2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84378/suspect-arrested-for-selling-cannabis-to-school-children",
-    "time_ut": 1660815780,
-    "original_lang": "en",
-    "original_title": "Suspect arrested for selling cannabis to school children",
-    "file_name": "/tmp/news_lk2/articles/59/59e6fbb5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/18/amnesty-to-deposit-sell-foreign-currency/",
-    "time_ut": 1660815600,
-    "original_lang": "en",
-    "original_title": "Amnesty to Deposit/Sell Foreign Currency",
-    "file_name": "/tmp/news_lk2/articles/cb/cb0d54cf.json"
   }
 ]
