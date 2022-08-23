@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9-\u0b95\u0b9c\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/76-302874",
+    "time_ut": 1661254332,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9  \u0b95\u0b9c\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/bb/bb99aea1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Harsha-appointed-Chairman-of-Public-Finance-Committee/342-243576",
+    "time_ut": 1661254205,
+    "original_lang": "en",
+    "original_title": "Harsha appointed Chairman of Public Finance Committee",
+    "file_name": "/tmp/news_lk2/articles/9e/9e49c435.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8\u0baf-\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-302873",
+    "time_ut": 1661253967,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8\u0baf \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a7/a735a46d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/stop-using-pta-and-immediately-rescind-detention-orders-basl-tells-president/",
+    "time_ut": 1661253060,
+    "original_lang": "en",
+    "original_title": "Stop using PTA, and immediately rescind Detention Orders \u2013 BASL tells President",
+    "file_name": "/tmp/news_lk2/articles/76/7600bd4d.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/23/poultry-farmer-associations-allege-egg-mafia/",
     "time_ut": 1661252640,
@@ -3374,14 +3406,6 @@
     "original_lang": "en",
     "original_title": "Top UN officials asks Sri Lanka president to not to sign detention orders on IUSF convenor",
     "file_name": "/tmp/news_lk2/articles/67/6779d21c.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8\u0baf-\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-302757",
-    "time_ut": 1661094408,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8\u0baf \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/a8/a85b2e68.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda \u0db4\u0dcf \u0d9c\u0db8\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0daf\u0dd9\u0dc3\u0da7",
     "file_name": "/tmp/news_lk2/articles/5e/5edee381.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84379/myanmar-buys-russian-oil-as-emerging-markets-take-shunned-supply-report",
-    "time_ut": 1660818120,
-    "original_lang": "en",
-    "original_title": "Myanmar buys Russian oil as emerging markets take shunned supply \u2013 report",
-    "file_name": "/tmp/news_lk2/articles/60/60ef8130.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/22\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0dca-9\u0d9a\u0dca/11-396413",
-    "time_ut": 1660818047,
-    "original_lang": "si",
-    "original_title": "22\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0dca 9\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/6d/6d658b6f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Protest-by-Ayurvedic-TUs/110-243301",
-    "time_ut": 1660817687,
-    "original_lang": "en",
-    "original_title": "Protest by Ayurvedic TUs",
-    "file_name": "/tmp/news_lk2/articles/8c/8c0ea04b.json"
   }
 ]
