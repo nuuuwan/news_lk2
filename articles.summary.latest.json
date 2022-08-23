@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d86\u0db1\u0dba\u0db1\u0dd2\u0d9a-\u0dc3\u0db8\u0dca\u0db6\u0dcf-\u0dc3\u0dc4\u0dbd\u0dca-\u0dc4\u0dcf-\u0db4\u0dbb\u0dd2\u0db4\u0dca\u0db4\u0dd4-\u0db8\u0dd2\u0dbd-\u0dc3\u0dad\u0ddc\u0dc3-\u0d85\u0da9\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/11-396539",
+    "time_ut": 1661231226,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0db1\u0dba\u0db1\u0dd2\u0d9a \u0dc3\u0db8\u0dca\u0db6\u0dcf \u0dc3\u0dc4\u0dbd\u0dca \u0dc4\u0dcf \u0db4\u0dbb\u0dd2\u0db4\u0dca\u0db4\u0dd4 \u0db8\u0dd2\u0dbd \u0dc3\u0dad\u0ddc\u0dc3 \u0d85\u0da9\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4f/4f81fce2.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0bae\u0bcb\u0b9a\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f-\u0ba8\u0baa\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/95-302848",
+    "time_ut": 1661230714,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bcb\u0b9a\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f \u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/b9/b9aefc11.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0d96\u0dc2\u0db0-\u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1-\u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda-\u0d96\u0dc2\u0db0-\u0dc0\u0dbb\u0dca\u0d9c-3\u0da7-\u0d89\u0dc4\u0dc5-\u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8\u0d9a\u0dca/101-618590",
+    "time_ut": 1661230534,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d96\u0dc2\u0db0 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda \u0d96\u0dc2\u0db0 \u0dc0\u0dbb\u0dca\u0d9c 3\u0da7 \u0d89\u0dc4\u0dc5 \u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/a2/a2de45b6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/sri-lanka-inflation-hits-66-7/",
+    "time_ut": 1661229900,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Inflation hits 66.7%",
+    "file_name": "/tmp/news_lk2/articles/70/70e73b8d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/sl-navy-seizes-poaching-trawler-in-sri-lanka%e2%80%99s-waters-off-mullaitivu/",
+    "time_ut": 1661229660,
+    "original_lang": "en",
+    "original_title": "SL Navy seizes poaching trawler in Sri Lanka\u2019s waters off Mullaitivu",
+    "file_name": "/tmp/news_lk2/articles/64/6436389b.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda-\u0db6\u0da9\u0dd4-\u0dc3\u0ddc\u0dbb\u0dcf\u0d9c\u0dad\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/101-618587",
+    "time_ut": 1661229418,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0db6\u0da9\u0dd4 \u0dc3\u0ddc\u0dbb\u0dcf\u0d9c\u0dad\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/1d/1da857cb.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0daf\u0dd4\u0db4\u0dca\u0db4\u0dad\u0dcf-\u0db4\u0dd2\u0da7-\u0db6\u0dbb-\u0db4\u0da7\u0dc0\u0db1-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf/26-618586",
+    "time_ut": 1661229394,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd4\u0db4\u0dca\u0db4\u0dad\u0dcf \u0db4\u0dd2\u0da7 \u0db6\u0dbb \u0db4\u0da7\u0dc0\u0db1 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/9e/9ed9abb4.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/picture_story/\u0db7\u0dcf\u0dab\u0dca\u0da9-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0d9a\u0dca-\u0db4\u0dd3\u0dbd\u0dd2-\u0db4\u0db1\u0dd2\u0dba\u0dd2-\u0d8b\u0da9\u0dbb\u0da7-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda-\u0db0\u0dcf\u0dc0\u0db1\u0dba\u0da7-\u0db6\u0dcf\u0db0\u0dcf/10-396537",
+    "time_ut": 1661229360,
+    "original_lang": "si",
+    "original_title": "\u0db7\u0dcf\u0dab\u0dca\u0da9 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0db4\u0dd3\u0dbd\u0dd2 \u0db4\u0db1\u0dd2\u0dba\u0dd2 \u0d8b\u0da9\u0dbb\u0da7 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda \u0db0\u0dcf\u0dc0\u0db1\u0dba\u0da7 \u0db6\u0dcf\u0db0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/48/480c7c94.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1-\u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7-\u0dad\u0daf-\u0dc3\u0dd4\u0dc5\u0d82-\u0dc3\u0dc4-\u0d85\u0d9a\u0dd4\u0dab\u0dd4-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4/101-618585",
     "time_ut": 1661229116,
@@ -7934,69 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka sell Rs60bn mostly in 3-month bills, yield up",
     "file_name": "/tmp/news_lk2/articles/a5/a5cf3df2.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4-\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca-\u0d9a\u0dcf\u0da9\u0dca-\u0dbd\u0ddc\u0dad\u0dbb\u0dd0\u0dba\u0dd2\u0dba\u0da7-\u0d85\u0dba\u0db3\u0dd4\u0db8\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-396392",
-    "time_ut": 1660787476,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0d9c\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca \u0d9a\u0dcf\u0da9\u0dca \u0dbd\u0ddc\u0dad\u0dbb\u0dd0\u0dba\u0dd2\u0dba\u0da7 \u0d85\u0dba\u0db3\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/71/718f11cb.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bb5\u0bc1\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0ba8\u0b9f\u0bc8\u0bae\u0bc1\u0bb1\u0bc8/175-302545",
-    "time_ut": 1660786770,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0b9f\u0bb5\u0bc1\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba8\u0b9f\u0bc8\u0bae\u0bc1\u0bb1\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/8a/8a94ca4d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0db6\u0dbd\u0dba-\u0db6\u0dd9\u0daf\u0db1\u0dca\u0db1\u0dda-\u0db1\u0db8\u0dca-\u0dbb\u0da7-\u0d9c\u0ddc\u0da9\u0db1\u0d9c\u0db1\u0dca\u0db1-\u0d8b\u0daf\u0dc0\u0dca-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf\u2018\u2018/1-618310",
-    "time_ut": 1660785971,
-    "original_lang": "si",
-    "original_title": "\u2018\u2018\u0db6\u0dbd\u0dba \u0db6\u0dd9\u0daf\u0db1\u0dca\u0db1\u0dda \u0db1\u0db8\u0dca \u0dbb\u0da7 \u0d9c\u0ddc\u0da9\u0db1\u0d9c\u0db1\u0dca\u0db1 \u0d8b\u0daf\u0dc0\u0dca \u0d9a\u0dbb\u0db1\u0dc0\u0dcf\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/dd/dd30155d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/UN-and-Sri-Lanka-sign-deal-focused-on-rapid-recovery/342-243268",
-    "time_ut": 1660785685,
-    "original_lang": "en",
-    "original_title": "UN and Sri Lanka sign deal focused on rapid recovery",
-    "file_name": "/tmp/news_lk2/articles/20/2020be68.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/I-have-given-several-recommendation-letters-Namal/342-243267",
-    "time_ut": 1660785496,
-    "original_lang": "en",
-    "original_title": "I have given several recommendation letters: Namal",
-    "file_name": "/tmp/news_lk2/articles/c6/c6d1cc1d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2-\u0dc0\u0d9c\u0dcf\u0dc0-\u0db1\u0dd0\u0dad\u0dca\u0dad\u0da7\u0db8-\u0db1\u0dd0\u0dad\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2\u0daf/101-618309",
-    "time_ut": 1660785340,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2 \u0dc0\u0d9c\u0dcf\u0dc0 \u0db1\u0dd0\u0dad\u0dca\u0dad\u0da7\u0db8 \u0db1\u0dd0\u0dad\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2\u0daf",
-    "file_name": "/tmp/news_lk2/articles/df/df05bfc7.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2-\u0dc0\u0d9c\u0dcf\u0dc0-\u0db1\u0dd0\u0dad\u0dca\u0dad\u0da7\u0db8-\u0db1\u0dd0\u0dad\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2\u0daf-/1-618309",
-    "time_ut": 1660785340,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db1\u0dca\u0db1\u0dcf\u0dc3\u0dd2 \u0dc0\u0d9c\u0dcf\u0dc0 \u0db1\u0dd0\u0dad\u0dca\u0dad\u0da7\u0db8 \u0db1\u0dd0\u0dad\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/6a/6aaa714e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/New-Cabinet-appointment-to-be-delayed-by-week/108-243266",
-    "time_ut": 1660785304,
-    "original_lang": "en",
-    "original_title": "New Cabinet appointment to be delayed by week",
-    "file_name": "/tmp/news_lk2/articles/de/de79d30b.json"
   }
 ]
