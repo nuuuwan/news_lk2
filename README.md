@@ -1,22 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-24 01:47:12 (LK time)*
+*As of 2022-08-24 02:12:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** ada-derana-lk ([Sri Lanka aims to cut fiscal deficit in budget 2023](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/444a0ec7.json))
-
-## Last 3 Hours (5 Articles)
-
-* **2** ada-derana-lk ([State sector employees required to report for duty as usual](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbf47555.json))
+## Last 3 Hours (4 Articles)
 
 * **2** tamil-mirror-lk ([’கொரோனா பேரழிவு நிலை உருவாகலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc3c3033.json))
 
+* **1** ada-derana-lk ([Sri Lanka aims to cut fiscal deficit in budget 2023](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/444a0ec7.json))
+
 * **1** economy-next-com ([Sri Lanka President allows imports of electrical bikes amid soft-peg crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3dde096.json))
 
-## Last 24 Hours (222 Articles)
+## Last 24 Hours (221 Articles)
 
 * **52** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43863138.json))
 
@@ -32,11 +28,11 @@
 
 * **23** daily-mirror-lk ([National inflation increases to 66.7%](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01fffc8f.json))
 
-* **6** daily-ft-lk ([Five ways to connect Sri Lanka’s small businesses to global value chains](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95ca79f0.json))
+* **5** daily-ft-lk ([Tyeab Akbarally joins Sunshine Holdings Board](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/600c61b7.json))
 
 * **2** colombo-telegraph-com ([Wickremesinghe/Rajapaksa – An Axis Of Evil](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afed3211.json))
 
-## Last Week (1,414 Articles)
+## Last Week (1,412 Articles)
 
 * **275** lankadeepa-lk ([කෝටි 24 කොකේන් සමග පෝලන්ත ජාතිකයා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68c8b78e.json))
 
@@ -46,7 +42,7 @@
 
 * **189** ada-lk ([ඩයස්පෝරාවේ සහාය ගන්න ඩයස්පෝරා කාර්යාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdae4c18.json))
 
-* **160** daily-mirror-lk ([Aragalaya is far from over](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c478b17d.json))
+* **158** daily-mirror-lk ([Govt. seeks multi-party consensus to set up private universities](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/014cf39e.json))
 
 * **157** ada-derana-lk ([Showers or thundershowers expected in five provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc79d8bb.json))
 
