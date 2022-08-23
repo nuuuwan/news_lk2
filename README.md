@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-24 00:29:22 (LK time)*
+*As of 2022-08-24 00:46:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,9 +8,9 @@
 
 * **1** tamil-mirror-lk ([அரச ஊழியர்களை வழமை போன்று பணிக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/328f145f.json))
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (9 Articles)
 
-* **5** tamil-mirror-lk ([இறக்குமதிக்கு தடை: ஜனாதிபதி அதிரடி](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/701b0c64.json))
+* **3** tamil-mirror-lk ([சிறுவர் இல்லத்தில் இருந்த மூவர் தப்பியோட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86d7dd52.json))
 
 * **2** economy-next-com ([Sri Lanka halts imports of over 300 items](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a96f0522.json))
 
@@ -18,19 +18,19 @@
 
 * **2** lankadeepa-lk ([ගාල්ලේ ළමා නිවාසයකින් දරුවන් තිදෙනකු පැන ගිහින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/496fc8e1.json))
 
-## Last 24 Hours (230 Articles)
+## Last 24 Hours (228 Articles)
 
 * **52** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43863138.json))
 
-* **36** tamil-mirror-lk ([பாண் விலை தொடர்பான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f8d724f.json))
+* **35** tamil-mirror-lk ([கொரோனா மரணங்கள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3712e701.json))
 
 * **29** news-first-lk ([3-hour power cuts today](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41c9a5b.json))
 
 * **29** ada-lk ([මන්ත්‍රීට පහරදී බේරේ වැවට  තල්ලුකළ තරුණිය අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73a17ca7.json))
 
-* **25** ada-derana-lk ([President and Opposition Leader hold talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5635e8e.json))
-
 * **24** economy-next-com ([Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e7d91a9.json))
+
+* **24** ada-derana-lk ([Fauci to step down after decades as top US infection expert](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85f5ad1a.json))
 
 * **23** daily-mirror-lk ([National inflation increases to 66.7%](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01fffc8f.json))
 
