@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-24 01:08:49 (LK time)*
+*As of 2022-08-24 01:27:54 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Sri Lanka aims to cut fiscal deficit in budget 2023](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/444a0ec7.json))
 
 ## Last Hour (1 Articles)
 
@@ -20,11 +16,11 @@
 
 * **2** economy-next-com ([Sri Lanka halts imports of over 300 items](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a96f0522.json))
 
-## Last 24 Hours (227 Articles)
+## Last 24 Hours (223 Articles)
 
 * **52** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43863138.json))
 
-* **34** tamil-mirror-lk ([’ஐ.எம்.எப் கடன் இந்த வருட இறுதிக்குள் கிடைக்கும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61c50a42.json))
+* **33** tamil-mirror-lk ([இன்று கடும் மழை](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/260025e9.json))
 
 * **29** news-first-lk ([3-hour power cuts today](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41c9a5b.json))
 
@@ -36,7 +32,7 @@
 
 * **23** daily-mirror-lk ([National inflation increases to 66.7%](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01fffc8f.json))
 
-* **11** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
+* **8** daily-ft-lk ([Kerosene price hike: Setting the rural and urban periphery on fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5ac80b6.json))
 
 * **1** colombo-telegraph-com ([Wickremesinghe/Rajapaksa – An Axis Of Evil](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afed3211.json))
 
