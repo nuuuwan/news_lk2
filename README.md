@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-23 06:22:29 (LK time)*
+*As of 2022-08-23 06:45:42 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -32,15 +32,15 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka: Protesters Must Not Be Detained Under The Draconian Anti-Terror Law: Amnesty International](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f24273.json))
 
-## Last Week (1,399 Articles)
+## Last Week (1,396 Articles)
 
-* **263** lankadeepa-lk ([විසි දෙකට කඹ ඇදිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/503d62f2.json))
+* **261** lankadeepa-lk ([ඉන්ධන හිඟයට උත්තරය කළ වැරැදි හරිගස්සා ගැනීමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2f0b580.json))
 
 * **207** news-first-lk ([Chinese Research / Survey Vessel Yuan Wang 5 reaches Sri Lanka’s Hambantota](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8fd8b3f4.json))
 
-* **185** ada-lk ([චීන නැව එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/2877cbec.json))
-
 * **184** tamil-mirror-lk ([சட்டத்தரணிகளான பொலிஸ் அதிகாரிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/4295bcbf.json))
+
+* **184** ada-lk ([QR කේතය පරීක්ෂා කිරිමෙන් සංවර්ධන නිලධාරීන් ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd06b214.json))
 
 * **160** daily-mirror-lk ([Chinese vessel ’Yuan Wang 5’ arrives](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/203a4b50.json))
 
