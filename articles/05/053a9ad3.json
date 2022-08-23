@@ -1,0 +1,537 @@
+{
+  "newspaper_id": "island-lk",
+  "url": "http://island.lk/commercial-credit-posts-rs-4-52-bn-pat-for-fy-2021-22/",
+  "time_ut": 1661188320,
+  "original_lang": "en",
+  "original_title": "Commercial Credit posts Rs. 4.52 Bn PAT\u00a0 for FY 2021/22",
+  "text_idx": {
+    "en": {
+      "title": "Commercial Credit posts Rs. 4.52 Bn PAT\u00a0 for FY 2021/22",
+      "author": "Sahan Weerasooriya",
+      "body_lines": [
+        "Commercial Credit and Finance PLC reported a profit after tax of Rs. 4.52 Bn for the financial year ending 31 March 2022, a 93.6% growth compared to the previous year. This growth was mainly fuelled by the 32.3% increase in the net interest income, 67.5% increase in the fee and commission income and the 82.4% increase in the other operating income.",
+        "The Company\u2019s asset base grew to Rs. 93.6 Bn from Rs. 91.1 Bn during the financial year ended 31st March 2022 recording a growth of 2.7%. This was mainly caused by the growth in the net loan book which grew by 7.9% during the period.",
+        "The Company\u2019s asset quality continued to improve finishing the year with a Gross Non Performing Accommodation (NPA) ratio of 4.67% compared to the 5.39% the previous year. The Company\u2019s net NPA also improved to a negative 4.09% from 1.46% reflecting diligent provisioning.",
+        "The deposit and savings base of the company increased by 0.2% during a challenging year for fund mobilisation, finishing with a deposit and savings base of Rs. 48.1Bn.",
+        "The significant increase in profitability while enjoying steady growth in the asset base saw the Company reporting a Return on Assets (ROA) of 4.9% compared to 2.6% the previous year. Return on Equity (ROE) also grew to 26.1% compared to 15.6% the previous year, providing value to its shareholders.",
+        "Abans Finance records PBT of Rs 114 million in quarter one of FY 2022 / 2023",
+        "Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *",
+        "Save my name, email, and website in this browser for the next time I comment."
+      ],
+      "title_ents": [
+        {
+          "text": "4.52",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "2021/22",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Commercial Credit and Finance PLC",
+            "label": "ORG"
+          },
+          {
+            "text": "4.52",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the financial year ending 31 March 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "93.6%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the previous year",
+            "label": "DATE"
+          },
+          {
+            "text": "32.3%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "67.5%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "82.4%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "93.6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "91.1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the financial year ended 31st March 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "2.7%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "7.9%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "the year",
+            "label": "DATE"
+          },
+          {
+            "text": "4.67%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the 5.39%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the previous year",
+            "label": "DATE"
+          },
+          {
+            "text": "Company",
+            "label": "ORG"
+          },
+          {
+            "text": "a negative 4.09%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.46%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "0.2%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "a challenging year",
+            "label": "DATE"
+          },
+          {
+            "text": "48.1Bn",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Company",
+            "label": "ORG"
+          },
+          {
+            "text": "4.9%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "2.6%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the previous year",
+            "label": "DATE"
+          },
+          {
+            "text": "ROE",
+            "label": "ORG"
+          },
+          {
+            "text": "26.1%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "15.6%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the previous year",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "PBT",
+            "label": "ORG"
+          },
+          {
+            "text": "114 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "quarter one",
+            "label": "DATE"
+          }
+        ],
+        [],
+        []
+      ]
+    },
+    "si": {
+      "title": "\u0d9a\u0ddc\u0db8\u0dbb\u0dca\u0dc2\u0dbd\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd9\u0da9\u0dd2\u0da7\u0dca \u0dad\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0dbb\u0dd4. 2021/22 FY \u0dc3\u0db3\u0dc4\u0dcf 4.52 Bn PAT",
+      "author": "\u0dc3\u0dc4\u0db1\u0dca \u0dc0\u0dd3\u0dbb\u0dc3\u0dd6\u0dbb\u0dd2\u0dba",
+      "body_lines": [
+        "\u0d9a\u0ddc\u0db8\u0dbb\u0dca\u0dc2\u0dbd\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd9\u0da9\u0dd2\u0da7\u0dca \u0d87\u0db1\u0dca\u0da9\u0dca \u0dc6\u0dd2\u0db1\u0dd1\u0db1\u0dca\u0dc3\u0dca \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3 \u0db6\u0daf\u0dd4 \u0db4\u0dc3\u0dd4 \u0dbd\u0dcf\u0db7\u0dba \u0dbb\u0dd4. 2022 \u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4 31 \u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0db1 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 4.52 \u0d9a\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0db4\u0dd9\u0dbb \u0dc0\u0dc3\u0dbb\u0da7 \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 93.6% \u0d9a \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dd2. \u0dc1\u0dd4\u0daf\u0dca\u0db0 \u0db4\u0ddc\u0dbd\u0dd3 \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dda 32.3% \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8, \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dc4\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0dca \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dda 67.5% \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8 \u0dc3\u0dc4 \u0d85\u0db1\u0dd9\u0d9a\u0dd4\u0dad\u0dca \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dda 82.4% \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8 \u0db8\u0dd9\u0db8 \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dc4\u0dda\u0dad\u0dd4 \u0dc0\u0dd2\u0dba.",
+        "\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dda \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0db4\u0daf\u0db1\u0db8 \u0dbb\u0dd4. \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 93.6 \u0dc3\u0dd2\u0da7 \u0dbb\u0dd4. \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 91.1 \u0d9a \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca 2022 \u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4 31 \u0daf\u0dd2\u0db1\u0dd9\u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0dd6 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba \u0dad\u0dd4\u0dc5\u0daf\u0dd3 2.7% \u0d9a \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dc5\u0dda\u0dba. \u0db8\u0dd9\u0dba\u0da7 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dc4\u0dda\u0dad\u0dd4 \u0dc0\u0dd6\u0dba\u0dda \u0d91\u0db8 \u0d9a\u0dcf\u0dbd\u0dba \u0dad\u0dd4\u0dc5 \u0dc1\u0dd4\u0daf\u0dca\u0db0 \u0dab\u0dba \u0db4\u0ddc\u0dad\u0dda \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba 7.9% \u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd3\u0db8\u0dba\u0dd2.",
+        "\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dda \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0d9c\u0dd4\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db7\u0dcf\u0dc0\u0dba \u0db4\u0dd9\u0dbb \u0dc0\u0dc3\u0dbb\u0dda \u0db4\u0dd0\u0dc0\u0dad\u0dd2 5.39% \u0dc4\u0dcf \u0dc3\u0dc3\u0db3\u0db1 \u0dc0\u0dd2\u0da7 4.67% \u0d9a \u0daf\u0dc5 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dcf\u0dbb\u0dd3 \u0db1\u0ddc\u0dc0\u0db1 \u0db1\u0dc0\u0dcf\u0dad\u0dd0\u0db1\u0dca (NPA) \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0d9f\u0dd2\u0db1\u0dca \u0dc0\u0dc3\u0dbb \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda\u0daf\u0dd3 \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd2\u0dba\u0dd4\u0dab\u0dd4 \u0dc0\u0dd2\u0dba. \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dda \u0dc1\u0dd4\u0daf\u0dca\u0db0 NPA \u0daf \u0d9a\u0da9\u0dd2\u0dc3\u0dbb \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dcf\u0daf\u0db1 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0dd2\u0db9\u0dd4 \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca 1.46% \u0dc3\u0dd2\u0da7 \u0dc3\u0dd8\u0dab 4.09% \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0daf\u0dd2\u0dba\u0dd4\u0dab\u0dd4 \u0dc0\u0dd2\u0dba.",
+        "\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dc3\u0dbb\u0d9a\u0dca \u0dad\u0dd4\u0dc5 \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dda \u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dd4 \u0dc3\u0dc4 \u0d89\u0dad\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0db4\u0daf\u0db1\u0db8 0.2% \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba\u0dda \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dbb\u0dd0\u0dc3\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8, \u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dd4 \u0dc3\u0dc4 \u0d89\u0dad\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0db4\u0daf\u0db1\u0db8 \u0dbb\u0dd4. \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 48.1 \u0d9a\u0dd2.",
+        "\u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0db4\u0daf\u0db1\u0db8\u0dda \u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca \u0db7\u0dd4\u0d9a\u0dca\u0dad\u0dd2 \u0dc0\u0dd2\u0db3\u0dd2\u0db8\u0dd2\u0db1\u0dca \u0dbd\u0dcf\u0db7\u0daf\u0dcf\u0dba\u0dd2\u0dad\u0dcf\u0dc0\u0dba\u0dda \u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0db4\u0dd9\u0dbb \u0dc0\u0dc3\u0dbb\u0dda 2.6% \u0da7 \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 4.9% \u0d9a \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0db8\u0dad \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7\u0dba\u0d9a\u0dca (ROA) \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dc5\u0dda\u0dba. \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dad \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7 (ROE) \u0daf \u0db4\u0dd9\u0dbb \u0dc0\u0dc3\u0dbb\u0dda 15.6% \u0da7 \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 26.1% \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd3 \u0d91\u0dc4\u0dd2 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0da7 \u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0d9a\u0db8\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dda\u0dba.",
+        "\u0d85\u0db6\u0dcf\u0db1\u0dca\u0dc3\u0dca \u0dc6\u0dd2\u0db1\u0dd1\u0db1\u0dca\u0dc3\u0dca 2022/2023 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 114\u0d9a PBT \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb\u0dba\u0dd2.",
+        "\u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0d9a\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0d94\u0db6\u0d9c\u0dda \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0dbd\u0dd2\u0db4\u0dd2\u0db1\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0db1\u0ddc\u0d9a\u0dd9\u0dbb\u0dda. \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb \u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0dbb \u0d87\u0dad *\u0d85\u0daf\u0dc4\u0dc3\u0dca \u0db1\u0db8 *",
+        "\u0db8\u0db8 \u0d8a\u0dc5\u0d9f \u0dc0\u0dad\u0dcf\u0dc0\u0dda \u0d85\u0daf\u0dc4\u0dc3\u0dca \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0d9c\u0dda \u0db1\u0db8, \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd1\u0dbd \u0dc3\u0dc4 \u0dc0\u0dd9\u0db6\u0dca \u0d85\u0da9\u0dc0\u0dd2\u0dba \u0db8\u0dd9\u0db8 \u0db6\u0dca\u200d\u0dbb\u0dc0\u0dd4\u0dc3\u0dbb\u0dba\u0dda \u0dc3\u0dd4\u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1."
+      ],
+      "title_ents": [
+        {
+          "text": "4.52",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "2021/22",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0db8\u0dbb\u0dca\u0dc2\u0dbd\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd9\u0da9\u0dd2\u0da7\u0dca \u0d87\u0db1\u0dca\u0da9\u0dca \u0dc6\u0dd2\u0db1\u0dd1\u0db1\u0dca\u0dc3\u0dca \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "4.52",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2022 \u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4 31 \u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0db1 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc0\u0dbb\u0dca\u0dc2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "93.6%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0dbb \u0dc0\u0dc3\u0dbb\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "32.3%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "67.5%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "82.4%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "93.6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "91.1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2022 \u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4 31 \u0daf\u0dd2\u0db1\u0dd9\u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0dd6 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc0\u0dbb\u0dca\u0dc2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "2.7%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "7.9%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dc3\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "4.67%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "5.39%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0dbb \u0dc0\u0dc3\u0dbb\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dcf\u0d9c\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd8\u0dab 4.09%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.46%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "0.2%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dc3\u0dbb\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 48.1 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0db8\u0dcf\u0d9c\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "4.9%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "2.6%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0dbb \u0dc0\u0dc3\u0dbb\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "ROE",
+            "label": "ORG"
+          },
+          {
+            "text": "26.1%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "15.6%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0dbb \u0dc0\u0dc3\u0dbb\u0dda",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "PBT",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 114 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0 \u0d91\u0d9a",
+            "label": "DATE"
+          }
+        ],
+        [],
+        []
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0bae\u0bb0\u0bcd\u0bb7\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bbf\u0bb0\u0bc6\u0b9f\u0bbf\u0b9f\u0bcd \u0b87\u0b9f\u0bc1\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0bb0\u0bc2. 2021/22 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 4.52 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd PAT",
+      "author": "\u0b9a\u0bb9\u0bbe\u0ba9\u0bcd \u0bb5\u0bc0\u0bb0\u0b9a\u0bc2\u0bb0\u0bbf\u0baf",
+      "body_lines": [
+        "\u0b95\u0bae\u0bb0\u0bcd\u0bb7\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bbf\u0bb0\u0bc6\u0b9f\u0bbf\u0b9f\u0bcd \u0b85\u0ba3\u0bcd\u0b9f\u0bcd \u0b83\u0baa\u0bc8\u0ba9\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf \u0bb5\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0bb2\u0bbe\u0baa\u0bae\u0bcd \u0bb0\u0bc2. \u0bae\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd 31, 2022 \u0b87\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd 4.52 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd, \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bc8 \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 93.6% \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf. \u0ba8\u0bbf\u0b95\u0bb0 \u0bb5\u0b9f\u0bcd\u0b9f\u0bbf \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd 32.3% \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1, \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bae\u0bbf\u0bb7\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 67.5% \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb1 \u0b87\u0baf\u0b95\u0bcd\u0b95 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 82.4% \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0b95\u0ba4\u0bcd \u0ba4\u0bc2\u0ba3\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9.",
+        "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bcd \u0ba4\u0bb3\u0bae\u0bcd \u0bb0\u0bc2. \u0bb0\u0bc2. 93.6 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd. \u0bae\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd 31, 2022 \u0b87\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd 91.1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd 2.7% \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bc8\u0baa\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1. \u0b87\u0ba4\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0b95 \u0ba8\u0bbf\u0b95\u0bb0 \u0b95\u0b9f\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0b85\u0ba8\u0bcd\u0ba4\u0b95\u0bcd \u0b95\u0bbe\u0bb2\u0b95\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 7.9% \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bcd \u0ba4\u0bb0\u0bae\u0bcd, \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd 5.39% \u0b89\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1, \u200b\u200b4.67% \u0b8e\u0ba9\u0bcd\u0bb1 \u0bae\u0bca\u0ba4\u0bcd\u0ba4\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bbe\u0ba4 \u0b87\u0b9f\u0bb5\u0b9a\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd (NPA) \u0b86\u0ba3\u0bcd\u0b9f\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1. \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0b95\u0bb0 NPA 1.46% \u0b87\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bae\u0bb1\u0bc8\u0baf\u0bbe\u0ba9 4.09% \u0b86\u0b95 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b92\u0bb0\u0bc1 \u0b9a\u0bb5\u0bbe\u0bb2\u0bbe\u0ba9 \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd \u0ba4\u0bca\u0b95\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc7\u0bae\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd \u0ba4\u0bb3\u0bae\u0bcd 0.2% \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. 48.1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+        "\u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bcd \u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bc8 \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0bb2\u0bbe\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1, \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 2.6% \u0b89\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1, \u200b\u200b4.9% \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd (ROA) \u0b8e\u0ba9 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b88\u0b95\u0bcd\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bcd (ROE) \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 15.6% \u0b89\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 26.1% \u0b86\u0b95 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1, \u0b85\u0ba4\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b85\u0baa\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd \u0b83\u0baa\u0bc8\u0ba9\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd 2022/2023 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2.114 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bbe\u0b95 PBT \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b92\u0bb0\u0bc1 \u0baa\u0ba4\u0bbf\u0bb2\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bc8 \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1. \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0baa\u0bc1\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9 *\u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd *",
+        "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0bb1\u0bc8 \u0ba8\u0bbe\u0ba9\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95, \u0b8e\u0ba9\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd, \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0ba3\u0bc8\u0baf\u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4 \u0b89\u0bb2\u0bbe\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "4.52",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "2021/22",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b95\u0bae\u0bb0\u0bcd\u0bb7\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bbf\u0bb0\u0bc6\u0b9f\u0bbf\u0b9f\u0bcd \u0b85\u0ba3\u0bcd\u0b9f\u0bcd \u0b83\u0baa\u0bc8\u0ba9\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "4.52",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd 31, 2022 \u0b87\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "93.6%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "32.3%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "67.5%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "82.4%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "93.6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "91.1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd 31, 2022 \u0b87\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "2.7%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "7.9%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "4.67%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "5.39%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bae\u0bb1\u0bc8 4.09%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.46%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "0.2%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0b9a\u0bb5\u0bbe\u0bb2\u0bbe\u0ba9 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "48.1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "4.9%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "2.6%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "ROE",
+            "label": "ORG"
+          },
+          {
+            "text": "26.1%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "15.6%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "PBT",
+            "label": "ORG"
+          },
+          {
+            "text": "114 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [],
+        []
+      ]
+    }
+  }
+}

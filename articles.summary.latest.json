@@ -200,6 +200,54 @@
     "file_name": "/tmp/news_lk2/articles/ac/ac99a2be.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/providore-unveils-concierge-service-for-senior-citizens-to-order-groceries-via-whatsapp-text/",
+    "time_ut": 1661188380,
+    "original_lang": "en",
+    "original_title": "Providore unveils Concierge Service for senior citizens to order groceries via WhatsApp/text",
+    "file_name": "/tmp/news_lk2/articles/8f/8f3c4180.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/allianz-life-lanka-forges-partnership-with-cargills-bank/",
+    "time_ut": 1661188380,
+    "original_lang": "en",
+    "original_title": "Allianz Life Lanka forges partnership with Cargills Bank",
+    "file_name": "/tmp/news_lk2/articles/6b/6bc5226f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/slid-webinar-sri-lankas-economy-the-next-6-months/",
+    "time_ut": 1661188380,
+    "original_lang": "en",
+    "original_title": "SLID webinar \u2013 Sri Lanka\u2019s economy: The next 6 months",
+    "file_name": "/tmp/news_lk2/articles/df/df049c09.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/commercial-credit-posts-rs-4-52-bn-pat-for-fy-2021-22/",
+    "time_ut": 1661188320,
+    "original_lang": "en",
+    "original_title": "Commercial Credit posts Rs. 4.52 Bn PAT\u00a0 for FY 2021/22",
+    "file_name": "/tmp/news_lk2/articles/05/053a9ad3.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/abans-finance-records-pbt-of-rs-114-million-in-quarter-one-of-fy-2022-2023/",
+    "time_ut": 1661188320,
+    "original_lang": "en",
+    "original_title": "Abans Finance records PBT of Rs 114 million in quarter one of FY 2022 / 2023",
+    "file_name": "/tmp/news_lk2/articles/f8/f89a283d.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/ban-on-open-accounts-on-imports-pepping-share-market/",
+    "time_ut": 1661188260,
+    "original_lang": "en",
+    "original_title": "Ban on open accounts on imports pepping share market",
+    "file_name": "/tmp/news_lk2/articles/00/008aff32.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84470/police-seek-assistance-to-identify-suspects-who-stormed-pms-office-",
     "time_ut": 1661187840,
@@ -1984,12 +2032,36 @@
     "file_name": "/tmp/news_lk2/articles/21/21992fff.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/how-sri-lankas-wealth-is-getting-siphoned-out-through-garbage-imports/",
+    "time_ut": 1661104560,
+    "original_lang": "en",
+    "original_title": "How Sri Lanka\u2019s wealth is getting siphoned out through garbage imports",
+    "file_name": "/tmp/news_lk2/articles/19/19398f1b.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0db7\u0dd6\u0db8\u0dd2\u0dad\u0dd9\u0dbd\u0dca-\u0dbd\u0dd3\u0da7\u0dbb\u0dba\u0d9a-\u0db8\u0dd2\u0dbd-\u0dbb\u0dd4--253\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-396492",
     "time_ut": 1661104455,
     "original_lang": "si",
     "original_title": "\u0db7\u0dd6\u0db8\u0dd2\u0dad\u0dd9\u0dbd\u0dca \u0dbd\u0dd3\u0da7\u0dbb\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 253\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
     "file_name": "/tmp/news_lk2/articles/4f/4fb83d3b.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/can-dodgy-medical-research-be-spotted/",
+    "time_ut": 1661103480,
+    "original_lang": "en",
+    "original_title": "Can Dodgy Medical Research be Spotted",
+    "file_name": "/tmp/news_lk2/articles/a5/a5a5ef8e.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/lpg-does-not-fall-under-category-of-essential-imports/",
+    "time_ut": 1661103240,
+    "original_lang": "en",
+    "original_title": "LPG does not fall under category of essential imports",
+    "file_name": "/tmp/news_lk2/articles/88/887ae772.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -2326,6 +2398,14 @@
     "original_lang": "en",
     "original_title": "Ranil, Sajith 2nd round of talks couldn\u2019t come at a better time",
     "file_name": "/tmp/news_lk2/articles/6c/6c3127ef.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/pan-asia-bank-md-nimal-tillekeratne-banking-ceo-of-the-year-sri-lanka-2022/",
+    "time_ut": 1661087940,
+    "original_lang": "en",
+    "original_title": "Pan Asia Bank MD Nimal Tillekeratne \u2018Banking CEO of the Year Sri Lanka 2022\u2019",
+    "file_name": "/tmp/news_lk2/articles/51/51821934.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -4518,6 +4598,14 @@
     "original_lang": "en",
     "original_title": "Cabinet to be sworn  in next week",
     "file_name": "/tmp/news_lk2/articles/51/5113c42c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/cops-rise-from-deep-slumber/",
+    "time_ut": 1660927500,
+    "original_lang": "en",
+    "original_title": "Cops rise from deep slumber",
+    "file_name": "/tmp/news_lk2/articles/b0/b09380d0.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -7910,93 +7998,5 @@
     "original_lang": "en",
     "original_title": "India underscores inclusivity on 75th anniversary of Independence",
     "file_name": "/tmp/news_lk2/articles/b8/b8c77dbb.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/gota-coming/",
-    "time_ut": 1660756980,
-    "original_lang": "en",
-    "original_title": "Gota coming?",
-    "file_name": "/tmp/news_lk2/articles/f2/f2403c35.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/sme-businesses-in-puttalam-enriched-by-seylan-bank-and-ccc-workshop/",
-    "time_ut": 1660756920,
-    "original_lang": "en",
-    "original_title": "SME businesses in Puttalam enriched by Seylan Bank and CCC workshop",
-    "file_name": "/tmp/news_lk2/articles/f4/f48d1c4a.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/sri-lanka-insurance-enters-into-a-strategic-tie-up-with-ceylon-motor-traders-association/",
-    "time_ut": 1660756860,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Insurance enters into a strategic tie-up with Ceylon Motor Traders Association",
-    "file_name": "/tmp/news_lk2/articles/4c/4c27e6d5.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/dialog-smart-home-brings-you-a-smart-security-doorbell-to-ensure-the-security-of-your-home/",
-    "time_ut": 1660756860,
-    "original_lang": "en",
-    "original_title": "\u2018Dialog Smart Home brings you a Smart Security Doorbell to ensure the security of your home\u2019",
-    "file_name": "/tmp/news_lk2/articles/7c/7c92c5c5.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/labour-dept-insists-on-strong-employee-employer-relationships-for-industrial-peace/",
-    "time_ut": 1660756860,
-    "original_lang": "en",
-    "original_title": "Labour Dept. insists on strong employee \u2013 employer relationships for industrial peace",
-    "file_name": "/tmp/news_lk2/articles/df/dff766e0.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/macroeconomic-arena-developments-boost-share-market/",
-    "time_ut": 1660756860,
-    "original_lang": "en",
-    "original_title": "Macroeconomic arena developments boost share market",
-    "file_name": "/tmp/news_lk2/articles/bc/bc6eb3d7.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/reckless-spending-by-governments-and-public-sector-created-debt-crisis-prof-lakshman-watawala/",
-    "time_ut": 1660756800,
-    "original_lang": "en",
-    "original_title": "Reckless spending by governments and public sector created debt crisis \u2013 Prof. Lakshman Watawala",
-    "file_name": "/tmp/news_lk2/articles/33/33564160.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-rupee-guidance-peg-yields-in-t-bonds-little-changed-ahead-of-cb-policy-rates-announcement-98711/",
-    "time_ut": 1660753800,
-    "original_lang": "en",
-    "original_title": "Sri Lanka rupee guidance peg, yields in T-bonds little changed ahead of CB policy rates announcement",
-    "file_name": "/tmp/news_lk2/articles/d7/d74f5c4b.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-stocks-down-for-second-session-on-profit-taking-after-gaining-rally-98710/",
-    "time_ut": 1660753080,
-    "original_lang": "en",
-    "original_title": "Sri Lanka stocks down for second session on profit taking after gaining rally",
-    "file_name": "/tmp/news_lk2/articles/71/71966c90.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-stocks-down-for-second-session-on-profit-taking-98710/",
-    "time_ut": 1660753080,
-    "original_lang": "en",
-    "original_title": "Sri Lanka stocks down for second session on profit taking",
-    "file_name": "/tmp/news_lk2/articles/41/41e821d1.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba-\u0db4\u0dd4\u0dad\u0dca\u0dad\u0dd4-\u0d85\u0daf-\u0dad\u0dd9\u0dbd\u0dca-\u0dc0\u0dbd\u0dd2\u0db1\u0dd4\u0dad\u0dca-\u0d9c\u0dc3\u0dcf-\u0d9a\u0db1\u0dc0\u0dcf\u0daf\u0dd0\u0dba\u0dd2-\u0dc3\u0dd0\u0d9a\u0dba\u0dd2/11-396390",
-    "time_ut": 1660752576,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba \u0db4\u0dd4\u0dad\u0dca\u0dad\u0dd4 \u0d85\u0daf \u0dad\u0dd9\u0dbd\u0dca \u0dc0\u0dbd\u0dd2\u0db1\u0dd4\u0dad\u0dca \u0d9c\u0dc3\u0dcf \u0d9a\u0db1\u0dc0\u0dcf\u0daf\u0dd0\u0dba\u0dd2 \u0dc3\u0dd0\u0d9a\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/39/39c82939.json"
   }
 ]

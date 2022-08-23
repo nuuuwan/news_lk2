@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-23 05:28:51 (LK time)*
+*As of 2022-08-23 05:48:37 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3258a599.json))
-
-## Last 3 Hours (4 Articles)
-
-* **2** daily-ft-lk ([Chinese research ship Yuan Wang 5 leaves Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65c7bf25.json))
+## Last 3 Hours (2 Articles)
 
 * **1** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3258a599.json))
 
 * **1** economy-next-com ([Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e7d91a9.json))
 
-## Last 24 Hours (235 Articles)
+## Last 24 Hours (241 Articles)
 
 * **56** lankadeepa-lk ([ගෝඨාභය යුද අධිකරණය යවන්නැයි සංදේශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f1bcfa.json))
 
@@ -34,9 +28,11 @@
 
 * **11** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
 
+* **6** island-lk ([Ban on open accounts on imports pepping share market](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/008aff32.json))
+
 * **1** colombo-telegraph-com ([Sri Lanka: Protesters Must Not Be Detained Under The Draconian Anti-Terror Law: Amnesty International](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f24273.json))
 
-## Last Week (1,387 Articles)
+## Last Week (1,398 Articles)
 
 * **263** lankadeepa-lk ([විසි දෙකට කඹ ඇදිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/503d62f2.json))
 
@@ -54,13 +50,13 @@
 
 * **65** daily-ft-lk ([Provisional approval for two Adani Group wind power projects worth $ 500 m](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27e54012.json))
 
-* **54** island-lk ([SL seen as losing billions of dollars as a result of not making use of her locational advantage](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e52cd6c3.json))
+* **65** island-lk ([SL seen as losing billions of dollars as a result of not making use of her locational advantage](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e52cd6c3.json))
 
 * **14** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
 * **10** d-b-s-jeyaraj-com ([Police use Tear Gas and Water Cannon to  Disperse Protest Demonstration Organized by the Inter-University Student Federation;Six persons including Wasantha Mudalige  taken into custody](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd7d49cb.json))
 
-## All Time (2,259 Articles)
+## All Time (2,270 Articles)
 
 * **399** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,6 +76,6 @@
 
 * **126** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 
-* **102** island-lk ([Lanka’s misery should be warning to us all on global food, fuel and finance crisis: UNDP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564b2893.json))
+* **113** island-lk ([Lanka’s misery should be warning to us all on global food, fuel and finance crisis: UNDP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564b2893.json))
 
 * **38** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))
