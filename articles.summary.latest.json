@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a-\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0bb5\u0bb4\u0bae\u0bc8-\u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bc1-\u0baa\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-302908",
+    "time_ut": 1661279076,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0bae\u0bc8 \u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/32/328f145f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe-\u0baa\u0bc7\u0bb0\u0bb4\u0bbf\u0bb5\u0bc1-\u0ba8\u0bbf\u0bb2\u0bc8-\u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bb2\u0bbe\u0bae\u0bcd/175-302907",
     "time_ut": 1661277151,
     "original_lang": "ta",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "12 arrested during protest by university students in Colombo",
     "file_name": "/tmp/news_lk2/articles/d8/d8013cbf.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/18/update-11-more-arrested-alongside-iusf-convener/",
-    "time_ut": 1660836540,
-    "original_lang": "en",
-    "original_title": "UPDATE: 11 more arrested alongside IUSF convener",
-    "file_name": "/tmp/news_lk2/articles/3b/3b95e2f8.json"
   }
 ]
