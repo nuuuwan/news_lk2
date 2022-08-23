@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bbf\u0ba9\u0bcd-\u0b9a\u0baa\u0bcd\u0baa\u0bbe\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0baa\u0bbe\u0bae\u0bcd\u0baa\u0bc1-\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf/175-302877",
+    "time_ut": 1661258974,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bbf\u0ba9\u0bcd \u0b9a\u0baa\u0bcd\u0baa\u0bbe\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0baa\u0bbe\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/d7/d73319a2.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2-\u0da9\u0dd3\u0dc3\u0dbd\u0dca---\u0d9c\u0dd4\u0dc0\u0db1\u0dca\u0dba\u0dcf\u0db1\u0dcf-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0da7\u0ddc\u0db1\u0dca-40-000-\u0d9a\u0dca-\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca-\u0d9a\u0dbb\u0d9c\u0db1\u0dd3/101-618636",
+    "time_ut": 1661258554,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2 \u0da9\u0dd3\u0dc3\u0dbd\u0dca - \u0d9c\u0dd4\u0dc0\u0db1\u0dca\u0dba\u0dcf\u0db1\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1 \u0da7\u0ddc\u0db1\u0dca 40,000 \u0d9a\u0dca \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca \u0d9a\u0dbb\u0d9c\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/3b/3b014392.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84492/ex-president-gotabaya-may-return-home-by-early-september-sources",
     "time_ut": 1661258340,
@@ -54,6 +70,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka state radio station awards solar farm contract to private firm",
     "file_name": "/tmp/news_lk2/articles/e6/e65993ab.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-state-radio-awards-solar-farm-deal-98919/",
+    "time_ut": 1661257500,
+    "original_lang": "en",
+    "original_title": "Sri Lanka state radio awards solar farm deal",
+    "file_name": "/tmp/news_lk2/articles/c1/c199f83d.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
