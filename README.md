@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-24 01:27:54 (LK time)*
+*As of 2022-08-24 01:47:12 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,15 +8,15 @@
 
 * **1** ada-derana-lk ([Sri Lanka aims to cut fiscal deficit in budget 2023](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/444a0ec7.json))
 
-## Last 3 Hours (7 Articles)
-
-* **3** tamil-mirror-lk ([சிறுவர் இல்லத்தில் இருந்த மூவர் தப்பியோட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86d7dd52.json))
+## Last 3 Hours (5 Articles)
 
 * **2** ada-derana-lk ([State sector employees required to report for duty as usual](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbf47555.json))
 
-* **2** economy-next-com ([Sri Lanka halts imports of over 300 items](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a96f0522.json))
+* **2** tamil-mirror-lk ([’கொரோனா பேரழிவு நிலை உருவாகலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc3c3033.json))
 
-## Last 24 Hours (223 Articles)
+* **1** economy-next-com ([Sri Lanka President allows imports of electrical bikes amid soft-peg crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3dde096.json))
+
+## Last 24 Hours (222 Articles)
 
 * **52** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43863138.json))
 
@@ -32,11 +32,11 @@
 
 * **23** daily-mirror-lk ([National inflation increases to 66.7%](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01fffc8f.json))
 
-* **8** daily-ft-lk ([Kerosene price hike: Setting the rural and urban periphery on fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5ac80b6.json))
+* **6** daily-ft-lk ([Five ways to connect Sri Lanka’s small businesses to global value chains](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95ca79f0.json))
 
-* **1** colombo-telegraph-com ([Wickremesinghe/Rajapaksa – An Axis Of Evil](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afed3211.json))
+* **2** colombo-telegraph-com ([Wickremesinghe/Rajapaksa – An Axis Of Evil](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afed3211.json))
 
-## Last Week (1,413 Articles)
+## Last Week (1,414 Articles)
 
 * **275** lankadeepa-lk ([කෝටි 24 කොකේන් සමග පෝලන්ත ජාතිකයා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68c8b78e.json))
 
@@ -56,11 +56,11 @@
 
 * **57** island-lk ([Reckless spending by governments and public sector created debt crisis – Prof. Lakshman Watawala](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33564160.json))
 
-* **15** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
+* **16** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
 * **11** d-b-s-jeyaraj-com ([Police use Tear Gas and Water Cannon to  Disperse Protest Demonstration Organized by the Inter-University Student Federation;Six persons including Wasantha Mudalige  taken into custody](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd7d49cb.json))
 
-## All Time (2,488 Articles)
+## All Time (2,489 Articles)
 
 * **451** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -82,4 +82,4 @@
 
 * **113** island-lk ([Lanka’s misery should be warning to us all on global food, fuel and finance crisis: UNDP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564b2893.json))
 
-* **39** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))
+* **40** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))

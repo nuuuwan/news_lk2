@@ -152,6 +152,14 @@
     "file_name": "/tmp/news_lk2/articles/6a/6a2218e4.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/an-english-language-primer-focused-on-sri-lanka-raising-alarm-bells-on-sri-lankan-english/",
+    "time_ut": 1661265546,
+    "original_lang": "en",
+    "original_title": "An English Language Primer Focused On Sri Lanka: Raising Alarm Bells On Sri Lankan English",
+    "file_name": "/tmp/news_lk2/articles/b5/b50d08f0.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-shares-slip-on-profit-taking-in-lolc-jkh-98930/",
     "time_ut": 1661265420,
@@ -177,11 +185,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/PTA-a-must-to-tackle-terrorism-Cabinet-Spokesman/108-243581",
+    "url": "https://www.dailymirror.lk/latest_news/PTA-a-must-to-tackle-terrorism-Cabinet-Spokesman/342-243581",
     "time_ut": 1661264930,
     "original_lang": "en",
     "original_title": "PTA, a must to tackle terrorism: Cabinet Spokesman",
-    "file_name": "/tmp/news_lk2/articles/b7/b75a5281.json"
+    "file_name": "/tmp/news_lk2/articles/8d/8df328ec.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka rupee, yields in govt securities slightly changed",
     "file_name": "/tmp/news_lk2/articles/9b/9b9ce7e6.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84387/12-arrested-following-protest-by-university-students-in-colombo",
-    "time_ut": 1660836660,
-    "original_lang": "en",
-    "original_title": "12 arrested following protest by university students in Colombo",
-    "file_name": "/tmp/news_lk2/articles/8d/8d4f62f4.json"
   }
 ]
