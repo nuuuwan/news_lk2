@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe-\u0baa\u0bc7\u0bb0\u0bb4\u0bbf\u0bb5\u0bc1-\u0ba8\u0bbf\u0bb2\u0bc8-\u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bb2\u0bbe\u0bae\u0bcd/175-302907",
+    "time_ut": 1661277151,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0baa\u0bc7\u0bb0\u0bb4\u0bbf\u0bb5\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bb2\u0bbe\u0bae\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/dc/dc3c3033.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-allows-imports-of-electrical-bikes-amid-soft-peg-crisis-98941/",
+    "time_ut": 1661276760,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President allows imports of electrical bikes amid soft-peg crisis",
+    "file_name": "/tmp/news_lk2/articles/d3/d3dde096.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84495/state-sector-employees-required-to-report-for-duty-as-usual",
     "time_ut": 1661275380,
