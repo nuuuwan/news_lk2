@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dcf\u0dc4\u0db1-\u0db1\u0ddc\u0dc0\u0db1-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca/1-618612",
+    "time_ut": 1661243682,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dcf\u0dc4\u0db1 \u0db1\u0ddc\u0dc0\u0db1 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/2b/2b87d86b.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/23/non-vehicle-fuel-requirement-registration-from-1st-week-of-september/",
     "time_ut": 1661243520,
     "original_lang": "en",
     "original_title": "Non-vehicle fuel requirement registration from 1st week of September",
     "file_name": "/tmp/news_lk2/articles/c2/c257ca54.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd0\u0da7\u0dbb\u0db9-\u0d9a\u0db4\u0dd4\u0dc0\u0dcf\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a\u0dca/1-618611",
+    "time_ut": 1661243488,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd0\u0da7\u0dbb\u0db9 \u0d9a\u0db4\u0dd4\u0dc0\u0dcf\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/f5/f5ad8c5b.json"
   },
   {
     "newspaper_id": "ada-lk",
