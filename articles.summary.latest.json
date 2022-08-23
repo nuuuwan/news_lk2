@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84495/state-sector-employees-required-to-report-for-duty-as-usual",
+    "time_ut": 1661275380,
+    "original_lang": "en",
+    "original_title": "State sector employees required to report for duty as usual",
+    "file_name": "/tmp/news_lk2/articles/cb/cbf47555.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-halts-imports-of-over-300-items-98937/",
     "time_ut": 1661274420,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Protest at customs...",
     "file_name": "/tmp/news_lk2/articles/64/64e36372.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/18/let-basil-be-tissa-kuttiarachchi/",
-    "time_ut": 1660835460,
-    "original_lang": "en",
-    "original_title": "Let Basil be: Tissa Kuttiarachchi",
-    "file_name": "/tmp/news_lk2/articles/4c/4c5ab4fd.json"
   }
 ]
