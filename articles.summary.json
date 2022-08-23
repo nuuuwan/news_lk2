@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/non-vehicle-fuel-requirement-registration-from-1st-week-of-september/",
+    "time_ut": 1661243520,
+    "original_lang": "en",
+    "original_title": "Non-vehicle fuel requirement registration from 1st week of September",
+    "file_name": "/tmp/news_lk2/articles/c2/c257ca54.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddd\u0da7\u0dd2-\u0d9c\u0dab\u0db1\u0d9a-\u0dc3\u0dc4\u0dbd\u0dca-\u0dc0\u0d82\u0da0\u0dcf-\u0d9a\u0dc5-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396550",
+    "time_ut": 1661242124,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 \u0d9c\u0dab\u0db1\u0d9a \u0dc3\u0dc4\u0dbd\u0dca \u0dc0\u0d82\u0da0\u0dcf \u0d9a\u0dc5 \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/a7/a7940f4f.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd\u0da7-\u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca-\u0da2\u0db1\u0dad\u0dcf-\u0db6\u0daf\u0dd4-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0db6\u0dd1/11-396549",
     "time_ut": 1661241421,
@@ -94,6 +110,14 @@
     "original_lang": "si",
     "original_title": "\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0d9a\u0dd4\u0da7 \u0dc3\u0dd4\u0daf\u0dca\u0daf\u0dba\u0d9a\u0dca \u0daf\u0dd0\u0db8\u0dd6 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
     "file_name": "/tmp/news_lk2/articles/97/979f755d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/SATHOSA-lowers-prices-of-5-essential-goods/342-243564",
+    "time_ut": 1661238054,
+    "original_lang": "en",
+    "original_title": "SATHOSA lowers prices of 5 essential goods",
+    "file_name": "/tmp/news_lk2/articles/ff/ff89ddbf.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
