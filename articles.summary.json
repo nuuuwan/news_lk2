@@ -576,6 +576,14 @@
     "file_name": "/tmp/news_lk2/articles/fa/fa1d8483.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0da2\u0dba\u0dda-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3-\u0d9a\u0dcf\u0dbb\u0d9a-\u0dc3\u0db7\u0dcf\u0dc0-\u0dc4\u0dbb\u0dca\u0dc2\u0d9c\u0dda-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-396562",
+    "time_ut": 1661252567,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da2\u0dba\u0dda \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0 \u0dc4\u0dbb\u0dca\u0dc2\u0d9c\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/5b/5bd1452d.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/23/3-hour-power-cut-approved-for-wednesday-24/",
     "time_ut": 1661252520,
