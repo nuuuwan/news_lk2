@@ -1,5 +1,85 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0daf\u0dd4\u0dc0\u0db1-\u0db6\u0dc3\u0dca\u0dbb\u0dae-\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dbb\u0ddd\u0daf-\u0dbb\u0dae-\u0db8\u0dc4\u0db4\u0dcf\u0dbb\u0da7/1-618599",
+    "time_ut": 1661235230,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0daf\u0dd4\u0dc0\u0db1 \u0db6\u0dc3\u0dca\u0dbb\u0dae \u0dad\u0dca\u200d\u0dbb\u0dd3\u0dbb\u0ddd\u0daf \u0dbb\u0dae \u0db8\u0dc4\u0db4\u0dcf\u0dbb\u0da7",
+    "file_name": "/tmp/news_lk2/articles/58/582cc3d2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/haal-sameera-arrested-by-stf/",
+    "time_ut": 1661234820,
+    "original_lang": "en",
+    "original_title": "\u2018Haal Sameera\u2019 arrested by STF",
+    "file_name": "/tmp/news_lk2/articles/bc/bc28b136.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84478/hrcsl-recommends-to-provide-adequate-protection-to-ex-president-and-family",
+    "time_ut": 1661234760,
+    "original_lang": "en",
+    "original_title": "HRCSL recommends to provide adequate protection to ex-President and family",
+    "file_name": "/tmp/news_lk2/articles/1e/1ef64cf8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf-\u0db4\u0dd2\u0dbb\u0dd2\u0db4\u0dc4\u0daf\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db7\u0dd6\u0db8\u0dd2\u0dad\u0dd9\u0dbd\u0dca-\u0dbd\u0dd3\u0da7\u0dbb-\u0dbd\u0d9a\u0dca\u200d\u0dc2-10\u0d9a\u0dca-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-618597",
+    "time_ut": 1661234687,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf \u0db4\u0dd2\u0dbb\u0dd2\u0db4\u0dc4\u0daf\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db7\u0dd6\u0db8\u0dd2\u0dad\u0dd9\u0dbd\u0dca \u0dbd\u0dd3\u0da7\u0dbb \u0dbd\u0d9a\u0dca\u200d\u0dc2 10\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4d/4d39e240.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dbd\u0dcf\u0db7-\u0dbd\u0db6\u0db1-\u0d87\u0dad\u0dd0\u0db8\u0dca-\u0dbb\u0da2\u0dba\u0dda-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb-\u0dc0\u0dc3\u0dcf-\u0daf\u0db8\u0db1\u0dca\u0db1-\u0dc0\u0dd9\u0db1\u0dc0\u0dcf/11-396544",
+    "time_ut": 1661234624,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbd\u0dcf\u0db7 \u0dbd\u0db6\u0db1 \u0d87\u0dad\u0dd0\u0db8\u0dca \u0dbb\u0da2\u0dba\u0dda \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb \u0dc0\u0dc3\u0dcf \u0daf\u0db8\u0db1\u0dca\u0db1 \u0dc0\u0dd9\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/9f/9ffa6afc.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/23/18-trillion-wiped-off-global-markets-in-first-half-of-2022-wfe-data-reveals/",
+    "time_ut": 1661234280,
+    "original_lang": "en",
+    "original_title": "$18 Trillion Wiped Off Global Markets in First Half of 2022, WFE Data Reveals",
+    "file_name": "/tmp/news_lk2/articles/d8/d846a426.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0ba9\u0bcd\u0b95\u0bb3\u0bc8-\u0b89\u0ba3\u0bcd\u0b9f-\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd-\u0b86\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0ba9/76-302857",
+    "time_ut": 1661234142,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0b89\u0ba3\u0bcd\u0b9f \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd  \u0b86\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0ba9",
+    "file_name": "/tmp/news_lk2/articles/76/761ca4bd.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf-\u0d9c\u0dd0\u0db1-\u0db8\u0dcf\u0db1\u0dc0-\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dd9\u0db1\u0dca-\u0dbb\u0da2\u0dba\u0da7-\u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1\u0dba\u0d9a\u0dca/1-618595",
+    "time_ut": 1661233992,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf \u0d9c\u0dd0\u0db1 \u0db8\u0dcf\u0db1\u0dc0 \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dd9\u0db1\u0dca \u0dbb\u0da2\u0dba\u0da7 \u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/d2/d207ffd5.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbd\u0db6\u0db1-\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0dda-\u0d89\u0dbd\u0d9a\u0dca\u0d9a/11-396542",
+    "time_ut": 1661233948,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0db6\u0db1 \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0dda \u0d89\u0dbd\u0d9a\u0dca\u0d9a",
+    "file_name": "/tmp/news_lk2/articles/1b/1bcf4a93.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0dbd\u0ddd\u0d9a-\u0d86\u0dc4\u0dcf\u0dbb-\u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba\u0dda-5\u0dc0\u0dd0\u0db1\u0dd2-\u0dad\u0dd0\u0db1\u0da7/1-618594",
+    "time_ut": 1661233839,
+    "original_lang": "si",
+    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dbd\u0ddd\u0d9a \u0d86\u0dc4\u0dcf\u0dbb \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba\u0dda 5\u0dc0\u0dd0\u0db1\u0dd2 \u0dad\u0dd0\u0db1\u0da7",
+    "file_name": "/tmp/news_lk2/articles/59/59d0c612.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/23/electric-buses-three-wheelers-soon-to-sl/",
     "time_ut": 1661233560,
@@ -54,6 +134,22 @@
     "original_lang": "en",
     "original_title": "Train derails in Rosella",
     "file_name": "/tmp/news_lk2/articles/53/535dbe1a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0db1\u0dca-\u0db8\u0dcf\u0dbd\u0dba\u0d9a\u0dca-\u0dc3\u0dc4-\u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1\u0dba\u0d9a\u0dca-\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0d9a\u0dd1-\u0db8\u0dcf\u0dbd\u0db9\u0dda-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda-04\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396541",
+    "time_ut": 1661232589,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dca \u0db8\u0dcf\u0dbd\u0dba\u0d9a\u0dca \u0dc3\u0dc4 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1\u0dba\u0d9a\u0dca \u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0d9a\u0dd1 \u0db8\u0dcf\u0dbd\u0db9\u0dda \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda 04\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/08/08b4af3e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0dbb\u0da7\u0da7-\u0d91\u0db1\u0dca\u0db1-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dc0\u0dad\u0dca-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0d9a\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1---\u0db8\u0dcf-\u0dc4\u0dd2-\u0d9a\u0ddc/11-396540",
+    "time_ut": 1661232551,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0dbb\u0da7\u0da7 \u0d91\u0db1\u0dca\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dc0\u0dad\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0d9a\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1 - \u0db8\u0dcf.\u0dc4\u0dd2.\u0d9a\u0ddc",
+    "file_name": "/tmp/news_lk2/articles/c8/c83a2eb1.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -344,6 +440,14 @@
     "file_name": "/tmp/news_lk2/articles/c4/c41c9a5b.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/wickremesinghe-rajapaksa-an-axis-of-evil/",
+    "time_ut": 1661215064,
+    "original_lang": "en",
+    "original_title": "Wickremesinghe/Rajapaksa \u2013 An Axis Of Evil",
+    "file_name": "/tmp/news_lk2/articles/af/afed3211.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/world_news/\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab-\u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba-\u0dc0\u0dd0\u0dbb\u0dd0\u0daf\u0dd2\u0dbd\u0dcf-\u0da2\u0d82\u0da2\u0dcf\u0dbd\u0dba\u0d9a\u0dca/14-618575",
     "time_ut": 1661210062,
@@ -577,11 +681,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/front_page/Aragalaya-causes-Rs-5-million-in-damages-to-Galle-Face-Ministry/238-243521",
+    "url": "https://www.dailymirror.lk/breaking_news/Aragalaya-causes-Rs-5-million-in-damages-to-Galle-Face-Ministry/108-243521",
     "time_ut": 1661188482,
     "original_lang": "en",
     "original_title": "Aragalaya causes Rs.5 million in damages to Galle Face: Ministry",
-    "file_name": "/tmp/news_lk2/articles/38/38195116.json"
+    "file_name": "/tmp/news_lk2/articles/5b/5b83b7f1.json"
   },
   {
     "newspaper_id": "island-lk",
