@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-24 02:27:41 (LK time)*
+*As of 2022-08-24 02:48:33 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,7 +10,7 @@
 
 * **1** tamil-mirror-lk ([அரச ஊழியர்களை வழமை போன்று பணிக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/328f145f.json))
 
-## Last 24 Hours (219 Articles)
+## Last 24 Hours (216 Articles)
 
 * **52** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43863138.json))
 
@@ -26,11 +26,9 @@
 
 * **23** daily-mirror-lk ([National inflation increases to 66.7%](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01fffc8f.json))
 
-* **3** daily-ft-lk ([Right of Reply: Qualification of MPs](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/9237b6e7.json))
-
 * **2** colombo-telegraph-com ([Wickremesinghe/Rajapaksa – An Axis Of Evil](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afed3211.json))
 
-## Last Week (1,412 Articles)
+## Last Week (1,411 Articles)
 
 * **275** lankadeepa-lk ([කෝටි 24 කොකේන් සමග පෝලන්ත ජාතිකයා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68c8b78e.json))
 
@@ -40,9 +38,9 @@
 
 * **189** ada-lk ([ඩයස්පෝරාවේ සහාය ගන්න ඩයස්පෝරා කාර්යාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdae4c18.json))
 
-* **158** daily-mirror-lk ([Govt. seeks multi-party consensus to set up private universities](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/014cf39e.json))
-
 * **157** ada-derana-lk ([Showers or thundershowers expected in five provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc79d8bb.json))
+
+* **157** daily-mirror-lk ([Central Bank lifts forced dollar conversion rule on services export receipts](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffec3ee3.json))
 
 * **99** economy-next-com ([Sri Lanka to launch new weekend long-distance train and bus service](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50022422.json))
 
