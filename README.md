@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-23 05:48:37 (LK time)*
+*As of 2022-08-23 06:22:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -14,11 +14,11 @@
 
 * **56** lankadeepa-lk ([ගෝඨාභය යුද අධිකරණය යවන්නැයි සංදේශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f1bcfa.json))
 
-* **37** tamil-mirror-lk ([அம்பலாங்கொடையில் துப்பாக்கிச் சூடு: இருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19d590b5.json))
+* **38** tamil-mirror-lk ([அம்பலாங்கொடையில் துப்பாக்கிச் சூடு: இருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19d590b5.json))
 
 * **36** ada-lk ([දෙල්දුව වෙඩි තැබීමෙන් දෙදෙනෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c70ce0dd.json))
 
-* **28** news-first-lk ([Heavy rains expected today (22)](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/288362c4.json))
+* **27** news-first-lk ([SLN seized illegal petrol worth over Rs.900,000 Kalpitiya](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fedaaaea.json))
 
 * **26** ada-derana-lk ([Fairly heavy rainfall expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/071d6ef3.json))
 
@@ -32,7 +32,7 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka: Protesters Must Not Be Detained Under The Draconian Anti-Terror Law: Amnesty International](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f24273.json))
 
-## Last Week (1,398 Articles)
+## Last Week (1,399 Articles)
 
 * **263** lankadeepa-lk ([විසි දෙකට කඹ ඇදිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/503d62f2.json))
 
@@ -40,7 +40,7 @@
 
 * **185** ada-lk ([චීන නැව එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/2877cbec.json))
 
-* **183** tamil-mirror-lk ([சட்டத்தரணிகளான பொலிஸ் அதிகாரிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/4295bcbf.json))
+* **184** tamil-mirror-lk ([சட்டத்தரணிகளான பொலிஸ் அதிகாரிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/4295bcbf.json))
 
 * **160** daily-mirror-lk ([Chinese vessel ’Yuan Wang 5’ arrives](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/203a4b50.json))
 
@@ -56,7 +56,7 @@
 
 * **10** d-b-s-jeyaraj-com ([Police use Tear Gas and Water Cannon to  Disperse Protest Demonstration Organized by the Inter-University Student Federation;Six persons including Wasantha Mudalige  taken into custody](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd7d49cb.json))
 
-## All Time (2,270 Articles)
+## All Time (2,271 Articles)
 
 * **399** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -66,7 +66,7 @@
 
 * **254** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
-* **233** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **234** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **206** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
