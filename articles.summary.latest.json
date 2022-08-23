@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0ba3\u0bbf-\u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f-\u0bae\u0bc2\u0bb5\u0bb0\u0bcd-\u0b95\u0bc1\u0bb3\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0b95\u0bbf\u0ba9\u0bb0\u0bcd/76-302870",
+    "time_ut": 1661245464,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0ba3\u0bbf \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0b95\u0bc1\u0bb3\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0b95\u0bbf\u0ba9\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/66/669bc74e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84483/non-vehicle-fuel-requirement-registration-and-tourist-fuel-pass-to-be-introduced",
+    "time_ut": 1661245320,
+    "original_lang": "en",
+    "original_title": "Non-vehicle fuel requirement registration and Tourist Fuel Pass to be introduced",
+    "file_name": "/tmp/news_lk2/articles/96/96dabe36.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/what-should-modern-independent-india-be-and-how-can-it-get-there-98907/",
+    "time_ut": 1661244960,
+    "original_lang": "en",
+    "original_title": "What should modern independent India be and how can it get there?",
+    "file_name": "/tmp/news_lk2/articles/85/85834967.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-cut-damage-payments-to-passengers-by-domestic-airlines-98906/",
+    "time_ut": 1661244420,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to cut damage payments to passengers by domestic airlines",
+    "file_name": "/tmp/news_lk2/articles/a4/a4a2ebe4.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dcf\u0dc4\u0db1-\u0db1\u0ddc\u0dc0\u0db1-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca/1-618612",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dcf\u0dc4\u0db1-\u0db1\u0ddc\u0dc0\u0db1-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca/101-618612",
     "time_ut": 1661243682,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dcf\u0dc4\u0db1 \u0db1\u0ddc\u0dc0\u0db1 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/2b/2b87d86b.json"
+    "file_name": "/tmp/news_lk2/articles/43/43421c1c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -22,6 +54,14 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0dd0\u0da7\u0dbb\u0db9 \u0d9a\u0db4\u0dd4\u0dc0\u0dcf\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/f5/f5ad8c5b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0da7\u0d9a\u0da2\u0dd4-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0dc3\u0dca\u0dc0\u0dba\u0d82\u0db4\u0ddd\u0dc2\u0dd2\u0dad\u0dba\u0dd2/11-396551",
+    "time_ut": 1661242986,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da7\u0d9a\u0da2\u0dd4 \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc3\u0dca\u0dc0\u0dba\u0d82\u0db4\u0ddd\u0dc2\u0dd2\u0dad\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/76/761d5179.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -617,11 +657,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Haal-Sameera-arrested-with-firearms-in-Minuwangoda-for-extortion/342-243559",
+    "url": "https://www.dailymirror.lk/breaking_news/Haal-Sameera-arrested-with-firearms-in-Minuwangoda-for-extortion/108-243559",
     "time_ut": 1661224635,
     "original_lang": "en",
     "original_title": "\u2019Haal Sameera\u2019 arrested with firearms in Minuwangoda for extortion",
-    "file_name": "/tmp/news_lk2/articles/2b/2bd9b3d9.json"
+    "file_name": "/tmp/news_lk2/articles/10/105831c4.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "China To Participate In Russia Military Drills, Says India Will Join Too",
     "file_name": "/tmp/news_lk2/articles/96/96097de5.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19\u2019-\u0dc0\u0dba\u0dd2\u0dbb\u0dc3\u0dba\u0dd9\u0db1\u0dca-\u0db8\u0ddc\u0dc5\u0dba\u0da7-\u0dc0\u0db1-\u0dc4\u0dcf\u0db1\u0dd2\u0dba-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dcf\u0dbd\u0dd3\u0db1\u0dba\u0dd2/101-618325",
-    "time_ut": 1660808264,
-    "original_lang": "si",
-    "original_title": "\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca 19\u2019 \u0dc0\u0dba\u0dd2\u0dbb\u0dc3\u0dba\u0dd9\u0db1\u0dca \u0db8\u0ddc\u0dc5\u0dba\u0da7 \u0dc0\u0db1 \u0dc4\u0dcf\u0db1\u0dd2\u0dba \u0daf\u0dd2\u0d9c\u0dd4 \u0d9a\u0dcf\u0dbd\u0dd3\u0db1\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ff/ffab5f67.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/18/obviously-of-interest-to-us-jaishankar-on-yuan-wang-5/",
-    "time_ut": 1660808220,
-    "original_lang": "en",
-    "original_title": "\u201cObviously of interest to us\u201d \u2013 Jaishankar on Yuan Wang 5",
-    "file_name": "/tmp/news_lk2/articles/54/545e282e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-shares-edge-up-in-mid-day-trade-98749/",
-    "time_ut": 1660808100,
-    "original_lang": "en",
-    "original_title": "Sri Lanka shares edge up in mid-day trade",
-    "file_name": "/tmp/news_lk2/articles/b0/b0eaaeea.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/18/imf-to-visit-sri-lanka-in-late-august-cbsl-chief/",
-    "time_ut": 1660807440,
-    "original_lang": "en",
-    "original_title": "IMF to visit Sri Lanka in late August: CBSL Chief",
-    "file_name": "/tmp/news_lk2/articles/ed/ed4fb01c.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-debt-can-be-made-sustainable-without-re-structuring-domestic-borrowings-cb-governor-98754/",
-    "time_ut": 1660807440,
-    "original_lang": "en",
-    "original_title": "Sri Lanka debt can be made sustainable without re-structuring domestic borrowings: CB Governor",
-    "file_name": "/tmp/news_lk2/articles/c7/c71b92ee.json"
   }
 ]
