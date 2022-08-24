@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b87\u0bb0\u0bc1-\u0b95\u0bc1\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bc8\u0baf\u0bc7-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/95-302918",
+    "time_ut": 1661313360,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb0\u0bc1 \u0b95\u0bc1\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bc8\u0baf\u0bc7 \u0bae\u0bcb\u0ba4\u0bb2\u0bcd; \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ab/abfbf77d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/24/imf-delegation-in-sri-lanka-for-talks-on-economic-and-financial-reforms/",
+    "time_ut": 1661313300,
+    "original_lang": "en",
+    "original_title": "IMF delegation in Sri Lanka for talks on economic and financial reforms",
+    "file_name": "/tmp/news_lk2/articles/ea/eac97271.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/egg-in-the-face-of-sri-lanka-presidents-social-market-economy-98944/",
     "time_ut": 1661312760,
@@ -1921,11 +1937,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/US-18tn-wiped-off-from-global-markets-in-first-half-of-2022-WFE-data-reveals/108-243551",
+    "url": "https://www.dailymirror.lk/business-news/US-18tn-wiped-off-from-global-markets-in-first-half-of-2022-WFE-data-reveals/273-243551",
     "time_ut": 1661203855,
     "original_lang": "en",
     "original_title": "US $ 18tn wiped off from global markets in first half of 2022, WFE data reveals",
-    "file_name": "/tmp/news_lk2/articles/bc/bcb427e2.json"
+    "file_name": "/tmp/news_lk2/articles/b5/b5149a8f.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
