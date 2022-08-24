@@ -1,14 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-24 05:27:39 (LK time)*
+*As of 2022-08-24 06:02:58 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (2 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** daily-ft-lk ([First tribal woman president symbolises India’s pluralist legacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a998f7.json))
+* **1** daily-ft-lk ([Kanchana updates on fuel supplies](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a07887a.json))
 
-## Last 24 Hours (213 Articles)
+## Last Hour (1 Articles)
+
+* **1** daily-ft-lk ([Kanchana updates on fuel supplies](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a07887a.json))
+
+## Last 3 Hours (3 Articles)
+
+* **3** daily-ft-lk ([First tribal woman president symbolises India’s pluralist legacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a998f7.json))
+
+## Last 24 Hours (214 Articles)
 
 * **51** lankadeepa-lk ([පොලීසිය අරලියගහ මන්දිරයේ තොරතුරු ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68bc09f1.json))
 
@@ -24,11 +32,11 @@
 
 * **20** daily-mirror-lk ([Silent protest near Slave Island Police station](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55b2fd01.json))
 
-* **2** daily-ft-lk ([First tribal woman president symbolises India’s pluralist legacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a998f7.json))
+* **3** daily-ft-lk ([First tribal woman president symbolises India’s pluralist legacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a998f7.json))
 
 * **2** colombo-telegraph-com ([Wickremesinghe/Rajapaksa – An Axis Of Evil](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afed3211.json))
 
-## Last Week (1,399 Articles)
+## Last Week (1,405 Articles)
 
 * **275** lankadeepa-lk ([කෝටි 24 කොකේන් සමග පෝලන්ත ජාතිකයා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68c8b78e.json))
 
@@ -44,15 +52,15 @@
 
 * **99** economy-next-com ([Sri Lanka to launch new weekend long-distance train and bus service](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50022422.json))
 
-* **57** island-lk ([Reckless spending by governments and public sector created debt crisis – Prof. Lakshman Watawala](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33564160.json))
+* **62** island-lk ([Reckless spending by governments and public sector created debt crisis – Prof. Lakshman Watawala](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33564160.json))
 
-* **54** daily-ft-lk ([Tamils will only invest in SL if Govt. provides political solution: Mavai](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a99e8c07.json))
+* **55** daily-ft-lk ([Tamils will only invest in SL if Govt. provides political solution: Mavai](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a99e8c07.json))
 
 * **16** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
 * **12** d-b-s-jeyaraj-com ([Police use Tear Gas and Water Cannon to  Disperse Protest Demonstration Organized by the Inter-University Student Federation;Six persons including Wasantha Mudalige  taken into custody](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd7d49cb.json))
 
-## All Time (2,492 Articles)
+## All Time (2,498 Articles)
 
 * **451** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -66,12 +74,12 @@
 
 * **230** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
-* **172** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
+* **173** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
 * **169** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 
 * **128** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 
-* **113** island-lk ([Lanka’s misery should be warning to us all on global food, fuel and finance crisis: UNDP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564b2893.json))
+* **118** island-lk ([Lanka’s misery should be warning to us all on global food, fuel and finance crisis: UNDP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564b2893.json))
 
 * **40** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))

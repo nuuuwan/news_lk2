@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Kanchana-updates-on-fuel-supplies/56-739018",
+    "time_ut": 1661299813,
+    "original_lang": "en",
+    "original_title": "Kanchana updates on fuel supplies",
+    "file_name": "/tmp/news_lk2/articles/7a/7a07887a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Aragalaya-trio-moved-to-Tangalle-detention-centre/4-739017",
     "time_ut": 1661293771,
     "original_lang": "en",
@@ -1936,6 +1944,14 @@
     "file_name": "/tmp/news_lk2/articles/70/70280c2a.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/singapore-scene-for-rajiv/",
+    "time_ut": 1661189220,
+    "original_lang": "en",
+    "original_title": "Singapore scene for Rajiv",
+    "file_name": "/tmp/news_lk2/articles/40/40559ce8.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db4\u0dda-\u0dc3\u0dda\u0dbd\u0dba\u0dd2\u0db1\u0dca-\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf-\u0dc0\u0dd9\u0dc5\u0dd9\u0db3-\u0db4\u0ddc\u0dc5\u0da7/1-618574",
     "time_ut": 1661188692,
@@ -1969,6 +1985,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/alft-sri-lankas-only-brc-a-certified-facility-marks-a-new-milestone-achievement/",
+    "time_ut": 1661188380,
+    "original_lang": "en",
+    "original_title": "ALFT, Sri Lanka\u2019s only BRC A+ certified facility marks a new milestone achievement",
+    "file_name": "/tmp/news_lk2/articles/21/21e2bb84.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/slid-webinar-sri-lankas-economy-the-next-6-months/",
     "time_ut": 1661188380,
     "original_lang": "en",
@@ -1985,6 +2009,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/korean-envoy-calls-on-prime-minister/",
+    "time_ut": 1661188320,
+    "original_lang": "en",
+    "original_title": "Korean envoy calls on Prime Minister",
+    "file_name": "/tmp/news_lk2/articles/7a/7aca8253.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/abans-finance-records-pbt-of-rs-114-million-in-quarter-one-of-fy-2022-2023/",
     "time_ut": 1661188320,
     "original_lang": "en",
@@ -1998,6 +2030,14 @@
     "original_lang": "en",
     "original_title": "Ban on open accounts on imports pepping share market",
     "file_name": "/tmp/news_lk2/articles/00/008aff32.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/18-trillion-wiped-off-global-markets-in-first-half-of-2022-wfe-data-reveals/",
+    "time_ut": 1661188260,
+    "original_lang": "en",
+    "original_title": "$18 trillion wiped off global markets in first half of 2022, WFE data reveals",
+    "file_name": "/tmp/news_lk2/articles/35/35d1ee8d.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -5454,6 +5494,14 @@
     "original_lang": "en",
     "original_title": "Jaffna University Vice-Chancellor Caught Copying & Cheating",
     "file_name": "/tmp/news_lk2/articles/aa/aac75776.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/aragalaya-machine-being-re-cranked/",
+    "time_ut": 1660991400,
+    "original_lang": "en",
+    "original_title": "Aragalaya machine being re-cranked?",
+    "file_name": "/tmp/news_lk2/articles/97/970df46c.json"
   },
   {
     "newspaper_id": "news-first-lk",
