@@ -89,6 +89,14 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84521/circular-issued-for-govt-officials-to-take-no-pay-leave-for-foreign-jobs",
+    "time_ut": 1661365680,
+    "original_lang": "en",
+    "original_title": "Circular issued for govt officials to take no-pay leave for foreign jobs",
+    "file_name": "/tmp/news_lk2/articles/ec/ec2b4f91.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84521/circular-issued-to-allow-govt-officials-to-take-up-foreign-jobs",
     "time_ut": 1661365680,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Disciplinary action against missing Beach VB players",
     "file_name": "/tmp/news_lk2/articles/b1/b173ad72.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84412/govt-officials-foreign-employment-and-referral-program-expedited",
-    "time_ut": 1660928820,
-    "original_lang": "en",
-    "original_title": "Govt officials\u2019 foreign employment and referral program expedited",
-    "file_name": "/tmp/news_lk2/articles/83/83f28e0a.json"
   }
 ]
