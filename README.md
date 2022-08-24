@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-25 02:55:03 (LK time)*
+*As of 2022-08-25 03:10:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (7 Articles)
+## Last 3 Hours (5 Articles)
 
 * **5** daily-ft-lk ([“Unleash excellence in the new normal”: SLASSCOM to hold 6th successive Quality Summit](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2ff27689.json))
-
-* **2** ada-derana-lk ([Circular issued to allow govt officials to take up foreign jobs](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b24e2d2c.json))
 
 ## Last 24 Hours (184 Articles)
 
