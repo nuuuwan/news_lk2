@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-25 04:48:06 (LK time)*
+*As of 2022-08-25 05:15:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,7 +8,7 @@
 
 * **4** daily-mirror-lk ([Beware the Neddas!](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48c54513.json))
 
-## Last 24 Hours (188 Articles)
+## Last 24 Hours (189 Articles)
 
 * **34** lankadeepa-lk ([තවත් භාණ්ඩ 300ක් ආනයනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f66d41f.json))
 
@@ -16,7 +16,7 @@
 
 * **28** news-first-lk ([IMF team to visit Sri Lanka today (24)](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4df9e7e6.json))
 
-* **26** ada-derana-lk ([Rainfall expected at times in several areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f78c7e89.json))
+* **27** ada-derana-lk ([Rainfall expected at times in several areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f78c7e89.json))
 
 * **21** tamil-mirror-lk ([ரயில் சேவையை முன்னெடுப்பதில் சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6a3f977.json))
 
@@ -26,7 +26,7 @@
 
 * **13** economy-next-com ([Egg in the face of Sri Lanka President’s ‘Social Market Economy’](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39240274.json))
 
-## Last Week (1,408 Articles)
+## Last Week (1,405 Articles)
 
 * **268** lankadeepa-lk ([අන්නාසි වගාව නැත්තටම නැති වෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaa714e.json))
 
@@ -38,11 +38,11 @@
 
 * **163** daily-mirror-lk ([GR applies for US Green Card, looks to settle back in US](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfceac11.json))
 
-* **162** ada-derana-lk ([Showers expected in several provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5b65e16.json))
+* **163** ada-derana-lk ([Showers expected in several provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5b65e16.json))
 
 * **97** economy-next-com ([Sri Lanka sell Rs60bn mostly in 3-month bills, yield up](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5cf3df2.json))
 
-* **69** daily-ft-lk ([Tamils will only invest in SL if Govt. provides political solution: Mavai](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a99e8c07.json))
+* **65** daily-ft-lk ([Harsha’s harsh blueprint and AKD as alternative](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84aa8372.json))
 
 * **51** island-lk ([CSE recovers following CBSL chief’s observations on local economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4800617.json))
 
@@ -50,7 +50,7 @@
 
 * **16** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
-## All Time (2,697 Articles)
+## All Time (2,698 Articles)
 
 * **485** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -62,7 +62,7 @@
 
 * **287** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
-* **256** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
+* **257** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
 * **187** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 

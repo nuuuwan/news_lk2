@@ -89,6 +89,14 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84521/circular-issued-for-govt-officials-to-take-no-pay-leave-for-foreign-jobs",
+    "time_ut": 1661365680,
+    "original_lang": "en",
+    "original_title": "Circular issued for govt officials to take no-pay leave for foreign jobs",
+    "file_name": "/tmp/news_lk2/articles/ec/ec2b4f91.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84521/circular-issued-for-govt-officials-on-taking-no-pay-leave-for-foreign-jobs",
     "time_ut": 1661365680,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Dialog promotes best data plans for entire family",
     "file_name": "/tmp/news_lk2/articles/f4/f47911b1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Disciplinary-action-against-missing-Beach-VB-players/108-243388",
-    "time_ut": 1660929031,
-    "original_lang": "en",
-    "original_title": "Disciplinary action against missing Beach VB players",
-    "file_name": "/tmp/news_lk2/articles/b1/b173ad72.json"
   }
 ]
