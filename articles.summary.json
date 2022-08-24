@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Beware-the-Neddas/172-243665",
+    "time_ut": 1661378228,
+    "original_lang": "en",
+    "original_title": "Beware the Neddas!",
+    "file_name": "/tmp/news_lk2/articles/48/48c54513.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Concerns-raised-on-insulting-comments-made-by-Sanath-Nishantha-against-judges/56-739077",
     "time_ut": 1661371349,
@@ -241,11 +249,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Postal-services-to-Russia-resumes-tomorrow/108-243654",
+    "url": "https://www.dailymirror.lk/latest_news/Postal-services-to-Russia-resumes-tomorrow/342-243654",
     "time_ut": 1661351776,
     "original_lang": "en",
     "original_title": "Postal services to Russia resumes tomorrow",
-    "file_name": "/tmp/news_lk2/articles/df/df7c656b.json"
+    "file_name": "/tmp/news_lk2/articles/d8/d86a209e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -1489,11 +1497,27 @@
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79130",
+    "time_ut": 1661281020,
+    "original_lang": "en",
+    "original_title": "President  Wickremesinghe granted his consent to a 90-day Detention Order (DO) for interrogation under the PTA, against IUSF Convener Wasantha Mudalige, based on submissions made to him by the Security Forces  Reveals Justice Minister Dr.Wijeyadasa Rajapakshe",
+    "file_name": "/tmp/news_lk2/articles/86/86fa8394.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/79123",
     "time_ut": 1661280480,
     "original_lang": "en",
     "original_title": "Police  Storm Into Press Conference Held at CSR in Maradana to Protest  Against Detention of Three IUSF  Activists Stating  they Want to Arrest Eranga Gunasekara the  National Organiser of the Socialist Youth Union without possessing a  Valid Arrest Warrant",
     "file_name": "/tmp/news_lk2/articles/da/da0935bb.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79132",
+    "time_ut": 1661279940,
+    "original_lang": "en",
+    "original_title": "Government Brings  temporary ban with effect from Aug 23  on the import of products from over 360 categories in a bid to save foreign exchange and support local manufacturers.",
+    "file_name": "/tmp/news_lk2/articles/25/25b4e2e0.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",

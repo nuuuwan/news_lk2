@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Beware-the-Neddas/172-243665",
+    "time_ut": 1661378228,
+    "original_lang": "en",
+    "original_title": "Beware the Neddas!",
+    "file_name": "/tmp/news_lk2/articles/48/48c54513.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Concerns-raised-on-insulting-comments-made-by-Sanath-Nishantha-against-judges/56-739077",
     "time_ut": 1661371349,
@@ -241,11 +249,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Postal-services-to-Russia-resumes-tomorrow/108-243654",
+    "url": "https://www.dailymirror.lk/latest_news/Postal-services-to-Russia-resumes-tomorrow/342-243654",
     "time_ut": 1661351776,
     "original_lang": "en",
     "original_title": "Postal services to Russia resumes tomorrow",
-    "file_name": "/tmp/news_lk2/articles/df/df7c656b.json"
+    "file_name": "/tmp/news_lk2/articles/d8/d86a209e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -1489,11 +1497,27 @@
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79130",
+    "time_ut": 1661281020,
+    "original_lang": "en",
+    "original_title": "President  Wickremesinghe granted his consent to a 90-day Detention Order (DO) for interrogation under the PTA, against IUSF Convener Wasantha Mudalige, based on submissions made to him by the Security Forces  Reveals Justice Minister Dr.Wijeyadasa Rajapakshe",
+    "file_name": "/tmp/news_lk2/articles/86/86fa8394.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/79123",
     "time_ut": 1661280480,
     "original_lang": "en",
     "original_title": "Police  Storm Into Press Conference Held at CSR in Maradana to Protest  Against Detention of Three IUSF  Activists Stating  they Want to Arrest Eranga Gunasekara the  National Organiser of the Socialist Youth Union without possessing a  Valid Arrest Warrant",
     "file_name": "/tmp/news_lk2/articles/da/da0935bb.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79132",
+    "time_ut": 1661279940,
+    "original_lang": "en",
+    "original_title": "Government Brings  temporary ban with effect from Aug 23  on the import of products from over 360 categories in a bid to save foreign exchange and support local manufacturers.",
+    "file_name": "/tmp/news_lk2/articles/25/25b4e2e0.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dc3\u0db1\u0dca\u0dad \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dbb\u0db3\u0dc0\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dbb",
     "file_name": "/tmp/news_lk2/articles/3a/3a953afc.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/sec-and-cse-complete-third-phase-of-digitalization-initiative-of-stock-market/",
-    "time_ut": 1660926720,
-    "original_lang": "en",
-    "original_title": "SEC and CSE complete third phase of digitalization initiative of stock market",
-    "file_name": "/tmp/news_lk2/articles/51/51dc8b23.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/fuel-price-reductions-seen-as-a-key-to-share-market-growth/",
-    "time_ut": 1660926600,
-    "original_lang": "en",
-    "original_title": "Fuel price reductions seen as a key to share market growth",
-    "file_name": "/tmp/news_lk2/articles/40/400f09ba.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/19/10-congressmen-urge-blinken-to-use-all-diplomatic-means-to-ensure-citizens-rights-to-protest-are-protected/",
-    "time_ut": 1660925940,
-    "original_lang": "en",
-    "original_title": "10 Congressmen urge Blinken to use all diplomatic means to ensure citizens rights to protest are protected",
-    "file_name": "/tmp/news_lk2/articles/7b/7b396120.json"
   }
 ]
