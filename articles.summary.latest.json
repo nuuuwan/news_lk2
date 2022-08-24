@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Dilmah-and-Good-Life-X-launch-Lost-Ingredients-Lab/34-739042",
+    "time_ut": 1661302978,
+    "original_lang": "en",
+    "original_title": "Dilmah and Good Life X launch\u2018 Lost Ingredients Lab\u2019",
+    "file_name": "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/President-Wickremesinghe-must-stop-the-crackdown-to-rebuild-the-nation/4-739031",
     "time_ut": 1661300981,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka stocks end steady after CB held policy rates steady; turnover slumps to over 2-wk low",
     "file_name": "/tmp/news_lk2/articles/d0/d009c866.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/an-interview-with-yiran-an-senior-product-manager-vivo-imaging-centre/",
-    "time_ut": 1660841340,
-    "original_lang": "en",
-    "original_title": "An interview with Yiran An, senior product manager, vivo Imaging Centre",
-    "file_name": "/tmp/news_lk2/articles/15/1505145f.json"
   }
 ]
