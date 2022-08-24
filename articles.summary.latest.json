@@ -265,11 +265,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Fogging-by-CMC-to-dispel-mosquitoes/342-243656",
+    "url": "https://www.dailymirror.lk/caption_story/Fogging-by-CMC-to-dispel-mosquitoes/110-243656",
     "time_ut": 1661352471,
     "original_lang": "en",
     "original_title": "Fogging by CMC to dispel mosquitoes",
-    "file_name": "/tmp/news_lk2/articles/6e/6e55104c.json"
+    "file_name": "/tmp/news_lk2/articles/cc/cc6b5e23.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -489,11 +489,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Progress-on-second-booster-dose-rollout-not-satisfactory-Dr-Ginige/342-243651",
+    "url": "https://www.dailymirror.lk/breaking_news/Progress-on-second-booster-dose-rollout-not-satisfactory-Dr-Ginige/108-243651",
     "time_ut": 1661342874,
     "original_lang": "en",
     "original_title": "Progress on second booster dose rollout not satisfactory: Dr. Ginige",
-    "file_name": "/tmp/news_lk2/articles/e5/e535a59d.json"
+    "file_name": "/tmp/news_lk2/articles/bd/bdf9835f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -601,11 +601,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Community-Kitchen-by-Central-Colombo-launched/342-243647",
+    "url": "https://www.dailymirror.lk/caption_story/Community-Kitchen-by-Central-Colombo-launched/110-243647",
     "time_ut": 1661339573,
     "original_lang": "en",
     "original_title": "Community Kitchen by Central Colombo launched",
-    "file_name": "/tmp/news_lk2/articles/d3/d3cc464a.json"
+    "file_name": "/tmp/news_lk2/articles/46/4667b93e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -673,11 +673,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/New-office-for-National-Struggle-Centre/342-243646",
+    "url": "https://www.dailymirror.lk/caption_story/New-office-for-National-Struggle-Centre/110-243646",
     "time_ut": 1661337994,
     "original_lang": "en",
     "original_title": "New office for National Struggle Centre",
-    "file_name": "/tmp/news_lk2/articles/7e/7ebf253d.json"
+    "file_name": "/tmp/news_lk2/articles/9d/9df8acd5.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -729,11 +729,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/MoU-signed-to-promote-Tamil-Drama/342-243644",
+    "url": "https://www.dailymirror.lk/caption_story/MoU-signed-to-promote-Tamil-Drama/110-243644",
     "time_ut": 1661337159,
     "original_lang": "en",
     "original_title": "MoU signed to promote Tamil Drama",
-    "file_name": "/tmp/news_lk2/articles/14/14c2358f.json"
+    "file_name": "/tmp/news_lk2/articles/b7/b7315c82.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -1518,6 +1518,22 @@
     "original_lang": "en",
     "original_title": "Sri Lanka aims to cut fiscal deficit in budget 2023",
     "file_name": "/tmp/news_lk2/articles/44/444a0ec7.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79143",
+    "time_ut": 1661282640,
+    "original_lang": "en",
+    "original_title": "Four Suspects Arrested by Police for burning down on May 10 the \u2018Green Eco Lodge\u2019 Hotel in Kolonna  that was Owned by Mahinda Rajapaksa\u2019s Youngest son Rohitha  who is unemployed and whose sources of income Remain  a mystery",
+    "file_name": "/tmp/news_lk2/articles/4c/4c61505d.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79138",
+    "time_ut": 1661282640,
+    "original_lang": "en",
+    "original_title": "Colombo Fort Magistrate Thilina Gamage issues  order directing the CID to conduct an investigation into a contemptuous statement allegedly  made  at a press conference by Puttalam District Parliamentarian Sanath Nishantha Following Submissions made by President\u2019s Counsel Upul Jayasuriya",
+    "file_name": "/tmp/news_lk2/articles/a8/a86aeb5c.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Govt officials\u2019 foreign employment and referral program expedited",
     "file_name": "/tmp/news_lk2/articles/83/83f28e0a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Cabinet-to-be-sworn-in-next-week/108-243384",
-    "time_ut": 1660928776,
-    "original_lang": "en",
-    "original_title": "Cabinet to be sworn  in next week",
-    "file_name": "/tmp/news_lk2/articles/51/5113c42c.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/cops-rise-from-deep-slumber/",
-    "time_ut": 1660927500,
-    "original_lang": "en",
-    "original_title": "Cops rise from deep slumber",
-    "file_name": "/tmp/news_lk2/articles/b0/b09380d0.json"
   }
 ]
