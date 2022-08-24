@@ -1,0 +1,129 @@
+{
+  "newspaper_id": "ada-derana-lk",
+  "url": "http://www.adaderana.lk/news/84522/prayuth-chan-ocha-thai-court-suspends-pm-and-coup-leader",
+  "time_ut": 1661365740,
+  "original_lang": "en",
+  "original_title": "Prayuth Chan-ocha: Thai court suspends PM and coup leader",
+  "text_idx": {
+    "en": {
+      "title": "Prayuth Chan-ocha: Thai court suspends PM and coup leader",
+      "author": "unknown",
+      "body_lines": [
+        "Thailand\u2019s top court has suspended prime minister Prayuth Chan-ocha from official duty while it considers a legal challenge to his term limit.",
+        "Opposition parties have filed a case arguing that Mr Prayuth - in charge since 2014 - has overstayed his tenure."
+      ],
+      "title_ents": [
+        {
+          "text": "Prayuth Chan-ocha",
+          "label": "PERSON"
+        },
+        {
+          "text": "Thai",
+          "label": "NORP"
+        },
+        {
+          "text": "suspends PM",
+          "label": "TIME"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Thailand",
+            "label": "GPE"
+          },
+          {
+            "text": "Prayuth Chan-ocha",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "2014",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "Prayuth Chan-ocha: \u0dad\u0dcf\u0dba\u0dd2 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0dc3\u0dc4 \u0d9a\u0dd4\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dab \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0dcf\u0d9c\u0dda \u0dc0\u0dd0\u0da9 \u0dad\u0dc4\u0db1\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad \u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0dba\u0dd4\u0dad\u0dca \u0da0\u0dcf\u0db1\u0dca-\u0d95\u0da0\u0dcf\u0d9c\u0dda \u0db0\u0dd4\u0dbb \u0d9a\u0dcf\u0dbd\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0db1\u0dd3\u0dad\u0dd2\u0db8\u0dba \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca \u0dc3\u0dbd\u0d9a\u0dcf \u0db6\u0dbd\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0daf\u0dd3 \u0d91\u0dbb\u0da7 \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dc2\u0dca\u0da8\u0dcf\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba \u0db1\u0dd2\u0dbd \u0dbb\u0dcf\u0da2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dcf \u0dad\u0dd2\u0db6\u0dda.",
+        "2014 \u0dc3\u0dd2\u0da7 \u0db7\u0dcf\u0dbb\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dba\u0dd4\u0dad\u0dca \u0db8\u0dc4\u0dad\u0dcf \u0d94\u0dc4\u0dd4\u0d9c\u0dda \u0db0\u0dd6\u0dbb \u0d9a\u0dcf\u0dbd\u0dba \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dcf \u0d9c\u0dd2\u0dba \u0db6\u0dc0\u0da7 \u0dad\u0dbb\u0dca\u0d9a \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dbb\u0dd4\u0daf\u0dca\u0db0 \u0db4\u0d9a\u0dca\u0dc2 \u0db1\u0da9\u0dd4\u0dc0\u0d9a\u0dca \u0d9c\u0ddc\u0db1\u0dd4 \u0d9a\u0dbb \u0d87\u0dad."
+      ],
+      "title_ents": [
+        {
+          "text": "Prayuth Chan-ocha",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0dad\u0dcf\u0dba\u0dd2",
+          "label": "NORP"
+        },
+        {
+          "text": "PM \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
+          "label": "TIME"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "Prayuth Chan-ocha",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "2014",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0baa\u0bbf\u0bb0\u0baf\u0bc1\u0ba4\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd-\u0b93\u0b9a\u0bcd\u0b9a\u0bbe: \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bc8 \u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b87\u0b9f\u0bc8\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0baa\u0bbf\u0bb0\u0baf\u0bc1\u0ba4\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd-\u0b93\u0b9a\u0bcd\u0b9a\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0bb5\u0bb0\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0b9a\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0b9a\u0bb5\u0bbe\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1, \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0baa\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b85\u0ba8\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b89\u0b9a\u0bcd\u0b9a \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b87\u0b9f\u0bc8\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "2014 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba4\u0bbf\u0bb0\u0bc1 \u0baa\u0bbf\u0bb0\u0baf\u0bc1\u0ba4\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bbe\u0b95 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0ba9."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0baa\u0bbf\u0bb0\u0baf\u0bc1\u0ba4\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd-\u0b93\u0b9a\u0bcd\u0b9a\u0bbe",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0ba4\u0bbe\u0baf\u0bcd",
+          "label": "NORP"
+        },
+        {
+          "text": "PM \u0b90 \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+          "label": "TIME"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0baf\u0bc1\u0ba4\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd-\u0b93\u0b9a\u0bcd\u0b9a\u0bbe",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "2014",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
