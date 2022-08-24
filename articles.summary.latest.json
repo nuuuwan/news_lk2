@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-opposition-mp-harsha-de-silva-chairs-first-public-finance-committee-meeting-98952/",
+    "time_ut": 1661317200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka opposition MP Harsha de Silva chairs first public finance committee meeting",
+    "file_name": "/tmp/news_lk2/articles/7c/7c25f73b.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0d86\u0dba\u0dad\u0db1-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0d86\u0dba\u0dad\u0db1-\u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0dbd-\u0dc0\u0dd9\u0db1\u0dc3/26-618662",
+    "time_ut": 1661317090,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d86\u0dba\u0dad\u0db1 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0d86\u0dba\u0dad\u0db1 \u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0dbd \u0dc0\u0dd9\u0db1\u0dc3",
+    "file_name": "/tmp/news_lk2/articles/0a/0a00b28a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0daf-\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab-\u0dad\u0dad\u0dca\u0dc0\u0dba/101-618661",
+    "time_ut": 1661317008,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0daf \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab \u0dad\u0dad\u0dca\u0dc0\u0dba",
+    "file_name": "/tmp/news_lk2/articles/f6/f6a2ffe3.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84499/navy-rescues-fisherman-who-fell-ill-while-at-sea-",
+    "time_ut": 1661316780,
+    "original_lang": "en",
+    "original_title": "Navy rescues fisherman who fell ill while at sea",
+    "file_name": "/tmp/news_lk2/articles/ae/aed175d2.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd/175-302919",
+    "time_ut": 1661316192,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/be/bec737f4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/24/navy-brings-ashore-ill-fisherman-for-treatment/",
+    "time_ut": 1661316000,
+    "original_lang": "en",
+    "original_title": "Navy brings ashore ill fisherman for treatment",
+    "file_name": "/tmp/news_lk2/articles/3c/3cb9e5b0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0db1\u0dd2\u0db8\u0d9a\u0dca-\u0db1\u0ddc\u0db4\u0dd9\u0db1\u0dd9\u0db1-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0d9a\u0dd0\u0db4\u0dd2\u0dbd\u0dca\u0dbd/2-618660",
+    "time_ut": 1661315975,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd2\u0db8\u0d9a\u0dca \u0db1\u0ddc\u0db4\u0dd9\u0db1\u0dd9\u0db1 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d9a\u0dd0\u0db4\u0dd2\u0dbd\u0dca\u0dbd",
+    "file_name": "/tmp/news_lk2/articles/dc/dcde6965.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b87\u0bb0\u0bc1-\u0b95\u0bc1\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bc8\u0baf\u0bc7-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/95-302918",
     "time_ut": 1661313360,
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Thunder showers expected tonight (19)",
     "file_name": "/tmp/news_lk2/articles/dc/dc58cf1f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84392/undco-regional-director-for-asia-pacific-calls-on-president-ranil",
-    "time_ut": 1660877460,
-    "original_lang": "en",
-    "original_title": "UNDCO Regional Director for Asia-Pacific calls on President Ranil",
-    "file_name": "/tmp/news_lk2/articles/8d/8db5fea7.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0d9c\u0dda-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0db8\u0d9a\u0dca-\u0d9c\u0dd0\u0db1-\u0daf\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd1/11-396427",
-    "time_ut": 1660876522,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0d9c\u0dda \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0db8\u0d9a\u0dca \u0d9c\u0dd0\u0db1 \u0daf\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/e9/e9318410.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-to-request-Japan-to-initiate-dialogue-with-creditors/108-243329",
-    "time_ut": 1660876327,
-    "original_lang": "en",
-    "original_title": "SL to request Japan to initiate dialogue with creditors",
-    "file_name": "/tmp/news_lk2/articles/e6/e681fa8c.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0ba8\u0bbe-\u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302605",
-    "time_ut": 1660876138,
-    "original_lang": "ta",
-    "original_title": "\u0b90.\u0ba8\u0bbe. \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/42/42692012.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dba\u0db1-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8/11-396425",
-    "time_ut": 1660875825,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dba\u0db1 \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8",
-    "file_name": "/tmp/news_lk2/articles/03/03cfa70e.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0db8\u0dbd\u0dca\u0d9c\u0dda-\u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dc0-\u0dc3\u0db1\u0dca\u0db0\u0dcf\u0db1\u0dba-\u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8-\u0dc4\u0dad\u0dbb/101-618374",
-    "time_ut": 1660874874,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0db8\u0dbd\u0dca\u0d9c\u0dda \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dc0 \u0dc3\u0db1\u0dca\u0db0\u0dcf\u0db1\u0dba \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8 \u0dc4\u0dad\u0dbb",
-    "file_name": "/tmp/news_lk2/articles/6a/6aa22510.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd-\u0b85\u0ba3\u0bcd\u0ba3\u0bbe\u0bae\u0bb2\u0bc8-\u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0ba9\u0bae\u0bcd/175-302604",
-    "time_ut": 1660874868,
-    "original_lang": "ta",
-    "original_title": "\u2019\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd\u2019: \u0b85\u0ba3\u0bcd\u0ba3\u0bbe\u0bae\u0bb2\u0bc8 \u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0ba9\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/c6/c69c0506.json"
   }
 ]
