@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db9\u0d9c\u0dd9\u0da9\u0dd2-\u0dad\u0dd4\u0db1\u0dba\u0dd2-\u0db8\u0dbd\u0dca-\u0db8\u0dcf\u0dbd\u0dba\u0dba\u0dd2-\u0dbd\u0d9a\u0dca\u0dc2-10\u0da7-\u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dd9\u0dc3\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2/101-618653",
+    "time_ut": 1661305461,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db9\u0d9c\u0dd9\u0da9\u0dd2 \u0dad\u0dd4\u0db1\u0dba\u0dd2 \u0db8\u0dbd\u0dca \u0db8\u0dcf\u0dbd\u0dba\u0dba\u0dd2 \u0dbd\u0d9a\u0dca\u0dc2 10\u0da7 \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dd9\u0dc3\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/eb/ebb0743c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84497/rainfall-expected-at-times-in-several-areas-today",
+    "time_ut": 1661304960,
+    "original_lang": "en",
+    "original_title": "Rainfall expected at times in several areas today",
+    "file_name": "/tmp/news_lk2/articles/f7/f78c7e89.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd1\u0db1\u0dca---\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddc\u0dca\u0daf-\u0d9c\u0dd0\u0da7\u0dd3-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7:\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/101-618652",
+    "time_ut": 1661304937,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd1\u0db1\u0dca - \u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddc\u0dca\u0daf \u0d9c\u0dd0\u0da7\u0dd3 \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7:\u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/11/119e96ef.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd9\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0d85\u0dad\u0dbb-\u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4-\u0dad\u0dc0\u0dad\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/101-618651",
+    "time_ut": 1661304675,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd9\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0d85\u0dad\u0dbb \u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4 \u0dad\u0dc0\u0dad\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/47/47a4cf0a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dc0\u0dad\u0dca-\u0db7\u0dcf\u0dab\u0dca\u0da9-300\u0d9a\u0dca-\u0d86\u0db1\u0dba\u0db1\u0dba-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2/101-618650",
+    "time_ut": 1661304323,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dc0\u0dad\u0dca \u0db7\u0dcf\u0dab\u0dca\u0da9 300\u0d9a\u0dca \u0d86\u0db1\u0dba\u0db1\u0dba \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/7f/7f66d41f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Indo-Lanka-Chamber-of-Commerce-AGM/34-739045",
+    "time_ut": 1661303225,
+    "original_lang": "en",
+    "original_title": "Indo \u2013 Lanka Chamber of Commerce AGM",
+    "file_name": "/tmp/news_lk2/articles/4e/4ec43f4e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Harsha-Amarasekera-to-meet-with-SLID-s-Young-Directors-Forum/34-739044",
+    "time_ut": 1661303134,
+    "original_lang": "en",
+    "original_title": "Harsha Amarasekera to meet with SLID\u2019s Young Directors Forum",
+    "file_name": "/tmp/news_lk2/articles/44/446ce5f7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/16-key-private-sector-leaders-come-together-to-support-food-security-efforts/34-739043",
+    "time_ut": 1661303068,
+    "original_lang": "en",
+    "original_title": "16 key private sector leaders come together to support food security efforts",
+    "file_name": "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Dilmah-and-Good-Life-X-launch-Lost-Ingredients-Lab/34-739042",
     "time_ut": 1661302978,
@@ -385,11 +449,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0d9a\u0dd4-\u0d85\u0db4\u0dba\u0ddd\u0da2\u0dba-\u0d9a\u0dc5\u0dd0\u0dba\u0dd2-\u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/1-618637",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0d9a\u0dd4-\u0d85\u0db4\u0dba\u0ddd\u0da2\u0dba-\u0d9a\u0dc5\u0dd0\u0dba\u0dd2-\u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/101-618637",
     "time_ut": 1661259439,
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0d9a\u0dd4 \u0d85\u0db4\u0dba\u0ddd\u0da2\u0dba \u0d9a\u0dc5\u0dd0\u0dba\u0dd2 \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2 \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
-    "file_name": "/tmp/news_lk2/articles/29/2913cad5.json"
+    "file_name": "/tmp/news_lk2/articles/bd/bd4cc5b3.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -489,11 +553,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0d9a\u0dd4\u0da7-\u0dc3\u0dd4\u0daf\u0dca\u0daf\u0dba\u0d9a\u0dca-\u0daf\u0dd0\u0db8\u0dd6-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda-\u0dc3\u0dd2\u0dc0\u0dd4\u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dda-\u0dc0\u0dd0\u0da9-\u0dad\u0dc4\u0db1\u0db8\u0dca/1-618632",
+    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0d9a\u0dd4\u0da7-\u0dc3\u0dd4\u0daf\u0dca\u0daf\u0dba\u0d9a\u0dca-\u0daf\u0dd0\u0db8\u0dd6-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda-\u0dc3\u0dd2\u0dc0\u0dd4\u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dda-\u0dc0\u0dd0\u0da9-\u0dad\u0dc4\u0db1\u0db8\u0dca/101-618632",
     "time_ut": 1661257044,
     "original_lang": "si",
     "original_title": "\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0d9a\u0dd4\u0da7 \u0dc3\u0dd4\u0daf\u0dca\u0daf\u0dba\u0d9a\u0dca \u0daf\u0dd0\u0db8\u0dd6 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0dc3\u0dd2\u0dc0\u0dd4\u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dda \u0dc0\u0dd0\u0da9 \u0dad\u0dc4\u0db1\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/66/660ba3ca.json"
+    "file_name": "/tmp/news_lk2/articles/cc/cc556f6d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -1896,6 +1960,14 @@
     "file_name": "/tmp/news_lk2/articles/85/85f5ad1a.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79118",
+    "time_ut": 1661195160,
+    "original_lang": "en",
+    "original_title": "The use of the PTA after the government committed itself to discontinuing its use is a betrayal of trust that will not gain it the trust of the people but their antipathy.",
+    "file_name": "/tmp/news_lk2/articles/1e/1ed0153e.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0ba3\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302835",
     "time_ut": 1661195062,
@@ -1918,6 +1990,14 @@
     "original_lang": "en",
     "original_title": "People\u2019s Alliance on Right to Land (PARL) demands the immediate and unconditional release of Activist Chinthaka  Rajapakse and all others arrested with him at the peaceful protests on 18th August.",
     "file_name": "/tmp/news_lk2/articles/40/4098ca19.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79120",
+    "time_ut": 1661194080,
+    "original_lang": "en",
+    "original_title": "\u201cHow could a public protest campaign, dubbed as peaceful, destroy 70 houses and 600  other properties belonging to as many as 72 MPs, within a matter of 24 hours? Asks SLPP Gen Secy Sagara  Kariyawasam",
+    "file_name": "/tmp/news_lk2/articles/68/689df5af.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7918,85 +7998,5 @@
     "original_lang": "en",
     "original_title": "SLPP Dissident MP Alahapperuma writes to Prime Minister Gunewardena Complaing  of Discrimatory Treatment being meted out against MPs who supported him at the July 20 Presidential Election.",
     "file_name": "/tmp/news_lk2/articles/52/526b66d1.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79077",
-    "time_ut": 1660849020,
-    "original_lang": "en",
-    "original_title": "SLPP Delegation led by National Organizer Basil Rajapaksa Meets President Wickremesinghe and Requests him to Facilitate Former President Gotabaya Rajapaksa\u2019s safe Return to Sri Lanka :assures party\u2019s fullest support to Ranil\u2019s  endeavours to ensure the recovery of Sri Lanka\u2019s economy.",
-    "file_name": "/tmp/news_lk2/articles/0e/0e6c31be.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business__main/CB-optimistic-of-wrapping-up-IMF-staff-level-deal-towards-end-of-this-month/245-243323",
-    "time_ut": 1660848080,
-    "original_lang": "en",
-    "original_title": "CB optimistic of wrapping up IMF staff-level deal towards end of this month",
-    "file_name": "/tmp/news_lk2/articles/ad/adf3b762.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Abans-Auto-to-assemble-and-manufacture-Hyundai-automobiles-in-Sri-Lanka/108-243320",
-    "time_ut": 1660847874,
-    "original_lang": "en",
-    "original_title": "Abans Auto to assemble and manufacture Hyundai automobiles in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/cf/cfd21b86.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84390/australia-kicks-in-extra-25-million-emergency-aid-to-sri-lanka",
-    "time_ut": 1660847640,
-    "original_lang": "en",
-    "original_title": "Australia kicks in extra $25 million emergency aid to Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/e4/e4a978da.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Significant-deceleration-in-money-printing-expected-CB/342-243316",
-    "time_ut": 1660847515,
-    "original_lang": "en",
-    "original_title": "Significant deceleration in money printing expected: CB",
-    "file_name": "/tmp/news_lk2/articles/1a/1ad4d1d0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Fasten-your-wits/4-738855",
-    "time_ut": 1660847225,
-    "original_lang": "en",
-    "original_title": "Fasten your wits",
-    "file_name": "/tmp/news_lk2/articles/5a/5a3c00f7.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0ba4\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1/175-302600",
-    "time_ut": 1660846951,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/8d/8d45e407.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Sysco-LABS-ranked-amongst-LMD-s-Most-Respected-Entities-for-2022/34-738854",
-    "time_ut": 1660846937,
-    "original_lang": "en",
-    "original_title": "Sysco LABS ranked amongst LMD\u2019s Most Respected Entities for 2022",
-    "file_name": "/tmp/news_lk2/articles/25/252a2d47.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-302599",
-    "time_ut": 1660843495,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/17/17b8cacf.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-stocks-end-steady-after-cb-held-policy-rates-steady-turnover-slumps-to-over-2-wk-low-98778/",
-    "time_ut": 1660842720,
-    "original_lang": "en",
-    "original_title": "Sri Lanka stocks end steady after CB held policy rates steady; turnover slumps to over 2-wk low",
-    "file_name": "/tmp/news_lk2/articles/d0/d009c866.json"
   }
 ]
