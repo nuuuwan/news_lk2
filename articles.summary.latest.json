@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Of-blushing-buttocks-and-freedom-to-express/172-243592",
+    "time_ut": 1661309829,
+    "original_lang": "en",
+    "original_title": "Of blushing buttocks and freedom to express",
+    "file_name": "/tmp/news_lk2/articles/f8/f8238daf.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Restructuring-the-domestic-debt-is-a-red-line-EDITORIAL/231-243590",
+    "time_ut": 1661309487,
+    "original_lang": "en",
+    "original_title": "Restructuring the domestic debt is a red line - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/e0/e0876e23.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-slaps-import-ban-on-wide-range-of-goods/108-243589",
+    "time_ut": 1661309167,
+    "original_lang": "en",
+    "original_title": "Govt. slaps import ban on wide range of goods",
+    "file_name": "/tmp/news_lk2/articles/04/041ba2ba.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bc8-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd/175-302910",
+    "time_ut": 1661307800,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/e6/e6a3f977.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d85\u0db9\u0d9c\u0dd9\u0da9\u0dd2-\u0dad\u0dd4\u0db1\u0dba\u0dd2-\u0db8\u0dbd\u0dca-\u0db8\u0dcf\u0dbd\u0dba\u0dba\u0dd2-\u0dbd\u0d9a\u0dca\u0dc2-10\u0da7-\u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dd9\u0dc3\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2/101-618653",
     "time_ut": 1661305461,
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ambassador Samarasinghe to boost ties with Mexico",
     "file_name": "/tmp/news_lk2/articles/07/0708c04a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Australia-extends-25-m-more-as-humanitarian-assistance/56-738869",
-    "time_ut": 1660852598,
-    "original_lang": "en",
-    "original_title": "Australia extends $ 25 m more as humanitarian assistance",
-    "file_name": "/tmp/news_lk2/articles/18/188060d5.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Futureworld-opens-new-flagship-and-exclusive-Apple-store-inColombo-3/34-738868",
-    "time_ut": 1660852504,
-    "original_lang": "en",
-    "original_title": "Futureworld opens new flagship and exclusive Apple store in\u00a0Colombo 3",
-    "file_name": "/tmp/news_lk2/articles/7e/7e8ec85d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Sri-Lanka-going-the-Turkey-way/4-738867",
-    "time_ut": 1660851942,
-    "original_lang": "en",
-    "original_title": "Sri Lanka going the Turkey way?",
-    "file_name": "/tmp/news_lk2/articles/9f/9fd40788.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79074",
-    "time_ut": 1660850100,
-    "original_lang": "en",
-    "original_title": "SLPP Dissident MP Alahapperuma writes to Prime Minister Gunewardena Complaing  of Discrimatory Treatment being meted out against MPs who supported him at the July 20 Presidential Election.",
-    "file_name": "/tmp/news_lk2/articles/52/526b66d1.json"
   }
 ]
