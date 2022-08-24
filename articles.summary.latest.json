@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/President-Wickremesinghe-must-stop-the-crackdown-to-rebuild-the-nation/4-739031",
+    "time_ut": 1661300981,
+    "original_lang": "en",
+    "original_title": "President Wickremesinghe must stop the crackdown to rebuild the nation",
+    "file_name": "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Seven-more-GotaGoGama-protesters-released-on-Rs-500-000-bail/56-739029",
+    "time_ut": 1661300691,
+    "original_lang": "en",
+    "original_title": "Seven more GotaGoGama protesters released on Rs. 500,000 bail",
+    "file_name": "/tmp/news_lk2/articles/bf/bf59c47d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Dolawaththa-to-present-private-members-bill-to-amend-penal-code-to-protect-LGBTQI-community/56-739028",
+    "time_ut": 1661300660,
+    "original_lang": "en",
+    "original_title": "Dolawaththa to present private members bill to amend penal code to protect LGBTQI+ community",
+    "file_name": "/tmp/news_lk2/articles/82/82c7ff4a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Kanchana-updates-on-fuel-supplies/56-739018",
     "time_ut": 1661299813,
     "original_lang": "en",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "An interview with Yiran An, senior product manager, vivo Imaging Centre",
     "file_name": "/tmp/news_lk2/articles/15/1505145f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84389/susil-doesnt-think-gotabaya-will-return-to-politics-again",
-    "time_ut": 1660840260,
-    "original_lang": "en",
-    "original_title": "Susil doesn\u2019t think Gotabaya will return to politics again",
-    "file_name": "/tmp/news_lk2/articles/b1/b15347b9.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1-\u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0db8-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8-\u0d9a\u0dbb\u0dba\u0dd2/11-396423",
-    "time_ut": 1660839260,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0db8 \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8 \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/88/88c80ad3.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/cops-and-robbers/",
-    "time_ut": 1660839240,
-    "original_lang": "en",
-    "original_title": "Cops and robbers",
-    "file_name": "/tmp/news_lk2/articles/78/7897697c.json"
   }
 ]

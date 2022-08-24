@@ -1,22 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-24 06:02:58 (LK time)*
+*As of 2022-08-24 06:25:41 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** daily-ft-lk ([Kanchana updates on fuel supplies](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a07887a.json))
+* **1** daily-ft-lk ([President Wickremesinghe must stop the crackdown to rebuild the nation](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba681ed1.json))
 
-## Last Hour (1 Articles)
+## Last Hour (4 Articles)
 
-* **1** daily-ft-lk ([Kanchana updates on fuel supplies](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a07887a.json))
+* **4** daily-ft-lk ([Kanchana updates on fuel supplies](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a07887a.json))
 
-## Last 3 Hours (3 Articles)
+## Last 3 Hours (6 Articles)
 
-* **3** daily-ft-lk ([First tribal woman president symbolises India’s pluralist legacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a998f7.json))
+* **6** daily-ft-lk ([First tribal woman president symbolises India’s pluralist legacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a998f7.json))
 
-## Last 24 Hours (214 Articles)
+## Last 24 Hours (216 Articles)
 
 * **51** lankadeepa-lk ([පොලීසිය අරලියගහ මන්දිරයේ තොරතුරු ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68bc09f1.json))
 
@@ -32,11 +32,11 @@
 
 * **20** daily-mirror-lk ([Silent protest near Slave Island Police station](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55b2fd01.json))
 
-* **3** daily-ft-lk ([First tribal woman president symbolises India’s pluralist legacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a998f7.json))
+* **6** daily-ft-lk ([First tribal woman president symbolises India’s pluralist legacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a998f7.json))
 
-* **2** colombo-telegraph-com ([Wickremesinghe/Rajapaksa – An Axis Of Evil](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afed3211.json))
+* **1** colombo-telegraph-com ([An English Language Primer Focused On Sri Lanka: Raising Alarm Bells On Sri Lankan English](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b50d08f0.json))
 
-## Last Week (1,405 Articles)
+## Last Week (1,408 Articles)
 
 * **275** lankadeepa-lk ([කෝටි 24 කොකේන් සමග පෝලන්ත ජාතිකයා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68c8b78e.json))
 
@@ -54,13 +54,13 @@
 
 * **62** island-lk ([Reckless spending by governments and public sector created debt crisis – Prof. Lakshman Watawala](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33564160.json))
 
-* **55** daily-ft-lk ([Tamils will only invest in SL if Govt. provides political solution: Mavai](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a99e8c07.json))
+* **58** daily-ft-lk ([Tamils will only invest in SL if Govt. provides political solution: Mavai](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a99e8c07.json))
 
 * **16** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
 * **12** d-b-s-jeyaraj-com ([Police use Tear Gas and Water Cannon to  Disperse Protest Demonstration Organized by the Inter-University Student Federation;Six persons including Wasantha Mudalige  taken into custody](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd7d49cb.json))
 
-## All Time (2,498 Articles)
+## All Time (2,501 Articles)
 
 * **451** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -74,7 +74,7 @@
 
 * **230** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
-* **173** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
+* **176** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
 * **169** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 

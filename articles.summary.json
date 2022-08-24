@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/President-Wickremesinghe-must-stop-the-crackdown-to-rebuild-the-nation/4-739031",
+    "time_ut": 1661300981,
+    "original_lang": "en",
+    "original_title": "President Wickremesinghe must stop the crackdown to rebuild the nation",
+    "file_name": "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Seven-more-GotaGoGama-protesters-released-on-Rs-500-000-bail/56-739029",
+    "time_ut": 1661300691,
+    "original_lang": "en",
+    "original_title": "Seven more GotaGoGama protesters released on Rs. 500,000 bail",
+    "file_name": "/tmp/news_lk2/articles/bf/bf59c47d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Dolawaththa-to-present-private-members-bill-to-amend-penal-code-to-protect-LGBTQI-community/56-739028",
+    "time_ut": 1661300660,
+    "original_lang": "en",
+    "original_title": "Dolawaththa to present private members bill to amend penal code to protect LGBTQI+ community",
+    "file_name": "/tmp/news_lk2/articles/82/82c7ff4a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Kanchana-updates-on-fuel-supplies/56-739018",
     "time_ut": 1661299813,
     "original_lang": "en",
