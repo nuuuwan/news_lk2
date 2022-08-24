@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ape-Jana-Bala-Party-Chairman-arrested/108-243637",
+    "time_ut": 1661321109,
+    "original_lang": "en",
+    "original_title": "Ape Jana Bala Party Chairman arrested",
+    "file_name": "/tmp/news_lk2/articles/33/33afc669.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84501/leader-of-ape-jana-bala-pakshaya-arrested",
+    "time_ut": 1661320980,
+    "original_lang": "en",
+    "original_title": "Leader of \u2018Ape Jana Bala Pakshaya\u2019 arrested",
+    "file_name": "/tmp/news_lk2/articles/79/7978f85a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0ba8\u0bc6\u0b9f\u0bc1\u0b9e\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0bca\u0bb0\u0bbf\u0baf-\u0bae\u0bca\u0bb4\u0bbf-\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/95-302921",
+    "time_ut": 1661320958,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bc6\u0b9f\u0bc1\u0b9e\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0bb0\u0bbf\u0baf \u0bae\u0bca\u0bb4\u0bbf \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/61/61d7d46c.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u2019\u2019\u0dad\u0dc0\u0db8-\u0daf\u0dd4\u0dc0\u0db1\u0dca\u0db1\u0dda-\u0db4\u0dbb\u0dab-\u0db6\u0dc3\u0dca-\u0d91\u0d9a\u2019\u2019/1-618665",
     "time_ut": 1661320336,
@@ -153,11 +177,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Of-blushing-buttocks-and-freedom-to-express/231-243592",
+    "url": "https://www.dailymirror.lk/recomended-news/Of-blushing-buttocks-and-freedom-to-express/277-243592",
     "time_ut": 1661309829,
     "original_lang": "en",
     "original_title": "Of blushing buttocks and freedom to express",
-    "file_name": "/tmp/news_lk2/articles/8a/8a064e54.json"
+    "file_name": "/tmp/news_lk2/articles/63/6310d7f2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2041,11 +2065,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/US-18tn-wiped-off-from-global-markets-in-first-half-of-2022-WFE-data-reveals/342-243551",
+    "url": "https://www.dailymirror.lk/business-news/US-18tn-wiped-off-from-global-markets-in-first-half-of-2022-WFE-data-reveals/273-243551",
     "time_ut": 1661203855,
     "original_lang": "en",
     "original_title": "US $ 18tn wiped off from global markets in first half of 2022, WFE data reveals",
-    "file_name": "/tmp/news_lk2/articles/57/57b15b7e.json"
+    "file_name": "/tmp/news_lk2/articles/b5/b5149a8f.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2",
     "file_name": "/tmp/news_lk2/articles/ff/ff4a5b62.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d94\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dad\u0dc0\u0dad\u0dca-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-25\u0d9a\u0dca/11-396428",
-    "time_ut": 1660882738,
-    "original_lang": "si",
-    "original_title": "\u0d94\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 25\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/1e/1ea74b0f.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/charity-pockets-easter-bomb-child-victims-funds/",
-    "time_ut": 1660882112,
-    "original_lang": "en",
-    "original_title": "Charity Pockets Easter Bomb Child Victim\u2019s Funds",
-    "file_name": "/tmp/news_lk2/articles/c8/c877deb5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/19/2021-a-l-practicals-from-today-19/",
-    "time_ut": 1660881240,
-    "original_lang": "en",
-    "original_title": "2021 A/L Practicals from today (19)",
-    "file_name": "/tmp/news_lk2/articles/4e/4e4e4a88.json"
   }
 ]
