@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/The-Elephant-in-the-Room/172-243668",
+    "time_ut": 1661378794,
+    "original_lang": "en",
+    "original_title": "The Elephant in the Room",
+    "file_name": "/tmp/news_lk2/articles/9f/9f4c617a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Plugging-loopholes-in-Sri-Lankas-maritime-security-architecture/172-243667",
+    "time_ut": 1661378498,
+    "original_lang": "en",
+    "original_title": "Plugging loopholes in Sri Lanka\u2019s  maritime security architecture",
+    "file_name": "/tmp/news_lk2/articles/b7/b7a7742f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Free-health-care-debt-restructuring-and-subsidy-cuts/172-243666",
+    "time_ut": 1661378344,
+    "original_lang": "en",
+    "original_title": "Free health-care, debt restructuring and subsidy cuts",
+    "file_name": "/tmp/news_lk2/articles/22/220ec9f0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Beware-the-Neddas/172-243665",
     "time_ut": 1661378228,
     "original_lang": "en",
@@ -46,6 +70,14 @@
     "original_lang": "en",
     "original_title": "\u201cUnleash excellence in the new normal\u201d: SLASSCOM to hold 6th successive Quality Summit",
     "file_name": "/tmp/news_lk2/articles/2f/2ff27689.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84522/thai-court-suspends-pm-prayuth-chan-ocha-from-duties",
+    "time_ut": 1661365740,
+    "original_lang": "en",
+    "original_title": "Thai court suspends PM Prayuth Chan-ocha from duties",
+    "file_name": "/tmp/news_lk2/articles/2d/2d9b8dd6.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -1502,6 +1534,14 @@
     "original_lang": "en",
     "original_title": "President  Wickremesinghe granted his consent to a 90-day Detention Order (DO) for interrogation under the PTA, against IUSF Convener Wasantha Mudalige, based on submissions made to him by the Security Forces  Reveals Justice Minister Dr.Wijeyadasa Rajapakshe",
     "file_name": "/tmp/news_lk2/articles/86/86fa8394.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79135",
+    "time_ut": 1661281020,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President Ranil Wickremesinghe  has discussions with visiting International Monetary Fund team to reach  a staff level agreement with a credible economic program to negotiate with creditors to re-structure their debt.",
+    "file_name": "/tmp/news_lk2/articles/a1/a1bf70f1.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Cops rise from deep slumber",
     "file_name": "/tmp/news_lk2/articles/b0/b09380d0.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/textile-maker-teejay-knits-strong-start-to-2022-23/",
-    "time_ut": 1660927140,
-    "original_lang": "en",
-    "original_title": "Textile maker Teejay knits strong start to 2022-23",
-    "file_name": "/tmp/news_lk2/articles/b4/b4ae7a38.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/combank-revolutionises-sri-lankan-banking-with-wearable-banking-via-flash-digital-account/",
-    "time_ut": 1660927080,
-    "original_lang": "en",
-    "original_title": "ComBank revolutionises Sri Lankan banking with \u2018wearable banking\u2019 via Flash Digital Account",
-    "file_name": "/tmp/news_lk2/articles/46/46df53bf.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/rootcode-wins-startup-of-the-year-and-peoples-choice-award-at-saarc-startup-awards-2022/",
-    "time_ut": 1660926960,
-    "original_lang": "en",
-    "original_title": "Rootcode wins Startup of the Year and People\u2019s Choice Award at SAARC Startup Awards 2022",
-    "file_name": "/tmp/news_lk2/articles/d3/d34e9d98.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/insee-cement-felicitates-sri-lankas-youngest-commonwealth-medallist/",
-    "time_ut": 1660926900,
-    "original_lang": "en",
-    "original_title": "INSEE Cement felicitates Sri Lanka\u2019s youngest Commonwealth medallist",
-    "file_name": "/tmp/news_lk2/articles/91/916119fa.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dc3\u0db1\u0dca\u0dad-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dcf\u0dc3-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dbb\u0db3\u0dc0\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d85\u0dc0\u0dc3\u0dbb/101-618427",
-    "time_ut": 1660926855,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dc3\u0db1\u0dca\u0dad \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dbb\u0db3\u0dc0\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dbb",
-    "file_name": "/tmp/news_lk2/articles/3a/3a953afc.json"
   }
 ]

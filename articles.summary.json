@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/The-Elephant-in-the-Room/172-243668",
+    "time_ut": 1661378794,
+    "original_lang": "en",
+    "original_title": "The Elephant in the Room",
+    "file_name": "/tmp/news_lk2/articles/9f/9f4c617a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Plugging-loopholes-in-Sri-Lankas-maritime-security-architecture/172-243667",
+    "time_ut": 1661378498,
+    "original_lang": "en",
+    "original_title": "Plugging loopholes in Sri Lanka\u2019s  maritime security architecture",
+    "file_name": "/tmp/news_lk2/articles/b7/b7a7742f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Free-health-care-debt-restructuring-and-subsidy-cuts/172-243666",
+    "time_ut": 1661378344,
+    "original_lang": "en",
+    "original_title": "Free health-care, debt restructuring and subsidy cuts",
+    "file_name": "/tmp/news_lk2/articles/22/220ec9f0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Beware-the-Neddas/172-243665",
     "time_ut": 1661378228,
     "original_lang": "en",
@@ -46,6 +70,14 @@
     "original_lang": "en",
     "original_title": "\u201cUnleash excellence in the new normal\u201d: SLASSCOM to hold 6th successive Quality Summit",
     "file_name": "/tmp/news_lk2/articles/2f/2ff27689.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84522/thai-court-suspends-pm-prayuth-chan-ocha-from-duties",
+    "time_ut": 1661365740,
+    "original_lang": "en",
+    "original_title": "Thai court suspends PM Prayuth Chan-ocha from duties",
+    "file_name": "/tmp/news_lk2/articles/2d/2d9b8dd6.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -1502,6 +1534,14 @@
     "original_lang": "en",
     "original_title": "President  Wickremesinghe granted his consent to a 90-day Detention Order (DO) for interrogation under the PTA, against IUSF Convener Wasantha Mudalige, based on submissions made to him by the Security Forces  Reveals Justice Minister Dr.Wijeyadasa Rajapakshe",
     "file_name": "/tmp/news_lk2/articles/86/86fa8394.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79135",
+    "time_ut": 1661281020,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President Ranil Wickremesinghe  has discussions with visiting International Monetary Fund team to reach  a staff level agreement with a credible economic program to negotiate with creditors to re-structure their debt.",
+    "file_name": "/tmp/news_lk2/articles/a1/a1bf70f1.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
