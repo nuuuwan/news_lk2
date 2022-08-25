@@ -1,28 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-25 20:35:20 (LK time)*
+*As of 2022-08-25 20:48:31 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last Hour (4 Articles)
 
 * **2** daily-mirror-lk ([’Soorya Bala Sangramaya’ should be re-launched as ’Kadinam Soorya Bala Sangramaya’: Solar Industries Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add458b6.json))
 
 * **1** lankadeepa-lk ([හමුදාව සයිබර් යුද්ධ සඳහාත් සන්නද්ධ කළ යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8d206d9.json))
 
-## Last Hour (6 Articles)
+* **1** economy-next-com ([Sri Lanka Treasury bill yields edge lower, peg steady](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5628fbd.json))
 
-* **3** economy-next-com ([Sri Lanka shares down 2-pct on retail sellings and margin calls](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21c8bf2c.json))
-
-* **2** daily-mirror-lk ([’Soorya Bala Sangramaya’ should be re-launched as ’Kadinam Soorya Bala Sangramaya’: Solar Industries Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add458b6.json))
-
-* **1** lankadeepa-lk ([හමුදාව සයිබර් යුද්ධ සඳහාත් සන්නද්ධ කළ යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8d206d9.json))
-
-## Last 3 Hours (25 Articles)
+## Last 3 Hours (24 Articles)
 
 * **9** lankadeepa-lk ([යළිත් දින 100ක වැඩකට අතගසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ab64da4.json))
 
-* **5** daily-mirror-lk ([2100+ businesses installed their own fuel storage tanks, many without permission: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/7931f7ef.json))
+* **4** daily-mirror-lk ([Bank clearance delays unloading super diesel cargo](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d9f9050.json))
 
 * **4** economy-next-com ([Fuel queues seen outside several filling stations in Sri Lanka as schools reopen](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72a18600.json))
 
@@ -34,7 +28,7 @@
 
 * **1** ada-derana-lk ([Ranjan Ramanayake to be released tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96e1f1f3.json))
 
-## Last 24 Hours (194 Articles)
+## Last 24 Hours (190 Articles)
 
 * **40** lankadeepa-lk ([රෝහිත රාජපක්ෂගේ හෝටල්වලට ගිනි තැබූ තුනක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abec984a.json))
 
@@ -44,11 +38,11 @@
 
 * **25** ada-derana-lk ([Amendment to the Penal Code on LGBTQ+ rights handed over to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/557f9650.json))
 
-* **24** tamil-mirror-lk ([சர்வதேசத்துக்கு வழங்கிய வாக்குறுதி மீறப்பட்டுள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99b66c8c.json))
+* **23** tamil-mirror-lk ([அரிசி தொடர்பில் அரசாங்கத்தின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e0673d1.json))
 
-* **19** news-first-lk ([President’s Head of Security at inquiry over assault on journalists](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d5223b9.json))
+* **17** news-first-lk ([SL Police cites specific UN Security Council Resolution as relevant in PTA arrests](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a635db8.json))
 
-* **17** economy-next-com ([Sri Lanka shares close weaker; ASPI down on retail and banking counters](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5229632c.json))
+* **16** economy-next-com ([Sri Lanka fertilizer tender fails amid banking concerns: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f94545e3.json))
 
 * **7** daily-ft-lk ([The spirit of the 9 July uprising in Sri Lanka remains alive](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/874d8261.json))
 
@@ -56,25 +50,25 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## Last Week (1,387 Articles)
+## Last Week (1,381 Articles)
 
-* **271** lankadeepa-lk ([එජා සංවිධාන නියෝජිතයෝ ජනපති හමුවෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df245258.json))
+* **270** lankadeepa-lk ([පාඩු ලබන ආයතන පෞද්ගලීකරණය අත්‍යවශ්‍යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7bcd1f66.json))
 
 * **191** tamil-mirror-lk ([கோட்டாபயவுக்கு பாதுகாப்பு வழங்குமாறு கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17b8cacf.json))
 
-* **178** news-first-lk ([Let Basil be: Tissa Kuttiarachchi](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c5ab4fd.json))
+* **177** news-first-lk ([UPDATE: 11 more arrested alongside IUSF convener](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b95e2f8.json))
 
 * **173** ada-lk ([ජනපති රනිල් ජපානයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb044797.json))
 
-* **161** daily-mirror-lk ([Protest at customs...](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64e36372.json))
+* **160** daily-mirror-lk ([Facilitate safe return of Former President: SLFP requests President](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/108d0f4d.json))
 
 * **160** ada-derana-lk ([12 arrested during protest by university students in Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8013cbf.json))
 
 * **102** economy-next-com ([Sri Lanka rupee, yields in govt securities slightly changed](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b9ce7e6.json))
 
-* **61** island-lk ([Nations Trust Bank’s CYCOLOGY #OfficeByBike2022 initiative encourages employees to ride to work](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/9143e98f.json))
-
 * **58** daily-ft-lk ([Sysco LABS ranked amongst LMD’s Most Respected Entities for 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/252a2d47.json))
+
+* **58** island-lk ([Reminiscences of my short stint in teaching](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/952c9d48.json))
 
 * **16** colombo-telegraph-com ([Saying No To Authoritarian Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2af95aab.json))
 
