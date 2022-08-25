@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd9\u0da7\u0dad\u0dca-\u0db4\u0dd0\u0dba-3-\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0d9a\u0db4\u0dba\u0dd2/101-618755",
+    "time_ut": 1661432832,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd9\u0da7\u0dad\u0dca \u0db4\u0dd0\u0dba 3 \u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d9a\u0db4\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c4/c486d72f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/National-television-staff-goes-on-strike-over-salary-delay/108-243742",
+    "time_ut": 1661432673,
+    "original_lang": "en",
+    "original_title": "National television staff goes on strike over salary delay",
+    "file_name": "/tmp/news_lk2/articles/d7/d7faf30e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dd2\u0db1-\u0daf\u0dd9\u0d9a\u0da7-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0db8\u0dbb\u0dab-10-\u0d9a\u0dca/1-618754",
+    "time_ut": 1661432600,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd2\u0db1 \u0daf\u0dd9\u0d9a\u0da7 \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0db8\u0dbb\u0dab 10 \u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/45/459e19c3.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bb0\u0bc7-\u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe-\u0b95\u0bc1\u0bb0\u0b99\u0bcd\u0b95\u0bae\u0bcd\u0bae\u0bc8-\u0b8e\u0b9a\u0bcd\u0b90\u0bb5\u0bbf-\u0ba8\u0bcb\u0baf\u0bbe\u0bb2\u0bcd-\u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0ba8\u0baa\u0bb0\u0bcd/50-302996",
     "time_ut": 1661432434,
@@ -41,11 +65,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0daf\u0dd2\u0db1-100\u0d9a-\u0dc0\u0dd0\u0da9\u0d9a\u0da7-\u0d85\u0dad\u0d9c\u0dc3\u0dba\u0dd2/101-618749",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0daf\u0dd2\u0db1-100\u0d9a-\u0dc0\u0dd0\u0da9\u0d9a\u0da7-\u0d85\u0dad\u0d9c\u0dc3\u0dba\u0dd2/1-618749",
     "time_ut": 1661431648,
     "original_lang": "si",
     "original_title": "\u0dba\u0dc5\u0dd2\u0dad\u0dca \u0daf\u0dd2\u0db1 100\u0d9a \u0dc0\u0dd0\u0da9\u0d9a\u0da7 \u0d85\u0dad\u0d9c\u0dc3\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f3/f31450c0.json"
+    "file_name": "/tmp/news_lk2/articles/4a/4ab64da4.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -5374,14 +5398,6 @@
     "original_lang": "ta",
     "original_title": "\u0b92\u0bb0\u0bc1 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb2\u0bae\u0bcd \u0baa\u0bcb\u0ba9 \u0bae\u0bbe\u0bae\u0bcd\u0baa\u0bb4\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/e6/e6fde105.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd9\u0da7\u0dad\u0dca-\u0db4\u0dd0\u0dba-3-\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0d9a\u0db4\u0dba\u0dd2/101-618554",
-    "time_ut": 1661167744,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0dd9\u0da7\u0dad\u0dca \u0db4\u0dd0\u0dba 3 \u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d9a\u0db4\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/60/60e2d93d.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
