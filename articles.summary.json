@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Protest-demanding-to-reduce-cost-of-living/342-243744",
+    "time_ut": 1661438456,
+    "original_lang": "en",
+    "original_title": "Protest demanding to reduce cost of living...",
+    "file_name": "/tmp/news_lk2/articles/ee/ee7d6f5a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0-\u0dc3\u0dba\u0dd2\u0db6\u0dbb\u0dca-\u0dba\u0dd4\u0daf\u0dca\u0db0-\u0dc3\u0db3\u0dc4\u0dcf\u0dad\u0dca-\u0dc3\u0db1\u0dca\u0db1\u0daf\u0dca\u0db0-\u0d9a\u0dc5-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/101-618758",
+    "time_ut": 1661438293,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0dc3\u0dba\u0dd2\u0db6\u0dbb\u0dca \u0dba\u0dd4\u0daf\u0dca\u0db0 \u0dc3\u0db3\u0dc4\u0dcf\u0dad\u0dca \u0dc3\u0db1\u0dca\u0db1\u0daf\u0dca\u0db0 \u0d9a\u0dc5 \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a8/a8d206d9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Soorya-Bala-Sangramaya-should-be-re-launched-as-Kadinam-Soorya-Bala-Sangramaya-Solar-Industries-Assn/342-243743",
+    "time_ut": 1661438229,
+    "original_lang": "en",
+    "original_title": "\u2019Soorya Bala Sangramaya\u2019 should be re-launched as \u2019Kadinam Soorya Bala Sangramaya\u2019: Solar Industries Assn.",
+    "file_name": "/tmp/news_lk2/articles/ad/add458b6.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-treasury-bill-yields-edge-lower-peg-steady-99030/",
     "time_ut": 1661437260,
@@ -33,11 +57,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb\u0dda-\u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2-\u0dc3\u0dd2\u0dc3\u0dd4-\u0d85\u0db4\u0dba\u0ddd\u0da2\u0db1\u0dba-\u0d9a\u0dcf\u0dbd\u0dd9\u0d9a-\u0d89\u0db3\u0db1\u0dca-\u0d9a\u0dbb\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca/1-618757",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb\u0dda-\u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2-\u0dc3\u0dd2\u0dc3\u0dd4-\u0d85\u0db4\u0dba\u0ddd\u0da2\u0db1\u0dba-\u0d9a\u0dcf\u0dbd\u0dd9\u0d9a-\u0d89\u0db3\u0db1\u0dca-\u0d9a\u0dbb\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca/101-618757",
     "time_ut": 1661435362,
     "original_lang": "si",
     "original_title": "\u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb\u0dda \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2 \u0dc3\u0dd2\u0dc3\u0dd4 \u0d85\u0db4\u0dba\u0ddd\u0da2\u0db1\u0dba \u0d9a\u0dcf\u0dbd\u0dd9\u0d9a \u0d89\u0db3\u0db1\u0dca \u0d9a\u0dbb\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/96/96c5e2ef.json"
+    "file_name": "/tmp/news_lk2/articles/67/67716689.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -161,19 +185,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Bank-clearance-delays-unloading-super-diesel-cargo/108-243740",
+    "url": "https://www.dailymirror.lk/latest_news/Bank-clearance-delays-unloading-super-diesel-cargo/342-243740",
     "time_ut": 1661429973,
     "original_lang": "en",
     "original_title": "Bank clearance delays unloading super diesel cargo",
-    "file_name": "/tmp/news_lk2/articles/70/70e53a1c.json"
+    "file_name": "/tmp/news_lk2/articles/7d/7d9f9050.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/2100-businesses-installed-their-own-fuel-storage-tanks-many-without-permission-Minister/108-243739",
+    "url": "https://www.dailymirror.lk/latest_news/2100-businesses-installed-their-own-fuel-storage-tanks-many-without-permission-Minister/342-243739",
     "time_ut": 1661429662,
     "original_lang": "en",
     "original_title": "2100+ businesses installed their own fuel storage tanks, many without permission: Minister",
-    "file_name": "/tmp/news_lk2/articles/c7/c70316a1.json"
+    "file_name": "/tmp/news_lk2/articles/79/7931f7ef.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
