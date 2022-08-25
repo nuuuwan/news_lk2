@@ -1,22 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-25 23:13:29 (LK time)*
+*As of 2022-08-25 23:40:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
+* **1** daily-mirror-lk ([India urges its citizens to examine relevant factors before undertaking visit to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/717edecd.json))
+
+## Last Hour (2 Articles)
+
+* **1** daily-mirror-lk ([India urges its citizens to examine relevant factors before undertaking visit to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/717edecd.json))
+
 * **1** ada-derana-lk ([CBSL Governor to conduct special program for MPs on Sri Lanka’s economic situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afd1333e.json))
 
-## Last Hour (1 Articles)
-
-* **1** ada-derana-lk ([CBSL Governor to conduct special program for MPs on Sri Lanka’s economic situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afd1333e.json))
-
-## Last 3 Hours (12 Articles)
+## Last 3 Hours (11 Articles)
 
 * **4** news-first-lk ([Summer Hill Leopard Tragedy: Cause of Death revealed](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0112be01.json))
 
-* **3** daily-mirror-lk ([Ranjan seeks forgiveness from the entire Judiciary](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b221396e.json))
+* **2** daily-mirror-lk ([Nine Sri Lankan flyers detained with gold in their rectums at Hyderabad airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebb52b9f.json))
 
 * **2** ada-derana-lk ([Sri Lanka reports 6 more Covid-19 deaths, 114 new cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3ffa4445.json))
 
@@ -26,11 +28,11 @@
 
 * **1** lankadeepa-lk ([කොවිඩ් ආසාදිතයන් 114 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de48a80.json))
 
-## Last 24 Hours (183 Articles)
+## Last 24 Hours (184 Articles)
 
 * **40** lankadeepa-lk ([බස් යතුරු පැදි ගැටී තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2e669e.json))
 
-* **29** daily-mirror-lk ([Beware the Neddas!](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48c54513.json))
+* **30** daily-mirror-lk ([Beware the Neddas!](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48c54513.json))
 
 * **26** ada-derana-lk ([Circular issued to allow govt officials to take up foreign jobs](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b24e2d2c.json))
 
@@ -46,7 +48,7 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## Last Week (1,375 Articles)
+## Last Week (1,376 Articles)
 
 * **268** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
@@ -56,7 +58,7 @@
 
 * **173** ada-lk ([ජනපති හා එක්සත් ජාතින්ගේ නියෝජිත පිරිස අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2aa02d5f.json))
 
-* **162** daily-mirror-lk ([Significant deceleration in money printing expected: CB](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ad4d1d0.json))
+* **163** daily-mirror-lk ([Significant deceleration in money printing expected: CB](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ad4d1d0.json))
 
 * **158** ada-derana-lk ([Australia kicks in extra $25 million emergency aid to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4a978da.json))
 
@@ -70,13 +72,13 @@
 
 * **16** d-b-s-jeyaraj-com ([SLPP Delegation led by National Organizer Basil Rajapaksa Meets President Wickremesinghe and Requests him to Facilitate Former President Gotabaya Rajapaksa’s safe Return to Sri Lanka :assures party’s fullest support to Ranil’s  endeavours to ensure the recovery of Sri Lanka’s economy.](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e6c31be.json))
 
-## All Time (2,878 Articles)
+## All Time (2,879 Articles)
 
 * **524** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **380** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **365** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
+* **366** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
 * **330** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 

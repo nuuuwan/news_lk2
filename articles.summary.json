@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/India-urges-its-citizens-to-examine-relevant-factors-before-undertaking-visit-to-Sri-Lanka/108-243748",
+    "time_ut": 1661450208,
+    "original_lang": "en",
+    "original_title": "India urges its citizens to examine relevant factors before undertaking visit to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/71/717edecd.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84544/cbsl-governor-to-conduct-special-program-for-mps-on-sri-lankas-economic-situation",
     "time_ut": 1661448660,
@@ -89,11 +97,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Ranjan-seeks-forgiveness-from-the-entire-Judiciary/108-243745",
+    "url": "https://www.dailymirror.lk/latest_news/Ranjan-seeks-forgiveness-from-the-entire-Judiciary/342-243745",
     "time_ut": 1661439032,
     "original_lang": "en",
     "original_title": "Ranjan seeks forgiveness from the entire Judiciary",
-    "file_name": "/tmp/news_lk2/articles/b2/b221396e.json"
+    "file_name": "/tmp/news_lk2/articles/11/1108023e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
