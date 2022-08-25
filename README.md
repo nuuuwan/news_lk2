@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-25 23:40:56 (LK time)*
+*As of 2022-08-25 23:51:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -14,9 +14,9 @@
 
 * **1** ada-derana-lk ([CBSL Governor to conduct special program for MPs on Sri Lanka’s economic situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afd1333e.json))
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (10 Articles)
 
-* **4** news-first-lk ([Summer Hill Leopard Tragedy: Cause of Death revealed](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0112be01.json))
+* **3** news-first-lk ([Chinese Fertilizer: Qingdao takes back US $ 5 Mn bond](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63b569d0.json))
 
 * **2** daily-mirror-lk ([Nine Sri Lankan flyers detained with gold in their rectums at Hyderabad airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebb52b9f.json))
 
