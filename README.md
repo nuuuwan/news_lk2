@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-25 05:15:21 (LK time)*
+*As of 2022-08-25 05:33:44 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -26,7 +26,7 @@
 
 * **13** economy-next-com ([Egg in the face of Sri Lanka President’s ‘Social Market Economy’](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39240274.json))
 
-## Last Week (1,405 Articles)
+## Last Week (1,400 Articles)
 
 * **268** lankadeepa-lk ([අන්නාසි වගාව නැත්තටම නැති වෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaa714e.json))
 
@@ -42,7 +42,7 @@
 
 * **97** economy-next-com ([Sri Lanka sell Rs60bn mostly in 3-month bills, yield up](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5cf3df2.json))
 
-* **65** daily-ft-lk ([Harsha’s harsh blueprint and AKD as alternative](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84aa8372.json))
+* **60** daily-ft-lk ([Dickwella Estate achieves record for FBOPF1 grade](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96bc8bc7.json))
 
 * **51** island-lk ([CSE recovers following CBSL chief’s observations on local economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4800617.json))
 
