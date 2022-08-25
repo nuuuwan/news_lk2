@@ -1,16 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-25 06:21:54 (LK time)*
+*As of 2022-08-25 07:01:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last Hour (1 Articles)
 
-* **6** daily-mirror-lk ([Beware the Neddas!](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48c54513.json))
+* **1** lankadeepa-lk ([බස් යතුරු පැදි ගැටී තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2e669e.json))
 
-## Last 24 Hours (192 Articles)
+## Last 3 Hours (3 Articles)
 
-* **34** lankadeepa-lk ([තවත් භාණ්ඩ 300ක් ආනයනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f66d41f.json))
+* **2** daily-mirror-lk ([Information and cybersecurity policy for all govt. entities](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/920d5297.json))
+
+* **1** lankadeepa-lk ([බස් යතුරු පැදි ගැටී තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2e669e.json))
+
+## Last 24 Hours (188 Articles)
+
+* **34** lankadeepa-lk ([දෙපිරිසක් අතර ගැටුමකින් අයෙක් මරු තවත් අයෙක් රෝහලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47a4cf0a.json))
 
 * **32** daily-mirror-lk ([Govt. slaps import ban on wide range of goods](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f44a11f.json))
 
@@ -24,23 +30,23 @@
 
 * **13** economy-next-com ([Egg in the face of Sri Lanka President’s ‘Social Market Economy’](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39240274.json))
 
-* **11** daily-ft-lk ([Dilmah and Good Life X launch‘ Lost Ingredients Lab’](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd2ae236.json))
+* **7** daily-ft-lk ([The spirit of the 9 July uprising in Sri Lanka remains alive](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/874d8261.json))
 
 * **5** island-lk ([Nations Trust Bank expands physical touchpoints with new cash deposits and withdrawal machines at Keells outlets](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c3c1e2.json))
 
-## Last Week (1,412 Articles)
+## Last Week (1,404 Articles)
 
-* **268** lankadeepa-lk ([අන්නාසි වගාව නැත්තටම නැති වෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaa714e.json))
+* **266** lankadeepa-lk ([දරුවකු ඇළට විසි කළ ග්‍රාමයාට වැඩ වරදි](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48cba1c1.json))
 
 * **195** news-first-lk ([NO change to CBSL policy rates](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbfefd7f.json))
 
-* **193** tamil-mirror-lk ([அனைவருக்கும் நிவாரணம்: சஜித் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b487d3c8.json))
+* **191** tamil-mirror-lk ([கடவுச்சீட்டு விநியோகத்தில் புதிய நடைமுறை](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a94ca4d.json))
 
 * **178** ada-lk ([ගෝඨා ඇමෙරිකානු ග්‍රීන් කාඩ් ලොතරැයියට අයඳුම් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/718f11cb.json))
 
-* **165** daily-mirror-lk ([GR applies for US Green Card, looks to settle back in US](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfceac11.json))
-
 * **163** ada-derana-lk ([Showers expected in several provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5b65e16.json))
+
+* **161** daily-mirror-lk ([Man arrested for entering MP Kokila’s residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ff92bc.json))
 
 * **97** economy-next-com ([Sri Lanka sell Rs60bn mostly in 3-month bills, yield up](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5cf3df2.json))
 
@@ -52,9 +58,9 @@
 
 * **16** colombo-telegraph-com ([Is The Doctrine Of Necessity Being Relevant For Sri Lanka To Initiate A People-Centered Constitution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58721c6.json))
 
-## All Time (2,712 Articles)
+## All Time (2,713 Articles)
 
-* **485** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **486** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **353** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
