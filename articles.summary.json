@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84539/unloading-of-diesel-cargo-delayed-due-to-bank-clearances",
+    "time_ut": 1661428980,
+    "original_lang": "en",
+    "original_title": "Unloading of diesel cargo delayed due to bank clearances",
+    "file_name": "/tmp/news_lk2/articles/9c/9c8eb460.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84538/power-cut-schedule-for-tomorrow",
+    "time_ut": 1661428860,
+    "original_lang": "en",
+    "original_title": "Power cut schedule for tomorrow",
+    "file_name": "/tmp/news_lk2/articles/4c/4cbb6fe2.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/25/delayed-super-diesel-cargo-being-unloaded-distribution-to-continue-tonight/",
     "time_ut": 1661427600,
@@ -72,6 +88,14 @@
     "file_name": "/tmp/news_lk2/articles/b5/b5a0a4e5.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dc0\u0dbd\u0da7-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0daf\u0dd9\u0db1\u0dca-\u0db1\u0dd1/11-396610",
+    "time_ut": 1661425627,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dc0\u0dbd\u0da7 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0daf\u0dd9\u0db1\u0dca \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/16/1665f052.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/25/deputy-police-chief-testifies-in-probe-on-assault-on-journalists/",
     "time_ut": 1661425560,
@@ -94,6 +118,14 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca \u0dc4\u0dd9\u0da7 \u0dc4\u0ddd \u0dc3\u0db3\u0dd4\u0daf\u0dcf \u0dc4\u0ddd \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca?",
     "file_name": "/tmp/news_lk2/articles/4c/4cf45b69.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca-\u0dc4\u0dd9\u0da7-\u0dc4\u0ddd-\u0dc3\u0db3\u0dd4\u0daf\u0dcf-\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca-/101-618744",
+    "time_ut": 1661424689,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca \u0dc4\u0dd9\u0da7 \u0dc4\u0ddd \u0dc3\u0db3\u0dd4\u0daf\u0dcf \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca?",
+    "file_name": "/tmp/news_lk2/articles/61/61cd5190.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -5110,14 +5142,6 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dc3\u0db1\u0dca\u0dad \u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0d9c\u0dda \u0d87\u0dad\u0dd4\u0dc5\u0dd4  \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dcf  \u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dbb\u0daf\u0dc0\u0dcf \u0d9c\u0db1\u0dca\u0db1 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0d85\u0dc0\u0dc3\u0dbb\u0dba",
     "file_name": "/tmp/news_lk2/articles/39/39c4a63c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84465/power-cut-schedule-for-tomorrow",
-    "time_ut": 1661170200,
-    "original_lang": "en",
-    "original_title": "Power cut schedule for tomorrow",
-    "file_name": "/tmp/news_lk2/articles/f4/f4e2c6bb.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
