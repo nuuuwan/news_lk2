@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/fuel-queues-seen-outside-several-filling-stations-in-sri-lanka-as-schools-reopen-99021/",
+    "time_ut": 1661430660,
+    "original_lang": "en",
+    "original_title": "Fuel queues seen outside several filling stations in Sri Lanka as schools reopen",
+    "file_name": "/tmp/news_lk2/articles/72/72a18600.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Bank-clearance-delays-unloading-super-diesel-cargo/108-243740",
+    "time_ut": 1661429973,
+    "original_lang": "en",
+    "original_title": "Bank clearance delays unloading super diesel cargo",
+    "file_name": "/tmp/news_lk2/articles/70/70e53a1c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/2100-businesses-installed-their-own-fuel-storage-tanks-many-without-permission-Minister/108-243739",
+    "time_ut": 1661429662,
+    "original_lang": "en",
+    "original_title": "2100+ businesses installed their own fuel storage tanks, many without permission: Minister",
+    "file_name": "/tmp/news_lk2/articles/c7/c70316a1.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84539/unloading-of-diesel-cargo-delayed-due-to-bank-clearances",
     "time_ut": 1661428980,
@@ -9,11 +33,27 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84539/super-diesel-cargo-being-unloaded-after-delay",
+    "time_ut": 1661428980,
+    "original_lang": "en",
+    "original_title": "Super Diesel cargo being unloaded after delay",
+    "file_name": "/tmp/news_lk2/articles/ed/eda6f205.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84538/power-cut-schedule-for-tomorrow",
     "time_ut": 1661428860,
     "original_lang": "en",
     "original_title": "Power cut schedule for tomorrow",
     "file_name": "/tmp/news_lk2/articles/4c/4cbb6fe2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0da7-\u0dc4\u0dd9\u0da7-\u0dc4\u0ddd--\u0dc3\u0db3\u0dd4\u0daf\u0dcf-\u0db1\u0dd2\u0daf\u0dc4\u0dc3/11-396612",
+    "time_ut": 1661428081,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0da7 \u0dc4\u0dd9\u0da7 \u0dc4\u0ddd  \u0dc3\u0db3\u0dd4\u0daf\u0dcf \u0db1\u0dd2\u0daf\u0dc4\u0dc3",
+    "file_name": "/tmp/news_lk2/articles/86/86e24f4b.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -326,6 +366,14 @@
     "original_lang": "en",
     "original_title": "Fuel not distributed to businesses sans approval & disregard guidelines: Minister",
     "file_name": "/tmp/news_lk2/articles/fa/faa3f1ef.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84531/fuel-not-distributed-to-businesses-sans-approval-disregarding-guidelines-minister",
+    "time_ut": 1661419440,
+    "original_lang": "en",
+    "original_title": "Fuel not distributed to businesses sans approval & disregarding guidelines: Minister",
+    "file_name": "/tmp/news_lk2/articles/1e/1ed2628d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "ta",
     "original_title": "50 \u0baa\u0bc7\u0bb0\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb5\u0b9a\u0bb0 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf",
     "file_name": "/tmp/news_lk2/articles/65/656af8d7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/20/sapugaskanda-recommences-operations/",
-    "time_ut": 1661003820,
-    "original_lang": "en",
-    "original_title": "Sapugaskanda recommences operations",
-    "file_name": "/tmp/news_lk2/articles/ed/ed010a7a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/204-Lankan-flights-stopped-for-refuelling-at-Thiruvananthapuram-airport/155-243429",
-    "time_ut": 1661003573,
-    "original_lang": "en",
-    "original_title": "204 Lankan flights stopped for refuelling at Thiruvananthapuram airport",
-    "file_name": "/tmp/news_lk2/articles/86/86de61ba.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84427/sapugaskanda-refinery-resumes-operations",
-    "time_ut": 1661003460,
-    "original_lang": "en",
-    "original_title": "Sapugaskanda Refinery resumes operations",
-    "file_name": "/tmp/news_lk2/articles/a9/a97aa9f4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/CID-record-statements-from-Dulanjalee-Premadasa-and-Hirunika/108-243428",
-    "time_ut": 1661002854,
-    "original_lang": "en",
-    "original_title": "CID record statements from Dulanjalee Premadasa and Hirunika",
-    "file_name": "/tmp/news_lk2/articles/0a/0a42f909.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd3-\u0d85\u0dbd\u0dd9\u0dc0\u0dd2-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba-\u0dc0\u0dd3-\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca-\u0da7\u0ddc\u0db1\u0dca-332-\u0d9a\u0dca-\u0db8\u0dd2\u0dbd\u0daf\u0dd3-\u0d9c\u0db1\u0dd3/11-396467",
-    "time_ut": 1661002061,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd3 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0dc0\u0dd3 \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0da7\u0ddc\u0db1\u0dca 332 \u0d9a\u0dca \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0db1\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/27/27f1d8ac.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/20/sumanthiran-condemns-detention-orders-on-protestors-calls-for-pta-to-be-repealed/",
-    "time_ut": 1661001420,
-    "original_lang": "en",
-    "original_title": "Sumanthiran condemns detention orders on protestors, calls for PTA to be repealed",
-    "file_name": "/tmp/news_lk2/articles/1f/1f3917ee.json"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/fuel-queues-seen-outside-several-filling-stations-in-sri-lanka-as-schools-reopen-99021/",
+    "time_ut": 1661430660,
+    "original_lang": "en",
+    "original_title": "Fuel queues seen outside several filling stations in Sri Lanka as schools reopen",
+    "file_name": "/tmp/news_lk2/articles/72/72a18600.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Bank-clearance-delays-unloading-super-diesel-cargo/108-243740",
+    "time_ut": 1661429973,
+    "original_lang": "en",
+    "original_title": "Bank clearance delays unloading super diesel cargo",
+    "file_name": "/tmp/news_lk2/articles/70/70e53a1c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/2100-businesses-installed-their-own-fuel-storage-tanks-many-without-permission-Minister/108-243739",
+    "time_ut": 1661429662,
+    "original_lang": "en",
+    "original_title": "2100+ businesses installed their own fuel storage tanks, many without permission: Minister",
+    "file_name": "/tmp/news_lk2/articles/c7/c70316a1.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84539/unloading-of-diesel-cargo-delayed-due-to-bank-clearances",
     "time_ut": 1661428980,
@@ -9,11 +33,27 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84539/super-diesel-cargo-being-unloaded-after-delay",
+    "time_ut": 1661428980,
+    "original_lang": "en",
+    "original_title": "Super Diesel cargo being unloaded after delay",
+    "file_name": "/tmp/news_lk2/articles/ed/eda6f205.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84538/power-cut-schedule-for-tomorrow",
     "time_ut": 1661428860,
     "original_lang": "en",
     "original_title": "Power cut schedule for tomorrow",
     "file_name": "/tmp/news_lk2/articles/4c/4cbb6fe2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0da7-\u0dc4\u0dd9\u0da7-\u0dc4\u0ddd--\u0dc3\u0db3\u0dd4\u0daf\u0dcf-\u0db1\u0dd2\u0daf\u0dc4\u0dc3/11-396612",
+    "time_ut": 1661428081,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0da7 \u0dc4\u0dd9\u0da7 \u0dc4\u0ddd  \u0dc3\u0db3\u0dd4\u0daf\u0dcf \u0db1\u0dd2\u0daf\u0dc4\u0dc3",
+    "file_name": "/tmp/news_lk2/articles/86/86e24f4b.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -326,6 +366,14 @@
     "original_lang": "en",
     "original_title": "Fuel not distributed to businesses sans approval & disregard guidelines: Minister",
     "file_name": "/tmp/news_lk2/articles/fa/faa3f1ef.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84531/fuel-not-distributed-to-businesses-sans-approval-disregarding-guidelines-minister",
+    "time_ut": 1661419440,
+    "original_lang": "en",
+    "original_title": "Fuel not distributed to businesses sans approval & disregarding guidelines: Minister",
+    "file_name": "/tmp/news_lk2/articles/1e/1ed2628d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
