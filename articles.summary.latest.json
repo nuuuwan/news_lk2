@@ -1,11 +1,59 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0db3\u0dd4\u0d9a\u0dbb-\u0d9a\u0ddc\u0da7\u0dd2-\u0db4\u0dd0\u0da7\u0dc0\u0dd9\u0d9a\u0dca-\u0db8\u0daf\u0dca\u0daf\u0d9a\u0da7-\u0db6\u0dd2\u0dbd\u0dd2/1-618738",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0db8\u0dcf\u0dc0-\u0d9c\u0db1\u0dd3/101-618741",
+    "time_ut": 1661423527,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dcf\u0dc0 \u0d9c\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/2b/2b458b95.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84535/woman-arrested-over-pushing-slpp-supporters-into-beira-lake-remanded",
+    "time_ut": 1661423220,
+    "original_lang": "en",
+    "original_title": "Woman arrested over pushing SLPP supporters into Beira Lake remanded",
+    "file_name": "/tmp/news_lk2/articles/49/491730a8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84534/japans-police-chief-resigns-over-ex-pm-assassination",
+    "time_ut": 1661423160,
+    "original_lang": "en",
+    "original_title": "Japan\u2019s police chief resigns over ex-PM assassination",
+    "file_name": "/tmp/news_lk2/articles/71/71552158.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-imprisoned-ex-mp-likely-to-be-released-aug-26-or-29-tourism-minister-99014/",
+    "time_ut": 1661422980,
+    "original_lang": "en",
+    "original_title": "Sri Lanka imprisoned ex MP likely to be released Aug 26 or 29: tourism minister",
+    "file_name": "/tmp/news_lk2/articles/5b/5b81181f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84533/leopard-death-in-hatton-report-reveals-cause-of-death-",
+    "time_ut": 1661422380,
+    "original_lang": "en",
+    "original_title": "Leopard death in Hatton: report reveals cause of death",
+    "file_name": "/tmp/news_lk2/articles/3c/3ca0c903.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dad\u0dbb\u0db8\u0d9f-\u0db1\u0dad\u0dbb-\u0dc0\u0dd4\u0dab\u0dd4-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2-\u0db4\u0da7\u0db1\u0dca-\u0d9c\u0db1\u0dca\u0db1-\u0daf\u0dc0\u0dc3-\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc3\u0db1\u0dca\u0db1-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-618739",
+    "time_ut": 1661422265,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dad\u0dbb\u0db8\u0d9f \u0db1\u0dad\u0dbb \u0dc0\u0dd4\u0dab\u0dd4 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 \u0db4\u0da7\u0db1\u0dca \u0d9c\u0db1\u0dca\u0db1 \u0daf\u0dc0\u0dc3 \u0d87\u0db8\u0dd0\u0dad\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc3\u0db1\u0dca\u0db1 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/67/676cbbf5.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0db3\u0dd4\u0d9a\u0dbb-\u0d9a\u0ddc\u0da7\u0dd2-\u0db4\u0dd0\u0da7\u0dc0\u0dd9\u0d9a\u0dca-\u0db8\u0daf\u0dca\u0daf\u0d9a\u0da7-\u0db6\u0dd2\u0dbd\u0dd2/101-618738",
     "time_ut": 1661421863,
     "original_lang": "si",
     "original_title": "\u0d9a\u0db3\u0dd4\u0d9a\u0dbb \u0d9a\u0ddc\u0da7\u0dd2 \u0db4\u0dd0\u0da7\u0dc0\u0dd9\u0d9a\u0dca \u0db8\u0daf\u0dca\u0daf\u0d9a\u0da7 \u0db6\u0dd2\u0dbd\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/25/25301693.json"
+    "file_name": "/tmp/news_lk2/articles/51/51b7e3ff.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -22,6 +70,22 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bc0\u0ba3\u0bcd\u0b9f\u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0ba4\u0bca\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbe\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/a7/a7c5d1c2.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc7\u0bb1\u0bbf\u0baf-\u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/76-302988",
+    "time_ut": 1661421568,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc7\u0bb1\u0bbf\u0baf \u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/da/daee3b5d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbd\u0ddd\u0d9a-\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0d87-\u0da9\u0ddc--\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-04\u0d9a-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba-\u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8\u0dca/11-396607",
+    "time_ut": 1661421181,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0ddd\u0d9a \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d87.\u0da9\u0ddc. \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 04\u0d9a \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/f3/f3f977e9.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -41,11 +105,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dc0\u0dad\u0dca-\u0d9a\u0db3\u0dd4\u0d9a\u0dbb-\u0d9a\u0ddc\u0da7\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0dc3\u0db8\u0dd4\u0d9c\u0db1\u0dd3/101-618734",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dc0\u0dad\u0dca-\u0d9a\u0db3\u0dd4\u0d9a\u0dbb-\u0d9a\u0ddc\u0da7\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0dc3\u0db8\u0dd4\u0d9c\u0db1\u0dd3/1-618734",
     "time_ut": 1661419974,
     "original_lang": "si",
     "original_title": "\u0dad\u0dc0\u0dad\u0dca \u0d9a\u0db3\u0dd4\u0d9a\u0dbb \u0d9a\u0ddc\u0da7\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0dc3\u0db8\u0dd4\u0d9c\u0db1\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/cf/cf472e1f.json"
+    "file_name": "/tmp/news_lk2/articles/c8/c818d02c.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "en",
     "original_title": "Police seek public assistance to identify 50 suspects",
     "file_name": "/tmp/news_lk2/articles/61/61e2396d.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/a-tale-of-two-exes-gota-returning-en-route-to-us-trump-under-siege-in-the-us/",
-    "time_ut": 1660991520,
-    "original_lang": "en",
-    "original_title": "A tale of two exes: Gota returning en route to US, Trump under siege in the US",
-    "file_name": "/tmp/news_lk2/articles/30/3071b700.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/jaffna-university-vice-chancellor-caught-copying-cheating/",
-    "time_ut": 1660991438,
-    "original_lang": "en",
-    "original_title": "Jaffna University Vice-Chancellor Caught Copying & Cheating",
-    "file_name": "/tmp/news_lk2/articles/aa/aac75776.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/aragalaya-machine-being-re-cranked/",
-    "time_ut": 1660991400,
-    "original_lang": "en",
-    "original_title": "Aragalaya machine being re-cranked?",
-    "file_name": "/tmp/news_lk2/articles/97/970df46c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/20/slc-releases-squad-for-asia-cup-2022/",
-    "time_ut": 1660990920,
-    "original_lang": "en",
-    "original_title": "SLC releases squad for Asia Cup 2022",
-    "file_name": "/tmp/news_lk2/articles/31/31484193.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dc4-\u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda-\u0db6\u0da9-\u0d89\u0dbb\u0dd2\u0d9f\u0dd4-\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0da7-\u0dbb\u0dc3\u0dcf\u0dba\u0db1\u0dd2\u0d9a--\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0d95\u0db1-\u0db1\u0db8\u0dca-\u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1/11-396464",
-    "time_ut": 1660990671,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dc4 \u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda \u0db6\u0da9 \u0d89\u0dbb\u0dd2\u0d9f\u0dd4 \u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0da7 \u0dbb\u0dc3\u0dcf\u0dba\u0db1\u0dd2\u0d9a  \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0d95\u0db1 \u0db1\u0db8\u0dca \u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/db/db78ae4d.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe/175-302669",
-    "time_ut": 1660990429,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe",
-    "file_name": "/tmp/news_lk2/articles/51/51fd5eea.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/partition-of-india-facts-hearsay-literature-and-films/",
-    "time_ut": 1660990380,
-    "original_lang": "en",
-    "original_title": "Partition of India: facts, hearsay, literature and films",
-    "file_name": "/tmp/news_lk2/articles/61/6128c759.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84422/three-killed-as-tractor-transporting-group-of-people-topples",
-    "time_ut": 1660990260,
-    "original_lang": "en",
-    "original_title": "Three killed as tractor transporting group of people topples",
-    "file_name": "/tmp/news_lk2/articles/39/394bced9.json"
   }
 ]
