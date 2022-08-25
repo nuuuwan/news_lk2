@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84524/leader-of-ape-jana-bala-pakshaya-remanded",
+    "time_ut": 1661392080,
+    "original_lang": "en",
+    "original_title": "Leader of \u2018Ape Jana Bala Pakshaya\u2019 remanded",
+    "file_name": "/tmp/news_lk2/articles/36/3648c218.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84523/fairly-heavy-rains-of-about-75mm-expected-in-three-provinces",
+    "time_ut": 1661391240,
+    "original_lang": "en",
+    "original_title": "Fairly heavy rains of about 75mm expected in three provinces",
+    "file_name": "/tmp/news_lk2/articles/9c/9c0dd76c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ape-Jana-Bala-Party-Chairman-remanded/108-243702",
+    "time_ut": 1661390686,
+    "original_lang": "en",
+    "original_title": "Ape Jana Bala Party Chairman remanded",
+    "file_name": "/tmp/news_lk2/articles/54/5450098c.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db6\u0dc3\u0dca-\u0dba\u0dad\u0dd4\u0dbb\u0dd4-\u0db4\u0dd0\u0daf\u0dd2-\u0d9c\u0dd0\u0da7\u0dd3-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/101-618705",
     "time_ut": 1661389133,
@@ -9,11 +33,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Tourist-arrivals-top-30-000-in-first-three-weeks-of-August/342-243697",
+    "url": "https://www.dailymirror.lk/latest_news/30-State-Ministers-to-be-appointed/342-243699",
+    "time_ut": 1661387805,
+    "original_lang": "en",
+    "original_title": "30 State Ministers to be appointed",
+    "file_name": "/tmp/news_lk2/articles/88/8820411b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Tourist-arrivals-top-30-000-in-first-three-weeks-of-August/273-243697",
     "time_ut": 1661381575,
     "original_lang": "en",
     "original_title": "Tourist arrivals top 30,000 in first three weeks of August",
-    "file_name": "/tmp/news_lk2/articles/6a/6a07c3d7.json"
+    "file_name": "/tmp/news_lk2/articles/c4/c422149e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -238,6 +270,14 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bc6\u0bb9\u0bb2\u0bbf\u0baf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
     "file_name": "/tmp/news_lk2/articles/b0/b0f4517c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/Green-Eco-Lodge--\u0dbb\u0ddd\u0dc4\u0dd2\u0dd2\u0dad-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0da7-\u0d85\u0dba\u0dad\u0dca-\u0db6\u0dc0\u0da7-\u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/11-396588",
+    "time_ut": 1661357297,
+    "original_lang": "si",
+    "original_title": "Green Eco Lodge  \u0dbb\u0ddd\u0dc4\u0dd2\u0dd2\u0dad \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0da7 \u0d85\u0dba\u0dad\u0dca \u0db6\u0dc0\u0da7 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/1a/1a7749d7.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4 \u0ba4\u0b9f\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/bb/bb60313a.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79093",
-    "time_ut": 1660937100,
-    "original_lang": "en",
-    "original_title": "The 2000 Day \u201cPoaraattam\u201d (Struggle) by Tamil Women for Their \u201cDisappeared\u201d Loved Ones.",
-    "file_name": "/tmp/news_lk2/articles/55/55159169.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b9e\u0bcd\u0b9a-\u0b8a\u0bb4\u0bb2\u0bcd-\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bca\u0ba9\u0bcd\u0bb1\u0bc1-\u0bb5\u0bb0\u0bc1\u0bae\u0bcd/175-302650",
-    "time_ut": 1660937011,
-    "original_lang": "ta",
-    "original_title": "\u2019\u0b87\u0bb2\u0b9e\u0bcd\u0b9a, \u0b8a\u0bb4\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bca\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd\u2019",
-    "file_name": "/tmp/news_lk2/articles/66/665765bf.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb2-\u0ba4\u0bbf\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd-\u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bcd/175-302649",
-    "time_ut": 1660936652,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bbf\u0bb2 \u0ba4\u0bbf\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/5f/5fe5d3af.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0b9f\u0bc8-\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc7-\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8-\u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0ba9/175-302648",
-    "time_ut": 1660936134,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0b9f\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc7 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0ba9",
-    "file_name": "/tmp/news_lk2/articles/ae/ae3c7811.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba4\u0bcd\u0ba4\u0bb3-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0b92\u0bb0\u0bc1-\u0baa\u0b99\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd/175-302647",
-    "time_ut": 1660935375,
-    "original_lang": "ta",
-    "original_title": "\u2019\u0bae\u0ba4\u0bcd\u0ba4\u0bb3 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd\u2019",
-    "file_name": "/tmp/news_lk2/articles/4e/4e2d6dd3.json"
   }
 ]
