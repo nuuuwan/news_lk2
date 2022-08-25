@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9c\u0db8-\u0da9\u0dd2\u0db4\u0ddd\u0dc0\u0dbd\u0da7-\u0daf\u0dd2\u0db1-\u0daf\u0dd9\u0d9a\u0d9a\u0dd2\u0db1\u0dca-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db1\u0dd1/1-618727",
+    "time_ut": 1661413528,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9c\u0db8 \u0da9\u0dd2\u0db4\u0ddd\u0dc0\u0dbd\u0da7 \u0daf\u0dd2\u0db1 \u0daf\u0dd9\u0d9a\u0d9a\u0dd2\u0db1\u0dca \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/ba/ba4cdad3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/25/ruwanpura-expressway-no-compensation-for-lost-land/",
+    "time_ut": 1661413260,
+    "original_lang": "en",
+    "original_title": "Ruwanpura Expressway: No compensation for lost land",
+    "file_name": "/tmp/news_lk2/articles/d4/d47f53f3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca---\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca-\u0dc4\u0dd2\u0d9f\u0dba\u0d9a\u0dca/1-618726",
+    "time_ut": 1661413031,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca - \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca \u0dc4\u0dd2\u0d9f\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/a2/a234b940.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/25/leopard-carcass-discovered-from-nawalapitiya/",
     "time_ut": 1661412600,
@@ -350,6 +374,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka farmers showing stronger than expected interest to grow maize: Minister",
     "file_name": "/tmp/news_lk2/articles/93/9312a450.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/sri-lankas-pta-the-anti-terrorism-law-that-promotes-terrorism/",
+    "time_ut": 1661394009,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s PTA: The Anti-Terrorism Law That Promotes Terrorism",
+    "file_name": "/tmp/news_lk2/articles/a1/a15ed447.json"
   },
   {
     "newspaper_id": "ada-lk",

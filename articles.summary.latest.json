@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9c\u0db8-\u0da9\u0dd2\u0db4\u0ddd\u0dc0\u0dbd\u0da7-\u0daf\u0dd2\u0db1-\u0daf\u0dd9\u0d9a\u0d9a\u0dd2\u0db1\u0dca-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db1\u0dd1/1-618727",
+    "time_ut": 1661413528,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9c\u0db8 \u0da9\u0dd2\u0db4\u0ddd\u0dc0\u0dbd\u0da7 \u0daf\u0dd2\u0db1 \u0daf\u0dd9\u0d9a\u0d9a\u0dd2\u0db1\u0dca \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/ba/ba4cdad3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/25/ruwanpura-expressway-no-compensation-for-lost-land/",
+    "time_ut": 1661413260,
+    "original_lang": "en",
+    "original_title": "Ruwanpura Expressway: No compensation for lost land",
+    "file_name": "/tmp/news_lk2/articles/d4/d47f53f3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca---\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca-\u0dc4\u0dd2\u0d9f\u0dba\u0d9a\u0dca/1-618726",
+    "time_ut": 1661413031,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca - \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca \u0dc4\u0dd2\u0d9f\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/a2/a234b940.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/25/leopard-carcass-discovered-from-nawalapitiya/",
     "time_ut": 1661412600,
@@ -350,6 +374,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka farmers showing stronger than expected interest to grow maize: Minister",
     "file_name": "/tmp/news_lk2/articles/93/9312a450.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/sri-lankas-pta-the-anti-terrorism-law-that-promotes-terrorism/",
+    "time_ut": 1661394009,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s PTA: The Anti-Terrorism Law That Promotes Terrorism",
+    "file_name": "/tmp/news_lk2/articles/a1/a15ed447.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc4\u0dac\u0da7\u0dad\u0dca \u0dc3\u0dc0\u0db1\u0dca\u0daf\u0dd3 \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0dc0\u0dd2\u0dc3\u0db3\u0db1\u0dd4",
     "file_name": "/tmp/news_lk2/articles/7d/7deffc4e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84419/customs-foils-attempt-to-smuggle-in-gold-jewellery-worth-rs-18-mn",
-    "time_ut": 1660975980,
-    "original_lang": "en",
-    "original_title": "Customs foils attempt to smuggle in gold jewellery worth Rs. 18 Mn",
-    "file_name": "/tmp/news_lk2/articles/45/4530be0a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/20/water-cut-tonight-20/",
-    "time_ut": 1660974300,
-    "original_lang": "en",
-    "original_title": "Water cut tonight (20)",
-    "file_name": "/tmp/news_lk2/articles/39/399f8bc4.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bb5\u0bbf\u0baa\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bae\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/72-302661",
-    "time_ut": 1660974278,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bbf\u0baa\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8; \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/61/61460058.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bb5\u0bbf\u0baa\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf-\u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bae\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/72-302661",
-    "time_ut": 1660974278,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bbf\u0baa\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8; \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/e5/e5f16b65.json"
   }
 ]
