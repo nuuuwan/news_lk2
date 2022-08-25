@@ -1,11 +1,51 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0d86\u0dba\u0ddd\u0da2\u0db1-\u0db7\u0dd6\u0dad\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dcf\u0da9\u0db8\u0d9a\u0dca/2-618711",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db4\u0dd4\u0dbb\u2018\u0dc3\u0dad\u0ddc\u0dc3-\u0d9c\u0db6\u0da9\u0dcf-\u0d9a\u0dbd\u0db8\u0dab\u0dcf\u0d9a\u0dcf\u0dbb\u0dd2\u0dab\u0dd2\u0dba\u0da7-\u0dbb\u0da7-\u0dba\u0db1\u0dca\u0db1-\u0dad\u0dc4\u0db1\u0db8\u0dca/1-618717",
+    "time_ut": 1661405129,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db4\u0dd4\u0dbb\u2018\u0dc3\u0dad\u0ddc\u0dc3 \u0d9c\u0db6\u0da9\u0dcf \u0d9a\u0dbd\u0db8\u0dab\u0dcf\u0d9a\u0dcf\u0dbb\u0dd2\u0dab\u0dd2\u0dba\u0da7 \u0dbb\u0da7 \u0dba\u0db1\u0dca\u0db1 \u0dad\u0dc4\u0db1\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/c5/c5917e6c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dc3\u0dca---\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2-\u0d9c\u0dd0\u0da7\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dd4-\u0db8\u0dbb\u0dd4\u0da7/11-396594",
+    "time_ut": 1661404700,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dc3\u0dca - \u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2 \u0d9c\u0dd0\u0da7\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dd4 \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/cd/cd1931e3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0db3\u0dd4\u0d9a\u0dbb-\u0d9a\u0ddc\u0da7\u0dd2\u0dba\u0dcf-\u0d9c\u0dd0\u0db1-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0-\u0d87\u0db8\u0dd0\u0dad\u0dd2\u0da7/1-618716",
+    "time_ut": 1661404307,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0db3\u0dd4\u0d9a\u0dbb \u0d9a\u0ddc\u0da7\u0dd2\u0dba\u0dcf \u0d9c\u0dd0\u0db1 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0 \u0d87\u0db8\u0dd0\u0dad\u0dd2\u0da7",
+    "file_name": "/tmp/news_lk2/articles/41/41952417.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0da7-\u0da2\u0d82\u0d9c\u0db8-\u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1-\u0d9c\u0dd9\u0db1\u0dd2\u0dba\u0db1\u0dca\u0db1-\u0dc4\u0dd0\u0daf\u0dd4--\u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396593",
+    "time_ut": 1661404123,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0da7 \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0d9c\u0dd9\u0db1\u0dd2\u0dba\u0db1\u0dca\u0db1 \u0dc4\u0dd0\u0daf\u0dd4  \u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0dcf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/26/26bf7872.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0dc3\u0dcf\u0dc4\u0dd2\u0dad\u0dca\u200d\u0dba-\u0dc0\u0dd2\u0da0\u0dcf\u0dbb\u0dba-\u0db1\u0dc0\u0d9a\u0dad\u0dcf\u0dc0\u0da7-\u0d9a\u0dc0\u0dd2\u0dba\u0da7-\u0dc3\u0dd3\u0db8\u0dcf-\u0dc0\u0dd9\u0dbd\u0dcf/26-618715",
+    "time_ut": 1661403379,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dcf\u0dc4\u0dd2\u0dad\u0dca\u200d\u0dba \u0dc0\u0dd2\u0da0\u0dcf\u0dbb\u0dba \u0db1\u0dc0\u0d9a\u0dad\u0dcf\u0dc0\u0da7,\u0d9a\u0dc0\u0dd2\u0dba\u0da7 \u0dc3\u0dd3\u0db8\u0dcf \u0dc0\u0dd9\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/75/75e1d7fd.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0d86\u0dba\u0ddd\u0da2\u0db1-\u0db7\u0dd6\u0dad\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dcf\u0da9\u0db8\u0d9a\u0dca/26-618711",
     "time_ut": 1661401775,
     "original_lang": "si",
     "original_title": "\u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db7\u0dd6\u0dad\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dcf\u0da9\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/58/58d53942.json"
+    "file_name": "/tmp/news_lk2/articles/67/672fb176.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -30,6 +70,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0d85\u0daf\u0dad\u0dca \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2",
     "file_name": "/tmp/news_lk2/articles/d8/d8fb5185.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9a\u0dad\u0dbb\u0d9c\u0db8-\u0dba\u0dba\u0dd2/11-396592",
+    "time_ut": 1661401122,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9a\u0dad\u0dbb\u0d9c\u0db8 \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e8/e8270881.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -57,11 +105,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0db4\u0dad\u0dca\u0dad\u0dd4\u0dc0\u0dda-\u0dc3\u0dd2\u0da7\u0dd2-\u0db1\u0dba\u0dcf-\u0daf\u0dbb\u0dd4\u0dc0\u0d9c\u0dda-\u0db4\u0dcf\u0daf\u0dba\u0dda-\u0dad\u0dd0\u0db1\u0dca-\u0daf\u0dd9\u0d9a\u0d9a-\u0d9a\u0dcf\u0dbd\u0dcf/101-618708",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0db4\u0dad\u0dca\u0dad\u0dd4\u0dc0\u0dda-\u0dc3\u0dd2\u0da7\u0dd2-\u0db1\u0dba\u0dcf-\u0daf\u0dbb\u0dd4\u0dc0\u0d9c\u0dda-\u0db4\u0dcf\u0daf\u0dba\u0dda-\u0dad\u0dd0\u0db1\u0dca-\u0daf\u0dd9\u0d9a\u0d9a-\u0d9a\u0dcf\u0dbd\u0dcf/1-618708",
     "time_ut": 1661400790,
     "original_lang": "si",
     "original_title": "\u0dc3\u0db4\u0dad\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0dc3\u0dd2\u0da7\u0dd2 \u0db1\u0dba\u0dcf \u0daf\u0dbb\u0dd4\u0dc0\u0d9c\u0dda \u0db4\u0dcf\u0daf\u0dba\u0dda \u0dad\u0dd0\u0db1\u0dca \u0daf\u0dd9\u0d9a\u0d9a \u0d9a\u0dcf\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/d4/d4a91ce9.json"
+    "file_name": "/tmp/news_lk2/articles/6a/6a7ef2a3.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -118,6 +166,14 @@
     "original_lang": "en",
     "original_title": "Generator One of Norochcholai back in operation from Monday (29)",
     "file_name": "/tmp/news_lk2/articles/34/346a65d4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/President-urges-China-to-change-tune-on-debt/155-243703",
+    "time_ut": 1661396019,
+    "original_lang": "en",
+    "original_title": "President urges China to change tune on debt",
+    "file_name": "/tmp/news_lk2/articles/07/07ef1ff7.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc4\u0dba\u0dd4\u0db1\u0dca\u0da9\u0dcf\u0dba\u0dd2 \u0dc0\u0dcf\u0dc4\u0db1 \u0d91\u0d9a\u0dbd\u0dc3\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad \u0dc1\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7\u0dad\u0dca",
     "file_name": "/tmp/news_lk2/articles/4d/4da16d6e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84417/maximum-retail-prices-imposed-on-eggs",
-    "time_ut": 1660963860,
-    "original_lang": "en",
-    "original_title": "Maximum retail prices imposed on eggs",
-    "file_name": "/tmp/news_lk2/articles/d6/d6db4afc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/IMF-eyes-creditor-assurances-as-it-prepares-Sri-Lanka-visit/108-243421",
-    "time_ut": 1660963821,
-    "original_lang": "en",
-    "original_title": "IMF eyes creditor assurances as it prepares Sri Lanka visit",
-    "file_name": "/tmp/news_lk2/articles/ec/ece53bcf.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/gtf-welcomes-the-delisting-of-diaspora-entities-calls-for-a-well-targeted-unhrc-resolution-on-sri-lanka/",
-    "time_ut": 1660963505,
-    "original_lang": "en",
-    "original_title": "GTF Welcomes The Delisting Of Diaspora Entities & Calls For A Well-Targeted UNHRC Resolution On Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/b1/b1a7ebc2.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0db1\u0dd2\u0dc0\u0dcf\u0dc3-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7-\u0d85\u0dba\u0dc0\u0dd2\u0dba-\u0dba\u0dd4\u0dad\u0dd4-\u0dab\u0dba-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba-\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-10-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/11-396457",
-    "time_ut": 1660963245,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db1\u0dd2\u0dc0\u0dcf\u0dc3 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0d85\u0dba\u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0dab\u0dba \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 10 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/39/397acd86.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/country-has-fallen-due-to-the-socialist-thinking/",
-    "time_ut": 1660963014,
-    "original_lang": "en",
-    "original_title": "Country Has Fallen Due To The Socialist Thinking",
-    "file_name": "/tmp/news_lk2/articles/8d/8d3ca26d.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1/175-302656",
-    "time_ut": 1660962946,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/48/4828d3ff.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dba\u0dd2-\u0d91\u0db8\u0dca-\u0d91\u0dc6\u0dca-\u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba\u0d9a\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-618440",
-    "time_ut": 1660962732,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d91\u0dc6\u0dca \u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba\u0d9a\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f4/f44f7697.json"
   }
 ]
