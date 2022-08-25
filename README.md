@@ -1,42 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-25 23:51:18 (LK time)*
+*As of 2022-08-26 00:14:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** daily-mirror-lk ([India urges its citizens to examine relevant factors before undertaking visit to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/717edecd.json))
 
-## Last Hour (2 Articles)
-
-* **1** daily-mirror-lk ([India urges its citizens to examine relevant factors before undertaking visit to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/717edecd.json))
-
-* **1** ada-derana-lk ([CBSL Governor to conduct special program for MPs on Sri Lanka’s economic situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afd1333e.json))
-
-## Last 3 Hours (10 Articles)
-
-* **3** news-first-lk ([Chinese Fertilizer: Qingdao takes back US $ 5 Mn bond](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63b569d0.json))
+## Last 3 Hours (7 Articles)
 
 * **2** daily-mirror-lk ([Nine Sri Lankan flyers detained with gold in their rectums at Hyderabad airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebb52b9f.json))
 
 * **2** ada-derana-lk ([Sri Lanka reports 6 more Covid-19 deaths, 114 new cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3ffa4445.json))
 
+* **2** news-first-lk ([Ranil is the most powerful President – Vajira](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b2202ff.json))
+
 * **1** ada-lk ([සාර්ථක හමුදාවක් බිහි කිරීමට විනයක්, පුහුණුවක් හා දැනුමක් අවශ්‍යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0e13d2.json))
 
-* **1** economy-next-com ([Sri Lanka developers halt new condos after currency collapse, costs skyrocket](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8207de73.json))
-
-* **1** lankadeepa-lk ([කොවිඩ් ආසාදිතයන් 114 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de48a80.json))
-
-## Last 24 Hours (184 Articles)
+## Last 24 Hours (179 Articles)
 
 * **40** lankadeepa-lk ([බස් යතුරු පැදි ගැටී තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2e669e.json))
 
 * **30** daily-mirror-lk ([Beware the Neddas!](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48c54513.json))
 
-* **26** ada-derana-lk ([Circular issued to allow govt officials to take up foreign jobs](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b24e2d2c.json))
-
 * **26** ada-lk ([අගෝස්තු පළමු සති 3ට සංචාරක පැමිණීිම  30000  ඉක්මවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a7ee6cb.json))
+
+* **21** ada-derana-lk ([Fairly heavy rains of about 75mm expected in three provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c0dd76c.json))
 
 * **20** tamil-mirror-lk ([வத்தளையில் இரு இளைஞர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2928da5b.json))
 
@@ -48,23 +38,23 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## Last Week (1,376 Articles)
+## Last Week (1,369 Articles)
 
 * **268** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
-* **190** tamil-mirror-lk ([மாணவர் போராட்டத்தில் கைதானவர்களின் எண்ணிக்கை உயர்வு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d45e407.json))
+* **189** tamil-mirror-lk ([சி.ஐ.டியில் முறைப்பாடு செய்தார் எரிசக்தி அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d17d7d.json))
 
 * **179** news-first-lk ([Thunder showers expected tonight (19)](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc58cf1f.json))
 
 * **173** ada-lk ([ජනපති හා එක්සත් ජාතින්ගේ නියෝජිත පිරිස අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2aa02d5f.json))
 
-* **163** daily-mirror-lk ([Significant deceleration in money printing expected: CB](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ad4d1d0.json))
+* **160** daily-mirror-lk ([People who were in the Aragalaya without any political agenda were not harmed - Manusha Nanayakkara](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/101f5b8c.json))
 
-* **158** ada-derana-lk ([Australia kicks in extra $25 million emergency aid to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4a978da.json))
+* **157** ada-derana-lk ([Showers or thundershowers expected in four provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f1715b6.json))
 
 * **101** economy-next-com ([Sri Lanka energy minister seeks police probe into fuel distribution complaints](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f44f9e9.json))
 
-* **58** daily-ft-lk ([Sysco LABS ranked amongst LMD’s Most Respected Entities for 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/252a2d47.json))
+* **56** daily-ft-lk ([Sri Lanka going the Turkey way?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fd40788.json))
 
 * **54** island-lk ([Has Sri Lanka finally learned its lesson on emotional vs evidence-based agri policies?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b90e2e4f.json))
 
