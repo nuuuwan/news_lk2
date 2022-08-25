@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dd4\u0db8\u0dca-\u0db6\u0ddd\u0db8\u0dca\u0db6---\u0d8b\u0dab\u0dca\u0da9-\u0d9a\u0ddc\u0db4\u0dd4-\u0dc3\u0db8\u0d9c-\u0d85\u0db3\u0dd4\u0db8\u0dca-\u0db8\u0dc3\u0db1\u0dca\u0db1\u0dcf-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-618746",
+    "time_ut": 1661425666,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd4\u0db8\u0dca \u0db6\u0ddd\u0db8\u0dca\u0db6 - \u0d8b\u0dab\u0dca\u0da9 \u0d9a\u0ddc\u0db4\u0dd4 \u0dc3\u0db8\u0d9c \u0d85\u0db3\u0dd4\u0db8\u0dca \u0db8\u0dc3\u0db1\u0dca\u0db1\u0dcf \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/b5/b5a0a4e5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/25/deputy-police-chief-testifies-in-probe-on-assault-on-journalists/",
+    "time_ut": 1661425560,
+    "original_lang": "en",
+    "original_title": "Deputy Police Chief testifies in probe on assault on journalists",
+    "file_name": "/tmp/news_lk2/articles/14/14834895.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Norochcholai-Unit-1-to-be-added-to-national-grid-from-Monday/342-243734",
     "time_ut": 1661424697,
@@ -9,11 +25,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca-\u0dc4\u0dd9\u0da7-\u0dc4\u0ddd-\u0dc3\u0db3\u0dd4\u0daf\u0dcf-\u0dc4\u0ddd-\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca-/101-618744",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca-\u0dc4\u0dd9\u0da7-\u0dc4\u0ddd-\u0dc3\u0db3\u0dd4\u0daf\u0dcf-\u0dc4\u0ddd-\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca-/1-618744",
     "time_ut": 1661424689,
     "original_lang": "si",
     "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca \u0dc4\u0dd9\u0da7 \u0dc4\u0ddd \u0dc3\u0db3\u0dd4\u0daf\u0dcf \u0dc4\u0ddd \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca?",
-    "file_name": "/tmp/news_lk2/articles/0d/0dbb899a.json"
+    "file_name": "/tmp/news_lk2/articles/4c/4cf45b69.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -25,11 +41,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0db3\u0dd4\u0dbb\u0dd4-\u0d8b\u0dab--\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19--\u0d91\u0da0\u0dca-\u0d85\u0dba\u0dd2-\u0dc0\u0dd3---\u0dad\u0dd4\u0db1\u0db8-\u0d91\u0d9a\u0dc0\u0dbb-\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dcf/101-618743",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0db3\u0dd4\u0dbb\u0dd4-\u0d8b\u0dab--\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19--\u0d91\u0da0\u0dca-\u0d85\u0dba\u0dd2-\u0dc0\u0dd3---\u0dad\u0dd4\u0db1\u0db8-\u0d91\u0d9a\u0dc0\u0dbb-\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dcf/1-618743",
     "time_ut": 1661423897,
     "original_lang": "si",
     "original_title": "\u0dc0\u0db3\u0dd4\u0dbb\u0dd4 \u0d8b\u0dab, \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca 19, \u0d91\u0da0\u0dca.\u0d85\u0dba\u0dd2.\u0dc0\u0dd3.  \u0dad\u0dd4\u0db1\u0db8 \u0d91\u0d9a\u0dc0\u0dbb \u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/31/31fab154.json"
+    "file_name": "/tmp/news_lk2/articles/04/04f2292c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -49,11 +65,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0db8\u0dcf\u0dc0-\u0d9c\u0db1\u0dd3/101-618741",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0db8\u0dcf\u0dc0-\u0d9c\u0db1\u0dd3/1-618741",
     "time_ut": 1661423527,
     "original_lang": "si",
     "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dcf\u0dc0 \u0d9c\u0db1\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/2b/2b458b95.json"
+    "file_name": "/tmp/news_lk2/articles/00/008abd5a.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -105,11 +121,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dad\u0dbb\u0db8\u0d9f-\u0db1\u0dad\u0dbb-\u0dc0\u0dd4\u0dab\u0dd4-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2-\u0db4\u0da7\u0db1\u0dca-\u0d9c\u0db1\u0dca\u0db1-\u0daf\u0dc0\u0dc3-\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc3\u0db1\u0dca\u0db1-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-618739",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dad\u0dbb\u0db8\u0d9f-\u0db1\u0dad\u0dbb-\u0dc0\u0dd4\u0dab\u0dd4-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2-\u0db4\u0da7\u0db1\u0dca-\u0d9c\u0db1\u0dca\u0db1-\u0daf\u0dc0\u0dc3-\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc3\u0db1\u0dca\u0db1-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/1-618739",
     "time_ut": 1661422265,
     "original_lang": "si",
     "original_title": "\u0d85\u0dad\u0dbb\u0db8\u0d9f \u0db1\u0dad\u0dbb \u0dc0\u0dd4\u0dab\u0dd4 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 \u0db4\u0da7\u0db1\u0dca \u0d9c\u0db1\u0dca\u0db1 \u0daf\u0dc0\u0dc3 \u0d87\u0db8\u0dd0\u0dad\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc3\u0db1\u0dca\u0db1 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/67/676cbbf5.json"
+    "file_name": "/tmp/news_lk2/articles/ec/eca0a295.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Public assistance sought to identify 50 Temple Trees trespassers",
     "file_name": "/tmp/news_lk2/articles/1a/1af084ad.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84424/traffic-in-nugegoda-due-to-npp-protest-march",
-    "time_ut": 1660994280,
-    "original_lang": "en",
-    "original_title": "Traffic in Nugegoda due to NPP protest march",
-    "file_name": "/tmp/news_lk2/articles/ae/aeb76f91.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbe\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95-\u0bae\u0bbf\u0ba4\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bae\u0bb0\u0bc8\u0b95\u0bb3\u0bcd/175-302683",
-    "time_ut": 1660994045,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bbe\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95 \u0bae\u0bbf\u0ba4\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bb0\u0bc8\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/82/82739f21.json"
   }
 ]
