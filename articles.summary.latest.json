@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-treasury-bill-yields-edge-lower-peg-steady-99030/",
+    "time_ut": 1661437260,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Treasury bill yields edge lower, peg steady",
+    "file_name": "/tmp/news_lk2/articles/d5/d5628fbd.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-three-hours-for-august-26-99025/",
+    "time_ut": 1661436660,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules power cuts of three hours for August 26",
+    "file_name": "/tmp/news_lk2/articles/2a/2a0966ea.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-shares-down-2-pct-on-retail-sellings-and-margin-calls-99022/",
+    "time_ut": 1661436600,
+    "original_lang": "en",
+    "original_title": "Sri Lanka shares down 2-pct on retail sellings and margin calls",
+    "file_name": "/tmp/news_lk2/articles/21/21c8bf2c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf-\u0dbb\u0dae\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0dd2-\u0db4\u0dcf\u0d9c\u0dba\u0dd2/11-396615",
+    "time_ut": 1661435785,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf \u0dbb\u0dae\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd2 \u0db4\u0dcf\u0d9c\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/17/1744f862.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb\u0dda-\u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2-\u0dc3\u0dd2\u0dc3\u0dd4-\u0d85\u0db4\u0dba\u0ddd\u0da2\u0db1\u0dba-\u0d9a\u0dcf\u0dbd\u0dd9\u0d9a-\u0d89\u0db3\u0db1\u0dca-\u0d9a\u0dbb\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca/1-618757",
     "time_ut": 1661435362,
@@ -7966,37 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
     "file_name": "/tmp/news_lk2/articles/d9/d962c563.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c-\u0ba8\u0bbe-\u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bcd-\u0baf\u0bbe\u0bb4\u0bcd-\u0bae\u0bc7\u0baf\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302703",
-    "time_ut": 1661024859,
-    "original_lang": "ta",
-    "original_title": "\u0b9c.\u0ba8\u0bbe. \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0baf\u0bbe\u0bb4\u0bcd. \u0bae\u0bc7\u0baf\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/bc/bc768695.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79109",
-    "time_ut": 1661023440,
-    "original_lang": "en",
-    "original_title": "The SLPP will not gain a majority in the next election. But it won\u2019t be wiped out either. The Rajapaksa family party is likely to command a significant minority with around 20% of the vote, especially if Mahinda Rajapaksa leads the campaign.",
-    "file_name": "/tmp/news_lk2/articles/a4/a44c7391.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302702",
-    "time_ut": 1661021512,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/84/84b34724.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84429/ten-us-congress-members-urge-additional-support-for-sri-lanka",
-    "time_ut": 1661021040,
-    "original_lang": "en",
-    "original_title": "Ten U.S. Congress members urge additional support for Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/b1/b113c3a6.json"
   }
 ]
