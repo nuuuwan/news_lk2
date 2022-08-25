@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84536/another-leopard-dies-after-caught-in-trap",
+    "time_ut": 1661427060,
+    "original_lang": "en",
+    "original_title": "Another leopard dies after caught in trap",
+    "file_name": "/tmp/news_lk2/articles/ff/ff7d9b38.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-to-initiate-projects-to-manufacture-assemble-electric-vehicles/108-243737",
+    "time_ut": 1661426934,
+    "original_lang": "en",
+    "original_title": "Govt. to initiate projects to manufacture, assemble electric vehicles",
+    "file_name": "/tmp/news_lk2/articles/e5/e56cb5c9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/25/time-for-ranil-to-fulfil-pledge-on-repealing-pta-made-five-years-ago-sumanthiran/",
+    "time_ut": 1661426700,
+    "original_lang": "en",
+    "original_title": "Time for Ranil to fulfil pledge on repealing PTA made five years ago \u2013 Sumanthiran",
+    "file_name": "/tmp/news_lk2/articles/ed/ed1e49f5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Private-bus-operations-at-half-strength-from-tomorrow-Gemunu/108-243736",
+    "time_ut": 1661425860,
+    "original_lang": "en",
+    "original_title": "Private bus operations at half-strength from tomorrow: Gemunu",
+    "file_name": "/tmp/news_lk2/articles/a1/a1a35f2f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Ranjan-to-be-released-during-the-weekend/155-243735",
+    "time_ut": 1661425804,
+    "original_lang": "en",
+    "original_title": "Ranjan to be released during the weekend",
+    "file_name": "/tmp/news_lk2/articles/4a/4a22685e.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dd4\u0db8\u0dca-\u0db6\u0ddd\u0db8\u0dca\u0db6---\u0d8b\u0dab\u0dca\u0da9-\u0d9a\u0ddc\u0db4\u0dd4-\u0dc3\u0db8\u0d9c-\u0d85\u0db3\u0dd4\u0db8\u0dca-\u0db8\u0dc3\u0db1\u0dca\u0db1\u0dcf-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-618746",
     "time_ut": 1661425666,
@@ -17,11 +57,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Norochcholai-Unit-1-to-be-added-to-national-grid-from-Monday/342-243734",
+    "url": "https://www.dailymirror.lk/breaking_news/Norochcholai-Unit-1-to-be-added-to-national-grid-from-Monday/108-243734",
     "time_ut": 1661424697,
     "original_lang": "en",
     "original_title": "Norochcholai Unit 1 to be added to national grid from Monday",
-    "file_name": "/tmp/news_lk2/articles/1e/1e7f4e11.json"
+    "file_name": "/tmp/news_lk2/articles/5f/5f2fe306.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -41,11 +81,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0db3\u0dd4\u0dbb\u0dd4-\u0d8b\u0dab--\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19--\u0d91\u0da0\u0dca-\u0d85\u0dba\u0dd2-\u0dc0\u0dd3---\u0dad\u0dd4\u0db1\u0db8-\u0d91\u0d9a\u0dc0\u0dbb-\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dcf/1-618743",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0db3\u0dd4\u0dbb\u0dd4-\u0d8b\u0dab--\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19--\u0d91\u0da0\u0dca-\u0d85\u0dba\u0dd2-\u0dc0\u0dd3---\u0dad\u0dd4\u0db1\u0db8-\u0d91\u0d9a\u0dc0\u0dbb-\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dcf/101-618743",
     "time_ut": 1661423897,
     "original_lang": "si",
     "original_title": "\u0dc0\u0db3\u0dd4\u0dbb\u0dd4 \u0d8b\u0dab, \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca 19, \u0d91\u0da0\u0dca.\u0d85\u0dba\u0dd2.\u0dc0\u0dd3.  \u0dad\u0dd4\u0db1\u0db8 \u0d91\u0d9a\u0dc0\u0dbb \u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/04/04f2292c.json"
+    "file_name": "/tmp/news_lk2/articles/31/31fab154.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -62,6 +102,14 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0ba3\u0bcd\u0ba3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0ba3\u0bcd\u0b95\u0bb3\u0bcd\u0baa\u0bcb\u0bb2 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/af/afd943bc.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dca\u0dc0\u0dba\u0d82\u0db4\u0ddd\u0dc2\u0dd2\u0dad-\u0d9c\u0db8\u0dca\u0db8\u0dcf\u0db1-\u0d87\u0dad\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d85\u0db4\u0d9c\u0dda-\u0dc0\u0d9c\u0d9a\u0dd3\u0db8\u0dba\u0dd2/11-396609",
+    "time_ut": 1661423635,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dca\u0dc0\u0dba\u0d82\u0db4\u0ddd\u0dc2\u0dd2\u0dad \u0d9c\u0db8\u0dca\u0db8\u0dcf\u0db1 \u0d87\u0dad\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d85\u0db4\u0d9c\u0dda \u0dc0\u0d9c\u0d9a\u0dd3\u0db8\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4d/4d080e22.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0dd4\u0dad\u0dd6\u0dbb\u0dca\u0dc4\u0dd2 \u0da7\u0dca\u200d\u0dbb\u0dd0\u0d9a\u0dca\u0da7\u0dbb\u0dba\u0d9a\u0dca \u0db4\u0dd9\u0dbb\u0dc5\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
     "file_name": "/tmp/news_lk2/articles/57/5721f01f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/picture_story/\u0db8\u0dc4-\u0d9a\u0db1\u0dca\u0db1\u0dba\u0da7-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0dad\u0ddc\u0dbb\u0dc0/10-396465",
-    "time_ut": 1660999705,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dc4 \u0d9a\u0db1\u0dca\u0db1\u0dba\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0dad\u0ddc\u0dbb\u0dc0",
-    "file_name": "/tmp/news_lk2/articles/5d/5d4ae7f5.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0baa\u0bc7\u0bb0\u0ba3\u0bbf-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/175-302686",
-    "time_ut": 1660998762,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bc7\u0bb0\u0ba3\u0bbf \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/3c/3c0c4893.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd-\u0ba4\u0bbe\u0baf\u0bcd\u0bae\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302685",
-    "time_ut": 1660997655,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bbe\u0baf\u0bcd\u0bae\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/8b/8b3a03da.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84425/amnesty-international-urges-sri-lankan-govt-to-stop-using-pta-against-protesters",
-    "time_ut": 1660997640,
-    "original_lang": "en",
-    "original_title": "Amnesty International urges Sri Lankan govt to stop using PTA against protesters",
-    "file_name": "/tmp/news_lk2/articles/ce/ce5baa52.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/20/npp-launches-protest-march/",
-    "time_ut": 1660997100,
-    "original_lang": "en",
-    "original_title": "NPP launches protest march",
-    "file_name": "/tmp/news_lk2/articles/7d/7deb2703.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/20/public-assistance-sought-to-identify-50-temple-trees-trespassers/",
-    "time_ut": 1660996560,
-    "original_lang": "en",
-    "original_title": "Public assistance sought to identify 50 Temple Trees trespassers",
-    "file_name": "/tmp/news_lk2/articles/1a/1af084ad.json"
   }
 ]
