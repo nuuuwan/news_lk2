@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Tourist-arrivals-top-30-000-in-first-three-weeks-of-August/342-243697",
+    "time_ut": 1661381575,
+    "original_lang": "en",
+    "original_title": "Tourist arrivals top 30,000 in first three weeks of August",
+    "file_name": "/tmp/news_lk2/articles/6a/6a07c3d7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Information-and-cybersecurity-policy-for-all-govt-entities/342-243692",
+    "time_ut": 1661381378,
+    "original_lang": "en",
+    "original_title": "Information and cybersecurity policy for all govt. entities",
+    "file_name": "/tmp/news_lk2/articles/92/920d5297.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/The-Elephant-in-the-Room/172-243668",
     "time_ut": 1661378794,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "US ambassador holds talks with opposition leader",
     "file_name": "/tmp/news_lk2/articles/29/29d64012.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b89\u0ba3\u0bb0\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf-\u0ba8\u0bb2\u0bcd\u0bb2\u0bbf\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bc7-\u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd/175-302646",
-    "time_ut": 1660934881,
-    "original_lang": "ta",
-    "original_title": "\u2019\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0ba3\u0bb0\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0ba8\u0bb2\u0bcd\u0bb2\u0bbf\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bc7 \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u2019",
-    "file_name": "/tmp/news_lk2/articles/ae/aecffbcf.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84413/interpol-confirms-arrest-of-harak-kata-by-dubai-police",
-    "time_ut": 1660934220,
-    "original_lang": "en",
-    "original_title": "Interpol confirms arrest of \u2018Harak Kata\u2019 by Dubai Police",
-    "file_name": "/tmp/news_lk2/articles/0f/0f382d22.json"
   }
 ]
