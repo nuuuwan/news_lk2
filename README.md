@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 01:48:32 (LK time)*
+*As of 2022-08-26 02:30:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (4 Articles)
-
-* **2** ada-derana-lk ([CBSL Governor to conduct special program for MPs on Sri Lanka’s economic situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afd1333e.json))
+## Last 3 Hours (2 Articles)
 
 * **1** tamil-mirror-lk ([சைபர் தளத்திலும் யுத்தம் நிகழலாம்: ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ae201f1.json))
 
-* **1** daily-mirror-lk ([India urges its citizens to examine relevant factors before undertaking visit to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/717edecd.json))
+* **1** ada-derana-lk ([Security forces should be equipped with technological knowledge - President](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe1c8b6f.json))
 
 ## Last 24 Hours (176 Articles)
 
