@@ -1,30 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-25 07:45:09 (LK time)*
+*As of 2022-08-25 08:45:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** ada-derana-lk ([Leader of ‘Ape Jana Bala Pakshaya’ remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/3648c218.json))
+* **1** daily-mirror-lk ([Sri Lanka president urges China to change tune on debt](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9d4760c.json))
 
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
+
+* **1** daily-mirror-lk ([Sri Lanka president urges China to change tune on debt](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9d4760c.json))
+
+* **1** economy-next-com ([Sri Lanka farmers showing stronger than expected interest to grow maize: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9312a450.json))
+
+## Last 3 Hours (11 Articles)
+
+* **5** daily-mirror-lk ([30 State Ministers to be appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8820411b.json))
+
+* **2** economy-next-com ([Sri Lanka fertilizer tender fails amid banking concerns: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f94545e3.json))
 
 * **2** ada-derana-lk ([Fairly heavy rains of about 75mm expected in three provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c0dd76c.json))
 
-* **1** daily-mirror-lk ([Ape Jana Bala Party Chairman remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/5450098c.json))
-
-## Last 3 Hours (5 Articles)
-
-* **2** ada-derana-lk ([Fairly heavy rains of about 75mm expected in three provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c0dd76c.json))
-
-* **2** daily-mirror-lk ([30 State Ministers to be appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8820411b.json))
+* **1** ada-lk ([අගෝස්තු පළමු සති 3ට සංචාරක පැමිණීිම  30000  ඉක්මවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a7ee6cb.json))
 
 * **1** lankadeepa-lk ([බස් යතුරු පැදි ගැටී තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2e669e.json))
 
-## Last 24 Hours (189 Articles)
+## Last 24 Hours (191 Articles)
 
-* **34** daily-mirror-lk ([Govt. slaps import ban on wide range of goods](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f44a11f.json))
+* **34** daily-mirror-lk ([US Embassy won’t offer NIV passback services until Monday](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bffd0649.json))
 
 * **31** lankadeepa-lk ([නිමක් නොපෙනෙන විදුලිය කැපිල්ල](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dcde6965.json))
 
@@ -32,31 +36,31 @@
 
 * **28** news-first-lk ([IMF team to visit Sri Lanka today (24)](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4df9e7e6.json))
 
-* **22** ada-lk ([ජීප් - ලොරි ගැටී ගුරුවරිය මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c499f020.json))
+* **23** ada-lk ([ජීප් - ලොරි ගැටී ගුරුවරිය මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c499f020.json))
 
-* **21** tamil-mirror-lk ([ரயில் சேவையை முன்னெடுப்பதில் சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6a3f977.json))
+* **20** tamil-mirror-lk ([இரு குழுக்களிடையே மோதல்; ஒருவர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abfbf77d.json))
 
-* **13** economy-next-com ([Egg in the face of Sri Lanka President’s ‘Social Market Economy’](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39240274.json))
+* **15** economy-next-com ([Egg in the face of Sri Lanka President’s ‘Social Market Economy’](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39240274.json))
 
 * **7** daily-ft-lk ([The spirit of the 9 July uprising in Sri Lanka remains alive](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/874d8261.json))
 
 * **5** island-lk ([Nations Trust Bank expands physical touchpoints with new cash deposits and withdrawal machines at Keells outlets](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c3c1e2.json))
 
-## Last Week (1,402 Articles)
+## Last Week (1,404 Articles)
 
-* **265** lankadeepa-lk ([ගෝඨා ’ග්‍රීන් කාඩ්’ ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81dacbbd.json))
+* **264** lankadeepa-lk ([කෝකිලගේ-සොහොයුරාගේ නිවෙස්වලට පහර දුන් අයෙක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94f1931e.json))
 
-* **195** news-first-lk ([NO change to CBSL policy rates](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbfefd7f.json))
+* **194** news-first-lk ([Heavy showers expected tonight (18)](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd72e55c.json))
 
-* **190** tamil-mirror-lk ([தேசிய பாதுகாப்பு தொடர்பில் பாதுகாப்பு செயலரின் அறிவுறுத்தல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd5dd7bc.json))
+* **189** tamil-mirror-lk ([அமெரிக்காவில் மீண்டும் குடியேற கிரீன் கார்டுக்கு கோட்டா விண்ணப்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4dde26a6.json))
 
-* **177** ada-lk ([නාමල්ට ඇමතිකමක් දෙනවට Black Cap Movement විරුද්ධ වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/296d9270.json))
+* **178** ada-lk ([නාමල්ට ඇමතිකමක් දෙනවට Black Cap Movement විරුද්ධ වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/296d9270.json))
 
-* **165** ada-derana-lk ([Showers expected in several provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5b65e16.json))
+* **166** daily-mirror-lk ([Man arrested for entering MP Kokila’s residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ff92bc.json))
 
-* **163** daily-mirror-lk ([Man arrested for entering MP Kokila’s residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ff92bc.json))
+* **163** ada-derana-lk ([Grama Niladhari officer who threw 8-yr-old child into canal arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db568faf.json))
 
-* **95** economy-next-com ([Sri Lanka’s Laugfs Gas reduces cooking gas prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c44f6008.json))
+* **98** economy-next-com ([Sri Lanka’s Laugfs Gas reduces cooking gas prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c44f6008.json))
 
 * **63** island-lk ([CSE recovers following CBSL chief’s observations on local economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4800617.json))
 
@@ -66,13 +70,13 @@
 
 * **15** colombo-telegraph-com ([Saying No To Authoritarian Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2af95aab.json))
 
-## All Time (2,718 Articles)
+## All Time (2,725 Articles)
 
 * **486** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **354** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **355** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **344** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
+* **347** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
 * **311** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
@@ -82,7 +86,7 @@
 
 * **187** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
-* **183** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
+* **186** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 
 * **137** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 

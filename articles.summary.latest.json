@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-president-urges-China-to-change-tune-on-debt/342-243703",
+    "time_ut": 1661396019,
+    "original_lang": "en",
+    "original_title": "Sri Lanka president urges China to change tune on debt",
+    "file_name": "/tmp/news_lk2/articles/a9/a9d4760c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-farmers-showing-stronger-than-expected-interest-to-grow-maize-minister-98993/",
+    "time_ut": 1661394900,
+    "original_lang": "en",
+    "original_title": "Sri Lanka farmers showing stronger than expected interest to grow maize: Minister",
+    "file_name": "/tmp/news_lk2/articles/93/9312a450.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-fertilizer-tender-fails-amid-banking-concerns-minister-98992/",
+    "time_ut": 1661393100,
+    "original_lang": "en",
+    "original_title": "Sri Lanka fertilizer tender fails amid banking concerns: Minister",
+    "file_name": "/tmp/news_lk2/articles/f9/f94545e3.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84524/leader-of-ape-jana-bala-pakshaya-remanded",
     "time_ut": 1661392080,
     "original_lang": "en",
     "original_title": "Leader of \u2018Ape Jana Bala Pakshaya\u2019 remanded",
     "file_name": "/tmp/news_lk2/articles/36/3648c218.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0d9c\u0ddc\u0dca\u0dc3\u0dca\u0dad\u0dd4-\u0db4\u0dc5\u0db8\u0dd4-\u0dc3\u0dad\u0dd2-3\u0da7-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0dd2\u0db8--30000--\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/11-396590",
+    "time_ut": 1661391285,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0d9c\u0ddc\u0dca\u0dc3\u0dca\u0dad\u0dd4 \u0db4\u0dc5\u0db8\u0dd4 \u0dc3\u0dad\u0dd2 3\u0da7 \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0dd2\u0db8  30000  \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/8a/8a7ee6cb.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -30,6 +62,22 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0dc3\u0dca \u0dba\u0dad\u0dd4\u0dbb\u0dd4 \u0db4\u0dd0\u0daf\u0dd2 \u0d9c\u0dd0\u0da7\u0dd3 \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
     "file_name": "/tmp/news_lk2/articles/3e/3e2e669e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Deshabandu-is-the-main-person-responsible-for-May-9th-mayhem-Ex-BASL-chief/342-243701",
+    "time_ut": 1661388362,
+    "original_lang": "en",
+    "original_title": "Deshabandu is the main person responsible for May 9th mayhem - Ex-BASL chief",
+    "file_name": "/tmp/news_lk2/articles/19/19200bad.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Gota-to-return-during-first-week-of-September/342-243700",
+    "time_ut": 1661388064,
+    "original_lang": "en",
+    "original_title": "Gota to return during first week of September",
+    "file_name": "/tmp/news_lk2/articles/31/314e80b8.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2878,6 +2926,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka plans to cut deficit to 6.8-pct of GDP in 2023",
     "file_name": "/tmp/news_lk2/articles/74/74ab5bcc.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-plans-to-cut-budget-deficit-to-6-8-pct-of-gdp-in-2023-98892/",
+    "time_ut": 1661236920,
+    "original_lang": "en",
+    "original_title": "Sri Lanka plans to cut budget deficit to 6.8-pct of GDP in 2023",
+    "file_name": "/tmp/news_lk2/articles/14/146c84e8.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd 90 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/00/00b5fd48.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a-\u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd/175-302653",
-    "time_ut": 1660938258,
-    "original_lang": "ta",
-    "original_title": "\u2019\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u2019",
-    "file_name": "/tmp/news_lk2/articles/e2/e28a14ac.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Dullas-accuses-Govt-of-political-revenge-against-MPs-who-supported-him/56-738915",
-    "time_ut": 1660938171,
-    "original_lang": "en",
-    "original_title": "Dullas accuses Govt. of political revenge against MPs who supported him",
-    "file_name": "/tmp/news_lk2/articles/d0/d0bdc1a8.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/State-of-Palestine-condemns-continuous-Israeli-atrocities/56-738914",
-    "time_ut": 1660938042,
-    "original_lang": "en",
-    "original_title": "State of Palestine condemns continuous Israeli atrocities",
-    "file_name": "/tmp/news_lk2/articles/98/980d08a7.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/SLPP-asks-President-to-facilitate-Gota-s-return-to-SL/56-738913",
-    "time_ut": 1660938032,
-    "original_lang": "en",
-    "original_title": "SLPP asks President to facilitate Gota\u2019s return to SL",
-    "file_name": "/tmp/news_lk2/articles/1b/1b07efe7.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/UN-appalled-by-Saudi-34-year-sentence-over-tweets/56-738912",
-    "time_ut": 1660938023,
-    "original_lang": "en",
-    "original_title": "UN \u2018appalled\u2019 by Saudi 34-year sentence over tweets",
-    "file_name": "/tmp/news_lk2/articles/b6/b6edf018.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bc2\u0bb2\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302652",
-    "time_ut": 1660937928,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0bc2\u0bb2\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/e7/e7761d24.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4-\u0ba4\u0b9f\u0bc8-\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8-\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd/175-302651",
-    "time_ut": 1660937536,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4 \u0ba4\u0b9f\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/bb/bb60313a.json"
   }
 ]
