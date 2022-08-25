@@ -1,22 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-25 22:37:29 (LK time)*
+*As of 2022-08-25 22:52:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Sri Lanka reports 6 more Covid-19 deaths, 114 new cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3ffa4445.json))
 
-* **1** news-first-lk ([Gotabaya Rajapaksa may return to Sri Lanka on 3rd September – Udayanga](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd7489e6.json))
-
-## Last 3 Hours (17 Articles)
+## Last 3 Hours (14 Articles)
 
 * **5** daily-mirror-lk ([’Soorya Bala Sangramaya’ should be re-launched as ’Kadinam Soorya Bala Sangramaya’: Solar Industries Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add458b6.json))
 
 * **4** news-first-lk ([Summer Hill Leopard Tragedy: Cause of Death revealed](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0112be01.json))
-
-* **4** economy-next-com ([Sri Lanka shares down 2-pct on retail sellings and margin calls](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21c8bf2c.json))
 
 * **2** lankadeepa-lk ([හමුදාව සයිබර් යුද්ධ සඳහාත් සන්නද්ධ කළ යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/660b21d1.json))
 
@@ -24,7 +20,9 @@
 
 * **1** ada-lk ([සාර්ථක හමුදාවක් බිහි කිරීමට විනයක්, පුහුණුවක් හා දැනුමක් අවශ්‍යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0e13d2.json))
 
-## Last 24 Hours (191 Articles)
+* **1** economy-next-com ([Sri Lanka developers halt new condos after currency collapse, costs skyrocket](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8207de73.json))
+
+## Last 24 Hours (189 Articles)
 
 * **39** lankadeepa-lk ([බස් යතුරු පැදි ගැටී තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2e669e.json))
 
@@ -34,19 +32,19 @@
 
 * **25** ada-derana-lk ([Circular issued to allow govt officials to take up foreign jobs](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b24e2d2c.json))
 
-* **20** news-first-lk ([IUSF Convener held in Nawagamuwa following arrest](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f29e8445.json))
-
 * **20** tamil-mirror-lk ([வத்தளையில் இரு இளைஞர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2928da5b.json))
+
+* **19** news-first-lk ([Generator One of Norochcholai back in operation from Monday (29)](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/346a65d4.json))
 
 * **17** economy-next-com ([Sri Lanka fertilizer tender fails amid banking concerns: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f94545e3.json))
 
-* **7** daily-ft-lk ([The spirit of the 9 July uprising in Sri Lanka remains alive](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/874d8261.json))
+* **6** daily-ft-lk ([Deep cuts, pain and PTA: President Ranil’s de-stabilising dogma](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf15c110.json))
 
 * **5** island-lk ([Nations Trust Bank expands physical touchpoints with new cash deposits and withdrawal machines at Keells outlets](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c3c1e2.json))
 
 * **1** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## Last Week (1,375 Articles)
+## Last Week (1,374 Articles)
 
 * **267** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
@@ -60,7 +58,7 @@
 
 * **157** ada-derana-lk ([Australia kicks in extra $25 million emergency aid to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4a978da.json))
 
-* **102** economy-next-com ([Sri Lanka stocks end steady after CB held policy rates steady; turnover slumps to over 2-wk low](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d009c866.json))
+* **101** economy-next-com ([Sri Lanka energy minister seeks police probe into fuel distribution complaints](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f44f9e9.json))
 
 * **58** daily-ft-lk ([Sysco LABS ranked amongst LMD’s Most Respected Entities for 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/252a2d47.json))
 
