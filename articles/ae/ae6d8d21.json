@@ -9,7 +9,7 @@
       "title": "Protests in Kollupitiya to raise wages",
       "author": "unknown",
       "body_lines": [
-        "A demonstration organized by Ceylon Trade and Industrial and General Labor Union trade union was held in front of Kollupitiya headquarters on 25th today, based on several demands, including not to increase water-electricity charges and control prices of essential goods, not to increase wages."
+        "A demonstration organized by Ceylon Trade and Industrial and General Labor Union trade union was held in front of the Kollupitiya headquarters today on the 25th, based on several demands such as not to increase water and electricity rates and control prices of essential commodities, not to increase wages."
       ],
       "title_ents": [
         {
@@ -25,10 +25,14 @@
           },
           {
             "text": "Kollupitiya",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
-            "text": "25th today",
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "the 25th",
             "label": "DATE"
           }
         ]
@@ -54,10 +58,14 @@
           },
           {
             "text": "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dd4\u0db4\u0dd2\u0da7\u0dd2\u0dba",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
-            "text": "\u0d85\u0daf 25 \u0dc0\u0dd9\u0db1\u0dd2\u0daf\u0dcf",
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "25 \u0dc0\u0dd9\u0db1\u0dd2\u0daf\u0dcf",
             "label": "DATE"
           }
         ]
@@ -83,10 +91,14 @@
           },
           {
             "text": "\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
-            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 25",
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "25 \u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf",
             "label": "DATE"
           }
         ]

@@ -24,6 +24,14 @@
     "file_name": "/tmp/news_lk2/articles/96/96e1f1f3.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0d9c\u0ddc\u0da9\u0db6\u0dd1\u0db8-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf-\u0dc0\u0dd3\u0db8-\u0db1\u0dd2\u0dc3\u0dcf-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db6\u0dd9\u0daf\u0dcf-\u0dc4\u0dd0\u0dbb\u0dd3\u0db8-\u0db4\u0db8\u0dcf-\u0dc0\u0dd4\u0dab\u0dcf/11-396613",
+    "time_ut": 1661434000,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0d9c\u0ddc\u0da9\u0db6\u0dd1\u0db8 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf \u0dc0\u0dd3\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db6\u0dd9\u0daf\u0dcf \u0dc4\u0dd0\u0dbb\u0dd3\u0db8 \u0db4\u0db8\u0dcf \u0dc0\u0dd4\u0dab\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/46/46041477.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/25/woman-who-pushed-slppers-into-beira-lake-remanded/",
     "time_ut": 1661433780,
@@ -302,6 +310,14 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0db3\u0dd4\u0dbb\u0dd4 \u0d8b\u0dab, \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca 19, \u0d91\u0da0\u0dca.\u0d85\u0dba\u0dd2.\u0dc0\u0dd3.  \u0dad\u0dd4\u0db1\u0db8 \u0d91\u0d9a\u0dc0\u0dbb \u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dcf",
     "file_name": "/tmp/news_lk2/articles/31/31fab154.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dbd\u0dca-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0d86\u0dbb\u0dca\u0dae\u0dc3\u0dcf\u0db0\u0dba\u0d9a\u0da7-\u0dc0\u0dd2\u0daf\u0dca\u0db0-\u0d91\u0dc4\u0dd2-\u0dbd\u0dd2\u0db4\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dab\u0dd2\u0dba\u0d9a\u0dca-\u0dc3\u0dc4-\u0d87\u0d9c\u0dda-\u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/101-618742",
+    "time_ut": 1661423863,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dbd\u0dca \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda \u0d86\u0dbb\u0dca\u0dae\u0dc3\u0dcf\u0db0\u0dba\u0d9a\u0da7 \u0dc0\u0dd2\u0daf\u0dca\u0db0 \u0d91\u0dc4\u0dd2 \u0dbd\u0dd2\u0db4\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dab\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0dc4 \u0d87\u0d9c\u0dda \u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "file_name": "/tmp/news_lk2/articles/ec/ec489807.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ten U.S. Congress members urge additional support for Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/b1/b113c3a6.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84429/ten-us-congressmen-urge-additional-support-for-sri-lanka-",
-    "time_ut": 1661021040,
-    "original_lang": "en",
-    "original_title": "Ten U.S. congressmen urge additional support for Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/a1/a110f6db.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0baa\u0ba8\u0bcd\u0ba4\u0bc1\u0bb2-\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd/175-302701",
-    "time_ut": 1661020336,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0baa\u0ba8\u0bcd\u0ba4\u0bc1\u0bb2 \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/76/76567d97.json"
   }
 ]

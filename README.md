@@ -1,10 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-25 19:32:17 (LK time)*
+*As of 2022-08-25 19:41:22 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** lankadeepa-lk ([රත්නපුරේ විදුහල්පති සිසු අපයෝජනය කාලෙක ඉඳන් කරගෙන ගිහින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96c5e2ef.json))
+
+## Last Hour (5 Articles)
 
 * **1** lankadeepa-lk ([රත්නපුරේ විදුහල්පති සිසු අපයෝජනය කාලෙක ඉඳන් කරගෙන ගිහින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96c5e2ef.json))
 
@@ -12,43 +16,35 @@
 
 * **1** ada-derana-lk ([Ranjan Ramanayake to be released tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96e1f1f3.json))
 
-## Last Hour (7 Articles)
-
-* **3** lankadeepa-lk ([දින දෙකට කොවිඩ් මරණ 10 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/459e19c3.json))
-
-* **1** tamil-mirror-lk ([மின்வெட்டு பற்றிய அறிவித்தல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cda7c4f5.json))
-
-* **1** ada-derana-lk ([Ranjan Ramanayake to be released tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96e1f1f3.json))
+* **1** ada-lk ([ඩීසල් ගොඩබෑම ප්‍රමාද වීම නිසා පෙට්‍රල් බෙදා හැරීම පමා වුණා](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46041477.json))
 
 * **1** news-first-lk ([Woman who pushed SLPPers into Beira Lake remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/cea2fa93.json))
 
-* **1** daily-mirror-lk ([National television staff goes on strike over salary delay](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7faf30e.json))
+## Last 3 Hours (29 Articles)
 
-## Last 3 Hours (33 Articles)
-
-* **9** lankadeepa-lk ([දුම් බෝම්බ - උණ්ඩ කොපු සමග අඳුම් මසන්නා මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5a0a4e5.json))
-
-* **7** daily-mirror-lk ([Ranjan to be released during the weekend](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a22685e.json))
+* **8** lankadeepa-lk ([යළිත් දින 100ක වැඩකට අතගසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ab64da4.json))
 
 * **5** ada-derana-lk ([Another leopard dies after caught in trap](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff7d9b38.json))
 
-* **5** news-first-lk ([Deputy Police Chief testifies in probe on assault on journalists](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14834895.json))
+* **5** daily-mirror-lk ([Govt. to initiate projects to manufacture, assemble electric vehicles](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdef384a.json))
 
-* **3** ada-lk ([ව්‍යාපාරවලට පෙට්‍රල් දෙන් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/1665f052.json))
+* **4** news-first-lk ([Time for Ranil to fulfil pledge on repealing PTA made five years ago – Sumanthiran](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed1e49f5.json))
+
+* **3** ada-lk ([ණය සහන ගැන ස්ථාවරය  වෙනස් කරන්නැයි ජනපති චිනයෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0deb78e.json))
 
 * **2** tamil-mirror-lk ([ஒரே நேரத்தில் கொரோனா, குரங்கம்மை, எச்ஐவி நோயால் பாதிக்கப்பட்ட நபர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2c023ca.json))
 
 * **2** economy-next-com ([Sri Lanka canteen association to launch consumer rights political party](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d1f272a.json))
 
-## Last 24 Hours (193 Articles)
+## Last 24 Hours (194 Articles)
 
-* **39** lankadeepa-lk ([සැලුන් හිමිකරු වෙඩි ප්‍රහාරයෙන් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2cbb7814.json))
+* **40** lankadeepa-lk ([සැලුන් හිමිකරු වෙඩි ප්‍රහාරයෙන් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2cbb7814.json))
 
-* **33** daily-mirror-lk ([IMF representatives meet President](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8ffd763c.json))
+* **32** daily-mirror-lk ([LPBOA urges UNHRC to take action against damages, arson attack on buses on May 9](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96ee8d0c.json))
+
+* **26** ada-lk ([LGBTQ + අයිතිවාසිකම් ආරක්ෂා කිරීමට දණ්ඩ නීති සංග්‍රහය සංශෝධන කිරීමට පනතක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70f98e9f.json))
 
 * **25** ada-derana-lk ([Amendment to the Penal Code on LGBTQ+ rights handed over to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/557f9650.json))
-
-* **25** ada-lk ([LGBTQ + අයිතිවාසිකම් ආරක්ෂා කිරීමට දණ්ඩ නීති සංග්‍රහය සංශෝධන කිරීමට පනතක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70f98e9f.json))
 
 * **24** tamil-mirror-lk ([சர்வதேசத்துக்கு வழங்கிய வாக்குறுதி மீறப்பட்டுள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99b66c8c.json))
 
@@ -62,15 +58,15 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## Last Week (1,391 Articles)
+## Last Week (1,393 Articles)
 
-* **272** lankadeepa-lk ([අරගලයට සහාය දුන් බ්‍රිතාන්‍ය තරුණිය සොයා මෙහෙයුමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efc3940d.json))
+* **273** lankadeepa-lk ([අරගලයට සහාය දුන් බ්‍රිතාන්‍ය තරුණිය සොයා මෙහෙයුමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efc3940d.json))
 
 * **193** tamil-mirror-lk ([சேதங்களை சரி செய்ய சட்டநடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be2074bb.json))
 
 * **180** news-first-lk ([Nine petitions challenge Draft 22A](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afc5a952.json))
 
-* **173** ada-lk ([වී මිලදී ගැනීමට ගබඩා 55ක් විවෘතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cda3e255.json))
+* **174** ada-lk ([වී මිලදී ගැනීමට ගබඩා 55ක් විවෘතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cda3e255.json))
 
 * **161** daily-mirror-lk ([Ranjith Madduma denies reports of crossing over to Govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28bf2d1c.json))
 
@@ -86,11 +82,11 @@
 
 * **16** d-b-s-jeyaraj-com ([SLPP Delegation led by National Organizer Basil Rajapaksa Meets President Wickremesinghe and Requests him to Facilitate Former President Gotabaya Rajapaksa’s safe Return to Sri Lanka :assures party’s fullest support to Ranil’s  endeavours to ensure the recovery of Sri Lanka’s economy.](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e6c31be.json))
 
-## All Time (2,855 Articles)
+## All Time (2,857 Articles)
 
-* **520** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **521** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **376** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **377** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **360** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
