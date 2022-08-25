@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dc0\u0dad\u0dca-\u0d9a\u0db3\u0dd4\u0d9a\u0dbb-\u0d9a\u0ddc\u0da7\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0dc3\u0db8\u0dd4\u0d9c\u0db1\u0dd3/101-618734",
+    "time_ut": 1661419974,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dc0\u0dad\u0dca \u0d9a\u0db3\u0dd4\u0d9a\u0dbb \u0d9a\u0ddc\u0da7\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0dc3\u0db8\u0dd4\u0d9c\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/cf/cf472e1f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0bb4\u0bbf-\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8-\u0bb5\u0bbf\u0bb1\u0bcd\u0bb1-64-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-302987",
+    "time_ut": 1661419588,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0bb4\u0bbf \u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0bb1 64 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/1c/1cfb1d77.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/25/multiple-unapproved-fuel-storage-tanks-at-business-premises-kanchana/",
+    "time_ut": 1661419560,
+    "original_lang": "en",
+    "original_title": "Multiple unapproved Fuel Storage Tanks at business premises \u2013 Kanchana",
+    "file_name": "/tmp/news_lk2/articles/5c/5c7f9c25.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84531/fuel-not-distributed-to-businesses-sans-approval-disregard-guidelines-minister",
+    "time_ut": 1661419440,
+    "original_lang": "en",
+    "original_title": "Fuel not distributed to businesses sans approval & disregard guidelines: Minister",
+    "file_name": "/tmp/news_lk2/articles/fa/faa3f1ef.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dc4-\u0db4\u0dcf\u0dbb\u0dda-\u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u2019\u2019\u0dc3\u0dd2\u0dc3\u0dca\u0da7\u0db8\u0dca-\u0da0\u0dda\u0db1\u0dca\u0da2\u0dca\u2019\u2019-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0db6\u0dd0\u0dc4\u0dd0/101-618733",
+    "time_ut": 1661419307,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dc4 \u0db4\u0dcf\u0dbb\u0dda \u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u2019\u2019\u0dc3\u0dd2\u0dc3\u0dca\u0da7\u0db8\u0dca \u0da0\u0dda\u0db1\u0dca\u0da2\u0dca\u2019\u2019 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0db6\u0dd0\u0dc4\u0dd0",
+    "file_name": "/tmp/news_lk2/articles/52/5218b9a1.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1/175-302986",
     "time_ut": 1661418462,
@@ -14,6 +54,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0bc7\u0ba9\u0bbe\u0ba4\u0bbf \u0b95\u0bc1\u0bb0\u0bc1\u0b95\u0bc7\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/d1/d1af58ed.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dad\u0db1\u0dd2\u0dc0\u0db8-\u0dbd\u0ddc\u0dc0-\u0dc0\u0da7\u0dcf-\u0d9c\u0dd2\u0dba-\u0dc5\u0db6\u0dcf\u0dbd\u0dad\u0db8-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0db1\u0dd2\u0dba\u0db8\u0dd4\u0dc0\u0dcf/11-396605",
+    "time_ut": 1661418062,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0db1\u0dd2\u0dc0\u0db8 \u0dbd\u0ddc\u0dc0 \u0dc0\u0da7\u0dcf \u0d9c\u0dd2\u0dba \u0dc5\u0db6\u0dcf\u0dbd\u0dad\u0db8 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0db1\u0dd2\u0dba\u0db8\u0dd4\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/d7/d7409d93.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7950,53 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb8\u0bb5\u0bc8 \u0bb5\u0bbf\u0b9f \u201c\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb8\u201d \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/5f/5fcc4c41.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/20/ecsl-moots-holding-local-government-elections/",
-    "time_ut": 1660987500,
-    "original_lang": "en",
-    "original_title": "ECSL moots holding local government elections",
-    "file_name": "/tmp/news_lk2/articles/25/251cb95f.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/passion-for-shopping-strongly-hits-the-wallet/",
-    "time_ut": 1660987500,
-    "original_lang": "en",
-    "original_title": "passion for shopping strongly\u00a0 hits the wallet",
-    "file_name": "/tmp/news_lk2/articles/d9/d9e49179.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/20/three-arrested-in-relation-to-ambalangoda-shooting-incident/",
-    "time_ut": 1660987260,
-    "original_lang": "en",
-    "original_title": "Three arrested in relation to Ambalangoda shooting incident",
-    "file_name": "/tmp/news_lk2/articles/7a/7a14f760.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-new-price-controls-on-eggs-could-lead-to-shortages-poultry-association-98817/",
-    "time_ut": 1660986720,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s new price controls on eggs could lead to shortages: poultry association",
-    "file_name": "/tmp/news_lk2/articles/36/361f41ce.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302666",
-    "time_ut": 1660986352,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/ea/eaf86c39.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/unilever-ranked-no-1-most-respected-fmcg-company-in-lanka-once-again/",
-    "time_ut": 1660986180,
-    "original_lang": "en",
-    "original_title": "Unilever ranked No 1 most respected FMCG company in Lanka once again",
-    "file_name": "/tmp/news_lk2/articles/e1/e111965f.json"
   }
 ]
