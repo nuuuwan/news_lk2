@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 00:48:10 (LK time)*
+*As of 2022-08-26 01:12:42 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** tamil-mirror-lk ([சைபர் தளத்திலும் யுத்தம் நிகழலாம்: ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ae201f1.json))
 
 ## Last Hour (2 Articles)
 
@@ -14,9 +10,9 @@
 
 * **1** ada-derana-lk ([Security forces should be equipped with technological knowledge - President](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe1c8b6f.json))
 
-## Last 3 Hours (5 Articles)
+## Last 3 Hours (4 Articles)
 
-* **3** ada-derana-lk ([Sri Lanka reports 6 more Covid-19 deaths, 114 new cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3ffa4445.json))
+* **2** ada-derana-lk ([CBSL Governor to conduct special program for MPs on Sri Lanka’s economic situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afd1333e.json))
 
 * **1** tamil-mirror-lk ([சைபர் தளத்திலும் யுத்தம் நிகழலாம்: ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ae201f1.json))
 
