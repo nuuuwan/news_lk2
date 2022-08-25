@@ -112,12 +112,36 @@
     "file_name": "/tmp/news_lk2/articles/b2/b24e2d2c.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/doing-it-with-eggs/",
+    "time_ut": 1661362620,
+    "original_lang": "en",
+    "original_title": "Doing it with eggs\u2026",
+    "file_name": "/tmp/news_lk2/articles/2f/2fe2d644.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Deep-cuts-pain-and-PTA-President-Ranil-s-de-stabilising-dogma/4-739058",
     "time_ut": 1661362331,
     "original_lang": "en",
     "original_title": "Deep cuts, pain and PTA: President Ranil\u2019s de-stabilising dogma",
     "file_name": "/tmp/news_lk2/articles/bf/bf15c110.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/speculation-on-impending-tax-hikes-brings-down-bourse/",
+    "time_ut": 1661362140,
+    "original_lang": "en",
+    "original_title": "Speculation on impending tax hikes brings down bourse",
+    "file_name": "/tmp/news_lk2/articles/07/07832f4a.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dialogs-govi-mithuru-partners-tri-to-extend-advisory-services-on-tea-cultivation/",
+    "time_ut": 1661362140,
+    "original_lang": "en",
+    "original_title": "Dialog\u2019s Govi Mithuru partners TRI to extend advisory services on tea cultivation",
+    "file_name": "/tmp/news_lk2/articles/bb/bb701eba.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -134,6 +158,22 @@
     "original_lang": "en",
     "original_title": "91 essential medicines dwindled to zero stock level: GMOA",
     "file_name": "/tmp/news_lk2/articles/9e/9e65553f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dif-managed-by-bov-capital-leads-lkr-205-million-funding-round-for-ifinity/",
+    "time_ut": 1661362080,
+    "original_lang": "en",
+    "original_title": "DIF managed by BOV Capital leads LKR 205 million funding round for IFINITY",
+    "file_name": "/tmp/news_lk2/articles/3a/3ad30908.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/nations-trust-bank-expands-physical-touchpoints-with-new-cash-deposits-and-withdrawal-machines-at-keells-outlets/",
+    "time_ut": 1661362020,
+    "original_lang": "en",
+    "original_title": "Nations Trust Bank expands physical touchpoints with new cash deposits and withdrawal machines at Keells outlets",
+    "file_name": "/tmp/news_lk2/articles/60/60c3c1e2.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -1640,6 +1680,30 @@
     "file_name": "/tmp/news_lk2/articles/cb/cbf47555.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/delisting-of-former-proscribed-entities/",
+    "time_ut": 1661274960,
+    "original_lang": "en",
+    "original_title": "Delisting of former proscribed entities",
+    "file_name": "/tmp/news_lk2/articles/8f/8fdf8e31.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sri-lanka-insurance-makes-record-profit-of-rs-7-7-billion-before-taxation-for-2022-first-half/",
+    "time_ut": 1661274480,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Insurance makes record profit of Rs. 7.7 billion before taxation for 2022 first half",
+    "file_name": "/tmp/news_lk2/articles/a5/a5ab14f8.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/browns-fabric-supports-usd-earning-apparel-industry-signs-boi-agreement/",
+    "time_ut": 1661274480,
+    "original_lang": "en",
+    "original_title": "Browns Fabric supports USD earning apparel industry \u2013 signs BOI agreement",
+    "file_name": "/tmp/news_lk2/articles/bb/bbc18882.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-halts-imports-of-over-300-items-98937/",
     "time_ut": 1661274420,
@@ -1654,6 +1718,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/86/86d7dd52.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/profit-takings-in-lanka-ioc-expolanka-holdings-and-lankem-development-turnover-rs-4-9-billion/",
+    "time_ut": 1661274360,
+    "original_lang": "en",
+    "original_title": "Profit-takings in Lanka IOC, Expolanka Holdings and Lankem Development; turnover Rs. 4.9 billion",
+    "file_name": "/tmp/news_lk2/articles/e4/e4b6b03a.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -3550,6 +3622,22 @@
     "original_lang": "en",
     "original_title": "Singapore scene for Rajiv",
     "file_name": "/tmp/news_lk2/articles/40/40559ce8.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/despite-problems/",
+    "time_ut": 1661189160,
+    "original_lang": "en",
+    "original_title": "Despite problems\u2026",
+    "file_name": "/tmp/news_lk2/articles/ad/adfe0337.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/the-dangerous-betrayal-of-trust/",
+    "time_ut": 1661188980,
+    "original_lang": "en",
+    "original_title": "The dangerous betrayal of trust",
+    "file_name": "/tmp/news_lk2/articles/93/93819366.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -5470,6 +5558,14 @@
     "original_lang": "si",
     "original_title": "\u0db7\u0dd6\u0db8\u0dd2\u0dad\u0dd9\u0dbd\u0dca \u0dbd\u0dd3\u0da7\u0dbb\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 253\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
     "file_name": "/tmp/news_lk2/articles/4f/4fb83d3b.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dancing-sanna-and-waltzing-matilda/",
+    "time_ut": 1661104440,
+    "original_lang": "en",
+    "original_title": "Dancing Sanna and waltzing Matilda",
+    "file_name": "/tmp/news_lk2/articles/14/14a7ea35.json"
   },
   {
     "newspaper_id": "island-lk",
