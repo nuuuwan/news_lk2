@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 04:13:42 (LK time)*
+*As of 2022-08-26 04:31:53 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,11 +8,11 @@
 
 * **2** daily-mirror-lk ([Ukraine war, Sri Lanka and IMF prescriptions](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd0d7dde.json))
 
-## Last 24 Hours (174 Articles)
+## Last 24 Hours (172 Articles)
 
 * **40** lankadeepa-lk ([බස් යතුරු පැදි ගැටී තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2e669e.json))
 
-* **28** daily-mirror-lk ([Information and cybersecurity policy for all govt. entities](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/920d5297.json))
+* **26** daily-mirror-lk ([30 State Ministers to be appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/931de269.json))
 
 * **26** ada-lk ([අගෝස්තු පළමු සති 3ට සංචාරක පැමිණීිම  30000  ඉක්මවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a7ee6cb.json))
 
