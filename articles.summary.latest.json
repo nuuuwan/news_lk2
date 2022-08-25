@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Final-report-handed-over-to-minister/108-243732",
+    "time_ut": 1661416236,
+    "original_lang": "en",
+    "original_title": "Final report handed over to minister",
+    "file_name": "/tmp/news_lk2/articles/bd/bd00b381.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-hotels-software-firms-to-face-human-rights-rules-from-german-law-99009/",
+    "time_ut": 1661415840,
+    "original_lang": "en",
+    "original_title": "Sri Lanka hotels, software firms to face human rights rules from German law",
+    "file_name": "/tmp/news_lk2/articles/c4/c4f3e063.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0ddd\u0daf\u0dba-\u0dc3\u0dcf\u0dc4\u0dd2\u0dad\u0dca\u200d\u0dba-\u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1-\u0dc3\u0db3\u0dc4\u0dcf-\u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1\u0dd2\u0dad-\u0d9a\u0dd8\u0dad\u0dd3\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7-\u0db4\u0dad\u0dca\u0d9a\u0dd9\u0dbb\u0dda/1-618732",
+    "time_ut": 1661415689,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0ddd\u0daf\u0dba \u0dc3\u0dcf\u0dc4\u0dd2\u0dad\u0dca\u200d\u0dba \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1\u0dd2\u0dad \u0d9a\u0dd8\u0dad\u0dd3\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca\u0d9a\u0dd9\u0dbb\u0dda",
+    "file_name": "/tmp/news_lk2/articles/6b/6bb9179c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-property-developers-allowed-to-import-tiles-99005/",
+    "time_ut": 1661415360,
+    "original_lang": "en",
+    "original_title": "Sri Lanka property developers allowed to import tiles",
+    "file_name": "/tmp/news_lk2/articles/fc/fcc19cc6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84530/aragalaya-activist-senadhi-guruge-remanded",
+    "time_ut": 1661415240,
+    "original_lang": "en",
+    "original_title": "\u2018Aragalaya\u2019 activist Senadhi Guruge remanded",
+    "file_name": "/tmp/news_lk2/articles/d5/d5484e15.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0daf-\u0d85\u0db4\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0dc3\u0dd4\u0db6-\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca/11-396602",
+    "time_ut": 1661415181,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0daf.\u0d85\u0db4\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0dd4\u0db6 \u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/30/300702b1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/WHO-pledges-4-million-worth-medical-supplies-to-SL-PMD/108-243731",
+    "time_ut": 1661415093,
+    "original_lang": "en",
+    "original_title": "WHO pledges $4 million worth medical supplies to SL: PMD",
+    "file_name": "/tmp/news_lk2/articles/ba/ba62054f.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/25/activist-senadhi-guruge-remanded-for-assault-on-intel-officers/",
     "time_ut": 1661415000,
@@ -78,6 +134,14 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dd3\u0dba\u0dda \u0d9a\u0da9\u0dc0\u0dad-\u0db8\u0dd3\u0dbb\u0dd2\u0d9c\u0db8 \u0d9a\u0ddc\u0da7\u0dc3\u0dd9\u0dc4\u0dd2 \u0d9a\u0db8\u0dca\u0db6\u0dd2 \u0d9a\u0db4\u0db1 \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/0c/0c61d9e7.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0d82\u0da2\u0dcf-\u0db4\u0dd0\u0dc5-3122\u0d9a\u0dca-\u0dc0\u0d9c\u0dcf-\u0d9a\u0dc5-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6/11-396601",
+    "time_ut": 1661411739,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0d82\u0da2\u0dcf \u0db4\u0dd0\u0dc5 3122\u0d9a\u0dca \u0dc0\u0d9c\u0dcf \u0d9a\u0dc5 \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6",
+    "file_name": "/tmp/news_lk2/articles/60/602cb1ed.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "en",
     "original_title": "Hirunika records statement with CID",
     "file_name": "/tmp/news_lk2/articles/96/962f1e82.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-customs-arrest-two-indians-suspect-of-smuggling-in-jewellery-98811/",
-    "time_ut": 1660979940,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Customs arrest two Indians suspect of smuggling in jewellery",
-    "file_name": "/tmp/news_lk2/articles/e0/e01dff57.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-customs-arrest-two-indians-suspected-of-smuggling-in-jewellery-98811/",
-    "time_ut": 1660979940,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Customs arrest two Indians suspected of smuggling in jewellery",
-    "file_name": "/tmp/news_lk2/articles/ac/acf1a121.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-customs-arrest-three-indians-suspected-of-smuggling-in-jewellery-98811/",
-    "time_ut": 1660979940,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Customs arrest three Indians suspected of smuggling in jewellery",
-    "file_name": "/tmp/news_lk2/articles/bc/bcc4e2c0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/PCR-RAT-test-kits-are-limited-stringent-effort-to-control-spread-underway-Dr-Herath/342-243425",
-    "time_ut": 1660979375,
-    "original_lang": "en",
-    "original_title": "PCR, RAT test kits are limited; stringent effort to control spread underway: Dr. Herath",
-    "file_name": "/tmp/news_lk2/articles/8b/8be841a3.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bae\u0bbf\u0b95\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd-\u0bb5\u0bc8\u0bb0\u0bb8\u0bcd-\u0ba4\u0bbf\u0bb0\u0bbf\u0baa\u0bc1-\u0baa\u0bb1\u0bcd\u0bb1\u0bbf-\u0bb5\u0bbf\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-302664",
-    "time_ut": 1660978097,
-    "original_lang": "ta",
-    "original_title": "\u0b92\u0bae\u0bbf\u0b95\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd \u0bb5\u0bc8\u0bb0\u0bb8\u0bcd \u0ba4\u0bbf\u0bb0\u0bbf\u0baa\u0bc1 \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0bb5\u0bbf\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/45/453157c4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84420/janani-wins-gold-at-indian-open-national-para-athletics-championship",
-    "time_ut": 1660978020,
-    "original_lang": "en",
-    "original_title": "Janani wins gold at Indian Open National Para-Athletics Championship",
-    "file_name": "/tmp/news_lk2/articles/f2/f2953b2b.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8/\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bcb\u0bb0-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0bae\u0bc2\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/75-302663",
-    "time_ut": 1660977606,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0bb0 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1; \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/46/4690758c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dad\u0dc4\u0d82\u0da0\u0dd2-\u0d85\u0dc4\u0ddd\u0dc3\u0dd2\u0dba\u0dda-\u0dba\u0da7\u0dd2-\u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4/2-618447",
-    "time_ut": 1660977463,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dc4\u0d82\u0da0\u0dd2 \u0d85\u0dc4\u0ddd\u0dc3\u0dd2\u0dba\u0dda \u0dba\u0da7\u0dd2 \u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/a2/a2cbe6e7.json"
   }
 ]
