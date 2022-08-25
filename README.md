@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-25 19:41:22 (LK time)*
+*As of 2022-08-25 19:50:03 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** lankadeepa-lk ([රත්නපුරේ විදුහල්පති සිසු අපයෝජනය කාලෙක ඉඳන් කරගෙන ගිහින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96c5e2ef.json))
 
 ## Last Hour (5 Articles)
 
@@ -58,11 +54,11 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## Last Week (1,393 Articles)
+## Last Week (1,392 Articles)
 
 * **273** lankadeepa-lk ([අරගලයට සහාය දුන් බ්‍රිතාන්‍ය තරුණිය සොයා මෙහෙයුමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efc3940d.json))
 
-* **193** tamil-mirror-lk ([சேதங்களை சரி செய்ய சட்டநடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be2074bb.json))
+* **192** tamil-mirror-lk ([கட்சித் தாவப்போவதில்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f79ea864.json))
 
 * **180** news-first-lk ([Nine petitions challenge Draft 22A](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afc5a952.json))
 
