@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1/175-302986",
+    "time_ut": 1661418462,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/8b/8bcbf0e3.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc7\u0ba9\u0bbe\u0ba4\u0bbf-\u0b95\u0bc1\u0bb0\u0bc1\u0b95\u0bc7\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-302985",
+    "time_ut": 1661418087,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bc7\u0ba9\u0bbe\u0ba4\u0bbf \u0b95\u0bc1\u0bb0\u0bc1\u0b95\u0bc7\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d1/d1af58ed.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/south-africa-president-congratulates-sri-lankan-counterpart-wants-enhanced-ties-99012/",
+    "time_ut": 1661417880,
+    "original_lang": "en",
+    "original_title": "South Africa president congratulates Sri Lankan counterpart, wants enhanced ties",
+    "file_name": "/tmp/news_lk2/articles/d8/d8f40293.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/25/senior-citizen-beaten-to-death-with-motorcycle-helmet-in-kandana/",
     "time_ut": 1661417760,
@@ -22,6 +46,14 @@
     "original_lang": "en",
     "original_title": "Get booster dose soon; vaccines to expire by Oct. 31: Dr. Ginige",
     "file_name": "/tmp/news_lk2/articles/da/da5acbc2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0db1\u0dca\u0daf\u0d9a\u0da7-\u0dc4\u0dc3\u0dd4-\u0dc0\u0dd6-\u0d9a\u0db3\u0dd4\u0d9a\u0dbb-\u0d9a\u0ddc\u0da7\u0dd2-\u0db4\u0dd0\u0da7\u0dc0\u0dd9\u0d9a\u0dd4-\u0da2\u0dd2\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7/11-396604",
+    "time_ut": 1661416975,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db1\u0dca\u0daf\u0d9a\u0da7 \u0dc4\u0dc3\u0dd4 \u0dc0\u0dd6 \u0d9a\u0db3\u0dd4\u0d9a\u0dbb \u0d9a\u0ddc\u0da7\u0dd2 \u0db4\u0dd0\u0da7\u0dc0\u0dd9\u0d9a\u0dd4 \u0da2\u0dd2\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/8b/8b772f67.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
