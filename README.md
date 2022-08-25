@@ -1,20 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 02:49:32 (LK time)*
+*As of 2022-08-26 03:30:00 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (2 Articles)
+## Last Hour (2 Articles)
+
+* **2** daily-mirror-lk ([Ukraine war, Sri Lanka and IMF prescriptions](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd0d7dde.json))
+
+## Last 3 Hours (3 Articles)
+
+* **2** daily-mirror-lk ([Ukraine war, Sri Lanka and IMF prescriptions](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd0d7dde.json))
 
 * **1** tamil-mirror-lk ([சைபர் தளத்திலும் யுத்தம் நிகழலாம்: ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ae201f1.json))
-
-* **1** ada-derana-lk ([Security forces should be equipped with technological knowledge - President](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe1c8b6f.json))
 
 ## Last 24 Hours (176 Articles)
 
 * **40** lankadeepa-lk ([බස් යතුරු පැදි ගැටී තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2e669e.json))
 
-* **30** daily-mirror-lk ([Beware the Neddas!](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48c54513.json))
+* **30** daily-mirror-lk ([Plugging loopholes in Sri Lanka’s  maritime security architecture](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7a7742f.json))
 
 * **26** ada-lk ([අගෝස්තු පළමු සති 3ට සංචාරක පැමිණීිම  30000  ඉක්මවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a7ee6cb.json))
 
@@ -28,7 +32,7 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## Last Week (1,364 Articles)
+## Last Week (1,366 Articles)
 
 * **268** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
@@ -38,7 +42,7 @@
 
 * **173** ada-lk ([ජනපති හා එක්සත් ජාතින්ගේ නියෝජිත පිරිස අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2aa02d5f.json))
 
-* **160** daily-mirror-lk ([People who were in the Aragalaya without any political agenda were not harmed - Manusha Nanayakkara](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/101f5b8c.json))
+* **162** daily-mirror-lk ([People who were in the Aragalaya without any political agenda were not harmed - Manusha Nanayakkara](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/101f5b8c.json))
 
 * **158** ada-derana-lk ([Showers or thundershowers expected in four provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f1715b6.json))
 
@@ -52,13 +56,13 @@
 
 * **14** d-b-s-jeyaraj-com ([The 2000 Day “Poaraattam” (Struggle) by Tamil Women for Their “Disappeared” Loved Ones.](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55159169.json))
 
-## All Time (2,881 Articles)
+## All Time (2,883 Articles)
 
 * **524** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **380** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **366** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
+* **368** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
 * **330** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
