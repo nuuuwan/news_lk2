@@ -1,24 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 03:30:00 (LK time)*
+*As of 2022-08-26 03:47:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last 3 Hours (2 Articles)
 
 * **2** daily-mirror-lk ([Ukraine war, Sri Lanka and IMF prescriptions](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd0d7dde.json))
 
-## Last 3 Hours (3 Articles)
-
-* **2** daily-mirror-lk ([Ukraine war, Sri Lanka and IMF prescriptions](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd0d7dde.json))
-
-* **1** tamil-mirror-lk ([சைபர் தளத்திலும் யுத்தம் நிகழலாம்: ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ae201f1.json))
-
-## Last 24 Hours (176 Articles)
+## Last 24 Hours (174 Articles)
 
 * **40** lankadeepa-lk ([බස් යතුරු පැදි ගැටී තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2e669e.json))
 
-* **30** daily-mirror-lk ([Plugging loopholes in Sri Lanka’s  maritime security architecture](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7a7742f.json))
+* **28** daily-mirror-lk ([Information and cybersecurity policy for all govt. entities](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/920d5297.json))
 
 * **26** ada-lk ([අගෝස්තු පළමු සති 3ට සංචාරක පැමිණීිම  30000  ඉක්මවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a7ee6cb.json))
 
@@ -32,7 +26,7 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## Last Week (1,366 Articles)
+## Last Week (1,363 Articles)
 
 * **268** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
@@ -42,7 +36,7 @@
 
 * **173** ada-lk ([ජනපති හා එක්සත් ජාතින්ගේ නියෝජිත පිරිස අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2aa02d5f.json))
 
-* **162** daily-mirror-lk ([People who were in the Aragalaya without any political agenda were not harmed - Manusha Nanayakkara](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/101f5b8c.json))
+* **159** daily-mirror-lk ([SL to request Japan to initiate dialogue with creditors](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e681fa8c.json))
 
 * **158** ada-derana-lk ([Showers or thundershowers expected in four provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f1715b6.json))
 
