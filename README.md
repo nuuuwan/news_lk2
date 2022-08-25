@@ -1,26 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-25 22:15:53 (LK time)*
+*As of 2022-08-25 22:37:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (2 Articles)
 
 * **1** ada-derana-lk ([Sri Lanka reports 6 more Covid-19 deaths, 114 new cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3ffa4445.json))
 
 * **1** news-first-lk ([Gotabaya Rajapaksa may return to Sri Lanka on 3rd September – Udayanga](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd7489e6.json))
 
-## Last Hour (5 Articles)
-
-* **2** news-first-lk ([Ranil is the most powerful President – Vajira](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b2202ff.json))
-
-* **1** ada-derana-lk ([Sri Lanka reports 6 more Covid-19 deaths, 114 new cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3ffa4445.json))
-
-* **1** daily-mirror-lk ([Nine Sri Lankan flyers detained with gold in their rectums at Hyderabad airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebb52b9f.json))
-
-* **1** ada-lk ([සාර්ථක හමුදාවක් බිහි කිරීමට විනයක්, පුහුණුවක් හා දැනුමක් අවශ්‍යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0e13d2.json))
-
-## Last 3 Hours (19 Articles)
+## Last 3 Hours (17 Articles)
 
 * **5** daily-mirror-lk ([’Soorya Bala Sangramaya’ should be re-launched as ’Kadinam Soorya Bala Sangramaya’: Solar Industries Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add458b6.json))
 
@@ -28,21 +18,21 @@
 
 * **4** economy-next-com ([Sri Lanka shares down 2-pct on retail sellings and margin calls](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21c8bf2c.json))
 
-* **3** lankadeepa-lk ([රත්නපුරේ විදුහල්පති සිසු අපයෝජනය කාලෙක ඉඳන් කරගෙන ගිහින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67716689.json))
-
-* **2** ada-lk ([ත්‍රිරෝද රථයෙන් වි පාගයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/1744f862.json))
+* **2** lankadeepa-lk ([හමුදාව සයිබර් යුද්ධ සඳහාත් සන්නද්ධ කළ යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/660b21d1.json))
 
 * **1** ada-derana-lk ([Sri Lanka reports 6 more Covid-19 deaths, 114 new cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3ffa4445.json))
 
-## Last 24 Hours (192 Articles)
+* **1** ada-lk ([සාර්ථක හමුදාවක් බිහි කිරීමට විනයක්, පුහුණුවක් හා දැනුමක් අවශ්‍යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0e13d2.json))
+
+## Last 24 Hours (191 Articles)
 
 * **39** lankadeepa-lk ([බස් යතුරු පැදි ගැටී තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2e669e.json))
 
 * **31** daily-mirror-lk ([91 essential medicines dwindled to zero stock level: GMOA](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f37f2f7.json))
 
-* **26** ada-derana-lk ([Amendment to the Penal Code on LGBTQ+ rights handed over to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/557f9650.json))
-
 * **26** ada-lk ([අගෝස්තු පළමු සති 3ට සංචාරක පැමිණීිම  30000  ඉක්මවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a7ee6cb.json))
+
+* **25** ada-derana-lk ([Circular issued to allow govt officials to take up foreign jobs](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b24e2d2c.json))
 
 * **20** news-first-lk ([IUSF Convener held in Nawagamuwa following arrest](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f29e8445.json))
 
@@ -56,7 +46,7 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## Last Week (1,376 Articles)
+## Last Week (1,375 Articles)
 
 * **267** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
@@ -74,7 +64,7 @@
 
 * **58** daily-ft-lk ([Sysco LABS ranked amongst LMD’s Most Respected Entities for 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/252a2d47.json))
 
-* **55** island-lk ([An interview with Yiran An, senior product manager, vivo Imaging Centre](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1505145f.json))
+* **54** island-lk ([Has Sri Lanka finally learned its lesson on emotional vs evidence-based agri policies?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b90e2e4f.json))
 
 * **16** colombo-telegraph-com ([Saying No To Authoritarian Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2af95aab.json))
 
