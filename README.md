@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 01:12:42 (LK time)*
+*As of 2022-08-26 01:34:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
 * **1** tamil-mirror-lk ([சைபர் தளத்திலும் யுத்தம் நிகழலாம்: ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ae201f1.json))
-
-* **1** ada-derana-lk ([Security forces should be equipped with technological knowledge - President](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe1c8b6f.json))
 
 ## Last 3 Hours (4 Articles)
 
@@ -18,7 +16,7 @@
 
 * **1** daily-mirror-lk ([India urges its citizens to examine relevant factors before undertaking visit to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/717edecd.json))
 
-## Last 24 Hours (181 Articles)
+## Last 24 Hours (176 Articles)
 
 * **40** lankadeepa-lk ([බස් යතුරු පැදි ගැටී තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2e669e.json))
 
@@ -34,11 +32,9 @@
 
 * **17** economy-next-com ([Sri Lanka fertilizer tender fails amid banking concerns: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f94545e3.json))
 
-* **5** daily-ft-lk ([“Unleash excellence in the new normal”: SLASSCOM to hold 6th successive Quality Summit](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2ff27689.json))
-
 * **1** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## Last Week (1,369 Articles)
+## Last Week (1,364 Articles)
 
 * **268** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
@@ -54,9 +50,9 @@
 
 * **101** economy-next-com ([Sri Lanka energy minister seeks police probe into fuel distribution complaints](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f44f9e9.json))
 
-* **56** daily-ft-lk ([Sri Lanka going the Turkey way?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fd40788.json))
-
 * **54** island-lk ([Has Sri Lanka finally learned its lesson on emotional vs evidence-based agri policies?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b90e2e4f.json))
+
+* **51** daily-ft-lk ([Dialog promotes best data plans for entire family](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f47911b1.json))
 
 * **16** colombo-telegraph-com ([Saying No To Authoritarian Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2af95aab.json))
 
