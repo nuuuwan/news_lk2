@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/25/senior-citizen-beaten-to-death-with-motorcycle-helmet-in-kandana/",
+    "time_ut": 1661417760,
+    "original_lang": "en",
+    "original_title": "Senior Citizen beaten to death with motorcycle helmet in Kandana",
+    "file_name": "/tmp/news_lk2/articles/1d/1d3d8b58.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/25/woman-killed-wrapped-in-a-bed-sheet-and-dumped-in-a-well/",
+    "time_ut": 1661417460,
+    "original_lang": "en",
+    "original_title": "Woman killed, wrapped in a bed sheet and dumped in a well",
+    "file_name": "/tmp/news_lk2/articles/e1/e15c4278.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Final-report-handed-over-to-minister/108-243732",
+    "url": "https://www.dailymirror.lk/latest_news/Get-booster-dose-soon-vaccines-to-expire-by-Oct-31-Dr-Ginige/342-243733",
+    "time_ut": 1661417251,
+    "original_lang": "en",
+    "original_title": "Get booster dose soon; vaccines to expire by Oct. 31: Dr. Ginige",
+    "file_name": "/tmp/news_lk2/articles/da/da5acbc2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Final-report-handed-over-to-minister/342-243732",
     "time_ut": 1661416236,
     "original_lang": "en",
     "original_title": "Final report handed over to minister",
-    "file_name": "/tmp/news_lk2/articles/bd/bd00b381.json"
+    "file_name": "/tmp/news_lk2/articles/e6/e67c3347.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0ddc\u0dbb\u0d9a\u0db8\u0dca-\u0d9a\u0dc5-\u0d9a\u0dd0\u0db6\u0dca-\u0dbb\u0dae\u0dba-\u0db8\u0dd4\u0dc4\u0dd4\u0dab\u0dd4-\u0db4\u0ddc\u0dad\u0dd9\u0db1\u0dca-\u0dc3\u0ddc\u0dba\u0dcf-\u0d9c\u0db1\u0dd3/11-396603",
+    "time_ut": 1661415896,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0ddc\u0dbb\u0d9a\u0db8\u0dca \u0d9a\u0dc5 \u0d9a\u0dd0\u0db6\u0dca \u0dbb\u0dae\u0dba \u0db8\u0dd4\u0dc4\u0dd4\u0dab\u0dd4 \u0db4\u0ddc\u0dad\u0dd9\u0db1\u0dca \u0dc3\u0ddc\u0dba\u0dcf \u0d9c\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/94/94428a56.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -14,6 +46,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka hotels, software firms to face human rights rules from German law",
     "file_name": "/tmp/news_lk2/articles/c4/c4f3e063.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-hotels-software-firms-with-german-partners-to-face-human-rights-law-99009/",
+    "time_ut": 1661415840,
+    "original_lang": "en",
+    "original_title": "Sri Lanka hotels, software firms with German partners to face human rights law",
+    "file_name": "/tmp/news_lk2/articles/90/9094ec42.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -49,11 +89,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/WHO-pledges-4-million-worth-medical-supplies-to-SL-PMD/108-243731",
+    "url": "https://www.dailymirror.lk/latest_news/WHO-pledges-4-million-worth-medical-supplies-to-SL-PMD/342-243731",
     "time_ut": 1661415093,
     "original_lang": "en",
     "original_title": "WHO pledges $4 million worth medical supplies to SL: PMD",
-    "file_name": "/tmp/news_lk2/articles/ba/ba62054f.json"
+    "file_name": "/tmp/news_lk2/articles/de/ded42644.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0dd0\u0db6\u0dd6 \u0d9c\u0dd9\u0dc0\u0dbd\u0dca \u0dc4\u0daf\u0dcf \u0d9c\u0db1\u0dca\u0db1 \u0dbb\u0da2\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0d9a\u0dca \u0db1\u0dd1\u2018\u2018",
     "file_name": "/tmp/news_lk2/articles/73/731b7aab.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/20/sjb-condemns-detention-orders-on-iusf-convener/",
-    "time_ut": 1660984260,
-    "original_lang": "en",
-    "original_title": "SJB condemns detention orders on IUSF convener",
-    "file_name": "/tmp/news_lk2/articles/87/876825b1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/20/hirunika-questions-student-union-pta-correlation/",
-    "time_ut": 1660983840,
-    "original_lang": "en",
-    "original_title": "Hirunika questions student union \u2013 PTA correlation",
-    "file_name": "/tmp/news_lk2/articles/e9/e9b5f110.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/imf-staff-plans-to-visit-sri-lanka-august-24-31-98815/",
-    "time_ut": 1660983720,
-    "original_lang": "en",
-    "original_title": "IMF staff plans to visit Sri Lanka August 24-31",
-    "file_name": "/tmp/news_lk2/articles/88/88c4fc9b.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dc0-\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba-\u0dbd\u0db6\u0db1-\u0dc3\u0dad\u0dd2\u0dba\u0dda\u0daf\u0dd3-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/11-396462",
-    "time_ut": 1660983540,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dc0 \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0dbd\u0db6\u0db1 \u0dc3\u0dad\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e3/e301afa7.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84421/hirunika-records-statement-with-cid",
-    "time_ut": 1660982340,
-    "original_lang": "en",
-    "original_title": "Hirunika records statement with CID",
-    "file_name": "/tmp/news_lk2/articles/96/962f1e82.json"
   }
 ]
