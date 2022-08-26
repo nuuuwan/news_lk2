@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0db1\u0dd2\u0dbd\u0dca\u0dc0\u0dbd\u0dcf-\u0d9c\u0d9f\u0dda-\u0daf\u0dd2\u0dba-\u0db1\u0dd1-\u0dc4\u0dad\u0dbb\u0d9a\u0dca-\u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1-\u0dba\u0dba\u0dd2/101-618814",
+    "time_ut": 1661524103,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0db1\u0dd2\u0dbd\u0dca\u0dc0\u0dbd\u0dcf \u0d9c\u0d9f\u0dda \u0daf\u0dd2\u0dba \u0db1\u0dd1 \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1 \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/18/18a62b85.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/navy-leaps-into-action-to-extinguish-fire-at-marshy-land-in-wattala/",
+    "time_ut": 1661523720,
+    "original_lang": "en",
+    "original_title": "Navy leaps into action to extinguish fire at marshy-land in Wattala",
+    "file_name": "/tmp/news_lk2/articles/4c/4c7490d1.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84563/four-people-reported-missing-while-bathing-at-udaha-ella",
     "time_ut": 1661522880,
