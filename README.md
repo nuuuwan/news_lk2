@@ -1,30 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 20:16:15 (LK time)*
+*As of 2022-08-26 20:30:33 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (2 Articles)
 
-* **1** lankadeepa-lk ([නනිල්වලා ගඟේ දිය නෑ හතරක් ගසාගෙන යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18a62b85.json))
+* **1** lankadeepa-lk ([රන්ජන්ගේ නිදහස ගැන හරීන් කළ ප්‍රකාශය](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/2371f8da.json))
 
-* **1** news-first-lk ([Navy leaps into action to extinguish fire at marshy-land in Wattala](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c7490d1.json))
+* **1** news-first-lk ([58 COVID cases reported on Friday (26)](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/2857019f.json))
 
-## Last Hour (3 Articles)
+## Last Hour (6 Articles)
 
-* **1** lankadeepa-lk ([නනිල්වලා ගඟේ දිය නෑ හතරක් ගසාගෙන යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18a62b85.json))
+* **3** lankadeepa-lk ([නිල්වලා ගඟේ දිය නෑ හතරක් ගසාගෙන යති](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/cebb4b8b.json))
 
-* **1** news-first-lk ([Navy leaps into action to extinguish fire at marshy-land in Wattala](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c7490d1.json))
+* **2** news-first-lk ([Navy leaps into action to extinguish fire at marshy-land in Wattala](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c7490d1.json))
 
 * **1** ada-derana-lk ([Four people reported missing while bathing at Udaha Ella](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3ebd0c5.json))
 
-## Last 3 Hours (26 Articles)
+## Last 3 Hours (22 Articles)
 
-* **8** lankadeepa-lk ([ත්‍රස්ත පනතට එරෙහිව මහජන පෙත්සමකට අත්සන් ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/574413c8.json))
+* **8** lankadeepa-lk ([’’පක්ෂ මාරු කිරීම හෝ කඩේ යාම මගේ සිලබස් එකේ නැහැ’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49198ced.json))
 
-* **5** news-first-lk ([“I’d love to speak like I used to, but I cannot,” – Ranjan talks to the press after released from prison](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc795850.json))
-
-* **4** ada-lk ([රුසියානු හමුදාවේ පිරිස් බලය වැඩි කිරීමට නියෝග](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/272b8dc2.json))
+* **4** news-first-lk ([UNICEF Regional Director for South Asia meets Foreign Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/866ca3aa.json))
 
 * **3** ada-derana-lk ([Three-hour power cuts on Aug 27 and 28](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24c697c0.json))
 
@@ -34,17 +32,19 @@
 
 * **2** tamil-mirror-lk ([காலநிலையில் ஏற்படவுள்ள மாற்றம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/803933ba.json))
 
-## Last 24 Hours (188 Articles)
+* **1** ada-lk ([ජාත්‍යන්තර මූල්‍ය අරමුදල සමග තවත් සාකච්ඡාවක්  ජනපති ප්‍රධානත්වයෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a785fa77.json))
 
-* **39** news-first-lk ([Summer Hill Leopard Tragedy: Cause of Death revealed](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0112be01.json))
+## Last 24 Hours (189 Articles)
 
-* **34** lankadeepa-lk ([කොවිඩ් ආසාදිතයන් 114 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de48a80.json))
+* **40** news-first-lk ([Summer Hill Leopard Tragedy: Cause of Death revealed](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0112be01.json))
 
-* **23** daily-mirror-lk ([Ranjan seeks forgiveness from the entire Judiciary](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/1108023e.json))
+* **36** lankadeepa-lk ([කොවිඩ් ආසාදිතයන් 114 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de48a80.json))
 
 * **23** ada-lk ([සාර්ථක හමුදාවක් බිහි කිරීමට විනයක්, පුහුණුවක් හා දැනුමක් අවශ්‍යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0e13d2.json))
 
 * **21** ada-derana-lk ([Sri Lanka reports 6 more Covid-19 deaths, 114 new cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3ffa4445.json))
+
+* **21** daily-mirror-lk ([Nine Sri Lankan flyers detained with gold in their rectums at Hyderabad airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebb52b9f.json))
 
 * **19** tamil-mirror-lk ([சைபர் தளத்திலும் யுத்தம் நிகழலாம்: ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ae201f1.json))
 
@@ -56,11 +56,11 @@
 
 * **1** d-b-s-jeyaraj-com ([India’s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d409b1cb.json))
 
-## Last Week (1,393 Articles)
+## Last Week (1,394 Articles)
 
-* **270** lankadeepa-lk ([ගෝඨාගේ මිරිහාන නිවෙසට විශේෂ ආරක්ෂාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53a378bc.json))
+* **271** lankadeepa-lk ([රන්ජන් ලබන සතියේ නිදහස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2dc58d26.json))
 
-* **189** news-first-lk ([Rajapaksas still have a mandate – Sanath Nishantha](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/987a3186.json))
+* **189** news-first-lk ([Dullas alleges ‘hate politics’ within Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a899547d.json))
 
 * **187** tamil-mirror-lk ([சிஐடிக்கு வருமாறு ஹிருணிகாவுக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd34d3f1.json))
 
@@ -80,15 +80,15 @@
 
 * **11** colombo-telegraph-com ([Country Has Fallen Due To The Socialist Thinking](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d3ca26d.json))
 
-## All Time (3,062 Articles)
+## All Time (3,065 Articles)
 
-* **558** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **560** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **402** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **385** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
-* **365** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
+* **366** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
 * **326** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 

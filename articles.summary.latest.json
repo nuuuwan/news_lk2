@@ -1,11 +1,35 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0d9c\u0dda-\u0db1\u0dd2\u0daf\u0dc4\u0dc3-\u0d9c\u0dd0\u0db1-\u0dc4\u0dbb\u0dd3\u0db1\u0dca-\u0d9a\u0dc5-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba/101-618815",
+    "time_ut": 1661525247,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0d9c\u0dda \u0db1\u0dd2\u0daf\u0dc4\u0dc3 \u0d9c\u0dd0\u0db1 \u0dc4\u0dbb\u0dd3\u0db1\u0dca \u0d9a\u0dc5 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba",
+    "file_name": "/tmp/news_lk2/articles/23/2371f8da.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/58-covid-cases-reported-on-friday-26/",
+    "time_ut": 1661524440,
+    "original_lang": "en",
+    "original_title": "58 COVID cases reported on Friday (26)",
+    "file_name": "/tmp/news_lk2/articles/28/2857019f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db1\u0db1\u0dd2\u0dbd\u0dca\u0dc0\u0dbd\u0dcf-\u0d9c\u0d9f\u0dda-\u0daf\u0dd2\u0dba-\u0db1\u0dd1-\u0dc4\u0dad\u0dbb\u0d9a\u0dca-\u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1-\u0dba\u0dba\u0dd2/101-618814",
     "time_ut": 1661524103,
     "original_lang": "si",
     "original_title": "\u0db1\u0db1\u0dd2\u0dbd\u0dca\u0dc0\u0dbd\u0dcf \u0d9c\u0d9f\u0dda \u0daf\u0dd2\u0dba \u0db1\u0dd1 \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1 \u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/18/18a62b85.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd2\u0dbd\u0dca\u0dc0\u0dbd\u0dcf-\u0d9c\u0d9f\u0dda-\u0daf\u0dd2\u0dba-\u0db1\u0dd1-\u0dc4\u0dad\u0dbb\u0d9a\u0dca-\u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1-\u0dba\u0dad\u0dd2/101-618814",
+    "time_ut": 1661524103,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd2\u0dbd\u0dca\u0dc0\u0dbd\u0dcf \u0d9c\u0d9f\u0dda \u0daf\u0dd2\u0dba \u0db1\u0dd1 \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1 \u0dba\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ce/cebb4b8b.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dc3\u0db1\u0dca\u0dad \u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0d9c\u0dda \u0d87\u0dad\u0dd4\u0dc5\u0dd4  \u0dad\u0dd2\u0dd2\u0daf\u0dd9\u0db1\u0dcf \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0dbb\u0db3\u0dc0\u0dcf\u0d9c\u0dd9\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dbb \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/b4/b4525671.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/22/66-covid-cases-reported-on-sunday-21/",
-    "time_ut": 1661142000,
-    "original_lang": "en",
-    "original_title": "66 COVID cases reported on Sunday (21)",
-    "file_name": "/tmp/news_lk2/articles/e9/e95f6b96.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0dbb\u0d9a\u0dca-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0dc0\u0dbd\u0dca-\u0d85\u0dbd\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca-\u0db8\u0dbb\u0dd4\u0da7/1-618514",
-    "time_ut": 1661141507,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0dbb\u0d9a\u0dca \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc0\u0dbd\u0dca \u0d85\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/68/6825339e.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0b95\u0ba9\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/175-302773",
-    "time_ut": 1661141187,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0b95\u0ba9\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/b5/b5dff4c3.json"
   }
 ]

@@ -1,11 +1,35 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0d9c\u0dda-\u0db1\u0dd2\u0daf\u0dc4\u0dc3-\u0d9c\u0dd0\u0db1-\u0dc4\u0dbb\u0dd3\u0db1\u0dca-\u0d9a\u0dc5-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba/101-618815",
+    "time_ut": 1661525247,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0d9c\u0dda \u0db1\u0dd2\u0daf\u0dc4\u0dc3 \u0d9c\u0dd0\u0db1 \u0dc4\u0dbb\u0dd3\u0db1\u0dca \u0d9a\u0dc5 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba",
+    "file_name": "/tmp/news_lk2/articles/23/2371f8da.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/58-covid-cases-reported-on-friday-26/",
+    "time_ut": 1661524440,
+    "original_lang": "en",
+    "original_title": "58 COVID cases reported on Friday (26)",
+    "file_name": "/tmp/news_lk2/articles/28/2857019f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db1\u0db1\u0dd2\u0dbd\u0dca\u0dc0\u0dbd\u0dcf-\u0d9c\u0d9f\u0dda-\u0daf\u0dd2\u0dba-\u0db1\u0dd1-\u0dc4\u0dad\u0dbb\u0d9a\u0dca-\u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1-\u0dba\u0dba\u0dd2/101-618814",
     "time_ut": 1661524103,
     "original_lang": "si",
     "original_title": "\u0db1\u0db1\u0dd2\u0dbd\u0dca\u0dc0\u0dbd\u0dcf \u0d9c\u0d9f\u0dda \u0daf\u0dd2\u0dba \u0db1\u0dd1 \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1 \u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/18/18a62b85.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd2\u0dbd\u0dca\u0dc0\u0dbd\u0dcf-\u0d9c\u0d9f\u0dda-\u0daf\u0dd2\u0dba-\u0db1\u0dd1-\u0dc4\u0dad\u0dbb\u0d9a\u0dca-\u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1-\u0dba\u0dad\u0dd2/101-618814",
+    "time_ut": 1661524103,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd2\u0dbd\u0dca\u0dc0\u0dbd\u0dcf \u0d9c\u0d9f\u0dda \u0daf\u0dd2\u0dba \u0db1\u0dd1 \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1 \u0dba\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ce/cebb4b8b.json"
   },
   {
     "newspaper_id": "news-first-lk",
