@@ -1,5 +1,109 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Sajith-calls-on-President-to-issue-unconditional-pardon-for-Ranjan/56-739169",
+    "time_ut": 1661539779,
+    "original_lang": "en",
+    "original_title": "Sajith calls on President to issue unconditional pardon for Ranjan",
+    "file_name": "/tmp/news_lk2/articles/51/51a5ac13.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/US-donates-3-000-MT-of-food-to-feed-Lankan-school-children/56-739168",
+    "time_ut": 1661539719,
+    "original_lang": "en",
+    "original_title": "US donates 3,000 MT of food to feed Lankan school children",
+    "file_name": "/tmp/news_lk2/articles/14/14548edc.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Marikkar-welcomes-release-of-Ranjan-calls-on-President-to-investigate-SLPP-MP-for-contempt/56-739167",
+    "time_ut": 1661539685,
+    "original_lang": "en",
+    "original_title": "Marikkar welcomes release of Ranjan; calls on President to investigate SLPP MP for contempt",
+    "file_name": "/tmp/news_lk2/articles/70/701ba81d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/CIPM-Sri-Lanka-launches-first-ever-International-Study-Centre-at-Bangladesh/34-739165",
+    "time_ut": 1661539432,
+    "original_lang": "en",
+    "original_title": "CIPM Sri Lanka launches first-ever International Study Centre at Bangladesh",
+    "file_name": "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/SLT-Mobitel-demonstrates-5G-experiences-at-One-Galle-Face-mall/34-739164",
+    "time_ut": 1661539374,
+    "original_lang": "en",
+    "original_title": "SLT-Mobitel demonstrates 5G experiences at One Galle Face mall",
+    "file_name": "/tmp/news_lk2/articles/17/176f804f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/NDB-remittance-rewards-to-over-70-customers/34-739163",
+    "time_ut": 1661539303,
+    "original_lang": "en",
+    "original_title": "NDB remittance rewards to over 70 customers",
+    "file_name": "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Dialog-s-Govi-MithuruNidhanaya-program-rewards-subscribers/34-739162",
+    "time_ut": 1661539244,
+    "original_lang": "en",
+    "original_title": "Dialog\u2019s \u2018Govi Mithuru\u00a0Nidhanaya\u2019 program rewards subscribers",
+    "file_name": "/tmp/news_lk2/articles/42/42c4179e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Lenovo-joins-Softlogic-Information-Technologies-in-providing-graphic-workstations/34-739161",
+    "time_ut": 1661539235,
+    "original_lang": "en",
+    "original_title": "Lenovo joins Softlogic Information Technologies in providing graphic workstations",
+    "file_name": "/tmp/news_lk2/articles/e7/e7b7230b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/From-One-China-principle-to-Yuan-Wang-5/4-739147",
+    "time_ut": 1661538056,
+    "original_lang": "en",
+    "original_title": "From One-China principle to \u2018Yuan Wang 5\u2019",
+    "file_name": "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-s-list-of-designated-persons-and-organisations-violative-of-UN-Security-Council-resolution-2253-of-2015/4-739146",
+    "time_ut": 1661537824,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s list of designated persons and organisations violative of UN Security Council resolution 2253 of 2015",
+    "file_name": "/tmp/news_lk2/articles/df/df97980d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-Sri-Lanka-paradox/4-739144",
+    "time_ut": 1661537325,
+    "original_lang": "en",
+    "original_title": "The Sri Lanka paradox",
+    "file_name": "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/We-need-to-ensure-the-voice-of-MSMEs-is-heard-loud-and-clear-COSMI-President/14-739143",
+    "time_ut": 1661537132,
+    "original_lang": "en",
+    "original_title": "\u201cWe need to ensure the voice of MSMEs is heard loud  and clear\u201d: COSMI President",
+    "file_name": "/tmp/news_lk2/articles/41/41a84f9a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/NATO-Alliance-of-Sri-Lanka-No-Action-Talk-Only-way-to-overcome-an-economic-crisis/4-739142",
+    "time_ut": 1661536899,
+    "original_lang": "en",
+    "original_title": "NATO Alliance of Sri Lanka: \u2018No Action, Talk Only\u2019 way to overcome an economic crisis",
+    "file_name": "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Ranjan-not-granted-full-freedom-civic-rights-Sajith/342-243814",
     "time_ut": 1661535041,

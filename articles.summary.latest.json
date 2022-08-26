@@ -1,5 +1,109 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Sajith-calls-on-President-to-issue-unconditional-pardon-for-Ranjan/56-739169",
+    "time_ut": 1661539779,
+    "original_lang": "en",
+    "original_title": "Sajith calls on President to issue unconditional pardon for Ranjan",
+    "file_name": "/tmp/news_lk2/articles/51/51a5ac13.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/US-donates-3-000-MT-of-food-to-feed-Lankan-school-children/56-739168",
+    "time_ut": 1661539719,
+    "original_lang": "en",
+    "original_title": "US donates 3,000 MT of food to feed Lankan school children",
+    "file_name": "/tmp/news_lk2/articles/14/14548edc.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Marikkar-welcomes-release-of-Ranjan-calls-on-President-to-investigate-SLPP-MP-for-contempt/56-739167",
+    "time_ut": 1661539685,
+    "original_lang": "en",
+    "original_title": "Marikkar welcomes release of Ranjan; calls on President to investigate SLPP MP for contempt",
+    "file_name": "/tmp/news_lk2/articles/70/701ba81d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/CIPM-Sri-Lanka-launches-first-ever-International-Study-Centre-at-Bangladesh/34-739165",
+    "time_ut": 1661539432,
+    "original_lang": "en",
+    "original_title": "CIPM Sri Lanka launches first-ever International Study Centre at Bangladesh",
+    "file_name": "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/SLT-Mobitel-demonstrates-5G-experiences-at-One-Galle-Face-mall/34-739164",
+    "time_ut": 1661539374,
+    "original_lang": "en",
+    "original_title": "SLT-Mobitel demonstrates 5G experiences at One Galle Face mall",
+    "file_name": "/tmp/news_lk2/articles/17/176f804f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/NDB-remittance-rewards-to-over-70-customers/34-739163",
+    "time_ut": 1661539303,
+    "original_lang": "en",
+    "original_title": "NDB remittance rewards to over 70 customers",
+    "file_name": "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Dialog-s-Govi-MithuruNidhanaya-program-rewards-subscribers/34-739162",
+    "time_ut": 1661539244,
+    "original_lang": "en",
+    "original_title": "Dialog\u2019s \u2018Govi Mithuru\u00a0Nidhanaya\u2019 program rewards subscribers",
+    "file_name": "/tmp/news_lk2/articles/42/42c4179e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Lenovo-joins-Softlogic-Information-Technologies-in-providing-graphic-workstations/34-739161",
+    "time_ut": 1661539235,
+    "original_lang": "en",
+    "original_title": "Lenovo joins Softlogic Information Technologies in providing graphic workstations",
+    "file_name": "/tmp/news_lk2/articles/e7/e7b7230b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/From-One-China-principle-to-Yuan-Wang-5/4-739147",
+    "time_ut": 1661538056,
+    "original_lang": "en",
+    "original_title": "From One-China principle to \u2018Yuan Wang 5\u2019",
+    "file_name": "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-s-list-of-designated-persons-and-organisations-violative-of-UN-Security-Council-resolution-2253-of-2015/4-739146",
+    "time_ut": 1661537824,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s list of designated persons and organisations violative of UN Security Council resolution 2253 of 2015",
+    "file_name": "/tmp/news_lk2/articles/df/df97980d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-Sri-Lanka-paradox/4-739144",
+    "time_ut": 1661537325,
+    "original_lang": "en",
+    "original_title": "The Sri Lanka paradox",
+    "file_name": "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/We-need-to-ensure-the-voice-of-MSMEs-is-heard-loud-and-clear-COSMI-President/14-739143",
+    "time_ut": 1661537132,
+    "original_lang": "en",
+    "original_title": "\u201cWe need to ensure the voice of MSMEs is heard loud  and clear\u201d: COSMI President",
+    "file_name": "/tmp/news_lk2/articles/41/41a84f9a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/NATO-Alliance-of-Sri-Lanka-No-Action-Talk-Only-way-to-overcome-an-economic-crisis/4-739142",
+    "time_ut": 1661536899,
+    "original_lang": "en",
+    "original_title": "NATO Alliance of Sri Lanka: \u2018No Action, Talk Only\u2019 way to overcome an economic crisis",
+    "file_name": "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Ranjan-not-granted-full-freedom-civic-rights-Sajith/342-243814",
     "time_ut": 1661535041,
@@ -7894,109 +7998,5 @@
     "original_lang": "en",
     "original_title": "Another person who forcibly entered Rupavahini premises arrested",
     "file_name": "/tmp/news_lk2/articles/be/be2aecfc.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84453/nearly-300000-citizens-at-risk-of-losing-their-votes",
-    "time_ut": 1661151300,
-    "original_lang": "en",
-    "original_title": "Nearly 300,000 citizens at risk of losing their votes",
-    "file_name": "/tmp/news_lk2/articles/64/64ded1a2.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dcf\u0dc4\u0db1-\u0d85\u0dbd\u0dd9\u0dc0\u0dd2\u0dc3\u0dd0\u0dbd\u0dd9\u0dca-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d89\u0dc3\u0dca\u0dc3\u0dd6-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dcf-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6/11-396505",
-    "time_ut": 1661151091,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dcf\u0dc4\u0db1 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2\u0dc3\u0dd0\u0dbd\u0dd9\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d89\u0dc3\u0dca\u0dc3\u0dd6 \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dcf \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6",
-    "file_name": "/tmp/news_lk2/articles/bb/bbddbdbb.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84452/direct-cash-subsidy-for-low-income-families-sectors-dependent-on-kerosene",
-    "time_ut": 1661150400,
-    "original_lang": "en",
-    "original_title": "Direct cash subsidy for low-income families, sectors dependent on kerosene",
-    "file_name": "/tmp/news_lk2/articles/23/23dea0b9.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0dcf\u0d82\u0d9a\u0dda\u0dba-\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dda-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba-\u0d9c\u0dd0\u0db1-\u0d9a\u0dd2\u0dba\u0db1-\u0dad\u0ddd\u0dab\u0dd2\u0d9c\u0dbd-\u0dc3\u0dd9\u0dbd\u0dca-\u0dbd\u0dd2\u0db4\u0dd2\u0dba/101-618527",
-    "time_ut": 1661150114,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dda\u0dba \u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dda \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba \u0d9c\u0dd0\u0db1 \u0d9a\u0dd2\u0dba\u0db1 \u0dad\u0ddd\u0dab\u0dd2\u0d9c\u0dbd \u0dc3\u0dd9\u0dbd\u0dca \u0dbd\u0dd2\u0db4\u0dd2\u0dba",
-    "file_name": "/tmp/news_lk2/articles/d7/d72b98ba.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0dcf\u0d82\u0d9a\u0dda\u0dba-\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dda-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba-\u0d9c\u0dd0\u0db1-\u0d9a\u0dd2\u0dba\u0db1-\u0dad\u0ddd\u0dab\u0dd2\u0d9c\u0dbd-\u0dc3\u0dd9\u0dbd\u0dca-\u0dbd\u0dd2\u0db4\u0dd2\u0dba-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0d85\u0dc0\u0dc3\u0dbb/1-618527",
-    "time_ut": 1661150114,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dda\u0dba \u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dda \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba \u0d9c\u0dd0\u0db1 \u0d9a\u0dd2\u0dba\u0db1 \u0dad\u0ddd\u0dab\u0dd2\u0d9c\u0dbd \u0dc3\u0dd9\u0dbd\u0dca \u0dbd\u0dd2\u0db4\u0dd2\u0dba \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0d85\u0dc0\u0dc3\u0dbb",
-    "file_name": "/tmp/news_lk2/articles/8e/8ee5848f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d86\u0dbb\u0dd4\u0d9a\u0dca\u0d9a\u0dd4-\u0db1\u0dc0\u0dba\u0dda-\u0db4\u0dcf\u0dbd\u0db8\u0dda-\u0db6\u0db9\u0dbb-\u0d87\u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dd2\u0db8\u0dd9\u0db1\u0dca-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7-\u0db6\u0dcf\u0db0\u0dcf/11-396504",
-    "time_ut": 1661149784,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dbb\u0dd4\u0d9a\u0dca\u0d9a\u0dd4 \u0db1\u0dc0\u0dba\u0dda \u0db4\u0dcf\u0dbd\u0db8\u0dda \u0db6\u0db9\u0dbb \u0d87\u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dd2\u0db8\u0dd9\u0db1\u0dca \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0db6\u0dcf\u0db0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/12/128f8903.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/22/sl-navy-recovers-prescription-drugs-worth-rs-4-5-million-in-mannar/",
-    "time_ut": 1661149500,
-    "original_lang": "en",
-    "original_title": "SL Navy recovers prescription drugs worth Rs. 4.5 million in Mannar",
-    "file_name": "/tmp/news_lk2/articles/fc/fc9ec67d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0db3\u0dd4\u0db1\u0dcf-\u0db1\u0ddc\u0d9c\u0dad\u0dca-\u0db8\u0dc5\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0dd4-28\u0d9a\u0dca-\u0d9a\u0dc5\u0dd4\u0db6\u0ddd\u0dc0\u0dd2\u0dbd-\u0dbb\u0ddd\u0dc4\u0dbd\u0dda/11-396503",
-    "time_ut": 1661148712,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0db3\u0dd4\u0db1\u0dcf \u0db1\u0ddc\u0d9c\u0dad\u0dca \u0db8\u0dc5\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0dd4 28\u0d9a\u0dca \u0d9a\u0dc5\u0dd4\u0db6\u0ddd\u0dc0\u0dd2\u0dbd \u0dbb\u0ddd\u0dc4\u0dbd\u0dda",
-    "file_name": "/tmp/news_lk2/articles/28/28a51221.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/22/kerosene-price-revision-a-must-kanchana/",
-    "time_ut": 1661148480,
-    "original_lang": "en",
-    "original_title": "Kerosene price revision a must \u2013 Kanchana",
-    "file_name": "/tmp/news_lk2/articles/4f/4f658d4b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84451/chinese-research-ship-to-leave-sri-lanka-today",
-    "time_ut": 1661148120,
-    "original_lang": "en",
-    "original_title": "Chinese research ship to leave Sri Lanka today",
-    "file_name": "/tmp/news_lk2/articles/ee/eeb530a3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Australia-working-with-India-to-provide-fuel-for-SL-navy-and-air-force/108-243489",
-    "time_ut": 1661147954,
-    "original_lang": "en",
-    "original_title": "Australia working with India to provide fuel for SL navy and air force",
-    "file_name": "/tmp/news_lk2/articles/25/254c59a1.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dd4\u0db1\u0dca\u0daf\u0dbb-\u0dc0\u0db1-\u0dc0\u0d9c\u0dcf\u0dc0\u0d9a\u0dca-\u0db4\u0dd4\u0da0\u0dca\u0da0\u0dad\u0dd2/101-618520",
-    "time_ut": 1661147421,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0dd4\u0db1\u0dca\u0daf\u0dbb \u0dc0\u0db1 \u0dc0\u0d9c\u0dcf\u0dc0\u0d9a\u0dca \u0db4\u0dd4\u0da0\u0dca\u0da0\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/de/def85c35.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/22/ambalangoda-double-homicide-result-of-a-dispute-among-criminals/",
-    "time_ut": 1661147340,
-    "original_lang": "en",
-    "original_title": "Ambalangoda double homicide result of a dispute among criminals",
-    "file_name": "/tmp/news_lk2/articles/1b/1bc5280a.json"
   }
 ]
