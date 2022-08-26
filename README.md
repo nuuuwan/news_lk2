@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-27 03:52:36 (LK time)*
+*As of 2022-08-27 04:20:03 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (5 Articles)
 
 * **3** daily-mirror-lk ([Sri Lankans migrating to greener pastures](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/207025cc.json))
 
-* **3** tamil-mirror-lk ([ஜனாதிபதியுடன் ஐ.எம்.எப். பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5b5ad5e.json))
+* **2** tamil-mirror-lk ([பொதுமக்கள் பாதுகாப்பு அமைச்சரின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c9f3fab.json))
 
-## Last 24 Hours (206 Articles)
+## Last 24 Hours (205 Articles)
 
 * **47** news-first-lk ([3-hr power cuts today (26)](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3df46537.json))
 
@@ -20,9 +20,9 @@
 
 * **23** ada-lk ([උමංදාවට පහරදුන් 4ක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64427198.json))
 
-* **21** daily-mirror-lk ([Rooftop solar sector demands substantial tariff hike](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a23b789f.json))
-
 * **21** tamil-mirror-lk ([தங்கம் கடத்திய இலங்கையர்கள் இந்தியாவில் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70914fd0.json))
+
+* **20** daily-mirror-lk ([Japan seeks to organise Sri Lanka creditors’ meeting on debt crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a9c8ac6.json))
 
 * **20** ada-derana-lk ([Fairly heavy rainfall possible in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/102ae28a.json))
 
