@@ -1,16 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-27 04:51:08 (LK time)*
+*As of 2022-08-27 05:26:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (2 Articles)
-
-* **1** daily-mirror-lk ([Appapillai Amirthalingam From Enfant Terrible to Elder Statesman](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/892162d2.json))
-
-* **1** tamil-mirror-lk ([நீர் கட்டணம் அதிகரிப்பு: வர்த்தமானி வெளியீடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2f57d62.json))
-
-## Last 24 Hours (198 Articles)
+## Last 24 Hours (195 Articles)
 
 * **47** news-first-lk ([3-hr power cuts today (26)](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3df46537.json))
 
@@ -24,7 +18,7 @@
 
 * **20** ada-derana-lk ([Fairly heavy rainfall possible in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/102ae28a.json))
 
-* **17** daily-ft-lk ([Hair cuts and hair splitting](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf58d54a.json))
+* **14** daily-ft-lk ([Ranil’s perilous authoritarian alternative](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d63620cb.json))
 
 * **12** economy-next-com ([Sri Lanka housing hit by protectionist taxes, monopoly power: Developers](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50c77cd3.json))
 
