@@ -1,32 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 22:22:34 (LK time)*
+*As of 2022-08-26 22:38:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (9 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **7** news-first-lk ([Complaint filed against SLPP MPs’ comments](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1c6ce6d.json))
+* **1** news-first-lk ([Water supply & sewage charges revised](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7097ed4.json))
+
+## Last Hour (4 Articles)
+
+* **3** news-first-lk ([Linking lives and villages: Gammadda launches bridge construction in remote Kegalle](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f853c68.json))
+
+* **1** ada-lk ([හිටි හැටියේම වෙනස් වූ කාලගුණය](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4392c5c2.json))
+
+## Last 3 Hours (20 Articles)
+
+* **13** news-first-lk ([Navy leaps into action to extinguish fire at marshy-land in Wattala](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c7490d1.json))
+
+* **4** lankadeepa-lk ([නිල්වලා ගඟේ දිය නෑ හතරක් ගසාගෙන යති](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/3907f065.json))
 
 * **1** ada-lk ([හිටි හැටියේම වෙනස් වූ කාලගුණය](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4392c5c2.json))
 
 * **1** ada-derana-lk ([Ranjan accepts new position as goodwill ambassador for migrant workers](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1bc1afb.json))
 
-## Last 3 Hours (20 Articles)
-
-* **12** news-first-lk ([Navy leaps into action to extinguish fire at marshy-land in Wattala](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c7490d1.json))
-
-* **4** lankadeepa-lk ([නිල්වලා ගඟේ දිය නෑ හතරක් ගසාගෙන යති](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/3907f065.json))
-
-* **2** ada-derana-lk ([Four people reported missing while bathing at Udaha Ella](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3ebd0c5.json))
-
-* **1** ada-lk ([හිටි හැටියේම වෙනස් වූ කාලගුණය](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4392c5c2.json))
-
 * **1** daily-mirror-lk ([Govt. should have discussed with SMEs before bringing import ban on 300 consumer goods: SLUNBA](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/503de2c9.json))
 
 ## Last 24 Hours (194 Articles)
 
-* **46** news-first-lk ([3-hr power cuts today (26)](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3df46537.json))
+* **47** news-first-lk ([3-hr power cuts today (26)](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3df46537.json))
 
 * **36** lankadeepa-lk ([ත්‍රිරෝද 300ක් විද්‍යුත් කරණයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fd31833.json))
 
@@ -44,21 +46,19 @@
 
 * **4** island-lk ([Hemas partners with Clean Ocean Force to safeguard Negombo’s threatened ecosystems](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75ca79a5.json))
 
-* **1** d-b-s-jeyaraj-com ([India’s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d409b1cb.json))
-
-## Last Week (1,386 Articles)
+## Last Week (1,385 Articles)
 
 * **268** lankadeepa-lk ([පළාත් කීපයකට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b330ad54.json))
 
-* **193** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
+* **194** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
 
 * **186** tamil-mirror-lk ([’மக்கள் உணரக்கூடிய நல்லிணக்கமே அவசியம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aecffbcf.json))
 
 * **173** ada-lk ([මහජන සාමය පවත්වාගෙන යාමට ජනපති ත්‍රිවිධ හමුදාව කැඳවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e879c799.json))
 
-* **163** daily-mirror-lk ([Cabinet to be sworn  in next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/5113c42c.json))
+* **162** daily-mirror-lk ([Disciplinary action against missing Beach VB players](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b173ad72.json))
 
-* **156** ada-derana-lk ([Govt officials’ foreign employment and referral program expedited](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f28e0a.json))
+* **155** ada-derana-lk ([Interpol confirms arrest of ‘Harak Kata’ by Dubai Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f382d22.json))
 
 * **103** economy-next-com ([IMF team in Sri Lanka  policy talks on program from August 24](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d12f202d.json))
 
@@ -70,7 +70,7 @@
 
 * **11** colombo-telegraph-com ([Country Has Fallen Due To The Socialist Thinking](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d3ca26d.json))
 
-## All Time (3,080 Articles)
+## All Time (3,081 Articles)
 
 * **561** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -78,7 +78,7 @@
 
 * **386** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
-* **376** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
+* **377** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
 * **326** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
