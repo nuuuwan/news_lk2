@@ -57,11 +57,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db4\u0dcf\u0db1\u0dba-\u0dc4\u0dcf-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dab\u0dba-\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca-\u0d85\u0dad\u0dbb-\u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0d9a\u0dca/101-618780",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db4\u0dcf\u0db1\u0dba-\u0dc4\u0dcf-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dab\u0dba-\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca-\u0d85\u0dad\u0dbb-\u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0d9a\u0dca/1-618780",
     "time_ut": 1661495181,
     "original_lang": "si",
     "original_title": "\u0da2\u0db4\u0dcf\u0db1\u0dba \u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dab\u0dba \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca \u0d85\u0dad\u0dbb \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/0e/0ee77c47.json"
+    "file_name": "/tmp/news_lk2/articles/ff/ff090982.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -136,6 +136,14 @@
     "file_name": "/tmp/news_lk2/articles/47/4765e710.json"
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0da7-\u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2-\u0dc3\u0dc4\u0dd2\u0dad-\u0dc3\u0db8\u0dcf\u0dc0\u0d9a\u0dca/1-618776",
+    "time_ut": 1661492717,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0da7 \u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2 \u0dc3\u0dc4\u0dd2\u0dad \u0dc3\u0db8\u0dcf\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/53/530e441c.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84549/prez-secretary-signs-document-to-grant-conditional-pardon-to-ranjan",
     "time_ut": 1661492340,
@@ -161,11 +169,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0da2\u0dd3\u0dc0\u0db1-\u0db6\u0dbb-\u0d85\u0da9\u0dd4-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u0dc3\u0dc4\u0db1-\u0dc3\u0dbd\u0dc3\u0db1\u0dd4/117-618773",
+    "url": "https://www.lankadeepa.lk/features/\u0da2\u0dd3\u0dc0\u0db1-\u0db6\u0dbb-\u0d85\u0da9\u0dd4-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u0dc3\u0dc4\u0db1-\u0dc3\u0dbd\u0dc3\u0db1\u0dd4/2-618773",
     "time_ut": 1661492121,
     "original_lang": "si",
     "original_title": "\u0da2\u0dd3\u0dc0\u0db1 \u0db6\u0dbb \u0d85\u0da9\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0dc3\u0dc4\u0db1 \u0dc3\u0dbd\u0dc3\u0db1\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/3d/3d1a5f4a.json"
+    "file_name": "/tmp/news_lk2/articles/d6/d6482c98.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -822,6 +830,14 @@
     "original_lang": "si",
     "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0d9c\u0ddc\u0da9\u0db6\u0dd1\u0db8 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf \u0dc0\u0dd3\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db6\u0dd9\u0daf\u0dcf \u0dc4\u0dd0\u0dbb\u0dd3\u0db8 \u0db4\u0db8\u0dcf \u0dc0\u0dd4\u0dab\u0dcf",
     "file_name": "/tmp/news_lk2/articles/46/46041477.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dc0\u0dbd-\u0db8\u0dda-\u0db8\u0dcf\u0dc3\u0dda-\u0db4\u0da9\u0dd2-\u0d9a\u0ddc\u0dc5\u0dda-\u0d9a\u0dbb\u0db1\u0db8\u0d9a\u0dca-\u0d9c\u0dc4\u0dbd\u0dcf/1-618756",
+    "time_ut": 1661433883,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dc0\u0dbd \u0db8\u0dda \u0db8\u0dcf\u0dc3\u0dda \u0db4\u0da9\u0dd2 \u0d9a\u0ddc\u0dc5\u0dda \u0d9a\u0dbb\u0db1\u0db8\u0d9a\u0dca \u0d9c\u0dc4\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/dd/dd34b96c.json"
   },
   {
     "newspaper_id": "news-first-lk",
