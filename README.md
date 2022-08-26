@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-27 03:39:44 (LK time)*
+*As of 2022-08-27 03:52:36 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,17 +10,17 @@
 
 * **3** tamil-mirror-lk ([ஜனாதிபதியுடன் ஐ.எம்.எப். பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5b5ad5e.json))
 
-## Last 24 Hours (209 Articles)
+## Last 24 Hours (206 Articles)
 
 * **47** news-first-lk ([3-hr power cuts today (26)](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3df46537.json))
 
 * **36** lankadeepa-lk ([ත්‍රිරෝද 300ක් විද්‍යුත් කරණයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fd31833.json))
 
-* **24** daily-mirror-lk ([​SL to welcome more Swiss travellers this winter with travel advisory easing](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9e1b25f.json))
-
 * **24** daily-ft-lk ([WHO pledges $ 4 m worth medical supplies to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/275f5e4c.json))
 
 * **23** ada-lk ([උමංදාවට පහරදුන් 4ක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64427198.json))
+
+* **21** daily-mirror-lk ([Rooftop solar sector demands substantial tariff hike](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a23b789f.json))
 
 * **21** tamil-mirror-lk ([தங்கம் கடத்திய இலங்கையர்கள் இந்தியாவில் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70914fd0.json))
 
@@ -30,7 +30,7 @@
 
 * **2** colombo-telegraph-com ([Taking Dictatorial Steps To Control Public Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/841810c5.json))
 
-## Last Week (1,373 Articles)
+## Last Week (1,374 Articles)
 
 * **268** lankadeepa-lk ([පළාත් කීපයකට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b330ad54.json))
 
@@ -50,11 +50,11 @@
 
 * **56** island-lk ([Three Sinha Industries donates medical equipment to Lady Ridgeway Hospital](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c05aac6.json))
 
+* **14** d-b-s-jeyaraj-com ([The SLPP will not gain a majority in the next election. But it won’t be wiped out either. The Rajapaksa family party is likely to command a significant minority with around 20% of the vote, especially if Mahinda Rajapaksa leads the campaign.](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a44c7391.json))
+
 * **13** colombo-telegraph-com ([Country Has Fallen Due To The Socialist Thinking](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d3ca26d.json))
 
-* **13** d-b-s-jeyaraj-com ([The SLPP will not gain a majority in the next election. But it won’t be wiped out either. The Rajapaksa family party is likely to command a significant minority with around 20% of the vote, especially if Mahinda Rajapaksa leads the campaign.](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a44c7391.json))
-
-## All Time (3,106 Articles)
+## All Time (3,107 Articles)
 
 * **561** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -74,6 +74,6 @@
 
 * **140** island-lk ([Lanka’s misery should be warning to us all on global food, fuel and finance crisis: UNDP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564b2893.json))
 
-* **138** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
+* **139** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 
 * **43** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))
