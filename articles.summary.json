@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Foreign-Direct-Investments-will-gain-brains/4-739122",
+    "time_ut": 1661471429,
+    "original_lang": "en",
+    "original_title": "Foreign Direct Investments will gain brains",
+    "file_name": "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Hair-cuts-and-hair-splitting/14-739121",
+    "time_ut": 1661471068,
+    "original_lang": "en",
+    "original_title": "Hair cuts and hair splitting",
+    "file_name": "/tmp/news_lk2/articles/cf/cf58d54a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Lanka-IOC-signs-agreement-with-Spectrum-Trading/34-739110",
     "time_ut": 1661469386,
     "original_lang": "en",
@@ -80,12 +96,44 @@
     "file_name": "/tmp/news_lk2/articles/1a/1ae201f1.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/oil-price-worries-negatively-impact-share-market/",
+    "time_ut": 1661453760,
+    "original_lang": "en",
+    "original_title": "Oil price worries negatively impact share market",
+    "file_name": "/tmp/news_lk2/articles/23/23b7db9a.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/outstanding-entrepreneur-of-the-year-2022-award-for-diluni-jayasekara/",
+    "time_ut": 1661453640,
+    "original_lang": "en",
+    "original_title": "\u2018Outstanding Entrepreneur of the Year 2022\u2019 award for Diluni Jayasekara",
+    "file_name": "/tmp/news_lk2/articles/43/43c82444.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/hnb-joins-slt-mobitel-in-enhancing-e-commerce-capabilities-for-smes-with-cochchi-lk/",
+    "time_ut": 1661453640,
+    "original_lang": "en",
+    "original_title": "HNB joins SLT-MOBITEL in enhancing e-commerce capabilities for SMEs with Cochchi.lk",
+    "file_name": "/tmp/news_lk2/articles/7f/7f09def3.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84545/security-forces-should-be-equipped-with-technological-knowledge-president",
     "time_ut": 1661452980,
     "original_lang": "en",
     "original_title": "Security forces should be equipped with technological knowledge - President",
     "file_name": "/tmp/news_lk2/articles/fe/fe1c8b6f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/hemas-partners-with-clean-ocean-force-to-safeguard-negombos-threatened-ecosystems/",
+    "time_ut": 1661452440,
+    "original_lang": "en",
+    "original_title": "Hemas partners with Clean Ocean Force to safeguard Negombo\u2019s threatened ecosystems",
+    "file_name": "/tmp/news_lk2/articles/75/75ca79a5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1561,11 +1609,35 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/east-west-tensions-heighten-and-take-on-new-dimensions/",
+    "time_ut": 1661364600,
+    "original_lang": "en",
+    "original_title": "East-West tensions heighten and take on new dimensions",
+    "file_name": "/tmp/news_lk2/articles/1c/1c2563db.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/gr-could-face-obstacles-in-entering-us/",
+    "time_ut": 1661362740,
+    "original_lang": "en",
+    "original_title": "GR could face obstacles in entering US",
+    "file_name": "/tmp/news_lk2/articles/8d/8d1d659f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/doing-it-with-eggs/",
     "time_ut": 1661362620,
     "original_lang": "en",
     "original_title": "Doing it with eggs\u2026",
     "file_name": "/tmp/news_lk2/articles/2f/2fe2d644.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/leadership-and-cooperation-needed-in-time-of-hardship/",
+    "time_ut": 1661362560,
+    "original_lang": "en",
+    "original_title": "Leadership and cooperation needed in time of hardship",
+    "file_name": "/tmp/news_lk2/articles/77/770b2b53.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -1574,6 +1646,14 @@
     "original_lang": "en",
     "original_title": "Deep cuts, pain and PTA: President Ranil\u2019s de-stabilising dogma",
     "file_name": "/tmp/news_lk2/articles/bf/bf15c110.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/rising-food-prices-are-sri-lankans-biggest-worry/",
+    "time_ut": 1661362140,
+    "original_lang": "en",
+    "original_title": "Rising food prices are Sri Lankans\u2019 biggest worry",
+    "file_name": "/tmp/news_lk2/articles/96/96481dc5.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -1606,6 +1686,14 @@
     "original_lang": "en",
     "original_title": "91 essential medicines dwindled to zero stock level: GMOA",
     "file_name": "/tmp/news_lk2/articles/8f/8f37f2f7.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sarvodaya-development-finance-records-an-impressive-first-quarter/",
+    "time_ut": 1661362080,
+    "original_lang": "en",
+    "original_title": "Sarvodaya Development Finance records an impressive first quarter",
+    "file_name": "/tmp/news_lk2/articles/b0/b05f9ed9.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -5118,6 +5206,14 @@
     "original_lang": "en",
     "original_title": "Aragalaya causes Rs.5 million in damages to Galle Face: Ministry",
     "file_name": "/tmp/news_lk2/articles/5b/5b83b7f1.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/wimps-heroes-and-litmus-test/",
+    "time_ut": 1661188440,
+    "original_lang": "en",
+    "original_title": "Wimps, heroes and litmus test",
+    "file_name": "/tmp/news_lk2/articles/16/16d3765e.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -12993,14 +13089,6 @@
   },
   {
     "newspaper_id": "island-lk",
-    "url": "http://island.lk/dialog-smart-home-brings-you-a-smart-security-doorbell-to-ensure-the-security-of-your-home/",
-    "time_ut": 1660756860,
-    "original_lang": "en",
-    "original_title": "\u2018Dialog Smart Home brings you a Smart Security Doorbell to ensure the security of your home\u2019",
-    "file_name": "/tmp/news_lk2/articles/7c/7c92c5c5.json"
-  },
-  {
-    "newspaper_id": "island-lk",
     "url": "http://island.lk/labour-dept-insists-on-strong-employee-employer-relationships-for-industrial-peace/",
     "time_ut": 1660756860,
     "original_lang": "en",
@@ -13014,6 +13102,14 @@
     "original_lang": "en",
     "original_title": "Macroeconomic arena developments boost share market",
     "file_name": "/tmp/news_lk2/articles/bc/bc6eb3d7.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dialog-smart-home-brings-you-a-smart-security-doorbell-to-ensure-the-security-of-your-home/",
+    "time_ut": 1660756860,
+    "original_lang": "en",
+    "original_title": "\u2018Dialog Smart Home brings you a Smart Security Doorbell to ensure the security of your home\u2019",
+    "file_name": "/tmp/news_lk2/articles/7c/7c92c5c5.json"
   },
   {
     "newspaper_id": "island-lk",
