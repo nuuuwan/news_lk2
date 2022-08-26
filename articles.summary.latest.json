@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Wasantha-Mudaliges-detention-challenged-in-Supreme-Court/108-243792",
+    "time_ut": 1661509643,
+    "original_lang": "en",
+    "original_title": "Wasantha Mudalige\u2019s detention challenged in Supreme Court",
+    "file_name": "/tmp/news_lk2/articles/ad/ad26be01.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/agitation-is-not-a-situation-to-use-pta-gl/",
+    "time_ut": 1661509560,
+    "original_lang": "en",
+    "original_title": "Agitation is not a situation to use PTA \u2013 GL",
+    "file_name": "/tmp/news_lk2/articles/7d/7d43972a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Bell-412-Chopper-assigned-to-douse-Kerawalapitiya-fire/108-243790",
+    "time_ut": 1661509503,
+    "original_lang": "en",
+    "original_title": "Bell 412 Chopper assigned to douse Kerawalapitiya fire",
+    "file_name": "/tmp/news_lk2/articles/08/08f5a767.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/times_column/\u0d8b\u0db7\u0dad\u0ddd\u0d9a\u0ddd\u0da7\u0dd2\u0d9a-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1/119-618800",
+    "time_ut": 1661509115,
+    "original_lang": "si",
+    "original_title": "\u0d8b\u0db7\u0dad\u0ddd\u0d9a\u0ddd\u0da7\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/ce/ce986a67.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba\u0da7-\u0dc0\u0daf-\u0daf\u0dd4\u0db1\u0dca-\u0db8\u0dc0-\u0d9a\u0dd6\u0da9\u0dd4\u0dc0\u0da7/101-618799",
+    "time_ut": 1661509073,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba\u0da7 \u0dc0\u0daf \u0daf\u0dd4\u0db1\u0dca \u0db8\u0dc0 \u0d9a\u0dd6\u0da9\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/53/5379c5df.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84557/fr-against-cabinet-decision-to-open-fuel-import-retail-sales-to-foreign-companies",
+    "time_ut": 1661509020,
+    "original_lang": "en",
+    "original_title": "FR against Cabinet decision to open fuel import, retail sales to foreign companies",
+    "file_name": "/tmp/news_lk2/articles/0d/0db4fdd3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Ranjan-vows-not-to-join-any-political-party-as-of-now/342-243789",
     "time_ut": 1661508266,
     "original_lang": "en",
@@ -14,6 +62,14 @@
     "original_lang": "ta",
     "original_title": "300\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0b9f\u0bc8 \u0bb5\u0bbf\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
     "file_name": "/tmp/news_lk2/articles/fb/fb2a6213.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dc0\u0db1\u0dca\u0dc4\u0dbd\u0dca-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0d9c\u0dda-\u0db4\u0dd2\u0dba\u0dcf-\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca-20\u0d9a\u0da7-\u0db8\u0dd0\u0daf\u0dd2\u0dc0-\u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2/101-618797",
+    "time_ut": 1661507605,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dc0\u0db1\u0dca\u0dc4\u0dbd\u0dca \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0d9c\u0dda \u0db4\u0dd2\u0dba\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 20\u0d9a\u0da7 \u0db8\u0dd0\u0daf\u0dd2\u0dc0 \u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/84/841e5008.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -49,11 +105,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0db1\u0dba\u0db1-\u0dad\u0dc4\u0db1\u0db8-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda-\u0d86\u0dbb\u0d9a\u0dca\u200d\u0dc2\u0dcf\u0dc0\u0da7-\u0dad\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a\u0dca/1-618795",
+    "url": "https://www.lankadeepa.lk/news/\u0d86\u0db1\u0dba\u0db1-\u0dad\u0dc4\u0db1\u0db8-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda-\u0d86\u0dbb\u0d9a\u0dca\u200d\u0dc2\u0dcf\u0dc0\u0da7-\u0dad\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a\u0dca/101-618795",
     "time_ut": 1661506416,
     "original_lang": "si",
     "original_title": "\u0d86\u0db1\u0dba\u0db1 \u0dad\u0dc4\u0db1\u0db8 \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda \u0d86\u0dbb\u0d9a\u0dca\u200d\u0dc2\u0dcf\u0dc0\u0da7 \u0dad\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/8c/8cb594b6.json"
+    "file_name": "/tmp/news_lk2/articles/2c/2cb8c218.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -134,6 +190,14 @@
     "original_lang": "en",
     "original_title": "U.S. donates 3,000 metric tons of food to feed Sri Lankan school children",
     "file_name": "/tmp/news_lk2/articles/b9/b9a667f2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dbd-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dad\u0dca-\u0dc0\u0dd0\u0da9\u0dd2\u0dd2\u0dc0\u0dd9\u0dba\u0dd2/11-396627",
+    "time_ut": 1661504070,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dbd \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dad\u0dca \u0dc0\u0dd0\u0da9\u0dd2\u0dd2\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/10/10e367c0.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -257,11 +321,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba-\u0db4\u0dd0\u0db1-\u0dc0\u0dd6-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a-\u0db1\u0dd3\u0dad\u0dd2-\u0dbd\u0dd2\u0dc4\u0dd2\u0dbd\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-618783",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba-\u0db4\u0dd0\u0db1-\u0dc0\u0dd6-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a-\u0db1\u0dd3\u0dad\u0dd2-\u0dbd\u0dd2\u0dc4\u0dd2\u0dbd\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/101-618783",
     "time_ut": 1661499733,
     "original_lang": "si",
     "original_title": "\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0db4\u0dd0\u0db1 \u0dc0\u0dd6 \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0db1\u0dd3\u0dad\u0dd2 \u0dbd\u0dd2\u0dc4\u0dd2\u0dbd\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f8/f88cc74e.json"
+    "file_name": "/tmp/news_lk2/articles/46/4622f35e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "en",
     "original_title": "Marking 75 years of Indian Independence: DEMOCRACY THAT IS INDIA: INTRIGUING, EVOLVING AND INSPIRING",
     "file_name": "/tmp/news_lk2/articles/21/21992fff.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/how-sri-lankas-wealth-is-getting-siphoned-out-through-garbage-imports/",
-    "time_ut": 1661104560,
-    "original_lang": "en",
-    "original_title": "How Sri Lanka\u2019s wealth is getting siphoned out through garbage imports",
-    "file_name": "/tmp/news_lk2/articles/19/19398f1b.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db7\u0dd6\u0db8\u0dd2\u0dad\u0dd9\u0dbd\u0dca-\u0dbd\u0dd3\u0da7\u0dbb\u0dba\u0d9a-\u0db8\u0dd2\u0dbd-\u0dbb\u0dd4--253\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-396492",
-    "time_ut": 1661104455,
-    "original_lang": "si",
-    "original_title": "\u0db7\u0dd6\u0db8\u0dd2\u0dad\u0dd9\u0dbd\u0dca \u0dbd\u0dd3\u0da7\u0dbb\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 253\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/4f/4fb83d3b.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/dancing-sanna-and-waltzing-matilda/",
-    "time_ut": 1661104440,
-    "original_lang": "en",
-    "original_title": "Dancing Sanna and waltzing Matilda",
-    "file_name": "/tmp/news_lk2/articles/14/14a7ea35.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/can-dodgy-medical-research-be-spotted/",
-    "time_ut": 1661103480,
-    "original_lang": "en",
-    "original_title": "Can Dodgy Medical Research be Spotted",
-    "file_name": "/tmp/news_lk2/articles/a5/a5a5ef8e.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/lpg-does-not-fall-under-category-of-essential-imports/",
-    "time_ut": 1661103240,
-    "original_lang": "en",
-    "original_title": "LPG does not fall under category of essential imports",
-    "file_name": "/tmp/news_lk2/articles/88/887ae772.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-hikes-kerosene-price-290-pct-in-steep-correction-98845/",
-    "time_ut": 1661101080,
-    "original_lang": "en",
-    "original_title": "Sri Lanka hikes kerosene price 290-pct in steep correction",
-    "file_name": "/tmp/news_lk2/articles/78/78f4d99f.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/22-\u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0da7-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba-\u0db4\u0dcf-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4-80\u0d9a\u0d9c\u0dd9\u0db1\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca/101-618495",
-    "time_ut": 1661100720,
-    "original_lang": "si",
-    "original_title": "22 \u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0da7 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba \u0db4\u0dcf \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4 80\u0d9a\u0d9c\u0dd9\u0db1\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/36/3655530c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/One-killed-two-injured-in-Ambalangoda-shooting/108-243445",
-    "time_ut": 1661100607,
-    "original_lang": "en",
-    "original_title": "One killed, two injured in Ambalangoda shooting",
-    "file_name": "/tmp/news_lk2/articles/84/8470b3e9.json"
   }
 ]
