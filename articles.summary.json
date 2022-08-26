@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc7-\u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/50-303033",
+    "time_ut": 1661495949,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc7 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/48/48358666.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/conditional-presidential-pardon-for-ranjan-ramanayake-says-pmd/",
+    "time_ut": 1661495760,
+    "original_lang": "en",
+    "original_title": "Conditional Presidential Pardon for Ranjan Ramanayake, says PMD",
+    "file_name": "/tmp/news_lk2/articles/fb/fb638c99.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84551/special-gazette-on-water-tariff-hike-to-be-issued-today",
+    "time_ut": 1661495640,
+    "original_lang": "en",
+    "original_title": "Special gazette on water tariff hike to be issued today",
+    "file_name": "/tmp/news_lk2/articles/68/68007196.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/UK-too-relaxes-travel-restrictions-on-SL/342-243782",
+    "time_ut": 1661495363,
+    "original_lang": "en",
+    "original_title": "UK too relaxes travel restrictions on SL",
+    "file_name": "/tmp/news_lk2/articles/3a/3acfbf65.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/counter-for-sri-lankan-expats-at-bia/",
+    "time_ut": 1661495340,
+    "original_lang": "en",
+    "original_title": "Counter for Sri Lankan expats at BIA",
+    "file_name": "/tmp/news_lk2/articles/a8/a891c45a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db4\u0dcf\u0db1\u0dba-\u0dc4\u0dcf-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dab\u0dba-\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca-\u0d85\u0dad\u0dbb-\u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0d9a\u0dca/101-618780",
+    "time_ut": 1661495181,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db4\u0dcf\u0db1\u0dba \u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dab\u0dba \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca \u0d85\u0dad\u0dbb \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/0e/0ee77c47.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-signs-conditional-pardon-for-ex-mp-ranjan-ramanayake-99051/",
+    "time_ut": 1661494800,
+    "original_lang": "en",
+    "original_title": "Sri Lanka president signs conditional pardon for ex MP Ranjan Ramanayake",
+    "file_name": "/tmp/news_lk2/articles/46/46f83818.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/26/cpstl-working-to-normalize-fuel-delivery/",
     "time_ut": 1661494560,
@@ -529,11 +585,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/India-urges-its-citizens-to-examine-relevant-factors-before-undertaking-visit-to-Sri-Lanka/108-243748",
+    "url": "https://www.dailymirror.lk/top_story/India-urges-its-citizens-to-examine-relevant-factors-before-undertaking-visit-to-Sri-Lanka/155-243748",
     "time_ut": 1661450208,
     "original_lang": "en",
     "original_title": "India urges its citizens to examine relevant factors before undertaking visit to Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/71/717edecd.json"
+    "file_name": "/tmp/news_lk2/articles/de/de15b358.json"
   },
   {
     "newspaper_id": "ada-derana-lk",

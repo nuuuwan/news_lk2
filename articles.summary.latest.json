@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc7-\u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/50-303033",
+    "time_ut": 1661495949,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc7 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/48/48358666.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/conditional-presidential-pardon-for-ranjan-ramanayake-says-pmd/",
+    "time_ut": 1661495760,
+    "original_lang": "en",
+    "original_title": "Conditional Presidential Pardon for Ranjan Ramanayake, says PMD",
+    "file_name": "/tmp/news_lk2/articles/fb/fb638c99.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84551/special-gazette-on-water-tariff-hike-to-be-issued-today",
+    "time_ut": 1661495640,
+    "original_lang": "en",
+    "original_title": "Special gazette on water tariff hike to be issued today",
+    "file_name": "/tmp/news_lk2/articles/68/68007196.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/UK-too-relaxes-travel-restrictions-on-SL/342-243782",
+    "time_ut": 1661495363,
+    "original_lang": "en",
+    "original_title": "UK too relaxes travel restrictions on SL",
+    "file_name": "/tmp/news_lk2/articles/3a/3acfbf65.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/counter-for-sri-lankan-expats-at-bia/",
+    "time_ut": 1661495340,
+    "original_lang": "en",
+    "original_title": "Counter for Sri Lankan expats at BIA",
+    "file_name": "/tmp/news_lk2/articles/a8/a891c45a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db4\u0dcf\u0db1\u0dba-\u0dc4\u0dcf-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dab\u0dba-\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca-\u0d85\u0dad\u0dbb-\u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0d9a\u0dca/101-618780",
+    "time_ut": 1661495181,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db4\u0dcf\u0db1\u0dba \u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dab\u0dba \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca \u0d85\u0dad\u0dbb \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/0e/0ee77c47.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-signs-conditional-pardon-for-ex-mp-ranjan-ramanayake-99051/",
+    "time_ut": 1661494800,
+    "original_lang": "en",
+    "original_title": "Sri Lanka president signs conditional pardon for ex MP Ranjan Ramanayake",
+    "file_name": "/tmp/news_lk2/articles/46/46f83818.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/26/cpstl-working-to-normalize-fuel-delivery/",
     "time_ut": 1661494560,
@@ -529,11 +585,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/India-urges-its-citizens-to-examine-relevant-factors-before-undertaking-visit-to-Sri-Lanka/108-243748",
+    "url": "https://www.dailymirror.lk/top_story/India-urges-its-citizens-to-examine-relevant-factors-before-undertaking-visit-to-Sri-Lanka/155-243748",
     "time_ut": 1661450208,
     "original_lang": "en",
     "original_title": "India urges its citizens to examine relevant factors before undertaking visit to Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/71/717edecd.json"
+    "file_name": "/tmp/news_lk2/articles/de/de15b358.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb0\u0bc1\u0ba3\u0bcd\u0b9f \u0ba8\u0bbe\u0bb3\u0bbe\u0b95 \u0b85\u0bae\u0bc8\u0baf\u0bc1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/23/237448df.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/increasing-productivity-and-reducing-costs-with-hr-pro-saas-cloud-technology/",
-    "time_ut": 1661084520,
-    "original_lang": "en",
-    "original_title": "Increasing productivity and reducing costs with HR Pro SaaS cloud technology",
-    "file_name": "/tmp/news_lk2/articles/f0/f0287cba.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0da7\u0dc0\u0dad\u0dca-\u0db1\u0dd2\u0d9a\u0db1\u0dca-\u0d9a\u0db1\u0dca\u0db1-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0db6\u0dd1-\u0dc0\u0dd0\u0da9-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0db6\u0dd0\u0dbb\u0dd2\u0db1\u0db8\u0dca-\u0d9c\u0dd9\u0daf\u0dbb-\u0dba\u0db1\u0dca\u0db1/11-396490",
-    "time_ut": 1661083537,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dcf\u0da7\u0dc0\u0dad\u0dca \u0db1\u0dd2\u0d9a\u0db1\u0dca \u0d9a\u0db1\u0dca\u0db1 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db6\u0dd1 \u0dc0\u0dd0\u0da9 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0db6\u0dd0\u0dbb\u0dd2\u0db1\u0db8\u0dca \u0d9c\u0dd9\u0daf\u0dbb \u0dba\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/ad/ad34ce9a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/21/concealed-stocks-of-eggs-will-be-confiscated/",
-    "time_ut": 1661083080,
-    "original_lang": "en",
-    "original_title": "Concealed stocks of eggs will be confiscated",
-    "file_name": "/tmp/news_lk2/articles/4e/4edee928.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0dc3\u0dca\u0d9a\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba-\u0d9c\u0dd0\u0db1-\u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1\u0dba-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0db1\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca-\u0d85\u0d9a\u0db8\u0dd0\u0dad\u0dd2-\u0d87\u0dba\u0dd2-/1-618489",
-    "time_ut": 1661082738,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0dc3\u0dca\u0d9a\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba \u0d9c\u0dd0\u0db1 \u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca \u0d85\u0d9a\u0db8\u0dd0\u0dad\u0dd2 \u0d87\u0dba\u0dd2?",
-    "file_name": "/tmp/news_lk2/articles/32/328a392a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dbd\u0db6\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda-\u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dc5\u0dd2-\u0d85\u0da9\u0dd4\u0dc0\u0d9a\u0dca/101-618488",
-    "time_ut": 1661082561,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbd\u0db6\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dc5\u0dd2 \u0d85\u0da9\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/b9/b90f4611.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dc0\u0dd4\u0dbb\u0dd4-\u0dc0\u0dd2\u0dbb\u0dd4\u0daf\u0dca\u0db0-\u0dc0\u0dd4\u0dc0\u0dad\u0dca-\u0dad\u0dd9\u0dbd\u0dca-\u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab-\u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/11-396489",
-    "time_ut": 1661082415,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dc0\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd2\u0dbb\u0dd4\u0daf\u0dca\u0db0 \u0dc0\u0dd4\u0dc0\u0dad\u0dca \u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab \u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/ad/ad4ab2f0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84439/interrogation-of-wasantha-mudalige-to-be-handed-over-to-cid",
-    "time_ut": 1661082000,
-    "original_lang": "en",
-    "original_title": "Interrogation of Wasantha Mudalige to be handed over to CID",
-    "file_name": "/tmp/news_lk2/articles/73/737c1b51.json"
   }
 ]
