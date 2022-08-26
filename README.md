@@ -1,20 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 06:19:31 (LK time)*
+*As of 2022-08-26 06:50:43 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (3 Articles)
-
-* **3** daily-ft-lk ([Foreign Direct Investments will gain brains](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed94cff6.json))
 
 ## Last 3 Hours (11 Articles)
 
 * **11** daily-ft-lk ([WHO pledges $ 4 m worth medical supplies to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/275f5e4c.json))
 
-## Last 24 Hours (184 Articles)
+## Last 24 Hours (183 Articles)
 
-* **40** lankadeepa-lk ([බස් යතුරු පැදි ගැටී තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2e669e.json))
+* **39** lankadeepa-lk ([අනතුරක් නැත්නම් තහනමක් අවශ්‍යද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a25647d.json))
 
 * **26** ada-lk ([අගෝස්තු පළමු සති 3ට සංචාරක පැමිණීිම  30000  ඉක්මවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a7ee6cb.json))
 
