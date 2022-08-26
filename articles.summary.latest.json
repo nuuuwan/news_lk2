@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/several-european-governments-relax-travel-advisories-issued-for-sri-lanka-99054/",
+    "time_ut": 1661500680,
+    "original_lang": "en",
+    "original_title": "Several European governments relax travel advisories issued for Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/32/32581100.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db4\u0ddd\u0dc2\u0dab\u0dd3\u0dba-\u0d86\u0dc4\u0dcf\u0dbb-\u0dc0\u0dda\u0dbd\u0d9a\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0d85\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0d85\u0dad/101-618784",
+    "time_ut": 1661500603,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0db4\u0ddd\u0dc2\u0dab\u0dd3\u0dba \u0d86\u0dc4\u0dcf\u0dbb \u0dc0\u0dda\u0dbd\u0d9a\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0d85\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d85\u0dad",
+    "file_name": "/tmp/news_lk2/articles/dc/dcb34863.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/military-should-be-equipped-with-technological-knowledge-for-cyber-warfare-president/",
+    "time_ut": 1661500260,
+    "original_lang": "en",
+    "original_title": "Military should be equipped with technological knowledge for cyber warfare \u2013 President",
+    "file_name": "/tmp/news_lk2/articles/2a/2a3d9b00.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/26/sri-lanka-want-to-increase-visitors-from-china/",
     "time_ut": 1661499780,
@@ -262,6 +286,14 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0b9e\u0bcd\u0b9c\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0baa\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/3b/3b33ccca.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0b9e\u0bcd\u0b9c\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0bbf\u0baa\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-303032",
+    "time_ut": 1661491858,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0b9e\u0bcd\u0b9c\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0baa\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/24/24a047a8.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Leave if you can\u2019t perform duties properly: President tells state workers",
     "file_name": "/tmp/news_lk2/articles/d0/d08383dd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Probe-on-arrested-Uni-students-handed-over-to-CID/342-243440",
-    "time_ut": 1661089478,
-    "original_lang": "en",
-    "original_title": "Probe on arrested Uni students handed over to CID",
-    "file_name": "/tmp/news_lk2/articles/43/439ac64b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/21/world-bank-impose-strict-regulations-for-fertilizer-imports-report/",
-    "time_ut": 1661088900,
-    "original_lang": "en",
-    "original_title": "World Bank impose strict regulations for fertilizer imports \u2013 Report",
-    "file_name": "/tmp/news_lk2/articles/2f/2fb58279.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/state-owned-kalubowitiyana-tea-soars-to-new-heights/",
-    "time_ut": 1661088180,
-    "original_lang": "en",
-    "original_title": "State owned Kalubowitiyana Tea soars to new heights",
-    "file_name": "/tmp/news_lk2/articles/86/86aae731.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/ceylinco-insurance-most-respected-insurer-in-sri-lanka-for-yet-another-year/",
-    "time_ut": 1661088120,
-    "original_lang": "en",
-    "original_title": "Ceylinco Insurance \u2018Most Respected Insurer\u2019 in Sri Lanka for yet another year",
-    "file_name": "/tmp/news_lk2/articles/b4/b4067496.json"
   }
 ]
