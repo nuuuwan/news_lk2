@@ -1,5 +1,85 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Conditional-presidential-pardon-for-Ranjan-relevant-documents-signed/342-243781",
+    "time_ut": 1661493627,
+    "original_lang": "en",
+    "original_title": "Conditional presidential pardon for Ranjan; relevant documents signed",
+    "file_name": "/tmp/news_lk2/articles/48/480cf13a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84550/uk-lifts-advisory-against-all-but-essential-travel-to-sri-lanka",
+    "time_ut": 1661493480,
+    "original_lang": "en",
+    "original_title": "UK lifts advisory against all but essential travel to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/6e/6e373e4d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/discussion-on-fuel-subsidy-for-fisherfolk-on-monday-29/",
+    "time_ut": 1661493060,
+    "original_lang": "en",
+    "original_title": "Discussion on fuel subsidy for fisherfolk on Monday (29)",
+    "file_name": "/tmp/news_lk2/articles/c0/c0171aa3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/friday/\u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca-\u0dc5\u0dd2\u0db4\u0da7-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u0daf-/122-618778",
+    "time_ut": 1661492832,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca \u0dc5\u0dd2\u0db4\u0da7 \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/47/4765e710.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84549/prez-secretary-signs-document-to-grant-conditional-pardon-to-ranjan",
+    "time_ut": 1661492340,
+    "original_lang": "en",
+    "original_title": "Prez Secretary signs document to grant conditional pardon to Ranjan",
+    "file_name": "/tmp/news_lk2/articles/dd/dd4717d0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/editorial/\u0da2\u0dd3\u0dc0\u0db1-\u0db6\u0dbb-\u0d85\u0da9\u0dd4-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u0dc3\u0dc4\u0db1-\u0dc3\u0dbd\u0dc3\u0db1\u0dd4/117-618773",
+    "time_ut": 1661492121,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dd3\u0dc0\u0db1 \u0db6\u0dbb \u0d85\u0da9\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0dc3\u0dc4\u0db1 \u0dc3\u0dbd\u0dc3\u0db1\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/3d/3d1a5f4a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Japan-seeks-to-organise-Sri-Lanka-creditors-meeting-on-debt-crisis/342-243780",
+    "time_ut": 1661492013,
+    "original_lang": "en",
+    "original_title": "Japan seeks to organise Sri Lanka creditors\u2019 meeting on debt crisis",
+    "file_name": "/tmp/news_lk2/articles/3a/3a9c8ac6.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0da7-\u0db1\u0ddc\u0db8\u0dd2\u0dbd\u0dda-\u0daf\u0dd9\u0db1-\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf-\u0daf\u0dd9\u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0d91\u0dba\u0dd2/1-618772",
+    "time_ut": 1661491885,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0da7 \u0db1\u0ddc\u0db8\u0dd2\u0dbd\u0dda \u0daf\u0dd9\u0db1 \u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0daf\u0dd9\u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/24/247c5005.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/uk-lifts-sri-lanka-travel-warning-99049/",
+    "time_ut": 1661491860,
+    "original_lang": "en",
+    "original_title": "UK lifts Sri Lanka travel warning",
+    "file_name": "/tmp/news_lk2/articles/8a/8a738f9d.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0b9e\u0bcd\u0b9c\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0bbf\u0baa\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8\u0baf\u0bb1\u0bcd\u0bb1-\u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-303032",
+    "time_ut": 1661491858,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0b9e\u0bcd\u0b9c\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0baa\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/3b/3b33ccca.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/26/limited-private-bus-operations-on-friday-26/",
     "time_ut": 1661491500,
@@ -14,6 +94,14 @@
     "original_lang": "en",
     "original_title": "Some missing Sri Lanka Commonwealth athletes located by UK, but not disclosed",
     "file_name": "/tmp/news_lk2/articles/2a/2a4c192d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/some-missing-sri-lanka-commonwealth-athletes-found-by-uk-locations-not-disclosed-99045/",
+    "time_ut": 1661490780,
+    "original_lang": "en",
+    "original_title": "Some missing Sri Lanka Commonwealth athletes found by UK, locations not disclosed",
+    "file_name": "/tmp/news_lk2/articles/26/26c94fd8.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -38,14 +126,6 @@
     "original_lang": "en",
     "original_title": "Ranjan Ramanayake: President\u2019s Secretary signs release documents",
     "file_name": "/tmp/news_lk2/articles/7b/7b30a268.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84548/japan-seeks-to-organise-sri-lanka-creditors-meeting-on-debt-crisis",
-    "time_ut": 1661489340,
-    "original_lang": "en",
-    "original_title": "Japan seeks to organise Sri Lanka creditors\u2019 meeting on debt crisis",
-    "file_name": "/tmp/news_lk2/articles/72/72a40885.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -118,6 +198,14 @@
     "original_lang": "ta",
     "original_title": "\u0b89\u0bb2\u0b95\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0bb5\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/45/451ca177.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d94\u0da7\u0ddd-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db1\u0dd0\u0dc0\u0d9a\u0dca-\u0d85\u0daf-\u0d91\u0dba\u0dd2/11-396620",
+    "time_ut": 1661486122,
+    "original_lang": "si",
+    "original_title": "\u0d94\u0da7\u0ddd \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db1\u0dd0\u0dc0\u0d9a\u0dca \u0d85\u0daf \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a3/a32bdfcf.json"
   },
   {
     "newspaper_id": "news-first-lk",
