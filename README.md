@@ -1,30 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-27 00:37:01 (LK time)*
+*As of 2022-08-27 01:09:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (8 Articles)
+## Last Hour (8 Articles)
 
 * **8** daily-ft-lk ([Lenovo joins Softlogic Information Technologies in providing graphic workstations](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7b7230b.json))
 
-## Last Hour (11 Articles)
-
-* **11** daily-ft-lk ([The Sri Lanka paradox](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba6ccc06.json))
-
-## Last 3 Hours (21 Articles)
+## Last 3 Hours (18 Articles)
 
 * **13** daily-ft-lk ([NATO Alliance of Sri Lanka: ‘No Action, Talk Only’ way to overcome an economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c6c20c9.json))
 
 * **3** daily-mirror-lk ([Cops who took photos seated on President’s chair face probe - Police tell court](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1be6683e.json))
 
-* **3** news-first-lk ([Linking lives and villages: Gammadda launches bridge construction in remote Kegalle](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f853c68.json))
-
 * **1** ada-derana-lk ([Special gazette issued on increasing water tariffs from Sep 01](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a46d0774.json))
 
-* **1** ada-lk ([හිටි හැටියේම වෙනස් වූ කාලගුණය](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4392c5c2.json))
+* **1** news-first-lk ([Water supply & sewage charges revised](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7097ed4.json))
 
-## Last 24 Hours (204 Articles)
+## Last 24 Hours (203 Articles)
 
 * **47** news-first-lk ([3-hr power cuts today (26)](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3df46537.json))
 
@@ -38,17 +32,17 @@
 
 * **20** ada-derana-lk ([Fairly heavy rainfall possible in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/102ae28a.json))
 
-* **19** tamil-mirror-lk ([சைபர் தளத்திலும் யுத்தம் நிகழலாம்: ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ae201f1.json))
+* **18** tamil-mirror-lk ([தங்கம் கடத்திய இலங்கையர்கள் இந்தியாவில் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70914fd0.json))
 
 * **12** economy-next-com ([Sri Lanka housing hit by protectionist taxes, monopoly power: Developers](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50c77cd3.json))
 
-## Last Week (1,385 Articles)
+## Last Week (1,379 Articles)
 
 * **268** lankadeepa-lk ([පළාත් කීපයකට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b330ad54.json))
 
 * **194** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
 
-* **184** tamil-mirror-lk ([தடை நீக்கப்பட்ட அமைப்புகளே குற்றச்சாட்டை முன்வைத்தன](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae3c7811.json))
+* **179** tamil-mirror-lk ([’சர்வதேச முதலீடுகளுக்கு தேசிய பாதுகாப்பு அவசியம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28a14ac.json))
 
 * **173** ada-lk ([මහජන සාමය පවත්වාගෙන යාමට ජනපති ත්‍රිවිධ හමුදාව කැඳවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e879c799.json))
 
@@ -62,7 +56,7 @@
 
 * **56** island-lk ([Three Sinha Industries donates medical equipment to Lady Ridgeway Hospital](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c05aac6.json))
 
-* **15** d-b-s-jeyaraj-com ([The 2000 Day “Poaraattam” (Struggle) by Tamil Women for Their “Disappeared” Loved Ones.](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55159169.json))
+* **14** d-b-s-jeyaraj-com ([Wickremesinghe does not seem to have learnt a lesson from a basic mental aberration that the UNP suffers from: Crushing legitimate dissent by force using UNP thugs or security services has been one of the main reasons for the nemesis of the party,](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c37b8a6e.json))
 
 * **11** colombo-telegraph-com ([Country Has Fallen Due To The Socialist Thinking](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d3ca26d.json))
 
