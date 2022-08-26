@@ -1,28 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 20:30:33 (LK time)*
+*As of 2022-08-26 20:51:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **1** lankadeepa-lk ([රන්ජන්ගේ නිදහස ගැන හරීන් කළ ප්‍රකාශය](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/2371f8da.json))
-
-* **1** news-first-lk ([58 COVID cases reported on Friday (26)](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/2857019f.json))
+* **1** lankadeepa-lk ([රුපියල් කෝටියක සිගරැට් රේගු දැළේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6ac7282f.json))
 
 ## Last Hour (6 Articles)
 
-* **3** lankadeepa-lk ([නිල්වලා ගඟේ දිය නෑ හතරක් ගසාගෙන යති](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/cebb4b8b.json))
+* **4** lankadeepa-lk ([නිල්වලා ගඟේ දිය නෑ හතරක් ගසාගෙන යති](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/cebb4b8b.json))
 
 * **2** news-first-lk ([Navy leaps into action to extinguish fire at marshy-land in Wattala](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c7490d1.json))
 
-* **1** ada-derana-lk ([Four people reported missing while bathing at Udaha Ella](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3ebd0c5.json))
+## Last 3 Hours (19 Articles)
 
-## Last 3 Hours (22 Articles)
+* **8** lankadeepa-lk ([ජල ගාස්තුව 1 වැනිදා සිට ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46c392bd.json))
 
-* **8** lankadeepa-lk ([’’පක්ෂ මාරු කිරීම හෝ කඩේ යාම මගේ සිලබස් එකේ නැහැ’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49198ced.json))
-
-* **4** news-first-lk ([UNICEF Regional Director for South Asia meets Foreign Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/866ca3aa.json))
+* **3** news-first-lk ([Cops ordered to crackdown on drugs & crimes](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b174d76.json))
 
 * **3** ada-derana-lk ([Three-hour power cuts on Aug 27 and 28](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24c697c0.json))
 
@@ -30,15 +26,13 @@
 
 * **2** economy-next-com ([Sri Lanka bond yields flat](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7de994a1.json))
 
-* **2** tamil-mirror-lk ([காலநிலையில் ஏற்படவுள்ள மாற்றம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/803933ba.json))
-
 * **1** ada-lk ([ජාත්‍යන්තර මූල්‍ය අරමුදල සමග තවත් සාකච්ඡාවක්  ජනපති ප්‍රධානත්වයෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a785fa77.json))
 
 ## Last 24 Hours (189 Articles)
 
-* **40** news-first-lk ([Summer Hill Leopard Tragedy: Cause of Death revealed](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0112be01.json))
+* **39** news-first-lk ([Chinese Fertilizer: Qingdao takes back US $ 5 Mn bond](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63b569d0.json))
 
-* **36** lankadeepa-lk ([කොවිඩ් ආසාදිතයන් 114 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de48a80.json))
+* **37** lankadeepa-lk ([කොවිඩ් ආසාදිතයන් 114 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de48a80.json))
 
 * **23** ada-lk ([සාර්ථක හමුදාවක් බිහි කිරීමට විනයක්, පුහුණුවක් හා දැනුමක් අවශ්‍යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0e13d2.json))
 
@@ -56,19 +50,19 @@
 
 * **1** d-b-s-jeyaraj-com ([India’s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d409b1cb.json))
 
-## Last Week (1,394 Articles)
+## Last Week (1,387 Articles)
 
-* **271** lankadeepa-lk ([රන්ජන් ලබන සතියේ නිදහස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2dc58d26.json))
+* **269** lankadeepa-lk ([වසන්ත ඇතුළු දෙදෙනෙක් මාස තුනක් රඳවන් ප්‍රශ්න කිරීමට අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a953afc.json))
 
-* **189** news-first-lk ([Dullas alleges ‘hate politics’ within Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a899547d.json))
+* **188** news-first-lk ([Sri Lanka: Student Activists detained for 72 hours; Police want to use Terrorism Act for 3-month detention](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e095716.json))
 
-* **187** tamil-mirror-lk ([சிஐடிக்கு வருமாறு ஹிருணிகாவுக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd34d3f1.json))
+* **186** tamil-mirror-lk ([’மக்கள் உணரக்கூடிய நல்லிணக்கமே அவசியம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aecffbcf.json))
 
-* **173** ada-lk ([සති අන්තයේත් පැය තුනක විදුලි කප්පාදුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfc8f342.json))
+* **171** ada-lk ([මහජන සාමය පවත්වාගෙන යාමට ජනපති ත්‍රිවිධ හමුදාව කැඳවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e879c799.json))
 
 * **163** daily-mirror-lk ([Egg prices to come down by Rs.5 from Monday: Poultry Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/936ec36f.json))
 
-* **157** ada-derana-lk ([Navy seizes Kerala cannabis worth over Rs. 27 million in Jaffna](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba43805.json))
+* **156** ada-derana-lk ([90-day detention order issued on two including IUSF convenor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a29d727a.json))
 
 * **103** economy-next-com ([IMF team in Sri Lanka  policy talks on program from August 24](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d12f202d.json))
 
@@ -80,9 +74,9 @@
 
 * **11** colombo-telegraph-com ([Country Has Fallen Due To The Socialist Thinking](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d3ca26d.json))
 
-## All Time (3,065 Articles)
+## All Time (3,066 Articles)
 
-* **560** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **561** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **402** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
