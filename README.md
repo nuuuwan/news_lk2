@@ -1,54 +1,56 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 17:18:16 (LK time)*
+*As of 2022-08-26 17:34:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (8 Articles)
 
-* **3** lankadeepa-lk ([නිදහස ලැබූ රන්ජන් ගංගාරාමයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65d77690.json))
+* **6** ada-lk ([අගමැති ධුරය අත්හිටවූවත් ආරක්ෂක ඇමති ලෙස වැඩලු](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/856b2330.json))
 
-* **2** news-first-lk ([SJB wants full Presidential Pardon for Ranjan Ramanayake with Political Rights](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2d89b99.json))
+* **1** news-first-lk ([“I’d love to speak like I used to, but I cannot,” – Ranjan talks to the press after released from prison](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc795850.json))
+
+* **1** lankadeepa-lk ([ත්‍රස්ත පනතට එරෙහිව මහජන පෙත්සමකට අත්සන් ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aedd4272.json))
+
+## Last Hour (16 Articles)
+
+* **6** lankadeepa-lk ([නැවතත් දිගු ඉන්ධන පෝලිම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8dbc729c.json))
+
+* **6** ada-lk ([අගමැති ධුරය අත්හිටවූවත් ආරක්ෂක ඇමති ලෙස වැඩලු](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/856b2330.json))
+
+* **3** news-first-lk ([SJB wants full Presidential Pardon for Ranjan Ramanayake with Political Rights](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2d89b99.json))
 
 * **1** ada-derana-lk ([More activists arrested over forcible entry to state buildings granted bail](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aea64fa3.json))
 
-## Last Hour (9 Articles)
+## Last 3 Hours (45 Articles)
 
-* **5** lankadeepa-lk ([නැවතත් දිගු ඉන්ධන පෝලිම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8dbc729c.json))
+* **13** lankadeepa-lk ([ජනපති මැදුරෙන් ඇඳ ඇතිරිල්ලක් සොරාගත් අරගලකරුවා රිමාන්ඩ්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8c10ed0.json))
 
-* **3** news-first-lk ([Ranjan goes Gangaramaya after release](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae827b7b.json))
+* **9** news-first-lk ([SJB wants to appoint Ranjan to National List](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79174034.json))
 
-* **1** ada-derana-lk ([More activists arrested over forcible entry to state buildings granted bail](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aea64fa3.json))
+* **9** ada-lk ([රන්ජන්  නිදහස් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/926dce1c.json))
 
-## Last 3 Hours (43 Articles)
+* **6** ada-derana-lk ([Ranjan Ramanayake released from prison](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2920fcc9.json))
 
-* **13** lankadeepa-lk ([රාජ්‍ය අංශයට ලැබෙන වරප්‍රසාද පෞද්ගලික අංශයටද ලැබිය යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb3d4297.json))
-
-* **9** news-first-lk ([U.S. Donates 3,000 metric tons of food to feed Sri Lankan school children](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75a94306.json))
-
-* **7** ada-derana-lk ([U.S. donates 3,000 metric tons of food to feed Sri Lankan school children](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9a667f2.json))
-
-* **6** daily-mirror-lk ([SJB ready to appoint Ranjan to Parliamemnt if vacancy exists in National List: Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff95f8ce.json))
-
-* **4** ada-lk ([රන්ජන් තවත් පැය කිහිපයකින් නිදහස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ef4b092.json))
+* **5** daily-mirror-lk ([Some countries always make various groundless excuses to bully Sri Lanka: China](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cb8fed1.json))
 
 * **2** tamil-mirror-lk ([ரஞ்சன் வெளியேறினார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89a87b45.json))
 
-* **2** economy-next-com ([Indians visiting Sri Lanka advised to be cautious of fuel situation, currency convertibility](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/280b0725.json))
+* **1** economy-next-com ([Sri Lanka ex-MP Ranjan Ramayanake leaves prison, job offered](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f9538e3.json))
 
-## Last 24 Hours (185 Articles)
+## Last 24 Hours (191 Articles)
 
-* **36** lankadeepa-lk ([යළිත් දින 100ක වැඩකට අතගසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ab64da4.json))
+* **37** lankadeepa-lk ([යළිත් දින 100ක වැඩකට අතගසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ab64da4.json))
 
-* **35** news-first-lk ([Warrant against Lahiru Weerasekara recalled](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/011c6962.json))
+* **36** news-first-lk ([Warrant against Lahiru Weerasekara recalled](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/011c6962.json))
 
 * **26** daily-mirror-lk ([2100+ businesses installed their own fuel storage tanks, many without permission: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/7931f7ef.json))
 
-* **22** ada-derana-lk ([Power cut schedule for tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4cbb6fe2.json))
+* **23** ada-lk ([ඩීසල් ගොඩබෑම ප්‍රමාද වීම නිසා පෙට්‍රල් බෙදා හැරීම පමා වුණා](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46041477.json))
+
+* **19** ada-derana-lk ([Ranjan Ramanayake to be released tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96e1f1f3.json))
 
 * **19** tamil-mirror-lk ([ஒரே நேரத்தில் கொரோனா, குரங்கம்மை, எச்ஐவி நோயால் பாதிக்கப்பட்ட நபர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2c023ca.json))
-
-* **16** ada-lk ([ඩීසල් ගොඩබෑම ප්‍රමාද වීම නිසා පෙට්‍රල් බෙදා හැරීම පමා වුණා](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46041477.json))
 
 * **15** economy-next-com ([Fuel queues seen outside several filling stations in Sri Lanka as schools reopen](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72a18600.json))
 
@@ -58,15 +60,15 @@
 
 * **1** d-b-s-jeyaraj-com ([India’s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d409b1cb.json))
 
-## Last Week (1,398 Articles)
+## Last Week (1,404 Articles)
 
-* **268** lankadeepa-lk ([සිරදඩුවම් විදින රන්ජන් ‘ද ගේම්’ බලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc526e3b.json))
+* **268** lankadeepa-lk ([රජයේ නිලධාරීන්ට රට යන්න වරම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f3afd3d.json))
 
-* **189** news-first-lk ([CIABOC discontinues 2018 MP crossover probe due to ‘insufficient information’](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1874513.json))
+* **189** news-first-lk ([3-hour daily power outages during weekend](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88414441.json))
 
-* **187** tamil-mirror-lk ([புதிய திரைப்படத்தில் நடிக்கின்றார் ரஞ்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/079b18b7.json))
+* **186** tamil-mirror-lk ([எரிபொருள் விநியோகத்தை இடைநிறுத்த அதிரடி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baee6e08.json))
 
-* **172** ada-lk ([හිටපු ජනපතිගෙන් CIDයට පැය පහක ප්‍රකාශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70eba152.json))
+* **179** ada-lk ([හිටපු ජනපතිගෙන් CIDයට පැය පහක ප්‍රකාශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70eba152.json))
 
 * **163** daily-mirror-lk ([Three-hour power cut during weekend](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd4aa13c.json))
 
@@ -82,15 +84,15 @@
 
 * **11** colombo-telegraph-com ([Country Has Fallen Due To The Socialist Thinking](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d3ca26d.json))
 
-## All Time (3,029 Articles)
+## All Time (3,038 Articles)
 
-* **550** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **551** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **392** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **399** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **383** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
-* **359** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
+* **360** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
 * **324** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
