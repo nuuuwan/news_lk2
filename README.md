@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 23:31:46 (LK time)*
+*As of 2022-08-26 23:50:54 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
+## Last Hour (3 Articles)
 
-* **3** daily-mirror-lk ([Cops who took photos seated on President’s chair face probe - Police tell court](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1be6683e.json))
+* **2** daily-mirror-lk ([Freed...](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d92665.json))
 
 * **1** ada-derana-lk ([Special gazette issued on increasing water tariffs from Sep 01](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a46d0774.json))
 
@@ -40,7 +40,7 @@
 
 * **4** island-lk ([Hemas partners with Clean Ocean Force to safeguard Negombo’s threatened ecosystems](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75ca79a5.json))
 
-## Last Week (1,381 Articles)
+## Last Week (1,380 Articles)
 
 * **268** lankadeepa-lk ([පළාත් කීපයකට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b330ad54.json))
 
@@ -56,9 +56,9 @@
 
 * **103** economy-next-com ([IMF team in Sri Lanka  policy talks on program from August 24](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d12f202d.json))
 
-* **56** daily-ft-lk ([Looking at the problem from the point of view of the State](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1508448.json))
-
 * **56** island-lk ([Three Sinha Industries donates medical equipment to Lady Ridgeway Hospital](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c05aac6.json))
+
+* **55** daily-ft-lk ([One mother’s fight for a safe delivery: What it’s like to give birth in Sri Lanka right now](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd20ffb.json))
 
 * **15** d-b-s-jeyaraj-com ([The 2000 Day “Poaraattam” (Struggle) by Tamil Women for Their “Disappeared” Loved Ones.](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55159169.json))
 
