@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dad\u0dd2-\u0d85\u0db1\u0dca\u0dad\u0dba\u0dda\u0dad\u0dca-\u0db4\u0dd0\u0dba-3-\u0d9a\u0dca-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0d9a\u0db4\u0dba\u0dd2/101-618812",
+    "time_ut": 1661518497,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dad\u0dd2 \u0d85\u0db1\u0dca\u0dad\u0dba\u0dda\u0dad\u0dca \u0db4\u0dd0\u0dba 3 \u0d9a\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d9a\u0db4\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ab/ab06a24b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-3-hours-for-august-27-28-99065/",
+    "time_ut": 1661517840,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules power cuts of 3 hours for August 27, 28",
+    "file_name": "/tmp/news_lk2/articles/9c/9c5e303e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84561/three-hour-power-cuts-on-aug-27-and-28",
+    "time_ut": 1661517840,
+    "original_lang": "en",
+    "original_title": "Three-hour power cuts on Aug 27 and 28",
+    "file_name": "/tmp/news_lk2/articles/24/24c697c0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0ddc\u0dc0\u0dd2\u0da2\u0db1-\u0db6\u0dd0\u0d82\u0d9a\u0dd4-\u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dd4-\u0d9a\u0ddd\u0da7\u0dd2-600-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/101-618811",
+    "time_ut": 1661517603,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddc\u0dc0\u0dd2\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dd4 \u0d9a\u0ddd\u0da7\u0dd2 600 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/be/bedfd76b.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-bond-yields-flat-99064/",
     "time_ut": 1661516700,
@@ -206,6 +238,14 @@
     "original_lang": "si",
     "original_title": "\u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca \u0daf\u0dd2\u0d9c\u0dd4 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca",
     "file_name": "/tmp/news_lk2/articles/8d/8dbc729c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dba\u0dd2-\u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1\u0dcf-\u0db1\u0dcf\u0d9c-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-396631",
+    "time_ut": 1661511553,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dba\u0dd2 \u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1\u0dcf \u0db1\u0dcf\u0d9c \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/0f/0fca8940.json"
   },
   {
     "newspaper_id": "news-first-lk",
