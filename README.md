@@ -1,18 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 22:11:18 (LK time)*
+*As of 2022-08-26 22:22:34 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last Hour (9 Articles)
 
-* **2** news-first-lk ([Linking lives and villages: Gammadda launches bridge construction in remote Kegalle](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f853c68.json))
-
-* **1** ada-lk ([හිටි හැටියේම වෙනස් වූ කාලගුණය](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4392c5c2.json))
-
-## Last Hour (12 Articles)
-
-* **10** news-first-lk ([Kerawalapitiya bush fire contained](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3b3590c.json))
+* **7** news-first-lk ([Complaint filed against SLPP MPs’ comments](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1c6ce6d.json))
 
 * **1** ada-lk ([හිටි හැටියේම වෙනස් වූ කාලගුණය](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4392c5c2.json))
 
@@ -52,7 +46,7 @@
 
 * **1** d-b-s-jeyaraj-com ([India’s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d409b1cb.json))
 
-## Last Week (1,387 Articles)
+## Last Week (1,386 Articles)
 
 * **268** lankadeepa-lk ([පළාත් කීපයකට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b330ad54.json))
 
@@ -70,7 +64,7 @@
 
 * **62** daily-ft-lk ([Dialog promotes best data plans for entire family](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f47911b1.json))
 
-* **57** island-lk ([Cops rise from deep slumber](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b09380d0.json))
+* **56** island-lk ([Three Sinha Industries donates medical equipment to Lady Ridgeway Hospital](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c05aac6.json))
 
 * **15** d-b-s-jeyaraj-com ([The 2000 Day “Poaraattam” (Struggle) by Tamil Women for Their “Disappeared” Loved Ones.](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55159169.json))
 
