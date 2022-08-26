@@ -1,24 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 05:33:46 (LK time)*
+*As of 2022-08-26 05:50:42 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (2 Articles)
 
-* **2** daily-ft-lk ([Hair cuts and hair splitting](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf58d54a.json))
+* **2** daily-ft-lk ([Acts of ‘national insecurity’  and other non-sequiturs](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f802a583.json))
 
-## Last Hour (9 Articles)
+## Last Hour (4 Articles)
 
-* **9** daily-ft-lk ([WHO pledges $ 4 m worth medical supplies to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/275f5e4c.json))
+* **4** daily-ft-lk ([Hair cuts and hair splitting](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf58d54a.json))
 
 ## Last 3 Hours (11 Articles)
 
-* **9** daily-ft-lk ([WHO pledges $ 4 m worth medical supplies to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/275f5e4c.json))
+* **11** daily-ft-lk ([WHO pledges $ 4 m worth medical supplies to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/275f5e4c.json))
 
-* **2** daily-mirror-lk ([Ukraine war, Sri Lanka and IMF prescriptions](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd0d7dde.json))
-
-## Last 24 Hours (185 Articles)
+## Last 24 Hours (187 Articles)
 
 * **40** lankadeepa-lk ([බස් යතුරු පැදි ගැටී තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2e669e.json))
 
@@ -34,13 +32,13 @@
 
 * **17** economy-next-com ([Sri Lanka fertilizer tender fails amid banking concerns: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f94545e3.json))
 
-* **9** daily-ft-lk ([WHO pledges $ 4 m worth medical supplies to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/275f5e4c.json))
+* **11** daily-ft-lk ([WHO pledges $ 4 m worth medical supplies to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/275f5e4c.json))
 
 * **4** island-lk ([Hemas partners with Clean Ocean Force to safeguard Negombo’s threatened ecosystems](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75ca79a5.json))
 
 * **1** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## Last Week (1,382 Articles)
+## Last Week (1,384 Articles)
 
 * **268** lankadeepa-lk ([විමල්ගේ නායකත්වයෙන් නව සන්ධානය පිහිටුවීම හතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa22510.json))
 
@@ -58,13 +56,13 @@
 
 * **64** island-lk ([Has Sri Lanka finally learned its lesson on emotional vs evidence-based agri policies?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b90e2e4f.json))
 
-* **60** daily-ft-lk ([Dialog promotes best data plans for entire family](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f47911b1.json))
+* **62** daily-ft-lk ([Dialog promotes best data plans for entire family](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f47911b1.json))
 
 * **16** colombo-telegraph-com ([Saying No To Authoritarian Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2af95aab.json))
 
 * **14** d-b-s-jeyaraj-com ([The 2000 Day “Poaraattam” (Struggle) by Tamil Women for Their “Disappeared” Loved Ones.](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55159169.json))
 
-## All Time (2,902 Articles)
+## All Time (2,904 Articles)
 
 * **524** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,7 +78,7 @@
 
 * **200** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 
-* **196** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
+* **198** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
 * **140** island-lk ([Lanka’s misery should be warning to us all on global food, fuel and finance crisis: UNDP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564b2893.json))
 

@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Ranil-s-perilous-authoritarian-alternative/4-739124",
+    "time_ut": 1661472075,
+    "original_lang": "en",
+    "original_title": "Ranil\u2019s perilous authoritarian alternative",
+    "file_name": "/tmp/news_lk2/articles/d6/d63620cb.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Acts-of-national-insecurity-and-other-non-sequiturs/4-739123",
+    "time_ut": 1661471742,
+    "original_lang": "en",
+    "original_title": "Acts of \u2018national insecurity\u2019  and other non-sequiturs",
+    "file_name": "/tmp/news_lk2/articles/f8/f802a583.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Foreign-Direct-Investments-will-gain-brains/4-739122",
     "time_ut": 1661471429,
     "original_lang": "en",
