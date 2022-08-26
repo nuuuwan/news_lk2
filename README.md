@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-27 03:03:17 (LK time)*
+*As of 2022-08-27 03:16:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (14 Articles)
-
-* **8** daily-ft-lk ([Lenovo joins Softlogic Information Technologies in providing graphic workstations](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7b7230b.json))
+## Last 3 Hours (9 Articles)
 
 * **3** daily-mirror-lk ([Sri Lankans migrating to greener pastures](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/207025cc.json))
 
 * **3** tamil-mirror-lk ([ஜனாதிபதியுடன் ஐ.எம்.எப். பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5b5ad5e.json))
+
+* **3** daily-ft-lk ([Marikkar welcomes release of Ranjan; calls on President to investigate SLPP MP for contempt](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/701ba81d.json))
 
 ## Last 24 Hours (209 Articles)
 
