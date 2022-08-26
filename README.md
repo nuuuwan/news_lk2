@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-27 01:25:42 (LK time)*
+*As of 2022-08-27 01:33:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** tamil-mirror-lk ([ஜனாதிபதியுடன் ஐ.எம்.எப். பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5b5ad5e.json))
 
 ## Last Hour (1 Articles)
 
@@ -40,13 +36,13 @@
 
 * **12** economy-next-com ([Sri Lanka housing hit by protectionist taxes, monopoly power: Developers](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50c77cd3.json))
 
-## Last Week (1,375 Articles)
+## Last Week (1,374 Articles)
 
 * **268** lankadeepa-lk ([පළාත් කීපයකට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b330ad54.json))
 
 * **194** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
 
-* **179** tamil-mirror-lk ([ஆர்ப்பாட்டக்காரர்கள் 90 நாட்களுக்கு தடுத்துவைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00b5fd48.json))
+* **178** tamil-mirror-lk ([முட்டைக்கு கட்டுப்பாட்டு விலை: அதிவிசேட வர்த்தமானி வெளியீடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a03d1fc0.json))
 
 * **173** ada-lk ([මහජන සාමය පවත්වාගෙන යාමට ජනපති ත්‍රිවිධ හමුදාව කැඳවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e879c799.json))
 
