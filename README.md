@@ -1,28 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 05:50:42 (LK time)*
+*As of 2022-08-26 06:19:31 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (3 Articles)
 
-* **2** daily-ft-lk ([Acts of ‘national insecurity’  and other non-sequiturs](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f802a583.json))
-
-## Last Hour (4 Articles)
-
-* **4** daily-ft-lk ([Hair cuts and hair splitting](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf58d54a.json))
+* **3** daily-ft-lk ([Foreign Direct Investments will gain brains](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed94cff6.json))
 
 ## Last 3 Hours (11 Articles)
 
 * **11** daily-ft-lk ([WHO pledges $ 4 m worth medical supplies to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/275f5e4c.json))
 
-## Last 24 Hours (187 Articles)
+## Last 24 Hours (184 Articles)
 
 * **40** lankadeepa-lk ([බස් යතුරු පැදි ගැටී තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2e669e.json))
 
-* **26** daily-mirror-lk ([30 State Ministers to be appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/931de269.json))
-
 * **26** ada-lk ([අගෝස්තු පළමු සති 3ට සංචාරක පැමිණීිම  30000  ඉක්මවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a7ee6cb.json))
+
+* **23** daily-mirror-lk ([Ape Jana Bala Party Chairman remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/5450098c.json))
 
 * **22** ada-derana-lk ([Fairly heavy rains of about 75mm expected in three provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c0dd76c.json))
 
