@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca-\u0daf\u0dd2\u0d9c\u0dd4-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca/1-618801",
+    "time_ut": 1661511918,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca \u0daf\u0dd2\u0d9c\u0dd4 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/bd/bde97041.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/ranjan-goes-gangaramaya-after-release/",
+    "time_ut": 1661511360,
+    "original_lang": "en",
+    "original_title": "Ranjan goes Gangaramaya after release",
+    "file_name": "/tmp/news_lk2/articles/ae/ae827b7b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84559/detention-order-against-mudalige-challenged-in-supreme-court",
+    "time_ut": 1661510880,
+    "original_lang": "en",
+    "original_title": "Detention order against Mudalige challenged in Supreme Court",
+    "file_name": "/tmp/news_lk2/articles/61/61a28110.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84559/detention-order-against-mudalige-challenged-in-fr-petition",
     "time_ut": 1661510880,
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Self-discovery and professional mastery combined for next level growth at Speakers\u2019 Triangle",
     "file_name": "/tmp/news_lk2/articles/22/2281df28.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Sri-Lanka-s-sovereign-debt-restructure-as-it-stands-now/4-738940",
-    "time_ut": 1661108111,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s sovereign debt restructure as it stands now",
-    "file_name": "/tmp/news_lk2/articles/6c/6cdcb574.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/Immorality-of-attack-on-university-students/14-738939",
-    "time_ut": 1661107691,
-    "original_lang": "en",
-    "original_title": "Immorality of attack on university students",
-    "file_name": "/tmp/news_lk2/articles/8c/8cd49cf2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84445/sri-lankan-envoy-expresses-gratitude-to-us-congress-for-interest-in-the-island",
-    "time_ut": 1661106240,
-    "original_lang": "en",
-    "original_title": "Sri Lankan envoy expresses gratitude to US Congress for interest in the island",
-    "file_name": "/tmp/news_lk2/articles/99/99ca1b6b.json"
   }
 ]
