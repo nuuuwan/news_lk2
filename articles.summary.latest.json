@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/fr-against-privatizing-filling-stations/",
+    "time_ut": 1661528940,
+    "original_lang": "en",
+    "original_title": "FR against privatizing filling stations",
+    "file_name": "/tmp/news_lk2/articles/67/67dc1b0e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/fr-against-mudalige-s-detention-filed-with-supreme-court/",
+    "time_ut": 1661528880,
+    "original_lang": "en",
+    "original_title": "FR against Mudalige\u2019s detention filed with Supreme Court",
+    "file_name": "/tmp/news_lk2/articles/1c/1c80651d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/26/kerawalapitiya-bush-fire-contained/",
     "time_ut": 1661528700,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Poultry industry to meet Minister today (22)",
     "file_name": "/tmp/news_lk2/articles/bd/bd39be88.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0d82\u0da0\u0dcf-\u0dc4\u0dcf-\u0daf\u0dd6\u0dc2\u0dab-\u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd4\u0dab\u0ddc\u0dad\u0dca-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0d9c\u0db1\u0dca\u0db1-\u0dbd\u0ddc\u0dca\u0d9a-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda-\u0dc3\u0dbd\u0dca\u0dbd\u0dd2-\u0db1\u0dd1/11-396499",
-    "time_ut": 1661143984,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0d82\u0da0\u0dcf \u0dc4\u0dcf \u0daf\u0dd6\u0dc2\u0dab \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd4\u0dab\u0ddc\u0dad\u0dca \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0d9c\u0db1\u0dca\u0db1 \u0dbd\u0ddc\u0dca\u0d9a \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda \u0dc3\u0dbd\u0dca\u0dbd\u0dd2 \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/f8/f82a6cf3.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8-\u0dc0\u0dd9\u0dbb\u0dc5\u0dd9\u0db1\u0dca-\u0d96\u0dc2\u0db0-\u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-396498",
-    "time_ut": 1661143933,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0dc0\u0dd9\u0dbb\u0dc5\u0dd9\u0db1\u0dca \u0d96\u0dc2\u0db0 \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/62/623da86d.json"
   }
 ]

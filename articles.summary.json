@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/fr-against-privatizing-filling-stations/",
+    "time_ut": 1661528940,
+    "original_lang": "en",
+    "original_title": "FR against privatizing filling stations",
+    "file_name": "/tmp/news_lk2/articles/67/67dc1b0e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/fr-against-mudalige-s-detention-filed-with-supreme-court/",
+    "time_ut": 1661528880,
+    "original_lang": "en",
+    "original_title": "FR against Mudalige\u2019s detention filed with Supreme Court",
+    "file_name": "/tmp/news_lk2/articles/1c/1c80651d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/26/kerawalapitiya-bush-fire-contained/",
     "time_ut": 1661528700,
     "original_lang": "en",
