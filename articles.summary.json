@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/114-covid-cases-reported-on-thursday-25/",
+    "time_ut": 1661496900,
+    "original_lang": "en",
+    "original_title": "114 COVID cases reported on Thursday (25)",
+    "file_name": "/tmp/news_lk2/articles/d1/d11d4767.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/communist-party-slams-use-of-pta/",
+    "time_ut": 1661496720,
+    "original_lang": "en",
+    "original_title": "Communist Party slams use of PTA",
+    "file_name": "/tmp/news_lk2/articles/8a/8a74677e.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc7-\u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/50-303033",
     "time_ut": 1661495949,
@@ -65,11 +81,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Conditional-pardon-for-Ranjan-relevant-documents-signed/342-243781",
+    "url": "https://www.dailymirror.lk/breaking_news/Conditional-pardon-for-Ranjan-relevant-documents-signed/108-243781",
     "time_ut": 1661493627,
     "original_lang": "en",
     "original_title": "Conditional pardon for Ranjan; relevant documents signed",
-    "file_name": "/tmp/news_lk2/articles/87/87f47612.json"
+    "file_name": "/tmp/news_lk2/articles/6b/6bab4c41.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -78,6 +94,14 @@
     "original_lang": "en",
     "original_title": "Conditional presidential pardon for Ranjan; relevant documents signed",
     "file_name": "/tmp/news_lk2/articles/48/480cf13a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0da7-\u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dd9\u0dc3\u0dd2--\u0dc3\u0dc4\u0dd2\u0dad-\u0dc3\u0db8\u0dcf\u0dc0\u0d9a\u0dca/11-396623",
+    "time_ut": 1661493561,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0da7 \u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dd9\u0dc3\u0dd2  \u0dc3\u0dc4\u0dd2\u0dad \u0dc3\u0db8\u0dcf\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/87/878c25ea.json"
   },
   {
     "newspaper_id": "economy-next-com",
