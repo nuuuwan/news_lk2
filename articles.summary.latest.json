@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca-\u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7\u0dad\u0dca-\u0d9a\u0dab-\u0d9a\u0ddc\u0d9a\u0dcf/101-618768",
+    "time_ut": 1661478318,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7\u0dad\u0dca \u0d9a\u0dab \u0d9a\u0ddc\u0d9a\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/7e/7e24215e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf-300\u0d9a\u0dca-\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca-\u0d9a\u0dbb\u0dab\u0dba\u0da7/101-618767",
+    "time_ut": 1661478120,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf 300\u0d9a\u0dca \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dab\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/1f/1fd31833.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84546/fairly-heavy-rainfall-possible-in-parts-of-the-island",
+    "time_ut": 1661478060,
+    "original_lang": "en",
+    "original_title": "Fairly heavy rainfall possible in parts of the island",
+    "file_name": "/tmp/news_lk2/articles/10/102ae28a.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Ranil-s-perilous-authoritarian-alternative/4-739124",
     "time_ut": 1661472075,
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u2019\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb \u0d9c\u0dd0\u0dc3\u0da7\u0dca\u0da7\u0dd4\u0dc0\u2019 \u0dbb\u0dd2\u0dc0\u0dc3\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca \u0db1\u0dd1",
     "file_name": "/tmp/news_lk2/articles/b9/b9afd08e.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca-\u0d85\u0da7\u0d9a-\u0db4\u0dd4\u0dbb\u0db1\u0dca-\u0d9a\u0dd4\u0db9\u0dd4\u0dbb\u0dd4-\u0db6\u0dd2\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0da7-\u0db6\u0dc3\u0dca\u0dc3\u0dba\u0dd2/101-618471",
-    "time_ut": 1661063325,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0d85\u0da7\u0d9a \u0db4\u0dd4\u0dbb\u0db1\u0dca \u0d9a\u0dd4\u0db9\u0dd4\u0dbb\u0dd4 \u0db6\u0dd2\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0da7 \u0db6\u0dc3\u0dca\u0dc3\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/45/4569a267.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/CPC-trade-unions-to-engage-in-protests-tomorrow/108-243434",
-    "time_ut": 1661063205,
-    "original_lang": "en",
-    "original_title": "CPC trade unions to engage in protests tomorrow",
-    "file_name": "/tmp/news_lk2/articles/51/51ed0682.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba-\u0db1\u0ddc\u0db6\u0dd2\u0dba\u0dc0-\u0db7\u0dcf\u0dbb\u0d9c\u0dad\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dda-\u0dc3\u0dc4\u0dcf\u0dba-\u0d95\u0db1----\u0db8\u0dc4\u0dcf-\u0dc3\u0d82\u0d9d\u0dbb\u0dad\u0dca\u0db1\u0dba/11-396483",
-    "time_ut": 1661063195,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba \u0db1\u0ddc\u0db6\u0dd2\u0dba\u0dc0 \u0db7\u0dcf\u0dbb\u0d9c\u0dad\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dda \u0dc3\u0dc4\u0dcf\u0dba \u0d95\u0db1  - \u0db8\u0dc4\u0dcf \u0dc3\u0d82\u0d9d\u0dbb\u0dad\u0dca\u0db1\u0dba",
-    "file_name": "/tmp/news_lk2/articles/24/24c8fbca.json"
   }
 ]
