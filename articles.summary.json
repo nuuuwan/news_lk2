@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0dc4\u0dd2\u0d9f\u0dba\u0da7-\u0dad\u0dc0\u0db8\u0dad\u0dca-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0d9a\u0dca-\u0db1\u0dd1/101-618785",
+    "time_ut": 1661502544,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0dc4\u0dd2\u0d9f\u0dba\u0da7 \u0dad\u0dc0\u0db8\u0dad\u0dca \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0d9a\u0dca \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/4a/4acced5d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/uk-foreign-office-relaxes-travel-advisory-to-sri-lanka/",
+    "time_ut": 1661502480,
+    "original_lang": "en",
+    "original_title": "UK Foreign Office relaxes travel advisory to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/e2/e24ea010.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/will-the-world-help-sri-lanka-to-ease-its-human-rights-crisis-in-generva-ambassador/",
+    "time_ut": 1661501580,
+    "original_lang": "en",
+    "original_title": "\u2018Will the world help Sri Lanka to ease its human rights crisis in Generva?\u201d \u2013 Ambassador",
+    "file_name": "/tmp/news_lk2/articles/c5/c5d24ca4.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/several-european-governments-relax-travel-advisories-issued-for-sri-lanka-99054/",
     "time_ut": 1661500680,
