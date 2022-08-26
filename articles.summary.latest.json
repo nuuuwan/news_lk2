@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/sri-lanka-want-to-increase-visitors-from-china/",
+    "time_ut": 1661499780,
+    "original_lang": "en",
+    "original_title": "Sri Lanka want to increase visitors from China",
+    "file_name": "/tmp/news_lk2/articles/96/96c98d91.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84552/document-pertaining-to-ranjans-release-handed-over-to-prison-officials",
     "time_ut": 1661499360,
@@ -158,6 +166,14 @@
     "original_lang": "en",
     "original_title": "UK lifts advisory against all but essential travel to Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/6e/6e373e4d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3--\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0d85\u0dad-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0db8\u0dd6\u0dc5\u0dd4\u0dc0\u0d9a\u0dca/11-396622",
+    "time_ut": 1661493224,
+    "original_lang": "si",
+    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3  \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0d85\u0dad \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dd6\u0dc5\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/1f/1f874dc1.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ceylinco Insurance \u2018Most Respected Insurer\u2019 in Sri Lanka for yet another year",
     "file_name": "/tmp/news_lk2/articles/b4/b4067496.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/prime-lending-rate-spikes-to-25-68/",
-    "time_ut": 1661088060,
-    "original_lang": "en",
-    "original_title": "Prime Lending Rate spikes to 25.68%",
-    "file_name": "/tmp/news_lk2/articles/f1/f1ec4f03.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/ranil-sajith-2nd-round-of-talks-couldnt-come-at-a-better-time/",
-    "time_ut": 1661088000,
-    "original_lang": "en",
-    "original_title": "Ranil, Sajith 2nd round of talks couldn\u2019t come at a better time",
-    "file_name": "/tmp/news_lk2/articles/6c/6c3127ef.json"
   }
 ]
