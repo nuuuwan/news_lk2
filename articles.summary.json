@@ -1,5 +1,77 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0da7\u0dd2-\u0dc4\u0dd0\u0da7\u0dd2\u0dba\u0dda\u0db8-\u0dc0\u0dd9\u0db1\u0dc3\u0dca-\u0dc0\u0dd6-\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba/11-396645",
+    "time_ut": 1661530873,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd2\u0da7\u0dd2 \u0dc4\u0dd0\u0da7\u0dd2\u0dba\u0dda\u0db8 \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0\u0dd6 \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba",
+    "file_name": "/tmp/news_lk2/articles/43/4392c5c2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/china-scholarships-for-lankan-students/",
+    "time_ut": 1661530800,
+    "original_lang": "en",
+    "original_title": "China scholarships for Lankan students",
+    "file_name": "/tmp/news_lk2/articles/5c/5c8f23a1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/linking-lives-and-villages-gammadda-launches-bridge-construction-in-remote-kegalle/",
+    "time_ut": 1661530440,
+    "original_lang": "en",
+    "original_title": "Linking lives and villages: Gammadda launches bridge construction in remote Kegalle",
+    "file_name": "/tmp/news_lk2/articles/2f/2f853c68.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/sri-lankas-reviews-renewable-energy-plans/",
+    "time_ut": 1661530020,
+    "original_lang": "en",
+    "original_title": "Sri Lankas reviews Renewable Energy Plans",
+    "file_name": "/tmp/news_lk2/articles/2a/2a2b40d3.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84564/ranjan-accepts-new-position-as-goodwill-ambassador-for-migrant-workers",
+    "time_ut": 1661529900,
+    "original_lang": "en",
+    "original_title": "Ranjan accepts new position as goodwill ambassador for migrant workers",
+    "file_name": "/tmp/news_lk2/articles/f1/f1bc1afb.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/coal-tender-awarded-to-lowest-bidder/",
+    "time_ut": 1661529600,
+    "original_lang": "en",
+    "original_title": "Coal Tender awarded to lowest bidder",
+    "file_name": "/tmp/news_lk2/articles/f5/f5384009.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/children-need-to-be-at-heart-of-resolving-sl-crisis-unicef-regional-director/",
+    "time_ut": 1661529360,
+    "original_lang": "en",
+    "original_title": "Children need to be at heart of resolving SL crisis: UNICEF regional director",
+    "file_name": "/tmp/news_lk2/articles/92/92977daf.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/sri-lanka-welcomes-easing-travel-restrictions/",
+    "time_ut": 1661529240,
+    "original_lang": "en",
+    "original_title": "Sri Lanka welcomes easing travel restrictions",
+    "file_name": "/tmp/news_lk2/articles/3c/3ceef531.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/complaint-filed-against-slpp-mps-comments/",
+    "time_ut": 1661529180,
+    "original_lang": "en",
+    "original_title": "Complaint filed against SLPP MPs\u2019 comments",
+    "file_name": "/tmp/news_lk2/articles/d1/d1c6ce6d.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/26/fr-against-privatizing-filling-stations/",
     "time_ut": 1661528940,
@@ -358,6 +430,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0db0\u0dd2\u0db6\u0dbd\u0dd0\u0dad\u0dd2 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dbb\u0dd0\u0dc4\u0dd0\u0db1\u0dca \u0d91\u0db4\u0dcf: \u0d85\u0da7\u0dd4\u0dbd\u0dd4\u0d9c\u0db8 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/c9/c91a0053.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca\u0d9c\u0dad-\u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dda-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d91\u0dc0\u0db1\u0dca\u0db1-\u0dba\u0dd9\u0daf\u0dc0\u0dd4\u0db8\u0d9a\u0dca/11-396632",
+    "time_ut": 1661512192,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca\u0d9c\u0dad \u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dda \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d91\u0dc0\u0db1\u0dca\u0db1 \u0dba\u0dd9\u0daf\u0dc0\u0dd4\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/52/529ccefc.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
