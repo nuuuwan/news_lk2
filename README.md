@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-27 04:44:04 (LK time)*
+*As of 2022-08-27 04:51:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (4 Articles)
+## Last 3 Hours (2 Articles)
 
-* **3** daily-mirror-lk ([Sri Lankans migrating to greener pastures](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/207025cc.json))
+* **1** daily-mirror-lk ([Appapillai Amirthalingam From Enfant Terrible to Elder Statesman](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/892162d2.json))
 
 * **1** tamil-mirror-lk ([நீர் கட்டணம் அதிகரிப்பு: வர்த்தமானி வெளியீடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2f57d62.json))
 
-## Last 24 Hours (200 Articles)
+## Last 24 Hours (198 Articles)
 
 * **47** news-first-lk ([3-hr power cuts today (26)](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3df46537.json))
 
@@ -24,7 +24,7 @@
 
 * **20** ada-derana-lk ([Fairly heavy rainfall possible in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/102ae28a.json))
 
-* **19** daily-ft-lk ([Council for Business with Britain to promote SL as base for UK companies](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3d6e8b3.json))
+* **17** daily-ft-lk ([Hair cuts and hair splitting](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf58d54a.json))
 
 * **12** economy-next-com ([Sri Lanka housing hit by protectionist taxes, monopoly power: Developers](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50c77cd3.json))
 
