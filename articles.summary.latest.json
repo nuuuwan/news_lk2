@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranjan-not-granted-full-freedom-civic-rights-Sajith/108-243814",
+    "time_ut": 1661535041,
+    "original_lang": "en",
+    "original_title": "Ranjan not granted full freedom, civic rights: Sajith",
+    "file_name": "/tmp/news_lk2/articles/52/52c2133d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Freed/342-243813",
+    "time_ut": 1661534891,
+    "original_lang": "en",
+    "original_title": "Freed...",
+    "file_name": "/tmp/news_lk2/articles/16/16d92665.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84565/special-gazette-issued-on-increasing-water-tariffs-from-sep-01",
+    "time_ut": 1661534880,
+    "original_lang": "en",
+    "original_title": "Special gazette issued on increasing water tariffs from Sep 01",
+    "file_name": "/tmp/news_lk2/articles/a4/a46d0774.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Cops-who-took-photos-seated-on-Presidents-chair-face-probe-Police-tell-court/108-243796",
     "time_ut": 1661533480,
     "original_lang": "en",
@@ -113,11 +137,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Govt-should-have-discussed-with-SMEs-before-bringing-import-ban-on-300-consumer-goods-SLUNBA/108-243795",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-should-have-discussed-with-SMEs-before-bringing-import-ban-on-300-consumer-goods-SLUNBA/342-243795",
     "time_ut": 1661527506,
     "original_lang": "en",
     "original_title": "Govt. should have discussed with SMEs before bringing import ban on 300 consumer goods: SLUNBA",
-    "file_name": "/tmp/news_lk2/articles/50/503de2c9.json"
+    "file_name": "/tmp/news_lk2/articles/f9/f9a63da4.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ambalangoda double homicide result of a dispute among criminals",
     "file_name": "/tmp/news_lk2/articles/1b/1bc5280a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-navy-seizes-illegal-prescription-drugs-worth-4-5m-rupees-98851/",
-    "time_ut": 1661147220,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Navy seizes illegal prescription drugs worth 4.5m rupees",
-    "file_name": "/tmp/news_lk2/articles/01/01e2cb04.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-navy-seizes-smuggled-medicines-worth-4-5m-rupees-98851/",
-    "time_ut": 1661147220,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Navy seizes smuggled medicines worth 4.5m rupees",
-    "file_name": "/tmp/news_lk2/articles/76/760e250e.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7\u0dda-\u0db6\u0dbd\u0dba-\u0d9c\u0dad-\u0dc4\u0dd0\u0d9a\u0dd2-\u0dc3\u0dd6\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0dd9\u0dc5\u0dd2-\u0d9a\u0dbb\u0dba\u0dd2/101-618519",
-    "time_ut": 1661147176,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0da7\u0dda \u0db6\u0dbd\u0dba \u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2 \u0dc3\u0dd6\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0dd9\u0dc5\u0dd2 \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ac/ac824eeb.json"
   }
 ]
