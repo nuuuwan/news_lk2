@@ -1,20 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 14:50:19 (LK time)*
+*As of 2022-08-26 14:55:12 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** ada-derana-lk ([U.S. donates 3,000 metric tons of food to feed Sri Lankan school children](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9a667f2.json))
-
-* **1** lankadeepa-lk ([රාජ්‍ය අංශයට ලැබෙන වරප්‍රසාද පෞද්ගලික අංශයටද ලැබිය යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d49c9b80.json))
-
-* **1** economy-next-com ([Indians visiting Sri Lanka advised to be cautious of fuel situation, currency convertibility](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/280b0725.json))
-
-* **1** news-first-lk ([U.S. Donates 3,000 metric tons of food to feed Sri Lankan school children](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75a94306.json))
-
-* **1** daily-mirror-lk ([SJB ready to appoint Ranjan to Parliamemnt if vacancy exists in National List: Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff95f8ce.json))
 
 ## Last Hour (9 Articles)
 
@@ -46,17 +38,17 @@
 
 * **2** ada-lk ([නොමිළේ දෙන යුරියා මෙට්‍රික් ටොන් 1000ක් ඉදිරි දෙසතිය තුළ මෙරටට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a974b3db.json))
 
-## Last 24 Hours (191 Articles)
+## Last 24 Hours (188 Articles)
 
-* **36** lankadeepa-lk ([මහ පාරේ උද්ඝෝෂණවලින් ’’සිස්ටම් චේන්ජ්’’ කරන්න බැහැ](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/208483cc.json))
+* **35** lankadeepa-lk ([තවත් කඳුකර කොටියෙක් සමුගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c818d02c.json))
 
 * **32** news-first-lk ([Multiple unapproved Fuel Storage Tanks at business premises – Kanchana](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c7f9c25.json))
 
 * **26** daily-mirror-lk ([Norochcholai Unit 1 to be added to national grid from Monday](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f2fe306.json))
 
-* **23** ada-derana-lk ([Fuel not distributed to businesses sans approval & disregarding guidelines: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ed2628d.json))
-
 * **22** tamil-mirror-lk ([கோழி முட்டை விற்ற 64 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cfb1d77.json))
+
+* **21** ada-derana-lk ([WHO pledges USD 4 million worth medical supplies to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7c34b3c.json))
 
 * **19** ada-lk ([ඉන්ධන යළිත් හිඟ වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2160279a.json))
 
@@ -68,9 +60,9 @@
 
 * **1** d-b-s-jeyaraj-com ([India’s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d409b1cb.json))
 
-## Last Week (1,384 Articles)
+## Last Week (1,383 Articles)
 
-* **263** lankadeepa-lk ([ගෝඨා ආපහු දේශපාලනයට එන එකක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e63f9f18.json))
+* **262** lankadeepa-lk ([සිමෙන්ති නිෂ්පාදන සමාගමෙන් කෝටි තුනක ඇණ මුරුච්චි සොරා ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/353ddd4d.json))
 
 * **189** tamil-mirror-lk ([முட்டை விலை குறைகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2b1f921.json))
 
