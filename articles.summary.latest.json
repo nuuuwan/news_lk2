@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/showers-over-50mm-expected-today-26/",
+    "time_ut": 1661481960,
+    "original_lang": "en",
+    "original_title": "Showers over 50mm expected today (26)",
+    "file_name": "/tmp/news_lk2/articles/e7/e70d35e0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/3-hr-power-cuts-today-26/",
+    "time_ut": 1661481420,
+    "original_lang": "en",
+    "original_title": "3-hr power cuts today (26)",
+    "file_name": "/tmp/news_lk2/articles/3d/3df46537.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4-\u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bbe\u0ba9-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc7-\u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd/175-303021",
+    "time_ut": 1661480677,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bbe\u0ba9 \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc7 \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/16/16c0fcec.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b89\u0bb3\u0bcd\u0bb3-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-303020",
+    "time_ut": 1661480163,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/ae/aee3b149.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd-\u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-303019",
+    "time_ut": 1661478750,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/70/70914fd0.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca-\u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7\u0dad\u0dca-\u0d9a\u0dab-\u0d9a\u0ddc\u0d9a\u0dcf/101-618768",
     "time_ut": 1661478318,
@@ -113,6 +153,38 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business__main/Rooftop-solar-sector-demands-substantial-tariff-hike/245-243759",
+    "time_ut": 1661466271,
+    "original_lang": "en",
+    "original_title": "Rooftop solar sector demands substantial tariff hike",
+    "file_name": "/tmp/news_lk2/articles/d3/d3355b06.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Morison-begins-local-production-of-three-high-in-demand-medicines/273-243757",
+    "time_ut": 1661466104,
+    "original_lang": "en",
+    "original_title": "Morison begins local production of three high-in-demand medicines",
+    "file_name": "/tmp/news_lk2/articles/ed/edd0cef0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Poor-decisions-could-kill-egg-exports-from-Sri-Lanka-says-industry/273-243755",
+    "time_ut": 1661465931,
+    "original_lang": "en",
+    "original_title": "Poor decisions could kill egg exports from Sri Lanka, says industry",
+    "file_name": "/tmp/news_lk2/articles/46/462b89eb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/SL-to-welcome-more-Swiss-travellers-this-winter-with-travel-advisory-easing/273-243753",
+    "time_ut": 1661465776,
+    "original_lang": "en",
+    "original_title": "\u200bSL to welcome more Swiss travellers this winter with travel advisory easing",
+    "file_name": "/tmp/news_lk2/articles/e2/e221f16a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/The-place-for-law-in-a-country-obsessed-WITH-peace-and-religion-EDITORIAL/231-243751",
     "time_ut": 1661462025,
     "original_lang": "en",
@@ -192,6 +264,14 @@
     "file_name": "/tmp/news_lk2/articles/af/afd1333e.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79166",
+    "time_ut": 1661447160,
+    "original_lang": "en",
+    "original_title": "India\u2019s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People",
+    "file_name": "/tmp/news_lk2/articles/d4/d409b1cb.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84543/sri-lanka-reports-6-more-covid-19-deaths-114-new-cases",
     "time_ut": 1661444820,
@@ -206,6 +286,14 @@
     "original_lang": "en",
     "original_title": "Gotabaya Rajapaksa may return to Sri Lanka on 3rd September \u2013 Udayanga",
     "file_name": "/tmp/news_lk2/articles/fd/fd7489e6.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/1924--\u0db4\u0dc3\u0dd4\u0dc0-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda-\u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd6-\u0dc0\u0dd9\u0db1\u0dc3/11-396617",
+    "time_ut": 1661443301,
+    "original_lang": "si",
+    "original_title": "1924  \u0db4\u0dc3\u0dd4\u0dc0 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd6 \u0dc0\u0dd9\u0db1\u0dc3",
+    "file_name": "/tmp/news_lk2/articles/26/26fd6c18.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7910,93 +7998,5 @@
     "original_lang": "en",
     "original_title": "Nine Senior Brigadiers promoted as Major Generals",
     "file_name": "/tmp/news_lk2/articles/2b/2bd3e87d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84435/two-arrested-over-shooting-inside-mount-lavinia-court",
-    "time_ut": 1661068620,
-    "original_lang": "en",
-    "original_title": "Two arrested over shooting inside Mount Lavinia court",
-    "file_name": "/tmp/news_lk2/articles/f1/f1948067.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dd4\u0db1\u0dbb\u0dca\u0da2\u0db1\u0db1\u0dd3\u0dba-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0da7-\u0d9c\u0dd9\u0dc0\u0dd2\u0dba-\u0dba\u0dd4\u0dad\u0dd4-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-28-\u0dc0\u0dc4\u0dcf-\u0d9c\u0dd9\u0dc0\u0db1\u0dca\u0db1/1-618474",
-    "time_ut": 1661067717,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dd4\u0db1\u0dbb\u0dca\u0da2\u0db1\u0db1\u0dd3\u0dba \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0da7 \u0d9c\u0dd9\u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 28 \u0dc0\u0dc4\u0dcf \u0d9c\u0dd9\u0dc0\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/99/996f65fc.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-sapugaskanda-oil-refinery-to-run-for-40-days-with-two-oil-shipments-98827/",
-    "time_ut": 1661067600,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s Sapugaskanda oil refinery to run for 40-days with two oil shipments",
-    "file_name": "/tmp/news_lk2/articles/ab/abc1551e.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/175-302726",
-    "time_ut": 1661067134,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/77/774a0666.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0ba4\u0bc0-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0b8e\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9/76-302725",
-    "time_ut": 1661066684,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0ba4\u0bc0;   \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9",
-    "file_name": "/tmp/news_lk2/articles/be/be5d60fc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Poultry-farmers-to-ignore-price-control-on-eggs/108-243435",
-    "time_ut": 1661066134,
-    "original_lang": "en",
-    "original_title": "Poultry farmers to ignore price control on eggs",
-    "file_name": "/tmp/news_lk2/articles/11/1128971a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dbd\u0dd4-\u0dad\u0dd0\u0db6\u0dd6-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0db1\u0dca-60\u0d9a\u0d9c\u0dda-\u0dc0\u0dad\u0dd4\u0dbb-\u0d9a\u0dd0\u0db4\u0dd9\u0dba\u0dd2/1-618473",
-    "time_ut": 1661065953,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddc\u0dbd\u0dd4 \u0dad\u0dd0\u0db6\u0dd6 \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0db1\u0dca 60\u0d9a\u0d9c\u0dda \u0dc0\u0dad\u0dd4\u0dbb \u0d9a\u0dd0\u0db4\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ad/adb2671a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/21/govt-focuses-on-control-price-for-chicken/",
-    "time_ut": 1661065680,
-    "original_lang": "en",
-    "original_title": "Govt focuses on control price for chicken",
-    "file_name": "/tmp/news_lk2/articles/46/468bdcb0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84434/208-sri-lanka-flights-stopped-in-kerala-for-refuelling-since-may-",
-    "time_ut": 1661065680,
-    "original_lang": "en",
-    "original_title": "208 Sri Lanka flights stopped in Kerala for refuelling since May",
-    "file_name": "/tmp/news_lk2/articles/cc/ccff0c34.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dc0\u0dd4\u0dbb\u0dd4-\u0dc0\u0dd2\u0dbb\u0dd4\u0daf\u0dca\u0db0-\u0dc0\u0dd4\u0dab\u0dad\u0dca-\u0d9b\u0db1\u0dd2\u0da2-\u0dad\u0dd9\u0dbd\u0dca--\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc0\u0dca\u200d\u0dba\u0dd4\u0dc4\u0d9c\u0dad-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/1-618472",
-    "time_ut": 1661065293,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dc0\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd2\u0dbb\u0dd4\u0daf\u0dca\u0db0 \u0dc0\u0dd4\u0dab\u0dad\u0dca \u0d9b\u0db1\u0dd2\u0da2 \u0dad\u0dd9\u0dbd\u0dca  \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc0\u0dca\u200d\u0dba\u0dd4\u0dc4\u0d9c\u0dad \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/62/62c36d28.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u2019\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb-\u0d9c\u0dd0\u0dc3\u0da7\u0dca\u0da7\u0dd4\u0dc0\u2019-\u0dbb\u0dd2\u0dc0\u0dc3\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca-\u0db1\u0dd1/11-396484",
-    "time_ut": 1661065006,
-    "original_lang": "si",
-    "original_title": "\u2019\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb \u0d9c\u0dd0\u0dc3\u0da7\u0dca\u0da7\u0dd4\u0dc0\u2019 \u0dbb\u0dd2\u0dc0\u0dc3\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/b9/b9afd08e.json"
   }
 ]

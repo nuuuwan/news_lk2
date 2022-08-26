@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/showers-over-50mm-expected-today-26/",
+    "time_ut": 1661481960,
+    "original_lang": "en",
+    "original_title": "Showers over 50mm expected today (26)",
+    "file_name": "/tmp/news_lk2/articles/e7/e70d35e0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/3-hr-power-cuts-today-26/",
+    "time_ut": 1661481420,
+    "original_lang": "en",
+    "original_title": "3-hr power cuts today (26)",
+    "file_name": "/tmp/news_lk2/articles/3d/3df46537.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4-\u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bbe\u0ba9-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc7-\u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd/175-303021",
+    "time_ut": 1661480677,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bbe\u0ba9 \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc7 \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/16/16c0fcec.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b89\u0bb3\u0bcd\u0bb3-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-303020",
+    "time_ut": 1661480163,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/ae/aee3b149.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd-\u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-303019",
+    "time_ut": 1661478750,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/70/70914fd0.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca-\u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7\u0dad\u0dca-\u0d9a\u0dab-\u0d9a\u0ddc\u0d9a\u0dcf/101-618768",
     "time_ut": 1661478318,
@@ -113,6 +153,38 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business__main/Rooftop-solar-sector-demands-substantial-tariff-hike/245-243759",
+    "time_ut": 1661466271,
+    "original_lang": "en",
+    "original_title": "Rooftop solar sector demands substantial tariff hike",
+    "file_name": "/tmp/news_lk2/articles/d3/d3355b06.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Morison-begins-local-production-of-three-high-in-demand-medicines/273-243757",
+    "time_ut": 1661466104,
+    "original_lang": "en",
+    "original_title": "Morison begins local production of three high-in-demand medicines",
+    "file_name": "/tmp/news_lk2/articles/ed/edd0cef0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Poor-decisions-could-kill-egg-exports-from-Sri-Lanka-says-industry/273-243755",
+    "time_ut": 1661465931,
+    "original_lang": "en",
+    "original_title": "Poor decisions could kill egg exports from Sri Lanka, says industry",
+    "file_name": "/tmp/news_lk2/articles/46/462b89eb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/SL-to-welcome-more-Swiss-travellers-this-winter-with-travel-advisory-easing/273-243753",
+    "time_ut": 1661465776,
+    "original_lang": "en",
+    "original_title": "\u200bSL to welcome more Swiss travellers this winter with travel advisory easing",
+    "file_name": "/tmp/news_lk2/articles/e2/e221f16a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/The-place-for-law-in-a-country-obsessed-WITH-peace-and-religion-EDITORIAL/231-243751",
     "time_ut": 1661462025,
     "original_lang": "en",
@@ -192,6 +264,14 @@
     "file_name": "/tmp/news_lk2/articles/af/afd1333e.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79166",
+    "time_ut": 1661447160,
+    "original_lang": "en",
+    "original_title": "India\u2019s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People",
+    "file_name": "/tmp/news_lk2/articles/d4/d409b1cb.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84543/sri-lanka-reports-6-more-covid-19-deaths-114-new-cases",
     "time_ut": 1661444820,
@@ -206,6 +286,14 @@
     "original_lang": "en",
     "original_title": "Gotabaya Rajapaksa may return to Sri Lanka on 3rd September \u2013 Udayanga",
     "file_name": "/tmp/news_lk2/articles/fd/fd7489e6.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/1924--\u0db4\u0dc3\u0dd4\u0dc0-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda-\u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd6-\u0dc0\u0dd9\u0db1\u0dc3/11-396617",
+    "time_ut": 1661443301,
+    "original_lang": "si",
+    "original_title": "1924  \u0db4\u0dc3\u0dd4\u0dc0 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd6 \u0dc0\u0dd9\u0db1\u0dc3",
+    "file_name": "/tmp/news_lk2/articles/26/26fd6c18.json"
   },
   {
     "newspaper_id": "news-first-lk",

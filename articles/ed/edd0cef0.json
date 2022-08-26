@@ -1,0 +1,840 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/business-news/Morison-begins-local-production-of-three-high-in-demand-medicines/273-243757",
+  "time_ut": 1661466104,
+  "original_lang": "en",
+  "original_title": "Morison begins local production of three high-in-demand medicines",
+  "text_idx": {
+    "en": {
+      "title": "Morison begins local production of three high-in-demand medicines",
+      "author": "unknown",
+      "body_lines": [
+        "Marking milestone in the local pharmaceutical industry, Hemas Group subsidiary Morison Ltd recently commenced manufacturing of Bisoprolol tablets B.P. 5mg 250s, Ros-10 (Rosuvastatin tablets I.P. 10mg 30s blister),and ChlorMor (Chlorphenamine tablets B.P. 4mg 100s blister).",
+        "These high-in-demand medicines are now more affordable and accessible to Sri Lankans, the supply of which does not have to depend on imports.",
+        "For the first time in Sri Lanka, Bisoprolol 5 mg tablets are now being manufactured locally by Morison and supplied to the Medical Supplies Division for the use in government hospitals. Used as a treatment for high blood pressure and other cardiovascular conditions, the annual requirement of Bisoprolol in the government sector is around 40 million tablets, which was being imported to-date.",
+        "By producing the same locally, Morison is able to make a significant forex saving for the national economy during these unprecedented times. Plans are underway to make Bisoprolol B.P. 2.5mg and 5 mg available in all leading pharmacies as a branded medication in due course, to enable purchasing through a valid prescription.",
+        "The second new product launched, Ros-10 (Rosuvastatin tablets I.P. 10mg 30s blister) is used to treat high blood cholesterol, a risk factor for cardiovascular disease. Morison launched Ros-10at approximately half of the current weighted average market price, offering significant savings to Sri Lankans.",
+        "The third latest addition to the Morison portfolio, ChlorMor (Chlorphenamine tablets B.P. 4mg 100s blister) is an oral antihistamine that helps to relieve symptoms of allergies. This too was launched at a price less than the prevailing similar products in the market.",
+        "\u201cThis indeed is a key milestone for Morison as well as the pharmaceutical manufacturing industry in the country. We commenced operations of our latest state-of-the-art manufacturing and research facility in Homagama in May this year, which is the largest investment to-date in the pharmaceutical manufacturing industry in Sri Lanka. This will be a great boost for the pharmaceutical supply of the country during this crucial hour,\u201d Morison Limited Managing Director Dinesh Athapaththu said.",
+        "Being the first and largest general oral solid dosage (OSD) and oral liquid dosage (OLD) manufacturing facility in compliance with WHO GMP and EU GMP infrastructure and quality management systems in Sri Lanka, the Morison\u2019s second manufacturing facility in Homagama, has the inbuilt capacity to produce 5 billion tablets and 2 million litres of liquids per annum, which is equivalent to 40 percent of the national annual general OSD demand in Sri Lanka.",
+        "Prior to introducing Ros-10, Bisoprolol and ChlorMor, Morison launched the first ever locally manufactured SGLT2 molecule (Sodium-glucose cotransporter-2), Empagliflozin tablets 10mg and 25mg in 2021. An oral medication to treat Type 2 diabetes, this was launched at approximately 50 percent price advantage from the market."
+      ],
+      "title_ents": [
+        {
+          "text": "Morison",
+          "label": "PERSON"
+        },
+        {
+          "text": "three",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Hemas Group",
+            "label": "ORG"
+          },
+          {
+            "text": "Morison Ltd",
+            "label": "ORG"
+          },
+          {
+            "text": "B.P. 5mg",
+            "label": "ORG"
+          },
+          {
+            "text": "Ros-10",
+            "label": "PERSON"
+          },
+          {
+            "text": "Rosuvastatin",
+            "label": "NORP"
+          },
+          {
+            "text": "I.P. 10",
+            "label": "ORG"
+          },
+          {
+            "text": "30s",
+            "label": "DATE"
+          },
+          {
+            "text": "ChlorMor",
+            "label": "ORG"
+          },
+          {
+            "text": "Chlorphenamine",
+            "label": "ORG"
+          },
+          {
+            "text": "B.P. 4mg 100s",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lankans",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Morison",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Medical Supplies Division",
+            "label": "ORG"
+          },
+          {
+            "text": "annual",
+            "label": "DATE"
+          },
+          {
+            "text": "around 40 million",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Morison",
+            "label": "PERSON"
+          },
+          {
+            "text": "Bisoprolol B.P.",
+            "label": "PERSON"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "second",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Ros-10",
+            "label": "PERSON"
+          },
+          {
+            "text": "Rosuvastatin",
+            "label": "NORP"
+          },
+          {
+            "text": "I.P. 10",
+            "label": "ORG"
+          },
+          {
+            "text": "30s",
+            "label": "DATE"
+          },
+          {
+            "text": "Sri Lankans",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "third",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Morison",
+            "label": "NORP"
+          },
+          {
+            "text": "ChlorMor",
+            "label": "ORG"
+          },
+          {
+            "text": "Chlorphenamine",
+            "label": "ORG"
+          },
+          {
+            "text": "B.P. 4mg 100s",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Morison",
+            "label": "PERSON"
+          },
+          {
+            "text": "May this year",
+            "label": "DATE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "this crucial hour",
+            "label": "TIME"
+          },
+          {
+            "text": "Dinesh Athapaththu",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "OSD",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "second",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Homagama",
+            "label": "ORG"
+          },
+          {
+            "text": "5 billion",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "40 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "OSD",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "ChlorMor",
+            "label": "ORG"
+          },
+          {
+            "text": "Morison",
+            "label": "PERSON"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "SGLT2",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "Empagliflozin",
+            "label": "PERSON"
+          },
+          {
+            "text": "10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "25",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "approximately 50 percent",
+            "label": "PERCENT"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0db8\u0ddc\u0dbb\u0dd2\u0dc3\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0d96\u0dc2\u0db0 \u0dad\u0dd4\u0db1\u0d9a \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0d96\u0dc2\u0db0 \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dda \u0dc3\u0db1\u0dca\u0db0\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0d9a\u0dca \u0dc3\u0db1\u0dd2\u0da7\u0dd4\u0dc4\u0db1\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0dc4\u0dda\u0db8\u0dcf\u0dc3\u0dca \u0dc3\u0db8\u0dd6\u0dc4 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba\u0dda \u0d85\u0db1\u0dd4\u0db6\u0daf\u0dca\u0db0 \u0db8\u0ddc\u0dbb\u0dd2\u0dc3\u0db1\u0dca \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca Bisoprolol \u0db4\u0dd9\u0dad\u0dd2 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba\u0daf\u0dcf \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3. 5mg 250s, Ros-10 (Rosuvastatin tablets I.P. 10mg 30s blister), \u0dc3\u0dc4 ChlorMor (Chlorphenamine tablets B.P. 4mg 100s blister).",
+        "\u0db8\u0dd9\u0db8 \u0d89\u0dc4\u0dc5 \u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0d96\u0dc2\u0db0 \u0daf\u0dd0\u0db1\u0dca \u0dc0\u0da9\u0dcf\u0dad\u0dca \u0daf\u0dd0\u0dbb\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0db8\u0dd2\u0dbd\u0d9a\u0da7 \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1 \u0dc0\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0d85\u0dad\u0dbb, \u0d92\u0dc0\u0dcf\u0dba\u0dda \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8 \u0d86\u0db1\u0dba\u0db1\u0dba \u0db8\u0dad \u0dba\u0dd0\u0db4\u0dd9\u0db1\u0dca\u0db1\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db1\u0ddc\u0dc0\u0dda.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc0\u0dad\u0dcf\u0dc0\u0da7 Bisoprolol 5 mg \u0db4\u0dd9\u0dad\u0dd2 \u0daf\u0dd0\u0db1\u0dca Morison \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0daf\u0dda\u0dc1\u0dd3\u0dba\u0dc0 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dbb \u0dbb\u0da2\u0dba\u0dda \u0dbb\u0ddd\u0dc4\u0dbd\u0dca\u0dc0\u0dbd \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8\u0dca \u0d85\u0d82\u0dc1\u0dba \u0dc0\u0dd9\u0dad \u0dc3\u0db4\u0dba\u0db1\u0dd4 \u0dbd\u0dd0\u0db6\u0dda. \u0d85\u0db0\u0dd2 \u0dbb\u0dd4\u0db0\u0dd2\u0dbb \u0db4\u0dd3\u0da9\u0db1\u0dba \u0dc3\u0dc4 \u0d85\u0db1\u0dd9\u0d9a\u0dd4\u0dad\u0dca \u0dc4\u0dd8\u0daf \u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0dad\u0dad\u0dca\u0dc0\u0dba\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dbb\u0db1 \u0d85\u0dad\u0dbb, \u0dbb\u0da2\u0dba\u0dda \u0d85\u0d82\u0dc1\u0dba\u0dda \u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a Bisoprolol \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dad\u0dcf\u0dc0\u0dba \u0db4\u0dd9\u0dad\u0dd2 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 40 \u0d9a\u0dca \u0db4\u0db8\u0dab \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0db8\u0dda \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d86\u0db1\u0dba\u0db1\u0dba \u0d9a\u0dd9\u0dbb\u0dda.",
+        "\u0d91\u0dba\u0db8 \u0daf\u0dda\u0dc1\u0dd3\u0dba\u0dc0 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dd9\u0db1\u0dca, \u0db8\u0dd9\u0db8 \u0db4\u0dd9\u0dbb \u0db1\u0ddc\u0dc0\u0dd6 \u0dc0\u0dd2\u0dbb\u0dd6 \u0d9a\u0dcf\u0dbd\u0dc0\u0dbd\u0daf\u0dd3 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba \u0d89\u0dad\u0dd2\u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db8\u0ddc\u0dbb\u0dd2\u0dc3\u0db1\u0dca\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0dda. Bisoprolol B.P \u0db6\u0dc0\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dad\u0dd3. 2.5mg \u0dc3\u0dc4 5 mg \u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0db6\u0dd9\u0dc4\u0dd9\u0dad\u0dca \u0dc0\u0da7\u0dca\u0da7\u0ddd\u0dbb\u0dd4\u0dc0\u0d9a\u0dca \u0dc4\u0dbb\u0dc4\u0dcf \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b \u0d94\u0dc3\u0dd4\u0dc3\u0dd0\u0dbd\u0dca \u0dc0\u0dbd \u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0d9c\u0dad \u0d96\u0dc2\u0db0\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0dc0\u0dda\u0dbd\u0dcf\u0dc0\u0da7 \u0dbd\u0db6\u0dcf \u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2\u0dba.",
+        "\u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0daf\u0dd9\u0dc0\u0db1 \u0db1\u0dc0 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0dc0\u0db1 Ros-10 (Rosuvastatin tablets I.P. 10mg 30s blister) \u0dc4\u0dd8\u0daf \u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0dbb\u0ddd\u0d9c \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dca \u0dc3\u0dcf\u0db0\u0d9a\u0dba\u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0db0\u0dd2 \u0dbb\u0dd4\u0db0\u0dd2\u0dbb \u0d9a\u0ddc\u0dbd\u0dd9\u0dc3\u0dca\u0da7\u0dbb\u0ddd\u0dbd\u0dca \u0dc0\u0dbd\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dbb\u0dba\u0dd2. \u0db8\u0ddc\u0dbb\u0dd2\u0dc3\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca Ros-10 \u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dca\u0daf\u0dda \u0dc0\u0dbb\u0dca\u0dad\u0db8\u0dcf\u0db1 \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0db8\u0dd2\u0dbd\u0dd9\u0db1\u0dca \u0d85\u0da9\u0d9a\u0dca \u0db4\u0db8\u0dab \u0dc0\u0db1 \u0d85\u0dad\u0dbb, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0d89\u0dad\u0dd2\u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dcf\u0daf\u0dd9\u0dba\u0dd2.",
+        "Morison portfolio \u0dc3\u0db3\u0dc4\u0dcf \u0dad\u0dd4\u0db1\u0dca\u0dc0\u0db1 \u0db1\u0dc0\u0dad\u0db8 \u0d91\u0d9a\u0dad\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc0\u0db1 ChlorMor (Chlorphenamine tablets B.P. 4mg 100s blister) \u0dba\u0db1\u0dd4 \u0d85\u0dc3\u0dcf\u0dad\u0dca\u0db8\u0dd2\u0d9a\u0dad\u0dcf\u0dc0\u0db1\u0dca\u0d9c\u0dda \u0dbb\u0ddd\u0d9c \u0dbd\u0d9a\u0dca\u0dc2\u0dab \u0dc3\u0db8\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d8b\u0db4\u0d9a\u0dcf\u0dbb\u0dd3 \u0dc0\u0db1 \u0db8\u0dd4\u0d9b \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc4\u0dd2\u0dc3\u0dca\u0da7\u0db8\u0dd2\u0db1\u0dca \u0dc0\u0dbb\u0dca\u0d9c\u0dba\u0d9a\u0dd2. \u0db8\u0dd9\u0dba\u0daf \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dbd\u0dda \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0dc3\u0db8\u0dcf\u0db1 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc0\u0dbd\u0da7 \u0dc0\u0da9\u0dcf \u0d85\u0da9\u0dd4 \u0db8\u0dd2\u0dbd\u0d9a\u0da7 \u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u201c\u0db8\u0dd9\u0dba \u0d87\u0dad\u0dca\u0dad\u0dd9\u0db1\u0dca\u0db8 \u0db8\u0ddc\u0dbb\u0dd2\u0dc3\u0db1\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0da7 \u0db8\u0dd9\u0db1\u0dca\u0db8 \u0db8\u0dd9\u0dbb\u0da7 \u0d96\u0dc2\u0db0 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0da7 \u0daf \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc3\u0db1\u0dca\u0db0\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0d9a\u0dd2. \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d96\u0dc2\u0db0 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dda \u0db8\u0dda \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0dad\u0db8 \u0d86\u0dba\u0ddd\u0da2\u0db1\u0dba \u0dc0\u0db1 \u0dc4\u0ddd\u0db8\u0dcf\u0d9c\u0db8 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0d85\u0db4\u0d9c\u0dda \u0db1\u0dc0\u0dad\u0db8 \u0db1\u0dc0\u0dd3\u0db1\u0dad\u0db8 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc4\u0dcf \u0db4\u0dbb\u0dca\u0dba\u0dda\u0dc2\u0dab \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca \u0d85\u0db4\u0dd2 \u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0db8\u0dd0\u0dba\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dc5\u0dd9\u0db8\u0dd4. \u0db8\u0dd9\u0db8 \u0dad\u0dd3\u0dbb\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db4\u0dd0\u0dba\u0dda\u0daf\u0dd3 \u0dbb\u0da7\u0dda \u0d96\u0dc2\u0db0 \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dd9\u0dba \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0dbb\u0dd4\u0d9a\u0dd4\u0dbd\u0d9a\u0dca \u0dc0\u0db1\u0dd4 \u0d87\u0dad,\u201d \u0db8\u0ddc\u0dbb\u0dd2\u0dc3\u0db1\u0dca \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dcf\u0dbb \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca \u0d85\u0dad\u0db4\u0dad\u0dca\u0dad\u0dd4 \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda WHO GMP \u0dc3\u0dc4 EU GMP \u0dba\u0da7\u0dd2\u0dad\u0dbd \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dc3\u0dc4 \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0 \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dc0\u0dbd\u0da7 \u0d85\u0db1\u0dd4\u0d9a\u0dd6\u0dbd\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc3\u0dc4 \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0dad\u0db8 \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db8\u0dd4\u0d9b \u0d9d\u0db1 \u0db8\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0 (OSD) \u0dc3\u0dc4 \u0db8\u0dd4\u0d9b \u0daf\u0dca\u200d\u0dbb\u0dc0 \u0db8\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0 (OLD) \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8 \u0dc0\u0dd3\u0db8, \u0dc4\u0ddd\u0db8\u0dcf\u0d9c\u0db8 Morison \u0dc4\u0dd2 \u0daf\u0dd9\u0dc0\u0db1 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d89\u0db1\u0dca\u0db6\u0dd2\u0dbd\u0dca\u0da7\u0dca \u0db0\u0dcf\u0dbb\u0dd2\u0dad\u0dcf\u0dc0 \u0d87\u0dad. \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba OSD \u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 40 \u0da7 \u0dc3\u0db8\u0dcf\u0db1 \u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0da7\u0dd0\u0db6\u0dca\u0dbd\u0da7\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 5\u0d9a\u0dca \u0dc3\u0dc4 \u0daf\u0dd2\u0dba\u0dbb \u0dbd\u0dd3\u0da7\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2\u0d9a\u0dca \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7.",
+        "Ros-10, Bisoprolol \u0dc3\u0dc4 ChlorMor \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd3\u0db8\u0da7 \u0db4\u0dd9\u0dbb, Morison \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca 2021 \u0daf\u0dd3 \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc0\u0dbb\u0da7 \u0daf\u0dda\u0dc1\u0dd3\u0dba\u0dc0 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u0daf SGLT2 \u0d85\u0dab\u0dd4\u0dc0 (Sodium-glucose cotransporter-2), Empagliflozin \u0db4\u0dd9\u0dad\u0dd2 10mg \u0dc3\u0dc4 25mg \u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3. \u0db8\u0dd9\u0dba \u0daf\u0dd2\u0dba\u0dc0\u0dd0\u0da9\u0dd2\u0dba\u0dcf \u0dbb\u0ddd\u0d9c\u0dba\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dd4\u0d9b \u0d96\u0dc2\u0db0\u0dba\u0d9a\u0dca \u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3. \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dbd\u0dd9\u0db1\u0dca \u0d86\u0dc3\u0db1\u0dca\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 50 \u0d9a \u0db8\u0dd2\u0dbd \u0dc0\u0dcf\u0dc3\u0dd2\u0dba\u0d9a\u0dca."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0db8\u0ddc\u0dbb\u0dd2\u0dc3\u0db1\u0dca",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0dad\u0dd4\u0db1\u0dca",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc4\u0dda\u0db8\u0dcf\u0dc3\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0dbb\u0dd2\u0dc3\u0db1\u0dca \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dd3.\u0db4\u0dd3. 5 mg",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0ddd\u0dc3-10",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbb\u0ddd\u0dc3\u0dd4\u0dc0\u0dc3\u0dca\u0da7\u0dd0\u0da7\u0dd2\u0db1\u0dca",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d85\u0dba\u0dd2.\u0db4\u0dd3. 10",
+            "label": "ORG"
+          },
+          {
+            "text": "30s",
+            "label": "DATE"
+          },
+          {
+            "text": "ChlorMor",
+            "label": "ORG"
+          },
+          {
+            "text": "Chlorphenamine",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dd3.\u0db4\u0dd3. 4 mg 100s",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0dbb\u0dd2\u0dc3\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc0\u0ddb\u0daf\u0dca\u0dba \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8\u0dca \u0d85\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 40 \u0d9a\u0dca \u0db4\u0db8\u0dab \u0dc0\u0dda",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0ddc\u0dbb\u0dd2\u0dc3\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "Bisoprolol B.P.",
+            "label": "PERSON"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dbb\u0ddd\u0dc3-10",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbb\u0ddd\u0dc3\u0dd4\u0dc0\u0dc3\u0dca\u0da7\u0dd0\u0da7\u0dd2\u0db1\u0dca",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d85\u0dba\u0dd2.\u0db4\u0dd3. 10",
+            "label": "ORG"
+          },
+          {
+            "text": "30s",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0dad\u0dd9\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0dbb\u0dd2\u0dc3\u0db1\u0dca",
+            "label": "NORP"
+          },
+          {
+            "text": "ChlorMor",
+            "label": "ORG"
+          },
+          {
+            "text": "Chlorphenamine",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dd3.\u0db4\u0dd3. 4 mg 100s",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0ddc\u0dbb\u0dd2\u0dc3\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0db8\u0dd0\u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dd9\u0db8 \u0dad\u0dd3\u0dbb\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db4\u0dd0\u0dba",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca \u0d85\u0dad\u0db4\u0dad\u0dca\u0dad\u0dd4",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "OSD",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Homagama",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 5 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 40 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "OSD",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "ChlorMor",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0dbb\u0dd2\u0dc3\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "SGLT2",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0d91\u0db8\u0dca\u0db4\u0dcf\u0d9c\u0dca\u0dbd\u0dd2\u0dc6\u0dca\u0dbd\u0ddc\u0dc3\u0dd2\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "25",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0db1\u0dca\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 50 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bae\u0bcb\u0bb0\u0bbf\u0b9a\u0ba9\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0b89\u0baf\u0bb0\u0bcd-\u0ba4\u0bc7\u0bb5\u0bc8 \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bc2\u0bb0\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b89\u0bb3\u0bcd\u0bb3\u0bc2\u0bb0\u0bcd \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb2\u0bcd\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bb9\u0bc7\u0bae\u0bbe\u0bb8\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bc1\u0ba3\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bbe\u0ba9 \u0bae\u0bcb\u0bb0\u0bbf\u0b9a\u0ba9\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd Bisoprolol \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd B.P. \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1. 5mg 250s, Ros-10 (Rosuvastatin \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd I.P. 10mg 30s \u0b95\u0bca\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bae\u0bcd), \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd ChlorMor (Chlorphenamine \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd B.P. 4mg 100s \u0b95\u0bca\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bae\u0bcd).",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0b85\u0ba4\u0bbf\u0b95 \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bc1\u0b9f\u0bc8\u0baf \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bae\u0bb2\u0bbf\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba3\u0bc1\u0b95\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba9, \u0b87\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 Bisoprolol 5 mg \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 Morison \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bc7\u0baf\u0bc7 \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb0\u0b9a \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9. \u0b89\u0baf\u0bb0\u0bcd \u0b87\u0bb0\u0ba4\u0bcd\u0ba4 \u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb1 \u0b87\u0bb0\u0bc1\u0ba4\u0baf \u0ba8\u0bcb\u0baf\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0b95\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd Bisoprolol \u0b87\u0ba9\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8 \u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 40 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd \u0b86\u0b95\u0bc1\u0bae\u0bcd, \u0b87\u0ba4\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bb5\u0bb0\u0bc8 \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b89\u0bb3\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd, \u0b87\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bcb\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0b95\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0ba3\u0bbf\u0b9a\u0bae\u0bbe\u0ba9 \u0b85\u0ba8\u0bcd\u0ba8\u0bbf\u0baf\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bbe\u0bb5\u0ba3\u0bbf \u0b9a\u0bc7\u0bae\u0bbf\u0baa\u0bcd\u0baa\u0bc8 Morison \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd. Bisoprolol \u0baa\u0bbf.\u0b8e\u0baa\u0bcd. 2.5mg \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 5 mg \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0b9f\u0bcd \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd, \u0b87\u0ba4\u0bc1 \u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bc8 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1, Ros-10 (Rosuvastatin \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd I.P. 10mg 30s \u0b95\u0bca\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bae\u0bcd) \u0b89\u0baf\u0bb0\u0bcd \u0b87\u0bb0\u0ba4\u0bcd\u0ba4 \u0b95\u0bca\u0bb2\u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0b87\u0bb0\u0bc1\u0ba4\u0baf \u0ba8\u0bcb\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0bb0\u0ba3\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd. Morison Ros-10 \u0b90 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1, \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0b8e\u0b9f\u0bc8\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8f\u0bb1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb4 \u0baa\u0bbe\u0ba4\u0bbf, \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0b9a\u0bc7\u0bae\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0bae\u0bcb\u0bb0\u0bbf\u0b9a\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd\u0b83\u0baa\u0bcb\u0bb2\u0bbf\u0baf\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc8, \u0b95\u0bc1\u0bb3\u0bcb\u0bb0\u0bcd\u0bae\u0bcb\u0bb0\u0bcd (\u0b95\u0bc1\u0bb3\u0bcb\u0bb0\u0bcd\u0baa\u0bc6\u0ba9\u0bae\u0bc8\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bbf.\u0baa\u0bbf. 4 \u0bae\u0bbf\u0b95\u0bbf 100s \u0b95\u0bca\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bae\u0bcd) \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0bb5\u0bbe\u0baf\u0bcd\u0bb5\u0bb4\u0bbf \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb9\u0bbf\u0bb8\u0bcd\u0b9f\u0bae\u0bc8\u0ba9\u0bcd \u0b86\u0b95\u0bc1\u0bae\u0bcd, \u0b87\u0ba4\u0bc1 \u0b92\u0bb5\u0bcd\u0bb5\u0bbe\u0bae\u0bc8 \u0b85\u0bb1\u0bbf\u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95 \u0b89\u0ba4\u0bb5\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b87\u0ba4\u0bc1\u0bb5\u0bc1\u0bae\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0ba4\u0bc7 \u0baa\u0bcb\u0ba9\u0bcd\u0bb1 \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0b9f \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0ba9 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\"\u0b87\u0ba4\u0bc1 \u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bca\u0bb0\u0bbf\u0b9a\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb2\u0bcd \u0b86\u0b95\u0bc1\u0bae\u0bcd. \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bb5\u0bb0\u0bc8 \u0bae\u0bbf\u0b95\u0baa\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb9\u0bcb\u0bae\u0bbe\u0b95\u0bae\u0bb5\u0bbf\u0bb2\u0bcd \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba4\u0bbf\u0ba8\u0bb5\u0bc0\u0ba9 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0bb0\u0bbe\u0baf\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0bb5\u0b9a\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc7 \u0bae\u0bbe\u0ba4\u0bae\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bcb\u0bae\u0bcd. \u0b87\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0ba9 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0b8a\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd,\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bca\u0bb0\u0bbf\u0b9a\u0ba9\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba9\u0bb0\u0bcd \u0ba4\u0bbf\u0ba9\u0bc7\u0bb7\u0bcd \u0b85\u0ba4\u0bcd\u0ba4\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd WHO GMP \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd EU GMP \u0b89\u0bb3\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bb0 \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba3\u0b99\u0bcd\u0b95 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bbe\u0baf\u0bcd\u0bb5\u0bb4\u0bbf \u0ba4\u0bbf\u0b9f\u0bae\u0bbe\u0ba9 \u0b85\u0bb3\u0bb5\u0bc1 (OSD) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0baf\u0bcd\u0bb5\u0bb4\u0bbf \u0ba4\u0bbf\u0bb0\u0bb5 \u0b85\u0bb3\u0bb5\u0bc1 (OLD) \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bb5\u0b9a\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bc1, \u0bb9\u0bcb\u0bae\u0bbe\u0b95\u0bae\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 Morison \u0b87\u0ba9\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 2 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf, \u0b87\u0ba4\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bb0\u0bc1\u0b9f\u0bbe\u0ba8\u0bcd\u0ba4 \u0baa\u0bca\u0ba4\u0bc1 OSD \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0ba9\u0bcd 40 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bae\u0bae\u0bbe\u0ba9\u0ba4\u0bbe\u0b95\u0bc1\u0bae\u0bcd.",
+        "Ros-10, Bisoprolol \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd ChlorMor \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1, \u0bae\u0bca\u0bb0\u0bbf\u0b9a\u0ba9\u0bcd 2021 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f SGLT2 \u0bae\u0bc2\u0bb2\u0b95\u0bcd\u0b95\u0bc2\u0bb1\u0bc1 (\u0b9a\u0bcb\u0b9f\u0bbf\u0baf\u0bae\u0bcd-\u0b95\u0bc1\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bcb\u0bb8\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd-2), \u0b8e\u0bae\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0bb3\u0bbf\u0b83\u0baa\u0bcd\u0bb3\u0bcb\u0b9a\u0bbf\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd 10mg \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 25mg \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1. \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 50 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0ba8\u0ba9\u0bcd\u0bae\u0bc8."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bae\u0bcb\u0bb0\u0bbf\u0b9a\u0ba9\u0bcd",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0bb9\u0bc7\u0bae\u0bbe\u0bb8\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bcb\u0bb0\u0bbf\u0b9a\u0ba9\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbf.\u0baa\u0bbf. 5\u0bae\u0bbf.\u0b95\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0bcb\u0bb8\u0bcd-10",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb0\u0bcb\u0b9a\u0bc1\u0bb5\u0bbe\u0bb8\u0bcd\u0b9f\u0bbe\u0b9f\u0bbf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b90.\u0baa\u0bbf. 10",
+            "label": "ORG"
+          },
+          {
+            "text": "30\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb3\u0bcb\u0bb0\u0bcd\u0bae\u0bcb\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb3\u0bcb\u0bb0\u0bcd\u0baa\u0bc6\u0ba9\u0bae\u0bc8\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbf.\u0baa\u0bbf. 4mg 100s",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bcb\u0bb0\u0bbf\u0b9a\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95 \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 40 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bcb\u0bb0\u0bbf\u0b9a\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "Bisoprolol \u0baa\u0bbf.\u0baa\u0bbf.",
+            "label": "PERSON"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0bb0\u0bcb\u0bb8\u0bcd-10",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb0\u0bcb\u0b9a\u0bc1\u0bb5\u0bbe\u0bb8\u0bcd\u0b9f\u0bbe\u0b9f\u0bbf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b90.\u0baa\u0bbf. 10",
+            "label": "ORG"
+          },
+          {
+            "text": "30\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0bae\u0bcb\u0bb0\u0bbf\u0b9a\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb3\u0bcb\u0bb0\u0bcd\u0bae\u0bcb\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb3\u0bcb\u0bb0\u0bcd\u0baa\u0bc6\u0ba9\u0bae\u0bc8\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbf.\u0baa\u0bbf. 4mg 100s",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bcb\u0bb0\u0bbf\u0b9a\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc7",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0ba9\u0bc7\u0bb7\u0bcd \u0b85\u0ba4\u0bcd\u0ba4\u0baa\u0ba4\u0bcd\u0ba4\u0bc1",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "OSD",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Homagama",
+            "label": "ORG"
+          },
+          {
+            "text": "5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "40 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "OSD",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc1\u0bb3\u0bcb\u0bb0\u0bcd\u0bae\u0bcb\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bcb\u0bb0\u0bbf\u0b9a\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "SGLT2",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0b8e\u0bae\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0bb2\u0bbf\u0b83\u0baa\u0bcd\u0bb3\u0bcb\u0b9a\u0bbf\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "25",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bcb\u0bb0\u0bbe\u0baf\u0bae\u0bbe\u0b95 50 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          }
+        ]
+      ]
+    }
+  }
+}
