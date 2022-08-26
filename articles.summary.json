@@ -1,11 +1,67 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/3-hour-power-outages-for-weekend/",
+    "time_ut": 1661513460,
+    "original_lang": "en",
+    "original_title": "3-hour power outages for weekend",
+    "file_name": "/tmp/news_lk2/articles/18/181e1404.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca-\u0daf\u0dd2\u0d9c\u0dd4-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca/1-618801",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0da2\u0db6-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0\u0dda-\u0db4\u0dc5\u0db8\u0dd4-\u0db4\u0dd4\u0dbb\u0db4\u0dca\u0db4\u0dcf\u0da9\u0dd4\u0dc0\u0da7-\u0dbb\u0d82\u0da2\u0db1\u0dca\u0da7/101-618806",
+    "time_ut": 1661513453,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0da2\u0db6 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0db4\u0dd4\u0dbb\u0db4\u0dca\u0db4\u0dcf\u0da9\u0dd4\u0dc0\u0da7 \u0dbb\u0d82\u0da2\u0db1\u0dca\u0da7",
+    "file_name": "/tmp/news_lk2/articles/eb/eba4da26.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0d82\u0da2\u0db1\u0dca\u0da7-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0db1\u0dca-\u0d9c\u0dd0\u0db1-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0dad\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0dca/101-618805",
+    "time_ut": 1661513227,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0d82\u0da2\u0db1\u0dca\u0da7 \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0db1\u0dca \u0d9c\u0dd0\u0db1 \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0dad\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/4d/4d6128db.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/sjb-wants-full-presidential-pardon-for-ranjan-ramanayake-with-political-rights/",
+    "time_ut": 1661513220,
+    "original_lang": "en",
+    "original_title": "SJB wants full Presidential Pardon for Ranjan Ramanayake with Political Rights",
+    "file_name": "/tmp/news_lk2/articles/e2/e2d89b99.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84560/more-activists-arrested-over-forcible-entry-to-state-buildings-granted-bail-",
+    "time_ut": 1661512980,
+    "original_lang": "en",
+    "original_title": "More activists arrested over forcible entry to state buildings granted bail",
+    "file_name": "/tmp/news_lk2/articles/ae/aea64fa3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd2\u0daf\u0dc4\u0dc3-\u0dbd\u0dd0\u0db6\u0dd6-\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca-\u0d9c\u0d82\u0d9c\u0dcf\u0dbb\u0dcf\u0db8\u0dba\u0da7/101-618804",
+    "time_ut": 1661512752,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd2\u0daf\u0dc4\u0dc3 \u0dbd\u0dd0\u0db6\u0dd6 \u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca \u0d9c\u0d82\u0d9c\u0dcf\u0dbb\u0dcf\u0db8\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/65/65d77690.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db0\u0dd2\u0db6\u0dbd\u0dd0\u0dad\u0dd2-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0dbb\u0dd0\u0dc4\u0dd0\u0db1\u0dca-\u0d91\u0db4\u0dcf:-\u0d85\u0da7\u0dd4\u0dbd\u0dd4\u0d9c\u0db8-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a\u0dca/101-618803",
+    "time_ut": 1661512317,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db0\u0dd2\u0db6\u0dbd\u0dd0\u0dad\u0dd2 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dbb\u0dd0\u0dc4\u0dd0\u0db1\u0dca \u0d91\u0db4\u0dcf: \u0d85\u0da7\u0dd4\u0dbd\u0dd4\u0d9c\u0db8 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/c9/c91a0053.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca-\u0daf\u0dd2\u0d9c\u0dd4-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca/101-618801",
     "time_ut": 1661511918,
     "original_lang": "si",
     "original_title": "\u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca \u0daf\u0dd2\u0d9c\u0dd4 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/bd/bde97041.json"
+    "file_name": "/tmp/news_lk2/articles/8d/8dbc729c.json"
   },
   {
     "newspaper_id": "news-first-lk",
