@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84559/detention-order-against-mudalige-challenged-in-fr-petition",
+    "time_ut": 1661510880,
+    "original_lang": "en",
+    "original_title": "Detention order against Mudalige challenged in FR petition",
+    "file_name": "/tmp/news_lk2/articles/33/33b902f2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/sri-lankan-fishermen-continue-protests-for-kerosene/",
+    "time_ut": 1661510640,
+    "original_lang": "en",
+    "original_title": "Sri Lankan Fishermen continue protests for Kerosene",
+    "file_name": "/tmp/news_lk2/articles/94/94553f66.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84558/slaf-operation-underway-to-douse-fire-at-muthurajawela",
+    "time_ut": 1661510160,
+    "original_lang": "en",
+    "original_title": "SLAF operation underway to douse fire at Muthurajawela",
+    "file_name": "/tmp/news_lk2/articles/6d/6de8000d.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Wasantha-Mudaliges-detention-challenged-in-Supreme-Court/108-243792",
     "time_ut": 1661509643,
