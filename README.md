@@ -1,26 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-26 23:50:54 (LK time)*
+*As of 2022-08-27 00:18:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last 3 Hours (15 Articles)
 
-* **2** daily-mirror-lk ([Freed...](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d92665.json))
+* **9** news-first-lk ([FR against privatizing filling stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67dc1b0e.json))
 
-* **1** ada-derana-lk ([Special gazette issued on increasing water tariffs from Sep 01](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a46d0774.json))
-
-## Last 3 Hours (18 Articles)
-
-* **11** news-first-lk ([Kerawalapitiya bush fire contained](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3b3590c.json))
-
-* **4** daily-mirror-lk ([Govt. should have discussed with SMEs before bringing import ban on 300 consumer goods: SLUNBA](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9a63da4.json))
+* **3** daily-mirror-lk ([Cops who took photos seated on President’s chair face probe - Police tell court](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1be6683e.json))
 
 * **2** ada-derana-lk ([Ranjan accepts new position as goodwill ambassador for migrant workers](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1bc1afb.json))
 
 * **1** ada-lk ([හිටි හැටියේම වෙනස් වූ කාලගුණය](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4392c5c2.json))
 
-## Last 24 Hours (196 Articles)
+## Last 24 Hours (194 Articles)
 
 * **47** news-first-lk ([3-hr power cuts today (26)](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3df46537.json))
 
@@ -30,7 +24,7 @@
 
 * **23** ada-lk ([උමංදාවට පහරදුන් 4ක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64427198.json))
 
-* **21** ada-derana-lk ([Security forces should be equipped with technological knowledge - President](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe1c8b6f.json))
+* **20** ada-derana-lk ([Fairly heavy rainfall possible in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/102ae28a.json))
 
 * **19** tamil-mirror-lk ([சைபர் தளத்திலும் யுத்தம் நிகழலாம்: ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ae201f1.json))
 
@@ -38,27 +32,27 @@
 
 * **11** daily-ft-lk ([WHO pledges $ 4 m worth medical supplies to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/275f5e4c.json))
 
-* **4** island-lk ([Hemas partners with Clean Ocean Force to safeguard Negombo’s threatened ecosystems](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75ca79a5.json))
+* **3** island-lk ([HNB joins SLT-MOBITEL in enhancing e-commerce capabilities for SMEs with Cochchi.lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f09def3.json))
 
-## Last Week (1,380 Articles)
+## Last Week (1,374 Articles)
 
 * **268** lankadeepa-lk ([පළාත් කීපයකට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b330ad54.json))
 
 * **194** news-first-lk ([IMF Staff to visit Colombo on August 24th](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dda93322.json))
 
-* **186** tamil-mirror-lk ([’மக்கள் உணரக்கூடிய நல்லிணக்கமே அவசியம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aecffbcf.json))
+* **185** tamil-mirror-lk ([’மத்தள விமான நிலையத்தின் ஒரு பங்கு விற்கப்படும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e2d6dd3.json))
 
 * **173** ada-lk ([මහජන සාමය පවත්වාගෙන යාමට ජනපති ත්‍රිවිධ හමුදාව කැඳවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e879c799.json))
 
-* **163** daily-mirror-lk ([Egg to be sold at Rs. 43; Gazette issued](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/7387a7e5.json))
+* **162** daily-mirror-lk ([Best way to find yourself: Lose yourself in the service of others](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d0147ff.json))
 
-* **156** ada-derana-lk ([Interpol confirms arrest of ‘Harak Kata’ by Dubai Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f382d22.json))
+* **155** ada-derana-lk ([US ambassador holds talks with opposition leader](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29d64012.json))
 
 * **103** economy-next-com ([IMF team in Sri Lanka  policy talks on program from August 24](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d12f202d.json))
 
 * **56** island-lk ([Three Sinha Industries donates medical equipment to Lady Ridgeway Hospital](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c05aac6.json))
 
-* **55** daily-ft-lk ([One mother’s fight for a safe delivery: What it’s like to give birth in Sri Lanka right now](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd20ffb.json))
+* **52** daily-ft-lk ([UN ‘appalled’ by Saudi 34-year sentence over tweets](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6edf018.json))
 
 * **15** d-b-s-jeyaraj-com ([The 2000 Day “Poaraattam” (Struggle) by Tamil Women for Their “Disappeared” Loved Ones.](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55159169.json))
 
