@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84552/document-pertaining-to-ranjans-release-handed-over-to-prison-officials",
+    "time_ut": 1661499360,
+    "original_lang": "en",
+    "original_title": "Document pertaining to Ranjan\u2019s release handed over to prison officials",
+    "file_name": "/tmp/news_lk2/articles/4c/4ccf6a70.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Water-tariffs-to-go-up-from-Sept-1/342-243783",
+    "time_ut": 1661499055,
+    "original_lang": "en",
+    "original_title": "Water tariffs to go up from Sept. 1",
+    "file_name": "/tmp/news_lk2/articles/84/846d58bc.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-opposition-leader-vows-to-have-ex-mp-ranjan-ramanayake-back-in-parliament-99052/",
+    "time_ut": 1661498760,
+    "original_lang": "en",
+    "original_title": "Sri Lanka opposition leader vows to have ex-MP Ranjan Ramanayake back in parliament",
+    "file_name": "/tmp/news_lk2/articles/10/10b8a81b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/india-urges-its-nationals-in-sri-lanka-to-exercise-caution/",
+    "time_ut": 1661498520,
+    "original_lang": "en",
+    "original_title": "India urges its nationals in Sri Lanka to exercise caution",
+    "file_name": "/tmp/news_lk2/articles/de/de0097c7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/sapugaskand-refinery-to-continue-operations/",
+    "time_ut": 1661498280,
+    "original_lang": "en",
+    "original_title": "Sapugaskand refinery to continue operations",
+    "file_name": "/tmp/news_lk2/articles/f7/f7aa2236.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/26/114-covid-cases-reported-on-thursday-25/",
     "time_ut": 1661496900,
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ranil, Sajith 2nd round of talks couldn\u2019t come at a better time",
     "file_name": "/tmp/news_lk2/articles/6c/6c3127ef.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/pan-asia-bank-md-nimal-tillekeratne-banking-ceo-of-the-year-sri-lanka-2022/",
-    "time_ut": 1661087940,
-    "original_lang": "en",
-    "original_title": "Pan Asia Bank MD Nimal Tillekeratne \u2018Banking CEO of the Year Sri Lanka 2022\u2019",
-    "file_name": "/tmp/news_lk2/articles/51/51821934.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0bb5\u0b9a\u0bae\u0bcd-\u0b87\u0bb2\u0bcd\u0bb2\u0bc8-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf/175-302735",
-    "time_ut": 1661087251,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0bb5\u0b9a\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8: \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/33/33e63258.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84441/police-seek-public-assistance-identify-more-suspects",
-    "time_ut": 1661087040,
-    "original_lang": "en",
-    "original_title": "Police seek public assistance identify more suspects",
-    "file_name": "/tmp/news_lk2/articles/44/44b0aafe.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/21/if-you-cannot-perform-leave-president-to-state-sector/",
-    "time_ut": 1661086740,
-    "original_lang": "en",
-    "original_title": "If you cannot perform, leave : President to State Sector",
-    "file_name": "/tmp/news_lk2/articles/2f/2f128794.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84440/27-year-old-female-falls-to-death-from-uthuwankanda",
-    "time_ut": 1661086020,
-    "original_lang": "en",
-    "original_title": "27-year-old female falls to death from Uthuwankanda",
-    "file_name": "/tmp/news_lk2/articles/6f/6f6f668c.json"
   }
 ]

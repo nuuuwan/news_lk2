@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84552/document-pertaining-to-ranjans-release-handed-over-to-prison-officials",
+    "time_ut": 1661499360,
+    "original_lang": "en",
+    "original_title": "Document pertaining to Ranjan\u2019s release handed over to prison officials",
+    "file_name": "/tmp/news_lk2/articles/4c/4ccf6a70.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Water-tariffs-to-go-up-from-Sept-1/342-243783",
+    "time_ut": 1661499055,
+    "original_lang": "en",
+    "original_title": "Water tariffs to go up from Sept. 1",
+    "file_name": "/tmp/news_lk2/articles/84/846d58bc.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-opposition-leader-vows-to-have-ex-mp-ranjan-ramanayake-back-in-parliament-99052/",
+    "time_ut": 1661498760,
+    "original_lang": "en",
+    "original_title": "Sri Lanka opposition leader vows to have ex-MP Ranjan Ramanayake back in parliament",
+    "file_name": "/tmp/news_lk2/articles/10/10b8a81b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/india-urges-its-nationals-in-sri-lanka-to-exercise-caution/",
+    "time_ut": 1661498520,
+    "original_lang": "en",
+    "original_title": "India urges its nationals in Sri Lanka to exercise caution",
+    "file_name": "/tmp/news_lk2/articles/de/de0097c7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/26/sapugaskand-refinery-to-continue-operations/",
+    "time_ut": 1661498280,
+    "original_lang": "en",
+    "original_title": "Sapugaskand refinery to continue operations",
+    "file_name": "/tmp/news_lk2/articles/f7/f7aa2236.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/26/114-covid-cases-reported-on-thursday-25/",
     "time_ut": 1661496900,
