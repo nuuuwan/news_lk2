@@ -1,0 +1,339 @@
+{
+  "newspaper_id": "economy-next-com",
+  "url": "https://economynext.com/sri-lanka-coconut-prices-fall-at-auction-price-range-widens-99086/",
+  "time_ut": 1661613420,
+  "original_lang": "en",
+  "original_title": "Sri Lanka coconut prices fall at auction; price range widens",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka coconut prices fall at auction; price range widens",
+      "author": "Chanka Jayasinghe",
+      "body_lines": [
+        "ECONOMYNEXT- Sri Lanka\u2019s average coconut prices fell 1.7 percent to 64,192.23 rupees for 1,000 nuts at the last auction held on August 25, official data showed.",
+        "The highest price was 76,200 rupees up from 71, 200 rupees in the last auction for 1,000 nuts, while the lowest was 56,000 down from 58,000 rupees thus increasing the price range, at the auction conducted by Sri Lanka\u2019s Coconut Development Authority.",
+        "Buyers offered 1,792,391 nuts at the auction and sold 1,452,954.",
+        "Exports of coconut-based products have risen by 8 percent during Jan-July period to 501.74 million dollars from 462.87 million dollars in the same period a year earlier, data show. (Colombo/Aug27/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "ECONOMYNEXT-",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "1.7 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "64,192.23",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "August 25",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "76,200",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "71",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "200",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "56,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "58,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "Coconut Development Authority",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "1,792,391",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,452,954",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "8 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Jan-July",
+            "label": "DATE"
+          },
+          {
+            "text": "501.74 million dollars",
+            "label": "MONEY"
+          },
+          {
+            "text": "462.87 million dollars",
+            "label": "MONEY"
+          },
+          {
+            "text": "the same period a year earlier",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0ddc\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dda; \u0db8\u0dd2\u0dbd \u0db4\u0dbb\u0dcf\u0dc3\u0dba \u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca \u0dc0\u0dda",
+      "author": "\u0da0\u0d82\u0d9a \u0da2\u0dba\u0dc3\u0dd2\u0d82\u0dc4",
+      "body_lines": [
+        "ECONOMYNEXT- \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 25 \u0daf\u0dd2\u0db1 \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db4\u0ddc\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0d9c\u0dd9\u0da9\u0dd2 1,000 \u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 64,192.23 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0dd2\u0dba\u0dba\u0da7 1.7 \u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd3 \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0db1\u0dd2\u0dbd \u0daf\u0dad\u0dca\u0dad \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0ddc\u0dbd\u0dca \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1 \u0dbd\u0daf \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 71,200 \u0dc3\u0dd2\u0da7 \u0d89\u0dc4\u0dc5\u0db8 \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 76,200\u0d9a\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0d85\u0da9\u0dd4\u0db8 \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 58,000 \u0dc3\u0dd2\u0da7 56,000\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0db8\u0dd2\u0dbd \u0db4\u0dbb\u0dcf\u0dc3\u0dba \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba\u0dda\u0dba.",
+        "\u0d9c\u0dd0\u0db1\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0d9c\u0dd9\u0da9\u0dd2 1,792,391\u0d9a\u0dca \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dc5 \u0d85\u0dad\u0dbb 1,452,954\u0d9a\u0dca \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0dc0\u0dd2\u0dba.",
+        "\u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 \u0dc3\u0dd2\u0da7 \u0da2\u0dd6\u0dbd\u0dd2 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d9a\u0dcf\u0dbd\u0dba \u0dad\u0dd4\u0dc5 \u0db4\u0ddc\u0dbd\u0dca \u0d86\u0dc1\u0dca\u200d\u0dbb\u0dd2\u0dad \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0d85\u0db4\u0db1\u0dba\u0db1\u0dba \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 462.87 \u0dc3\u0dd2\u0da7 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 501.74 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0dd2\u0dba\u0dba\u0da7 8 \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0daf\u0dad\u0dca\u0dad \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2. (\u0d9a\u0ddc\u0dc5\u0db9/\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 27/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "ECONOMYNEXT-",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 1.7 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "64,192.23 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 25",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "76,200 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "71",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "200",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "56,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "58,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0ddc\u0dbd\u0dca \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "1,792,391 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,452,954 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 8 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2-\u0da2\u0dd6\u0dbd\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 501.74 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 462.87 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb \u0d91\u0db8 \u0d9a\u0dcf\u0dbd\u0dba",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bc7\u0b99\u0bcd\u0b95\u0bbe\u0baf\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf; \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb5\u0bb0\u0bae\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0b9f\u0bc8\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "\u0b9a\u0b99\u0bcd\u0b95 \u0b9c\u0bc6\u0baf\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+      "body_lines": [
+        "ECONOMYNEXT- \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf \u0ba4\u0bc7\u0b99\u0bcd\u0b95\u0bbe\u0baf\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 25 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b95\u0b9f\u0bc8\u0b9a\u0bbf \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 1,000 \u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 1.7 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 64,192.23 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd, \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 1,000 \u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0baa\u0b9f\u0bcd\u0b9a \u0bb5\u0bbf\u0bb2\u0bc8 71, 200 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 76,200 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9\u0ba4\u0bc1 58,000 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 56,000 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0baa\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 1,792,391 \u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 1,452,954 \u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd.",
+        "\u0ba4\u0bc7\u0b99\u0bcd\u0b95\u0bbe\u0baf\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf-\u0b9c\u0bc2\u0bb2\u0bc8 \u0b95\u0bbe\u0bb2\u0baa\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd 8 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 501.74 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b87\u0ba4\u0bc7 \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 462.87 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. (\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd27/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bcd-",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "1.7 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "64,192.23",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 25",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "76,200",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "71",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "200",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "56,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "58,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "1,792,391",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,452,954",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "8 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9c\u0ba9\u0bb5\u0bb0\u0bbf-\u0b9c\u0bc2\u0bb2\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "501.74 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "462.87 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b85\u0ba4\u0bc7 \u0b95\u0bbe\u0bb2\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}

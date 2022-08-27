@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-coconut-prices-fall-at-auction-price-range-widens-99086/",
+    "time_ut": 1661613420,
+    "original_lang": "en",
+    "original_title": "Sri Lanka coconut prices fall at auction; price range widens",
+    "file_name": "/tmp/news_lk2/articles/4f/4f8c41e7.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-customs-seizes-rs-16-mln-worth-illegal-cigarettes-five-arrested-99084/",
+    "time_ut": 1661613000,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Customs seizes Rs.16 mln worth illegal cigarettes; five arrested",
+    "file_name": "/tmp/news_lk2/articles/a3/a3ee4bde.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baf\u0bc1\u0ba9\u0bbf\u0b9a\u0bc6\u0baa\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf-\u0ba4\u0b95\u0bb5\u0bb2\u0bcd/175-303077",
     "time_ut": 1661612477,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Commercial Credit posts Rs. 4.52 Bn PAT\u00a0 for FY 2021/22",
     "file_name": "/tmp/news_lk2/articles/05/053a9ad3.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/korean-envoy-calls-on-prime-minister/",
-    "time_ut": 1661188320,
-    "original_lang": "en",
-    "original_title": "Korean envoy calls on Prime Minister",
-    "file_name": "/tmp/news_lk2/articles/7a/7aca8253.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/abans-finance-records-pbt-of-rs-114-million-in-quarter-one-of-fy-2022-2023/",
-    "time_ut": 1661188320,
-    "original_lang": "en",
-    "original_title": "Abans Finance records PBT of Rs 114 million in quarter one of FY 2022 / 2023",
-    "file_name": "/tmp/news_lk2/articles/f8/f89a283d.json"
   }
 ]
