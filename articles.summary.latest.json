@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Naked-body-of-male-washed-ashore-on-Kalutara-beach/108-243868",
+    "time_ut": 1661622277,
+    "original_lang": "en",
+    "original_title": "Naked body of male washed ashore on Kalutara beach",
+    "file_name": "/tmp/news_lk2/articles/f8/f812f854.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Afghanistan-outclass-Sri-Lanka-in-Asia-Cup/108-243867",
+    "time_ut": 1661622045,
+    "original_lang": "en",
+    "original_title": "Afghanistan outclass Sri Lanka in Asia Cup",
+    "file_name": "/tmp/news_lk2/articles/68/68aab6f1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/India-responds-to-Chinese-Ambassadors-remarks-on-SL/342-243866",
     "time_ut": 1661620949,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "The dangerous betrayal of trust",
     "file_name": "/tmp/news_lk2/articles/93/93819366.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db4\u0dda-\u0dc3\u0dda\u0dbd\u0dba\u0dd2\u0db1\u0dca-\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf-\u0dc0\u0dd9\u0dc5\u0dd9\u0db3-\u0db4\u0ddc\u0dc5\u0da7/1-618574",
-    "time_ut": 1661188692,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db4\u0dda \u0dc3\u0dda\u0dbd\u0dba\u0dd2\u0db1\u0dca \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc0\u0dd9\u0dc5\u0dd9\u0db3 \u0db4\u0ddc\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/ac/ac99a2be.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Aragalaya-causes-Rs-5-million-in-damages-to-Galle-Face-Ministry/108-243521",
-    "time_ut": 1661188482,
-    "original_lang": "en",
-    "original_title": "Aragalaya causes Rs.5 million in damages to Galle Face: Ministry",
-    "file_name": "/tmp/news_lk2/articles/5b/5b83b7f1.json"
   }
 ]

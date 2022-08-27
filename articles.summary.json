@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Naked-body-of-male-washed-ashore-on-Kalutara-beach/108-243868",
+    "time_ut": 1661622277,
+    "original_lang": "en",
+    "original_title": "Naked body of male washed ashore on Kalutara beach",
+    "file_name": "/tmp/news_lk2/articles/f8/f812f854.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Afghanistan-outclass-Sri-Lanka-in-Asia-Cup/108-243867",
+    "time_ut": 1661622045,
+    "original_lang": "en",
+    "original_title": "Afghanistan outclass Sri Lanka in Asia Cup",
+    "file_name": "/tmp/news_lk2/articles/68/68aab6f1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/India-responds-to-Chinese-Ambassadors-remarks-on-SL/342-243866",
     "time_ut": 1661620949,
     "original_lang": "en",
