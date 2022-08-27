@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/businessman-s-son-abducted-from-wattala/",
+    "time_ut": 1661616600,
+    "original_lang": "en",
+    "original_title": "Businessman\u2019s son abducted from Wattala",
+    "file_name": "/tmp/news_lk2/articles/a2/a2d1bb48.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-coconut-prices-fall-at-auction-price-range-widens-99086/",
     "time_ut": 1661613420,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "SLID webinar \u2013 Sri Lanka\u2019s economy: The next 6 months",
     "file_name": "/tmp/news_lk2/articles/df/df049c09.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/commercial-credit-posts-rs-4-52-bn-pat-for-fy-2021-22/",
-    "time_ut": 1661188320,
-    "original_lang": "en",
-    "original_title": "Commercial Credit posts Rs. 4.52 Bn PAT\u00a0 for FY 2021/22",
-    "file_name": "/tmp/news_lk2/articles/05/053a9ad3.json"
   }
 ]
