@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84574/pakistan-floods-affect-over-30-million-people-death-toll-tops-900",
+    "time_ut": 1661597340,
+    "original_lang": "en",
+    "original_title": "Pakistan floods affect over 30 million people; death toll tops 900",
+    "file_name": "/tmp/news_lk2/articles/6a/6a079e52.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0ba8\u0bc7\u0bb0\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bcd-\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd/175-303071",
+    "time_ut": 1661597059,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd?",
+    "file_name": "/tmp/news_lk2/articles/36/3695b735.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranjan-will-made-member-of-SJB-working-committee-parliamentary-group-Sajith/108-243860",
+    "time_ut": 1661596667,
+    "original_lang": "en",
+    "original_title": "Ranjan will made member of SJB working committee, parliamentary group: Sajith",
+    "file_name": "/tmp/news_lk2/articles/86/8675c064.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/yuan-wang-5-mapping-indian-ocean-after-leaving-sri-lanka/",
+    "time_ut": 1661596500,
+    "original_lang": "en",
+    "original_title": "Yuan Wang 5 mapping Indian Ocean after leaving Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/ec/ecea3f5b.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/More-fuel-will-be-supplied-in-next-3-days-Minister-instructs/108-243859",
     "time_ut": 1661596350,
@@ -281,11 +313,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Lankan-nabbed-with-gold-jewellery-worth-Rs-55mn-at-airport/342-243857",
+    "url": "https://www.dailymirror.lk/breaking_news/Lankan-nabbed-with-gold-jewellery-worth-Rs-55mn-at-airport/108-243857",
     "time_ut": 1661580413,
     "original_lang": "en",
     "original_title": "Lankan nabbed with gold jewellery worth Rs.55mn at airport",
-    "file_name": "/tmp/news_lk2/articles/51/513b98aa.json"
+    "file_name": "/tmp/news_lk2/articles/0c/0cf5555a.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -337,11 +369,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Ranjan-receives-blessings/342-243855",
+    "url": "https://www.dailymirror.lk/caption_story/Ranjan-receives-blessings/110-243855",
     "time_ut": 1661577870,
     "original_lang": "en",
     "original_title": "Ranjan receives blessings...",
-    "file_name": "/tmp/news_lk2/articles/bc/bc85be71.json"
+    "file_name": "/tmp/news_lk2/articles/bd/bdab354c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -481,11 +513,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/U-S-donates-3000MT-of-food-to-feed-Sri-Lankan-school-children/342-243852",
+    "url": "https://www.dailymirror.lk/breaking_news/U-S-donates-3000MT-of-food-to-feed-Sri-Lankan-school-children/108-243852",
     "time_ut": 1661573471,
     "original_lang": "en",
     "original_title": "U.S donates 3000MT of food to feed Sri Lankan school children",
-    "file_name": "/tmp/news_lk2/articles/c0/c03bf439.json"
+    "file_name": "/tmp/news_lk2/articles/45/45f217ef.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -561,11 +593,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Farmers-deposits-in-Govi-jana-banks-exceeded-Rs-6bn-Minister/342-243848",
+    "url": "https://www.dailymirror.lk/breaking_news/Farmers-deposits-in-Govi-jana-banks-exceeded-Rs-6bn-Minister/108-243848",
     "time_ut": 1661571237,
     "original_lang": "en",
     "original_title": "Farmers\u2019 deposits in Govi jana  banks exceeded Rs.6bn: Minister",
-    "file_name": "/tmp/news_lk2/articles/7a/7a99998d.json"
+    "file_name": "/tmp/news_lk2/articles/c9/c94a7978.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -593,11 +625,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Water-bill-sewerage-services-increased-from-Sept-1/342-243847",
+    "url": "https://www.dailymirror.lk/breaking_news/Water-bill-sewerage-services-increased-from-Sept-1/108-243847",
     "time_ut": 1661569899,
     "original_lang": "en",
     "original_title": "Water bill, sewerage services increased from Sept. 1",
-    "file_name": "/tmp/news_lk2/articles/da/dad0a1a7.json"
+    "file_name": "/tmp/news_lk2/articles/5d/5d35ad79.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
