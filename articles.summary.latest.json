@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/India-responds-to-Chinese-Ambassadors-remarks-on-SL/342-243866",
+    "time_ut": 1661620949,
+    "original_lang": "en",
+    "original_title": "India responds to Chinese Ambassador\u2019s remarks on SL",
+    "file_name": "/tmp/news_lk2/articles/dc/dcaea165.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84578/ssp-ruwan-gunasekera-appointed-director-legal-of-sri-lanka-police",
+    "time_ut": 1661620680,
+    "original_lang": "en",
+    "original_title": "SSP Ruwan Gunasekera appointed Director Legal of Sri Lanka Police",
+    "file_name": "/tmp/news_lk2/articles/2d/2db35fef.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/SSP-Ruwan-Gunasekara-appointed-Director-Police-Legal-Division/108-243865",
     "time_ut": 1661620162,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Aragalaya causes Rs.5 million in damages to Galle Face: Ministry",
     "file_name": "/tmp/news_lk2/articles/5b/5b83b7f1.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/wimps-heroes-and-litmus-test/",
-    "time_ut": 1661188440,
-    "original_lang": "en",
-    "original_title": "Wimps, heroes and litmus test",
-    "file_name": "/tmp/news_lk2/articles/16/16d3765e.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/providore-unveils-concierge-service-for-senior-citizens-to-order-groceries-via-whatsapp-text/",
-    "time_ut": 1661188380,
-    "original_lang": "en",
-    "original_title": "Providore unveils Concierge Service for senior citizens to order groceries via WhatsApp/text",
-    "file_name": "/tmp/news_lk2/articles/8f/8f3c4180.json"
   }
 ]
