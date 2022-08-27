@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-end-week-down-2-pct-ahead-of-interim-budget-99076/",
+    "time_ut": 1661574300,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks end week down 2-pct ahead of interim budget",
+    "file_name": "/tmp/news_lk2/articles/cf/cf29deaa.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/heavy-showers-likely-during-the-evening-27/",
+    "time_ut": 1661574300,
+    "original_lang": "en",
+    "original_title": "Heavy showers likely during the evening (27)",
+    "file_name": "/tmp/news_lk2/articles/70/702acab8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd4\u0dbd\u0dcf\u0d82\u0da2\u0dbd\u0dd3-\u0dbb\u0da7\u0dd9\u0db1\u0dca-\u0dba\u0dba\u0dd2/101-618830",
+    "time_ut": 1661573919,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd4\u0dbd\u0dcf\u0d82\u0da2\u0dbd\u0dd3 \u0dbb\u0da7\u0dd9\u0db1\u0dca \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/31/318b8317.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/five-people-arrested-for-gampaha-murder/",
+    "time_ut": 1661573580,
+    "original_lang": "en",
+    "original_title": "Five people arrested for Gampaha Murder",
+    "file_name": "/tmp/news_lk2/articles/00/00a239a2.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb2-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0b9e\u0bcd\u0b9a\u0bae\u0bcd/175-303061",
+    "time_ut": 1661573347,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0b9e\u0bcd\u0b9a\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/4a/4ae65bba.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/BIA-Customs-thwart-attempt-to-smuggle-in-Rs-16mn-worth-fags-with-five-inbound-passengers/342-243851",
+    "time_ut": 1661573227,
+    "original_lang": "en",
+    "original_title": "BIA Customs thwart attempt to smuggle in Rs.16mn worth fags with five inbound passengers",
+    "file_name": "/tmp/news_lk2/articles/d3/d397e4ee.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/27/norochcholai-back-in-operation/",
     "time_ut": 1661572200,
@@ -30,6 +78,14 @@
     "original_lang": "en",
     "original_title": "Plans afoot to lower prices of chicken, fish next week: Minister",
     "file_name": "/tmp/news_lk2/articles/d6/d64389bd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-to-launch-special-operation-to-curb-underworld-activities/108-243849",
+    "time_ut": 1661571288,
+    "original_lang": "en",
+    "original_title": "Police to launch special operation to curb underworld activities",
+    "file_name": "/tmp/news_lk2/articles/48/485bfeb8.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -177,11 +233,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/plus/Appapillai-Amirthalingam-From-Enfant-Terrible-to-Elder-Statesman/352-243845",
+    "url": "https://www.dailymirror.lk/recomended-news/Appapillai-Amirthalingam-From-Enfant-Terrible-to-Elder-Statesman/277-243845",
     "time_ut": 1661545600,
     "original_lang": "en",
     "original_title": "Appapillai Amirthalingam From Enfant Terrible to Elder Statesman",
-    "file_name": "/tmp/news_lk2/articles/89/892162d2.json"
+    "file_name": "/tmp/news_lk2/articles/b2/b2220353.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -233,11 +289,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/ADB-halts-funding-for-rooftop-solar-power-generation-project/273-243833",
+    "url": "https://www.dailymirror.lk/latest_news/ADB-halts-funding-for-rooftop-solar-power-generation-project/342-243833",
     "time_ut": 1661542085,
     "original_lang": "en",
     "original_title": "ADB halts funding for rooftop solar power generation project",
-    "file_name": "/tmp/news_lk2/articles/77/779cf284.json"
+    "file_name": "/tmp/news_lk2/articles/0f/0f36cb23.json"
   },
   {
     "newspaper_id": "daily-ft-lk",

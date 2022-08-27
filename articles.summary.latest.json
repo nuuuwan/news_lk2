@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-end-week-down-2-pct-ahead-of-interim-budget-99076/",
+    "time_ut": 1661574300,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks end week down 2-pct ahead of interim budget",
+    "file_name": "/tmp/news_lk2/articles/cf/cf29deaa.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/heavy-showers-likely-during-the-evening-27/",
+    "time_ut": 1661574300,
+    "original_lang": "en",
+    "original_title": "Heavy showers likely during the evening (27)",
+    "file_name": "/tmp/news_lk2/articles/70/702acab8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd4\u0dbd\u0dcf\u0d82\u0da2\u0dbd\u0dd3-\u0dbb\u0da7\u0dd9\u0db1\u0dca-\u0dba\u0dba\u0dd2/101-618830",
+    "time_ut": 1661573919,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd4\u0dbd\u0dcf\u0d82\u0da2\u0dbd\u0dd3 \u0dbb\u0da7\u0dd9\u0db1\u0dca \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/31/318b8317.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/five-people-arrested-for-gampaha-murder/",
+    "time_ut": 1661573580,
+    "original_lang": "en",
+    "original_title": "Five people arrested for Gampaha Murder",
+    "file_name": "/tmp/news_lk2/articles/00/00a239a2.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb2-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0b9e\u0bcd\u0b9a\u0bae\u0bcd/175-303061",
+    "time_ut": 1661573347,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0b9e\u0bcd\u0b9a\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/4a/4ae65bba.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/BIA-Customs-thwart-attempt-to-smuggle-in-Rs-16mn-worth-fags-with-five-inbound-passengers/342-243851",
+    "time_ut": 1661573227,
+    "original_lang": "en",
+    "original_title": "BIA Customs thwart attempt to smuggle in Rs.16mn worth fags with five inbound passengers",
+    "file_name": "/tmp/news_lk2/articles/d3/d397e4ee.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/27/norochcholai-back-in-operation/",
     "time_ut": 1661572200,
@@ -30,6 +78,14 @@
     "original_lang": "en",
     "original_title": "Plans afoot to lower prices of chicken, fish next week: Minister",
     "file_name": "/tmp/news_lk2/articles/d6/d64389bd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-to-launch-special-operation-to-curb-underworld-activities/108-243849",
+    "time_ut": 1661571288,
+    "original_lang": "en",
+    "original_title": "Police to launch special operation to curb underworld activities",
+    "file_name": "/tmp/news_lk2/articles/48/485bfeb8.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -177,11 +233,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/plus/Appapillai-Amirthalingam-From-Enfant-Terrible-to-Elder-Statesman/352-243845",
+    "url": "https://www.dailymirror.lk/recomended-news/Appapillai-Amirthalingam-From-Enfant-Terrible-to-Elder-Statesman/277-243845",
     "time_ut": 1661545600,
     "original_lang": "en",
     "original_title": "Appapillai Amirthalingam From Enfant Terrible to Elder Statesman",
-    "file_name": "/tmp/news_lk2/articles/89/892162d2.json"
+    "file_name": "/tmp/news_lk2/articles/b2/b2220353.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -233,11 +289,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/ADB-halts-funding-for-rooftop-solar-power-generation-project/273-243833",
+    "url": "https://www.dailymirror.lk/latest_news/ADB-halts-funding-for-rooftop-solar-power-generation-project/342-243833",
     "time_ut": 1661542085,
     "original_lang": "en",
     "original_title": "ADB halts funding for rooftop solar power generation project",
-    "file_name": "/tmp/news_lk2/articles/77/779cf284.json"
+    "file_name": "/tmp/news_lk2/articles/0f/0f36cb23.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka has not approached creditors officially \u2013 CBSL Chief",
     "file_name": "/tmp/news_lk2/articles/73/73358879.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-navy-seizes-illegally-hoarded-petrol-worth-900000-rupees-98869/",
-    "time_ut": 1661160600,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Navy seizes illegally hoarded petrol worth 900,000 rupees",
-    "file_name": "/tmp/news_lk2/articles/ec/ec79df7f.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-navy-seizes-petrol-hoard-worth-900000-rupees-98869/",
-    "time_ut": 1661160600,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Navy seizes petrol hoard worth 900,000 rupees",
-    "file_name": "/tmp/news_lk2/articles/60/6031ca81.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dca\u200d\u0dbb\u0dd2\u0d9c\u0dda\u0da9\u0dd3\u0dba\u0dbb\u0dca-9\u0d9a\u0dca-\u0db8\u0dda\u0da2\u0dbb\u0dca-\u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca-\u0db0\u0dd4\u0dbb\u0dba\u0da7-\u0d8b\u0dc3\u0dc3\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-396513",
-    "time_ut": 1661160311,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0dca\u200d\u0dbb\u0dd2\u0d9c\u0dda\u0da9\u0dd3\u0dba\u0dbb\u0dca 9\u0d9a\u0dca \u0db8\u0dda\u0da2\u0dbb\u0dca \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0db0\u0dd4\u0dbb\u0dba\u0da7 \u0d8b\u0dc3\u0dc3\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/75/75cdc254.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0db1\u0dca-\u0dbb\u0dd4--50\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0da9\u0dd4-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf-\u0dbb\u0da2\u0dba-\u0dc3\u0dc4\u0dba-\u0daf\u0dd9\u0db1\u0dc0\u0dcf-\u0db1\u0db8\u0dca/11-396512",
-    "time_ut": 1661159748,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0db1\u0dca \u0dbb\u0dd4. 50\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0da9\u0dd4 \u0d9a\u0dbb\u0db1\u0dc0\u0dcf \u0dbb\u0da2\u0dba \u0dc3\u0dc4\u0dba \u0daf\u0dd9\u0db1\u0dc0\u0dcf \u0db1\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/89/897daa5d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf-\u0db1\u0dd0\u0dc0-\u0d91\u0dba\u0dd2/101-618544",
-    "time_ut": 1661159709,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db1\u0dd0\u0dc0 \u0d91\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/d8/d8ccde58.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/australia-to-work-with-india-to-provide-fuel-to-sri-lankas-navy-air-force-98867/",
-    "time_ut": 1661159520,
-    "original_lang": "en",
-    "original_title": "Australia to work with India to provide fuel to Sri Lanka\u2019s navy, air force",
-    "file_name": "/tmp/news_lk2/articles/2d/2dc9b222.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d86\u0db6\u0dcf\u0db0\u0dd2\u0dad-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0db1\u0dca\u0da7-\u0dbb\u0da2\u0dba\u0dda-\u0d85\u0db1\u0dd4\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba-\u0dc0\u0dd0\u0da9\u0dd2-\u0d9a\u0dd9\u0dbb\u0dda/101-618543",
-    "time_ut": 1661159492,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0db6\u0dcf\u0db0\u0dd2\u0dad \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0db1\u0dca\u0da7 \u0dbb\u0da2\u0dba\u0dda \u0d85\u0db1\u0dd4\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dd9\u0dbb\u0dda",
-    "file_name": "/tmp/news_lk2/articles/f6/f668f5c4.json"
   }
 ]
