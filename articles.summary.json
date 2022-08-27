@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/If-no-diesel-supply-by-tomorrow-no-school-vans-on-Monday-Assn/342-243861",
+    "time_ut": 1661599729,
+    "original_lang": "en",
+    "original_title": "If no diesel supply by tomorrow, no school vans on Monday - Assn",
+    "file_name": "/tmp/news_lk2/articles/20/20c69249.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84575/additional-fuel-stocks-to-be-distributed-island-wide-in-next-three-days",
     "time_ut": 1661598960,
@@ -14,6 +22,14 @@
     "original_lang": "en",
     "original_title": "Will reduce fuel queues within two days: Energy Minister",
     "file_name": "/tmp/news_lk2/articles/0e/0efe3dd2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0d85\u0da9\u0dd4-\u0d9a\u0dc5-\u0dc4\u0dd0\u0d9a\u0dd2\u0daf\u0dd0\u0dba\u0dd2-\u0dbd\u0d82\u0dc0\u0dd2\u0db8\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0db8\u0dc3\u0dba\u0dd2/11-396654",
+    "time_ut": 1661598238,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0d85\u0da9\u0dd4 \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2\u0daf\u0dd0\u0dba\u0dd2 \u0dbd\u0d82\u0dc0\u0dd2\u0db8\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0db8\u0dc3\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/38/382cf2f8.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -41,11 +57,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Ranjan-will-made-member-of-SJB-working-committee-parliamentary-group-Sajith/108-243860",
+    "url": "https://www.dailymirror.lk/latest_news/Ranjan-will-made-member-of-SJB-working-committee-parliamentary-group-Sajith/342-243860",
     "time_ut": 1661596667,
     "original_lang": "en",
     "original_title": "Ranjan will made member of SJB working committee, parliamentary group: Sajith",
-    "file_name": "/tmp/news_lk2/articles/86/8675c064.json"
+    "file_name": "/tmp/news_lk2/articles/7d/7d495f3e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -57,11 +73,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/More-fuel-will-be-supplied-in-next-3-days-Minister-instructs/108-243859",
+    "url": "https://www.dailymirror.lk/latest_news/More-fuel-will-be-supplied-in-next-3-days-Minister-instructs/342-243859",
     "time_ut": 1661596350,
     "original_lang": "en",
     "original_title": "More fuel will be supplied in next 3 days: Minister instructs",
-    "file_name": "/tmp/news_lk2/articles/e0/e0f8070e.json"
+    "file_name": "/tmp/news_lk2/articles/4c/4ce94690.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
