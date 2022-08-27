@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/rs-30mn-worth-gold-seized-at-bia/",
+    "time_ut": 1661587740,
+    "original_lang": "en",
+    "original_title": "Rs. 30Mn worth gold seized at BIA",
+    "file_name": "/tmp/news_lk2/articles/ac/ac545d30.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/sri-lanka-to-drop-fish-chicken-prices-soon/",
+    "time_ut": 1661587740,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to drop fish & chicken prices soon",
+    "file_name": "/tmp/news_lk2/articles/c7/c7523702.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/sri-lanka-looking-to-drop-construction-material-costs/",
+    "time_ut": 1661587560,
+    "original_lang": "en",
+    "original_title": "Sri Lanka looking to drop construction material costs",
+    "file_name": "/tmp/news_lk2/articles/f3/f3b33271.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/limited-bus-services-during-the-weekend/",
+    "time_ut": 1661587200,
+    "original_lang": "en",
+    "original_title": "Limited bus services during the weekend",
+    "file_name": "/tmp/news_lk2/articles/8c/8c5177a6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/27/1-000-mt-of-urea-from-fao-within-two-weeks/",
     "time_ut": 1661586540,
     "original_lang": "en",

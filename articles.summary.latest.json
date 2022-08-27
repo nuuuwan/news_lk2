@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/rs-30mn-worth-gold-seized-at-bia/",
+    "time_ut": 1661587740,
+    "original_lang": "en",
+    "original_title": "Rs. 30Mn worth gold seized at BIA",
+    "file_name": "/tmp/news_lk2/articles/ac/ac545d30.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/sri-lanka-to-drop-fish-chicken-prices-soon/",
+    "time_ut": 1661587740,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to drop fish & chicken prices soon",
+    "file_name": "/tmp/news_lk2/articles/c7/c7523702.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/sri-lanka-looking-to-drop-construction-material-costs/",
+    "time_ut": 1661587560,
+    "original_lang": "en",
+    "original_title": "Sri Lanka looking to drop construction material costs",
+    "file_name": "/tmp/news_lk2/articles/f3/f3b33271.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/limited-bus-services-during-the-weekend/",
+    "time_ut": 1661587200,
+    "original_lang": "en",
+    "original_title": "Limited bus services during the weekend",
+    "file_name": "/tmp/news_lk2/articles/8c/8c5177a6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/27/1-000-mt-of-urea-from-fao-within-two-weeks/",
     "time_ut": 1661586540,
     "original_lang": "en",
@@ -7966,37 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0da9\u0dd4 \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca \u0dbd\u0dcf\u0db7\u0dd3 \u0db4\u0dc0\u0dd4\u0dbd\u0dca, \u0db0\u0dd3\u0dc0\u0dbb \u0dc3\u0dc4 \u0dc0\u0dad\u0dd4 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0db7\u0dd6\u0db8\u0dd2\u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0dc4\u0db1\u0dcf\u0db0\u0dcf\u0dbb",
     "file_name": "/tmp/news_lk2/articles/93/93deb39a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Govt-should-uphold-rights-of-people-to-express-their-views-US-Ambassador/108-243497",
-    "time_ut": 1661169946,
-    "original_lang": "en",
-    "original_title": "Govt. should uphold rights of people to express their views: US Ambassador",
-    "file_name": "/tmp/news_lk2/articles/64/643898c3.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0da7-\u0db6\u0dbd\u0dd9\u0db1\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0dc0\u0dd6-\u0dad\u0dc0\u0dad\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396520",
-    "time_ut": 1661169843,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0da7 \u0db6\u0dbd\u0dd9\u0db1\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dc0\u0dd6 \u0dad\u0dc0\u0dad\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/fb/fb3ecc4f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/22/suspects-should-not-be-wrongly-treated-as-terrorists-human-rights-commission/",
-    "time_ut": 1661169660,
-    "original_lang": "en",
-    "original_title": "Suspects should not be wrongly treated as terrorists : Human Rights Commission",
-    "file_name": "/tmp/news_lk2/articles/5f/5f55abb9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84464/us-ambassador-says-using-laws-like-pta-erodes-democracy-in-sri-lanka",
-    "time_ut": 1661169540,
-    "original_lang": "en",
-    "original_title": "US ambassador says using laws like PTA erodes democracy in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/f5/f52b12dd.json"
   }
 ]
