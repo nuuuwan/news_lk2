@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0dc2\u0dba\u0db1\u0dca-\u0d9c\u0dd0\u0dc3\u0da7\u0dca-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-618851",
+    "time_ut": 1661611099,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0dc2\u0dba\u0db1\u0dca \u0d9c\u0dd0\u0dc3\u0da7\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/b0/b0cb7cbe.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/kite-protest-obstructed-by-police/",
+    "time_ut": 1661610600,
+    "original_lang": "en",
+    "original_title": "Kite protest obstructed by Police",
+    "file_name": "/tmp/news_lk2/articles/09/098c7b89.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0dad\u0dd2\u0db6\u0dd6-\u0dba\u0dad\u0dd4\u0dbb\u0dd4-\u0db4\u0dd0\u0daf\u0dd2-13\u0d9a\u0dca-\u0dba\u0da7\u0d9a\u0dbb-\u0d9c\u0dd2\u0dba-\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae\u0dba/101-618849",
+    "time_ut": 1661610292,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0dad\u0dd2\u0db6\u0dd6 \u0dba\u0dad\u0dd4\u0dbb\u0dd4 \u0db4\u0dd0\u0daf\u0dd2 13\u0d9a\u0dca \u0dba\u0da7\u0d9a\u0dbb \u0d9c\u0dd2\u0dba \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba",
+    "file_name": "/tmp/news_lk2/articles/0b/0bd45c28.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/pm-requests-unicef-to-increase-assistance/",
+    "time_ut": 1661610180,
+    "original_lang": "en",
+    "original_title": "PM requests UNICEF to increase assistance",
+    "file_name": "/tmp/news_lk2/articles/5d/5df2f5c6.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0dad\u0dcf\u0dbd\u0dba-\u0db8\u0da7\u0dca\u0da7\u0dd4-\u0d9a\u0dbb\u0db1-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/101-618848",
+    "time_ut": 1661609449,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dad\u0dcf\u0dbd\u0dba \u0db8\u0da7\u0dca\u0da7\u0dd4 \u0d9a\u0dbb\u0db1 \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8 \u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c6/c65f37e0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d91\u0da2\u0dcf\u0db4-\u0d8b\u0db4\u0db1\u0dca-\u0daf\u0dd2\u0db1\u0dda-\u0d89\u0dc4\u0dbd\u0dd2\u0db1\u0dca-\u0dc3\u0db8\u0dbb\u0db1\u0dca\u0db1-\u0dba\u0dba\u0dd2/101-618847",
     "time_ut": 1661608834,
     "original_lang": "si",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka expecting IMF funding by year-end if all goes to plan: CBSL chief",
     "file_name": "/tmp/news_lk2/articles/22/221f720e.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7-\u0d9c\u0dd0\u0db1\u0dd3\u0dd2\u0db8\u0dca-\u0d9c\u0dd0\u0db1-\u0dc3\u0db1\u0dad\u0dca-\u0d9a\u0db1\u0dc3\u0dca\u0dc3\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca/11-396525",
-    "time_ut": 1661186502,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd0\u0db1\u0dd3\u0dd2\u0db8\u0dca \u0d9c\u0dd0\u0db1 \u0dc3\u0db1\u0dad\u0dca \u0d9a\u0db1\u0dc3\u0dca\u0dc3\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/4a/4a5569fe.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/President-never-ordered-British-woman-to-be-deported/108-243512",
-    "time_ut": 1661186285,
-    "original_lang": "en",
-    "original_title": "President never ordered British woman to be deported",
-    "file_name": "/tmp/news_lk2/articles/c9/c94feaff.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da9\u0dd9\u0dcf\u0dbd\u0dbb\u0dca-\u0db4\u0dd9\u0db1\u0dca\u0db1\u0dcf-\u0d85\u0d9c\u0dbb\u0dd4-\u0da0\u0dd9\u0d9a\u0dca-\u0daf\u0dd4\u0db1\u0dca-\u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0dc0\u0dbb\u0dd4-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/101-618573",
-    "time_ut": 1661185536,
-    "original_lang": "si",
-    "original_title": "\u0da9\u0dd9\u0dcf\u0dbd\u0dbb\u0dca \u0db4\u0dd9\u0db1\u0dca\u0db1\u0dcf \u0d85\u0d9c\u0dbb\u0dd4 \u0da0\u0dd9\u0d9a\u0dca \u0daf\u0dd4\u0db1\u0dca \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0dc0\u0dbb\u0dd4 \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
-    "file_name": "/tmp/news_lk2/articles/21/21b24ed5.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb1\u0b9f\u0bcd\u0b9a\u0bbf-\u0b85\u0bb5\u0b9a\u0bb0\u0ba8\u0bbf\u0bb2\u0bc8-\u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0baa\u0bbf\u0bb0\u0b95\u0b9f\u0ba9\u0bae\u0bcd/50-302831",
-    "time_ut": 1661184145,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bb1\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bb5\u0b9a\u0bb0\u0ba8\u0bbf\u0bb2\u0bc8 \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0b95\u0b9f\u0ba9\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/6c/6c571b7f.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc7-9-\u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8-\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0bc1-\u0b95\u0bb5\u0bbf\u0ba9\u0bcd-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-302830",
-    "time_ut": 1661183883,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc7 9 \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bcd; \u0b9a\u0bc1.\u0b95\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/13/13a6c1c4.json"
   }
 ]
