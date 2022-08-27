@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84579/india-sri-lanka-should-build-framework-to-discuss-maritime-concerns-moragoda",
+    "time_ut": 1661624940,
+    "original_lang": "en",
+    "original_title": "India, Sri Lanka should build framework to discuss maritime concerns: Moragoda",
+    "file_name": "/tmp/news_lk2/articles/51/515e0039.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Naked-body-of-male-washed-ashore-on-Kalutara-beach/108-243868",
     "time_ut": 1661622277,
@@ -30,6 +38,14 @@
     "original_lang": "en",
     "original_title": "SSP Ruwan Gunasekera appointed Director Legal of Sri Lanka Police",
     "file_name": "/tmp/news_lk2/articles/2d/2db35fef.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84578/ssp-ruwan-gunasekera-appointed-director-of-police-legal-division",
+    "time_ut": 1661620680,
+    "original_lang": "en",
+    "original_title": "SSP Ruwan Gunasekera appointed Director of Police Legal Division",
+    "file_name": "/tmp/news_lk2/articles/48/481bceb1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
