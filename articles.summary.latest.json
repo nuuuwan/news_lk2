@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/srilanka-devastating-crisis-for-children/",
+    "time_ut": 1661589900,
+    "original_lang": "en",
+    "original_title": "#SriLanka: Devastating crisis for children",
+    "file_name": "/tmp/news_lk2/articles/2a/2a39febc.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dd2\u0dbd\u0dca-\u0db1\u0ddc\u0d9c\u0dd9\u0dc0\u0dd6-\u0db8\u0dd0\u0dad\u0dd2-\u0d87\u0db8\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca-\u0d9c\u0dd0\u0db1-\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1-\u0dbd\u0dda\u0d9a\u0db8\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0da7-\u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca/101-618840",
+    "time_ut": 1661589708,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd2\u0dbd\u0dca \u0db1\u0ddc\u0d9c\u0dd9\u0dc0\u0dd6 \u0db8\u0dd0\u0dad\u0dd2 \u0d87\u0db8\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0d9c\u0dd0\u0db1 \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1 \u0dbd\u0dda\u0d9a\u0db8\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0da7 \u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/05/05d23142.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84572/devastating-crisis-for-sri-lankas-children-is-a-caution-for-south-asia-unicef",
+    "time_ut": 1661589660,
+    "original_lang": "en",
+    "original_title": "Devastating crisis for Sri Lanka\u2019s children is a caution for South Asia: UNICEF",
+    "file_name": "/tmp/news_lk2/articles/ec/ecddb5c4.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bc1-\u0b95\u0bbe\u0ba3\u0bbe\u0ba4-\u0b87\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0ba4-\u0bae\u0bb4\u0bc8-937-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf-\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0b85\u0bb5\u0b9a\u0bb0-\u0ba8\u0bbf\u0bb2\u0bc8-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/50-303066",
     "time_ut": 1661588886,
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Dearth of Science, technology enrollment in faculties caused unemployment: Minister",
     "file_name": "/tmp/news_lk2/articles/9e/9e45a758.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/PTA-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-302805",
-    "time_ut": 1661171790,
-    "original_lang": "ta",
-    "original_title": "PTA: \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/ee/ee90d513.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Prez-meets-Sajith-and-Madduma-Bandara-to-discuss-all-party-govt/342-243499",
-    "time_ut": 1661171730,
-    "original_lang": "en",
-    "original_title": "Prez meets Sajith and Madduma Bandara to discuss all party govt.",
-    "file_name": "/tmp/news_lk2/articles/4d/4d7d48d9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84467/sc-adjourns-hearing-of-petitions-against-22nd-amendment",
-    "time_ut": 1661171460,
-    "original_lang": "en",
-    "original_title": "SC adjourns hearing of petitions against 22nd Amendment",
-    "file_name": "/tmp/news_lk2/articles/32/32ac1298.json"
   }
 ]
