@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/1-000-mt-of-urea-from-fao-within-two-weeks/",
+    "time_ut": 1661586540,
+    "original_lang": "en",
+    "original_title": "1,000 MT of Urea from FAO within two weeks",
+    "file_name": "/tmp/news_lk2/articles/ac/ac24db3c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/asia-cup-2022-sri-lanka-to-face-afghanistan-in-dubai-today-27/",
+    "time_ut": 1661586420,
+    "original_lang": "en",
+    "original_title": "Asia Cup 2022: Sri Lanka to face Afghanistan in Dubai today (27)",
+    "file_name": "/tmp/news_lk2/articles/45/459769f4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/radiotherapy-at-apeksha-hospital-from-monday-29/",
+    "time_ut": 1661586180,
+    "original_lang": "en",
+    "original_title": "Radiotherapy at Apeksha Hospital from Monday (29)",
+    "file_name": "/tmp/news_lk2/articles/b1/b1fb5182.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/27/rs-911-mn-received-for-x-press-pearl-compensation/",
     "time_ut": 1661585460,
     "original_lang": "en",

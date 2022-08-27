@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/1-000-mt-of-urea-from-fao-within-two-weeks/",
+    "time_ut": 1661586540,
+    "original_lang": "en",
+    "original_title": "1,000 MT of Urea from FAO within two weeks",
+    "file_name": "/tmp/news_lk2/articles/ac/ac24db3c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/asia-cup-2022-sri-lanka-to-face-afghanistan-in-dubai-today-27/",
+    "time_ut": 1661586420,
+    "original_lang": "en",
+    "original_title": "Asia Cup 2022: Sri Lanka to face Afghanistan in Dubai today (27)",
+    "file_name": "/tmp/news_lk2/articles/45/459769f4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/radiotherapy-at-apeksha-hospital-from-monday-29/",
+    "time_ut": 1661586180,
+    "original_lang": "en",
+    "original_title": "Radiotherapy at Apeksha Hospital from Monday (29)",
+    "file_name": "/tmp/news_lk2/articles/b1/b1fb5182.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/27/rs-911-mn-received-for-x-press-pearl-compensation/",
     "time_ut": 1661585460,
     "original_lang": "en",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "US ambassador says using laws like PTA erodes democracy in Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/f5/f52b12dd.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dbb\u0dd2\u0db1\u0dca-\u0d85\u0da9\u0dd4-\u0db4\u0dcf\u0db1\u0dca-\u0dc0\u0dd2\u0d9a\u0dca\u0d9a-\u0dad\u0dd4\u0db1\u0d9a\u0da7-\u0db1\u0da9\u0dd4/1-618560",
-    "time_ut": 1661169522,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0dbb\u0dd2\u0db1\u0dca \u0d85\u0da9\u0dd4 \u0db4\u0dcf\u0db1\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u0d9a \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0db1\u0da9\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/e1/e181cf80.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad-\u0db4\u0db1\u0dad-\u0d9c\u0dd0\u0db1-\u0da2\u0dd3-\u0d91\u0dbd\u0dca-\u0db4\u0dd3\u0dbb\u0dd2\u0dc3\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca/1-618559",
-    "time_ut": 1661169504,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad \u0db4\u0db1\u0dad \u0d9c\u0dd0\u0db1 \u0da2\u0dd3.\u0d91\u0dbd\u0dca \u0db4\u0dd3\u0dbb\u0dd2\u0dc3\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/c8/c8f820db.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0dcf\u0dbd\u0dd4\u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb-\u0dc4\u0dcf\u0db1\u0dd2-\u0dc0\u0dd6-\u0db4\u0dca\u200d\u0dbb-\u0daf\u0dda\u0dc1\u0dba\u0da7-\u0dad\u0dab-\u0db4\u0dd2\u0da9\u0dbd\u0dd2\u0dd2-\u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1-\u0dbb\u0dd4--\u0dbd\u0d9a\u0dca\u0dc2\u00a047\u0d9a\u0dca-\u0dba\u0db1\u0dc0\u0dbd\u0dd4/11-396519",
-    "time_ut": 1661169482,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0dcf\u0dbd\u0dd4\u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb \u0dc4\u0dcf\u0db1\u0dd2 \u0dc0\u0dd6 \u0db4\u0dca\u200d\u0dbb \u0daf\u0dda\u0dc1\u0dba\u0da7 \u0dad\u0dab \u0db4\u0dd2\u0da9\u0dbd\u0dd2\u0dd2 \u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1 \u0dbb\u0dd4. \u0dbd\u0d9a\u0dca\u0dc2\u00a047\u0d9a\u0dca \u0dba\u0db1\u0dc0\u0dbd\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/af/af954264.json"
   }
 ]
