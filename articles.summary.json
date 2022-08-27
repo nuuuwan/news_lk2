@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/sri-lanka-must-manage-existing-resources-cbsl-governor/",
+    "time_ut": 1661591640,
+    "original_lang": "en",
+    "original_title": "Sri Lanka must manage existing resources: CBSL Governor",
+    "file_name": "/tmp/news_lk2/articles/59/59416746.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/kanchana-says-tus-thrive-on-inefficient-members/",
+    "time_ut": 1661591460,
+    "original_lang": "en",
+    "original_title": "Kanchana says TUs thrive on inefficient members",
+    "file_name": "/tmp/news_lk2/articles/c4/c4daf60e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/27/sri-lanka-president-imf-hold-second-round-of-talks/",
     "time_ut": 1661591220,
     "original_lang": "en",

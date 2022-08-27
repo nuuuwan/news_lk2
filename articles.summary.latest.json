@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/sri-lanka-must-manage-existing-resources-cbsl-governor/",
+    "time_ut": 1661591640,
+    "original_lang": "en",
+    "original_title": "Sri Lanka must manage existing resources: CBSL Governor",
+    "file_name": "/tmp/news_lk2/articles/59/59416746.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/kanchana-says-tus-thrive-on-inefficient-members/",
+    "time_ut": 1661591460,
+    "original_lang": "en",
+    "original_title": "Kanchana says TUs thrive on inefficient members",
+    "file_name": "/tmp/news_lk2/articles/c4/c4daf60e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/27/sri-lanka-president-imf-hold-second-round-of-talks/",
     "time_ut": 1661591220,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0d9c \u0db8\u0dbb\u0dd4\u0dc0\u0dcf\u0da7 \u0db6\u0dd2\u0dd2\u0dbd\u0dd2 \u0dc0\u0dd6 \u0dad\u0dbb\u0dd6\u0dab \u0da2\u0dd3\u0dc0\u0dd2\u0dad \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/d1/d1e884cb.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/22/yuan-wang-5-leaves-sri-lanka-after-6-day-replenishment/",
-    "time_ut": 1661173620,
-    "original_lang": "en",
-    "original_title": "Yuan Wang 5 leaves Sri Lanka after 6-day replenishment",
-    "file_name": "/tmp/news_lk2/articles/2d/2d51d08d.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/21-000-\u0ba4\u0bca\u0ba9\u0bcd-\u0b89\u0bb0\u0bae\u0bcd-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe/175-302806",
-    "time_ut": 1661173381,
-    "original_lang": "ta",
-    "original_title": "21,000 \u0ba4\u0bca\u0ba9\u0bcd \u0b89\u0bb0\u0bae\u0bcd  \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
-    "file_name": "/tmp/news_lk2/articles/36/36c6b3d9.json"
   }
 ]
