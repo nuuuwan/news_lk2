@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/500-workforce-instead-of-4-200-at-CPC-CPSTL-CEB-can-do-the-job-efficiently-Minister/342-243862",
+    "time_ut": 1661601919,
+    "original_lang": "en",
+    "original_title": "500 workforce instead of 4,200 at CPC, CPSTL, CEB can do the job efficiently: Minister",
+    "file_name": "/tmp/news_lk2/articles/e2/e2e2bc41.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0ba9\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-303073",
+    "time_ut": 1661601183,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/83/835c1e80.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/If-no-diesel-supply-by-tomorrow-no-school-vans-on-Monday-Assn/342-243861",
     "time_ut": 1661599729,
     "original_lang": "en",
@@ -57,11 +73,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Ranjan-will-made-member-of-SJB-working-committee-parliamentary-group-Sajith/108-243860",
+    "url": "https://www.dailymirror.lk/latest_news/Ranjan-will-made-member-of-SJB-working-committee-parliamentary-group-Sajith/342-243860",
     "time_ut": 1661596667,
     "original_lang": "en",
     "original_title": "Ranjan will made member of SJB working committee, parliamentary group: Sajith",
-    "file_name": "/tmp/news_lk2/articles/86/8675c064.json"
+    "file_name": "/tmp/news_lk2/articles/7d/7d495f3e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -113,11 +129,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dd2\u0dba\u0dd4\u0dab\u0dd4-\u0d86\u0dba\u0dd4\u0db0\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dc4\u0dbb\u0daf\u0dd3-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/101-618845",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dd2\u0dba\u0dd4\u0dab\u0dd4-\u0d86\u0dba\u0dd4\u0db0\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dc4\u0dbb\u0daf\u0dd3-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/1-618845",
     "time_ut": 1661593913,
     "original_lang": "si",
     "original_title": "\u0dad\u0dd2\u0dba\u0dd4\u0dab\u0dd4 \u0d86\u0dba\u0dd4\u0db0\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dbb\u0daf\u0dd3 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4 \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/58/584fe31d.json"
+    "file_name": "/tmp/news_lk2/articles/b3/b3b836d8.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -318,6 +334,14 @@
     "original_lang": "en",
     "original_title": "Moderna suing Pfizer over Covid-19 vaccine technology",
     "file_name": "/tmp/news_lk2/articles/00/00aa5d8a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dd0\u0dbb\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0d9c\u0dd9\u0db1\u0dcf-\u0d9a\u0ddd\u0da7\u0dd2-\u0dad\u0dd4\u0db1\u0dc4\u0db8\u0dcf\u0dbb\u0d9a-\u0dbb\u0dad\u0dca\u200d\u0dbb\u0d82-\u0dbb\u0dda\u0d9c\u0dd4\u0dc0\u0dda-\u0dc4\u0dd2\u0dbb-\u0dc0\u0dd9\u0dba\u0dd2/1-618837",
+    "time_ut": 1661585127,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd0\u0dbb\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d9c\u0dd9\u0db1\u0dcf \u0d9a\u0ddd\u0da7\u0dd2 \u0dad\u0dd4\u0db1\u0dc4\u0db8\u0dcf\u0dbb\u0d9a \u0dbb\u0dad\u0dca\u200d\u0dbb\u0d82 \u0dbb\u0dda\u0d9c\u0dd4\u0dc0\u0dda \u0dc4\u0dd2\u0dbb \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/9c/9ce72ca7.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sajith meets Ranil, says NO to positions",
     "file_name": "/tmp/news_lk2/articles/0e/0ed34aa9.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9a\u0dcf-\u0dbb\u0da2\u0dba-\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0db1\u0dcf\u0dc1-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/101-618569",
-    "time_ut": 1661178910,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba \u0d9a\u0dca\u200d\u0dbb\u0db8\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0db1\u0dcf\u0dc1 \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/10/10ebb94f.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0db1\u0dcf\u0dc1-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/101-618569",
-    "time_ut": 1661178910,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba \u0d9a\u0dca\u200d\u0dbb\u0db8\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0db1\u0dcf\u0dc1 \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/e6/e6a41a41.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/22/assault-on-deshabandu-eight-suspects-plead-guilty-and-released%c2%a0on-bail/",
-    "time_ut": 1661178420,
-    "original_lang": "en",
-    "original_title": "Assault on Deshabandu: Eight suspects plead guilty, and released\u00a0on bail",
-    "file_name": "/tmp/news_lk2/articles/02/0213884a.json"
   }
 ]
