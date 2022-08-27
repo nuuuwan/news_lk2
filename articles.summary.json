@@ -8,6 +8,14 @@
     "file_name": "/tmp/news_lk2/articles/51/513b98aa.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dca-\u0db4\u0dbb\u0dca\u0dbd\u0dca-\u0dbb\u0d9a\u0dca\u0dc2\u0dab-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dd9\u0db1\u0dca-\u0dad\u0dc0\u0dad\u0dca-\u0dbd\u0d9a\u0dca\u0dc2-9110\u0d9a-\u0dc0\u0db1\u0dca\u0daf\u0dd2\u0dba\u0d9a\u0dca/11-396651",
+    "time_ut": 1661580203,
+    "original_lang": "si",
+    "original_title": "\u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dca \u0db4\u0dbb\u0dca\u0dbd\u0dca \u0dbb\u0d9a\u0dca\u0dc2\u0dab \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dd9\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0dbd\u0d9a\u0dca\u0dc2 9110\u0d9a \u0dc0\u0db1\u0dca\u0daf\u0dd2\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/0c/0cd87a0d.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/features/\u0dc3\u0dbb\u0dca\u0dc0-\u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a-\u0db6\u0dcf\u0dbd\u0d9c\u0dd2\u0dbb\u0dd2-\u0daf\u0ddd\u0dc2\u0dba/2-618835",
     "time_ut": 1661579625,
@@ -190,6 +198,14 @@
     "original_lang": "en",
     "original_title": "Five people arrested for Gampaha Murder",
     "file_name": "/tmp/news_lk2/articles/00/00a239a2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/U-S-donates-3000MT-of-food-to-feed-Sri-Lankan-school-children/342-243852",
+    "time_ut": 1661573471,
+    "original_lang": "en",
+    "original_title": "U.S donates 3000MT of food to feed Sri Lankan school children",
+    "file_name": "/tmp/news_lk2/articles/c0/c03bf439.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -425,11 +441,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Sri-Lankans-migrating-to-greener-pastures/172-243843",
+    "url": "https://www.dailymirror.lk/recomended-news/Sri-Lankans-migrating-to-greener-pastures/277-243843",
     "time_ut": 1661545058,
     "original_lang": "en",
     "original_title": "Sri Lankans migrating to greener pastures",
-    "file_name": "/tmp/news_lk2/articles/20/207025cc.json"
+    "file_name": "/tmp/news_lk2/articles/f1/f1dd083f.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
