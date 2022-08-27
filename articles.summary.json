@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/fuel-unloading-continues-cpc-says-no-shortage/",
+    "time_ut": 1661577720,
+    "original_lang": "en",
+    "original_title": "Fuel unloading continues, CPC says no shortage",
+    "file_name": "/tmp/news_lk2/articles/b5/b56c5975.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/six-people-arrested-for-damaging-slpp-mps-property/",
+    "time_ut": 1661576760,
+    "original_lang": "en",
+    "original_title": "Six people arrested for damaging SLPP MPs property",
+    "file_name": "/tmp/news_lk2/articles/04/04618867.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dcf-\u0d9a\u0db8\u0dd2\u0da7\u0dd4-\u0dc4\u0dd0\u0da7\u0d9a-\u0db4\u0dd4\u0da7\u0dd4-\u0dad\u0dc0\u0db8\u0dad\u0dca-\u0dc4\u0dd2\u0dc3\u0dca/101-618832",
+    "time_ut": 1661576495,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dcf \u0d9a\u0db8\u0dd2\u0da7\u0dd4 \u0dc4\u0dd0\u0da7\u0d9a \u0db4\u0dd4\u0da7\u0dd4 \u0dad\u0dc0\u0db8\u0dad\u0dca \u0dc4\u0dd2\u0dc3\u0dca",
+    "file_name": "/tmp/news_lk2/articles/5c/5cd34f47.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc0\u0dd4\u0dbd\u0d9a-\u0d9a\u0dd1\u0db8-\u0dc0\u0dd2\u0dba\u0daf\u0db8-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd4\u0dab-\u0dc4\u0da7\u0dd2-\u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba-\u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-618831",
     "time_ut": 1661576024,
