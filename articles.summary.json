@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0dc3\u0dbb\u0dca\u0dc0-\u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a-\u0db6\u0dcf\u0dbd\u0d9c\u0dd2\u0dbb\u0dd2-\u0daf\u0ddd\u0dc2\u0dba/2-618835",
+    "time_ut": 1661579625,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dbb\u0dca\u0dc0 \u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a \u0db6\u0dcf\u0dbd\u0d9c\u0dd2\u0dbb\u0dd2 \u0daf\u0ddd\u0dc2\u0dba",
+    "file_name": "/tmp/news_lk2/articles/b2/b2139c2b.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0d9a\u0dd3\u0dbb\u0dca\u0dad\u0dd2\u0dba-\u0dc0\u0db1\u0dc3\u0db1-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda-\u0d85\u0db4\u0dad\u0dba\u0ddd/2-618834",
+    "time_ut": 1661579019,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0d9a\u0dd3\u0dbb\u0dca\u0dad\u0dd2\u0dba \u0dc0\u0db1\u0dc3\u0db1 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0d85\u0db4\u0dad\u0dba\u0ddd",
+    "file_name": "/tmp/news_lk2/articles/15/1595543b.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/27/pucsl-wants-to-reduce-power-cuts-as-norochcolai-is-back/",
     "time_ut": 1661578440,
@@ -30,6 +46,14 @@
     "original_lang": "en",
     "original_title": "Fuel unloading continues, CPC says no shortage",
     "file_name": "/tmp/news_lk2/articles/b5/b56c5975.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0da7-\u0d91\u0db1\u0dca\u0db1-\u0dc4\u0dd2\u0da7\u0dd2-\u0dc3-\u0da2-\u0db6-\u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dd9\u0d9a\u0dca-\u0db4\u0dc3\u0dca\u0dc3-\u0d9c\u0dc4\u0dba\u0dd2/101-618833",
+    "time_ut": 1661577431,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0da7 \u0d91\u0db1\u0dca\u0db1 \u0dc4\u0dd2\u0da7\u0dd2 \u0dc3.\u0da2.\u0db6 \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dd9\u0d9a\u0dca \u0db4\u0dc3\u0dca\u0dc3 \u0d9c\u0dc4\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/7a/7aab575a.json"
   },
   {
     "newspaper_id": "news-first-lk",
