@@ -1696,6 +1696,14 @@
     "file_name": "/tmp/news_lk2/articles/1a/1ae201f1.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79194",
+    "time_ut": 1661454360,
+    "original_lang": "en",
+    "original_title": "Police explainin the reasons for arresting  Wasantha Mudalige, Hashan Jeewantha Gunathilaka and Galwewa Siridamma Thera under  the Prevention of Terrorism Act (PTA) No. 48 of 1979)",
+    "file_name": "/tmp/news_lk2/articles/62/62f377bf.json"
+  },
+  {
     "newspaper_id": "island-lk",
     "url": "http://island.lk/oil-price-worries-negatively-impact-share-market/",
     "time_ut": 1661453760,
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "QR \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/bc/bc41df82.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3-\u0db6\u0dda\u0dbb\u0dda\u0da7-\u0dad\u0dbd\u0dca\u0dbd\u0dd4-\u0d9a\u0dc5-\u0d85\u0dba-\u0dc3\u0ddc\u0dba\u0dcf-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0d9a\u0dca/101-618532",
-    "time_ut": 1661152551,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3 \u0db6\u0dda\u0dbb\u0dda\u0da7 \u0dad\u0dbd\u0dca\u0dbd\u0dd4 \u0d9a\u0dc5 \u0d85\u0dba \u0dc3\u0ddc\u0dba\u0dcf \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/ac/ac03ec12.json"
   }
 ]
