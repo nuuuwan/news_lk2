@@ -1,36 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-27 21:15:06 (LK time)*
+*As of 2022-08-27 21:32:01 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
-
-* **1** economy-next-com ([Sri Lanka coconut prices fall at auction; price range widens](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f8c41e7.json))
-
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
 * **2** economy-next-com ([Sri Lanka Customs seizes Rs.16 mln worth illegal cigarettes; five arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3ee4bde.json))
 
-* **1** tamil-mirror-lk ([யுனிசெப் வெளியிட்டுள்ள அதிர்ச்சி தகவல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58ae903c.json))
-
-## Last 3 Hours (18 Articles)
+## Last 3 Hours (15 Articles)
 
 * **5** lankadeepa-lk ([දවල් මිගෙල් රෑ දනියෙල් ප්‍රකාශකයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d02aea1.json))
 
-* **4** tamil-mirror-lk ([செவ்வாயன்று மீண்டும் கொழும்பில் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/0745c40e.json))
-
 * **3** economy-next-com ([USDA donates 320 MT beans to feed Sri Lankan school children](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8b4bb52.json))
 
-* **3** news-first-lk ([Egg prices scramble market as shortage arises](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eaf0e606.json))
+* **3** tamil-mirror-lk ([நீராடச் சென்ற மூவர் பலி; ஒருவர் மாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51a35e9b.json))
+
+* **2** news-first-lk ([PM requests UNICEF to increase assistance](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5df2f5c6.json))
 
 * **2** ada-derana-lk ([Five including woman arrested over Gampaha daylight shooting](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0461cfd.json))
 
-* **1** ada-lk ([සජබවේ දූෂණ විරෝධී ප්‍රයත්නයේ නායකත්වය රන්ජන්ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/352e695d.json))
+## Last 24 Hours (155 Articles)
 
-## Last 24 Hours (161 Articles)
-
-* **41** news-first-lk ([FR against Mudalige’s detention filed with Supreme Court](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c80651d.json))
+* **35** news-first-lk ([Sri Lankas reviews Renewable Energy Plans](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a2b40d3.json))
 
 * **26** daily-mirror-lk ([Cops who took photos seated on President’s chair face probe - Police tell court](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1be6683e.json))
 
@@ -46,9 +38,9 @@
 
 * **8** economy-next-com ([Anger over Sri Lanka’s ban on balls](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6d743d7.json))
 
-## Last Week (1,400 Articles)
+## Last Week (1,398 Articles)
 
-* **279** lankadeepa-lk ([නාන තටාකයට වැටී තරුණියක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dc304f5.json))
+* **277** lankadeepa-lk ([ඖෂධ සහ පාසල් දරුවන්ට උපකරණ ජපානයෙන් පරිත්‍යාග කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16ab3949.json))
 
 * **204** news-first-lk ([208 Sri Lanka bound flights had stopover at Thiruvananthapuram Int’l airport for refueling till date](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/171693f1.json))
 
