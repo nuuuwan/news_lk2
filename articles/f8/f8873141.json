@@ -1,0 +1,750 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b86\u0b9a\u0bbf\u0baf\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8\u0ba4\u0bcd-\u0ba4\u0bcb\u0bb1\u0bcd\u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4-\u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd/44-303092",
+  "time_ut": 1661627874,
+  "original_lang": "ta",
+  "original_title": "\u0b86\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8\u0ba4\u0bcd \u0ba4\u0bcb\u0bb1\u0bcd\u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "Asia Cup: Afghanistan beat Sri Lanka",
+      "author": "unknown",
+      "body_lines": [
+        "Afghanistan won their Group B match against Sri Lanka in Dubai last night in the Asia Cup.",
+        "Afghanistan's captain Mohammad Nabi, who won the toss of the first match of the series, announced that his team will field first.",
+        "Fast bowlers Madisha Pathirana and Dilshan Madushanga made their debut for Sri Lanka.",
+        "In that way, Sri Lanka, who came out to bat first, lost Kusal Mendis and Charit Azalanga to Pasalhaq Baruqi in the first over. In the next over, Padum fell to Naveen-ul-Haq in controversial fashion. Nisanga was given out by the field umpire and on review it was given as out when the paddle passed the ball and there was no strike.",
+        "Bhanuka Rajapaksa and Dhanushka Gunathilaka scored consecutive runs while Gunathilaka fell to Mujeeb ur Rahman. Vanidu Hazaranga, who came next at the appointed time, also fell to Rahman. Then skipper Dasun Shanaka fell to Nabi and Rajapaksa and Mahesh Dikshana, who scored 38 (29) runs, were successively run out.",
+        "In the end, Madisha Patirana also fell to Nabi and Samika Karunaratne, who fought till the end, fell to Farooqui with 31 (38) runs, losing all wickets in 19.4 overs and Sri Lanka got 105 runs.",
+        "In reply, Afghanistan were bowled out for 106 runs with Rahmanullah Gurbaz's 40 (18) and Hazratullah Sazai's unbeaten 37 (28) for the loss of 2 wickets in 10.1 overs."
+      ],
+      "title_ents": [
+        {
+          "text": "Asia Cup",
+          "label": "EVENT"
+        },
+        {
+          "text": "Afghanistan",
+          "label": "GPE"
+        },
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Afghanistan",
+            "label": "GPE"
+          },
+          {
+            "text": "Group",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Dubai",
+            "label": "GPE"
+          },
+          {
+            "text": "last night",
+            "label": "TIME"
+          },
+          {
+            "text": "the Asia Cup",
+            "label": "EVENT"
+          }
+        ],
+        [
+          {
+            "text": "Afghanistan",
+            "label": "GPE"
+          },
+          {
+            "text": "Mohammad Nabi",
+            "label": "PERSON"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Madisha Pathirana",
+            "label": "PERSON"
+          },
+          {
+            "text": "Dilshan Madushanga",
+            "label": "GPE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Kusal Mendis",
+            "label": "PERSON"
+          },
+          {
+            "text": "Charit Azalanga to",
+            "label": "ORG"
+          },
+          {
+            "text": "Pasalhaq Baruqi",
+            "label": "LOC"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Naveen-ul-Haq",
+            "label": "ORG"
+          },
+          {
+            "text": "Nisanga",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Bhanuka Rajapaksa",
+            "label": "PERSON"
+          },
+          {
+            "text": "Dhanushka Gunathilaka",
+            "label": "PERSON"
+          },
+          {
+            "text": "Gunathilaka",
+            "label": "ORG"
+          },
+          {
+            "text": "Mujeeb",
+            "label": "ORG"
+          },
+          {
+            "text": "Rahman",
+            "label": "PERSON"
+          },
+          {
+            "text": "Dasun Shanaka",
+            "label": "PERSON"
+          },
+          {
+            "text": "Nabi",
+            "label": "PERSON"
+          },
+          {
+            "text": "Rajapaksa",
+            "label": "GPE"
+          },
+          {
+            "text": "Mahesh Dikshana",
+            "label": "PERSON"
+          },
+          {
+            "text": "38",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Madisha Patirana",
+            "label": "PERSON"
+          },
+          {
+            "text": "Nabi",
+            "label": "PERSON"
+          },
+          {
+            "text": "Samika Karunaratne",
+            "label": "PERSON"
+          },
+          {
+            "text": "Farooqui",
+            "label": "GPE"
+          },
+          {
+            "text": "31",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "38",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "19.4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "105",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Afghanistan",
+            "label": "GPE"
+          },
+          {
+            "text": "106",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Rahmanullah Gurbaz's",
+            "label": "PERSON"
+          },
+          {
+            "text": "40",
+            "label": "DATE"
+          },
+          {
+            "text": "18",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Hazratullah Sazai's",
+            "label": "PERSON"
+          },
+          {
+            "text": "37",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10.1",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba: \u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0db4\u0dbb\u0dcf\u0da2\u0dba \u0d9a\u0dc5\u0dda\u0dba",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc3\u0db8\u0d9c \u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2\u0dc4\u0dd2\u0daf\u0dd3 \u0d8a\u0dba\u0dda \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dda \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dd2 \u2018\u0db6\u0dd3\u2019 \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba\u0dda \u0dad\u0dbb\u0d9c\u0dba \u0da2\u0dba \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba \u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd2\u0dba.",
+        "\u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0dad\u0dbb\u0d9c\u0dba\u0dda \u0d9a\u0dcf\u0dc3\u0dd2\u0dba\u0dda \u0dc0\u0dcf\u0dc3\u0dd2\u0dba \u0daf\u0dd2\u0db1\u0dd6 \u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0db1\u0dcf\u0dba\u0d9a \u0db8\u0ddc\u0dc4\u0ddc\u0db8\u0da9\u0dca \u0db1\u0db6\u0dd2 \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d9a\u0dc5\u0dda \u0dad\u0db8 \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dbb\u0dd0\u0d9a\u0dd3\u0db8\u0da7 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dbb\u0db1 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0dc0\u0dda\u0d9c\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dba\u0dc0\u0db1\u0dca\u0db1\u0db1\u0dca \u0dc0\u0db1 \u0db8\u0daf\u0dd3\u0dc2 \u0db4\u0dad\u0dd2\u0dbb\u0dab \u0dc3\u0dc4 \u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0db8\u0db0\u0dd4\u0dc2\u0d82\u0d9c \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0dba \u0db8\u0d82\u0d9c\u0dbd \u0dad\u0dbb\u0d9c\u0dba\u0da7 \u0d91\u0d9a\u0dca\u0dc0\u0dd6\u0dc4.",
+        "\u0d92 \u0d86\u0d9a\u0dcf\u0dbb\u0dba\u0da7 \u0db4\u0dc5\u0db8\u0dd4\u0dc0 \u0db4\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8\u0da7 \u0db4\u0dd2\u0da7\u0dd2\u0dba\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dd2\u0dbd\u0da7 \u0db4\u0dc5\u0db8\u0dd4 \u0d95\u0dc0\u0dbb\u0dba\u0dda\u0daf\u0dd3\u0db8 \u0d9a\u0dd4\u0dc3\u0dbd\u0dca \u0db8\u0dd9\u0db1\u0dca\u0da9\u0dd2\u0dc3\u0dca \u0dc3\u0dc4 \u0da0\u0dbb\u0dd2\u0dad\u0dca \u0d85\u0dc3\u0dbd\u0d82\u0d9c \u0daf\u0dd0\u0dc0\u0dd3 \u0d9c\u0dd2\u0dba\u0dda \u0db4\u0dc3\u0dbd\u0dca\u0dc4\u0d9a\u0dca \u0db6\u0dbb\u0dd4\u0d9a\u0dd2 \u0dc0\u0dd9\u0dad\u0dba. \u0d8a\u0dc5\u0d9f \u0d95\u0dc0\u0dbb\u0dba\u0dda\u0daf\u0dd3 \u0db4\u0daf\u0dd4\u0db8\u0dca, \u0d86\u0db1\u0dca\u0daf\u0ddd\u0dbd\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d86\u0d9a\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dc0\u0dd3\u0db1\u0dca-\u0d8b\u0dbd\u0dca-\u0dc4\u0d9a\u0dca \u0d85\u0dad\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd2\u0dba. \u0db1\u0dd2\u0dc3\u0d82\u0d9c \u0db4\u0dd2\u0da7\u0dd2\u0dba\u0dda \u0dc0\u0dd2\u0db1\u0dd2\u0dc3\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dba\u0dcf \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0daf\u0dd0\u0dc0\u0dd3 \u0d9c\u0dd2\u0dba \u0d85\u0dad\u0dbb \u0dc3\u0db8\u0dcf\u0dbd\u0ddd\u0da0\u0db1\u0dba\u0dda\u0daf\u0dd3 \u0d91\u0dba \u0db4\u0dd0\u0da9\u0dbd\u0dba \u0db4\u0db1\u0dca\u0daf\u0dd4\u0dc0 \u0dba\u0dc0\u0daf\u0dca\u0daf\u0dd3 \u0db4\u0dc4\u0dbb\u0d9a\u0dca \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2 \u0dc0\u0dd6 \u0dc0\u0dd2\u0da7 \u0daf\u0dd0\u0dc0\u0dd3 \u0d9c\u0dd2\u0dba \u0db6\u0dc0\u0da7 \u0dbd\u0db6\u0dcf \u0daf\u0dd3 \u0d87\u0dad.",
+        "\u0db7\u0dcf\u0db1\u0dd4\u0d9a \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0dc3\u0dc4 \u0db0\u0db1\u0dd4\u0dc2\u0dca\u0d9a \u0d9c\u0dd4\u0dab\u0dad\u0dd2\u0dbd\u0d9a \u0db4\u0dd2\u0da7 \u0db4\u0dd2\u0da7 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0dbb\u0dd0\u0dc3\u0dca \u0d9a\u0dc5 \u0d85\u0dad\u0dbb \u0d9c\u0dd4\u0dab\u0dad\u0dd2\u0dbd\u0d9a \u0db8\u0dd4\u0da2\u0dd3\u0db6\u0dca \u0d8b\u0dbb\u0dca \u0dbb\u0dc4\u0db8\u0dcf\u0db1\u0dca \u0d85\u0dad\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd2\u0dba. \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0dc0\u0dda\u0dbd\u0dcf\u0dc0\u0da7 \u0d8a\u0dc5\u0d9f\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2 \u0dc0\u0db1\u0dd2\u0daf\u0dd4 \u0dc4\u0dc3\u0dbb\u0d82\u0d9c \u0daf \u0dbb\u0dc4\u0dca\u0db8\u0dcf\u0db1\u0dca \u0d85\u0dad\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd2\u0dba. \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4\u0dc0 \u0db1\u0dcf\u0dba\u0d9a \u0daf\u0dc3\u0dd4\u0db1\u0dca \u0dc1\u0dcf\u0db1\u0d9a \u0db1\u0db6\u0dd2 \u0d85\u0dad\u0da7 \u0d87\u0daf \u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dd4 \u0d85\u0dad\u0dbb \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 38 (29) \u0dbd\u0db6\u0dcf \u0dc3\u0dd2\u0da7\u0dd2 \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0dc3\u0dc4 \u0db8\u0dc4\u0dda\u0dc2\u0dca \u0daf\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0db4\u0dd2\u0da7 \u0db4\u0dd2\u0da7\u0db8 \u0daf\u0dd0\u0dc0\u0dd3 \u0d9c\u0dd2\u0dba\u0dc4.",
+        "\u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0dda \u0db8\u0daf\u0dd3\u0dc2 \u0db4\u0dad\u0dd2\u0dbb\u0dab \u0daf \u0db1\u0db6\u0dd2 \u0d85\u0dad\u0da7 \u0d87\u0daf \u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dd4 \u0d85\u0dad\u0dbb \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0da7\u0db1\u0dca \u0dc0\u0dd0\u0daf\u0dd4\u0dab\u0dd4 \u0dc3\u0db8\u0dd2\u0d9a\u0dcf \u0d9a\u0dbb\u0dd4\u0dab\u0dcf\u0dbb\u0dad\u0dca\u0db1 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 31 (38) \u0daf\u0dd3 \u0dc6\u0dcf\u0dbb\u0dd4\u0d9a\u0dd2 \u0d85\u0dad\u0da7 \u0d87\u0daf \u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dda \u0d95\u0dc0\u0dbb 19.4\u0d9a\u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0daf\u0dd9\u0db1\u0dcf \u0daf\u0dd0\u0dc0\u0dd3 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 105\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0db1\u0dd2\u0db8\u0dd2\u0db1\u0dd2.",
+        "\u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0dd4 \u0d89\u0db1\u0dd2\u0db8 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0d9a\u0dc5 \u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba \u0d95\u0dc0\u0dbb 10.1\u0d9a\u0daf\u0dd3 \u0d9a\u0da9\u0dd4\u0dbd\u0dd4 2\u0d9a\u0dca \u0daf\u0dd0\u0dc0\u0dd3 \u0dbb\u0dc4\u0db8\u0db1\u0dd4\u0dbd\u0dca\u0dbd\u0dcf \u0d9c\u0dd4\u0dbb\u0dca\u0db6\u0dcf\u0dc3\u0dca\u0d9c\u0dda \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 40 (18) \u0dc3\u0dc4 \u0dc4\u0dc3\u0dca\u0dbb\u0dad\u0dd4\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0dc3\u0dcf\u0dba\u0dd2\u0d9c\u0dda \u0db1\u0ddc\u0daf\u0dd0\u0dc0\u0dd3 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 37 (28) \u0dc3\u0db8\u0d9f\u0dd2\u0db1\u0dca \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 106\u0d9a\u0da7 \u0daf\u0dd0\u0dc0\u0dd3 \u0d9c\u0dd2\u0dba\u0dda\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba",
+          "label": "EVENT"
+        },
+        {
+          "text": "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dbb\u0dcf\u0dad\u0dca\u0dbb\u0dd2\u0dba",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba",
+            "label": "EVENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0dc4\u0ddc\u0db8\u0da9\u0dca \u0db1\u0db6\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0daf\u0dd3\u0dc2 \u0db4\u0dad\u0dd2\u0dbb\u0dab",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0db8\u0db0\u0dd4\u0dc2\u0d82\u0d9c",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dd4\u0dc3\u0dbd\u0dca \u0db8\u0dd9\u0db1\u0dca\u0da9\u0dd2\u0dc3\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "Charit Azalanga \u0dc0\u0dd9\u0dad",
+            "label": "ORG"
+          },
+          {
+            "text": "Pasalhaq Baruqi",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db1\u0dc0\u0dd3\u0db1\u0dca-\u0d8b\u0dbd\u0dca-\u0dc4\u0d9a\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dd2\u0dc3\u0d82\u0d9c",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db7\u0dcf\u0db1\u0dd4\u0d9a \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db0\u0db1\u0dd4\u0dc2\u0dca\u0d9a \u0d9c\u0dd4\u0dab\u0dad\u0dd2\u0dbd\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9c\u0dd4\u0dab\u0dad\u0dd2\u0dbd\u0d9a\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd4\u0da2\u0dd3\u0db6\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0dc4\u0dca\u0db8\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0daf\u0dc3\u0dd4\u0db1\u0dca \u0dc1\u0dcf\u0db1\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db1\u0db6\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dc4\u0dda\u0dc2\u0dca \u0daf\u0dd2\u0d9a\u0dca\u200c\u0dc2\u0dab",
+            "label": "PERSON"
+          },
+          {
+            "text": "38",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0daf\u0dd3\u0dc2 \u0db4\u0dad\u0dd2\u0dbb\u0dab",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db1\u0db6\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0dcf\u0db8\u0dd2\u0d9a \u0d9a\u0dbb\u0dd4\u0dab\u0dcf\u0dbb\u0dad\u0dca\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc6\u0dcf\u0dbb\u0dd4\u0d9a\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "31",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "38",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "19.4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "105",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "106",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dc4\u0dca\u0db8\u0dcf\u0db1\u0dd4\u0dbd\u0dca\u0dbd\u0dcf \u0d9c\u0dd4\u0dbb\u0dca\u0db6\u0dcf\u0dc3\u0dca\u0d9c\u0dda",
+            "label": "PERSON"
+          },
+          {
+            "text": "40",
+            "label": "DATE"
+          },
+          {
+            "text": "18",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc4\u0dc3\u0dca\u0dbb\u0dad\u0dd4\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0dc3\u0dcf\u0dba\u0dd2\u0d9c\u0dda",
+            "label": "PERSON"
+          },
+          {
+            "text": "37",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10.1",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b86\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8\u0ba4\u0bcd \u0ba4\u0bcb\u0bb1\u0bcd\u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+      "author": "unknown",
+      "body_lines": [
+        "\u0b86\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bbf\u0bb2\u0bcd, \u0b9f\u0bc1\u0baa\u0bbe\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bbf\u0bb0\u0bb5\u0bc1 \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0b95\u0bc1\u0bb4\u0bc1 \u0baa\u0bbf \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1.",
+        "\u0ba4\u0bca\u0b9f\u0bb0\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb1\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bbe\u0ba3\u0baf\u0b9a\u0bcd \u0b9a\u0bc1\u0bb4\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1 \u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd \u0b85\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0bae\u0bca\u0bb9\u0bae\u0b9f\u0bcd \u0ba8\u0baa\u0bbf, \u0ba4\u0bae\u0ba4\u0ba3\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bc0\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0bbe\u0bb0\u0bcd\u0baa\u0bbe\u0b95 \u0bb5\u0bc7\u0b95\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0ba4\u0bc0\u0bb7 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0ba3, \u0b9f\u0bbf\u0bb2\u0bcd\u0bb7\u0bbe\u0ba9\u0bcd \u0bae\u0ba4\u0bc1\u0bb7\u0b99\u0bcd\u0b95 \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0b85\u0ba8\u0bcd\u0ba4\u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b9f\u0b95\u0bcd \u0b95\u0bb3\u0bae\u0bbf\u0bb1\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8, \u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bb5\u0ba4\u0bc1 \u0b93\u0bb5\u0bb0\u0bbf\u0bb2\u0bc7\u0baf\u0bc7 \u0baa\u0bb8\u0bb2\u0bcd\u0bb9\u0b95\u0bcd \u0baa\u0bb0\u0bc2\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bc1\u0b9a\u0bb2\u0bcd \u0bae\u0bc6\u0ba9\u0bcd\u0b9f\u0bbf\u0bb8\u0bcd, \u0b9a\u0bb0\u0bbf\u0ba4\u0bcd \u0b85\u0bb8\u0bb2\u0b99\u0bcd\u0b95\u0bb5\u0bc8 \u0b87\u0bb4\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b93\u0bb5\u0bb0\u0bbf\u0bb2\u0bcd \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bbf\u0baf \u0bb5\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bb5\u0bc0\u0ba9\u0bcd-\u0b89\u0bb2\u0bcd-\u0bb9\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bae\u0bcd \u0baa\u0ba4\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb8\u0b99\u0bcd\u0b95 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0ba8\u0bbf\u0bb8\u0b99\u0bcd\u0b95\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0b9f\u0bc1\u0b95\u0bb3 \u0ba8\u0b9f\u0bc1\u0bb5\u0bb0\u0bbe\u0bb2\u0bcd \u0b86\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc0\u0bb3\u0bcd\u0baa\u0bb0\u0bbf\u0b9a\u0bc0\u0bb2\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0baa\u0bcb\u0ba4\u0bc1 \u0ba4\u0bc1\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc8 \u0baa\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bc7\u0ba4\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4\u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bc1 \u0b86\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bb5\u0bc7 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bbe\u0ba9\u0bc1\u0b95 \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u200c\u0bb7\u0bb5\u0bc1\u0bae\u0bcd, \u0ba4\u0ba9\u0bc1\u0bb7\u0bcd\u0b95 \u0b95\u0bc1\u0ba3\u0ba4\u0bbf\u0bb2\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0b9c\u0bc0\u0baa\u0bcd \u0b89\u0bb0\u0bcd \u0bb0\u0bb9\u0bcd\u0bae\u0bbe\u0ba9\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bc1\u0ba3\u0ba4\u0bbf\u0bb2\u0b95 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4 \u0bb5\u0ba9\u0bbf\u0b9f\u0bc1 \u0bb9\u0bb8\u0bb0\u0b99\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bb0\u0bb9\u0bcd\u0bae\u0bbe\u0ba9\u0bbf\u0b9f\u0bae\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b85\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0ba4\u0b9a\u0bc1\u0ba9\u0bcd \u0bb7\u0bbe\u0ba9\u0b95 \u0ba8\u0baa\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0ba4\u0bcb\u0b9f\u0bc1, 38 (29) \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u200c\u0bb7, \u0bae\u0b95\u0bc7\u0bb7\u0bcd \u0ba4\u0bc0\u0b95\u0bcd\u200c\u0bb7\u0ba9 \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb0\u0ba3\u0bcd \u0b85\u0bb5\u0bc1\u0b9f\u0bcd\u0b9f\u0bbe\u0b95\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0baa\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0bae\u0ba4\u0bc0\u0bb7 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0ba3\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0ba4\u0bcb\u0b9f\u0bc1, \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0bb5\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bbf\u0baf \u0b9a\u0bbe\u0bae\u0bbf\u0b95 \u0b95\u0bb0\u0bc1\u0ba3\u0bbe\u0bb0\u0ba4\u0bcd\u0ba9 31 (38) \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcb\u0b9f\u0bc1 \u0baa\u0bb0\u0bc2\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0bb5\u0bbf\u0bb4 19.4 \u0b93\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b9a\u0b95\u0bb2 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b87\u0bb4\u0ba8\u0bcd\u0ba4\u0bc1 105 \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc7 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1.",
+        "\u0baa\u0ba4\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 106 \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba4\u0bc1\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b9f\u0bbf\u0baf \u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd, \u0bb0\u0bb9\u0bcd\u0bae\u0ba9\u0bc1\u0bb2\u0bcd\u0bb2\u0bbe\u0bb9\u0bcd \u0b95\u0bc1\u0bb0\u0bcd\u0baa\u0bbe\u0bb8\u0bbf\u0ba9\u0bcd 40 (18), \u0bb9\u0bb8\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0bb2\u0bcd\u0bb2\u0bbe\u0bb9\u0bcd \u0bb8\u0bb8\u0bbe\u0baf\u0bbf\u0ba9\u0bcd \u0b86\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bbe\u0ba4 37 (28) \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcb\u0b9f\u0bc1 10.1 \u0b93\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 2 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b87\u0bb4\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b86\u0b9a\u0bbf\u0baf \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8",
+          "label": "EVENT"
+        },
+        {
+          "text": "\u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba4\u0bc1\u0baa\u0bbe\u0baf\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b87\u0bb0\u0bb5\u0bc1",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8",
+            "label": "EVENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1 \u0ba8\u0baa\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0ba4\u0bbf\u0bb7\u0bbe \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0bb2\u0bcd\u0bb7\u0bbe\u0ba9\u0bcd \u0bae\u0ba4\u0bc1\u0bb7\u0b99\u0bcd\u0b95",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0b9a\u0bb2\u0bcd \u0bae\u0bc6\u0ba3\u0bcd\u0b9f\u0bbf\u0bb8\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bb0\u0bbf\u0b9f\u0bcd \u0b85\u0b9a\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0baf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0b9a\u0bb2\u0bcd\u0bb9\u0b95\u0bcd \u0baa\u0bb0\u0bc1\u0b95\u0bbf",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0ba8\u0bb5\u0bc0\u0ba9\u0bcd-\u0b89\u0bb2\u0bcd-\u0bb9\u0b95\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0b9a\u0b99\u0bcd\u0b95\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbe\u0ba9\u0bc1\u0b95\u0bbe \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba4\u0ba9\u0bc1\u0bb7\u0bcd\u0b95 \u0b95\u0bc1\u0ba3\u0ba4\u0bbf\u0bb2\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0ba3\u0ba4\u0bbf\u0bb2\u0b95",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0b9c\u0bc0\u0baa\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0bb9\u0bcd\u0bae\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba4\u0b9a\u0bc1\u0ba9\u0bcd \u0bb7\u0ba9\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0baa\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0b95\u0bc7\u0bb7\u0bcd \u0ba4\u0bc0\u0b95\u0bcd\u0bb7\u0ba9\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "38",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0ba4\u0bbf\u0bb7\u0bbe \u0baa\u0ba4\u0bbf\u0bb0\u0ba3",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0baa\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bbf\u0b95 \u0b95\u0bb0\u0bc1\u0ba3\u0bbe\u0bb0\u0ba4\u0bcd\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bb0\u0bc2\u0b95\u0bcd\u0b95\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "31",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "38",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "19.4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "105",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "106",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb0\u0bb9\u0bcd\u0bae\u0bbe\u0ba9\u0bc1\u0bb2\u0bcd\u0bb2\u0bbe \u0b95\u0bc1\u0bb0\u0bcd\u0baa\u0bbe\u0bb8\u0bcd \u0ba4\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "40",
+            "label": "DATE"
+          },
+          {
+            "text": "18",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb9\u0b9c\u0bcd\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0bb2\u0bcd\u0bb2\u0bbe\u0bb9\u0bcd \u0b9a\u0b9c\u0bbe\u0baf\u0bcd \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "37",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10.1",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}

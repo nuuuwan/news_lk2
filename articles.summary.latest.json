@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b86\u0b9a\u0bbf\u0baf\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8\u0ba4\u0bcd-\u0ba4\u0bcb\u0bb1\u0bcd\u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4-\u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd/44-303092",
+    "time_ut": 1661627874,
+    "original_lang": "ta",
+    "original_title": "\u0b86\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8\u0ba4\u0bcd \u0ba4\u0bcb\u0bb1\u0bcd\u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/f8/f8873141.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0b9a\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0ba9\u0bcd-\u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-303091",
     "time_ut": 1661625927,
     "original_lang": "ta",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s lost people\u2019s revolution",
     "file_name": "/tmp/news_lk2/articles/51/519eca66.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Importance-of-looking-at-the-bigger-picture/172-243533",
-    "time_ut": 1661190087,
-    "original_lang": "en",
-    "original_title": "Importance of looking at the bigger picture",
-    "file_name": "/tmp/news_lk2/articles/70/70280c2a.json"
   }
 ]

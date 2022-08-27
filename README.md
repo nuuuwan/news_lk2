@@ -1,38 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-28 00:34:35 (LK time)*
+*As of 2022-08-28 01:05:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** tamil-mirror-lk ([பொலிஸ் சட்டப்பிரிவின் பணிப்பாளர் நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce934439.json))
+* **1** tamil-mirror-lk ([ஆசியக் கிண்ணம்: இலங்கையைத் தோற்கடித்த ஆப்கானிஸ்தான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8873141.json))
 
 ## Last Hour (2 Articles)
 
-* **1** tamil-mirror-lk ([பொலிஸ் சட்டப்பிரிவின் பணிப்பாளர் நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce934439.json))
+* **2** tamil-mirror-lk ([பொலிஸ் சட்டப்பிரிவின் பணிப்பாளர் நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce934439.json))
 
-* **1** ada-derana-lk ([India, Sri Lanka should build framework to discuss maritime concerns: Moragoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/515e0039.json))
-
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (10 Articles)
 
 * **5** daily-mirror-lk ([May 9 incident: Two victimised Anglican Clergymen awaiting law and justice](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b58bf919.json))
 
 * **3** ada-derana-lk ([SSP Ruwan Gunasekera appointed Director of Police Legal Division](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/481bceb1.json))
 
-* **1** tamil-mirror-lk ([பொலிஸ் சட்டப்பிரிவின் பணிப்பாளர் நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce934439.json))
+* **2** tamil-mirror-lk ([பொலிஸ் சட்டப்பிரிவின் பணிப்பாளர் நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce934439.json))
 
-* **1** lankadeepa-lk ([කොවිඩ් මරණ තවත් 6 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5a0f2ea.json))
-
-* **1** news-first-lk ([Businessman’s son abducted from Wattala](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2d1bb48.json))
-
-## Last 24 Hours (141 Articles)
+## Last 24 Hours (139 Articles)
 
 * **32** news-first-lk ([Norochcholai Back in Operation](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83c78f72.json))
 
-* **27** daily-mirror-lk ([ADB halts funding for rooftop solar power generation project](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f36cb23.json))
+* **25** daily-mirror-lk ([Sri Lankans migrating to greener pastures](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1dd083f.json))
 
-* **24** tamil-mirror-lk ([ஜனாதிபதியுடன் ஐ.எம்.எப். பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5b5ad5e.json))
+* **24** tamil-mirror-lk ([பொதுமக்கள் பாதுகாப்பு அமைச்சரின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c9f3fab.json))
 
 * **24** lankadeepa-lk ([හොර හරක් වෑන් රිය අධිබලැති විදුලි කණුවේ ගැටේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56663b23.json))
 
@@ -48,7 +42,7 @@
 
 * **205** news-first-lk ([208 Sri Lanka bound flights had stopover at Thiruvananthapuram Int’l airport for refueling till date](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/171693f1.json))
 
-* **182** tamil-mirror-lk ([ஜ.நா. பிரதிநிதிகள் யாழ். மேயருடன் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc768695.json))
+* **183** tamil-mirror-lk ([ஜ.நா. பிரதிநிதிகள் யாழ். மேயருடன் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc768695.json))
 
 * **176** daily-mirror-lk (['GotaGoHome' France activist arrested over May 9 violence when visiting Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a325225.json))
 
@@ -62,11 +56,11 @@
 
 * **52** island-lk ([Increasing productivity and reducing costs with HR Pro SaaS cloud technology](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0287cba.json))
 
-* **16** d-b-s-jeyaraj-com ([The SLPP will not gain a majority in the next election. But it won’t be wiped out either. The Rajapaksa family party is likely to command a significant minority with around 20% of the vote, especially if Mahinda Rajapaksa leads the campaign.](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a44c7391.json))
+* **15** d-b-s-jeyaraj-com ([Arrest and Detention of Three  University Student Union Activists under the Draconian Prevention of Terrorism Act(PTA) Results in Widespread Critism of  Wickremesinghe Govt](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ed81334.json))
 
 * **8** colombo-telegraph-com ([Prelude To Elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/0846aaef.json))
 
-## All Time (3,256 Articles)
+## All Time (3,257 Articles)
 
 * **585** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -76,7 +70,7 @@
 
 * **409** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
-* **350** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **351** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **313** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
