@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/rs-911-mn-received-for-x-press-pearl-compensation/",
+    "time_ut": 1661585460,
+    "original_lang": "en",
+    "original_title": "Rs. 911 Mn received for X-Press Pearl compensation",
+    "file_name": "/tmp/news_lk2/articles/51/51825f15.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84571/moderna-suing-pfizer-over-covid-19-vaccine-technology",
+    "time_ut": 1661585340,
+    "original_lang": "en",
+    "original_title": "Moderna suing Pfizer over Covid-19 vaccine technology",
+    "file_name": "/tmp/news_lk2/articles/00/00aa5d8a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd0\u0dbb\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0d9c\u0dd9\u0db1\u0dcf-\u0d9a\u0ddd\u0da7\u0dd2-\u0dad\u0dd4\u0db1\u0dc4\u0db8\u0dcf\u0dbb\u0d9a-\u0dbb\u0dad\u0dca\u200d\u0dbb\u0d82-\u0dbb\u0dda\u0d9c\u0dd4\u0dc0\u0dda\u0daf\u0dd3-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-618837",
+    "time_ut": 1661585127,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd0\u0dbb\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d9c\u0dd9\u0db1\u0dcf \u0d9a\u0ddd\u0da7\u0dd2 \u0dad\u0dd4\u0db1\u0dc4\u0db8\u0dcf\u0dbb\u0d9a \u0dbb\u0dad\u0dca\u200d\u0dbb\u0d82 \u0dbb\u0dda\u0d9c\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/79/79d2649b.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0bae\u0bbf\u0b95\u0baa\u0bcd-\u0baa\u0bc6\u0bb0\u0bbf\u0baf-\u0bae\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0b95\u0bcd-\u0b95\u0bb2\u0bcd\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0b9f\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1-\u0b8e\u0ba9\u0bcd\u0ba9/175-303064",
     "time_ut": 1661584112,
@@ -966,6 +990,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka bond yields flat",
     "file_name": "/tmp/news_lk2/articles/7d/7de994a1.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-bond-yields-flat-kerb-rate-down-99064/",
+    "time_ut": 1661516700,
+    "original_lang": "en",
+    "original_title": "Sri Lanka bond yields flat, kerb rate down",
+    "file_name": "/tmp/news_lk2/articles/c7/c73a6bc6.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
