@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/sri-lanka-president-imf-hold-second-round-of-talks/",
+    "time_ut": 1661591220,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President & IMF hold second round of talks",
+    "file_name": "/tmp/news_lk2/articles/a6/a6d3628f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0ba8\u0bcd\u0ba4-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd/175-303067",
+    "time_ut": 1661590960,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/4c/4cd6e208.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/did-not-take-back-performance-bond-l-c-expired-qingdao/",
+    "time_ut": 1661590860,
+    "original_lang": "en",
+    "original_title": "Did not take back performance bond, L/C expired \u2013 Qingdao",
+    "file_name": "/tmp/news_lk2/articles/38/38f663e0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/27/srilanka-devastating-crisis-for-children/",
     "time_ut": 1661589900,
     "original_lang": "en",
@@ -30,6 +54,14 @@
     "original_lang": "ta",
     "original_title": "\u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bc1 \u0b95\u0bbe\u0ba3\u0bbe\u0ba4 \u0b87\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0ba4 \u0bae\u0bb4\u0bc8  - 937 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf ; \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b85\u0bb5\u0b9a\u0bb0 \u0ba8\u0bbf\u0bb2\u0bc8 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1!",
     "file_name": "/tmp/news_lk2/articles/e6/e64bfa94.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b95\u0bcd-\u0baa\u0bc7\u0bb0\u0bbf\u0b9f\u0bb0\u0bcd-\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0b85\u0bb5\u0b9a\u0bb0-\u0ba8\u0bbf\u0bb2\u0bc8-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/50-303066",
+    "time_ut": 1661588886,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0b95\u0bcd. \u0baa\u0bc7\u0bb0\u0bbf\u0b9f\u0bb0\u0bcd: \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b85\u0bb5\u0b9a\u0bb0 \u0ba8\u0bbf\u0bb2\u0bc8 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ac/acdec859.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "ta",
     "original_title": "21,000 \u0ba4\u0bca\u0ba9\u0bcd \u0b89\u0bb0\u0bae\u0bcd  \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
     "file_name": "/tmp/news_lk2/articles/36/36c6b3d9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/22/jehan-appuhami-released-on-bail/",
-    "time_ut": 1661173320,
-    "original_lang": "en",
-    "original_title": "Jehan Appuhami released on bail.",
-    "file_name": "/tmp/news_lk2/articles/ad/adde85da.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da0\u0db8\u0dd2\u0db1\u0dca\u0daf-\u0d9a\u0dd0\u0dbd\u0dd4\u0db8\u0dca\u0db4\u0dca\u200d\u0dbb\u0dd2\u0dba\u0da7-\u0d87\u0db4/1-618565",
-    "time_ut": 1661173224,
-    "original_lang": "si",
-    "original_title": "\u0da0\u0db8\u0dd2\u0db1\u0dca\u0daf \u0d9a\u0dd0\u0dbd\u0dd4\u0db8\u0dca\u0db4\u0dca\u200d\u0dbb\u0dd2\u0dba\u0da7 \u0d87\u0db4",
-    "file_name": "/tmp/news_lk2/articles/10/109701ab.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Stop-restructuring-project-involving-CPC/110-243501",
-    "time_ut": 1661172613,
-    "original_lang": "en",
-    "original_title": "Stop restructuring project involving CPC",
-    "file_name": "/tmp/news_lk2/articles/5b/5bbb391d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Dearth-of-Science-technology-enrollment-in-faculties-caused-unemployment-Minister/342-243500",
-    "time_ut": 1661172107,
-    "original_lang": "en",
-    "original_title": "Dearth of Science, technology enrollment in faculties caused unemployment: Minister",
-    "file_name": "/tmp/news_lk2/articles/9e/9e45a758.json"
   }
 ]
