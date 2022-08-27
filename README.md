@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-27 18:02:07 (LK time)*
+*As of 2022-08-27 18:21:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([500 workforce instead of 4,200 at CPC, CPSTL, CEB can do the job efficiently: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2e2bc41.json))
 
 ## Last Hour (2 Articles)
 
@@ -14,53 +10,53 @@
 
 * **1** tamil-mirror-lk ([பிச்சைக்காரன் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/835c1e80.json))
 
-## Last 3 Hours (19 Articles)
+## Last 3 Hours (17 Articles)
 
 * **5** daily-mirror-lk ([More fuel will be supplied in next 3 days: Minister instructs](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4ce94690.json))
 
-* **5** tamil-mirror-lk ([விரைவில் ஆட்குறைப்பு?: அமைச்சர் அதிரடி](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20a302b7.json))
+* **4** tamil-mirror-lk ([திங்கள் முதல் சேவை தடைப்படும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e4e75c0.json))
 
 * **3** ada-derana-lk ([Minister Kanchana says coal tender awarded to lowest bidder](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce2a4cca.json))
 
 * **3** news-first-lk ([Yuan Wang 5 mapping Indian Ocean after leaving Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecea3f5b.json))
 
-* **2** ada-lk ([නොරොච්චෝලේ කැඩුණ යන්ත්‍රය යළිත් ජාතික පද්ධතියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de99d5b.json))
+* **1** ada-lk ([විදුලි කප්පාදුව අඩු කළ හැකිදැයි ලංවිමෙන් විමසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/382cf2f8.json))
 
 * **1** lankadeepa-lk ([තියුණු ආයුධයකින් පහරදී පුද්ගලයෙකු ඝාතනය කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3b836d8.json))
 
-## Last 24 Hours (165 Articles)
+## Last 24 Hours (161 Articles)
 
 * **40** news-first-lk ([Navy leaps into action to extinguish fire at marshy-land in Wattala](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c7490d1.json))
 
 * **29** daily-mirror-lk ([Another round of talks between President, IMF](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a933db3f.json))
 
-* **25** lankadeepa-lk ([ගොවිජන බැංකු තැන්පතු කෝටි 600 ඉක්මවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a634b395.json))
+* **24** lankadeepa-lk ([සති අන්තයේත් පැය 3 ක් විදුලිය කපයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab06a24b.json))
 
 * **19** tamil-mirror-lk ([ஜனாதிபதியுடன் ஐ.எம்.எப். பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5b5ad5e.json))
 
-* **15** ada-derana-lk ([Three-hour power cuts on Aug 27 and 28](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24c697c0.json))
+* **14** ada-derana-lk ([IMF delegates holds another meeting with President and Fin. Min. officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/803b75b4.json))
 
 * **13** daily-ft-lk ([NATO Alliance of Sri Lanka: ‘No Action, Talk Only’ way to overcome an economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c6c20c9.json))
 
-* **11** ada-lk ([ජාත්‍යන්තර මූල්‍ය අරමුදල සමග තවත් සාකච්ඡාවක්  ජනපති ප්‍රධානත්වයෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a785fa77.json))
+* **10** ada-lk ([සති අන්තයටත් පැය තුනක් විදුලිය නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/9263d618.json))
 
-* **6** economy-next-com ([Sri Lanka schedules power cuts of 3 hours for August 27, 28](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c5e303e.json))
+* **5** economy-next-com ([Anger over Sri Lanka’s ban on balls](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6d743d7.json))
 
 * **5** island-lk ([LASO signs MoU with YoungShip Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/875b94ce.json))
 
 * **2** colombo-telegraph-com ([Taking Dictatorial Steps To Control Public Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/841810c5.json))
 
-## Last Week (1,398 Articles)
+## Last Week (1,396 Articles)
 
 * **274** lankadeepa-lk ([නාන තටාකයට වැටී තරුණියක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dc304f5.json))
 
 * **204** news-first-lk ([Sumanthiran condemns detention orders on protestors, calls for PTA to be repealed](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f3917ee.json))
 
-* **182** tamil-mirror-lk ([தேசிய மக்கள் சக்தியின் பேரணி ஆரம்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c0c4893.json))
+* **181** tamil-mirror-lk ([50 பேர் தொடர்பில் பொலிஸார் விடுத்துள்ள அவசர செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/656af8d7.json))
 
 * **174** daily-mirror-lk ([CID record statements from Dulanjalee Premadasa and Hirunika](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a42f909.json))
 
-* **171** ada-lk ([මහ කන්නයට අවශ්‍ය පොහොර ප්‍රමාදයකින් තොරව](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d4ae7f5.json))
+* **170** ada-lk ([මුතූර්හි ට්‍රැක්ටරයක් පෙරළීමෙන් කාන්තාවන් තිදෙනෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/5721f01f.json))
 
 * **153** ada-derana-lk ([Hirunika leaves CID after recording hours-long statement](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e919751.json))
 
