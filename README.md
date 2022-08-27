@@ -1,24 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-27 23:36:29 (LK time)*
+*As of 2022-08-27 23:52:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (2 Articles)
 
 * **2** daily-mirror-lk ([Afghanistan outclass Sri Lanka in Asia Cup](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68aab6f1.json))
 
-## Last Hour (5 Articles)
-
-* **4** daily-mirror-lk ([SSP Ruwan Gunasekara appointed Director Police Legal Division](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1530b5f.json))
-
-* **1** ada-derana-lk ([SSP Ruwan Gunasekera appointed Director Legal of Sri Lanka Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2db35fef.json))
-
-## Last 3 Hours (10 Articles)
+## Last 3 Hours (8 Articles)
 
 * **5** daily-mirror-lk ([May 9 incident: Two victimised Anglican Clergymen awaiting law and justice](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b58bf919.json))
-
-* **2** economy-next-com ([Sri Lanka Customs seizes Rs.16 mln worth illegal cigarettes; five arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3ee4bde.json))
 
 * **1** ada-derana-lk ([SSP Ruwan Gunasekera appointed Director Legal of Sri Lanka Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2db35fef.json))
 
@@ -26,7 +18,7 @@
 
 * **1** news-first-lk ([Businessman’s son abducted from Wattala](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2d1bb48.json))
 
-## Last 24 Hours (149 Articles)
+## Last 24 Hours (146 Articles)
 
 * **32** news-first-lk ([Norochcholai Back in Operation](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83c78f72.json))
 
@@ -40,9 +32,9 @@
 
 * **11** ada-lk ([ජල ගාස්තු වැඩිවෙන්නේ මෙහෙමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2c55c34.json))
 
-* **11** daily-ft-lk ([The Sri Lanka paradox](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba6ccc06.json))
-
 * **8** economy-next-com ([Anger over Sri Lanka’s ban on balls](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6d743d7.json))
+
+* **8** daily-ft-lk ([Lenovo joins Softlogic Information Technologies in providing graphic workstations](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7b7230b.json))
 
 ## Last Week (1,398 Articles)
 
