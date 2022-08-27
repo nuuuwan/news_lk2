@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0bb0\u0bbe\u0b9f\u0b9a\u0bcd-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1-\u0bae\u0bc2\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0bae\u0bbe\u0baf\u0bae\u0bcd/175-303075",
+    "time_ut": 1661606270,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bc0\u0bb0\u0bbe\u0b9f\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf; \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0bae\u0bbe\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/51/51a35e9b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84576/five-including-woman-arrested-over-gampaha-daylight-shooting",
+    "time_ut": 1661605560,
+    "original_lang": "en",
+    "original_title": "Five including woman arrested over Gampaha daylight shooting",
+    "file_name": "/tmp/news_lk2/articles/f0/f0461cfd.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0ba9\u0bcd\u0bb1\u0bc1-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-303074",
     "time_ut": 1661605156,
     "original_lang": "ta",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd - \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/66/6612c9b5.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da0\u0dd3\u0db1-\u0db8\u0dd2\u0dad\u0dd4\u0dbb\u0dcf-\u0db4\u0dd2\u0da7\u0dc0-\u0dba\u0dba\u0dd2/1-618571",
-    "time_ut": 1661182145,
-    "original_lang": "si",
-    "original_title": "\u0da0\u0dd3\u0db1 \u0db8\u0dd2\u0dad\u0dd4\u0dbb\u0dcf \u0db4\u0dd2\u0da7\u0dc0 \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/fc/fce3ed4e.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bb0\u0bcd/175-302828",
-    "time_ut": 1661181825,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1; \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/8d/8d38a8ee.json"
   }
 ]
