@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc0\u0dd4\u0dbd\u0d9a-\u0d9a\u0dd1\u0db8-\u0dc0\u0dd2\u0dba\u0daf\u0db8-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd4\u0dab-\u0dc4\u0da7\u0dd2-\u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba-\u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-618831",
+    "time_ut": 1661576024,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc0\u0dd4\u0dbd\u0d9a \u0d9a\u0dd1\u0db8 \u0dc0\u0dd2\u0dba\u0daf\u0db8 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd4\u0dab \u0dc4\u0da7\u0dd2 \u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba \u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/64/64431d9c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Wild-boars-monkeys-hedgehogs-removed-from-Animal-Protection-Act-Minister/108-243854",
+    "time_ut": 1661575810,
+    "original_lang": "en",
+    "original_title": "Wild boars, monkeys, hedgehogs removed from Animal Protection Act: Minister",
+    "file_name": "/tmp/news_lk2/articles/6d/6dac6b04.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/sri-lanka-promotes-lankaremit/",
+    "time_ut": 1661575560,
+    "original_lang": "en",
+    "original_title": "Sri Lanka promotes LankaRemit",
+    "file_name": "/tmp/news_lk2/articles/0b/0b9fe134.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84569/cbsl-and-slbfe-jointly-promote-lankaremit-mobile-app",
+    "time_ut": 1661575200,
+    "original_lang": "en",
+    "original_title": "CBSL and SLBFE jointly promote LankaRemit mobile app",
+    "file_name": "/tmp/news_lk2/articles/d1/d1e91019.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Norochcholai-Unit-1-added-to-national-grid/108-243853",
+    "time_ut": 1661575158,
+    "original_lang": "en",
+    "original_title": "Norochcholai Unit 1 added to national grid",
+    "file_name": "/tmp/news_lk2/articles/b5/b5f9527c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/filling-stations-closed-due-to-shortage/",
+    "time_ut": 1661575080,
+    "original_lang": "en",
+    "original_title": "Filling stations closed due to shortage",
+    "file_name": "/tmp/news_lk2/articles/59/59f5c12c.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0bb8\u0bcd\u0bb8\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0ba4\u0bb5\u0bb1\u0bbf-\u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/76-303062",
+    "time_ut": 1661575005,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb8\u0bcd\u0bb8\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0bb5\u0bb1\u0bbf \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4 \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/34/34a3a762.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-stocks-end-week-down-2-pct-ahead-of-interim-budget-99076/",
     "time_ut": 1661574300,
@@ -41,11 +97,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/BIA-Customs-thwart-attempt-to-smuggle-in-Rs-16mn-worth-fags-with-five-inbound-passengers/342-243851",
+    "url": "https://www.dailymirror.lk/breaking_news/BIA-Customs-thwart-attempt-to-smuggle-in-Rs-16mn-worth-fags-with-five-inbound-passengers/108-243851",
     "time_ut": 1661573227,
     "original_lang": "en",
     "original_title": "BIA Customs thwart attempt to smuggle in Rs.16mn worth fags with five inbound passengers",
-    "file_name": "/tmp/news_lk2/articles/d3/d397e4ee.json"
+    "file_name": "/tmp/news_lk2/articles/c4/c4e4485d.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -102,6 +158,14 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0ba4\u0bc1\u0baa\u0bbe\u0ba9 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/90/90580998.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Farmers-deposits-in-Govi-jana-banks-exceeded-Rs-6bn-Minister/342-243848",
+    "time_ut": 1661571237,
+    "original_lang": "en",
+    "original_title": "Farmers\u2019 deposits in Govi jana  banks exceeded Rs.6bn: Minister",
+    "file_name": "/tmp/news_lk2/articles/7a/7a99998d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -233,11 +297,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/recomended-news/Appapillai-Amirthalingam-From-Enfant-Terrible-to-Elder-Statesman/277-243845",
+    "url": "https://www.dailymirror.lk/opinion/Appapillai-Amirthalingam-From-Enfant-Terrible-to-Elder-Statesman/172-243845",
     "time_ut": 1661545600,
     "original_lang": "en",
     "original_title": "Appapillai Amirthalingam From Enfant Terrible to Elder Statesman",
-    "file_name": "/tmp/news_lk2/articles/b2/b2220353.json"
+    "file_name": "/tmp/news_lk2/articles/51/51b475a5.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba \u0db1\u0dd2\u0dc3\u0dcf \u0d9c\u0dcf\u0dbd\u0dd4 \u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb\u0da7 \u0dbd\u0d9a\u0dca\u0dc2 49 \u0d9a \u0db4\u0dcf\u0da9\u0dd4\u0dc0\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/30/307b2e56.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca-\u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0da7-\u0db4\u0dd9\u0dbb-\u0dc3\u0dbb\u0dc3\u0dc0\u0dd2-\u0dba\u0dc5\u0dd2-\u0d85\u0dbb\u0db9\u0dba\u0dd2/101-618550",
-    "time_ut": 1661163569,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0da7 \u0db4\u0dd9\u0dbb \u0dc3\u0dbb\u0dc3\u0dc0\u0dd2 \u0dba\u0dc5\u0dd2 \u0d85\u0dbb\u0db9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/54/54dedbe6.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0dab\u0dba-\u0dba\u0da7\u0dad\u0dda-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf-\u0db1\u0dd0\u0dc0\u0dad\u0dca-\u0d91\u0dba\u0dd2/11-396515",
-    "time_ut": 1661163377,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dab\u0dba \u0dba\u0da7\u0dad\u0dda \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db1\u0dd0\u0dc0\u0dad\u0dca \u0d91\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/87/8705b6f4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84460/protesters-must-not-be-detained-under-draconian-anti-terror-law-amnesty-international",
-    "time_ut": 1661162820,
-    "original_lang": "en",
-    "original_title": "Protesters must not be detained under draconian anti-terror law: Amnesty International",
-    "file_name": "/tmp/news_lk2/articles/18/18c31bb4.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/two-sri-lankans-named-among-top-25-canadian-immigrants-98871/",
-    "time_ut": 1661162820,
-    "original_lang": "en",
-    "original_title": "Two Sri Lankans named among top 25 Canadian immigrants",
-    "file_name": "/tmp/news_lk2/articles/05/050b77ad.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/22/wasantha-mudalige-and-two-others-to-be-held-for-90-days-under-the-pta/",
-    "time_ut": 1661161860,
-    "original_lang": "en",
-    "original_title": "Wasantha Mudalige, and two others to be held for 90-days under the PTA",
-    "file_name": "/tmp/news_lk2/articles/a8/a8a904a9.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db6\u0ddd\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0d9c\u0dd2\u0dba-08\u0d9a\u0dca-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0dca\u0daf\u0dd3-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6/11-396514",
-    "time_ut": 1661161713,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0ddd\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d9c\u0dd2\u0dba 08\u0d9a\u0dca \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0dca\u0daf\u0dd3 \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6",
-    "file_name": "/tmp/news_lk2/articles/b4/b4b2132f.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dba-\u0dc4\u0dd0\u0daf\u0dd6-\u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0db1\u0dca-\u0dc3\u0dd2\u0dba\u0dba\u0da7-10\u0d9a\u0dca-\u0dba\u0ddc\u0daf\u0dcf-\u0db4\u0ddc\u0daf\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0d9a\u0dca-\u0dc4\u0daf\u0db1\u0dca\u0db1-\u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dcf/1-618549",
-    "time_ut": 1661161197,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dba \u0dc4\u0dd0\u0daf\u0dd6 \u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 10\u0d9a\u0dca \u0dba\u0ddc\u0daf\u0dcf \u0db4\u0ddc\u0daf\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0d9a\u0dca \u0dc4\u0daf\u0db1\u0dca\u0db1 \u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/7f/7f7479e9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/22/sri-lanka-has-not-approached-creditors-officially-cbsl-chief/",
-    "time_ut": 1661160660,
-    "original_lang": "en",
-    "original_title": "Sri Lanka has not approached creditors officially \u2013 CBSL Chief",
-    "file_name": "/tmp/news_lk2/articles/73/73358879.json"
   }
 ]
