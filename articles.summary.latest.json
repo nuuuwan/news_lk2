@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/SSP-Ruwan-Gunasekara-appointed-Director-Police-Legal-Division/108-243865",
+    "time_ut": 1661620162,
+    "original_lang": "en",
+    "original_title": "SSP Ruwan Gunasekara appointed Director Police Legal Division",
+    "file_name": "/tmp/news_lk2/articles/f1/f1530b5f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/May-9-incident-Two-victimised-Anglican-Clergymen-awaiting-law-and-justice/342-243863",
     "time_ut": 1661618507,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Providore unveils Concierge Service for senior citizens to order groceries via WhatsApp/text",
     "file_name": "/tmp/news_lk2/articles/8f/8f3c4180.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/allianz-life-lanka-forges-partnership-with-cargills-bank/",
-    "time_ut": 1661188380,
-    "original_lang": "en",
-    "original_title": "Allianz Life Lanka forges partnership with Cargills Bank",
-    "file_name": "/tmp/news_lk2/articles/6b/6bc5226f.json"
   }
 ]

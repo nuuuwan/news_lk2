@@ -1,38 +1,36 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-27 22:37:27 (LK time)*
+*As of 2022-08-27 22:53:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** daily-mirror-lk ([May 9 incident: Two victimised Anglican Clergymen awaiting law and justice](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b58bf919.json))
+* **1** daily-mirror-lk ([SSP Ruwan Gunasekara appointed Director Police Legal Division](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1530b5f.json))
 
 ## Last Hour (3 Articles)
 
-* **1** daily-mirror-lk ([May 9 incident: Two victimised Anglican Clergymen awaiting law and justice](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b58bf919.json))
+* **2** daily-mirror-lk ([May 9 incident: Two victimised Anglican Clergymen awaiting law and justice](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b58bf919.json))
 
 * **1** lankadeepa-lk ([කොවිඩ් මරණ තවත් 6 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5a0f2ea.json))
 
-* **1** news-first-lk ([Businessman’s son abducted from Wattala](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2d1bb48.json))
+## Last 3 Hours (12 Articles)
 
-## Last 3 Hours (13 Articles)
-
-* **4** lankadeepa-lk ([පාතාලය මට්ටු කරන මෙහෙයුම ඇරඹෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c65f37e0.json))
-
-* **3** news-first-lk ([PM requests UNICEF to increase assistance](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5df2f5c6.json))
+* **3** lankadeepa-lk ([ඉන්ධන පෝලිමේ තිබූ යතුරු පැදි 13ක් යටකර ගිය මෝටර් රථය](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0bd45c28.json))
 
 * **3** economy-next-com ([USDA donates 320 MT beans to feed Sri Lankan school children](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8b4bb52.json))
 
-* **2** tamil-mirror-lk ([மோட்டார் சைக்கிள்களை  மோதித் தள்ளிய ஜீப்](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd148fb3.json))
+* **2** daily-mirror-lk ([May 9 incident: Two victimised Anglican Clergymen awaiting law and justice](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b58bf919.json))
 
-* **1** daily-mirror-lk ([May 9 incident: Two victimised Anglican Clergymen awaiting law and justice](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b58bf919.json))
+* **2** news-first-lk ([Kite protest obstructed by Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/098c7b89.json))
+
+* **2** tamil-mirror-lk ([மோட்டார் சைக்கிள்களை  மோதித் தள்ளிய ஜீப்](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd148fb3.json))
 
 ## Last 24 Hours (150 Articles)
 
 * **32** news-first-lk ([Norochcholai Back in Operation](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83c78f72.json))
 
-* **26** daily-mirror-lk ([Budget 2023 – 24 Need for a complete overhaul of the system of governance: Bandula](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b4647c7.json))
+* **26** daily-mirror-lk ([Freed...](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d92665.json))
 
 * **24** lankadeepa-lk ([හොර හරක් වෑන් රිය අධිබලැති විදුලි කණුවේ ගැටේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56663b23.json))
 
@@ -48,13 +46,13 @@
 
 ## Last Week (1,395 Articles)
 
-* **274** lankadeepa-lk ([ඩලස්ලාගේ ගමන අපුරෙන් අරඹයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bd13990.json))
+* **273** lankadeepa-lk ([වැස්සේ වැඩිවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a73cfa5b.json))
 
 * **205** news-first-lk ([208 Sri Lanka bound flights had stopover at Thiruvananthapuram Int’l airport for refueling till date](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/171693f1.json))
 
 * **183** tamil-mirror-lk ([அமைச்சர் பந்துல யாழ்ப்பாணத்தில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76567d97.json))
 
-* **173** daily-mirror-lk ([SL aims to welcome 1 million tourists this year; Harin Fernando](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/826aa719.json))
+* **174** daily-mirror-lk ([SL aims to welcome 1 million tourists this year; Harin Fernando](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/826aa719.json))
 
 * **170** ada-lk ([මෙන්ග්ටියාන් රසායනාගාර මොඩියුලය සූදානම් - චීනය](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d578adc2.json))
 
@@ -70,13 +68,13 @@
 
 * **8** colombo-telegraph-com ([Prelude To Elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/0846aaef.json))
 
-## All Time (3,248 Articles)
+## All Time (3,249 Articles)
 
 * **585** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **416** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **413** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
+* **414** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
 * **409** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
