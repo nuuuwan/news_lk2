@@ -1,0 +1,234 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/news/\u0d91\u0da2\u0dcf\u0db4-\u0d8b\u0db4\u0db1\u0dca-\u0daf\u0dd2\u0db1\u0dda-\u0d89\u0dc4\u0dbd\u0dd2\u0db1\u0dca-\u0dc3\u0db8\u0dbb\u0db1\u0dca\u0db1-\u0dba\u0dba\u0dd2/101-618847",
+  "time_ut": 1661608834,
+  "original_lang": "si",
+  "original_title": "\u0d91\u0da2\u0dcf\u0db4 \u0d8b\u0db4\u0db1\u0dca \u0daf\u0dd2\u0db1\u0dda \u0d89\u0dc4\u0dbd\u0dd2\u0db1\u0dca \u0dc3\u0db8\u0dbb\u0db1\u0dca\u0db1 \u0dba\u0dba\u0dd2",
+  "text_idx": {
+    "en": {
+      "title": "UNP is going to celebrate its birthday in a big way",
+      "author": "unknown",
+      "body_lines": [
+        "The United National Party 76th anniversary is scheduled to be held at Sugathadasa Stadium in Colombo on September 06 under the theme \"Ekwemu\".",
+        "The anniversary convention will be held under the chairmanship of the UNP leader, President Ranil Wickramasinghe.",
+        "The United National Party is holding this year's conference under a president of the party after 28 years. They held an anniversary conference in 1993 under a United National Party President. After that, a party anniversary will be held under a president this year."
+      ],
+      "title_ents": [
+        {
+          "text": "UNP",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The United National Party",
+            "label": "ORG"
+          },
+          {
+            "text": "76th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Sugathadasa Stadium",
+            "label": "FAC"
+          },
+          {
+            "text": "Colombo",
+            "label": "GPE"
+          },
+          {
+            "text": "September 06",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "UNP",
+            "label": "ORG"
+          },
+          {
+            "text": "Ranil Wickramasinghe",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "The United National Party",
+            "label": "ORG"
+          },
+          {
+            "text": "year",
+            "label": "DATE"
+          },
+          {
+            "text": "28 years",
+            "label": "DATE"
+          },
+          {
+            "text": "1993",
+            "label": "DATE"
+          },
+          {
+            "text": "United National Party",
+            "label": "ORG"
+          },
+          {
+            "text": "this year",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d91\u0da2\u0dcf\u0db4 \u0d8b\u0db4\u0db1\u0dca \u0daf\u0dd2\u0db1\u0dda \u0d89\u0dc4\u0dbd\u0dd2\u0db1\u0dca \u0dc3\u0db8\u0dbb\u0db1\u0dca\u0db1 \u0dba\u0dba\u0dd2",
+      "author": "unknown",
+      "body_lines": [
+        "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0d9a\u0dca\u0dc2 76 \u0dc0\u0db1 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba \u201c\u0d91\u0d9a\u0dca\u0dc0\u0dd9\u0db8\u0dd4\u201c \u0dba\u0db1 \u0dad\u0dda\u0db8\u0dcf\u0dc0 \u0dba\u0da7\u0dad\u0dda \u0dbd\u0db6\u0db1 \u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 06 \u0daf \u0d9a\u0ddc\u0dc5\u0db9 \u0dc3\u0dd4\u0d9c\u0dad\u0daf\u0dcf\u0dc3 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0da9\u0dcf\u0d82\u0d9c\u0db1\u0dba\u0dda\u0daf\u0dd2 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dba.",
+        "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0d9a\u0dca\u0dc2 \u0db1\u0dcf\u0dba\u0d9a, \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4 \u0db8\u0dc4\u0dad\u0dcf\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd9\u0db8 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb \u0dc3\u0db8\u0dca\u0db8\u0dda\u0dbd\u0db1\u0dba \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dda.",
+        "\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4 \u0dba\u0da7\u0dad\u0dda \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0d9a\u0dca\u0dc2\u0dba \u0db8\u0dd9\u0dc0\u0dbb \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0 \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1\u0dda \u0dc0\u0dc3\u0dbb 28 \u0d9a\u0da7 \u0db4\u0dc3\u0dd4\u0dc0\u0dba. \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4 \u0dba\u0da7\u0dad\u0dda \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0d9a\u0dca \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dcf \u0d87\u0dad\u0dca\u0dad\u0dda 1993 \u0daf\u0dd3\u0dba. \u0d89\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db4\u0d9a\u0dca\u0dc2 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba\u0d9a\u0dca \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0d9a\u0dd4 \u0dba\u0da7\u0dad\u0dda \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd9\u0dc0\u0dbb\u0dba\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d91\u0da2\u0dcf\u0db4",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dba\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "76 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd4\u0d9c\u0dad\u0daf\u0dcf\u0dc3 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf\u0d82\u0d9c\u0dab\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 06",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0da2\u0dcf\u0db4",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dba\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dbb\u0dca\u0dc2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 28 \u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "1993",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0d9a\u0dca\u0dc2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0ba9\u0ba4\u0bc1 \u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0ba8\u0bbe\u0bb3\u0bc8 \u0bb5\u0bc6\u0b95\u0bc1 \u0bb5\u0bbf\u0bae\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd 76\u0b86\u0bb5\u0ba4\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb4\u0bbe \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bc6\u0bae\u0bcd\u0baa\u0bb0\u0bcd 06\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9a\u0bc1\u0b95\u0ba4\u0ba4\u0bbe\u0b9a \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u201c\u0b8e\u0b95\u0bcd\u0bb5\u0bc7\u0bae\u0bc1\u201d \u0b8e\u0ba9\u0bc1\u0bae\u0bcd \u0ba4\u0bca\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb4\u0bbe \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf 28 \u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b87\u0bb5\u0bcd\u0bb5\u0bb0\u0bc1\u0b9f \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd 1993 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bcd. \u0b85\u0ba4\u0ba9\u0bcd\u0baa\u0bbf\u0bb1\u0b95\u0bc1, \u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb4\u0bbe \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b90.\u0ba4\u0bc7.\u0b95",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "76\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0b95\u0ba4\u0ba4\u0bbe\u0b9a \u0bae\u0bc8\u0ba4\u0bbe\u0ba9\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 06",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90.\u0ba4\u0bc7.\u0b95",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "28 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "1993",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
