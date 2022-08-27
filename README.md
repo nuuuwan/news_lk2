@@ -1,22 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-28 02:33:20 (LK time)*
+*As of 2022-08-28 02:51:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last Hour (2 Articles)
 
-* **1** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
+* **2** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
 
-## Last 3 Hours (5 Articles)
+## Last 3 Hours (6 Articles)
 
-* **2** economy-next-com ([Sri Lanka construction sector in deep crisis, govt arrears rise up to Rs150 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/048019e7.json))
+* **3** economy-next-com ([Sri Lanka construction sector in deep crisis, govt arrears rise up to Rs150 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/048019e7.json))
 
 * **2** tamil-mirror-lk ([பொலிஸ் சட்டப்பிரிவின் பணிப்பாளர் நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce934439.json))
 
 * **1** ada-derana-lk ([India, Sri Lanka should build framework to discuss maritime concerns: Moragoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/515e0039.json))
 
-## Last 24 Hours (135 Articles)
+## Last 24 Hours (136 Articles)
 
 * **32** news-first-lk ([Norochcholai Back in Operation](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83c78f72.json))
 
@@ -28,11 +28,11 @@
 
 * **15** ada-derana-lk ([Fairly heavy rains above 75mm expected in some areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0f45c5d.json))
 
+* **11** economy-next-com ([Anger over Sri Lanka’s ban on balls](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6d743d7.json))
+
 * **11** ada-lk ([ජල ගාස්තු වැඩිවෙන්නේ මෙහෙමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2c55c34.json))
 
-* **10** economy-next-com ([Anger over Sri Lanka’s ban on balls](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6d743d7.json))
-
-## Last Week (1,397 Articles)
+## Last Week (1,398 Articles)
 
 * **273** lankadeepa-lk ([වැස්සේ වැඩිවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a73cfa5b.json))
 
@@ -46,7 +46,7 @@
 
 * **153** ada-derana-lk ([Showery condition to enhance in some areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3788ce21.json))
 
-* **103** economy-next-com ([Fisheries jobs for 1,047 Sri Lankans in Korea this year: labour ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73c7d7a2.json))
+* **104** economy-next-com ([Fisheries jobs for 1,047 Sri Lankans in Korea this year: labour ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73c7d7a2.json))
 
 * **61** daily-ft-lk ([Child’s guide to UK’s trade concessions to developing countries](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0e8c263.json))
 
@@ -56,7 +56,7 @@
 
 * **8** colombo-telegraph-com ([Prelude To Elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/0846aaef.json))
 
-## All Time (3,259 Articles)
+## All Time (3,260 Articles)
 
 * **585** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -70,7 +70,7 @@
 
 * **313** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
-* **224** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
+* **225** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 
 * **211** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
