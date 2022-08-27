@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84575/additional-fuel-stocks-to-be-distributed-island-wide-in-next-three-days",
+    "time_ut": 1661598960,
+    "original_lang": "en",
+    "original_title": "Additional fuel stocks to be distributed island-wide in next three days",
+    "file_name": "/tmp/news_lk2/articles/d7/d7c852ee.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/will-reduce-fuel-queues-within-two-days-energy-minister/",
+    "time_ut": 1661598240,
+    "original_lang": "en",
+    "original_title": "Will reduce fuel queues within two days: Energy Minister",
+    "file_name": "/tmp/news_lk2/articles/0e/0efe3dd2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/27/united-states-to-appoint-first-arctic-ambassador/",
+    "time_ut": 1661597940,
+    "original_lang": "en",
+    "original_title": "United States to appoint first Arctic Ambassador",
+    "file_name": "/tmp/news_lk2/articles/30/3027e283.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84574/pakistan-floods-affect-over-30-million-people-death-toll-tops-900",
     "time_ut": 1661597340,
     "original_lang": "en",
@@ -70,6 +94,14 @@
     "original_lang": "si",
     "original_title": "\u0dad\u0dd2\u0dba\u0dd4\u0dab\u0dd4 \u0d86\u0dba\u0dd4\u0db0\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dbb\u0daf\u0dd3 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4 \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/58/584fe31d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db1\u0ddc\u0dbb\u0ddc\u0da0\u0dca\u0da0\u0ddd\u0dbd\u0dda-\u0d9a\u0dd0\u0da9\u0dd4\u0dab-\u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dba-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0da7/11-396653",
+    "time_ut": 1661593191,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0ddc\u0dbb\u0ddc\u0da0\u0dca\u0da0\u0ddd\u0dbd\u0dda \u0d9a\u0dd0\u0da9\u0dd4\u0dab \u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dba \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/8d/8de99d5b.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Protection better than cure...",
     "file_name": "/tmp/news_lk2/articles/ff/ff1afd90.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Tewatte-Basilica-conducts-81st-healing-service/110-243506",
-    "time_ut": 1661177771,
-    "original_lang": "en",
-    "original_title": "Tewatte Basilica conducts 81st healing service",
-    "file_name": "/tmp/news_lk2/articles/6d/6d9602f4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Two-Sri-Lankan-origin-Canadians-among-Top-25-Canadian-Immigrants-of-2022/108-243505",
-    "time_ut": 1661177737,
-    "original_lang": "en",
-    "original_title": "Two Sri Lankan origin Canadians among Top 25 Canadian Immigrants of 2022",
-    "file_name": "/tmp/news_lk2/articles/72/723dc702.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/22/mtv-goes-to-hrcsl-against-intimidation-tactics-used-to-harass-the-senior-management-of-capital-maharaja-group/",
-    "time_ut": 1661177700,
-    "original_lang": "en",
-    "original_title": "MTV goes to HRCSL against intimidation tactics used to harass the Senior Management of Capital Maharaja Group",
-    "file_name": "/tmp/news_lk2/articles/89/892dc034.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/EU-concerned-about-using-PTA/342-243504",
-    "time_ut": 1661177410,
-    "original_lang": "en",
-    "original_title": "EU concerned about using  PTA",
-    "file_name": "/tmp/news_lk2/articles/d8/d80a9d97.json"
   }
 ]
