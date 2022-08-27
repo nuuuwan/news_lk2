@@ -1,20 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-28 02:51:56 (LK time)*
+*As of 2022-08-28 03:25:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
-
-* **2** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
-
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (4 Articles)
 
 * **3** economy-next-com ([Sri Lanka construction sector in deep crisis, govt arrears rise up to Rs150 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/048019e7.json))
 
-* **2** tamil-mirror-lk ([பொலிஸ் சட்டப்பிரிவின் பணிப்பாளர் நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce934439.json))
-
-* **1** ada-derana-lk ([India, Sri Lanka should build framework to discuss maritime concerns: Moragoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/515e0039.json))
+* **1** tamil-mirror-lk ([ஆசியக் கிண்ணம்: இலங்கையைத் தோற்கடித்த ஆப்கானிஸ்தான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8873141.json))
 
 ## Last 24 Hours (136 Articles)
 
