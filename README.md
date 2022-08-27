@@ -1,20 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-28 01:15:00 (LK time)*
+*As of 2022-08-28 01:32:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (2 Articles)
 
 * **1** economy-next-com ([Sri Lanka construction sector in deep crisis, govt arrears rise up to Rs150 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/048019e7.json))
 
 * **1** tamil-mirror-lk ([ஆசியக் கிண்ணம்: இலங்கையைத் தோற்கடித்த ஆப்கானிஸ்தான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8873141.json))
-
-## Last Hour (3 Articles)
-
-* **2** tamil-mirror-lk ([பொலிஸ் சட்டப்பிரிவின் பணிப்பாளர் நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce934439.json))
-
-* **1** economy-next-com ([Sri Lanka construction sector in deep crisis, govt arrears rise up to Rs150 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/048019e7.json))
 
 ## Last 3 Hours (10 Articles)
 
@@ -26,15 +20,15 @@
 
 * **1** economy-next-com ([Sri Lanka construction sector in deep crisis, govt arrears rise up to Rs150 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/048019e7.json))
 
-## Last 24 Hours (140 Articles)
+## Last 24 Hours (139 Articles)
 
 * **32** news-first-lk ([Norochcholai Back in Operation](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83c78f72.json))
 
 * **25** daily-mirror-lk ([Sri Lankans migrating to greener pastures](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1dd083f.json))
 
-* **24** tamil-mirror-lk ([பொதுமக்கள் பாதுகாப்பு அமைச்சரின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c9f3fab.json))
-
 * **24** lankadeepa-lk ([හොර හරක් වෑන් රිය අධිබලැති විදුලි කණුවේ ගැටේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56663b23.json))
+
+* **23** tamil-mirror-lk ([நீர் கட்டணம் அதிகரிப்பு: வர்த்தமானி வெளியீடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2f57d62.json))
 
 * **15** ada-derana-lk ([Fairly heavy rains above 75mm expected in some areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0f45c5d.json))
 
@@ -42,13 +36,13 @@
 
 * **9** economy-next-com ([Anger over Sri Lanka’s ban on balls](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6d743d7.json))
 
-## Last Week (1,398 Articles)
+## Last Week (1,396 Articles)
 
 * **273** lankadeepa-lk ([වැස්සේ වැඩිවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a73cfa5b.json))
 
 * **205** news-first-lk ([208 Sri Lanka bound flights had stopover at Thiruvananthapuram Int’l airport for refueling till date](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/171693f1.json))
 
-* **183** tamil-mirror-lk ([ஜ.நா. பிரதிநிதிகள் யாழ். மேயருடன் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc768695.json))
+* **181** tamil-mirror-lk ([தனியார் பேருந்துகளுக்கு எதிராக சட்ட நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/6264a707.json))
 
 * **176** daily-mirror-lk (['GotaGoHome' France activist arrested over May 9 violence when visiting Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a325225.json))
 
