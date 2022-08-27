@@ -1,14 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-27 22:16:45 (LK time)*
+*As of 2022-08-27 22:37:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** lankadeepa-lk ([කොවිඩ් මරණ තවත් 6 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5a0f2ea.json))
+* **1** daily-mirror-lk ([May 9 incident: Two victimised Anglican Clergymen awaiting law and justice](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b58bf919.json))
 
-## Last Hour (2 Articles)
+## Last Hour (3 Articles)
+
+* **1** daily-mirror-lk ([May 9 incident: Two victimised Anglican Clergymen awaiting law and justice](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b58bf919.json))
 
 * **1** lankadeepa-lk ([කොවිඩ් මරණ තවත් 6 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5a0f2ea.json))
 
@@ -16,7 +18,7 @@
 
 ## Last 3 Hours (13 Articles)
 
-* **5** lankadeepa-lk ([එජාප උපන් දිනේ ඉහලින් සමරන්න යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d186accb.json))
+* **4** lankadeepa-lk ([පාතාලය මට්ටු කරන මෙහෙයුම ඇරඹෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c65f37e0.json))
 
 * **3** news-first-lk ([PM requests UNICEF to increase assistance](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5df2f5c6.json))
 
@@ -24,11 +26,13 @@
 
 * **2** tamil-mirror-lk ([மோட்டார் சைக்கிள்களை  மோதித் தள்ளிய ஜீப்](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd148fb3.json))
 
-## Last 24 Hours (151 Articles)
+* **1** daily-mirror-lk ([May 9 incident: Two victimised Anglican Clergymen awaiting law and justice](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b58bf919.json))
 
-* **33** news-first-lk ([Water supply & sewage charges revised](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7097ed4.json))
+## Last 24 Hours (150 Articles)
 
-* **26** daily-mirror-lk ([Cops who took photos seated on President’s chair face probe - Police tell court](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1be6683e.json))
+* **32** news-first-lk ([Norochcholai Back in Operation](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83c78f72.json))
+
+* **26** daily-mirror-lk ([Budget 2023 – 24 Need for a complete overhaul of the system of governance: Bandula](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b4647c7.json))
 
 * **24** lankadeepa-lk ([හොර හරක් වෑන් රිය අධිබලැති විදුලි කණුවේ ගැටේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56663b23.json))
 
@@ -42,19 +46,19 @@
 
 * **8** economy-next-com ([Anger over Sri Lanka’s ban on balls](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6d743d7.json))
 
-## Last Week (1,396 Articles)
+## Last Week (1,395 Articles)
 
-* **275** lankadeepa-lk ([සපුගස්කන්ද යළි වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd27d89e.json))
+* **274** lankadeepa-lk ([ඩලස්ලාගේ ගමන අපුරෙන් අරඹයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bd13990.json))
 
 * **205** news-first-lk ([208 Sri Lanka bound flights had stopover at Thiruvananthapuram Int’l airport for refueling till date](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/171693f1.json))
 
 * **183** tamil-mirror-lk ([அமைச்சர் பந்துல யாழ்ப்பாணத்தில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76567d97.json))
 
-* **172** daily-mirror-lk ([SL aims to welcome 1 million tourists this year; Harin Fernando](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/826aa719.json))
+* **173** daily-mirror-lk ([SL aims to welcome 1 million tourists this year; Harin Fernando](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/826aa719.json))
 
 * **170** ada-lk ([මෙන්ග්ටියාන් රසායනාගාර මොඩියුලය සූදානම් - චීනය](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d578adc2.json))
 
-* **153** ada-derana-lk ([Austria donates consignment of essential medicines to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26c40800.json))
+* **152** ada-derana-lk ([Ten U.S. congressmen urge additional support for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a110f6db.json))
 
 * **101** economy-next-com ([Fisheries jobs for 1,047 Sri Lankans in Korea this year: labour ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73c7d7a2.json))
 
@@ -66,13 +70,13 @@
 
 * **8** colombo-telegraph-com ([Prelude To Elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/0846aaef.json))
 
-## All Time (3,247 Articles)
+## All Time (3,248 Articles)
 
 * **585** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **416** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **412** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
+* **413** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
 * **409** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
