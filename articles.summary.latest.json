@@ -57,11 +57,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Ranjan-will-made-member-of-SJB-working-committee-parliamentary-group-Sajith/342-243860",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranjan-will-made-member-of-SJB-working-committee-parliamentary-group-Sajith/108-243860",
     "time_ut": 1661596667,
     "original_lang": "en",
     "original_title": "Ranjan will made member of SJB working committee, parliamentary group: Sajith",
-    "file_name": "/tmp/news_lk2/articles/7d/7d495f3e.json"
+    "file_name": "/tmp/news_lk2/articles/86/8675c064.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Ranjan-will-be-made-member-of-SJB-working-committee-parliamentary-group-Sajith/342-243860",
+    "time_ut": 1661596667,
+    "original_lang": "en",
+    "original_title": "Ranjan will be made member of SJB working committee, parliamentary group: Sajith",
+    "file_name": "/tmp/news_lk2/articles/b0/b02f936c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Assault on Deshabandu: Eight suspects plead guilty, and released\u00a0on bail",
     "file_name": "/tmp/news_lk2/articles/02/0213884a.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/175-302822",
-    "time_ut": 1661178412,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/d2/d2f999dd.json"
   }
 ]
