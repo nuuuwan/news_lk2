@@ -1,0 +1,501 @@
+{
+  "newspaper_id": "economy-next-com",
+  "url": "https://economynext.com/sri-lanka-nbro-issues-landslide-warning-amid-heavy-rainfall-expectation-99077/",
+  "time_ut": 1661583480,
+  "original_lang": "en",
+  "original_title": "Sri Lanka NBRO issues landslide warning amid heavy rainfall expectation",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka NBRO issues landslide warning amid heavy rainfall expectation",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013\u00a0 Sri Lanka National Building Research Organization (NBRO) has issued landslide warnings to several areas in the country as higher rainfall exceeding 100 mm is expected during the day.",
+        "Officials said heavy rainfall exceeding 75-100 mm can be expected in Sabaragamu, Western, Uva and North Western Provinces as well as in Kandy Nuwara Eliya, Galle and Matara districts.",
+        "Accordingly, the NBRO has issued landslide warnings for the following areas.",
+        "Kegalle District \u2013\u00a0Bulathkohupitiya, Dehiowita, Deraniyagala, Galigamuwa, Ruwanwella, Yatiyanthota and Kegalle Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+        "Nuwara Eliya District \u2013\u00a0Ambagamuwa Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+        "Ratnapura District \u2013\u00a0Ayagama, Eheliyagoda, Nivithigala, Ratnapura, Kuruwita and Elapatha Divisional Secretariat Division(s) (DSD) and surrounding areas."
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka NBRO",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "National Building Research Organization",
+            "label": "ORG"
+          },
+          {
+            "text": "NBRO",
+            "label": "ORG"
+          },
+          {
+            "text": "100 mm",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "the day",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "75-100",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Sabaragamu",
+            "label": "GPE"
+          },
+          {
+            "text": "Western",
+            "label": "NORP"
+          },
+          {
+            "text": "Uva",
+            "label": "GPE"
+          },
+          {
+            "text": "North Western Provinces",
+            "label": "LOC"
+          },
+          {
+            "text": "Kandy Nuwara Eliya",
+            "label": "PERSON"
+          },
+          {
+            "text": "Galle",
+            "label": "GPE"
+          },
+          {
+            "text": "Matara",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "NBRO",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Kegalle",
+            "label": "GPE"
+          },
+          {
+            "text": "Bulathkohupitiya",
+            "label": "GPE"
+          },
+          {
+            "text": "Dehiowita",
+            "label": "ORG"
+          },
+          {
+            "text": "Deraniyagala",
+            "label": "GPE"
+          },
+          {
+            "text": "Galigamuwa",
+            "label": "ORG"
+          },
+          {
+            "text": "Ruwanwella",
+            "label": "PERSON"
+          },
+          {
+            "text": "Yatiyanthota",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kegalle",
+            "label": "GPE"
+          },
+          {
+            "text": "Division(s",
+            "label": "ORG"
+          },
+          {
+            "text": "DSD",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Nuwara Eliya District",
+            "label": "LOC"
+          },
+          {
+            "text": "Ambagamuwa Divisional Secretariat Division(s",
+            "label": "PERSON"
+          },
+          {
+            "text": "DSD",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Ratnapura District",
+            "label": "PERSON"
+          },
+          {
+            "text": "Nivithigala",
+            "label": "GPE"
+          },
+          {
+            "text": "Ratnapura",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kuruwita",
+            "label": "PERSON"
+          },
+          {
+            "text": "Elapatha Divisional Secretariat Division(s",
+            "label": "LOC"
+          },
+          {
+            "text": "DSD",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d85\u0db0\u0dd2\u0d9a \u0dc0\u0dbb\u0dca\u0dc2\u0dcf\u0db4\u0dad\u0db1 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf\u0dc0 \u0db8\u0db0\u0dca\u200d\u0dba\u0dba\u0dda \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf NBRO \u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db8\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013\u00a0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd2\u0dbd\u0dd2 \u0db4\u0dbb\u0dca\u0dba\u0dda\u0dc2\u0dab \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba (NBRO) \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dda \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7 \u0daf\u0dd2\u0dc0\u0dcf \u0d9a\u0dcf\u0dbd\u0dba\u0dda\u0daf\u0dd3 \u0db8\u0dd2\u0dbd\u0dd2\u0db8\u0dd3\u0da7\u0dbb\u0dca 100 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0db1 \u0dc0\u0dbb\u0dca\u0dc2\u0dcf\u0db4\u0dad\u0db1\u0dba\u0d9a\u0dca \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dbb\u0db1 \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db8\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0, \u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb, \u0d8c\u0dc0 \u0dc3\u0dc4 \u0dc0\u0dba\u0db9 \u0db4\u0dc5\u0dcf\u0dad\u0dca\u0dc0\u0dbd\u0dad\u0dca \u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb \u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba, \u0d9c\u0dcf\u0dbd\u0dca\u0dbd \u0dc3\u0dc4 \u0db8\u0dcf\u0dad\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dc0\u0dbd\u0dad\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0db8\u0dd3\u0da7\u0dbb\u0dca 75-100 \u0d89\u0d9a\u0dca\u0db8 \u0dc0\u0dd6 \u0dad\u0daf \u0dc0\u0dbb\u0dca\u0dc2\u0dcf\u0db4\u0dad\u0db1\u0dba\u0d9a\u0dca \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0db6\u0dc0 \u0db6\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0dc4\u0dd4 \u0db4\u0dc0\u0dc3\u0dad\u0dd2.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 NBRO \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dad \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1 \u0dc3\u0db3\u0dc4\u0dcf \u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db8\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba -\u00a0\u0db6\u0dd4\u0dbd\u0dad\u0dca\u0d9a\u0ddc\u0dc4\u0dd4\u0db4\u0dd2\u0da7\u0dd2\u0dba, \u0daf\u0dd9\u0dc4\u0dd2\u0d95\u0dc0\u0dd2\u0da7, \u0daf\u0dd0\u0dbb\u0dab\u0dd2\u0dba\u0d9c\u0dbd, \u0d9c\u0dbd\u0dd2\u0d9c\u0db8\u0dd4\u0dc0, \u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0dc0\u0dd0\u0dbd\u0dca\u0dbd, \u0dba\u0da7\u0dd2\u0dba\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0dc3\u0dc4 \u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0ddc\u0da7\u0dca\u0da8\u0dcf\u0dc1 (\u0da9\u0dd3\u0d91\u0dc3\u0dca\u0da9\u0dd3) \u0dc3\u0dc4 \u0d92 \u0d85\u0dc0\u0da7 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1.",
+        "\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba -\u00a0\u0d85\u0db9\u0d9c\u0db8\u0dd4\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0ddc\u0da7\u0dca\u0da8\u0dcf\u0dc1(\u0dba) (\u0da9\u0dd3\u0d91\u0dc3\u0dca\u0da9\u0dd3) \u0dc3\u0dc4 \u0d85\u0dc0\u0da7 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1.",
+        "\u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba -\u00a0\u0d85\u0dba\u0d9c\u0db8, \u0d87\u0dc4\u0dd0\u0dbd\u0dd2\u0dba\u0d9c\u0ddc\u0da9, \u0db1\u0dd2\u0dc0\u0dd2\u0dad\u0dd2\u0d9c\u0dbd, \u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb, \u0d9a\u0dd4\u0dbb\u0dd4\u0dc0\u0dd2\u0da7 \u0dc3\u0dc4 \u0d87\u0dbd\u0db4\u0dcf\u0dad \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0ddc\u0da7\u0dca\u0da8\u0dcf\u0dc1 (\u0da9\u0dd3\u0d91\u0dc3\u0dca\u0da9\u0dd3) \u0dc3\u0dc4 \u0d92 \u0d85\u0dc0\u0da7 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf NBRO",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd2\u0dbd\u0dd2 \u0db4\u0dbb\u0dca\u0dba\u0dda\u0dc2\u0dab \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "NBRO",
+            "label": "ORG"
+          },
+          {
+            "text": "100 \u0db8\u0dd2.\u0db8\u0dd3",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0daf\u0dc0\u0dc3",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "75-100",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0da7\u0dc4\u0dd2\u0dbb",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d8c\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc0\u0dba\u0db9 \u0db4\u0dc5\u0dcf\u0dad\u0dca",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0db1\u0dd4\u0dc0\u0dbb \u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dad\u0dbb",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "NBRO",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0dd4\u0dbd\u0dad\u0dca\u0d9a\u0ddc\u0dc4\u0dd4\u0db4\u0dd2\u0da7\u0dd2\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0dc4\u0dd2\u0d95\u0dc0\u0dd2\u0da7",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd0\u0dbb\u0dab\u0dd2\u0dba\u0d9c\u0dbd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9c\u0dbd\u0dd2\u0d9c\u0db8\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0dc0\u0dd0\u0dbd\u0dca\u0dbd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dba\u0da7\u0dd2\u0dba\u0db1\u0dca\u0dad\u0ddc\u0da7",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0da7\u0dca\u0da8\u0dcf\u0dc1",
+            "label": "ORG"
+          },
+          {
+            "text": "DSD",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0d85\u0db9\u0d9c\u0db8\u0dd4\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0ddc\u0da7\u0dca\u0da8\u0dcf\u0dc3\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "DSD",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db1\u0dd2\u0dc0\u0dd2\u0dad\u0dd2\u0d9c\u0dbd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd4\u0dbb\u0dd4\u0dc0\u0dd2\u0da7",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d87\u0dbd\u0db4\u0dcf\u0dad \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0ddc\u0da7\u0dca\u0da8\u0dcf\u0dc3\u0dba",
+            "label": "LOC"
+          },
+          {
+            "text": "DSD",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bb4\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 NBRO \u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "",
+      "body_lines": [
+        "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bcd \u2013 \u0baa\u0b95\u0bb2\u0bbf\u0bb2\u0bcd 100 \u0bae\u0bbf.\u0bae\u0bc0\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0bae\u0bb4\u0bc8\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bbe\u0bb2\u0bcd, \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f \u0b86\u0bb0\u0bbe\u0baf\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd (NBRO) \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0baa\u0bb2 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b9a\u0baa\u0bcd\u0bb0\u0b95\u0bae\u0bc1\u0bb5, \u0bae\u0bc7\u0bb2\u0bcd, \u0b8a\u0bb5\u0bbe \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0b9f\u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bbf \u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe, \u0b95\u0bbe\u0bb2\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb1\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd 75-100 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bb2\u0bbe\u0bae\u0bcd \u0b8e\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0b85\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, NBRO \u0baa\u0bbf\u0ba9\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b95\u0bc7\u0b95\u0bbe\u0bb2\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u2013\u00a0\u0baa\u0bc1\u0bb2\u0ba4\u0bcd\u0b95\u0bca\u0bb9\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0baf, \u0ba4\u0bc6\u0bb9\u0bbf\u0baf\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f, \u0ba4\u0bc6\u0bb0\u0ba3\u0bbf\u0baf\u0b95\u0bb2, \u0b95\u0bb2\u0bbf\u0b95\u0bae\u0bc1\u0bb5, \u0bb0\u0bc1\u0bb5\u0ba9\u0bcd\u0bb5\u0bc6\u0bb2\u0bcd\u0bb2, \u0baf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc7\u0b95\u0bbe\u0bb2\u0bc8 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1(\u0b9f\u0bbf.\u0b8e\u0bb8\u0bcd.\u0b9f\u0bbf) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0ba9\u0bc8\u0b9a\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bcd.",
+        "\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u2013\u00a0\u0b85\u0bae\u0bcd\u0baa\u0b95\u0bae\u0bc1\u0bb5 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1(\u0b95\u0bb3\u0bcd) (DSD) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0ba9\u0bc8\u0b9a\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bcd.",
+        "\u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0baa\u0bc1\u0bb0\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u2013\u00a0\u0b85\u0baf\u0b95\u0bae, \u0b8e\u0bb9\u0bb2\u0bbf\u0baf\u0b95\u0bca\u0b9f, \u0ba8\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb2, \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0baa\u0bc1\u0bb0\u0bbf, \u0b95\u0bc1\u0bb0\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0bb2\u0baa\u0bbe\u0ba4 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1(\u0b9f\u0bbf.\u0b8e\u0bb8\u0bcd.\u0b9f\u0bbf) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0ba9\u0bc8\u0b9a\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 NBRO",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f \u0b86\u0bb0\u0bbe\u0baf\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "NBRO",
+            "label": "ORG"
+          },
+          {
+            "text": "100 \u0bae\u0bbf.\u0bae\u0bc0",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "75-100",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b9a\u0baa\u0bb0\u0b95\u0bbe\u0bae\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b8a\u0bb5\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb5\u0b9f\u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf \u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb1\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "NBRO",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc7\u0b95\u0bbe\u0bb2\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bc1\u0bb2\u0ba4\u0bcd\u0b95\u0bca\u0bb9\u0bc1\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba4\u0bc6\u0bb9\u0bbf\u0baf\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bc6\u0bb0\u0ba3\u0bbf\u0baf\u0b95\u0bb2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bb2\u0bbf\u0b95\u0bae\u0bc1\u0bb5",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0bc1\u0bb5\u0ba9\u0bcd\u0bb5\u0bc6\u0bb2\u0bcd\u0bb2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0b95\u0bbe\u0bb2\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1(\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "DSD",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b85\u0bae\u0bcd\u0baa\u0b95\u0bae\u0bc1\u0bb5 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0bc6\u0baf\u0bb2\u0b95 \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1(\u0b95\u0bb3\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "DSD",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0baa\u0bc1\u0bb0\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0bb5\u0bbf\u0ba4\u0bbf\u0b95\u0bb2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0baa\u0bc1\u0bb0\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb0\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b8e\u0bb2\u0baa\u0bbe\u0ba4 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0bc6\u0baf\u0bb2\u0b95 \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1(\u0b95\u0bb3\u0bcd",
+            "label": "LOC"
+          },
+          {
+            "text": "DSD",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
