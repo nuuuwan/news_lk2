@@ -1,36 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-27 19:18:42 (LK time)*
+*As of 2022-08-27 19:33:36 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** ada-derana-lk ([All state-owned enterprises need restructuring: Minister Kanchana](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25ed8fa1.json))
 
-* **1** lankadeepa-lk ([දවල් මිගෙල් රෑ දනියෙල් ප්‍රකාශකයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c42cec3.json))
-
-## Last Hour (5 Articles)
+## Last Hour (4 Articles)
 
 * **2** ada-derana-lk ([Five including woman arrested over Gampaha daylight shooting](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0461cfd.json))
 
-* **2** tamil-mirror-lk ([செவ்வாயன்று மீண்டும் கொழும்பில் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/0745c40e.json))
+* **1** lankadeepa-lk ([දවල් මිගෙල් රෑ දනියෙල් ප්‍රකාශකයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d02aea1.json))
 
-* **1** lankadeepa-lk ([දවල් මිගෙල් රෑ දනියෙල් ප්‍රකාශකයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c42cec3.json))
+* **1** tamil-mirror-lk ([நீராடச் சென்ற மூவர் பலி; ஒருவர் மாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51a35e9b.json))
 
-## Last 3 Hours (17 Articles)
+## Last 3 Hours (15 Articles)
 
-* **4** ada-derana-lk ([Pakistan floods affect over 30 million people; death toll tops 900](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a079e52.json))
-
-* **4** news-first-lk ([United States to appoint first Arctic Ambassador](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/3027e283.json))
+* **3** ada-derana-lk ([Additional fuel stocks to be distributed island-wide in next three days](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7c852ee.json))
 
 * **3** tamil-mirror-lk ([பிச்சைக்காரன் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/835c1e80.json))
+
+* **3** news-first-lk ([Will reduce fuel queues within two days: Energy Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0efe3dd2.json))
 
 * **3** ada-lk ([විදුලි කප්පාදුව අඩු කළ හැකිදැයි ලංවිමෙන් විමසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/382cf2f8.json))
 
 * **2** daily-mirror-lk ([If no diesel supply by tomorrow, no school vans on Monday - Assn](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20c69249.json))
 
-* **1** lankadeepa-lk ([දවල් මිගෙල් රෑ දනියෙල් ප්‍රකාශකයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c42cec3.json))
+* **1** lankadeepa-lk ([දවල් මිගෙල් රෑ දනියෙල් ප්‍රකාශකයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d02aea1.json))
 
 ## Last 24 Hours (164 Articles)
 
@@ -54,19 +52,19 @@
 
 * **1** colombo-telegraph-com ([Government’s Attempt To Redefine The Political Discourse & Direction Through Suppression](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/4487641d.json))
 
-## Last Week (1,396 Articles)
+## Last Week (1,391 Articles)
 
 * **275** lankadeepa-lk ([නාන තටාකයට වැටී තරුණියක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dc304f5.json))
 
-* **205** news-first-lk ([Sapugaskanda recommences operations](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed010a7a.json))
+* **203** news-first-lk ([President assures fertilizer for farmers without delay](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/078948f2.json))
 
-* **183** tamil-mirror-lk ([50 பேர் தொடர்பில் பொலிஸார் விடுத்துள்ள அவசர செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/656af8d7.json))
+* **182** tamil-mirror-lk ([திடீரென CIDக்கு அழைக்கப்பட்டார் சஜித்தின் சகோதரி; காரணம் என்ன?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5df65b4.json))
 
-* **173** daily-mirror-lk ([204 Lankan flights stopped for refuelling at Thiruvananthapuram airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86de61ba.json))
+* **172** daily-mirror-lk ([SL aims to welcome 1 million tourists this year; Harin Fernando](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/826aa719.json))
 
 * **170** ada-lk ([සපුගස්කන්ද පිරිපහදුව වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/daa92ce9.json))
 
-* **154** ada-derana-lk ([Sapugaskanda Refinery resumes operations](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a97aa9f4.json))
+* **153** ada-derana-lk ([Austria donates consignment of essential medicines to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26c40800.json))
 
 * **99** economy-next-com ([Sri Lanka to get UN’s support to achieve 2030 agenda for sustainable development](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623faa.json))
 
