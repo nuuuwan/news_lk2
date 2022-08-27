@@ -1,28 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-28 01:54:05 (LK time)*
+*As of 2022-08-28 02:16:44 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (4 Articles)
 
 * **2** tamil-mirror-lk ([பொலிஸ் சட்டப்பிரிவின் பணிப்பாளர் நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce934439.json))
-
-* **2** daily-mirror-lk ([Afghanistan outclass Sri Lanka in Asia Cup](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68aab6f1.json))
 
 * **1** economy-next-com ([Sri Lanka construction sector in deep crisis, govt arrears rise up to Rs150 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/048019e7.json))
 
 * **1** ada-derana-lk ([India, Sri Lanka should build framework to discuss maritime concerns: Moragoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/515e0039.json))
 
-## Last 24 Hours (136 Articles)
+## Last 24 Hours (134 Articles)
 
 * **32** news-first-lk ([Norochcholai Back in Operation](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83c78f72.json))
 
 * **24** lankadeepa-lk ([හොර හරක් වෑන් රිය අධිබලැති විදුලි කණුවේ ගැටේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56663b23.json))
 
-* **23** daily-mirror-lk ([Appapillai Amirthalingam From Enfant Terrible to Elder Statesman](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51b475a5.json))
+* **22** daily-mirror-lk ([China says Ball is in Sri Lanka’s court](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1a1abcb.json))
 
-* **22** tamil-mirror-lk ([ஏறாவூர் வன்முறை: சந்தேக நபர் சரணடைந்தார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c160d02d.json))
+* **21** tamil-mirror-lk ([நில்வள கங்கையில் நால்வர் மாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1958826.json))
 
 * **15** ada-derana-lk ([Fairly heavy rains above 75mm expected in some areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0f45c5d.json))
 
