@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbf\u0bb2\u0bcd\u0bb5\u0bb3-\u0b95\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0bae\u0bbe\u0baf\u0bae\u0bcd/175-303057",
+    "time_ut": 1661568529,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbf\u0bb2\u0bcd\u0bb5\u0bb3 \u0b95\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0bae\u0bbe\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b1/b1958826.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/China-says-Bill-is-in-Sri-Lankas-court/342-243846",
+    "time_ut": 1661566854,
+    "original_lang": "en",
+    "original_title": "China says Bill is in Sri Lanka\u2019s court",
+    "file_name": "/tmp/news_lk2/articles/4d/4d82182c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/anger-over-sri-lankas-ban-on-balls-99070/",
+    "time_ut": 1661566680,
+    "original_lang": "en",
+    "original_title": "Anger over Sri Lanka\u2019s ban on balls",
+    "file_name": "/tmp/news_lk2/articles/f6/f6d743d7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84566/fairly-heavy-rains-above-75mm-expected-in-some-areas",
+    "time_ut": 1661566380,
+    "original_lang": "en",
+    "original_title": "Fairly heavy rains above 75mm expected in some areas",
+    "file_name": "/tmp/news_lk2/articles/b0/b0f45c5d.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0daf\u0ddc\u0dbd\u0dc0\u0dad\u0dca\u0dad\u0d9c\u0dda-\u0db1\u0dd2\u0dc0\u0dd9\u0dc3-\u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca-\u0dc4\u0dba\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-618827",
     "time_ut": 1661564108,
@@ -78,6 +110,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/0c/0c9f3fab.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business__main/Crisis-for-SL-children-cautionary-tale-for-South-Asia-UNICEF/245-243839",
+    "time_ut": 1661542467,
+    "original_lang": "en",
+    "original_title": "Crisis for SL children cautionary tale for South Asia: UNICEF",
+    "file_name": "/tmp/news_lk2/articles/dd/ddc7becf.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -214,6 +254,14 @@
     "original_lang": "en",
     "original_title": "Special gazette issued on increasing water tariffs from Sep 01",
     "file_name": "/tmp/news_lk2/articles/a4/a46d0774.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/front_page/Budget-2023-24-Need-for-a-complete-overhaul-of-the-system-of-governance-Bandula/238-243807",
+    "time_ut": 1661534433,
+    "original_lang": "en",
+    "original_title": "Budget 2023 \u2013 24 Need for a complete overhaul of the system of governance: Bandula",
+    "file_name": "/tmp/news_lk2/articles/6b/6b4647c7.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
