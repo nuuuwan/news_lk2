@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/opposition-leader-questions-govt-s-coal-deal/",
+    "time_ut": 1661699040,
+    "original_lang": "en",
+    "original_title": "Opposition Leader questions Govt\u2019s coal deal",
+    "file_name": "/tmp/news_lk2/articles/de/dedc94b2.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0bb2\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd-\u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc2\u0bb5\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0b95\u0bc1\u0bb4\u0bc1/175-303146",
     "time_ut": 1661698017,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "SL ignores COVID; people warned against uncontrollable spreading: PHI head",
     "file_name": "/tmp/news_lk2/articles/46/46a7b7c6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/After-introducing-QR-fuel-consumption-falls-closer-to-3mn-liters-Minister/342-243569",
-    "time_ut": 1661248878,
-    "original_lang": "en",
-    "original_title": "After introducing QR, fuel consumption falls closer to 3mn liters: Minister",
-    "file_name": "/tmp/news_lk2/articles/57/57749e79.json"
   }
 ]
