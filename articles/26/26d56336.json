@@ -1,0 +1,711 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/news/\u0da2\u0dbd-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2/101-618882",
+  "time_ut": 1661685953,
+  "original_lang": "si",
+  "original_title": "\u0da2\u0dbd \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2",
+  "text_idx": {
+    "en": {
+      "title": "This is how water charges increase",
+      "author": "unknown",
+      "body_lines": [
+        "The National Water Supply and Drainage Board has taken steps to increase water charges by 130 percent and the increase in charges will be effective from September 1.",
+        "A household consuming the minimum water consumption of 5 units, the water fee of Rs 123 previously paid will become Rs 448 with this increase, an increase of 264 percent.",
+        "Domestic Water Charges The rate of Rs 12 per unit for the first 5 water units has been increased by 67 percent to Rs 20, while for 6 to 10 units the price per unit will be Rs 27 and for 11 to 15 units the price per unit will be Rs 34. , has been raised.",
+        "The price of 16 to 20 units of water has been increased to Rs.68, from 21 to 25 units to Rs.99, from 26 to 30 units to Rs.150 and from 31 to 40 units to Rs.179. Also, the unit price of 41 to 50 units has been increased to 204 rupees, the unit price of 51 to 75 units has been increased to 221 rupees, and a unit of water above 75 units has been increased to 238 rupees, according to the Water Supply Board.",
+        "The service fee which was 100 rupees for up to 25 water units has been increased to 300 rupees, the service fee for 26 to 30 units and 400 rupees for 31 to 40 units has been increased to 900 rupees and from 41 units The service charges which were 650 rupees up to 50 and 1000 rupees for 51 to 75 units have been increased to 2,400 rupees and for bills above 75 units the service charge of 1600 rupees has been increased to 3,500 rupees.",
+        "According to this new amendment, the water fee of 347.20 rupees for an average family that uses 15 units of water per month has increased by almost 130 percent to 789 rupees.",
+        "The fee for the first 40 units of government schools, government-aided colleges, religious and sacred places and government-approved charitable institutions will remain high and even if the unit fee of Samurdhi beneficiaries and estate houses has not been increased, the increase in service fee will also apply to them."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The National Water Supply and Drainage Board",
+            "label": "ORG"
+          },
+          {
+            "text": "130 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "September 1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "123",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "448",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "264 percent",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "Domestic Water Charges",
+            "label": "ORG"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "67 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "6 to 10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "11 to 15",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "16 to 20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "25",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "26",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "31 to",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "40",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "41 to 50",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "204",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "51 to 75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "221",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "238",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Water Supply Board",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "up to 25",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "300",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "26",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "400",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "31 to",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "40",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "41",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "650",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "51 to 75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,400",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1600",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,500",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "347.20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "almost 130 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "789",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "40",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0da2\u0dbd \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2",
+      "author": "unknown",
+      "body_lines": [
+        "\u0da2\u0dbd \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dc3\u0dd2\u0dba\u0dba\u0da7 130 \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0da7 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0da2\u0dbd \u0dc3\u0db8\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc4\u0dcf \u0da2\u0dbd\u0dcf\u0db4\u0dc0\u0dc4\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0db4\u0dd2\u0dba\u0dc0\u0dbb \u0d9c\u0dd9\u0db1 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d91\u0db8 \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0d89\u0dc4\u0dc5 \u0daf\u0dd0\u0db8\u0dd3\u0db8 \u0dbd\u0db6\u0db1 \u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca \u0db8\u0dc3 1 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0dc3\u0dd2\u0da7 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dda.",
+        "\u0d85\u0dc0\u0db8 \u0da2\u0dbd \u0db4\u0dbb\u0dd2\u0db7\u0ddd\u0da2\u0db1\u0dba \u0dc0\u0db1 \u0d92\u0d9a\u0d9a 5 \u0d9a\u0dca \u0db4\u0dbb\u0dd2\u0db7\u0ddd\u0da2\u0db1\u0dba \u0d9a\u0dbb\u0db1 \u0db1\u0dd2\u0dc0\u0dc3\u0d9a\u0dca \u0db8\u0dd3\u0da7 \u0db4\u0dd9\u0dbb \u0d9c\u0dd9\u0dc0\u0dd6 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 123 \u0d9a \u0da2\u0dbd \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0db8\u0dd9\u0db8 \u0d89\u0dc4\u0dc5 \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0d9f \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 448 \u0d9a\u0dca \u0db6\u0dc0\u0da7 \u0db4\u0dad\u0dca\u0dc0 \u0dc3\u0dd2\u0dba\u0dba\u0da7 264 \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0dba\u0dba\u0dd2.",
+        "\u0d9c\u0dd8\u0dc4\u0dc3\u0dca\u0dae \u0da2\u0dbd \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0db4\u0dc5\u0db8\u0dd4 \u0da2\u0dbd \u0d92\u0d9a\u0d9a 5 \u0dc3\u0db3\u0dc4\u0dcf \u0d92\u0d9a\u0d9a\u0dba\u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dd2 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 12 \u0d9a \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 20 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0dd2\u0dba\u0dba\u0da7 67 \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0daf\u0db8\u0dcf \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d92\u0d9a\u0d9a 6 \u0dc3\u0dd2\u0da7 10 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d92\u0d9a\u0d9a\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 27 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0daf, \u0d92\u0d9a\u0d9a 11 \u0dc3\u0dd2\u0da7 15 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d92\u0d9a\u0d9a\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 34 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0daf, \u0d89\u0dc4\u0dc5 \u0daf\u0db8\u0dcf \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0da2\u0dbd \u0d92\u0d9a\u0d9a 16 \u0dc3\u0dd2\u0da7 20 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 68 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf\u0dad\u0dca, \u0d92\u0d9a\u0d9a 21 \u0dc3\u0dd2\u0da7 25 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d92\u0d9a\u0d9a\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 99 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf\u0dad\u0dca, \u0d92\u0d9a\u0d9a 26 \u0dc3\u0dd2\u0da7 30 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d92\u0d9a\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 150 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf\u0dad\u0dca \u0d89\u0dc4\u0dc5 \u0daf\u0db8\u0dcf \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d92\u0d9a\u0d9a 31 \u0dc3\u0dd2\u0da7 40 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d92\u0d9a\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 179 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0daf, \u0d92\u0d9a\u0d9a 41 \u0dc3\u0dd2\u0da7 50 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d92\u0d9a\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 204 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0daf, \u0d92\u0d9a\u0d9a 51 \u0dc3\u0dd2\u0da7 75 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d92\u0d9a\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 221 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0daf, \u0d92\u0d9a\u0d9a 75 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0da2\u0dbd \u0d92\u0d9a\u0d9a\u0dba\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 238 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0daf, \u0d89\u0dc4\u0dc5 \u0daf\u0dd0\u0db8\u0dd6 \u0db6\u0dc0 \u0da2\u0dbd \u0dc3\u0db8\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0da2\u0dbd \u0d92\u0d9a\u0d9a 25 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 100 \u0d9a\u0dca\u0dc0 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dd2 \u0dc3\u0dda\u0dc0\u0dcf \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 300 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0daf, \u0d92\u0d9a\u0d9a 26 \u0dc3\u0dd2\u0da7 30 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dd2 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 200 \u0d9a \u0dc3\u0dc4 \u0d92\u0d9a\u0d9a 31 \u0dc3\u0dd2\u0da7 40 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 400 \u0d9a \u0dc3\u0dda\u0dc0\u0dcf \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 900 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0daf, \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d92\u0d9a\u0d9a 41 \u0dc3\u0dd2\u0da7 50 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 650 \u0d9a\u0dca \u0dc3\u0dc4 \u0d92\u0d9a\u0d9a 51 \u0dc3\u0dd2\u0da7 75 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 1000 \u0d9a\u0dca\u0dc0 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dd2 \u0dc3\u0dda\u0dc0\u0dcf \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 2,400 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf\u0dad\u0dca \u0d92\u0d9a\u0d9a 75 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dd2\u0db1\u0dca \u0db4\u0dd9\u0dbb \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dd2 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 1600 \u0d9a \u0dc3\u0dda\u0dc0\u0dcf \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 3,500 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf\u0dad\u0dca \u0d89\u0dc4\u0dc5 \u0daf\u0db8\u0dcf \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0db8\u0dcf\u0dc3\u0dd2\u0d9a\u0dc0 \u0da2\u0dbd \u0d92\u0d9a\u0d9a 15 \u0d9a\u0dca \u0db4\u0dcf\u0dc0\u0dd2\u0da0\u0dca\u0da0\u0dd2 \u0d9a\u0dbb\u0db1 \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db4\u0dc0\u0dd4\u0dbd\u0d9a \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dd2 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 347.20 \u0d9a \u0da2\u0dbd \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0db8\u0dd9\u0db8 \u0db1\u0dc0 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba \u0d85\u0db1\u0dd4\u0dc0 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 789 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0dd2\u0dba\u0dba\u0da7 130 \u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0dbb\u0da2\u0dba\u0dda \u0db4\u0dcf\u0dc3\u0dbd\u0dca, \u0dbb\u0da2\u0dba\u0dda \u0d8b\u0db4\u0d9a\u0dd8\u0dad \u0db4\u0dcf\u0da8\u0dc1\u0dcf\u0dbd\u0dcf, \u0d86\u0d9c\u0db8\u0dd2\u0d9a \u0dc3\u0dc4 \u0db4\u0dd6\u0da2\u0db1\u0dd3\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0dc3\u0dc4 \u0dbb\u0da2\u0dba\u0dda \u0d85\u0db1\u0dd4\u0db8\u0dad \u0db4\u0dd4\u0dab\u0dca\u200d\u0dba \u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd \u0db4\u0dc5\u0db8\u0dd4 \u0d92\u0d9a\u0d9a 40 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0d89\u0dc4\u0dc5 \u0d91\u0dc5\u0dc3\u0db8 \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0db6\u0dc0\u0dad\u0dca \u0dc3\u0db8\u0dd8\u0daf\u0dca\u0db0\u0dd2 \u0dbd\u0dcf\u0db7\u0dd3\u0db1\u0dca\u0da7 \u0dc3\u0dc4 \u0dc0\u0dad\u0dd4 \u0db1\u0dd2\u0dc0\u0dcf\u0dc3\u0dc0\u0dbd \u0d92\u0d9a\u0d9a \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0d89\u0dc4\u0dc5 \u0daf\u0db8\u0dcf \u0db1\u0ddc\u0dad\u0dd2\u0db6\u0dd4\u0dab \u0daf \u0dc3\u0dda\u0dc0\u0dcf \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0d89\u0dc4\u0dc5 \u0daf\u0dd0\u0db8\u0dd3\u0db8 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0da7 \u0daf \u0d85\u0daf\u0dcf\u0dbd \u0dc0\u0dda."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0da2\u0dbd \u0dc3\u0db8\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc4\u0dcf \u0da2\u0dbd\u0dcf\u0db4\u0dc0\u0dc4\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 130 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "123",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "448",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 264 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9c\u0dd8\u0dc4\u0dc3\u0dca\u0dae \u0da2\u0dbd \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4",
+            "label": "ORG"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 67 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "6 \u0dc3\u0dd2\u0da7 10 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "11 \u0dc3\u0dd2\u0da7 15 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "16 \u0dc3\u0dd2\u0da7 20 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "25",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "26",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "31 \u0dc3\u0dd2\u0da7",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "40",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "41 \u0dc3\u0dd2\u0da7 50 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "204",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "51 \u0dc3\u0dd2\u0da7 75 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "221",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "238",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da2\u0dbd \u0dc3\u0db8\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "25 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "300",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "26",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "400",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "31 \u0dc3\u0dd2\u0da7",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "40",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "41",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "650",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "51 \u0dc3\u0dd2\u0da7 75 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,400 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1600",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,500 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "347.20 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 130\u0d9a\u0dca \u0db4\u0db8\u0dab",
+            "label": "PERCENT"
+          },
+          {
+            "text": "789",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "40",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0ba4\u0ba9\u0bbe\u0bb2\u0bcd \u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0ba8\u0bc0\u0bb0\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0b9f\u0bbf\u0b95\u0bbe\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0baa\u0bc8 \u0ba8\u0bc0\u0bb0\u0bcd\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 130 \u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd, \u0b87\u0ba8\u0bcd\u0ba4\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bc6\u0bae\u0bcd\u0baa\u0bb0\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0bae\u0bc1\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd.",
+        "\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0baa\u0b9f\u0bcd\u0b9a\u0bae\u0bcd 5 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd \u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0b89\u0baa\u0baf\u0bcb\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bae\u0bcd, \u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1 \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb0\u0bc2.123 \u0b95\u0bc1\u0b9f\u0bbf\u0ba8\u0bc0\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd 264 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb0\u0bc2.448 \u0b86\u0b95 \u0bae\u0bbe\u0bb1\u0bc1\u0bae\u0bcd.",
+        "\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0bc1\u0b9f\u0bbf\u0ba8\u0bc0\u0bb0\u0bcd\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 5 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb0\u0bc2.12 \u0bb5\u0bc0\u0ba4\u0bae\u0bcd 67 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb0\u0bc2.20 \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd, 6 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 10 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb0\u0bc2.27 \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd, 11 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 15 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb0\u0bc2. 34 \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd. , \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "16 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 20 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd \u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb0\u0bc2.68 \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd, 21 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 25 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb0\u0bc2.99 \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd, 26 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 30 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb0\u0bc2.150 \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd, 31 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 40 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb0\u0bc2.179 \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. 41 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 50 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd \u0b85\u0bb2\u0b95\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 204 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, 51 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 75 \u0b85\u0bb2\u0b95\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 221 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, 75 \u0b85\u0bb2\u0b95\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b92\u0bb0\u0bc1 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd 238 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0ba8\u0bc0\u0bb0\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bb2\u0bcd \u0b9a\u0baa\u0bc8 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. .",
+        "25 \u0ba8\u0bc0\u0bb0\u0bcd \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bc8 100 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd 300 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, 26 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 30 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd 900 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, 41 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 900 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. 50 \u0bb5\u0bb0\u0bc8 650 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, 51 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 75 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 1000 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd 2,400 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, 75 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0baa\u0bbf\u0bb2\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 1600 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd 3,500 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0bae\u0bbe\u0ba4\u0bae\u0bca\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1 15 \u0baf\u0bc2\u0ba9\u0bbf\u0b9f\u0bcd \u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 347.20 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f 130 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 789 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b85\u0bb0\u0b9a \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd, \u0b85\u0bb0\u0b9a \u0b89\u0ba4\u0bb5\u0bbf \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf\u0b95\u0bb3\u0bcd, \u0b9a\u0bae\u0baf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0ba9\u0bbf\u0ba4 \u0bb8\u0bcd\u0ba4\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 40 \u0b85\u0bb2\u0b95\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95\u0bb5\u0bc7 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd, \u0b9a\u0bae\u0bc1\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf \u0baa\u0baf\u0ba9\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0bb2\u0b95\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bc1\u0bae\u0bcd, \u0b9a\u0bc7\u0bb5\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1. \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0bb5\u0bbf\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0ba8\u0bc0\u0bb0\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0b9f\u0bbf\u0b95\u0bbe\u0bb2\u0bcd \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "130 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "123",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "448",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "264 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b89\u0bb3\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bc0\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "67 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "6 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 10 \u0bb5\u0bb0\u0bc8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "11 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 15 \u0bb5\u0bb0\u0bc8",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "16 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 20 \u0bb5\u0bb0\u0bc8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "25",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "26",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "31 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "40",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "41 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 50 \u0bb5\u0bb0\u0bc8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "204",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "51 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 75 \u0bb5\u0bb0\u0bc8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "221",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "238",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba8\u0bc0\u0bb0\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bb2\u0bcd \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "25 \u0bb5\u0bb0\u0bc8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "300",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "26",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "400",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "31 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "40",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "41",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "650",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "51 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 75 \u0bb5\u0bb0\u0bc8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,400",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1600",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,500",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "347.20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f 130 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "789",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "40",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}
