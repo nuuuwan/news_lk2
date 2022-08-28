@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-28 23:33:32 (LK time)*
+*As of 2022-08-28 23:52:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (10 Articles)
 
 * **7** lankadeepa-lk ([වානිජ අංශයේ කප් එක රත්නාවලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d2adb78.json))
 
 * **2** ada-derana-lk ([Best results of 2021 GCE A/L exam](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f528411.json))
 
 * **1** tamil-mirror-lk ([ஊழலில் இலங்கைக்கு கிடைத்துள்ள இடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48f0488a.json))
-
-* **1** news-first-lk ([Opposition Leader questions Govt’s coal deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/dedc94b2.json))
 
 ## Last 24 Hours (145 Articles)
 
