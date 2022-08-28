@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-28 05:17:55 (LK time)*
+*As of 2022-08-28 05:34:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 3 Hours (1 Articles)
-
-* **1** economy-next-com ([Sri Lanka orders additional fuel stocks to smooth distribution amid shortage fears](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e941739.json))
 
 ## Last 24 Hours (136 Articles)
 
