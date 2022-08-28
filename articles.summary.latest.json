@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84593/police-seek-public-help-to-identify-72-more-suspects-who-damaged-presidents-office",
+    "time_ut": 1661694840,
+    "original_lang": "en",
+    "original_title": "Police seek public help to identify 72 more suspects who damaged President\u2019s Office",
+    "file_name": "/tmp/news_lk2/articles/a4/a44e5350.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/protest-held-in-geneva-against-state-suppression/",
+    "time_ut": 1661694660,
+    "original_lang": "en",
+    "original_title": "Protest held in Geneva against state suppression",
+    "file_name": "/tmp/news_lk2/articles/65/65bb430f.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/28/pucsl-approves-3-hour-power-cuts-for-29th-august/",
     "time_ut": 1661693820,
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0db8\u0dad\u0dbb \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db1\u0dd0\u0dad\u0dd2\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u2019\u0d9a\u0ddc\u0da7 \u0d8b\u0da9\u2019 \u0dba\u0db1 \u0dc4\u0dd0\u0da9",
     "file_name": "/tmp/news_lk2/articles/eb/eb004a6d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84484/interim-budget-to-be-presented-to-parliament-on-monday",
-    "time_ut": 1661246700,
-    "original_lang": "en",
-    "original_title": "Interim budget to be presented to parliament on Monday?",
-    "file_name": "/tmp/news_lk2/articles/4c/4c8ba938.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dbd\u0dd2-\u0dc0\u0dd0\u0da7\u0dda-\u0d91\u0db1\u0da2\u0dba\u0dd2\u0dc3\u0dbb\u0dba\u0dda-\u0dc3\u0ddc\u0dbb\u0d9a\u0db8\u0da7-\u0dc3\u0dd2\u0dc0\u0dd2\u0dbd\u0dca-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-02\u0d9a\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-03\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396553",
-    "time_ut": 1661246432,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbd\u0dd2 \u0dc0\u0dd0\u0da7\u0dda \u0d91\u0db1\u0da2\u0dba\u0dd2\u0dc3\u0dbb\u0dba\u0dda \u0dc3\u0ddc\u0dbb\u0d9a\u0db8\u0da7 \u0dc3\u0dd2\u0dc0\u0dd2\u0dbd\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a 02\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dd4 03\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/33/331b2b7a.json"
   }
 ]

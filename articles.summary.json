@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84593/police-seek-public-help-to-identify-72-more-suspects-who-damaged-presidents-office",
+    "time_ut": 1661694840,
+    "original_lang": "en",
+    "original_title": "Police seek public help to identify 72 more suspects who damaged President\u2019s Office",
+    "file_name": "/tmp/news_lk2/articles/a4/a44e5350.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/protest-held-in-geneva-against-state-suppression/",
+    "time_ut": 1661694660,
+    "original_lang": "en",
+    "original_title": "Protest held in Geneva against state suppression",
+    "file_name": "/tmp/news_lk2/articles/65/65bb430f.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/28/pucsl-approves-3-hour-power-cuts-for-29th-august/",
     "time_ut": 1661693820,
