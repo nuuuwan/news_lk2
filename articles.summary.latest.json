@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8-\u0bae\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-350-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd/175-303105",
+    "time_ut": 1661664400,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8 \u0bae\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 350 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd?",
+    "file_name": "/tmp/news_lk2/articles/28/282ce200.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/28/24-companies-express-interest-for-petrol-business/",
     "time_ut": 1661664000,
@@ -209,19 +217,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dc0-\u0dc3\u0dd2\u0da7\u0dd2-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0d9a\u0dd4-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba-\u0db6\u0dcf\u0dbb\u0dba\u0da7/101-618857",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db1\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dc0-\u0dc3\u0dd2\u0da7\u0dd2-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0d9a\u0dd4-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba-\u0db6\u0dcf\u0dbb\u0dba\u0da7/1-618857",
     "time_ut": 1661651540,
     "original_lang": "si",
     "original_title": "\u0d85\u0db1\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2 \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0db6\u0dcf\u0dbb\u0dba\u0da7",
-    "file_name": "/tmp/news_lk2/articles/71/714110e4.json"
+    "file_name": "/tmp/news_lk2/articles/a5/a58743f9.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db0\u0dd3\u0dc0\u0dbb\u0dc0\u0dcf\u0da9\u0dd2-\u0dad\u0dd4\u0db1\u0d9a\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0db6\u0dbd\u0dcf/101-618856",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db0\u0dd3\u0dc0\u0dbb\u0dc0\u0dcf\u0da9\u0dd2-\u0dad\u0dd4\u0db1\u0d9a\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0db6\u0dbd\u0dcf/1-618856",
     "time_ut": 1661651100,
     "original_lang": "si",
     "original_title": "\u0db0\u0dd3\u0dc0\u0dbb\u0dc0\u0dcf\u0da9\u0dd2 \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0db6\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/33/33a53f82.json"
+    "file_name": "/tmp/news_lk2/articles/8e/8e0be3c3.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -457,11 +465,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0dad\u0dd2\u0db6\u0dd6-\u0dba\u0dad\u0dd4\u0dbb\u0dd4-\u0db4\u0dd0\u0daf\u0dd2-13\u0d9a\u0dca-\u0dba\u0da7\u0d9a\u0dbb-\u0d9c\u0dd2\u0dba-\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae\u0dba/101-618849",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0dad\u0dd2\u0db6\u0dd6-\u0dba\u0dad\u0dd4\u0dbb\u0dd4-\u0db4\u0dd0\u0daf\u0dd2-13\u0d9a\u0dca-\u0dba\u0da7\u0d9a\u0dbb-\u0d9c\u0dd2\u0dba-\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae\u0dba/1-618849",
     "time_ut": 1661610292,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0dad\u0dd2\u0db6\u0dd6 \u0dba\u0dad\u0dd4\u0dbb\u0dd4 \u0db4\u0dd0\u0daf\u0dd2 13\u0d9a\u0dca \u0dba\u0da7\u0d9a\u0dbb \u0d9c\u0dd2\u0dba \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba",
-    "file_name": "/tmp/news_lk2/articles/0b/0bd45c28.json"
+    "file_name": "/tmp/news_lk2/articles/a7/a7c2e9a9.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Egg producers agree to drop prices \u2013 Minister",
     "file_name": "/tmp/news_lk2/articles/13/13ab5fd7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/23/non-parliament-parties-to-meet-ec-today-23/",
-    "time_ut": 1661228280,
-    "original_lang": "en",
-    "original_title": "Non-Parliament parties to meet EC today (23)",
-    "file_name": "/tmp/news_lk2/articles/2c/2c691185.json"
   }
 ]
