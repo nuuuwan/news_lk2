@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84588/teenage-school-girl-killed-in-wild-elephant-attack",
+    "time_ut": 1661680980,
+    "original_lang": "en",
+    "original_title": "Teenage school girl killed in wild elephant attack",
+    "file_name": "/tmp/news_lk2/articles/0e/0e1f1878.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Three-suspects-nabbed-with-over-33-kg-narcotics-Rs-3Mn-in-cash-in-Peliyagoda/108-243879",
     "time_ut": 1661680890,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka shares steady in mid-day trade",
     "file_name": "/tmp/news_lk2/articles/cb/cb61fdfa.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-plans-to-cut-deficit-to-6-8-pct-of-gdp-in-2023-98892/",
-    "time_ut": 1661236920,
-    "original_lang": "en",
-    "original_title": "Sri Lanka plans to cut deficit to 6.8-pct of GDP in 2023",
-    "file_name": "/tmp/news_lk2/articles/74/74ab5bcc.json"
   }
 ]

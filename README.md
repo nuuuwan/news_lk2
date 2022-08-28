@@ -1,12 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-28 15:46:04 (LK time)*
+*As of 2022-08-28 15:53:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (4 Articles)
 
-* **3** lankadeepa-lk ([මෙරට පාස් පෝට් එකකින් ආ විදේශිකයකු ආපසු යවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f77dce49.json))
+* **2** lankadeepa-lk ([කෝටි දෙකක මත් කුඩු සමග දෙකක් සැකපිට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3dfdb3d.json))
+
+* **1** ada-derana-lk ([Teenage school girl killed in wild elephant attack](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e1f1878.json))
 
 * **1** daily-mirror-lk ([Three suspects nabbed with over 33 kg narcotics, Rs. 3Mn in cash in Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/769d8225.json))
 
@@ -14,37 +16,37 @@
 
 * **5** lankadeepa-lk ([’’හොරු ඉන්න ආණ්ඩුවකට අපි එන්නෙ නෑ..’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f55cd894.json))
 
+* **1** ada-derana-lk ([Teenage school girl killed in wild elephant attack](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e1f1878.json))
+
 * **1** daily-mirror-lk ([Three suspects nabbed with over 33 kg narcotics, Rs. 3Mn in cash in Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/769d8225.json))
 
-* **1** ada-lk ([අද විදුලි කප්පාදුව පැයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95a3d402.json))
-
-## Last 3 Hours (27 Articles)
+## Last 3 Hours (26 Articles)
 
 * **9** lankadeepa-lk ([විදුලි කප්පාදුව පැයකට අඩු කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f5167a5.json))
 
 * **4** daily-mirror-lk ([Three-hour power cut trimmed to one hour today](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9410c71b.json))
 
-* **4** news-first-lk ([Navy arrests six Indian fishermen off Talaimannar](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0aad40d.json))
-
 * **3** ada-lk ([ඉන්ධන පිරවුම්හල් 700ක් විදේශ තෙල් සමාගම්වලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/812ab01e.json))
 
 * **3** tamil-mirror-lk ([மின்வெட்டு நேரத்தை குறைக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a756a75.json))
 
+* **3** news-first-lk ([Power cut for today (28) reduced to ONE hour](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/399d01b0.json))
+
+* **2** ada-derana-lk ([Pakistan monsoon flooding death toll tops 1,000](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b95e1fac.json))
+
 * **2** economy-next-com ([Sri Lanka power cut reduced to one hour on August 28](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55aee3ee.json))
 
-* **2** ada-derana-lk ([Power cuts for today reduced to one hour](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/210cf120.json))
-
-## Last 24 Hours (137 Articles)
+## Last 24 Hours (136 Articles)
 
 * **22** lankadeepa-lk ([දවල් මිගෙල් රෑ දනියෙල් ප්‍රකාශකයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d02aea1.json))
 
-* **22** tamil-mirror-lk ([எரிபொருள் குறித்த புதிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/333b642d.json))
+* **21** tamil-mirror-lk ([மின்வெட்டு நேரம் குறையும் சாத்தியம்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/3695b735.json))
 
 * **20** daily-mirror-lk ([More fuel will be supplied in next 3 days: Minister instructs](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4ce94690.json))
 
 * **18** news-first-lk ([Yuan Wang 5 mapping Indian Ocean after leaving Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecea3f5b.json))
 
-* **16** ada-derana-lk ([Minister Kanchana says coal tender awarded to lowest bidder](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce2a4cca.json))
+* **16** ada-derana-lk ([Pakistan floods affect over 30 million people; death toll tops 900](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a079e52.json))
 
 * **15** ada-lk ([විදුලි කප්පාදුව අඩු කළ හැකිදැයි ලංවිමෙන් විමසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/382cf2f8.json))
 
@@ -54,7 +56,7 @@
 
 * **2** colombo-telegraph-com ([War On China? – VI: India & The US: Forward Policy & The Brzezinskian Project](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aee73676.json))
 
-## Last Week (1,419 Articles)
+## Last Week (1,420 Articles)
 
 * **271** lankadeepa-lk ([කේතයට සහාය දුන් සමාගමට ඇමැති තුති පුදයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8af17dc4.json))
 
@@ -66,7 +68,7 @@
 
 * **168** ada-lk ([සරදියෙල් ගලෙන් වැටී පේරාදෙණිය සරසවි සිසුවිය මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bab37f2.json))
 
-* **152** ada-derana-lk ([Visiting UNDCO delegates on visit to northern areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/545d8bd8.json))
+* **153** ada-derana-lk ([Visiting UNDCO delegates on visit to northern areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/545d8bd8.json))
 
 * **109** economy-next-com ([Austria donates 27 essential medicines to crisis hit Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47350cc5.json))
 
@@ -78,7 +80,7 @@
 
 * **9** colombo-telegraph-com ([Child’s Guide To UK’s Trade Concessions To Developing Countries](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/126b6872.json))
 
-## All Time (3,356 Articles)
+## All Time (3,357 Articles)
 
 * **601** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -90,7 +92,7 @@
 
 * **364** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
-* **320** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
+* **321** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
 * **233** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 
