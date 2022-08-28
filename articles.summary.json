@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/No-fuel-shortage-CPC-says-fuel-distribution-functions-smooth/108-243873",
+    "time_ut": 1661670523,
+    "original_lang": "en",
+    "original_title": "No fuel shortage; CPC says fuel distribution functions smooth",
+    "file_name": "/tmp/news_lk2/articles/cd/cd34cf42.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-to-expand-probe-on-illegal-foreign-currency-traders-methods/108-243872",
+    "time_ut": 1661670103,
+    "original_lang": "en",
+    "original_title": "Police to expand probe on illegal foreign currency traders, methods",
+    "file_name": "/tmp/news_lk2/articles/a4/a4aafb1f.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/28/cpc-says-no-shortage-of-diesel-petrol-kerosene/",
     "time_ut": 1661669400,

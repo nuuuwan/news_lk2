@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/No-fuel-shortage-CPC-says-fuel-distribution-functions-smooth/108-243873",
+    "time_ut": 1661670523,
+    "original_lang": "en",
+    "original_title": "No fuel shortage; CPC says fuel distribution functions smooth",
+    "file_name": "/tmp/news_lk2/articles/cd/cd34cf42.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-to-expand-probe-on-illegal-foreign-currency-traders-methods/108-243872",
+    "time_ut": 1661670103,
+    "original_lang": "en",
+    "original_title": "Police to expand probe on illegal foreign currency traders, methods",
+    "file_name": "/tmp/news_lk2/articles/a4/a4aafb1f.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/28/cpc-says-no-shortage-of-diesel-petrol-kerosene/",
     "time_ut": 1661669400,
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0db1\u0dca \u0db8\u0dcf\u0dbd\u0dba\u0d9a\u0dca \u0dc3\u0dc4 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1\u0dba\u0d9a\u0dca \u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0d9a\u0dd1 \u0db8\u0dcf\u0dbd\u0db9\u0dda \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda 04\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
     "file_name": "/tmp/news_lk2/articles/08/08b4af3e.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0dbb\u0da7\u0da7-\u0d91\u0db1\u0dca\u0db1-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dc0\u0dad\u0dca-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0d9a\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1---\u0db8\u0dcf-\u0dc4\u0dd2-\u0d9a\u0ddc/11-396540",
-    "time_ut": 1661232551,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0dbb\u0da7\u0da7 \u0d91\u0db1\u0dca\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dc0\u0dad\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0d9a\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1 - \u0db8\u0dcf.\u0dc4\u0dd2.\u0d9a\u0ddc",
-    "file_name": "/tmp/news_lk2/articles/c8/c83a2eb1.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf-\u0db4\u0dd3\u0da8-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca\u0da7-\u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba-\u0dab\u0dba-\u0d86\u0db0\u0dcf\u0dbb-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0d9a\u0dca/101-618591",
-    "time_ut": 1661232402,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf \u0db4\u0dd3\u0da8 \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca\u0da7 \u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba \u0dab\u0dba \u0d86\u0db0\u0dcf\u0dbb \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/f1/f1f141dc.json"
   }
 ]
