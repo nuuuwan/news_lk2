@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/cpc-says-no-shortage-of-diesel-petrol-kerosene/",
+    "time_ut": 1661669400,
+    "original_lang": "en",
+    "original_title": "CPC says no shortage of Diesel, Petrol, Kerosene",
+    "file_name": "/tmp/news_lk2/articles/0b/0ba1fba6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84585/24-foreign-companies-submit-proposals-to-engage-in-petroleum-business-in-sri-lanka",
+    "time_ut": 1661668980,
+    "original_lang": "en",
+    "original_title": "24 foreign companies submit proposals to engage in petroleum business in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/16/164c3602.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bb1\u0bcd\u0bb1-\u0b87\u0ba9\u0bae\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0b87\u0ba9\u0bae\u0bc7/175-303108",
+    "time_ut": 1661667998,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bb1\u0bcd\u0bb1 \u0b87\u0ba9\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b87\u0ba9\u0bae\u0bc7",
+    "file_name": "/tmp/news_lk2/articles/30/30e0c6dd.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7-\u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1-\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b85\u0ba9\u0bc8\u0bb5\u0bb0\u0bc1\u0bae\u0bcd-\u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba3\u0bc8\u0baf-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/175-303108",
     "time_ut": 1661667998,
