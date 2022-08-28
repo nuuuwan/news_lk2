@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/24-companies-express-interest-for-petrol-business/",
+    "time_ut": 1661664000,
+    "original_lang": "en",
+    "original_title": "24 companies express interest for Petrol Business",
+    "file_name": "/tmp/news_lk2/articles/32/32a91b37.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/24-companys-interested-in-petroleum-business-in-Sri-Lanka-Minister/108-243871",
+    "time_ut": 1661663996,
+    "original_lang": "en",
+    "original_title": "24 company\u2019s interested in petroleum business in Sri Lanka: Minister",
+    "file_name": "/tmp/news_lk2/articles/68/68617012.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/slpp-tells-president-to-appoint-state-ministers-if-all-party-govt-is-further-delayed/",
+    "time_ut": 1661663940,
+    "original_lang": "en",
+    "original_title": "SLPP tells President to appoint State Ministers, if All-Party Govt. is further delayed",
+    "file_name": "/tmp/news_lk2/articles/eb/eba95296.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dba-\u0dc0\u0dd0\u0dba-\u0dbb\u0dc4\u0dc3\u0d9a\u0dca-\u0dc0\u0da2\u0dd2\u0dbb\u0d9c\u0dd9\u0db1\u0dca-\u0d91\u0dc5\u0dd2\u0dba\u0da7/101-618861",
+    "time_ut": 1661663569,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dba \u0dc0\u0dd0\u0dba \u0dbb\u0dc4\u0dc3\u0d9a\u0dca \u0dc0\u0da2\u0dd2\u0dbb\u0d9c\u0dd9\u0db1\u0dca \u0d91\u0dc5\u0dd2\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/ab/abee56be.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/caption_story/Queues-for-fuel-again/110-243870",
     "time_ut": 1661662657,
@@ -17,11 +49,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd2\u0dbb\u0dd2-\u0db8\u0dd4\u0daf\u0dc0\u0dd3\u0db8-\u0db1\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2/1-618860",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd2\u0dbb\u0dd2-\u0db8\u0dd4\u0daf\u0dc0\u0dd3\u0db8-\u0db1\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2/101-618860",
     "time_ut": 1661661728,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dd2\u0dbb\u0dd2 \u0db8\u0dd4\u0daf\u0dc0\u0dd3\u0db8 \u0db1\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/2c/2c7174dd.json"
+    "file_name": "/tmp/news_lk2/articles/44/44b5e8eb.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -177,19 +209,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db1\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dc0-\u0dc3\u0dd2\u0da7\u0dd2-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0d9a\u0dd4-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba-\u0db6\u0dcf\u0dbb\u0dba\u0da7/1-618857",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dc0-\u0dc3\u0dd2\u0da7\u0dd2-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0d9a\u0dd4-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba-\u0db6\u0dcf\u0dbb\u0dba\u0da7/101-618857",
     "time_ut": 1661651540,
     "original_lang": "si",
     "original_title": "\u0d85\u0db1\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2 \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0db6\u0dcf\u0dbb\u0dba\u0da7",
-    "file_name": "/tmp/news_lk2/articles/a5/a58743f9.json"
+    "file_name": "/tmp/news_lk2/articles/71/714110e4.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db0\u0dd3\u0dc0\u0dbb\u0dc0\u0dcf\u0da9\u0dd2-\u0dad\u0dd4\u0db1\u0d9a\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0db6\u0dbd\u0dcf/1-618856",
+    "url": "https://www.lankadeepa.lk/news/\u0db0\u0dd3\u0dc0\u0dbb\u0dc0\u0dcf\u0da9\u0dd2-\u0dad\u0dd4\u0db1\u0d9a\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0db6\u0dbd\u0dcf/101-618856",
     "time_ut": 1661651100,
     "original_lang": "si",
     "original_title": "\u0db0\u0dd3\u0dc0\u0dbb\u0dc0\u0dcf\u0da9\u0dd2 \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0db6\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/8e/8e0be3c3.json"
+    "file_name": "/tmp/news_lk2/articles/33/33a53f82.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -425,11 +457,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0dad\u0dd2\u0db6\u0dd6-\u0dba\u0dad\u0dd4\u0dbb\u0dd4-\u0db4\u0dd0\u0daf\u0dd2-13\u0d9a\u0dca-\u0dba\u0da7\u0d9a\u0dbb-\u0d9c\u0dd2\u0dba-\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae\u0dba/1-618849",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0dad\u0dd2\u0db6\u0dd6-\u0dba\u0dad\u0dd4\u0dbb\u0dd4-\u0db4\u0dd0\u0daf\u0dd2-13\u0d9a\u0dca-\u0dba\u0da7\u0d9a\u0dbb-\u0d9c\u0dd2\u0dba-\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae\u0dba/101-618849",
     "time_ut": 1661610292,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0dad\u0dd2\u0db6\u0dd6 \u0dba\u0dad\u0dd4\u0dbb\u0dd4 \u0db4\u0dd0\u0daf\u0dd2 13\u0d9a\u0dca \u0dba\u0da7\u0d9a\u0dbb \u0d9c\u0dd2\u0dba \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba",
-    "file_name": "/tmp/news_lk2/articles/a7/a7c2e9a9.json"
+    "file_name": "/tmp/news_lk2/articles/0b/0bd45c28.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -529,11 +561,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/500-workforce-instead-of-4-200-at-CPC-CPSTL-CEB-can-do-the-job-efficiently-Minister/342-243862",
+    "url": "https://www.dailymirror.lk/breaking_news/500-workforce-instead-of-4-200-at-CPC-CPSTL-CEB-can-do-the-job-efficiently-Minister/108-243862",
     "time_ut": 1661601919,
     "original_lang": "en",
     "original_title": "500 workforce instead of 4,200 at CPC, CPSTL, CEB can do the job efficiently: Minister",
-    "file_name": "/tmp/news_lk2/articles/e2/e2e2bc41.json"
+    "file_name": "/tmp/news_lk2/articles/53/538a09ec.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -545,11 +577,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/If-no-diesel-supply-by-tomorrow-no-school-vans-on-Monday-Assn/342-243861",
+    "url": "https://www.dailymirror.lk/breaking_news/If-no-diesel-supply-by-tomorrow-no-school-vans-on-Monday-Assn/108-243861",
     "time_ut": 1661599729,
     "original_lang": "en",
     "original_title": "If no diesel supply by tomorrow, no school vans on Monday - Assn",
-    "file_name": "/tmp/news_lk2/articles/20/20c69249.json"
+    "file_name": "/tmp/news_lk2/articles/7f/7f86dbb8.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -641,11 +673,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Ranjan-will-be-made-member-of-SJB-working-committee-parliamentary-group-Sajith/342-243860",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranjan-will-be-made-member-of-SJB-working-committee-parliamentary-group-Sajith/108-243860",
     "time_ut": 1661596667,
     "original_lang": "en",
     "original_title": "Ranjan will be made member of SJB working committee, parliamentary group: Sajith",
-    "file_name": "/tmp/news_lk2/articles/b0/b02f936c.json"
+    "file_name": "/tmp/news_lk2/articles/f1/f1635f96.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Non-Parliament parties to meet EC today (23)",
     "file_name": "/tmp/news_lk2/articles/2c/2c691185.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/23/120-000-mt-of-crude-to-reach-sl-soon/",
-    "time_ut": 1661227800,
-    "original_lang": "en",
-    "original_title": "120,000 MT of Crude to reach SL soon",
-    "file_name": "/tmp/news_lk2/articles/4e/4ea9a75e.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/visheshanga/\u0da2\u0db1\u0dad\u0dcf-\u0da1\u0db1\u0dca\u0daf\u0dd9\u0db1\u0dca-\u0db4\u0dad\u0dca\u0dc0\u0dd6-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0db1\u0dd2\u0dbd-\u0d9a\u0dcf\u0dbd\u0dba-\u0dc4\u0dd2\u0dad\u0dd4\u0db8\u0dad\u0dda-\u0db1\u0ddc\u0d9a\u0db4\u0db1\u0dd4/26-618578",
-    "time_ut": 1661227396,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0dad\u0dcf \u0da1\u0db1\u0dca\u0daf\u0dd9\u0db1\u0dca \u0db4\u0dad\u0dca\u0dc0\u0dd6 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0db1\u0dd2\u0dbd \u0d9a\u0dcf\u0dbd\u0dba \u0dc4\u0dd2\u0dad\u0dd4\u0db8\u0dad\u0dda \u0db1\u0ddc\u0d9a\u0db4\u0db1\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/50/502a67a9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/23/surge-in-covid-cases-health-min-concerned/",
-    "time_ut": 1661227200,
-    "original_lang": "en",
-    "original_title": "Surge in COVID cases, Health Min. concerned",
-    "file_name": "/tmp/news_lk2/articles/e9/e995c901.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/SL-ranks-5th-among-10-countries-with-highest-food-price-inflation-World-Bank/155-243560",
-    "time_ut": 1661226713,
-    "original_lang": "en",
-    "original_title": "SL ranks 5th among 10 countries with highest food price inflation: World Bank",
-    "file_name": "/tmp/news_lk2/articles/51/51109819.json"
   }
 ]
