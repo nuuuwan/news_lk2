@@ -1,11 +1,43 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Three-hour-power-cut-trimmed-to-one-hour-today/108-243874",
+    "time_ut": 1661671706,
+    "original_lang": "en",
+    "original_title": "Three-hour power cut trimmed to one hour today",
+    "file_name": "/tmp/news_lk2/articles/94/9410c71b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/navy-arrests-six-indian-fishermen-off-talaimannar/",
+    "time_ut": 1661671260,
+    "original_lang": "en",
+    "original_title": "Navy arrests six Indian fishermen off Talaimannar",
+    "file_name": "/tmp/news_lk2/articles/a0/a0aad40d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84586/power-cuts-for-today-reduced-to-one-hour",
+    "time_ut": 1661671200,
+    "original_lang": "en",
+    "original_title": "Power cuts for today reduced to one hour",
+    "file_name": "/tmp/news_lk2/articles/21/210cf120.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/No-fuel-shortage-CPC-says-fuel-distribution-functions-smooth/108-243873",
     "time_ut": 1661670523,
     "original_lang": "en",
     "original_title": "No fuel shortage; CPC says fuel distribution functions smooth",
     "file_name": "/tmp/news_lk2/articles/cd/cd34cf42.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-gets-interest-from-24-firms-to-import-and-sell-fuel-minister-99099/",
+    "time_ut": 1661670240,
+    "original_lang": "en",
+    "original_title": "Sri Lanka gets interest from 24 firms to import and sell fuel: Minister",
+    "file_name": "/tmp/news_lk2/articles/2a/2a27be19.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -46,6 +78,14 @@
     "original_lang": "ta",
     "original_title": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7 \u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1  \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc8\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba3\u0bc8\u0baf \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/4d/4d3c07f4.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dbb\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dcf\u0daf-\u0d87\u0dad\u0dd2-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0db0\u0dd4\u0dbb-\u0db1\u0dd0\u0dad\u0dca\u0db1\u0db8\u0dca-\u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca\u0d9c\u0dda-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0da7-\u0dc0\u0dd2\u0dbb\u0dd4\u0daf\u0dca\u0db0\u0dba\u0dd2-/11-396665",
+    "time_ut": 1661666938,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dbb\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dcf\u0daf \u0d87\u0dad\u0dd2 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0db0\u0dd4\u0dbb \u0db1\u0dd0\u0dad\u0dca\u0db1\u0db8\u0dca \u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca\u0d9c\u0dda \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0da7 \u0dc0\u0dd2\u0dbb\u0dd4\u0daf\u0dca\u0db0\u0dba\u0dd2?",
+    "file_name": "/tmp/news_lk2/articles/6e/6e545430.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -350,6 +390,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0db1\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2 \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0db6\u0dcf\u0dbb\u0dba\u0da7",
     "file_name": "/tmp/news_lk2/articles/a5/a58743f9.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/war-on-china-vi-india-the-us-forward-policy-the-brzezinskian-project/",
+    "time_ut": 1661651462,
+    "original_lang": "en",
+    "original_title": "War On China? \u2013 VI:\u00a0India & The US: Forward Policy & The Brzezinskian Project",
+    "file_name": "/tmp/news_lk2/articles/ae/aee73676.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "Court issues arrest warrant on Pathum Kerner",
     "file_name": "/tmp/news_lk2/articles/dd/ddf3eea5.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1/175-302853",
-    "time_ut": 1661233260,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/27/279d420a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u201c\u0dc3\u0db8\u0dd4\u0db4\u0d9a\u0dcf\u0dbb-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba-\u0db8\u0dbb\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf\u201d/101-618592",
-    "time_ut": 1661233129,
-    "original_lang": "si",
-    "original_title": "\u201c\u0dc3\u0db8\u0dd4\u0db4\u0d9a\u0dcf\u0dbb \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0db8\u0dbb\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf\u201d",
-    "file_name": "/tmp/news_lk2/articles/26/2636f965.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84477/man-hacked-to-death-near-kuliyapitiya-hospital",
-    "time_ut": 1661233020,
-    "original_lang": "en",
-    "original_title": "Man hacked to death near Kuliyapitiya Hospital",
-    "file_name": "/tmp/news_lk2/articles/99/990e6d05.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84476/closest-relatives-permitted-to-meet-wasantha-mudalige-and-others",
-    "time_ut": 1661232780,
-    "original_lang": "en",
-    "original_title": "Closest relatives permitted to meet Wasantha Mudalige and others",
-    "file_name": "/tmp/news_lk2/articles/22/222ed80b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/23/train-derails-in-rosella/",
-    "time_ut": 1661232660,
-    "original_lang": "en",
-    "original_title": "Train derails in Rosella",
-    "file_name": "/tmp/news_lk2/articles/53/535dbe1a.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0db1\u0dca-\u0db8\u0dcf\u0dbd\u0dba\u0d9a\u0dca-\u0dc3\u0dc4-\u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1\u0dba\u0d9a\u0dca-\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0d9a\u0dd1-\u0db8\u0dcf\u0dbd\u0db9\u0dda-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda-04\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396541",
-    "time_ut": 1661232589,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0db1\u0dca \u0db8\u0dcf\u0dbd\u0dba\u0d9a\u0dca \u0dc3\u0dc4 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1\u0dba\u0d9a\u0dca \u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0d9a\u0dd1 \u0db8\u0dcf\u0dbd\u0db9\u0dda \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda 04\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/08/08b4af3e.json"
   }
 ]
