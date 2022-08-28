@@ -160,6 +160,14 @@
     "file_name": "/tmp/news_lk2/articles/3d/3dbd4717.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/religion/\u0dc2\u0dc0\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0da7-\u2019\u0db8\u0dc4\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dcf\u0db4\u0dcf\u0db0\u0dd2\u0d9a\u0dda\u0dc1\u0dda\u0dc0\u0dbb\u2019-\u0d9c\u0dde\u0dbb\u0dc0-\u0db1\u0dcf\u0db8\u0dba/4-396676",
+    "time_ut": 1661696696,
+    "original_lang": "si",
+    "original_title": "\u0dc2\u0dc0\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0da7 \u2019\u0db8\u0dc4\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dcf\u0db4\u0dcf\u0db0\u0dd2\u0d9a\u0dda\u0dc1\u0dda\u0dc0\u0dbb\u2019 \u0d9c\u0dde\u0dbb\u0dc0 \u0db1\u0dcf\u0db8\u0dba",
+    "file_name": "/tmp/news_lk2/articles/a2/a275220e.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8\u0baf-\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8/175-303137",
     "time_ut": 1661696317,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "3-hour power cut approved for Wednesday (24)",
     "file_name": "/tmp/news_lk2/articles/88/882fce30.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dda-\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb-\u0d9a\u0da9-\u0db4\u0dcf\u0dc5\u0dd4\u0dc0\u0da7:\u0db8\u0dd2\u0dbd\u0dad\u0dca-\u0db4\u0dc4\u0dc5\u0da7/1-618624",
-    "time_ut": 1661252359,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dda \u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb \u0d9a\u0da9 \u0db4\u0dcf\u0dc5\u0dd4\u0dc0\u0da7:\u0db8\u0dd2\u0dbd\u0dad\u0dca \u0db4\u0dc4\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/30/30a58f06.json"
   }
 ]

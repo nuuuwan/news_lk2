@@ -1,24 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 00:57:29 (LK time)*
+*As of 2022-08-29 01:17:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last 3 Hours (5 Articles)
+
+* **2** lankadeepa-lk ([මානව හිමිකම් කවුන්සිලට අලුත් යෝජනා](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/7368ab09.json))
 
 * **1** tamil-mirror-lk ([தேர்தலில் போட்டியிட இளைஞர்களுக்கு வாய்ப்பு: ஜீவன் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87d85a3f.json))
 
-## Last 3 Hours (9 Articles)
-
-* **5** lankadeepa-lk ([කලා අංශයෙන් එක කැන්දගොල්ල විදුහලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be672227.json))
-
-* **2** ada-derana-lk ([Covid-19: Sri Lanka confirms two more deaths, 56 new cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df4a1ada.json))
-
-* **1** tamil-mirror-lk ([தேர்தலில் போட்டியிட இளைஞர்களுக்கு வாய்ப்பு: ஜீவன் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87d85a3f.json))
+* **1** ada-derana-lk ([Six Indian fishermen arrested by Sri Lanka Navy](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/430b4e3f.json))
 
 * **1** daily-mirror-lk ([Chinese company refuses to budge](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a253e9ed.json))
 
-## Last 24 Hours (144 Articles)
+## Last 24 Hours (145 Articles)
 
 * **29** tamil-mirror-lk ([ரஞ்சன் ராமநாயக்கவுக்கு பல பதவிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eec2a9f8.json))
 
@@ -28,7 +24,7 @@
 
 * **18** ada-derana-lk ([Showers expected in several provinces and districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c228c33.json))
 
-* **17** ada-lk ([ඇෆ්ගනිස්තානයට පෙරළිකාර ජයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a50d6a59.json))
+* **18** ada-lk ([ඇෆ්ගනිස්තානයට පෙරළිකාර ජයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a50d6a59.json))
 
 * **14** daily-mirror-lk ([Sri Lanka’s economic crisis: Staple foods unaffordable, severe malnutrition in region, says UNICEF](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/948db1f8.json))
 
@@ -36,7 +32,7 @@
 
 * **2** colombo-telegraph-com ([War On China? – VI: India & The US: Forward Policy & The Brzezinskian Project](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aee73676.json))
 
-## Last Week (1,396 Articles)
+## Last Week (1,397 Articles)
 
 * **271** lankadeepa-lk ([ගෝඨාභය යුද අධිකරණය යවන්නැයි සංදේශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f1bcfa.json))
 
@@ -46,7 +42,7 @@
 
 * **172** daily-mirror-lk ([UK-based Kavida to invest US$ 500, 000 to support  Sri Lanka’s apparel resilience](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc466a38.json))
 
-* **169** ada-lk ([දෙල්දුව වෙඩි තැබීමෙන් දෙදෙනෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c70ce0dd.json))
+* **170** ada-lk ([දෙල්දුව වෙඩි තැබීමෙන් දෙදෙනෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c70ce0dd.json))
 
 * **150** ada-derana-lk ([Fairly heavy rainfall expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/071d6ef3.json))
 
@@ -60,11 +56,11 @@
 
 * **8** colombo-telegraph-com ([Sri Lanka: Protesters Must Not Be Detained Under The Draconian Anti-Terror Law: Amnesty International](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f24273.json))
 
-## All Time (3,421 Articles)
+## All Time (3,422 Articles)
 
 * **614** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **434** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **435** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **431** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 

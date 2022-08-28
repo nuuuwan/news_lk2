@@ -1,0 +1,222 @@
+{
+  "newspaper_id": "ada-lk",
+  "url": "https://www.ada.lk/religion/\u0dc2\u0dc0\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0da7-\u2019\u0db8\u0dc4\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dcf\u0db4\u0dcf\u0db0\u0dd2\u0d9a\u0dda\u0dc1\u0dda\u0dc0\u0dbb\u2019-\u0d9c\u0dde\u0dbb\u0dc0-\u0db1\u0dcf\u0db8\u0dba/4-396676",
+  "time_ut": 1661696696,
+  "original_lang": "si",
+  "original_title": "\u0dc2\u0dc0\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0da7 \u2019\u0db8\u0dc4\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dcf\u0db4\u0dcf\u0db0\u0dd2\u0d9a\u0dda\u0dc1\u0dda\u0dc0\u0dbb\u2019 \u0d9c\u0dde\u0dbb\u0dc0 \u0db1\u0dcf\u0db8\u0dba",
+  "text_idx": {
+    "en": {
+      "title": "Shavendra was given the title of 'Mahamanya Pratapadhikesheva'",
+      "author": "unknown",
+      "body_lines": [
+        "The Chief of Defense Staff, General Shavendra Silva, has been awarded the honorary title of Mahamanya Pratapadhikeshevara by the Maha Sangha Sabha of the Asgiri faction.",
+        "Today (28) in the afternoon, this honorary title was presented at the Asgiri Maha Vihara Abhinandana Festival held at the Asgiri Maha Vihara.",
+        "The Asgiri Maha Sangha Sabha has decided to award this honorary title to Mr. General Shavendra Silva for his service to the country, religion and national security."
+      ],
+      "title_ents": [
+        {
+          "text": "Mahamanya Pratapadhikesheva'",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Defense Staff",
+            "label": "ORG"
+          },
+          {
+            "text": "Shavendra Silva",
+            "label": "PERSON"
+          },
+          {
+            "text": "Mahamanya Pratapadhikeshevara",
+            "label": "FAC"
+          },
+          {
+            "text": "Sangha Sabha",
+            "label": "PERSON"
+          },
+          {
+            "text": "Asgiri",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "Today",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Asgiri Maha Vihara Abhinandana Festival",
+            "label": "FAC"
+          },
+          {
+            "text": "the Asgiri Maha Vihara",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "The Asgiri Maha",
+            "label": "NORP"
+          },
+          {
+            "text": "Sabha",
+            "label": "PERSON"
+          },
+          {
+            "text": "Shavendra Silva",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc2\u0dc0\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0da7 \u2019\u0db8\u0dc4\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dcf\u0db4\u0dcf\u0db0\u0dd2\u0d9a\u0dda\u0dc1\u0dda\u0dc0\u0dbb\u2019 \u0d9c\u0dde\u0dbb\u0dc0 \u0db1\u0dcf\u0db8\u0dba",
+      "author": "unknown",
+      "body_lines": [
+        "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db8\u0dcf\u0dab\u0dca\u0da9\u0dbd\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3 \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0dc1\u0dc0\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf \u0db8\u0dc4\u0dad\u0dcf\u0da7 \u0d85\u0dc3\u0dca\u0d9c\u0dd2\u0dbb\u0dd2 \u0db4\u0dcf\u0dbb\u0dca\u0dc1\u0dc0\u0dba\u0dda \u0db8\u0dc4\u0dcf \u0dc3\u0d82\u0d9d \u0dc3\u0db7\u0dcf\u0dc0 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db8\u0dc4\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dcf\u0db4\u0dcf\u0db0\u0dd2\u0d9a\u0dda\u0dc1\u0dda\u0dc0\u0dbb \u0dba\u0db1 \u0d9c\u0dde\u0dbb\u0dc0 \u0db1\u0dcf\u0db8\u0dba \u0db4\u0dd4\u0daf \u0d9a\u0ddc\u0da7 \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0d85\u0daf (28) \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4\u0dc0\u0dda\u00a0 \u0d85\u0dc3\u0dca\u0d9c\u0dd2\u0dbb\u0dd2 \u0db8\u0dc4\u0dcf \u0dc0\u0dd2\u0dc4\u0dcf\u0dbb\u0dba\u0dda \u0daf\u0dd3 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dd2 \u0d85\u0dc3\u0dca\u0d9c\u0dd2\u0dbb\u0dd2 \u0db8\u0dc4\u0dcf \u0dc0\u0dd2\u0dc4\u0dcf\u0dbb\u0dd3\u0dba \u0d85\u0db7\u0dd2\u0db1\u0db1\u0dca\u0daf\u0db1 \u0d8b\u0dc5\u0dd9\u0dbd\u0dda\u0daf\u0dd3 \u0db8\u0dd9\u0db8 \u0d9c\u0dde\u0dbb\u0dc0 \u0db1\u0dcf\u0db8\u0dba \u0db4\u0dd4\u0daf \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0da7 \u0dba\u0dd9\u0daf\u0dd4\u0db1\u0dd2 .",
+        "\u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0dc1\u0dc0\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf \u0db8\u0dc4\u0dad\u0dcf \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dbb\u0da7 \u0d86\u0d9c\u0db8 \u0dc3\u0dc4 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc3\u0dd4\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dad\u0dcf\u0dc0\u0dba \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0dc3\u0dda\u0dc0\u0dba \u0d87\u0d9c\u0dba\u0dd3\u0db8 \u0d8b\u0daf\u0dd9\u0dc3\u0dcf \u0db8\u0dd9\u0db8 \u0d9c\u0dde\u0dbb\u0dc0 \u0db1\u0dcf\u0db8\u0dba \u0db4\u0dd4\u0daf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc3\u0dca\u0d9c\u0dd2\u0dbb\u0dd2 \u0db8\u0dc4\u0dcf \u0dc3\u0d82\u0d9d \u0dc3\u0db7\u0dcf\u0dc0 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0ddc\u0da7 \u0dad\u0dd2\u0db6\u0dda."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0db8\u0dc4\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dcf\u0db4\u0db0\u0dd2\u0d9a\u0dda\u0dc1\u0dd9\u0dc0'",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dc0\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dc4\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dcf\u0db4\u0db0\u0dd2\u0d9a\u0dda\u0dc1\u0dca\u0dc0\u0dbb",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0dc3\u0d82\u0d9d \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0dc3\u0dca\u0d9c\u0dd2\u0dbb\u0dd2\u0dba",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0dc3\u0dca\u0d9c\u0dd2\u0dbb\u0dd2 \u0db8\u0dc4\u0dcf \u0dc0\u0dd2\u0dc4\u0dcf\u0dbb \u0d85\u0db7\u0dd2\u0db1\u0db1\u0dca\u0daf\u0db1 \u0db8\u0d82\u0d9c\u0dbd\u0dca\u200d\u0dba\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0d85\u0dc3\u0dca\u0d9c\u0dd2\u0dbb\u0dd2 \u0db8\u0dc4\u0dcf \u0dc0\u0dd2\u0dc4\u0dcf\u0dbb\u0dba",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0dc3\u0dca\u0d9c\u0dd2\u0dbb\u0dd2 \u0db8\u0dc4\u0dcf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc3\u0db7\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc1\u0dc0\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bb7\u0bb5\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 '\u0bae\u0bb9\u0bbe\u0bae\u0bbe\u0ba9\u0bcd\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0baa\u0ba4\u0bbf\u0b95\u0bc7\u0bb7\u0bc7\u0bb5\u0bbe' \u0b8e\u0ba9\u0bcd\u0bb1 \u0baa\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0baa\u0bcd \u0baa\u0b9f\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9\u0bbf \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bcd \u0b9a\u0bb5\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0b95\u0bbe \u0b9a\u0b99\u0bcd\u0b95 \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0bae\u0b95\u0bbe\u0bae\u0bbe\u0ba9\u0bcd\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0baa\u0ba4\u0bbf\u0b95\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0bb0\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1 \u0b95\u0bcc\u0bb0\u0bb5\u0baa\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (28) \u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd \u0b85\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf \u0bae\u0b95\u0bbe \u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b85\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf \u0bae\u0b95\u0bbe \u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8 \u0b85\u0baa\u0bbf\u0ba8\u0ba8\u0bcd\u0ba4\u0ba9 \u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b95\u0bcc\u0bb0\u0bb5\u0baa\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0ba8\u0bbe\u0b9f\u0bc1, \u0bae\u0ba4\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0ba4\u0bbf\u0bb0\u0bc1.\u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bcd \u0b9a\u0bb5\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe \u0b86\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b87\u0ba8\u0bcd\u0ba4 \u0b95\u0bcc\u0bb0\u0bb5\u0baa\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0b85\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf \u0bae\u0b95\u0bbe \u0b9a\u0b99\u0bcd\u0b95 \u0b9a\u0baa\u0bc8 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bae\u0bb9\u0bbe\u0bae\u0bbe\u0ba9\u0bcd\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0baa\u0ba4\u0bbf\u0b95\u0bc7\u0bb7\u0bc7\u0bb5\u0bbe'",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bb5\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bb9\u0bbe\u0bae\u0bbe\u0ba9\u0bcd\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bc7\u0bb6\u0bcd\u0bb5\u0bb0",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0b9a\u0b99\u0bcd\u0b95 \u0b9a\u0baa\u0bc8",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b85\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b85\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf \u0bae\u0b95\u0bbe \u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8 \u0b85\u0baa\u0bbf\u0ba8\u0ba8\u0bcd\u0ba4\u0ba9 \u0bb5\u0bbf\u0bb4\u0bbe",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0b85\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf \u0bae\u0b95\u0bbe \u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "\u0b85\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf \u0bae\u0b95\u0bbe",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9a\u0baa\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bb5\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
