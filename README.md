@@ -1,12 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 01:17:39 (LK time)*
+*As of 2022-08-29 01:31:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (5 Articles)
-
-* **2** lankadeepa-lk ([මානව හිමිකම් කවුන්සිලට අලුත් යෝජනා](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/7368ab09.json))
+## Last 3 Hours (3 Articles)
 
 * **1** tamil-mirror-lk ([தேர்தலில் போட்டியிட இளைஞர்களுக்கு வாய்ப்பு: ஜீவன் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87d85a3f.json))
 
