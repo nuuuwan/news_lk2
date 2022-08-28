@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/main_image/\u0d9a\u0dd9\u0dc4\u0dd9\u0dbd\u0dca\u0db6\u0daf\u0dca\u0daf\u0dbb-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dcf-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7-\u0db4\u0dc4\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/47-618878",
+    "time_ut": 1661682120,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd9\u0dc4\u0dd9\u0dbd\u0dca\u0db6\u0daf\u0dca\u0daf\u0dbb \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dcf \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7 \u0db4\u0dc4\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7",
+    "file_name": "/tmp/news_lk2/articles/1d/1dc6a48a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/festive-season-in-plight-importers-raise-concerns/",
+    "time_ut": 1661682060,
+    "original_lang": "en",
+    "original_title": "Festive season in plight; Importers raise concerns",
+    "file_name": "/tmp/news_lk2/articles/2b/2b0d2b5a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/All-party-govt-essential-to-defeat-Intl-agendas/108-243880",
+    "time_ut": 1661681676,
+    "original_lang": "en",
+    "original_title": "All-party govt. essential to defeat Intl. agendas",
+    "file_name": "/tmp/news_lk2/articles/46/4620eab8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0db1\u0dd3\u0dad\u0dd2-\u0d9a\u0ddc\u0da7\u0dca\u0da8\u0dcf\u0dc3\u0dba\u0da7/101-618877",
+    "time_ut": 1661681410,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db1\u0dd3\u0dad\u0dd2 \u0d9a\u0ddc\u0da7\u0dca\u0da8\u0dcf\u0dc3\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/64/64fa24b4.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84588/teenage-school-girl-killed-in-wild-elephant-attack",
     "time_ut": 1661680980,
@@ -54,6 +86,14 @@
     "original_lang": "si",
     "original_title": "\u2019\u2019\u0dc4\u0ddc\u0dbb\u0dd4 \u0d89\u0db1\u0dca\u0db1 \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0da7 \u0d85\u0db4\u0dd2 \u0d91\u0db1\u0dca\u0db1\u0dd9 \u0db1\u0dd1..\u2019\u2019",
     "file_name": "/tmp/news_lk2/articles/f5/f55cd894.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/sports/\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca-\u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0db1\u0dca-7\u0d9a\u0d9c\u0dda-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba-\u0d85\u0dbb\u0dca\u0da2\u0dd4\u0db1-\u0db1\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2/9-396669",
+    "time_ut": 1661679033,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0db1\u0dca 7\u0d9a\u0d9c\u0dda \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba \u0d85\u0dbb\u0dca\u0da2\u0dd4\u0db1 \u0db1\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/b8/b8ae8e6e.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "SATHOSA lowers prices of 12 essential goods",
     "file_name": "/tmp/news_lk2/articles/ae/ae2cdc1d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca-\u0d9a\u0dbb\u0dca\u0db1\u0dbb\u0dca\u0da7-\u0dc0\u0dbb\u0dd9\u0db1\u0dca\u0dad\u0dd4/11-396547",
-    "time_ut": 1661237990,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0dca\u0db1\u0dbb\u0dca\u0da7 \u0dc0\u0dbb\u0dd9\u0db1\u0dca\u0dad\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/c3/c30afc8d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da7-\u0d9a\u0da2\u0dd4-\u0d95\u0dc3\u0dd9\u0da7-\u0d9a\u0db1\u0dca\u0db1-\u0dbd\u0dd0\u0db6\u0dd9\u0db1-\u0dc5\u0d9a\u0dd4\u0dab\u0dd4/1-618605",
-    "time_ut": 1661237504,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0da7 \u0d9a\u0da2\u0dd4 \u0d95\u0dc3\u0dd9\u0da7 \u0d9a\u0db1\u0dca\u0db1 \u0dbd\u0dd0\u0db6\u0dd9\u0db1 \u0dc5\u0d9a\u0dd4\u0dab\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/db/db5a3bd6.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-receives-medical-aid-worth-one-million-dollars-from-turkiye-98891/",
-    "time_ut": 1661237340,
-    "original_lang": "en",
-    "original_title": "Sri Lanka receives medical aid worth one million dollars from Turkiye",
-    "file_name": "/tmp/news_lk2/articles/97/97c968e1.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0bae\u0ba4\u0bc1\u0baa\u0bbe\u0ba9-\u0baa\u0bcb\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bcd/95-302864",
-    "time_ut": 1661237288,
-    "original_lang": "ta",
-    "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0bae\u0ba4\u0bc1\u0baa\u0bbe\u0ba9 \u0baa\u0bcb\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/cc/cc0a15e2.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-shares-steady-in-mid-day-trade-98890/",
-    "time_ut": 1661236980,
-    "original_lang": "en",
-    "original_title": "Sri Lanka shares steady in mid-day trade",
-    "file_name": "/tmp/news_lk2/articles/cb/cb61fdfa.json"
   }
 ]
