@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-may-reduce-power-cuts-after-coal-plant-repair-99097/",
+    "time_ut": 1661666820,
+    "original_lang": "en",
+    "original_title": "Sri Lanka may reduce power cuts after coal plant repair",
+    "file_name": "/tmp/news_lk2/articles/8f/8f9ec243.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84584/cpc-urges-public-not-to-believe-rumours-of-fuel-shortages",
+    "time_ut": 1661666520,
+    "original_lang": "en",
+    "original_title": "CPC urges public not to believe rumours of fuel shortages",
+    "file_name": "/tmp/news_lk2/articles/d6/d6c2aa94.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/special-police-team-to-probe-informal-forex-trades/",
+    "time_ut": 1661666160,
+    "original_lang": "en",
+    "original_title": "Special Police team to probe informal forex trades",
+    "file_name": "/tmp/news_lk2/articles/b1/b1365111.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84583/india-slams-china-says-sri-lanka-needs-support-not-unwanted-pressure",
+    "time_ut": 1661666100,
+    "original_lang": "en",
+    "original_title": "India slams China, says Sri Lanka needs support, not \u2018unwanted pressure\u2019",
+    "file_name": "/tmp/news_lk2/articles/a3/a3910672.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/unidentified-body-washes-up-on-kalutara-shore/",
+    "time_ut": 1661666040,
+    "original_lang": "en",
+    "original_title": "Unidentified body washes up on Kalutara shore",
+    "file_name": "/tmp/news_lk2/articles/c2/c252c1db.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/28/ssp-ruwan-appointed-police-legal-director/",
     "time_ut": 1661665800,
@@ -14,6 +54,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dbd\u0dd2\u0dba\u0dcf\u0da7 \u0dc3\u0dc4 \u0daf\u0dac\u0dd4\u0dbd\u0dda\u0db1\u0dcf\u0da7 \u0dc4\u0dd0\u0db3\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a\u0dd2\u0db1\u0dca \u0db6\u0dd9\u0daf\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/d6/d61f927f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad-\u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0\u0dda-\u0dc3\u0dd2\u0da7\u0dd2\u0db1-\u0dc0\u0d9c\u0dcf-\u0db4\u0dcf\u0dc5\u0dd4\u0dc0\u0db1\u0dca-\u0d91\u0dba\u0dd2\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0da7/11-396664",
+    "time_ut": 1661665272,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0dc0\u0d9c\u0dcf \u0db4\u0dcf\u0dc5\u0dd4\u0dc0\u0db1\u0dca \u0d91\u0dba\u0dd2\u0db1\u0dca \u0d89\u0dc0\u0dad\u0da7",
+    "file_name": "/tmp/news_lk2/articles/7a/7a88e888.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
