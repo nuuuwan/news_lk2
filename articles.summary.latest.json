@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0ba4\u0bbf\u0baf\u0bb3\u0bb5\u0bc1-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1/175-303127",
+    "time_ut": 1661685069,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bcb\u0ba4\u0bbf\u0baf\u0bb3\u0bb5\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/bd/bd95f966.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84590/2021-al-exam-results-released",
+    "time_ut": 1661684580,
+    "original_lang": "en",
+    "original_title": "2021 A/L exam results released",
+    "file_name": "/tmp/news_lk2/articles/f1/f1c38069.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-has-enough-fuel-to-distribute-cpc-99114/",
+    "time_ut": 1661684460,
+    "original_lang": "en",
+    "original_title": "Sri Lanka has enough fuel to distribute : CPC",
+    "file_name": "/tmp/news_lk2/articles/70/7080b4fc.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d8b\u0dc3\u0dc3\u0dca-\u0db4\u0dd9\u0dc5-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/101-618879",
+    "time_ut": 1661684309,
+    "original_lang": "si",
+    "original_title": "\u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e6/e63f100b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/2021-AL-results-out-today/342-243881",
+    "time_ut": 1661684042,
+    "original_lang": "en",
+    "original_title": "2021 A/L results out today",
+    "file_name": "/tmp/news_lk2/articles/c8/c8674c18.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/police-seek-public-assistance-to-identify-72-suspects/",
+    "time_ut": 1661684040,
+    "original_lang": "en",
+    "original_title": "Police seek public assistance to identify 72 suspects",
+    "file_name": "/tmp/news_lk2/articles/4d/4d3fe744.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84589/three-suspects-arrested-with-large-haul-of-drugs-in-peliyagoda",
     "time_ut": 1661683740,
@@ -7950,53 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca\u0da7 \u0da0\u0dd3\u0db1\u0dba\u0dd9\u0db1\u0dca \u0dbb\u0dd9\u0daf\u0dd2",
     "file_name": "/tmp/news_lk2/articles/c4/c4a77229.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0db6\u0db1-\u0dc0\u0dc3\u0dbb\u0dda\u0daf\u0dd3-\u0db1\u0dc0-\u0db6\u0dbd\u0dcf\u0db4\u0ddc\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4-\u0dc3\u0dc4\u0dd2\u0dad-\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0d9a\u0dca/1-618608",
-    "time_ut": 1661239425,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0db6\u0db1 \u0dc0\u0dc3\u0dbb\u0dda\u0daf\u0dd3 \u0db1\u0dc0 \u0db6\u0dbd\u0dcf\u0db4\u0ddc\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4 \u0dc3\u0dc4\u0dd2\u0dad \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/c8/c8ede111.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84481/hal-sameera-arrested-by-stf-with-guns-and-ammo",
-    "time_ut": 1661239380,
-    "original_lang": "en",
-    "original_title": "\u2018Hal Sameera\u2019 arrested by STF with guns and ammo",
-    "file_name": "/tmp/news_lk2/articles/1f/1fbd7d4d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dd0\u0da7\u0dbb\u0db9-\u0d9a\u0db4\u0dd4\u0dc0\u0dcf\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0dda-\u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab/11-396548",
-    "time_ut": 1661239254,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dd0\u0da7\u0dbb\u0db9 \u0d9a\u0db4\u0dd4\u0dc0\u0dcf\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0dda \u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab",
-    "file_name": "/tmp/news_lk2/articles/57/574aa3d7.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84480/court-issues-arrest-warrant-against-pathum-kerner",
-    "time_ut": 1661238780,
-    "original_lang": "en",
-    "original_title": "Court issues arrest warrant against Pathum Kerner",
-    "file_name": "/tmp/news_lk2/articles/f3/f3a87099.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0d9a\u0dd4\u0da7-\u0dc3\u0dd4\u0daf\u0dca\u0daf\u0dba\u0d9a\u0dca-\u0daf\u0dd0\u0db8\u0dd6-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/101-618607",
-    "time_ut": 1661238609,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0d9a\u0dd4\u0da7 \u0dc3\u0dd4\u0daf\u0dca\u0daf\u0dba\u0d9a\u0dca \u0daf\u0dd0\u0db8\u0dd6 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/6b/6bc0addc.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0d9a\u0dd4\u0da7-\u0dc3\u0dd4\u0daf\u0dca\u0daf\u0dba\u0d9a\u0dca-\u0daf\u0dd0\u0db8\u0dd6-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda-\u0dc4\u0dad\u0dbb\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/101-618607",
-    "time_ut": 1661238609,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0d9a\u0dd4\u0da7 \u0dc3\u0dd4\u0daf\u0dca\u0daf\u0dba\u0d9a\u0dca \u0daf\u0dd0\u0db8\u0dd6 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/97/979f755d.json"
   }
 ]
