@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 02:18:12 (LK time)*
+*As of 2022-08-29 02:34:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -16,7 +16,7 @@
 
 * **1** ada-derana-lk ([Six Indian fishermen arrested by Sri Lanka Navy](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/430b4e3f.json))
 
-## Last 24 Hours (146 Articles)
+## Last 24 Hours (145 Articles)
 
 * **29** tamil-mirror-lk ([ரஞ்சன் ராமநாயக்கவுக்கு பல பதவிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eec2a9f8.json))
 
@@ -30,11 +30,11 @@
 
 * **16** daily-mirror-lk ([Sri Lanka’s economic crisis: Staple foods unaffordable, severe malnutrition in region, says UNICEF](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/948db1f8.json))
 
-* **13** economy-next-com ([Sri Lanka orders additional fuel stocks to smooth distribution amid shortage fears](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e941739.json))
+* **12** economy-next-com ([Sri Lanka import controls are temporary: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7208ec6f.json))
 
 * **2** colombo-telegraph-com ([War On China? – VI: India & The US: Forward Policy & The Brzezinskian Project](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aee73676.json))
 
-## Last Week (1,397 Articles)
+## Last Week (1,394 Articles)
 
 * **271** lankadeepa-lk ([ගෝඨාභය යුද අධිකරණය යවන්නැයි සංදේශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f1bcfa.json))
 
@@ -52,7 +52,7 @@
 
 * **55** island-lk ([$18 trillion wiped off global markets in first half of 2022, WFE data reveals](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35d1ee8d.json))
 
-* **55** daily-ft-lk ([‘President Ranil a leader with foresight who can rebuild SL’: Dr. Dhammarathana Nayaka Thera](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a6a1c46.json))
+* **52** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
 
 * **18** d-b-s-jeyaraj-com ([“How could a public protest campaign, dubbed as peaceful, destroy 70 houses and 600  other properties belonging to as many as 72 MPs, within a matter of 24 hours? Asks SLPP Gen Secy Sagara  Kariyawasam](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/689df5af.json))
 
