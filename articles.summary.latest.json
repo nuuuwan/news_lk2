@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Wisdom-of-Nishkam-Karma-Much-in-demand-for-an-authentic-revival/4-739207",
+    "time_ut": 1661727790,
+    "original_lang": "en",
+    "original_title": "Wisdom of \u2018Nishkam Karma\u2019: Much in demand for an authentic revival",
+    "file_name": "/tmp/news_lk2/articles/44/44cc6611.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Central-Bank-independence-Issue-to-the-fore-again-but-will-the-Government-have-foresight-to-do-it/4-739205",
     "time_ut": 1661726584,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Harsha appointed Chairman of Public Finance Committee",
     "file_name": "/tmp/news_lk2/articles/9e/9e49c435.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8\u0baf-\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-302873",
-    "time_ut": 1661253967,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8\u0baf \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/a7/a735a46d.json"
   }
 ]
