@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/pucsl-approves-3-hour-power-cuts-for-29th-august/",
+    "time_ut": 1661693820,
+    "original_lang": "en",
+    "original_title": "PUCSL approves 3 hour power cuts for 29th August",
+    "file_name": "/tmp/news_lk2/articles/5d/5d0c08db.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/late-fees-to-be-charged-from-state-institutions-that-fail-to-pay-water-bills/",
+    "time_ut": 1661692680,
+    "original_lang": "en",
+    "original_title": "Late fees to be charged from State institutions that fail to pay water bills",
+    "file_name": "/tmp/news_lk2/articles/e3/e319f84a.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd-24-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bae\u0bcd/175-303135",
     "time_ut": 1661692647,
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dbd\u0dd2 \u0dc0\u0dd0\u0da7\u0dda \u0d91\u0db1\u0da2\u0dba\u0dd2\u0dc3\u0dbb\u0dba\u0dda \u0dc3\u0ddc\u0dbb\u0d9a\u0db8\u0da7 \u0dc3\u0dd2\u0dc0\u0dd2\u0dbd\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a 02\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dd4 03\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
     "file_name": "/tmp/news_lk2/articles/33/331b2b7a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca--\u0dc3\u0ddc\u0dbb-\u0db8\u0dd4\u0dbd\u0da7-\u0dc0\u0dd0\u0da7\u0dd4\u0dab-\u0d9c\u0dd2\u0dbb\u0dc0\u0dcf-\u0dc0\u0d9c\u0dd9\u0dca/101-618616",
-    "time_ut": 1661246168,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca, \u0dc3\u0ddc\u0dbb \u0db8\u0dd4\u0dbd\u0da7 \u0dc0\u0dd0\u0da7\u0dd4\u0dab \u0d9c\u0dd2\u0dbb\u0dc0\u0dcf \u0dc0\u0d9c\u0dd9\u0dca",
-    "file_name": "/tmp/news_lk2/articles/fb/fb8fef72.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0da2\u0dcf\u0dad\u0d9a-\u0d9a\u0dad\u0dcf\u0dc0\u0dd9\u0dd2-\u0dc3\u0ddc\u0dbb-\u0db8\u0dd4\u0dbd\u0da7-\u0dc0\u0dd0\u0da7\u0dd4\u0dab-\u0d9c\u0dd2\u0dbb\u0dc0\u0dcf-\u0dc0\u0d9c\u0dd9\u0dca/101-618616",
-    "time_ut": 1661246168,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0da2\u0dcf\u0dad\u0d9a \u0d9a\u0dad\u0dcf\u0dc0\u0dd9\u0dd2 \u0dc3\u0ddc\u0dbb \u0db8\u0dd4\u0dbd\u0da7 \u0dc0\u0dd0\u0da7\u0dd4\u0dab \u0d9c\u0dd2\u0dbb\u0dc0\u0dcf \u0dc0\u0d9c\u0dd9\u0dca",
-    "file_name": "/tmp/news_lk2/articles/3f/3fcb55d8.json"
   }
 ]
