@@ -1,26 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-28 22:42:26 (LK time)*
+*As of 2022-08-28 22:53:58 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last Hour (6 Articles)
 
-* **3** lankadeepa-lk ([ගාල්ලේ බාලිකාවකින් ජලය ඇද්ද කෝටිපතියාට ලක්ෂ 10ක දඩයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19e789af.json))
-
-* **1** ada-derana-lk ([Covid-19: Sri Lanka confirms two more deaths, 56 new cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df4a1ada.json))
-
-## Last Hour (8 Articles)
-
-* **7** lankadeepa-lk ([වානිජ අංශයේ කප් එක රත්නාවලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d2adb78.json))
+* **5** lankadeepa-lk ([කලා අංශයෙන් එක කැන්දගොල්ල විදුහලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be672227.json))
 
 * **1** ada-derana-lk ([Covid-19: Sri Lanka confirms two more deaths, 56 new cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df4a1ada.json))
 
-## Last 3 Hours (19 Articles)
+## Last 3 Hours (17 Articles)
 
 * **7** lankadeepa-lk ([වානිජ අංශයේ කප් එක රත්නාවලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d2adb78.json))
 
-* **6** tamil-mirror-lk ([நாளைய மின்வெட்டு அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6401ddc.json))
+* **5** tamil-mirror-lk ([அரச நிறுவனங்களுக்குக் காலக்கெடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dbd4717.json))
 
 * **2** ada-derana-lk ([Best results of 2021 GCE A/L exam](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f528411.json))
 
@@ -28,9 +22,7 @@
 
 * **1** news-first-lk ([Opposition Leader questions Govt’s coal deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/dedc94b2.json))
 
-* **1** ada-lk ([දෙකෝටියක රන් හා රිදී ආභරණ අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5aef27e.json))
-
-## Last 24 Hours (150 Articles)
+## Last 24 Hours (147 Articles)
 
 * **30** tamil-mirror-lk ([பொலிஸ் சட்டப்பிரிவின் பணிப்பாளர் நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce934439.json))
 
@@ -38,13 +30,13 @@
 
 * **21** news-first-lk ([SLPP tells President to appoint State Ministers, if All-Party Govt. is further delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eba95296.json))
 
-* **20** ada-derana-lk ([SSP Ruwan Gunasekera appointed Director of Police Legal Division](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/481bceb1.json))
+* **18** ada-derana-lk ([India, Sri Lanka should build framework to discuss maritime concerns: Moragoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/515e0039.json))
 
 * **17** ada-lk ([ඇෆ්ගනිස්තානයට පෙරළිකාර ජයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a50d6a59.json))
 
-* **16** daily-mirror-lk ([India responds to Chinese Ambassador’s remarks on SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dcaea165.json))
-
 * **15** economy-next-com ([Sri Lanka construction sector in deep crisis, govt arrears rise up to Rs150 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/048019e7.json))
+
+* **15** daily-mirror-lk ([Afghanistan outclass Sri Lanka in Asia Cup](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68aab6f1.json))
 
 * **2** colombo-telegraph-com ([War On China? – VI: India & The US: Forward Policy & The Brzezinskian Project](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aee73676.json))
 
