@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd-24-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bae\u0bcd/175-303135",
+    "time_ut": 1661692647,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd: 24 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/19/1962e551.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/police-initiate-special-operations-against-organized-crimes/",
+    "time_ut": 1661692200,
+    "original_lang": "en",
+    "original_title": "Police initiate special operations against organized crimes",
+    "file_name": "/tmp/news_lk2/articles/ef/efe03c62.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84592/veteran-cinematographer-donald-karunaratne-passes-away",
+    "time_ut": 1661692200,
+    "original_lang": "en",
+    "original_title": "Veteran cinematographer Donald Karunaratne passes away",
+    "file_name": "/tmp/news_lk2/articles/0d/0dcfc4d7.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/28/chinese-ambassador-violated-diplomatic-etiquette-indian-hc/",
     "time_ut": 1661692020,
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0da2\u0dcf\u0dad\u0d9a \u0d9a\u0dad\u0dcf\u0dc0\u0dd9\u0dd2 \u0dc3\u0ddc\u0dbb \u0db8\u0dd4\u0dbd\u0da7 \u0dc0\u0dd0\u0da7\u0dd4\u0dab \u0d9c\u0dd2\u0dbb\u0dc0\u0dcf \u0dc0\u0d9c\u0dd9\u0dca",
     "file_name": "/tmp/news_lk2/articles/3f/3fcb55d8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/23/sri-lanka-student-activists-held-under-pta-moved-to-tangalle-detention-center/",
-    "time_ut": 1661246160,
-    "original_lang": "en",
-    "original_title": "Sri Lanka: Student activists held under PTA moved to Tangalle Detention Center",
-    "file_name": "/tmp/news_lk2/articles/30/30d62e18.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0da7-\u0dc3\u0dd2\u0da7\u0dd2-\u0dc3\u0dd2\u0dc0\u0dd2\u0dbd\u0dca-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a\u0dba\u0ddd-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0dc0\u0dd0\u0da7\u0dda-\u0db6\u0dd0\u0da7\u0dbb\u0dd2\u0dba\u0da7-\u0dc0\u0dd2\u0daf\u0dd2\u0dad\u0dd2/1-618615",
-    "time_ut": 1661245610,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0da7 \u0dc3\u0dd2\u0da7\u0dd2 \u0dc3\u0dd2\u0dc0\u0dd2\u0dbd\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a\u0dba\u0ddd \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc0\u0dd0\u0da7\u0dda \u0db6\u0dd0\u0da7\u0dbb\u0dd2\u0dba\u0da7 \u0dc0\u0dd2\u0daf\u0dd2\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/bc/bc89b000.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0d91\u0db1\u0dca\u0db1\u0dad\u0dca-\u0daf\u0dad\u0dca\u0dad-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0dda-\u2018\u0dc4\u0dd2\u0dbd\u0d9a\u0dca\u2019/1-618614",
-    "time_ut": 1661245589,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d91\u0db1\u0dca\u0db1\u0dad\u0dca \u0daf\u0dad\u0dca\u0dad \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0dda \u2018\u0dc4\u0dd2\u0dbd\u0d9a\u0dca\u2019",
-    "file_name": "/tmp/news_lk2/articles/6a/6a0a7c05.json"
   }
 ]
