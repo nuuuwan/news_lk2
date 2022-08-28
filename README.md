@@ -1,34 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 00:36:14 (LK time)*
+*As of 2022-08-29 00:57:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** tamil-mirror-lk ([தேர்தலில் போட்டியிட இளைஞர்களுக்கு வாய்ப்பு: ஜீவன் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87d85a3f.json))
 
-## Last Hour (3 Articles)
+## Last 3 Hours (9 Articles)
 
-* **1** tamil-mirror-lk ([தேர்தலில் போட்டியிட இளைஞர்களுக்கு வாய்ப்பு: ஜீவன் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87d85a3f.json))
-
-* **1** ada-derana-lk ([Six Indian fishermen arrested by Sri Lanka Navy](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/430b4e3f.json))
-
-* **1** daily-mirror-lk ([Chinese company refuses to budge](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a253e9ed.json))
-
-## Last 3 Hours (12 Articles)
-
-* **7** lankadeepa-lk ([වානිජ අංශයේ කප් එක රත්නාවලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d2adb78.json))
-
-* **2** tamil-mirror-lk ([ஊழலில் இலங்கைக்கு கிடைத்துள்ள இடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48f0488a.json))
+* **5** lankadeepa-lk ([කලා අංශයෙන් එක කැන්දගොල්ල විදුහලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be672227.json))
 
 * **2** ada-derana-lk ([Covid-19: Sri Lanka confirms two more deaths, 56 new cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df4a1ada.json))
 
+* **1** tamil-mirror-lk ([தேர்தலில் போட்டியிட இளைஞர்களுக்கு வாய்ப்பு: ஜீவன் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87d85a3f.json))
+
 * **1** daily-mirror-lk ([Chinese company refuses to budge](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a253e9ed.json))
 
-## Last 24 Hours (146 Articles)
+## Last 24 Hours (144 Articles)
 
-* **30** tamil-mirror-lk ([ஆசியக் கிண்ணம்: இலங்கையைத் தோற்கடித்த ஆப்கானிஸ்தான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8873141.json))
+* **29** tamil-mirror-lk ([ரஞ்சன் ராமநாயக்கவுக்கு பல பதவிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eec2a9f8.json))
 
 * **29** lankadeepa-lk ([ධීවරවාඩි තුනකට ගිනි තබලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e0be3c3.json))
 
@@ -38,19 +30,19 @@
 
 * **17** ada-lk ([ඇෆ්ගනිස්තානයට පෙරළිකාර ජයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a50d6a59.json))
 
-* **15** economy-next-com ([Sri Lanka construction sector in deep crisis, govt arrears rise up to Rs150 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/048019e7.json))
-
 * **14** daily-mirror-lk ([Sri Lanka’s economic crisis: Staple foods unaffordable, severe malnutrition in region, says UNICEF](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/948db1f8.json))
+
+* **14** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
 
 * **2** colombo-telegraph-com ([War On China? – VI: India & The US: Forward Policy & The Brzezinskian Project](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aee73676.json))
 
-## Last Week (1,399 Articles)
+## Last Week (1,396 Articles)
 
 * **271** lankadeepa-lk ([ගෝඨාභය යුද අධිකරණය යවන්නැයි සංදේශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f1bcfa.json))
 
 * **204** news-first-lk ([Heavy rains expected today (22)](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/288362c4.json))
 
-* **186** tamil-mirror-lk ([யாழ் - கொழும்பு ரயில் சேவைகளை அதிகரிக்க நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b44095b.json))
+* **185** tamil-mirror-lk ([அம்பலாங்கொடையில் துப்பாக்கிச் சூடு: இருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19d590b5.json))
 
 * **172** daily-mirror-lk ([UK-based Kavida to invest US$ 500, 000 to support  Sri Lanka’s apparel resilience](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc466a38.json))
 
@@ -60,11 +52,11 @@
 
 * **107** economy-next-com ([Sri Lanka Navy seizes smuggled medicines worth 4.5m rupees](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/760e250e.json))
 
-* **58** daily-ft-lk ([Self-discovery and professional mastery combined for next level growth at Speakers’ Triangle](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/2281df28.json))
+* **57** daily-ft-lk ([Ken Vijayakumar elected President of CIPM SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3727b455.json))
 
 * **55** island-lk ([$18 trillion wiped off global markets in first half of 2022, WFE data reveals](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35d1ee8d.json))
 
-* **19** d-b-s-jeyaraj-com ([Arrest and Detention of Three  University Student Union Activists under the Draconian Prevention of Terrorism Act(PTA) Results in Widespread Critism of  Wickremesinghe Govt](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ed81334.json))
+* **18** d-b-s-jeyaraj-com ([“How could a public protest campaign, dubbed as peaceful, destroy 70 houses and 600  other properties belonging to as many as 72 MPs, within a matter of 24 hours? Asks SLPP Gen Secy Sagara  Kariyawasam](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/689df5af.json))
 
 * **8** colombo-telegraph-com ([Sri Lanka: Protesters Must Not Be Detained Under The Draconian Anti-Terror Law: Amnesty International](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f24273.json))
 
