@@ -1,0 +1,186 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dcf\u0db1\u0dd2\u0da2-\u0d85\u0d82\u0dc1\u0dba\u0dda-\u0d9a\u0db4\u0dca-\u0d91\u0d9a-\u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0da7/101-618883",
+  "time_ut": 1661703273,
+  "original_lang": "si",
+  "original_title": "\u0dc0\u0dcf\u0db1\u0dd2\u0da2 \u0d85\u0d82\u0dc1\u0dba\u0dda \u0d9a\u0db4\u0dca \u0d91\u0d9a \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0da7",
+  "text_idx": {
+    "en": {
+      "title": "The commercial division cup goes to Ratnavali",
+      "author": "unknown",
+      "body_lines": [
+        "Ishini Neha Amararatne, a student of Gampaha Ratnawali Balika Vidyalaya, has succeeded in securing the first position in the island in the commercial section of the 2021 General Certificate of Studies (Higher Level) examination.",
+        "She appeared for the exam in English medium and secured the first position in the commerce section.",
+        "In addition to this, the principal Mrs. Hema Jayavaradhana said that a student of Ratnavali girl has managed to get the second place in the island in the biology section."
+      ],
+      "title_ents": [
+        {
+          "text": "Ratnavali",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Ishini Neha Amararatne",
+            "label": "ORG"
+          },
+          {
+            "text": "Gampaha Ratnawali Balika Vidyalaya",
+            "label": "ORG"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "English",
+            "label": "LANGUAGE"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Hema Jayavaradhana",
+            "label": "PERSON"
+          },
+          {
+            "text": "Ratnavali",
+            "label": "NORP"
+          },
+          {
+            "text": "second",
+            "label": "ORDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc0\u0dcf\u0db1\u0dd2\u0da2 \u0d85\u0d82\u0dc1\u0dba\u0dda \u0d9a\u0db4\u0dca \u0d91\u0d9a \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0da7",
+      "author": "unknown",
+      "body_lines": [
+        "2021\u00a0 \u0d85\u0db0\u0dca\u200d\u0dba\u0dba\u0db1 \u0db4\u0ddc\u0daf\u0dd4 \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0db4\u0dad\u0dca\u200d\u0dbb (\u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5) \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dcf\u0db1\u0dd2\u0da2 \u0d85\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7\u00a0 \u0d9c\u0db8\u0dca\u0db4\u0dc4 \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dc0\u0dbd\u0dd3 \u0db6\u0dcf\u0dbd\u0dd2\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0d89\u0dc2\u0dd2\u0db1\u0dd2 \u0db1\u0dda\u0dc4\u0dcf \u0d85\u0db8\u0dbb\u0dbb\u0dad\u0dca\u0db1 \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd2\u0dba \u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd6\u0dc0\u0dcf\u0dba.",
+        "\u0d89\u0d82\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0dc3\u0dd2 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7 \u0db4\u0dd9\u0db1\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2 \u0d87\u0dba \u0dc0\u0dcf\u0db1\u0dd2\u0da2 \u0d85\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dbd\u0db6\u0dcf \u0d9c\u0dd9\u0db1 \u0d87\u0dad.",
+        "\u0d8a\u0da7 \u0d85\u0db8\u0dad\u0dbb\u0dc0 \u0da2\u0dd3\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba \u0d85\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca\u0db8 \u0daf\u0dd9\u0dc0\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0daf \u0dbd\u0db6\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dc0\u0dbd\u0dd2 \u0db6\u0dcf\u0dbd\u0dd2\u0d9a\u0dcf\u0dc0\u0dda \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd2\u0dba\u0d9a \u0dc3\u0db8\u0dad\u0dca\u0dc0 \u0d87\u0dad\u0dd0\u0dba\u0dd2 \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dd3 \u0dc4\u0dda\u0db8\u0dcf \u0da2\u0dba\u0dc0\u0dbb\u0db0\u0db1 \u0db8\u0dc4\u0dad\u0dca\u0db8\u0dd2\u0dba \u0db4\u0dd0\u0dc0\u0dd0\u0dc3\u0dd4\u0dc0\u0dcf\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dc0\u0dbd\u0dd3",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d89\u0dc2\u0dd2\u0db1\u0dd2 \u0db1\u0dda\u0dc4\u0dcf \u0d85\u0db8\u0dbb\u0dbb\u0dad\u0dca\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9c\u0db8\u0dca\u0db4\u0dc4 \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dc0\u0dbd\u0dd3 \u0db6\u0dcf\u0dbd\u0dd2\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0d82\u0d9c\u0dca\u0dbb\u0dd3\u0dc3\u0dd2",
+            "label": "LANGUAGE"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc4\u0dda\u0db8\u0dcf \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dc0\u0dbd\u0dd3",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8 \u0bb0\u0ba4\u0bcd\u0ba9\u0bbe\u0bb5\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b95\u0bae\u0bcd\u0baa\u0bb9\u0bbe \u0bb0\u0ba4\u0bcd\u0ba9\u0bbe\u0bb5\u0bb2\u0bbf \u0baa\u0bbe\u0bb2\u0bbf\u0b95\u0bbe \u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0baf \u0bae\u0bbe\u0ba3\u0bb5\u0bbf \u0b87\u0bb7\u0bbf\u0ba9\u0bbf \u0ba8\u0bc7\u0bb9\u0bbe \u0b85\u0bae\u0bb0\u0bb0\u0ba4\u0bcd\u0ba9 2021 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0baa\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bcd (\u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0\u0bae\u0bcd) \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bae\u0bcd \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b86\u0b99\u0bcd\u0b95\u0bbf\u0bb2 \u0bb5\u0bb4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc6\u0bb4\u0bc1\u0ba4\u0bbf \u0bb5\u0ba3\u0bbf\u0b95\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0b9f\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95, \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0bb0\u0ba4\u0bcd\u0ba9\u0bbe\u0bb5\u0bb2\u0bbf \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0baf\u0bca\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3 \u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba4\u0bbf \u0bb9\u0bc7\u0bae\u0bbe \u0b9c\u0baf\u0bb5\u0bb0\u0ba4\u0ba9 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bb0\u0ba4\u0bcd\u0ba9\u0bbe\u0bb5\u0bb3\u0bbf",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb7\u0bbf\u0ba9\u0bbf \u0ba8\u0bc7\u0bb9\u0bbe \u0b85\u0bae\u0bb0\u0bb0\u0ba4\u0bcd\u0ba9",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bae\u0bcd\u0baa\u0bb9\u0bbe \u0bb0\u0ba4\u0bcd\u0ba9\u0bbe\u0bb5\u0bb2\u0bbf \u0baa\u0bbe\u0bb2\u0bbf\u0b95\u0bbe \u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b86\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bae\u0bcd",
+            "label": "LANGUAGE"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb9\u0bc7\u0bae\u0bbe \u0b9c\u0bc6\u0baf\u0bb5\u0bb0\u0ba4\u0ba9\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb0\u0ba4\u0bcd\u0ba9\u0bbe\u0bb5\u0bb3\u0bbf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dbd\u0dcf-\u0d85\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0d91\u0d9a-\u0d9a\u0dd0\u0db1\u0dca\u0daf\u0d9c\u0ddc\u0dbd\u0dca\u0dbd-\u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0da7/101-618885",
+  "time_ut": 1661704133,
+  "original_lang": "si",
+  "original_title": "\u0d9a\u0dbd\u0dcf \u0d85\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d91\u0d9a \u0d9a\u0dd0\u0db1\u0dca\u0daf\u0d9c\u0ddc\u0dbd\u0dca\u0dbd \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0da7",
+  "text_idx": {
+    "en": {
+      "title": "One from the art section to Candagolla College",
+      "author": "unknown",
+      "body_lines": [
+        "Ishara Lakmal, a student of Badulla Candagolla High School, has passed the 2021 A-level examination in the arts department."
+      ],
+      "title_ents": [
+        {
+          "text": "One",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Candagolla College",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Ishara Lakmal",
+            "label": "ORG"
+          },
+          {
+            "text": "Badulla Candagolla High School",
+            "label": "ORG"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d9a\u0dbd\u0dcf \u0d85\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d91\u0d9a \u0d9a\u0dd0\u0db1\u0dca\u0daf\u0d9c\u0ddc\u0dbd\u0dca\u0dbd \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0da7",
+      "author": "unknown",
+      "body_lines": [
+        "2021 \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0d9a\u0dbd\u0dcf \u0d85\u0d82\u0dc1\u0dba\u0dda \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dda \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0d9c\u0dad\u0dca \u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd \u0d9a\u0dd0\u0db1\u0dca\u0daf\u0d9c\u0ddc\u0dbd\u0dca\u0dbd \u0db8\u0dc4 \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dda \u0d89\u0dc1\u0dcf\u0dbb \u0dbd\u0d9a\u0dca\u0db8\u0dcf\u0dbd\u0dca \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dcf \u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd2 \u0d87\u0dad."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d91\u0d9a",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0d9a\u0dd0\u0db1\u0dca\u0daf\u0d9c\u0ddc\u0dbd\u0dca\u0dbd \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d89\u0dc2\u0dcf\u0dbb \u0dbd\u0d9a\u0dca\u0db8\u0dcf\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd \u0d9a\u0dd0\u0db1\u0dca\u0daf\u0d9c\u0ddc\u0dbd\u0dca\u0dbd \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dcf\u0dc3\u0dbd",
+            "label": "ORG"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0ba8\u0bcd\u0ba4\u0b95\u0bca\u0bb2\u0bcd\u0bb2 \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0bb5\u0bb0\u0bc8 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8 \u0b95\u0ba8\u0bcd\u0ba4\u0b95\u0bca\u0bb2\u0bcd\u0bb2 \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0\u0baa\u0bcd \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0baf\u0bbe\u0ba9 \u0b87\u0bb7\u0bbe\u0bb0 \u0bb2\u0b95\u0bcd\u0bae\u0bbe\u0bb2\u0bcd 2021 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0\u0baa\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b95\u0ba3\u0bcd\u0b9f\u0b95\u0bca\u0bb2\u0bcd\u0bb2 \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb7\u0bbe\u0bb0\u0bbe \u0bb2\u0b95\u0bcd\u0bae\u0bbe\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8 \u0b95\u0ba8\u0bcd\u0ba4\u0b95\u0bca\u0bb2\u0bcd\u0bb2 \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
