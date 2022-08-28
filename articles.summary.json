@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84594/3-hour-power-cuts-for-tomorrow",
+    "time_ut": 1661695560,
+    "original_lang": "en",
+    "original_title": "3-hour power cuts for tomorrow",
+    "file_name": "/tmp/news_lk2/articles/15/154f6ea2.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0b95\u0bbf\u0ba4\u0b9a\u0bcd-\u0b9a\u0bc6\u0bb2\u0bb5\u0bc8-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-303136",
+    "time_ut": 1661695338,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbe\u0b95\u0bbf\u0ba4\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bc8 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/cc/cc3538b6.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-mid-grown-teas-up-13-pct-99120/",
+    "time_ut": 1661695260,
+    "original_lang": "en",
+    "original_title": "Sri Lanka mid-grown teas up 13 pct",
+    "file_name": "/tmp/news_lk2/articles/a0/a0516149.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84593/police-seek-public-help-to-identify-72-more-suspects-who-damaged-presidents-office",
     "time_ut": 1661694840,
     "original_lang": "en",
