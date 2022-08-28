@@ -1,36 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-28 20:52:14 (LK time)*
+*As of 2022-08-28 21:17:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** news-first-lk ([Opposition Leader questions Govt’s coal deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/dedc94b2.json))
 
-## Last Hour (5 Articles)
+## Last 3 Hours (20 Articles)
 
-* **2** tamil-mirror-lk ([அரச நிறுவனங்களுக்குக் காலக்கெடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dbd4717.json))
+* **7** tamil-mirror-lk ([171,497 பேருக்கு பல்கலைக்கழக அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27d62588.json))
 
-* **2** economy-next-com ([Sri Lanka schedules power cuts of 3 hours on August 29](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83fda56f.json))
-
-* **1** news-first-lk ([Opposition Leader questions Govt’s coal deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/dedc94b2.json))
-
-## Last 3 Hours (22 Articles)
-
-* **7** news-first-lk ([Gen. Shavendra Silva bestowed ‘Mahamanya Prathapadhi-keshwara’ title](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6cf31c18.json))
-
-* **7** tamil-mirror-lk ([அரச நிறுவனங்கள் சில மூடப்படும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a516668c.json))
+* **6** news-first-lk ([Chinese Ambassador violated diplomatic etiquette: Indian HC](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59307b4d.json))
 
 * **3** economy-next-com ([Sri Lanka mid-grown teas up 13 pct](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0516149.json))
 
 * **3** ada-derana-lk ([Veteran cinematographer Donald Karunaratne passes away](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dcfc4d7.json))
 
-* **2** ada-lk ([ලංකාවේ ඉන්ධන ව්‍යාපාරයට එන්න සමාගම් 24ක කැමැත්ත](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9fb9e49.json))
+* **1** ada-lk ([දෙකෝටියක රන් හා රිදී ආභරණ අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5aef27e.json))
 
 ## Last 24 Hours (147 Articles)
 
-* **27** tamil-mirror-lk ([பொலிஸ் சட்டப்பிரிவின் பணிப்பாளர் நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce934439.json))
+* **28** tamil-mirror-lk ([பொலிஸ் சட்டப்பிரிவின் பணிப்பாளர் நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce934439.json))
 
 * **23** lankadeepa-lk ([කොවිඩ් මරණ තවත් 6 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5a0f2ea.json))
 
@@ -44,7 +36,7 @@
 
 * **15** economy-next-com ([Sri Lanka construction sector in deep crisis, govt arrears rise up to Rs150 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/048019e7.json))
 
-* **5** island-lk ([Ceylinco Life’s ‘La Serena’ retirement resort goes green with solar energy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c34c366d.json))
+* **4** island-lk ([ComBank revolutionises Lankan banking with ‘wearable banking’ via Flash Digital Account](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23bc86c6.json))
 
 * **2** colombo-telegraph-com ([War On China? – VI: India & The US: Forward Policy & The Brzezinskian Project](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aee73676.json))
 
@@ -54,9 +46,9 @@
 
 * **206** news-first-lk ([Shooting in Sri Lanka’s South: Two dead](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef246944.json))
 
-* **185** tamil-mirror-lk ([60 இலட்சம் பேர் பதிவு செய்துள்ளனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1092d81.json))
+* **186** tamil-mirror-lk ([60 இலட்சம் பேர் பதிவு செய்துள்ளனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1092d81.json))
 
-* **178** daily-mirror-lk ([Seeking blessings...](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1da5f99e.json))
+* **177** daily-mirror-lk ([A litre of Kerosene oil increased by Rs. 253](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d75f0cde.json))
 
 * **170** ada-lk ([භූමිතෙල් ලීටරයක මිල රු. 253කින් ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4fb83d3b.json))
 
@@ -72,7 +64,7 @@
 
 * **8** colombo-telegraph-com ([Sri Lanka: Protesters Must Not Be Detained Under The Draconian Anti-Terror Law: Amnesty International](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f24273.json))
 
-## All Time (3,406 Articles)
+## All Time (3,407 Articles)
 
 * **607** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -82,7 +74,7 @@
 
 * **430** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
-* **376** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
+* **377** tamil-mirror-lk ([இன்று இரவு கொழும்பு வருகின்றது மற்றுமொரு கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfd994c3.json))
 
 * **327** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
