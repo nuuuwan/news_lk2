@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/sun-to-be-directly-overhead-sri-lanka-from-today-28/",
+    "time_ut": 1661674260,
+    "original_lang": "en",
+    "original_title": "Sun to be directly overhead Sri Lanka from today (28)",
+    "file_name": "/tmp/news_lk2/articles/87/8729a133.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84587/pakistan-monsoon-flooding-death-toll-tops-1000",
+    "time_ut": 1661674020,
+    "original_lang": "en",
+    "original_title": "Pakistan monsoon flooding death toll tops 1,000",
+    "file_name": "/tmp/news_lk2/articles/b9/b95e1fac.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/second-norochcholai-generator-to-be-added-to-national-grid/",
+    "time_ut": 1661673720,
+    "original_lang": "en",
+    "original_title": "Second Norochcholai generator to be added to National grid",
+    "file_name": "/tmp/news_lk2/articles/1f/1f4b8f91.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0db1\u0dd2\u0dc0\u0dcf\u0dc3\u0dc0\u0dbd\u0da7-\u0db4\u0dc4\u0dbb-\u0daf\u0dd4\u0db1\u0dca-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0d9a\u0dd4-\u0daf\u0dd0\u0dbd\u0dda/101-618867",
+    "time_ut": 1661673081,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0db1\u0dd2\u0dc0\u0dcf\u0dc3\u0dc0\u0dbd\u0da7 \u0db4\u0dc4\u0dbb \u0daf\u0dd4\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0daf\u0dd0\u0dbd\u0dda",
+    "file_name": "/tmp/news_lk2/articles/46/46452b3f.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-303117",
     "time_ut": 1661673011,
@@ -46,6 +78,14 @@
     "original_lang": "en",
     "original_title": "Three-hour power cut trimmed to one hour today",
     "file_name": "/tmp/news_lk2/articles/94/9410c71b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca-700\u0d9a\u0dca-\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0dad\u0dd9\u0dbd\u0dca-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca\u0dc0\u0dbd\u0da7/11-396666",
+    "time_ut": 1661671456,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca 700\u0d9a\u0dca \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca\u0dc0\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/81/812ab01e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf \u0db4\u0dd2\u0dbb\u0dd2\u0db4\u0dc4\u0daf\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db7\u0dd6\u0db8\u0dd2\u0dad\u0dd9\u0dbd\u0dca \u0dbd\u0dd3\u0da7\u0dbb \u0dbd\u0d9a\u0dca\u200d\u0dc2 10\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/1d/1d6a7feb.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dbd\u0dcf\u0db7-\u0dbd\u0db6\u0db1-\u0d87\u0dad\u0dd0\u0db8\u0dca-\u0dbb\u0da2\u0dba\u0dda-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb-\u0dc0\u0dc3\u0dcf-\u0daf\u0db8\u0db1\u0dca\u0db1-\u0dc0\u0dd9\u0db1\u0dc0\u0dcf/11-396544",
-    "time_ut": 1661234624,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbd\u0dcf\u0db7 \u0dbd\u0db6\u0db1 \u0d87\u0dad\u0dd0\u0db8\u0dca \u0dbb\u0da2\u0dba\u0dda \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb \u0dc0\u0dc3\u0dcf \u0daf\u0db8\u0db1\u0dca\u0db1 \u0dc0\u0dd9\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/9f/9ffa6afc.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda-\u0dad\u0da7\u0dcf\u0d9a\u0dba\u0dda-\u0dc3\u0db6\u0db1\u0dca-\u0d9c\u0dcf-\u0daf\u0dd2\u0dba-\u0db1\u0dd1-02\u0d9a\u0dca-\u0dc4\u0db3\u0dd4\u0db1\u0dcf-\u0d9c\u0dd0\u0db1\u0dda/11-396543",
-    "time_ut": 1661234449,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda \u0dad\u0da7\u0dcf\u0d9a\u0dba\u0dda \u0dc3\u0db6\u0db1\u0dca \u0d9c\u0dcf \u0daf\u0dd2\u0dba \u0db1\u0dd1 02\u0d9a\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dcf \u0d9c\u0dd0\u0db1\u0dda",
-    "file_name": "/tmp/news_lk2/articles/43/433a83a4.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/23/18-trillion-wiped-off-global-markets-in-first-half-of-2022-wfe-data-reveals/",
-    "time_ut": 1661234280,
-    "original_lang": "en",
-    "original_title": "$18 Trillion Wiped Off Global Markets in First Half of 2022, WFE Data Reveals",
-    "file_name": "/tmp/news_lk2/articles/d8/d846a426.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0ba9\u0bcd\u0b95\u0bb3\u0bc8-\u0b89\u0ba3\u0bcd\u0b9f-\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd-\u0b86\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0ba9/76-302857",
-    "time_ut": 1661234142,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0b89\u0ba3\u0bcd\u0b9f \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd  \u0b86\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0ba9",
-    "file_name": "/tmp/news_lk2/articles/76/761ca4bd.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0ddd\u0da8\u0dcf-\u0d9c\u0dd0\u0db1-\u0db8\u0dcf\u0db1\u0dc0-\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dd9\u0db1\u0dca-\u0dbb\u0da2\u0dba\u0da7-\u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1\u0dba\u0d9a\u0dca/101-618595",
-    "time_ut": 1661233992,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf \u0d9c\u0dd0\u0db1 \u0db8\u0dcf\u0db1\u0dc0 \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dd9\u0db1\u0dca \u0dbb\u0da2\u0dba\u0da7 \u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/ab/ab3fcd20.json"
   }
 ]

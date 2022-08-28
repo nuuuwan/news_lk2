@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/sun-to-be-directly-overhead-sri-lanka-from-today-28/",
+    "time_ut": 1661674260,
+    "original_lang": "en",
+    "original_title": "Sun to be directly overhead Sri Lanka from today (28)",
+    "file_name": "/tmp/news_lk2/articles/87/8729a133.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84587/pakistan-monsoon-flooding-death-toll-tops-1000",
+    "time_ut": 1661674020,
+    "original_lang": "en",
+    "original_title": "Pakistan monsoon flooding death toll tops 1,000",
+    "file_name": "/tmp/news_lk2/articles/b9/b95e1fac.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/28/second-norochcholai-generator-to-be-added-to-national-grid/",
+    "time_ut": 1661673720,
+    "original_lang": "en",
+    "original_title": "Second Norochcholai generator to be added to National grid",
+    "file_name": "/tmp/news_lk2/articles/1f/1f4b8f91.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0db1\u0dd2\u0dc0\u0dcf\u0dc3\u0dc0\u0dbd\u0da7-\u0db4\u0dc4\u0dbb-\u0daf\u0dd4\u0db1\u0dca-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0d9a\u0dd4-\u0daf\u0dd0\u0dbd\u0dda/101-618867",
+    "time_ut": 1661673081,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0db1\u0dd2\u0dc0\u0dcf\u0dc3\u0dc0\u0dbd\u0da7 \u0db4\u0dc4\u0dbb \u0daf\u0dd4\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0daf\u0dd0\u0dbd\u0dda",
+    "file_name": "/tmp/news_lk2/articles/46/46452b3f.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-303117",
     "time_ut": 1661673011,
@@ -46,6 +78,14 @@
     "original_lang": "en",
     "original_title": "Three-hour power cut trimmed to one hour today",
     "file_name": "/tmp/news_lk2/articles/94/9410c71b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca-700\u0d9a\u0dca-\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0dad\u0dd9\u0dbd\u0dca-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca\u0dc0\u0dbd\u0da7/11-396666",
+    "time_ut": 1661671456,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca 700\u0d9a\u0dca \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca\u0dc0\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/81/812ab01e.json"
   },
   {
     "newspaper_id": "news-first-lk",
