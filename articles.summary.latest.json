@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0b9f-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1-\u0b9c\u0bc0\u0bb5\u0ba9\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/76-303157",
+    "time_ut": 1661712137,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0b9f \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1: \u0b9c\u0bc0\u0bb5\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/87/87d85a3f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84597/six-indian-fishermen-arrested-by-sri-lanka-navy",
+    "time_ut": 1661711220,
+    "original_lang": "en",
+    "original_title": "Six Indian fishermen arrested by Sri Lanka Navy",
+    "file_name": "/tmp/news_lk2/articles/43/430b4e3f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Chinese-company-refuses-to-budge/155-243885",
+    "time_ut": 1661710600,
+    "original_lang": "en",
+    "original_title": "Chinese company refuses to budge",
+    "file_name": "/tmp/news_lk2/articles/a2/a253e9ed.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dca-\u0db4\u0dbb\u0dca\u0dbd\u0dca-\u0dc0\u0db1\u0dca\u0daf\u0dd2\u0dba-\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-1-3-\u0dba\u0dd2/101-618889",
     "time_ut": 1661705616,
@@ -409,11 +433,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/2021-AL-results-released-today/108-243881",
+    "url": "https://www.dailymirror.lk/latest_news/2021-AL-results-released-today/342-243881",
     "time_ut": 1661684042,
     "original_lang": "en",
     "original_title": "2021 A/L results released today",
-    "file_name": "/tmp/news_lk2/articles/3c/3c7e9d97.json"
+    "file_name": "/tmp/news_lk2/articles/45/45767d93.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dda \u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb \u0d9a\u0da9 \u0db4\u0dcf\u0dc5\u0dd4\u0dc0\u0da7:\u0db8\u0dd2\u0dbd\u0dad\u0dca \u0db4\u0dc4\u0dc5\u0da7",
     "file_name": "/tmp/news_lk2/articles/30/30a58f06.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84487/malaysias-top-court-sends-ex-pm-to-jail-as-najib-loses-final-appeal",
-    "time_ut": 1661252040,
-    "original_lang": "en",
-    "original_title": "Malaysia\u2019s top court sends ex-PM to jail as Najib loses final appeal",
-    "file_name": "/tmp/news_lk2/articles/79/7951250e.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dc3\u0db1\u0dca\u0dad-\u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0d9c\u0dda-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dcf-\u0dad\u0d82\u0d9c\u0dbd\u0dca\u0dbd-\u0dbb\u0dd0\u0db3\u0dc0\u0dd4\u0db8\u0dca-\u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda/11-396561",
-    "time_ut": 1661252014,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dc3\u0db1\u0dca\u0dad \u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0d9c\u0dda \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dcf \u0dad\u0d82\u0d9c\u0dbd\u0dca\u0dbd \u0dbb\u0dd0\u0db3\u0dc0\u0dd4\u0db8\u0dca \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda",
-    "file_name": "/tmp/news_lk2/articles/cf/cf12d100.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-schedules-three-hour-power-cuts-for-aug-24-98912/",
-    "time_ut": 1661251860,
-    "original_lang": "en",
-    "original_title": "Sri Lanka schedules three-hour power cuts for Aug 24",
-    "file_name": "/tmp/news_lk2/articles/6f/6f543aa8.json"
   }
 ]
