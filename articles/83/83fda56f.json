@@ -1,0 +1,435 @@
+{
+  "newspaper_id": "economy-next-com",
+  "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-3-hours-on-august-29-99122/",
+  "time_ut": 1661697120,
+  "original_lang": "en",
+  "original_title": "Sri Lanka schedules power cuts of 3 hours on August 29",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka schedules power cuts of 3 hours on August 29",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 Power cuts of three hours of will be imposed around Sri Lanka on August 29, 2022 Public Utilities Commission (PUCSL) Chairman Janaka Ratnayake said amid fuel shortages.",
+        "The Ceylon Electricity Board said that they were \u201ccompelled to take demand management measures due to inadequate generation as a result of fuel shortage.\u201d",
+        "Accordingly, all areas ABCDEFGHIJKLPQRSTUVW will have 1 hour and 40 minutes of power cuts in the daytime & 1 hour and 20 minutes during the night, Public Utilities Commission Chairman Janaka Ratnayake said.",
+        "Group CC will have a power cut of 2 hours and 30 minutes from 6.00am to 8.30am.",
+        "Groups MNOXYZ will have a 3 hour power cut from 5.30am to 8.30am.",
+        "Download the power cut schedule for August 29, 2022 from here Power-cut-schedule-29-August-2022",
+        "The PUCSL had requested the CEB to curtail power cut durations, which would depend on availability of hydropower and other generation sources, the CEB said.",
+        "The Ceylon Petroleum Corporation previously released a statement saying that there was an adequate supply of all fuels both imported and refined within the country, after fuel queues were reported once again in some areas. (Colombo/Aug28/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        },
+        {
+          "text": "3 hours",
+          "label": "TIME"
+        },
+        {
+          "text": "August 29",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "three hours",
+            "label": "TIME"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "August 29, 2022 Public Utilities Commission",
+            "label": "DATE"
+          },
+          {
+            "text": "PUCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "Janaka Ratnayake",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "The Ceylon Electricity Board",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "ABCDEFGHIJKLPQRSTUVW",
+            "label": "ORG"
+          },
+          {
+            "text": "1 hour and 40 minutes",
+            "label": "TIME"
+          },
+          {
+            "text": "daytime & 1 hour and 20 minutes",
+            "label": "TIME"
+          },
+          {
+            "text": "Public Utilities Commission",
+            "label": "ORG"
+          },
+          {
+            "text": "Janaka Ratnayake",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Group CC",
+            "label": "ORG"
+          },
+          {
+            "text": "2 hours and 30 minutes",
+            "label": "TIME"
+          },
+          {
+            "text": "6.00am",
+            "label": "ORG"
+          },
+          {
+            "text": "8.30am",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Groups MNOXYZ",
+            "label": "PERSON"
+          },
+          {
+            "text": "3 hour",
+            "label": "TIME"
+          },
+          {
+            "text": "5.30am",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "8.30am",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "August 29, 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "CEB",
+            "label": "GPE"
+          },
+          {
+            "text": "CEB",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "The Ceylon Petroleum Corporation",
+            "label": "ORG"
+          },
+          {
+            "text": "Colombo/Aug28/2022",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 29 \u0dc0\u0db1 \u0daf\u0dd2\u0db1 \u0db4\u0dd0\u0dba 3 \u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - 2022 \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 29 \u0dc0\u0dd0\u0db1\u0dd2 \u0daf\u0dd2\u0db1 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0db4\u0dd4\u0dbb\u0dcf \u0db4\u0dd0\u0dba \u0dad\u0dd4\u0db1\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca \u0db4\u0db1\u0dc0\u0db1 \u0db6\u0dc0 \u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0\u0dda (PUCSL) \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da2\u0db1\u0d9a \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dad\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dd2\u0d9f\u0dba\u0d9a\u0dca \u0db8\u0db0\u0dca\u200d\u0dba\u0dba\u0dda \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \"\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dd2\u0d9f\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dc0\u0dad\u0dca \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba\u0d9a\u0dca \u0dc3\u0dd2\u0daf\u0dd4 \u0db1\u0ddc\u0dc0\u0dd3\u0db8 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8 \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0da7 \u0db6\u0dbd\u0d9a\u0dd9\u0dbb\u0dd4\u0dab\u0dd4\" \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 ABCDEFGHIJKLPQRSTUVW \u0dc4\u0dd2 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd \u0daf\u0dd2\u0dc0\u0dcf \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0db4\u0dd0\u0dba 1 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 40 \u0d9a \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca \u0dc3\u0dc4 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0db4\u0dd0\u0dba 1 \u0dba\u0dd2 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 20 \u0d9a \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0dc0\u0dd2\u0dc3\u0db1\u0dca\u0db0\u0dd2 \u0dc0\u0db1 \u0db6\u0dc0 \u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da2\u0db1\u0d9a \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "CC \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba\u0dda \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4 6.00 \u0dc3\u0dd2\u0da7 8.30 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dd0\u0dba 2 \u0dba\u0dd2 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 30 \u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dd9\u0dbb\u0dda.",
+        "MNOXYZ \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dca\u0dc0\u0dbd\u0da7 \u0d8b\u0daf\u0dd1\u0dc3\u0db1 5.30 \u0dc3\u0dd2\u0da7 8.30 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dd0\u0dba 3\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dda.",
+        "2022 \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 29 \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0db1 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4 \u0d9a\u0dcf\u0dbd\u0dc3\u0da7\u0dc4\u0db1 \u0db8\u0dd9\u0dad\u0dd0\u0db1\u0dd2\u0db1\u0dca \u0db6\u0dcf\u0d9c\u0db1\u0dca\u0db1 Power-cut-schedule-29-August-2022",
+        "\u0da2\u0dbd \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0dc3\u0dc4 \u0d85\u0db1\u0dd9\u0d9a\u0dd4\u0dad\u0dca \u0da2\u0db1\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db7\u0dc0\u0dba\u0db1\u0dca \u0db8\u0dad \u0dbb\u0db3\u0dcf \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4 \u0d9a\u0dcf\u0dbd \u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0db1\u0dca \u0dc3\u0dd3\u0db8\u0dcf \u0d9a\u0dbb\u0db1 \u0dbd\u0dd9\u0dc3 \u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0dbd\u0d82\u0d9a\u0dcf \u0d9b\u0db1\u0dd2\u0da2 \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0d9c\u0dad \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0db8\u0dd3\u0da7 \u0db4\u0dd9\u0dbb \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda \u0d87\u0dad\u0dd0\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd \u0db1\u0dd0\u0dc0\u0dad \u0dc0\u0dbb\u0d9a\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0d9f \u0d86\u0db1\u0dba\u0db1\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0dc3\u0dc4 \u0db4\u0dd2\u0dbb\u0dd2\u0db4\u0dc4\u0daf\u0dd4 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dc0\u0dad\u0dca \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8\u0d9a\u0dca \u0dbb\u0da7 \u0dad\u0dd4\u0dc5 \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0db6\u0dc0\u0dba\u0dd2. (\u0d9a\u0ddc\u0dc5\u0db9/\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 28/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0db4\u0dd0\u0dba 3",
+          "label": "TIME"
+        },
+        {
+          "text": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 29",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db4\u0dd0\u0dba \u0dad\u0dd4\u0db1\u0d9a\u0dca",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "2022 \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 29 \u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "PUCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dcf\u0db1\u0d9a \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "ABCDEFGHIJKLPQRSTUVW",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 1 \u0dba\u0dd2 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 40 \u0dba\u0dd2",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0daf\u0dd2\u0dc0\u0dcf \u0d9a\u0dcf\u0dbd\u0dba \u0dc3\u0dc4 \u0db4\u0dd0\u0dba 1 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 20 \u0dba\u0dd2",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dcf\u0db1\u0d9a \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 CC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 2 \u0dba\u0dd2 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 30 \u0dba\u0dd2",
+            "label": "TIME"
+          },
+          {
+            "text": "6.00 \u0db4\u0dd9.\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dd9.\u0dc0.8.30",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dca MNOXYZ",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 3 \u0dba\u0dd2",
+            "label": "TIME"
+          },
+          {
+            "text": "5.30 \u0da7",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dd9.\u0dc0.8.30",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "2022 \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 29",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbd\u0d82\u0dc0\u0dd2\u0db8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0dc0\u0dd2\u0db8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0d9b\u0db1\u0dd2\u0da2 \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0d9c\u0dad \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9/\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 28/2022",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 29 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 3 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 2022 \u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 29 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bae\u0bc1\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd (PUCSL) \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9c\u0ba9\u0b95 \u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbe\u0b95 \u0baa\u0bcb\u0ba4\u0bbf\u0baf \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0bae\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf \u0b95\u0b9f\u0bcd\u0b9f\u0bbe\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bcb\u0bae\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8 \u0b95\u0bc2\u0bb1\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\u0b87\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd ABCDEFGHIJKLPQRSTUVW \u0baa\u0b95\u0bb2\u0bbf\u0bb2\u0bcd 1 \u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0bae\u0bcd 40 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd 1 \u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0bae\u0bcd 20 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd \u0ba4\u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9c\u0ba9\u0b95 \u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b95\u0bc1\u0bb0\u0bc2\u0baa\u0bcd \u0b9a\u0bbf\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bc8 6.00 \u0bae\u0ba3\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 8.30 \u0bae\u0ba3\u0bbf \u0bb5\u0bb0\u0bc8 2 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd 30 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd.",
+        "MNOXYZ \u0b95\u0bc1\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0bb2\u0bc8 5.30 \u0bae\u0ba3\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 8.30 \u0bae\u0ba3\u0bbf \u0bb5\u0bb0\u0bc8 3 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd.",
+        "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 29, 2022\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8\u0baf\u0bc8 \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0ba4\u0bbf\u0bb5\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bc1\u0bae\u0bcd Power-cut-schedule-29-August-2022",
+        "PUCSL \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 CEB\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0ba8\u0bc0\u0bb0\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb1 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b86\u0ba4\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bc8\u0baa\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 CEB \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b9a\u0bbf\u0bb2 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bbf\u0baf\u0ba4\u0bc8\u0baf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bbe\u0ba9 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b92\u0ba9\u0bcd\u0bb1\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. (\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd28/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        },
+        {
+          "text": "3 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+          "label": "TIME"
+        },
+        {
+          "text": "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 29",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 29, 2022 \u0baa\u0bca\u0ba4\u0bc1 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "PUCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0ba9\u0b95 \u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "ABCDEFGHIJKLPQRSTUVW",
+            "label": "ORG"
+          },
+          {
+            "text": "1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd 40 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0baa\u0b95\u0bb2\u0bcd\u0ba8\u0bc7\u0bb0\u0bae\u0bcd & 1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd 20 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0baa\u0bca\u0ba4\u0bc1 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0ba9\u0b95 \u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1 CC",
+            "label": "ORG"
+          },
+          {
+            "text": "2 \u0bae\u0ba3\u0bbf 30 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8 6.00 \u0bae\u0ba3\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8 8.30 \u0bae\u0ba3\u0bbf",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd MNOXYZ",
+            "label": "PERSON"
+          },
+          {
+            "text": "3 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8 5.30 \u0bae\u0ba3\u0bbf",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8 8.30 \u0bae\u0ba3\u0bbf",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 29, 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "CEB",
+            "label": "GPE"
+          },
+          {
+            "text": "CEB",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd28/2022",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
