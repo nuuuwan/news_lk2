@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-28 06:27:04 (LK time)*
+*As of 2022-08-28 07:00:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (136 Articles)
+## Last 24 Hours (133 Articles)
 
 * **32** news-first-lk ([Norochcholai Back in Operation](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83c78f72.json))
-
-* **24** lankadeepa-lk ([හොර හරක් වෑන් රිය අධිබලැති විදුලි කණුවේ ගැටේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56663b23.json))
 
 * **22** daily-mirror-lk ([China says Ball is in Sri Lanka’s court](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1a1abcb.json))
 
 * **21** tamil-mirror-lk ([நில்வள கங்கையில் நால்வர் மாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1958826.json))
+
+* **21** lankadeepa-lk ([පා.මන්ත්‍රී දොලවත්තගේ නිවෙස පහරදුන් හයක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79bc4099.json))
 
 * **15** ada-derana-lk ([Fairly heavy rains above 75mm expected in some areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0f45c5d.json))
 
