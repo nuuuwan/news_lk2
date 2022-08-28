@@ -1192,6 +1192,14 @@
     "file_name": "/tmp/news_lk2/articles/f8/f8873141.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79207",
+    "time_ut": 1661626620,
+    "original_lang": "en",
+    "original_title": "Sri Lanka is in an economic crisis, there\u2019s no reason to deny it. And yet, Sri Lanka stands firm, unbowed and continues to smile despite trade imbalance, shortage of fuel, gas and fertiliser, and other hardships.",
+    "file_name": "/tmp/news_lk2/articles/96/96a9319d.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0b9a\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0ba9\u0bcd-\u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-303091",
     "time_ut": 1661625927,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Stop using PTA, and immediately rescind Detention Orders \u2013 BASL tells President",
     "file_name": "/tmp/news_lk2/articles/76/7600bd4d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/23/poultry-farmer-associations-allege-egg-mafia/",
-    "time_ut": 1661252640,
-    "original_lang": "en",
-    "original_title": "Poultry Farmer associations allege egg mafia",
-    "file_name": "/tmp/news_lk2/articles/fa/fa1d8483.json"
   }
 ]
