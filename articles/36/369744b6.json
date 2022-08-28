@@ -1,0 +1,264 @@
+{
+  "newspaper_id": "ada-lk",
+  "url": "https://www.ada.lk/breaking_news/\u0d8b\u0db4\u0dd9\u0dc5-\u0db4\u0dca\u200d\u0dbb\u0dae\u0dd2\u0db5\u0dbd-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0dc0\u0dd9\u0dba\u0dd2---171497--\u0dc3\u0dbb\u0dc3\u0dc0\u0dd2-\u0dc0\u0dbb\u0db8\u0dca/11-396673",
+  "time_ut": 1661688090,
+  "original_lang": "si",
+  "original_title": "\u0d8b\u0db4\u0dd9\u0dc5 \u0db4\u0dca\u200d\u0dbb\u0dae\u0dd2\u0db5\u0dbd \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2 - 171497  \u0dc3\u0dbb\u0dc3\u0dc0\u0dd2 \u0dc0\u0dbb\u0db8\u0dca",
+  "text_idx": {
+    "en": {
+      "title": "Result Released - 171497 Varam",
+      "author": "unknown",
+      "body_lines": [
+        "The results of the General Certificate of Education A Level 2021 examination have been released. The exam results can be obtained through the website www.doenets.lk and www.results.exams.gov.lk of the examination department.",
+        "A total of 272682 applicants appeared in this year's A-level examination, 236035 school applicants and 36647 private applicants.",
+        "According to the examination department, 171497 students have qualified for university admission based on the results of the examination.",
+        "The department also says that this group is 62.9 percent of the total number of students who applied for the A-level examination.",
+        "The results of 49 applicants including 37 school applicants and 12 private applicants have been withheld."
+      ],
+      "title_ents": [
+        {
+          "text": "171497",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "the General Certificate of Education A Level",
+            "label": "ORG"
+          },
+          {
+            "text": "2021",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "www.doenets.lk",
+            "label": "PERSON"
+          },
+          {
+            "text": "www.results.exams.gov.lk",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "272682",
+            "label": "DATE"
+          },
+          {
+            "text": "year",
+            "label": "DATE"
+          },
+          {
+            "text": "236035",
+            "label": "DATE"
+          },
+          {
+            "text": "36647",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "the examination department",
+            "label": "ORG"
+          },
+          {
+            "text": "171497",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "62.9 percent",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "49",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "37",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d8b\u0db4\u0dd9\u0dc5 \u0db4\u0dca\u200d\u0dbb\u0dae\u0dd2\u0db5\u0dbd \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2 - 171497  \u0dc3\u0dbb\u0dc3\u0dc0\u0dd2 \u0dc0\u0dbb\u0db8\u0dca",
+      "author": "unknown",
+      "body_lines": [
+        "\u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1 \u0db4\u0ddc\u0daf\u0dd4 \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0db4\u0dad\u0dca\u200d\u0dbb \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 2021 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dae\u0dd2\u0db5\u0dbd \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dda. \u0d91\u0db8 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0dc0\u0dd2\u0db7\u0dcf\u0d9c \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda www.doenets.lk \u0dc3\u0dc4\u00a0 www.results.exams.gov.lk \u0dba\u0db1 \u0dc0\u0dd9\u0db6\u0dca \u0d85\u0da9\u0dc0\u0dd2 \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0dbd\u0db6\u0dcf\u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0 \u0db4\u0dc0\u0dad\u0dd3.",
+        "\u0db8\u0dd9\u0dc0\u0dbb \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7 \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca 236035 \u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0dc3\u0dc4 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca 36647 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd4\u0dc5\u0dd4 \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca 272682 \u0db4\u0dd9\u0db1\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda\u0dba.",
+        "\u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0db8\u0dad \u0dc0\u0dd2\u0dc1\u0dca\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca 171497 \u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dbd\u0db6\u0dcf \u0d87\u0dad\u0dd0\u0dba\u0dd2 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0d9a\u0dd2\u0dba\u0dba\u0dd2.",
+        "\u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7 \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0d9a\u0dc5 \u0db8\u0dd4\u0dc5\u0dd4 \u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dd9\u0dc0\u0db1\u0dca \u0d91\u0db8 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 62.9\u0d9a \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0dd0\u0dba\u0dd2 \u0daf \u0d91\u0db8 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0d9a\u0dd2\u0dba\u0dba\u0dd2.",
+        "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca 37 \u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0dc3\u0dc4 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca 12 \u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca 49 \u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dcf \u0d87\u0dad."
+      ],
+      "title_ents": [
+        {
+          "text": "171497",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d8b\u0dc3\u0dc3\u0dca \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1 \u0db4\u0ddc\u0daf\u0dd4 \u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2021",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "www.doenets.lk",
+            "label": "PERSON"
+          },
+          {
+            "text": "www.results.exams.gov.lk",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "272682",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc0\u0dbb\u0dca\u0dc2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "236035",
+            "label": "DATE"
+          },
+          {
+            "text": "36647",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0db7\u0dcf\u0d9c \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "171497",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 62.9 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "49",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "37",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1 - 171497 \u0bb5\u0bb0\u0bae\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0baa\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bcd A Level 2021 \u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc1 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9. \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bc8 \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd www.doenets.lk \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd www.results.exams.gov.lk \u0b8e\u0ba9\u0bcd\u0bb1 \u0b87\u0ba3\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b8a\u0b9f\u0bbe\u0b95 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0\u0baa\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4\u0bae\u0bcd 272682 \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd, 236035 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd 36647 \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0ba4\u0bcb\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 171497 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0b95\u0bc1\u0ba4\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0\u0baa\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4 \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1 62.9 \u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0b95\u0bc2\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "37 \u0baa\u0bb3\u0bcd\u0bb3\u0bbf \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 12 \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f 49 \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9."
+      ],
+      "title_ents": [
+        {
+          "text": "171497",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0baa\u0bca\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bcd A \u0ba8\u0bbf\u0bb2\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "2021",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "www.doenets.lk",
+            "label": "PERSON"
+          },
+          {
+            "text": "www.results.exams.gov.lk",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "272682",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "236035",
+            "label": "DATE"
+          },
+          {
+            "text": "36647",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc1 \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "171497",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "62.9 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "49",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "37",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}
