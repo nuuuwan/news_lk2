@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-28 23:24:46 (LK time)*
+*As of 2022-08-28 23:33:32 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -32,7 +32,7 @@
 
 * **2** colombo-telegraph-com ([War On China? – VI: India & The US: Forward Policy & The Brzezinskian Project](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aee73676.json))
 
-## Last Week (1,403 Articles)
+## Last Week (1,400 Articles)
 
 * **271** lankadeepa-lk ([ගෝඨාභය යුද අධිකරණය යවන්නැයි සංදේශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f1bcfa.json))
 
@@ -40,7 +40,7 @@
 
 * **185** tamil-mirror-lk ([யாழ் - கொழும்பு ரயில் சேவைகளை அதிகரிக்க நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b44095b.json))
 
-* **173** daily-mirror-lk ([Marking 75 years of Indian Independence: DEMOCRACY THAT IS INDIA: INTRIGUING, EVOLVING AND INSPIRING](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21992fff.json))
+* **171** daily-mirror-lk ([UK-based Kavida to invest US$ 500, 000 to support  Sri Lanka’s apparel resilience](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc466a38.json))
 
 * **169** ada-lk ([දෙල්දුව වෙඩි තැබීමෙන් දෙදෙනෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c70ce0dd.json))
 
@@ -50,7 +50,7 @@
 
 * **60** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cd49cf2.json))
 
-* **56** island-lk ([How Sri Lanka’s wealth is getting siphoned out through garbage imports](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19398f1b.json))
+* **55** island-lk ([$18 trillion wiped off global markets in first half of 2022, WFE data reveals](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35d1ee8d.json))
 
 * **19** d-b-s-jeyaraj-com ([Arrest and Detention of Three  University Student Union Activists under the Draconian Prevention of Terrorism Act(PTA) Results in Widespread Critism of  Wickremesinghe Govt](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ed81334.json))
 
