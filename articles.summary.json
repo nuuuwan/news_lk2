@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0bb2\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd-\u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc2\u0bb5\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0b95\u0bc1\u0bb4\u0bc1/175-303146",
+    "time_ut": 1661698017,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0bb2\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc2\u0bb5\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b95\u0bc1\u0bb4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/fe/fe1b18c5.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-mid-grown-ceylon-tea-prices-up-13-pct-99120/",
+    "time_ut": 1661697300,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s mid-grown Ceylon tea prices up 13-pct",
+    "file_name": "/tmp/news_lk2/articles/68/68befd77.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-3-hours-on-august-29-99122/",
     "time_ut": 1661697120,
