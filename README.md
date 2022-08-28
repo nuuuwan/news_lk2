@@ -1,16 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 04:53:02 (LK time)*
+*As of 2022-08-29 05:17:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** daily-ft-lk ([Wisdom of ‘Nishkam Karma’: Much in demand for an authentic revival](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44cc6611.json))
-
-## Last Hour (2 Articles)
-
-* **2** daily-ft-lk ([Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc758d4.json))
 
 ## Last 3 Hours (2 Articles)
 
