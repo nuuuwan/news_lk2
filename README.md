@@ -1,16 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 02:52:33 (LK time)*
+*As of 2022-08-29 03:16:12 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (4 Articles)
+## Last 3 Hours (2 Articles)
 
 * **2** daily-mirror-lk ([Fascists, neo fascists, and SL’s future](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8bec6554.json))
-
-* **1** tamil-mirror-lk ([தேர்தலில் போட்டியிட இளைஞர்களுக்கு வாய்ப்பு: ஜீவன் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87d85a3f.json))
-
-* **1** ada-derana-lk ([Six Indian fishermen arrested by Sri Lanka Navy](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/430b4e3f.json))
 
 ## Last 24 Hours (145 Articles)
 
