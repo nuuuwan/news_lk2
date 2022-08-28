@@ -1,28 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-28 22:53:58 (LK time)*
+*As of 2022-08-28 23:24:46 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (6 Articles)
-
-* **5** lankadeepa-lk ([කලා අංශයෙන් එක කැන්දගොල්ල විදුහලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be672227.json))
-
-* **1** ada-derana-lk ([Covid-19: Sri Lanka confirms two more deaths, 56 new cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df4a1ada.json))
-
-## Last 3 Hours (17 Articles)
+## Last 3 Hours (11 Articles)
 
 * **7** lankadeepa-lk ([වානිජ අංශයේ කප් එක රත්නාවලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d2adb78.json))
 
-* **5** tamil-mirror-lk ([அரச நிறுவனங்களுக்குக் காலக்கெடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dbd4717.json))
-
 * **2** ada-derana-lk ([Best results of 2021 GCE A/L exam](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f528411.json))
 
-* **2** economy-next-com ([Sri Lanka schedules power cuts of 3 hours on August 29](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83fda56f.json))
+* **1** tamil-mirror-lk ([ஊழலில் இலங்கைக்கு கிடைத்துள்ள இடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48f0488a.json))
 
 * **1** news-first-lk ([Opposition Leader questions Govt’s coal deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/dedc94b2.json))
 
-## Last 24 Hours (147 Articles)
+## Last 24 Hours (145 Articles)
 
 * **30** tamil-mirror-lk ([பொலிஸ் சட்டப்பிரிவின் பணிப்பாளர் நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce934439.json))
 
@@ -36,11 +28,11 @@
 
 * **15** economy-next-com ([Sri Lanka construction sector in deep crisis, govt arrears rise up to Rs150 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/048019e7.json))
 
-* **15** daily-mirror-lk ([Afghanistan outclass Sri Lanka in Asia Cup](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68aab6f1.json))
+* **13** daily-mirror-lk ([Sri Lanka’s economic crisis: Staple foods unaffordable, severe malnutrition in region, says UNICEF](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/948db1f8.json))
 
 * **2** colombo-telegraph-com ([War On China? – VI: India & The US: Forward Policy & The Brzezinskian Project](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aee73676.json))
 
-## Last Week (1,407 Articles)
+## Last Week (1,403 Articles)
 
 * **271** lankadeepa-lk ([ගෝඨාභය යුද අධිකරණය යවන්නැයි සංදේශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f1bcfa.json))
 
@@ -50,7 +42,7 @@
 
 * **173** daily-mirror-lk ([Marking 75 years of Indian Independence: DEMOCRACY THAT IS INDIA: INTRIGUING, EVOLVING AND INSPIRING](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21992fff.json))
 
-* **170** ada-lk ([භූමිතෙල් ලීටරයක මිල රු. 253කින් ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4fb83d3b.json))
+* **169** ada-lk ([දෙල්දුව වෙඩි තැබීමෙන් දෙදෙනෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c70ce0dd.json))
 
 * **151** ada-derana-lk ([Sri Lanka envoy expresses gratitude to US congresspeople for showing interest in the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eec8e000.json))
 
@@ -58,7 +50,7 @@
 
 * **60** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cd49cf2.json))
 
-* **59** island-lk ([LPG does not fall under category of essential imports](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/887ae772.json))
+* **56** island-lk ([How Sri Lanka’s wealth is getting siphoned out through garbage imports](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19398f1b.json))
 
 * **19** d-b-s-jeyaraj-com ([Arrest and Detention of Three  University Student Union Activists under the Draconian Prevention of Terrorism Act(PTA) Results in Widespread Critism of  Wickremesinghe Govt](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ed81334.json))
 
