@@ -1,22 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-30 03:57:29 (LK time)*
+*As of 2022-08-30 04:19:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last Hour (6 Articles)
 
-* **5** daily-ft-lk ([Deutsche Bank donates Rs. 16.5 m to provide relief to Sri Lankan citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d1d93b8.json))
-
-## Last Hour (9 Articles)
-
-* **9** daily-ft-lk ([Maithri vows to form Govt. with leftist Opposition parties](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4833ef4.json))
+* **6** daily-ft-lk ([Softlogic launches Walton brand in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cb3f062.json))
 
 ## Last 3 Hours (9 Articles)
 
 * **9** daily-ft-lk ([Maithri vows to form Govt. with leftist Opposition parties](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4833ef4.json))
 
-## Last 24 Hours (210 Articles)
+## Last 24 Hours (209 Articles)
 
 * **44** lankadeepa-lk ([ඇමෙරිකන් යුද නැව් දෙකක් චීනය අවුස්සයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d141287.json))
 
@@ -30,13 +26,13 @@
 
 * **23** daily-mirror-lk ([No pity for Sri Lanka by donor nations: SLFP](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c062c3f1.json))
 
-* **17** daily-ft-lk ([Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc758d4.json))
+* **16** daily-ft-lk ([Wisdom of ‘Nishkam Karma’: Much in demand for an authentic revival](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44cc6611.json))
 
 * **12** economy-next-com ([Sri Lanka tax revenues grow 29-pct up to May amid inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bddaddb2.json))
 
 * **2** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
-## Last Week (1,371 Articles)
+## Last Week (1,370 Articles)
 
 * **260** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43863138.json))
 
@@ -50,7 +46,7 @@
 
 * **148** ada-derana-lk ([British HC expresses concern over use of PTA in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef6e3efb.json))
 
-* **106** economy-next-com ([Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e7d91a9.json))
+* **105** economy-next-com ([Sri Lanka given US$4.0bn dollars of support from India: envoy](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f33bf32d.json))
 
 * **58** daily-ft-lk ([First tribal woman president symbolises India’s pluralist legacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a998f7.json))
 
