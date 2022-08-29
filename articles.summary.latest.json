@@ -1,5 +1,109 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84600/parliament-sittings-commences",
+    "time_ut": 1661748120,
+    "original_lang": "en",
+    "original_title": "Parliament sittings commences",
+    "file_name": "/tmp/news_lk2/articles/c9/c90d8446.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba-\u0dbb\u0d82\u0da2\u0db1\u0dca\u0da7-\u0dc3\u0db8\u0dcf\u0dc0\u0daf\u0dd3\u0db8\u0dda-\u0dbd\u0dd2\u0db4\u0dd2\u0dba-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-618912",
+    "time_ut": 1661748048,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba \u0dbb\u0d82\u0da2\u0db1\u0dca\u0da7 \u0dc3\u0db8\u0dcf\u0dc0\u0daf\u0dd3\u0db8\u0dda \u0dbd\u0dd2\u0db4\u0dd2\u0dba \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/19/19531421.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-main-opposition-demands-to-know-if-cope-copa-chairs-will-be-theirs-99134/",
+    "time_ut": 1661747580,
+    "original_lang": "en",
+    "original_title": "Sri Lanka main opposition demands to know if COPE, COPA chairs will be theirs",
+    "file_name": "/tmp/news_lk2/articles/d7/d78f8f1d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/wheat-flour-sold-at-high-price-in-local-market/",
+    "time_ut": 1661747580,
+    "original_lang": "en",
+    "original_title": "Wheat Flour sold at high price in local market",
+    "file_name": "/tmp/news_lk2/articles/1e/1ee7eab5.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd-\u0d87\u0db8\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0da7-\u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0d9a\u0dca/101-618911",
+    "time_ut": 1661747449,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0d87\u0db8\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0da7 \u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/66/664cfb95.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0daf-\u0db4\u0dd0\u0dba-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0d9a\u0db4\u0dba\u0dd2/101-618910",
+    "time_ut": 1661747266,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0daf \u0db4\u0dd0\u0dba \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d9a\u0db4\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/56/567c9fbe.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0baa\u0bc2\u0ba9\u0bc8-\u0bae\u0bb2\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd-\u0b89\u0ba3\u0bb5\u0bc1/175-303170",
+    "time_ut": 1661747251,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bc2\u0ba9\u0bc8 \u0bae\u0bb2\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b89\u0ba3\u0bb5\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/93/933dfa47.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddd\u0db4\u0dca---\u0d9a\u0ddd\u0db4\u0dcf-\u0db4\u0dc3\u0dca\u0dc3-\u0d9c\u0dc4\u0db1-\u0dc4\u0dda\u0dad\u0dd4\u0dc0-\u0db1\u0dbd\u0dd2\u0db1\u0dca-\u0d9a\u0dad\u0dcf-\u0d9a\u0dbb\u0dba\u0dd2/101-618909",
+    "time_ut": 1661746996,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddd\u0db4\u0dca - \u0d9a\u0ddd\u0db4\u0dcf \u0db4\u0dc3\u0dca\u0dc3 \u0d9c\u0dc4\u0db1 \u0dc4\u0dda\u0dad\u0dd4\u0dc0 \u0db1\u0dbd\u0dd2\u0db1\u0dca \u0d9a\u0dad\u0dcf \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/aa/aa132111.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bbf\u0baf-\u0b9a\u0baa\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1/175-303167",
+    "time_ut": 1661746519,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bbf\u0bb1\u0bbf\u0baf \u0b9a\u0baa\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/8a/8a1802ea.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/sri-lankan-trained-nurses-ready-to-begin-careers-in-uk/",
+    "time_ut": 1661746440,
+    "original_lang": "en",
+    "original_title": "Sri Lankan trained nurses ready to begin careers in UK",
+    "file_name": "/tmp/news_lk2/articles/ba/ba911397.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84599/saudi-crown-prince-receives-written-message-from-sri-lanka-president",
+    "time_ut": 1661746080,
+    "original_lang": "en",
+    "original_title": "Saudi Crown Prince receives written message from Sri Lanka President",
+    "file_name": "/tmp/news_lk2/articles/e1/e1d4b92f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dba\u0dda-\u0daf\u0dd3-\u0dad\u0dd1\u0d9c\u0dca\u0d9c\u0d9a\u0dca-\u0daf\u0dd4\u0db1\u0dca-\u0db8\u0ddd\u0dc4\u0dd2\u0dab\u0dd3-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-618908",
+    "time_ut": 1661746044,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba\u0dda \u0daf\u0dd3 \u0dad\u0dd1\u0d9c\u0dca\u0d9c\u0d9a\u0dca \u0daf\u0dd4\u0db1\u0dca \u0db8\u0ddd\u0dc4\u0dd2\u0dab\u0dd3 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/83/83a1319b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-396690",
+    "time_ut": 1661745888,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/9b/9b6883da.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/29/principals-allowed-to-download-a-l-results/",
     "time_ut": 1661745300,
@@ -49,19 +153,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda-\u0db4\u0dd4\u0d82\u0da0\u0dd2-\u0dc3\u0db7\u0dcf\u0dc0\u0dbd-\u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0ddd-\u0d85\u0daf-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/1-618901",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda-\u0db4\u0dd4\u0d82\u0da0\u0dd2-\u0dc3\u0db7\u0dcf\u0dc0\u0dbd-\u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0ddd-\u0d85\u0daf-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/101-618901",
     "time_ut": 1661743419,
     "original_lang": "si",
     "original_title": "\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda \u0db4\u0dd4\u0d82\u0da0\u0dd2 \u0dc3\u0db7\u0dcf\u0dc0\u0dbd \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0ddd \u0d85\u0daf \u0d9a\u0ddc\u0dc5\u0db9\u0da7",
-    "file_name": "/tmp/news_lk2/articles/b3/b337a70e.json"
+    "file_name": "/tmp/news_lk2/articles/97/97e32c2b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/SL-envoy-woos-Chinese-investment-in-solar-wind-energy/342-243918",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-envoy-woos-Chinese-investment-in-solar-wind-energy/108-243918",
     "time_ut": 1661743412,
     "original_lang": "en",
     "original_title": "SL envoy woos Chinese investment in solar, wind energy",
-    "file_name": "/tmp/news_lk2/articles/af/afae8dbe.json"
+    "file_name": "/tmp/news_lk2/articles/55/55200897.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -81,11 +185,27 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-employees-leave-form-for-foreign-employment-reduced-to-2-pages/108-243913",
+    "time_ut": 1661743034,
+    "original_lang": "en",
+    "original_title": "Govt. employees leave form for foreign employment reduced to 2 pages",
+    "file_name": "/tmp/news_lk2/articles/cb/cb6e9c43.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/No-pity-for-Sri-Lanka-by-donor-nations-SLFP/108-243905",
     "time_ut": 1661741999,
     "original_lang": "en",
     "original_title": "No pity for Sri Lanka by donor nations: SLFP",
     "file_name": "/tmp/news_lk2/articles/c0/c062c3f1.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dda-\u0daf\u0dd9\u0dba\u0dd2\u0dba\u0db1\u0dda-\u0db8\u0da7\u0db1\u0db8\u0dca-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9a\u0db8-\u0d95\u0db1-\u0db1\u0dd1/11-396684",
+    "time_ut": 1661741981,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dda \u0daf\u0dd9\u0dba\u0dd2\u0dba\u0db1\u0dda \u0db8\u0da7\u0db1\u0db8\u0dca \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9a\u0db8 \u0d95\u0db1 \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/42/42be924e.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -265,11 +385,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0db1\u0dca-\u0dba\u0dd4\u0daf-\u0db1\u0dd0\u0dc0\u0dca-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0da0\u0dd3\u0db1\u0dba-\u0d85\u0dc0\u0dd4\u0dc3\u0dca\u0dc3\u0dba\u0dd2/1-618890",
+    "url": "https://www.lankadeepa.lk/world_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0db1\u0dca-\u0dba\u0dd4\u0daf-\u0db1\u0dd0\u0dc0\u0dca-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0da0\u0dd3\u0db1\u0dba-\u0d85\u0dc0\u0dd4\u0dc3\u0dca\u0dc3\u0dba\u0dd2/14-618890",
     "time_ut": 1661728668,
     "original_lang": "si",
     "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0db1\u0dca \u0dba\u0dd4\u0daf \u0db1\u0dd0\u0dc0\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0da0\u0dd3\u0db1\u0dba \u0d85\u0dc0\u0dd4\u0dc3\u0dca\u0dc3\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/39/39a4f205.json"
+    "file_name": "/tmp/news_lk2/articles/7d/7d141287.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -305,27 +425,27 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/State-revenue-reaches-pre-pandemic-levels-in-first-five-months/273-243897",
+    "url": "https://www.dailymirror.lk/breaking_news/State-revenue-reaches-pre-pandemic-levels-in-first-five-months/108-243897",
     "time_ut": 1661721735,
     "original_lang": "en",
     "original_title": "State revenue reaches pre-pandemic levels in first five months",
-    "file_name": "/tmp/news_lk2/articles/5d/5d6377bf.json"
+    "file_name": "/tmp/news_lk2/articles/68/68a501a9.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Will-Asia-go-the-way-of-Ukraine-in-Europe-EDITORIAL/231-243888",
+    "url": "https://www.dailymirror.lk/opinion/Will-Asia-go-the-way-of-Ukraine-in-Europe-EDITORIAL/172-243888",
     "time_ut": 1661717202,
     "original_lang": "en",
     "original_title": "Will Asia go the way of Ukraine in Europe? - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/59/5956a634.json"
+    "file_name": "/tmp/news_lk2/articles/47/478c8bbf.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Fascists-neo-fascists-and-SLs-future/231-243887",
+    "url": "https://www.dailymirror.lk/opinion/Fascists-neo-fascists-and-SLs-future/172-243887",
     "time_ut": 1661717116,
     "original_lang": "en",
     "original_title": "Fascists, neo fascists, and SL\u2019s future",
-    "file_name": "/tmp/news_lk2/articles/8b/8bec6554.json"
+    "file_name": "/tmp/news_lk2/articles/f1/f196abda.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7878,125 +7998,5 @@
     "original_lang": "en",
     "original_title": "PTA no solution",
     "file_name": "/tmp/news_lk2/articles/ad/ad233a3d.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/sri-lanka-insurance-makes-record-profit-of-rs-7-7-billion-before-taxation-for-2022-first-half/",
-    "time_ut": 1661274480,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Insurance makes record profit of Rs. 7.7 billion before taxation for 2022 first half",
-    "file_name": "/tmp/news_lk2/articles/a5/a5ab14f8.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/browns-fabric-supports-usd-earning-apparel-industry-signs-boi-agreement/",
-    "time_ut": 1661274480,
-    "original_lang": "en",
-    "original_title": "Browns Fabric supports USD earning apparel industry \u2013 signs BOI agreement",
-    "file_name": "/tmp/news_lk2/articles/bb/bbc18882.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-halts-imports-of-over-300-items-98937/",
-    "time_ut": 1661274420,
-    "original_lang": "en",
-    "original_title": "Sri Lanka halts imports of over 300 items",
-    "file_name": "/tmp/news_lk2/articles/a9/a96f0522.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd-\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-\u0bae\u0bc2\u0bb5\u0bb0\u0bcd-\u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-302906",
-    "time_ut": 1661274402,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/86/86d7dd52.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/profit-takings-in-lanka-ioc-expolanka-holdings-and-lankem-development-turnover-rs-4-9-billion/",
-    "time_ut": 1661274360,
-    "original_lang": "en",
-    "original_title": "Profit-takings in Lanka IOC, Expolanka Holdings and Lankem Development; turnover Rs. 4.9 billion",
-    "file_name": "/tmp/news_lk2/articles/e4/e4b6b03a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0db4\u0db1\u0dad-\u0d9c\u0dd0\u0db1-\u0db1\u0dd3\u0dad\u0dd2\u0da5-\u0dc3\u0d82\u0d9c\u0db8\u0dba-\u0d9a\u0dc5-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8/1-618645",
-    "time_ut": 1661272247,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0db4\u0db1\u0dad \u0d9c\u0dd0\u0db1 \u0db1\u0dd3\u0dad\u0dd2\u0da5 \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0d9a\u0dc5 \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8",
-    "file_name": "/tmp/news_lk2/articles/f7/f7b31073.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0dda-\u0dc5\u0db8\u0dcf-\u0db1\u0dd2\u0dc0\u0dcf\u0dc3\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0d9a\u0dd4-\u0db4\u0dd0\u0db1-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca/1-618644",
-    "time_ut": 1661271907,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0dda \u0dc5\u0db8\u0dcf \u0db1\u0dd2\u0dc0\u0dcf\u0dc3\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0db4\u0dd0\u0db1 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/0d/0de47c2e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84494/sri-lanka-suspends-import-of-over-300-items",
-    "time_ut": 1661271480,
-    "original_lang": "en",
-    "original_title": "Sri Lanka suspends import of over 300 items",
-    "file_name": "/tmp/news_lk2/articles/2e/2e6ba21d.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bb1\u0bcd\u0bb1\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b87\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-302905",
-    "time_ut": 1661271268,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0b9f\u0bb1\u0bcd\u0bb1\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd; \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b87\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/e7/e71566e6.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0b9f\u0bc8-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf/175-302904",
-    "time_ut": 1661270542,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0b9f\u0bc8: \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/70/701b0c64.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0ba8\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0b9f\u0bc1\u0bb5\u0bcb\u0bae\u0bcd/175-302903",
-    "time_ut": 1661270156,
-    "original_lang": "ta",
-    "original_title": "\u0b90.\u0ba8\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0b9f\u0bc1\u0bb5\u0bcb\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/33/33709f95.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-may-have-to-shut-loss-making-soe-give-vrss-minister-98935/",
-    "time_ut": 1661270100,
-    "original_lang": "en",
-    "original_title": "Sri Lanka may have to shut loss making SOE, give VRSs: Minister",
-    "file_name": "/tmp/news_lk2/articles/ab/ab17deb5.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd\u0bae\u0bbe-\u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/175-302902",
-    "time_ut": 1661268344,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd\u0bae\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/24/24324eec.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/23/temporary-suspension-on-series-of-nonessentials/",
-    "time_ut": 1661268120,
-    "original_lang": "en",
-    "original_title": "Temporary Suspension on series of nonessentials",
-    "file_name": "/tmp/news_lk2/articles/b8/b8c9b21c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba-\u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda-\u0db4\u0db1\u0dad\u0da7-\u0db8\u0dd4\u0dc0\u0dcf\u0dc0\u0dd3-\u0d9c\u0dd9\u0db1\u0dba\u0db1-\u0db8\u0dbb\u0dca\u0daf\u0db1\u0dba\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0da2\u0dd2\u0db1\u0dd3\u0dc0\u0dcf-\u0dba\u0db1\u0dc0\u0dcf/1-618643",
-    "time_ut": 1661266588,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad\u0da7 \u0db8\u0dd4\u0dc0\u0dcf\u0dc0\u0dd3 \u0d9c\u0dd9\u0db1\u0dba\u0db1 \u0db8\u0dbb\u0dca\u0daf\u0db1\u0dba\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0da2\u0dd2\u0db1\u0dd3\u0dc0\u0dcf \u0dba\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/3b/3b6aa097.json"
   }
 ]
