@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9e\u0bcd\u0b9a\u0ba9\u0bb5\u0bbf\u0ba9\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8-\u0b8f\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd-\u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95/175-303221",
+    "time_ut": 1661794480,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0b9e\u0bcd\u0b9a\u0ba9\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95",
+    "file_name": "/tmp/news_lk2/articles/92/92eb4055.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84619/foreign-minister-to-address-51st-session-of-unhrc",
+    "time_ut": 1661794320,
+    "original_lang": "en",
+    "original_title": "Foreign Minister to address 51st session of UNHRC",
+    "file_name": "/tmp/news_lk2/articles/cf/cf6c5e85.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/US-will-support-SL-through-IMF-if-agreement-reached-Julie-Chung/108-243963",
+    "time_ut": 1661793667,
+    "original_lang": "en",
+    "original_title": "US will support SL through IMF, if agreement reached: Julie Chung",
+    "file_name": "/tmp/news_lk2/articles/b3/b3f4b9b7.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dba\u0dc3-13--\u0dc3\u0dcf\u0db4\u0dd9\u0dc5-\u0da2\u0dba\u0d9c\u0dad\u0dca-\u0dc3\u0db1\u0dc4\u0dc3\u0dca-15-\u0d8b\u0dc3\u0dc3\u0dca-\u0db4\u0dd9\u0dc5-\u0da2\u0dba-\u0d9c\u0db1\u0dd3/101-618972",
     "time_ut": 1661791642,
@@ -33,11 +57,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Price-of-bread-could-rise-to-Rs-300-Assn/342-243945",
+    "url": "https://www.dailymirror.lk/breaking_news/Price-of-bread-could-rise-to-Rs-300-Assn/108-243945",
     "time_ut": 1661789219,
     "original_lang": "en",
     "original_title": "Price of bread could rise to Rs.300? - Assn.",
-    "file_name": "/tmp/news_lk2/articles/0d/0db693ae.json"
+    "file_name": "/tmp/news_lk2/articles/8a/8aed58c1.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -273,11 +297,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Court-grants-interim-protection-to-lesbian-from-abusive-parents/342-243939",
+    "url": "https://www.dailymirror.lk/breaking_news/Court-grants-interim-protection-to-lesbian-from-abusive-parents/108-243939",
     "time_ut": 1661776754,
     "original_lang": "en",
     "original_title": "Court grants interim protection to lesbian from abusive parents",
-    "file_name": "/tmp/news_lk2/articles/6d/6d12ed45.json"
+    "file_name": "/tmp/news_lk2/articles/57/5713a0ab.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -313,11 +337,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/CEB-should-be-restructured-excess-staff-retrenched-Aluthgamage/342-243938",
+    "url": "https://www.dailymirror.lk/breaking_news/CEB-should-be-restructured-excess-staff-retrenched-Aluthgamage/108-243938",
     "time_ut": 1661775378,
     "original_lang": "en",
     "original_title": "CEB should be restructured; excess staff retrenched: Aluthgamage",
-    "file_name": "/tmp/news_lk2/articles/32/325d5519.json"
+    "file_name": "/tmp/news_lk2/articles/fc/fc7a97b6.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Visiting IMF delegation calls on President Ranil",
     "file_name": "/tmp/news_lk2/articles/fd/fda92670.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd-\u0b85\u0bb0\u0b9a-\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/150-302943",
-    "time_ut": 1661343192,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/29/29c80815.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-3-hours-for-august-25-98972/",
-    "time_ut": 1661343120,
-    "original_lang": "en",
-    "original_title": "Sri Lanka schedules power cuts of 3 hours for August 25",
-    "file_name": "/tmp/news_lk2/articles/5a/5a60fde3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Progress-on-second-booster-dose-rollout-not-satisfactory-Dr-Ginige/108-243651",
-    "time_ut": 1661342874,
-    "original_lang": "en",
-    "original_title": "Progress on second booster dose rollout not satisfactory: Dr. Ginige",
-    "file_name": "/tmp/news_lk2/articles/bd/bdf9835f.json"
   }
 ]
