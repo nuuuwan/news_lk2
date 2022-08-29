@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-30 00:23:32 (LK time)*
+*As of 2022-08-30 00:37:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,17 +8,15 @@
 
 * **1** ada-derana-lk ([Japan hands over food donation to help Sri Lanka respond to rising food insecurity](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c7c9450.json))
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Japan hands over food donation to help Sri Lanka respond to rising food insecurity](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c7c9450.json))
 
-* **1** daily-mirror-lk ([Need to reform PTA ahead of UNHRC session](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7d27bd2.json))
+## Last 3 Hours (12 Articles)
 
-## Last 3 Hours (14 Articles)
+* **5** daily-mirror-lk ([US will support SL through IMF, if agreement reached: Julie Chung](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3f4b9b7.json))
 
-* **5** tamil-mirror-lk ([பாணின் விலை ரூ.300ஐ தாண்டும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a01f3252.json))
-
-* **4** daily-mirror-lk ([Price of bread could rise to Rs.300? - Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aed58c1.json))
+* **3** tamil-mirror-lk ([ரூ.300 மில். முடக்கம்: நெல் கொள்வனவில் சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/950d7d12.json))
 
 * **2** ada-derana-lk ([Foreign Minister to address 51st session of UNHRC](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf6c5e85.json))
 
@@ -26,17 +24,15 @@
 
 * **1** ada-lk ([නාසා හඳ තරණය එන්ජිමේ දෝෂයක් නිසා නතර වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d90de855.json))
 
-* **1** news-first-lk ([Still, no Chairmen to COPE & COPA, why the delay? – Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1347fba6.json))
-
-## Last 24 Hours (210 Articles)
+## Last 24 Hours (208 Articles)
 
 * **44** lankadeepa-lk ([ඇමෙරිකන් යුද නැව් දෙකක් චීනය අවුස්සයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d141287.json))
 
 * **35** news-first-lk ([Thunder showers for several areas today (29)](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71049b7b.json))
 
-* **29** tamil-mirror-lk ([’சர்வகட்சி அரசாங்கத்தை அமைக்க சுதந்திர கட்சி தயார் ’](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/3091ae0f.json))
+* **29** daily-mirror-lk ([Fascists, neo fascists, and SL’s future](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f196abda.json))
 
-* **27** daily-mirror-lk ([Fascists, neo fascists, and SL’s future](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f196abda.json))
+* **28** tamil-mirror-lk ([காரைதீவு மாணவன் அகில இலங்கை ரீதியில் முதலிடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd712fe.json))
 
 * **27** ada-lk ([උසස්පෙළ හපන්න්නු මෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70701618.json))
 
@@ -46,23 +42,21 @@
 
 * **8** daily-ft-lk ([Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc758d4.json))
 
-* **3** island-lk ([Bridging the gap between university education and job market requirements](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32582189.json))
-
 * **2** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
-## Last Week (1,382 Articles)
+## Last Week (1,380 Articles)
 
 * **260** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43863138.json))
 
 * **211** news-first-lk ([3-hour power cuts today](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41c9a5b.json))
 
-* **179** tamil-mirror-lk ([பாண் விலை தொடர்பான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f8d724f.json))
+* **178** tamil-mirror-lk ([கொரோனா மரணங்கள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3712e701.json))
 
-* **172** daily-mirror-lk ([US $ 18tn wiped off from global markets in first half of 2022, WFE data reveals](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57b15b7e.json))
+* **174** daily-mirror-lk ([US $ 18tn wiped off from global markets in first half of 2022, WFE data reveals](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57b15b7e.json))
 
 * **160** ada-lk ([මන්ත්‍රීට පහරදී බේරේ වැවට  තල්ලුකළ තරුණිය අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73a17ca7.json))
 
-* **150** ada-derana-lk ([President and Opposition Leader hold talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5635e8e.json))
+* **149** ada-derana-lk ([Fauci to step down after decades as top US infection expert](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85f5ad1a.json))
 
 * **106** economy-next-com ([Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e7d91a9.json))
 
@@ -70,11 +64,11 @@
 
 * **54** island-lk ([Profit-takings in Lanka IOC, Expolanka Holdings and Lankem Development; turnover Rs. 4.9 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4b6b03a.json))
 
-* **21** d-b-s-jeyaraj-com ([People’s Alliance on Right to Land (PARL) demands the immediate and unconditional release of Activist Chinthaka  Rajapakse and all others arrested with him at the peaceful protests on 18th August.](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/4098ca19.json))
+* **19** d-b-s-jeyaraj-com ([Government Brings  temporary ban with effect from Aug 23  on the import of products from over 360 categories in a bid to save foreign exchange and support local manufacturers.](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25b4e2e0.json))
 
 * **9** colombo-telegraph-com ([Wickremesinghe/Rajapaksa – An Axis Of Evil](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afed3211.json))
 
-## All Time (3,647 Articles)
+## All Time (3,649 Articles)
 
 * **658** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -82,7 +76,7 @@
 
 * **462** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **458** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
+* **460** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
 * **410** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 

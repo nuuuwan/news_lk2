@@ -550,7 +550,7 @@
       ],
       "title_ents": [
         {
-          "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+          "text": "PTA",
           "label": "ORG"
         }
       ],
@@ -571,7 +571,7 @@
             "label": "GPE"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           },
           {
@@ -597,7 +597,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           },
           {
@@ -609,7 +609,7 @@
             "label": "WORK_OF_ART"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           }
         ],
@@ -631,7 +631,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           }
         ],
@@ -641,7 +641,7 @@
             "label": "GPE"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           },
           {
@@ -661,15 +661,15 @@
             "label": "GPE"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           },
           {
@@ -711,11 +711,11 @@
             "label": "ORG"
           },
           {
-            "text": "\u0d91.\u0da2\u0dcf",
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
             "label": "ORG"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           },
           {
@@ -723,11 +723,11 @@
             "label": "NORP"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           }
         ],
@@ -783,7 +783,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           },
           {
@@ -815,7 +815,7 @@
             "label": "PERCENT"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           }
         ],
@@ -833,7 +833,7 @@
             "label": "LOC"
           },
           {
-            "text": "\u0d91.\u0da2\u0dcf",
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
             "label": "ORG"
           },
           {
@@ -845,7 +845,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           },
           {
@@ -869,7 +869,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           },
           {
@@ -879,7 +879,7 @@
         ],
         [
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           },
           {
@@ -889,7 +889,7 @@
         ],
         [
           {
-            "text": "\u0d91.\u0da2\u0dcf",
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
             "label": "ORG"
           },
           {
@@ -897,7 +897,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           },
           {
@@ -919,7 +919,7 @@
         ],
         [
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           },
           {
@@ -959,7 +959,7 @@
         ],
         [
           {
-            "text": "\u0d91.\u0da2\u0dcf",
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
             "label": "ORG"
           },
           {
@@ -1019,7 +1019,7 @@
             "label": "WORK_OF_ART"
           },
           {
-            "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
+            "text": "PTA",
             "label": "ORG"
           }
         ],

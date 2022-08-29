@@ -17,11 +17,27 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Can-Lankans-make-politicians-pay-the-cost-of-economic-ruin/172-243969",
+    "time_ut": 1661795539,
+    "original_lang": "en",
+    "original_title": "Can Lankans make politicians pay the cost of economic ruin?",
+    "file_name": "/tmp/news_lk2/articles/68/6854c2cc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Shooting-at-Mattakkuliya-injures-one/108-243968",
     "time_ut": 1661795416,
     "original_lang": "en",
     "original_title": "Shooting at Mattakkuliya injures one",
     "file_name": "/tmp/news_lk2/articles/3e/3e6cc0f0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Children-the-most-vulnerable-group-today/172-243967",
+    "time_ut": 1661795316,
+    "original_lang": "en",
+    "original_title": "Children, the most vulnerable group today",
+    "file_name": "/tmp/news_lk2/articles/25/25df5e2e.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka MP tables private motion to amend laws to protect LGBTQI+ community",
     "file_name": "/tmp/news_lk2/articles/1e/1e505cf8.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84516/caa-continues-raids-on-vendors-selling-eggs-at-higher-prices",
-    "time_ut": 1661344740,
-    "original_lang": "en",
-    "original_title": "CAA continues raids on vendors selling eggs at higher prices",
-    "file_name": "/tmp/news_lk2/articles/33/33d72808.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-bills-yields-up-rupee-peg-steady-98979/",
-    "time_ut": 1661344680,
-    "original_lang": "en",
-    "original_title": "Sri Lanka bills yields up, rupee peg steady",
-    "file_name": "/tmp/news_lk2/articles/26/26e41c82.json"
   }
 ]
