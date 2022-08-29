@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Joes-qualify-for-semis-of-Presidents-Trophy/342-243944",
+    "time_ut": 1661784390,
+    "original_lang": "en",
+    "original_title": "Joes qualify for semis of President\u2019s Trophy",
+    "file_name": "/tmp/news_lk2/articles/b6/b6e3864c.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd/175-303215",
+    "time_ut": 1661783728,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8  \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/cd/cdb0bc1a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2-40\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-396707",
+    "time_ut": 1661782849,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 40\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/21/215e9d17.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/us-will-support-sri-lanka-through-imf-if-agreement-can-be-reached/",
+    "time_ut": 1661782800,
+    "original_lang": "en",
+    "original_title": "US will support Sri Lanka through IMF, if agreement can be reached",
+    "file_name": "/tmp/news_lk2/articles/01/01d349e3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Mobile-phone-accessory-prices-to-go-up-again-Communication-Owners-Assn/342-243942",
     "time_ut": 1661782505,
     "original_lang": "en",
@@ -24,6 +56,14 @@
     "file_name": "/tmp/news_lk2/articles/12/1280f578.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/sinharaja-hotel-built-abiding-by-all-legal-aspects-rohitha-warns-of-legal-action-against-allegations/",
+    "time_ut": 1661780880,
+    "original_lang": "en",
+    "original_title": "Sinharaja hotel built abiding by all legal aspects; Rohitha warns of legal action against allegations",
+    "file_name": "/tmp/news_lk2/articles/94/948d5662.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84616/power-cuts-of-2-hours-and-20-minutes-for-next-four-days",
     "time_ut": 1661780340,
@@ -41,11 +81,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0dc5\u0db9-\u0db1\u0d9c\u0dbb-\u0dc3\u0db7\u0dcf-\u2018\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf-\u0d9a\u0dd4\u0dc3\u0dca\u0dc3\u0dd2\u0dba\u2019\u0da7-\u0d86\u0dc4\u0dcf\u0dbb-\u0db7\u0ddd\u0d9c-\u0dc0\u0d9c\u0dcf\u0dc0-\u0d87\u0dbb\u0db9\u0dda/101-618966",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dc5\u0db9-\u0db1\u0d9c\u0dbb-\u0dc3\u0db7\u0dcf-\u2018\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf-\u0d9a\u0dd4\u0dc3\u0dca\u0dc3\u0dd2\u0dba\u2019\u0da7-\u0d86\u0dc4\u0dcf\u0dbb-\u0db7\u0ddd\u0d9c-\u0dc0\u0d9c\u0dcf\u0dc0-\u0d87\u0dbb\u0db9\u0dda/1-618966",
     "time_ut": 1661778821,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf \u2018\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf \u0d9a\u0dd4\u0dc3\u0dca\u0dc3\u0dd2\u0dba\u2019\u0da7 \u0d86\u0dc4\u0dcf\u0dbb \u0db7\u0ddd\u0d9c \u0dc0\u0d9c\u0dcf\u0dc0 \u0d87\u0dbb\u0db9\u0dda",
-    "file_name": "/tmp/news_lk2/articles/7e/7e8cf0aa.json"
+    "file_name": "/tmp/news_lk2/articles/e6/e6e395c0.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -137,11 +177,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb\u0dad\u0dca\u0dc0-\u0d87\u0dad\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d9a\u0dbd\u0dca\u0daf\u0dd0\u0db8\u0dd3\u0db8-\u0dc4\u0ddc\u0db3-\u0daf\u0dd9\u0dba\u0d9a\u0dca-\u0db1\u0ddc\u0dc0\u0dd9\u0dba\u0dd2/101-618962",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb\u0dad\u0dca\u0dc0-\u0d87\u0dad\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d9a\u0dbd\u0dca\u0daf\u0dd0\u0db8\u0dd3\u0db8-\u0dc4\u0ddc\u0db3-\u0daf\u0dd9\u0dba\u0d9a\u0dca-\u0db1\u0ddc\u0dc0\u0dd9\u0dba\u0dd2/1-618962",
     "time_ut": 1661776124,
     "original_lang": "si",
     "original_title": "\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb\u0dad\u0dca\u0dc0 \u0d87\u0dad\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d9a\u0dbd\u0dca\u0daf\u0dd0\u0db8\u0dd3\u0db8 \u0dc4\u0ddc\u0db3 \u0daf\u0dd9\u0dba\u0d9a\u0dca \u0db1\u0ddc\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/d5/d5378ffa.json"
+    "file_name": "/tmp/news_lk2/articles/03/030d2e2b.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -166,6 +206,14 @@
     "original_lang": "ta",
     "original_title": "1.5 \u0bae\u0bbf\u0bb2\u0bcd. \u0b9f\u0bca\u0bb2\u0bb0\u0bcd \u0b89\u0ba4\u0bb5\u0bbf  \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd",
     "file_name": "/tmp/news_lk2/articles/ee/ee20320a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/sports/\u0d85\u0dbb\u0dca\u0da2\u0dd4\u0db1\u0d9c\u0dda-\u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0\u0da7-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca-\u0d86\u0dba\u0dad\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0d9a\u0dca/9-396706",
+    "time_ut": 1661775299,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0dca\u0da2\u0dd4\u0db1\u0d9c\u0dda \u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0\u0da7 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0d86\u0dba\u0dad\u0db1\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/22/226d9630.json"
   },
   {
     "newspaper_id": "news-first-lk",
