@@ -1,18 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 05:17:11 (LK time)*
+*As of 2022-08-29 05:49:37 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **1** daily-ft-lk ([Wisdom of ‘Nishkam Karma’: Much in demand for an authentic revival](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44cc6611.json))
+* **3** daily-ft-lk ([Kanchana reviews progress of rapid renewable energy generation plan](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc8cdc97.json))
 
-## Last 3 Hours (2 Articles)
+## Last Hour (6 Articles)
 
-* **2** daily-ft-lk ([Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc758d4.json))
+* **6** daily-ft-lk ([Economic crisis could be overcome with IMF interventions: Eran Wickramaratne expresses hope](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/229acbf3.json))
 
-## Last 24 Hours (147 Articles)
+## Last 3 Hours (8 Articles)
+
+* **8** daily-ft-lk ([Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc758d4.json))
+
+## Last 24 Hours (162 Articles)
 
 * **29** tamil-mirror-lk ([ரஞ்சன் ராமநாயக்கவுக்கு பல பதவிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eec2a9f8.json))
 
@@ -28,11 +32,13 @@
 
 * **12** economy-next-com ([Sri Lanka import controls are temporary: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7208ec6f.json))
 
-* **2** daily-ft-lk ([Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc758d4.json))
+* **9** island-lk ([HNB Assurance PLC hits record-breaking 37% GWP growth during H1 – 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4315d9fb.json))
+
+* **8** daily-ft-lk ([Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc758d4.json))
 
 * **2** colombo-telegraph-com ([War On China? – VI: India & The US: Forward Policy & The Brzezinskian Project](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aee73676.json))
 
-## Last Week (1,397 Articles)
+## Last Week (1,415 Articles)
 
 * **271** lankadeepa-lk ([ගෝඨාභය යුද අධිකරණය යවන්නැයි සංදේශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f1bcfa.json))
 
@@ -48,15 +54,15 @@
 
 * **107** economy-next-com ([Sri Lanka Navy seizes smuggled medicines worth 4.5m rupees](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/760e250e.json))
 
-* **55** island-lk ([$18 trillion wiped off global markets in first half of 2022, WFE data reveals](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35d1ee8d.json))
+* **67** island-lk ([$18 trillion wiped off global markets in first half of 2022, WFE data reveals](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35d1ee8d.json))
 
-* **54** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
+* **60** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
 
 * **19** d-b-s-jeyaraj-com ([“How could a public protest campaign, dubbed as peaceful, destroy 70 houses and 600  other properties belonging to as many as 72 MPs, within a matter of 24 hours? Asks SLPP Gen Secy Sagara  Kariyawasam](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/689df5af.json))
 
 * **8** colombo-telegraph-com ([Sri Lanka: Protesters Must Not Be Detained Under The Draconian Anti-Terror Law: Amnesty International](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f24273.json))
 
-## All Time (3,427 Articles)
+## All Time (3,445 Articles)
 
 * **614** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -72,9 +78,9 @@
 
 * **237** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 
-* **213** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
+* **219** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
-* **164** island-lk ([Lanka’s misery should be warning to us all on global food, fuel and finance crisis: UNDP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564b2893.json))
+* **176** island-lk ([Lanka’s misery should be warning to us all on global food, fuel and finance crisis: UNDP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564b2893.json))
 
 * **146** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 

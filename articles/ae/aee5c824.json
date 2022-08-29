@@ -1,0 +1,609 @@
+{
+  "newspaper_id": "island-lk",
+  "url": "http://island.lk/princess-dianas-1985-ford-escort-tops-850000-at-auction-sale/",
+  "time_ut": 1661690280,
+  "original_lang": "en",
+  "original_title": "Princess Diana\u2019s 1985 Ford Escort tops $850,000 at auction sale",
+  "text_idx": {
+    "en": {
+      "title": "Princess Diana\u2019s 1985 Ford Escort tops $850,000 at auction sale",
+      "author": "Thilina Walpola",
+      "body_lines": [
+        "A 1985 Ford Escort RS Turbo Series 1 that belonged to Diana, Princess of Wales, sold for \u00a3730,000 ($857,712) at a Silverstone auction Aug. 27. The final price includes a buyer\u2019s 12.5% premium.",
+        "The price sets an astounding new record for Escort sales, decimating the former record of \u00a363,000 ($73,900) earned by a white 1985 Ford Escort RS Turbo S1 at auction in 2021. That one had fewer than 15,000 miles on the engine and was considered collector-quality. The sale also beat the price of the Ford Escort Ghia Prince Charles gave Diana as an engagement gift, which sold for \u00a347,000 ($55,100) last year as well.",
+        "Ford Escort Turbos are considered humble economy cars and can be bought for roughly $10,000. The two most recently listed on Bring a Trailer failed to sell altogether.",
+        "\u201cWe have sold a number of motorcars that have had a royal pedigree, but this car ticks every box in terms of history, rarity, condition and mileage. The market adores early Ford RS models,\u201d said Arwel Richards, a Silverstone Auctions classic car specialist, in a statement. \u201cWhen royal cars come to auction, they\u2019re usually Rolls-Royces or Range Rovers, so to offer the very best example of the working class hero\u2019s sports hatchback with such provenance is perhaps unique and therefore very exciting.\u201d The house would only confirm that it was a British buyer.",
+        "Huawei signs MoU with University of Sri Jayewardenepura to strengthen digital talent building and setup Joint Innovation Lab",
+        "HNB Assurance PLC hits record-breaking 37% GWP growth during H1 \u2013 2022",
+        "Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *",
+        "Save my name, email, and website in this browser for the next time I comment."
+      ],
+      "title_ents": [
+        {
+          "text": "Diana",
+          "label": "PERSON"
+        },
+        {
+          "text": "1985",
+          "label": "DATE"
+        },
+        {
+          "text": "Ford",
+          "label": "ORG"
+        },
+        {
+          "text": "Escort",
+          "label": "PRODUCT"
+        },
+        {
+          "text": "850,000",
+          "label": "MONEY"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "1985",
+            "label": "DATE"
+          },
+          {
+            "text": "Ford",
+            "label": "ORG"
+          },
+          {
+            "text": "Escort RS Turbo Series",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "Wales",
+            "label": "GPE"
+          },
+          {
+            "text": "730,000",
+            "label": "MONEY"
+          },
+          {
+            "text": "857,712",
+            "label": "MONEY"
+          },
+          {
+            "text": "Silverstone",
+            "label": "GPE"
+          },
+          {
+            "text": "Aug. 27",
+            "label": "DATE"
+          },
+          {
+            "text": "12.5%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "Escort",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "63,000",
+            "label": "MONEY"
+          },
+          {
+            "text": "73,900",
+            "label": "MONEY"
+          },
+          {
+            "text": "1985",
+            "label": "DATE"
+          },
+          {
+            "text": "Ford",
+            "label": "ORG"
+          },
+          {
+            "text": "Escort RS Turbo S1",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "fewer than 15,000 miles",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Ford",
+            "label": "ORG"
+          },
+          {
+            "text": "Escort",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "Diana",
+            "label": "PERSON"
+          },
+          {
+            "text": "47,000",
+            "label": "MONEY"
+          },
+          {
+            "text": "55,100",
+            "label": "MONEY"
+          },
+          {
+            "text": "last year",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Ford",
+            "label": "ORG"
+          },
+          {
+            "text": "Escort Turbos",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "roughly $10,000",
+            "label": "MONEY"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Ford",
+            "label": "ORG"
+          },
+          {
+            "text": "Arwel Richards",
+            "label": "PERSON"
+          },
+          {
+            "text": "Rolls-Royces or Range Rovers",
+            "label": "ORG"
+          },
+          {
+            "text": "British",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "Huawei",
+            "label": "ORG"
+          },
+          {
+            "text": "University of Sri Jayewardenepura",
+            "label": "ORG"
+          },
+          {
+            "text": "Joint Innovation Lab",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "HNB Assurance PLC",
+            "label": "ORG"
+          },
+          {
+            "text": "37%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          }
+        ],
+        [],
+        []
+      ]
+    },
+    "si": {
+      "title": "\u0da9\u0dba\u0db1\u0dcf \u0d9a\u0dd4\u0db8\u0dbb\u0dd2\u0dba\u0d9c\u0dda 1985 Ford Escort \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda \u0daf\u0dd3 \u0da9\u0ddc\u0dbd\u0dbb\u0dca 850,000 \u0d89\u0dc4\u0dc5\u0da7",
+      "author": "\u0dad\u0dd2\u0dc5\u0dd2\u0dab \u0dc0\u0dbd\u0dca\u0db4\u0ddc\u0dbd",
+      "body_lines": [
+        "1985 Ford Escort RS Turbo Series 1, Diana, Princess of Wales, \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 27 \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dbb\u0dca\u0dc3\u0dca\u0da7\u0ddd\u0db1\u0dca \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0d9a\u0daf\u0dd3 \u0db4\u0dc0\u0dd4\u0db8\u0dca 730,000 ($857,712) \u0d9a\u0da7 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0dc0\u0dd2\u0dba. \u0d85\u0dc0\u0dc3\u0dcf\u0db1 \u0db8\u0dd2\u0dbd\u0da7 \u0d9c\u0dd0\u0db1\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4\u0d9c\u0dda 12.5% \u200b\u200b\u0dc0\u0dcf\u0dbb\u0dd2\u0d9a\u0dba \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0dc0\u0dda.",
+        "2021 \u0daf\u0dd3 \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd4\u0daf\u0dd4 \u0db4\u0dd0\u0dc4\u0dd0\u0dad\u0dd2 1985 Ford Escort RS Turbo S1 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d8b\u0db4\u0dba\u0dcf \u0d87\u0dad\u0dd2 \u00a363,000 ($73,900) \u0dc4\u0dd2 \u0db4\u0dd0\u0dbb\u0dab\u0dd2 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0 \u0dc0\u0dd2\u0db1\u0dcf\u0dc1 \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca, Escort \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd4\u0db8\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dd2\u0dbd \u0dc0\u0dd2\u0dc1\u0dca\u0db8\u0dba \u0da2\u0db1\u0d9a \u0db1\u0dc0 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2. -\u0d9c\u0dd4\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a. \u0db8\u0dd9\u0db8 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2\u0dba \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dc3\u0dbb\u0dda \u0daf \u0db4\u0dc0\u0dd4\u0db8\u0dca 47,000 ($ 55,100) \u0d9a\u0da7 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0dc0\u0dd6 \u0da9\u0dba\u0db1\u0dcf\u0da7 \u0dc0\u0dd2\u0dc0\u0dcf\u0dc4 \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0dad\u0dd1\u0d9c\u0dca\u0d9c\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0dbd\u0db6\u0dcf \u0daf\u0dd4\u0db1\u0dca Ford Escort Ghia \u0db4\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dca\u0dc3\u0dca \u0da0\u0dcf\u0dbd\u0dca\u0dc3\u0dca \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba\u0dda \u0db8\u0dd2\u0dbd \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dcf \u0d9c\u0dd2\u0dba\u0dda\u0dba.",
+        "Ford Escort Turbos \u0db1\u0dd2\u0dc4\u0dad\u0db8\u0dcf\u0db1\u0dd3 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae \u0dbd\u0dd9\u0dc3 \u0dc3\u0dbd\u0d9a\u0db1\u0dd4 \u0dbd\u0db6\u0db1 \u0d85\u0dad\u0dbb \u0daf\u0dc5 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca 10,000 \u0d9a\u0da7 \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2\u0dba. Bring a Trailer \u0dc4\u0dd2 \u0dc0\u0da9\u0dcf\u0dad\u0dca\u0db8 \u0db8\u0dd1\u0dad\u0d9a\u0daf\u0dd3 \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0d9c\u0dad \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0daf\u0dd9\u0d9a \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab\u0dba\u0dd9\u0db1\u0dca\u0db8 \u0dc0\u0dd2\u0d9a\u0dd2\u0dab\u0dd3\u0db8\u0da7 \u0d85\u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd2\u0dba.",
+        "\u201c\u0d85\u0db4\u0dd2 \u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba \u0db4\u0dd9\u0dc5\u0db4\u0dad\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae \u0d9c\u0dab\u0db1\u0dcf\u0dc0\u0d9a\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dcf \u0d87\u0dad, \u0db1\u0db8\u0dd4\u0dad\u0dca \u0db8\u0dd9\u0db8 \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba \u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba, \u0daf\u0dd4\u0dbb\u0dca\u0dbd\u0db7\u0dad\u0dca\u0dc0\u0dba, \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dc3\u0dc4 \u0dc3\u0dd0\u0dad\u0db4\u0dd4\u0db8\u0dca \u0d9c\u0dab\u0db1 \u0d85\u0db1\u0dd4\u0dc0 \u0dc3\u0dd1\u0db8 \u0db4\u0dd9\u0da7\u0dca\u0da7\u0dd2\u0dba\u0d9a\u0dca\u0db8 \u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2. \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0db8\u0dd4\u0dbd\u0dca \u0d9a\u0dcf\u0dbd\u0dd3\u0db1 Ford RS \u0db8\u0dcf\u0daf\u0dd2\u0dbd\u0dd2 \u0dc0\u0dbd\u0da7 \u0d86\u0daf\u0dbb\u0dba \u0d9a\u0dbb\u0dba\u0dd2, \u201dSilverstone Auctions Classic \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0da5\u0dba\u0dd9\u0d9a\u0dd4 \u0dc0\u0db1 Arwel Richards \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda\u0dba. \"\u0dbb\u0dcf\u0da2\u0d9a\u0dd3\u0dba \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1 \u0dc0\u0dd2\u0da7, \u0d92\u0dc0\u0dcf \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba\u0dd9\u0db1\u0dca Rolls-Royces \u0dc4\u0ddd Range Rovers \u0dc0\u0dda, \u0d91\u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0d9a\u0db8\u0dca\u0d9a\u0dbb\u0dd4 \u0db4\u0db1\u0dca\u0dad\u0dd2\u0dba\u0dda \u0dc0\u0dd3\u0dbb\u0dba\u0dcf\u0d9c\u0dda \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0dc4\u0dd0\u0da0\u0dca\u0db6\u0dd0\u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dc4\u0ddc\u0db3\u0db8 \u0d8b\u0daf\u0dcf\u0dc4\u0dbb\u0dab\u0dba \u0d91\u0dc0\u0dd0\u0db1\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db7\u0dc0\u0dba\u0db1\u0dca \u0dc3\u0db8\u0d9f \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d85\u0daf\u0dca\u0dc0\u0dd2\u0dad\u0dd3\u0dba \u0dc4\u0dcf \u0d91\u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0d89\u0dad\u0dcf \u0d8b\u0daf\u0dca\u0dba\u0ddd\u0d9c\u0dd2\u0db8\u0dad\u0dca \u0dc0\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2\u0dba.\" \u0db1\u0dd2\u0dc0\u0dc3 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dbb\u0db1\u0dd4 \u0d87\u0dad\u0dca\u0dad\u0dda \u0d91\u0dba \u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0d9c\u0dd0\u0db1\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4 \u0db6\u0dc0 \u0db4\u0db8\u0dab\u0dd2.",
+        "\u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0d9a\u0dd4\u0dc3\u0dbd\u0dad\u0dcf \u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd3\u0db8 \u0dc3\u0dc4 \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0db1\u0dc0\u0ddd\u0dad\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0d9c\u0dcf\u0dbb\u0dba \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf Huawei \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0db4\u0dd4\u0dbb \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba \u0dc3\u0db8\u0d9f \u0d85\u0dc0\u0db6\u0ddd\u0db0\u0dad\u0dcf \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0d9a\u0dca \u0d85\u0dad\u0dca\u0dc3\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+        "HNB \u0d87\u0dc2\u0dd4\u0dc0\u0dbb\u0db1\u0dca\u0dc3\u0dca \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3 H1 \u2013 2022 \u0d9a\u0dcf\u0dbd\u0dba \u0dad\u0dd4\u0dc5 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0d9c\u0dad 37% GWP \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb\u0dba\u0dd2",
+        "\u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0d9a\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0d94\u0db6\u0d9c\u0dda \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0dbd\u0dd2\u0db4\u0dd2\u0db1\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0db1\u0ddc\u0d9a\u0dd9\u0dbb\u0dda. \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb \u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0dbb \u0d87\u0dad *\u0d85\u0daf\u0dc4\u0dc3\u0dca \u0db1\u0db8 *",
+        "\u0db8\u0db8 \u0d8a\u0dc5\u0d9f \u0dc0\u0dad\u0dcf\u0dc0\u0dda \u0d85\u0daf\u0dc4\u0dc3\u0dca \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0d9c\u0dda \u0db1\u0db8, \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd1\u0dbd \u0dc3\u0dc4 \u0dc0\u0dd9\u0db6\u0dca \u0d85\u0da9\u0dc0\u0dd2\u0dba \u0db8\u0dd9\u0db8 \u0db6\u0dca\u200d\u0dbb\u0dc0\u0dd4\u0dc3\u0dbb\u0dba\u0dda \u0dc3\u0dd4\u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0da9\u0dba\u0db1\u0dcf",
+          "label": "PERSON"
+        },
+        {
+          "text": "1985",
+          "label": "DATE"
+        },
+        {
+          "text": "\u0dc6\u0ddd\u0da9\u0dca",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0db4\u0dbb\u0dd2\u0dc0\u0dcf\u0dbb",
+          "label": "PRODUCT"
+        },
+        {
+          "text": "850,000 \u0d9a\u0dd2",
+          "label": "MONEY"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "1985",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc6\u0ddd\u0da9\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Escort RS Turbo Series",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0dc0\u0dda\u0dbd\u0dca\u0dc3\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "730,000 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "857,712 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0dbb\u0dd2\u0daf\u0dd3 \u0d9c\u0dbd\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 27",
+            "label": "DATE"
+          },
+          {
+            "text": "12.5%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dbb\u0dd2\u0dc0\u0dcf\u0dbb",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "63,000 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "73,900 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "1985",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc6\u0ddd\u0da9\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Escort RS Turbo S1",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0dad\u0db4\u0dd4\u0db8\u0dca 15,000 \u0da7 \u0d85\u0da9\u0dd4",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0dc6\u0ddd\u0da9\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dbb\u0dd2\u0dc0\u0dcf\u0dbb",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0da9\u0dba\u0db1\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "47,000 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "55,100 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0d9c\u0dd2\u0dba \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dca\u0daf\u0dda",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc6\u0ddd\u0da9\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Escort Turbos",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0daf\u0dc5 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca $10,000",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc6\u0ddd\u0da9\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d86\u0dbb\u0dca\u0dc0\u0dbd\u0dca \u0dbb\u0dd2\u0da0\u0da9\u0dca\u0dc3\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbb\u0ddd\u0dbd\u0dca\u0dc3\u0dca \u0dbb\u0ddc\u0dba\u0dd2\u0dc3\u0dca \u0dc4\u0ddd \u0dbb\u0dda\u0db1\u0dca\u0da2\u0dca \u0dbb\u0ddd\u0dc0\u0dbb\u0dca\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u0dba",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "Huawei",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0db4\u0dd4\u0dbb \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0db1\u0dc0\u0ddd\u0dad\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc0\u0dd2\u0daf\u0dca\u0dba\u0dcf\u0d9c\u0dcf\u0dbb\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "HNB \u0d87\u0dc2\u0dd4\u0dc0\u0dbb\u0db1\u0dca\u0dc3\u0dca \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "37%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          }
+        ],
+        [],
+        []
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0bb3\u0bb5\u0bb0\u0b9a\u0bbf \u0b9f\u0baf\u0bbe\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd 1985 \u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1 \u0b8e\u0bb8\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b8f\u0bb2 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd $850,000 \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0b9f\u0bae\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bbf\u0bb2\u0bbf\u0ba9 \u0bb5\u0bb2\u0bcd\u0baa\u0bca\u0bb2",
+      "body_lines": [
+        "\u0bb5\u0bc7\u0bb2\u0bcd\u0bb8\u0bcd \u0b87\u0bb3\u0bb5\u0bb0\u0b9a\u0bbf \u0b9f\u0baf\u0bbe\u0ba9\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bca\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0ba9 1985 \u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1 \u0b8e\u0bb8\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b86\u0bb0\u0bcd\u0b8e\u0bb8\u0bcd \u0b9f\u0bb0\u0bcd\u0baa\u0bcb \u0b9a\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd 1 \u200b\u200b\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 27 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u00a3730,000 ($857,712) \u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0baa\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd 12.5% \u200b\u200b\u0baa\u0bbf\u0bb0\u0bc0\u0bae\u0bbf\u0baf\u0bae\u0bc1\u0bae\u0bcd \u0b85\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd.",
+        "2021 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bc8 1985 Ford Escort RS Turbo S1 \u0b9a\u0bae\u0bcd\u0baa\u0bbe\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4 \u00a363,000 ($73,900) \u0b8e\u0ba9\u0bcd\u0bb1 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8\u0baf\u0bc8 \u0bae\u0bc1\u0bb1\u0bbf\u0baf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1, \u0b8e\u0bb8\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb5\u0bbf\u0baf\u0b95\u0bcd\u0b95 \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8\u0baf\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1. -\u0ba4\u0bb0\u0bae\u0bcd. \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd 47,000 \u0baa\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 ($55,100) \u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9f\u0baf\u0bbe\u0ba9\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0b9a\u0bcd\u0b9a\u0baf\u0ba4\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0baa\u0bb0\u0bbf\u0b9a\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1 \u0b8e\u0bb8\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b95\u0bbf\u0baf\u0bbe \u0baa\u0bbf\u0bb0\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bae\u0bc1\u0bb1\u0bbf\u0baf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1 \u0b8e\u0bb8\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b9f\u0bb0\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0bb3\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0b95\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bcb\u0bb0\u0bbe\u0baf\u0bae\u0bbe\u0b95 $10,000\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd. \u0baa\u0bcd\u0bb0\u0bbf\u0b99\u0bcd \u0b8e \u0b9f\u0bbf\u0bb0\u0bc6\u0baf\u0bcd\u0bb2\u0bb0\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0b95 \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0b95 \u0bb5\u0bbf\u0bb1\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8.",
+        "\"\u0b85\u0bb0\u0b9a \u0baa\u0bb0\u0bae\u0bcd\u0baa\u0bb0\u0bc8\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0baa\u0bb2 \u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0bcb\u0bae\u0bcd, \u0b86\u0ba9\u0bbe\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b95\u0bbe\u0bb0\u0bcd \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bc1, \u0b85\u0bb0\u0bbf\u0ba4\u0bbe\u0ba9\u0ba4\u0bc1, \u0ba8\u0bbf\u0bb2\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc8\u0bb2\u0bc7\u0b9c\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b9f\u0bbf\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0b95\u0bbe\u0bb2 \u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1 \u0b86\u0bb0\u0bcd\u0b8e\u0bb8\u0bcd \u0bae\u0bbe\u0b9f\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1,\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bbf\u0bb3\u0bbe\u0b9a\u0bbf\u0b95\u0bcd \u0b95\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0bb0\u0bcd \u0b85\u0bb0\u0bcd\u0bb5\u0bc6\u0bb2\u0bcd \u0bb0\u0bbf\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0b92\u0bb0\u0bc1 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \"\u0bb0\u0bbe\u0baf\u0bb2\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1, \u200b\u200b\u0b85\u0bb5\u0bc8 \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbe\u0b95 \u0bb0\u0bcb\u0bb2\u0bcd\u0bb8\u0bcd \u0bb0\u0bbe\u0baf\u0bcd\u0bb8\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0bb0\u0bc7\u0b9e\u0bcd\u0b9a\u0bcd \u0bb0\u0bcb\u0bb5\u0bb0\u0bcd\u0bb8\u0bcd \u0b86\u0b95\u0bc1\u0bae\u0bcd, \u0b8e\u0ba9\u0bb5\u0bc7 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf \u0bb5\u0bb0\u0bcd\u0b95\u0bcd\u0b95 \u0bb9\u0bc0\u0bb0\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb9\u0bc7\u0b9f\u0bcd\u0b9a\u0bcd\u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0b95\u0b9a\u0bcd \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0b89\u0ba4\u0bbe\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bc1 \u0ba4\u0ba9\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b89\u0bb1\u0bcd\u0b9a\u0bbe\u0b95\u0bae\u0bbe\u0ba9\u0ba4\u0bc1.\" \u0bb5\u0bc0\u0b9f\u0bc1 \u0b92\u0bb0\u0bc1 \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0baa\u0bb5\u0bb0\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc8 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd.",
+        "\u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0ba4\u0bbf\u0bb1\u0bae\u0bc8\u0b95\u0bb3\u0bc8 \u0bb5\u0bb2\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0bae\u0bcd, \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b86\u0baf\u0bcd\u0bb5\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bb8\u0bcd\u0bb0\u0bc0 \u0b9c\u0bc6\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9\u0baa\u0bc1\u0bb0 \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd Huawei \u0baa\u0bc1\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1 \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0baf\u0bc6\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "HNB \u0b85\u0bb7\u0bcd\u0baf\u0bc2\u0bb0\u0ba9\u0bcd\u0bb8\u0bcd PLC, H1 \u2013 2022 \u0b87\u0bb2\u0bcd 37% GWP \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8 \u0baa\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
+        "\u0b92\u0bb0\u0bc1 \u0baa\u0ba4\u0bbf\u0bb2\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bc8 \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1. \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0baa\u0bc1\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9 *\u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd *",
+        "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0bb1\u0bc8 \u0ba8\u0bbe\u0ba9\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95, \u0b8e\u0ba9\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd, \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0ba3\u0bc8\u0baf\u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4 \u0b89\u0bb2\u0bbe\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b9f\u0baf\u0bbe\u0ba9\u0bbe",
+          "label": "PERSON"
+        },
+        {
+          "text": "1985",
+          "label": "DATE"
+        },
+        {
+          "text": "\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b8e\u0bb8\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd",
+          "label": "PRODUCT"
+        },
+        {
+          "text": "850,000",
+          "label": "MONEY"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "1985",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b86\u0bb0\u0bcd\u0b8e\u0bb8\u0bcd \u0b9f\u0bb0\u0bcd\u0baa\u0bcb \u0ba4\u0bca\u0b9f\u0bb0\u0bcd",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0bb5\u0bc7\u0bb2\u0bcd\u0bb8\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "730,000",
+            "label": "MONEY"
+          },
+          {
+            "text": "857,712",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 27",
+            "label": "DATE"
+          },
+          {
+            "text": "12.5%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "63,000",
+            "label": "MONEY"
+          },
+          {
+            "text": "73,900",
+            "label": "MONEY"
+          },
+          {
+            "text": "1985",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd RS \u0b9f\u0bb0\u0bcd\u0baa\u0bcb S1",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "15,000 \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0ba9\u0ba4\u0bc1",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0b9f\u0baf\u0bbe\u0ba9\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "47,000",
+            "label": "MONEY"
+          },
+          {
+            "text": "55,100",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b9f\u0bb0\u0bcd\u0baa\u0bcb\u0bb8\u0bcd",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0ba4\u0bcb\u0bb0\u0bbe\u0baf\u0bae\u0bbe\u0b95 $10,000",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0bcd\u0bb5\u0bc6\u0bb2\u0bcd \u0bb0\u0bbf\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb0\u0bcb\u0bb2\u0bcd\u0bb8\u0bcd \u0bb0\u0bbe\u0baf\u0bcd\u0bb8\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0bb0\u0bc7\u0b9e\u0bcd\u0b9a\u0bcd \u0bb0\u0bcb\u0bb5\u0bb0\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb9\u0bc2\u0bb5\u0bbe\u0baf\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0bb0\u0bc0 \u0b9c\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9\u0baa\u0bc1\u0bb0 \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b86\u0baf\u0bcd\u0bb5\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "HNB \u0b85\u0bb7\u0bcd\u0baf\u0bc2\u0bb0\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "37%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          }
+        ],
+        [],
+        []
+      ]
+    }
+  }
+}
