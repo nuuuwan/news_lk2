@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 19:02:12 (LK time)*
+*As of 2022-08-29 19:08:01 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,19 +8,19 @@
 
 * **1** economy-next-com ([Sri Lanka stocks end at near 3-wk low after falling five sessions; turnover slumps to 1-mth low](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/747090c2.json))
 
-* **1** tamil-mirror-lk ([காஞ்சன விஜேசேகரவுக்கு எதிர்க்கட்சி பாராட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02ff9c1c.json))
+* **1** lankadeepa-lk ([කොළඹ නගර සභා ‘ප්‍රජා කුස්සිය’ට ආහාර භෝග වගාව ඇරඹේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e8cf0aa.json))
 
-* **1** ada-derana-lk ([14-year-old boy successfully sits for A/L exam](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dc9d9ef.json))
+* **1** tamil-mirror-lk ([காஞ்சன விஜேசேகரவுக்கு எதிர்க்கட்சி பாராட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02ff9c1c.json))
 
 ## Last Hour (11 Articles)
 
-* **4** tamil-mirror-lk ([பல இடங்களில் மீண்டும்    எரிபொருள் வரிசை](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/116351fb.json))
+* **3** lankadeepa-lk ([විදුලි කප්පාදුව පැය 2කට අඩු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1408f83.json))
+
+* **3** tamil-mirror-lk ([நாளை முதல் மின்வெட்டு நேரம் குறைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aec63cf8.json))
 
 * **2** economy-next-com ([Sri Lanka schedules power cuts of 2 hours 20 mins from August 30](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4dcc042.json))
 
 * **2** daily-mirror-lk ([Court grants interim protection to lesbian from abusive parents](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6d12ed45.json))
-
-* **2** lankadeepa-lk ([විදුලි කප්පාදුව පැය 2කට අඩු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3210fa9.json))
 
 * **1** ada-derana-lk ([14-year-old boy successfully sits for A/L exam](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dc9d9ef.json))
 
@@ -28,9 +28,9 @@
 
 * **9** tamil-mirror-lk ([கைதிகளும்  சித்தியடைந்தனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b2e80a2.json))
 
-* **7** news-first-lk ([Protest against PTA near UN Colombo Office](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d1eac02.json))
+* **7** lankadeepa-lk ([එජාප සංවත්සර උත්සව සංවිධානය රුවන්ගේ නායකත්වයෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a956def7.json))
 
-* **6** lankadeepa-lk ([එජාප සංවත්සර උත්සව සංවිධානය රුවන්ගේ නායකත්වයෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a956def7.json))
+* **6** news-first-lk ([Prison inmates pass A/L examination in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18d71499.json))
 
 * **3** daily-mirror-lk ([CEB should be restructured; excess staff retrenched: Aluthgamage](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/325d5519.json))
 
@@ -42,9 +42,9 @@
 
 ## Last 24 Hours (210 Articles)
 
-* **46** lankadeepa-lk ([වානිජ අංශයේ කප් එක රත්නාවලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1dbb264.json))
+* **47** lankadeepa-lk ([වානිජ අංශයේ කප් එක රත්නාවලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1dbb264.json))
 
-* **34** news-first-lk ([PUCSL approves 3 hour power cuts for 29th August](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d0c08db.json))
+* **33** news-first-lk ([Protest held in Geneva against state suppression](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65bb430f.json))
 
 * **30** tamil-mirror-lk ([காகிதச் செலவை கட்டுப்படுத்த திட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc3538b6.json))
 
@@ -64,15 +64,15 @@
 
 * **1** d-b-s-jeyaraj-com ([Appapillai Amirthalingam: From Enfant Terrible of ITAK to TULF Elder Statesman](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23bc5767.json))
 
-## Last Week (1,409 Articles)
+## Last Week (1,407 Articles)
 
-* **263** lankadeepa-lk ([පියත් නිකේෂල රිමාන්ඩ්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0a468fe.json))
+* **264** lankadeepa-lk ([පියත් නිකේෂල රිමාන්ඩ්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0a468fe.json))
 
 * **213** news-first-lk ([3,500+ arrested so far over 9th May Violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8ceccfce.json))
 
-* **182** tamil-mirror-lk ([இலங்கைக்கு எரிபொருள் வழங்கும் ஆஸி](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80692b03.json))
+* **180** tamil-mirror-lk ([உயிரிழந்த மஸ்கெலியா சிறுமி தொடர்பில்  உண்மை கண்டறியப்பட வேண்டும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e08f1889.json))
 
-* **176** daily-mirror-lk ([Hyde Park People’s Bank shifted to new location](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f274beb.json))
+* **175** daily-mirror-lk ([EU concerned about using  PTA](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d80a9d97.json))
 
 * **164** ada-lk ([ත්‍රස්තවාදය වැළැක්වීීමේ පනත යටතේ අත්අඩංගුවට ගැනීම ඇමෙරිකාවේ හා යුරෝපයේ අවධානයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af33dfbc.json))
 
@@ -88,9 +88,9 @@
 
 * **9** colombo-telegraph-com ([Wickremesinghe/Rajapaksa – An Axis Of Evil](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afed3211.json))
 
-## All Time (3,614 Articles)
+## All Time (3,615 Articles)
 
-* **653** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **654** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **461** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
