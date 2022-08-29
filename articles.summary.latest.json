@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/sinharaja-hotel-built-abiding-by-all-legal-aspects-rohitha-warns-of-legal-action-against-allegations/",
+    "time_ut": 1661780880,
+    "original_lang": "en",
+    "original_title": "Sinharaja hotel built abiding by all legal aspects; Rohitha warns of legal action against allegations",
+    "file_name": "/tmp/news_lk2/articles/94/948d5662.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84616/power-cuts-of-2-hours-and-20-minutes-for-next-four-days",
     "time_ut": 1661780340,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "New office for National Struggle Centre",
     "file_name": "/tmp/news_lk2/articles/9d/9df8acd5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/24/businessman-gunned-down-by-motorcycle-gunmen/",
-    "time_ut": 1661337960,
-    "original_lang": "en",
-    "original_title": "Businessman gunned down by motorcycle gunmen",
-    "file_name": "/tmp/news_lk2/articles/bc/bc4b9b0c.json"
   }
 ]
