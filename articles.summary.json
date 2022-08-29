@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/prison-inmates-pass-a-l-examination-in-sri-lanka/",
+    "time_ut": 1661769840,
+    "original_lang": "en",
+    "original_title": "Prison inmates pass A/L examination in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/18/18d71499.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/protest-against-pta-near-un-colombo-office/",
+    "time_ut": 1661769420,
+    "original_lang": "en",
+    "original_title": "Protest against PTA near UN Colombo Office",
+    "file_name": "/tmp/news_lk2/articles/0d/0d1eac02.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Lawyer-files-contempt-of-court-case-against-Sanath-Nishantha/342-243936",
+    "time_ut": 1661768958,
+    "original_lang": "en",
+    "original_title": "Lawyer files contempt of court case against Sanath Nishantha",
+    "file_name": "/tmp/news_lk2/articles/48/486491ec.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Chinese-Scholarship-Awards/342-243935",
+    "time_ut": 1661767911,
+    "original_lang": "en",
+    "original_title": "Chinese Scholarship Awards",
+    "file_name": "/tmp/news_lk2/articles/d1/d13e44c5.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb-\u0dbb\u0dd0\u0daf\u0dc0\u0dd2\u0dba\u0ddd-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0d8b\u0dc3\u0dc3\u0dca-\u0db4\u0dd9\u0dc5-\u0dc3\u0db8\u0dad\u0dca-\u0dc0\u0dd9\u0dad\u0dd2/101-618954",
     "time_ut": 1661767836,
@@ -24,6 +56,14 @@
     "file_name": "/tmp/news_lk2/articles/a6/a66c0c87.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Pay-our-Augustsalary/342-243934",
+    "time_ut": 1661767260,
+    "original_lang": "en",
+    "original_title": "Pay our August\u00a0salary.....!",
+    "file_name": "/tmp/news_lk2/articles/53/536658cb.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84612/petition-filed-seeking-punishment-for-sanath-nishantha-for-contempt-of-court",
     "time_ut": 1661766960,
@@ -41,11 +81,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dcf\u0d82\u0da0\u0db1\u0d9c\u0dda-\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba-\u0db4\u0dcf\u0da8\u0dbd\u0dd3-\u0db6\u0dcf\u0dbb\u0d9c\u0db1\u0dd3/101-618953",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dcf\u0d82\u0da0\u0db1\u0d9c\u0dda-\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba-\u0db4\u0dcf\u0da8\u0dbd\u0dd3-\u0db6\u0dcf\u0dbb\u0d9c\u0db1\u0dd3/1-618953",
     "time_ut": 1661766742,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dcf\u0d82\u0da0\u0db1\u0d9c\u0dda \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba \u0db4\u0dcf\u0da8\u0dbd\u0dd3 \u0db6\u0dcf\u0dbb\u0d9c\u0db1\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/5c/5ca880a8.json"
+    "file_name": "/tmp/news_lk2/articles/93/93d61cfc.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -81,11 +121,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Move-to-privatize-CEB-on-IMF-conditions-similar-move-thwarted-by-JVP-in-2005-Vijitha/108-243932",
+    "url": "https://www.dailymirror.lk/latest_news/Move-to-privatize-CEB-on-IMF-conditions-similar-move-thwarted-by-JVP-in-2005-Vijitha/342-243932",
     "time_ut": 1661765159,
     "original_lang": "en",
     "original_title": "Move to privatize CEB on IMF conditions; similar move thwarted by JVP in 2005: Vijitha",
-    "file_name": "/tmp/news_lk2/articles/9a/9a4e7f83.json"
+    "file_name": "/tmp/news_lk2/articles/9c/9c05d719.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -566,6 +606,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dbd\u0dd4\u0dad\u0dd2\u0db1\u0dca \u0db6\u0dcf\u0dbb\u0d9c\u0dad\u0dca \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0d9a\u0db8 \u0d9c\u0dd0\u0db1 \u0dc4\u0dbb\u0dca\u0dc2\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/39/391a7441.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/really-real-manner-of-managing-sri-lanka-to-paris-and-back-1977-1990-jrj-years/",
+    "time_ut": 1661749890,
+    "original_lang": "en",
+    "original_title": "\u201cReally Real Manner Of Managing Sri Lanka\u201d\u00a0\u2013 \u2018To Paris and Back\u2019 1977-1990 (JRJ Years)",
+    "file_name": "/tmp/news_lk2/articles/95/95e4d9ab.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
