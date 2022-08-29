@@ -1,11 +1,83 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/principals-allowed-to-download-a-l-results/",
+    "time_ut": 1661745300,
+    "original_lang": "en",
+    "original_title": "Principals allowed to download A/L results",
+    "file_name": "/tmp/news_lk2/articles/88/88dd7b9b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0d85\u0db4\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda-\u0dc3\u0dd4\u0daf\u0dd4-\u0db1\u0dd2\u0dbb\u0dd6\u0db4\u0dd2\u0d9a\u0dcf\u0dc0\u0db1\u0dca\u0da7-\u0daf\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0dca-\u0dad\u0dc4\u0db1\u0db8\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/3-396689",
+    "time_ut": 1661745110,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db4\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda \u0dc3\u0dd4\u0daf\u0dd4 \u0db1\u0dd2\u0dbb\u0dd6\u0db4\u0dd2\u0d9a\u0dcf\u0dc0\u0db1\u0dca\u0da7 \u0daf\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0dca \u0dad\u0dc4\u0db1\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/52/52eeeab4.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf-\u0bae\u0bc1\u0bb4\u0b99\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0bae\u0b95\u0bbe\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0baf\u0bae\u0bcd-\u0b9a\u0bbe\u0ba4\u0ba9\u0bc8/72-303164",
+    "time_ut": 1661745030,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf \u0bae\u0bc1\u0bb4\u0b99\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0b95\u0bbe\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0baf\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/33/331aa516.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4-\u0dc3\u0dcf\u0db4\u0dca\u0db4\u0dd4-\u0dc3\u0d82\u0d9a\u0dd3\u0dbb\u0dca\u0dab-\u0d91\u0dc3\u0dca\u0d9a\u0dd0\u0dbd\u0dda\u0da7\u0dbb\u0dca-\u0d85\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/3-396687",
+    "time_ut": 1661744655,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4 \u0dc3\u0dcf\u0db4\u0dca\u0db4\u0dd4 \u0dc3\u0d82\u0d9a\u0dd3\u0dbb\u0dca\u0dab \u0d91\u0dc3\u0dca\u0d9a\u0dd0\u0dbd\u0dda\u0da7\u0dbb\u0dca \u0d85\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/6d/6d0857a4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/slpp-district-leaders-in-colombo-today-29/",
+    "time_ut": 1661744520,
+    "original_lang": "en",
+    "original_title": "SLPP District leaders in Colombo today (29)",
+    "file_name": "/tmp/news_lk2/articles/1d/1d35bc7f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-deploy-money-laundering-law-against-public-amid-forex-trouble-99133/",
+    "time_ut": 1661744220,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to deploy money laundering law against public amid forex trouble",
+    "file_name": "/tmp/news_lk2/articles/16/16e393f5.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda-\u0db4\u0dd4\u0d82\u0da0\u0dd2-\u0dc3\u0db7\u0dcf\u0dc0\u0dbd-\u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0ddd-\u0d85\u0daf-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/1-618901",
+    "time_ut": 1661743419,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda \u0db4\u0dd4\u0d82\u0da0\u0dd2 \u0dc3\u0db7\u0dcf\u0dc0\u0dbd \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0ddd \u0d85\u0daf \u0d9a\u0ddc\u0dc5\u0db9\u0da7",
+    "file_name": "/tmp/news_lk2/articles/b3/b337a70e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/SL-envoy-woos-Chinese-investment-in-solar-wind-energy/342-243918",
+    "time_ut": 1661743412,
+    "original_lang": "en",
+    "original_title": "SL envoy woos Chinese investment in solar, wind energy",
+    "file_name": "/tmp/news_lk2/articles/af/afae8dbe.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1\u0dba-\u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1\u0dba\u0dda-\u0dad\u0dcf\u0dba\u0dd2\u0db4\u0dda-\u0d85\u0dc3\u0dbd-\u0db1\u0dd0\u0dc0\u0dca-\u0dc3\u0dc4-\u0da2\u0dd9\u0da7\u0dca-\u0dba\u0ddc\u0daf\u0dc0\u0dba\u0dd2/3-396685",
     "time_ut": 1661743069,
     "original_lang": "si",
     "original_title": "\u0da0\u0dd3\u0db1\u0dba \u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1\u0dba\u0dda \u0dad\u0dcf\u0dba\u0dd2\u0db4\u0dda \u0d85\u0dc3\u0dbd \u0db1\u0dd0\u0dc0\u0dca \u0dc3\u0dc4 \u0da2\u0dd9\u0da7\u0dca \u0dba\u0ddc\u0daf\u0dc0\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/3a/3a85dc1e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0db6\u0dd2\u0dbd\u0dda-\u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba-\u0d85\u0daf/101-618900",
+    "time_ut": 1661743041,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db6\u0dd2\u0dbd\u0dda \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba \u0d85\u0daf",
+    "file_name": "/tmp/news_lk2/articles/ca/caa1ae62.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -25,11 +97,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d9a\u0dca\u0dc2-20-\u0d9c\u0d82\u0da2\u0dcf-\u0dc3\u0db8\u0d9c-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/101-618897",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d9a\u0dca\u0dc2-20-\u0d9c\u0d82\u0da2\u0dcf-\u0dc3\u0db8\u0d9c-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/1-618897",
     "time_ut": 1661741645,
     "original_lang": "si",
     "original_title": "\u0dbd\u0d9a\u0dca\u0dc2 20 \u0d9c\u0d82\u0da2\u0dcf \u0dc3\u0db8\u0d9c \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7",
-    "file_name": "/tmp/news_lk2/articles/ee/ee7a83cd.json"
+    "file_name": "/tmp/news_lk2/articles/da/dac675fe.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -190,6 +262,14 @@
     "original_lang": "en",
     "original_title": "Economic crisis could be overcome with IMF interventions: Eran Wickramaratne expresses hope",
     "file_name": "/tmp/news_lk2/articles/22/229acbf3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0db1\u0dca-\u0dba\u0dd4\u0daf-\u0db1\u0dd0\u0dc0\u0dca-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0da0\u0dd3\u0db1\u0dba-\u0d85\u0dc0\u0dd4\u0dc3\u0dca\u0dc3\u0dba\u0dd2/1-618890",
+    "time_ut": 1661728668,
+    "original_lang": "si",
+    "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0db1\u0dca \u0dba\u0dd4\u0daf \u0db1\u0dd0\u0dc0\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0da0\u0dd3\u0db1\u0dba \u0d85\u0dc0\u0dd4\u0dc3\u0dca\u0dc3\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/39/39a4f205.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -7918,85 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad\u0da7 \u0db8\u0dd4\u0dc0\u0dcf\u0dc0\u0dd3 \u0d9c\u0dd9\u0db1\u0dba\u0db1 \u0db8\u0dbb\u0dca\u0daf\u0db1\u0dba\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0da2\u0dd2\u0db1\u0dd3\u0dc0\u0dcf \u0dba\u0db1\u0dc0\u0dcf",
     "file_name": "/tmp/news_lk2/articles/3b/3b6aa097.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc0\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0b95\u0bcd-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bbe\u0bb2\u0bcd-9-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0b9a\u0bc6\u0bb2\u0bb5\u0bc1/175-302901",
-    "time_ut": 1661266473,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0bc0\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bbe\u0bb2\u0bcd 9 \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/0a/0a12a1a8.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-continuing-payments-to-multilateral-creditors-minister-98920/",
-    "time_ut": 1661265600,
-    "original_lang": "en",
-    "original_title": "Sri Lanka continuing payments to multilateral creditors: Minister",
-    "file_name": "/tmp/news_lk2/articles/6a/6a2218e4.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/an-english-language-primer-focused-on-sri-lanka-raising-alarm-bells-on-sri-lankan-english/",
-    "time_ut": 1661265546,
-    "original_lang": "en",
-    "original_title": "An English Language Primer Focused On Sri Lanka: Raising Alarm Bells On Sri Lankan English",
-    "file_name": "/tmp/news_lk2/articles/b5/b50d08f0.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-shares-slip-on-profit-taking-in-lolc-jkh-98930/",
-    "time_ut": 1661265420,
-    "original_lang": "en",
-    "original_title": "Sri Lanka shares slip on profit taking in LOLC, JKH",
-    "file_name": "/tmp/news_lk2/articles/76/76c1ba9b.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0bae\u0ba9\u0bcb/175-302900",
-    "time_ut": 1661265339,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0bae\u0ba9\u0bcb",
-    "file_name": "/tmp/news_lk2/articles/a8/a856eecf.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Super-Diesel-cargo-to-be-unloaded-tomorrow-more-fuel-expected-Minister/108-243582",
-    "time_ut": 1661265216,
-    "original_lang": "en",
-    "original_title": "Super Diesel cargo to be unloaded tomorrow, more fuel expected: Minister",
-    "file_name": "/tmp/news_lk2/articles/dd/dd500f85.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/PTA-a-must-to-tackle-terrorism-Cabinet-Spokesman/342-243581",
-    "time_ut": 1661264930,
-    "original_lang": "en",
-    "original_title": "PTA, a must to tackle terrorism: Cabinet Spokesman",
-    "file_name": "/tmp/news_lk2/articles/8d/8df328ec.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-to-set-up-rehabilitation-bureau-for-addicts-militants-extremists-98931/",
-    "time_ut": 1661264700,
-    "original_lang": "en",
-    "original_title": "Sri Lanka to set up rehabilitation bureau for \u2018addicts, militants, extremists\u2019",
-    "file_name": "/tmp/news_lk2/articles/dd/dd1c400d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/BASL-urges-President-to-refrain-from-using-PTA-against-protesters/108-243580",
-    "time_ut": 1661264612,
-    "original_lang": "en",
-    "original_title": "BASL urges President to refrain from using PTA against protesters",
-    "file_name": "/tmp/news_lk2/articles/8d/8d7eeb0b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/QR-code-leaves-Bowser-filling-station-owners-in-dire-straits/108-243579",
-    "time_ut": 1661264405,
-    "original_lang": "en",
-    "original_title": "QR code leaves Bowser, filling station owners in dire straits",
-    "file_name": "/tmp/news_lk2/articles/15/15b57d10.json"
   }
 ]

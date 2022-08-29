@@ -1,0 +1,264 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/08/29/principals-allowed-to-download-a-l-results/",
+  "time_ut": 1661745300,
+  "original_lang": "en",
+  "original_title": "Principals allowed to download A/L results",
+  "text_idx": {
+    "en": {
+      "title": "Principals allowed to download A/L results",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st); The Department of Education says school principals can download 2021 G.C.E Advanced Level results from Monday (29).",
+        "Commissioner-General of Examinations L.M.D. Dharmasena said that applicants who wish to retake the A/L exam can submit applications online until the 8th of September.",
+        "The GCE Advanced Level Examination 2021 results were released on Sunday (28).",
+        "According to the Examinations Department, a total of 272,682 candidates sat for the A/L exam, out of which 171,497 candidates have qualified for university entrance.",
+        "The results of 49 candidates were suspended, noted the Department of Examination."
+      ],
+      "title_ents": [
+        {
+          "text": "A/L",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "The Department of Education",
+            "label": "ORG"
+          },
+          {
+            "text": "2021",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "G.C.E Advanced Level",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Monday",
+            "label": "DATE"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "the 8th of September",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Sunday",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "the Examinations Department",
+            "label": "ORG"
+          },
+          {
+            "text": "272,682",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "171,497",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "49",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Department of Examination",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0db6\u0dcf\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7 \u0d85\u0dc0\u0dc3\u0dbb",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); 2021 \u0d85\u0db0\u0dca\u200d\u0dba\u0dba\u0db1 \u0db4\u0ddc\u0daf\u0dd4 \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0db4\u0dad\u0dca\u200d\u0dbb \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0dc3\u0db3\u0dd4\u0daf\u0dcf (29) \u0dc3\u0dd2\u0da7 \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7 \u0db6\u0dcf\u0d9c\u0dad \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0db6\u0dc0 \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0dc0\u0dd2\u0db7\u0dcf\u0d9c \u0d9a\u0ddc\u0db8\u0dc3\u0dcf\u0dbb\u0dd2\u0dc3\u0dca \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0d91\u0dbd\u0dca.\u0d91\u0db8\u0dca.\u0da9\u0dd3. \u0db0\u0dbb\u0dca\u0db8\u0dc3\u0dda\u0db1 \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7 \u0db1\u0dd0\u0dc0\u0dad \u0db4\u0dd9\u0db1\u0dd3 \u0dc3\u0dd2\u0da7\u0dd3\u0db8\u0da7 \u0d9a\u0dd0\u0db8\u0dad\u0dd2 \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 8 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0da2\u0dcf\u0dbd\u0dba \u0dc4\u0dbb\u0dc4\u0dcf \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0db6\u0dc0\u0dba\u0dd2.",
+        "2021 \u0d85\u0db0\u0dca\u200d\u0dba\u0dba\u0db1 \u0db4\u0ddc\u0daf\u0dd4 \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0db4\u0dad\u0dca\u200d\u0dbb \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0d89\u0dbb\u0dd2\u0daf\u0dcf (28) \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0dc0\u0dd2\u0db7\u0dcf\u0d9c \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca 272,682 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0db4\u0dd9\u0db1\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2 \u0d85\u0dad\u0dbb, \u0d89\u0db1\u0dca \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a\u0dba\u0dd2\u0db1\u0dca 171,497 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dbd\u0db6\u0dcf \u0d87\u0dad.",
+        "\u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca 49 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dcf \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d85\u0dbd\u0dca",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d85\u0db0\u0dca\u0dba\u0dcf\u0db4\u0db1 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "2021",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "G.C.E \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 8 \u0dc0\u0dd9\u0db1\u0dd2\u0daf\u0dcf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0dbb\u0dd2\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0db7\u0dcf\u0d9c \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "272,682 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "171,497 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "49",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0db7\u0dcf\u0d9c \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbf\u0bb1\u0b95\u0bcd\u0b95 \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (29) \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 2021 G.C.E \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bc8 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb2\u0bbe\u0bae\u0bcd \u0b8e\u0ba9 \u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0ba4\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd \u0b8e\u0bb2\u0bcd.\u0b8e\u0bae\u0bcd.\u0b9f\u0bbf. \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0\u0baa\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0baf\u0bc8 \u0bae\u0bc0\u0bb3 \u0b8e\u0bb4\u0bc1\u0ba4 \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 8 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bb5\u0bb0\u0bc8 \u0b86\u0ba9\u0bcd\u0bb2\u0bc8\u0ba9\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0bae\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0ba4\u0bb0\u0bcd\u0bae\u0b9a\u0bc7\u0ba9 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "2021\u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95.\u0baa\u0bca.\u0ba4 \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0\u0baa\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bcd \u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (28) \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9.",
+        "\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0b9f\u0bbf, \u0bae\u0bca\u0ba4\u0bcd\u0ba4\u0bae\u0bcd 272,682 \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd A/L \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bcb\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd, \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 171,497 \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0ba8\u0bc1\u0bb4\u0bc8\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0b95\u0bc1\u0ba4\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "49 \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bcd \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b8f/\u0b8e\u0bb2\u0bcd",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "2021",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "G.C.E \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bbf\u0bb2\u0bc8",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 8 \u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "272,682",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "171,497",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "49",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc1\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
