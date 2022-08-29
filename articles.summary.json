@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84620/japan-hands-over-food-donation-to-help-sri-lanka-respond-to-rising-food-insecurity",
+    "time_ut": 1661798280,
+    "original_lang": "en",
+    "original_title": "Japan hands over food donation to help Sri Lanka respond to rising food insecurity",
+    "file_name": "/tmp/news_lk2/articles/1c/1c7c9450.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Need-to-reform-PTA-ahead-of-UNHRC-session/172-243970",
+    "time_ut": 1661795818,
+    "original_lang": "en",
+    "original_title": "Need to reform PTA ahead of UNHRC session",
+    "file_name": "/tmp/news_lk2/articles/c7/c7d27bd2.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Shooting-at-Mattakkuliya-injures-one/108-243968",
     "time_ut": 1661795416,

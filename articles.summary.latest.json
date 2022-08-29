@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84620/japan-hands-over-food-donation-to-help-sri-lanka-respond-to-rising-food-insecurity",
+    "time_ut": 1661798280,
+    "original_lang": "en",
+    "original_title": "Japan hands over food donation to help Sri Lanka respond to rising food insecurity",
+    "file_name": "/tmp/news_lk2/articles/1c/1c7c9450.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Need-to-reform-PTA-ahead-of-UNHRC-session/172-243970",
+    "time_ut": 1661795818,
+    "original_lang": "en",
+    "original_title": "Need to reform PTA ahead of UNHRC session",
+    "file_name": "/tmp/news_lk2/articles/c7/c7d27bd2.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Shooting-at-Mattakkuliya-injures-one/108-243968",
     "time_ut": 1661795416,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka bills yields up, rupee peg steady",
     "file_name": "/tmp/news_lk2/articles/26/26e41c82.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc6\u0bb0\u0bcd\u0ba9\u0bb0\u0bbf\u0ba9\u0bcd-\u0baa\u0bbf\u0b9f\u0bbf\u0baf\u0bbe\u0ba3\u0bc8-\u0bae\u0bc0\u0bb3\u0baa\u0bcd\u0baa\u0bc6\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1/175-302944",
-    "time_ut": 1661344243,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bc6\u0bb0\u0bcd\u0ba9\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0baf\u0bbe\u0ba3\u0bc8 \u0bae\u0bc0\u0bb3\u0baa\u0bcd\u0baa\u0bc6\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/d9/d9d5b74e.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0d9c\u0dcf-\u0dc4\u0dcf\u0db1\u0dd2-\u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0dc0\u0db1-\u0d85\u0dbd\u0dd2\u0dba\u0dcf-\u0d89\u0dc0\u0dad\u0da7/11-396583",
-    "time_ut": 1661344179,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0d9c\u0dcf \u0dc4\u0dcf\u0db1\u0dd2 \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc0\u0db1 \u0d85\u0dbd\u0dd2\u0dba\u0dcf \u0d89\u0dc0\u0dad\u0da7",
-    "file_name": "/tmp/news_lk2/articles/c6/c640f59a.json"
   }
 ]
