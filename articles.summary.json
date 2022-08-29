@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Softlogic-launches-Walton-brand-in-Sri-Lanka/34-739247",
+    "time_ut": 1661810025,
+    "original_lang": "en",
+    "original_title": "Softlogic launches Walton brand in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/7c/7cb3f062.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Opposition-proposes-dole-for-lower-income-classes-hit-by-electricity-tariff-hike/56-739246",
+    "time_ut": 1661809717,
+    "original_lang": "en",
+    "original_title": "Opposition proposes dole for lower income classes hit by electricity tariff hike",
+    "file_name": "/tmp/news_lk2/articles/bd/bdc7d782.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Kanchana-defends-electricity-tariff-hike/56-739245",
+    "time_ut": 1661809587,
+    "original_lang": "en",
+    "original_title": "Kanchana defends electricity tariff hike",
+    "file_name": "/tmp/news_lk2/articles/c9/c9e4fcf6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Maithri-vows-to-form-Govt-with-leftist-Opposition-parties/56-739244",
+    "time_ut": 1661809384,
+    "original_lang": "en",
+    "original_title": "Maithri vows to form Govt. with leftist Opposition parties",
+    "file_name": "/tmp/news_lk2/articles/e4/e4833ef4.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84620/japan-hands-over-food-donation-to-help-sri-lanka-respond-to-rising-food-insecurity",
     "time_ut": 1661798280,
