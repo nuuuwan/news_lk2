@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/financial-services/HNB-Assurance-achieves-37-GWP-growth-during-1H/42-739252",
+    "time_ut": 1661810863,
+    "original_lang": "en",
+    "original_title": "HNB Assurance achieves 37% GWP growth during 1H",
+    "file_name": "/tmp/news_lk2/articles/bc/bc31ee64.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/financial-services/AIA-delivers-resilient-performance-in-1H/42-739251",
+    "time_ut": 1661810603,
+    "original_lang": "en",
+    "original_title": "AIA delivers resilient performance in 1H",
+    "file_name": "/tmp/news_lk2/articles/ed/ed83424a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/financial-services/Union-Assurance-expands-lifestyle-ecosystem-with-Clicklife-app-digital-rewards/42-739250",
+    "time_ut": 1661810553,
+    "original_lang": "en",
+    "original_title": "Union Assurance expands lifestyle ecosystem with Clicklife app digital rewards",
+    "file_name": "/tmp/news_lk2/articles/1f/1f77ec0e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Heart-to-Heart-International-US-donates-8-m-worth-of-urgent-medicines-to-Sri-Lanka/56-739249",
+    "time_ut": 1661810399,
+    "original_lang": "en",
+    "original_title": "Heart to Heart International US donates $ 8 m worth of urgent medicines to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/b5/b58d39d3.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Deutsche-Bank-donates-Rs-16-5-m-to-provide-relief-to-Sri-Lankan-citizens/56-739248",
+    "time_ut": 1661810319,
+    "original_lang": "en",
+    "original_title": "Deutsche Bank donates Rs. 16.5 m to provide relief to Sri Lankan citizens",
+    "file_name": "/tmp/news_lk2/articles/4d/4d1d93b8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Softlogic-launches-Walton-brand-in-Sri-Lanka/34-739247",
     "time_ut": 1661810025,
     "original_lang": "en",
