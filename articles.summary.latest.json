@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0db4\u0dcf\u0dbd\u0db1-\u0db6\u0dbd\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd-\u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd2\u0dbd\u0dd2-\u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca-\u0d85\u0db1\u0dd4\u0db8\u0dad-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7/101-618957",
+    "time_ut": 1661772779,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0db4\u0dcf\u0dbd\u0db1 \u0db6\u0dbd\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd \u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd2\u0dbd\u0dd2 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db8\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/6e/6e5ed1bf.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0b9a\u0bbf\u0bb2\u0bcd-\u0bb5\u0b9a\u0ba8\u0bcd\u0ba4-\u0baa\u0bbf\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8/175-303194",
+    "time_ut": 1661772533,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bbf\u0b9a\u0bbf\u0bb2\u0bcd \u0bb5\u0b9a\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/f7/f72b0422.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/man-of-the-hole-last-of-his-tribe-dies-in-brazil/",
+    "time_ut": 1661772300,
+    "original_lang": "en",
+    "original_title": "\u2018Man of the Hole\u2019: Last of his tribe dies in Brazil",
+    "file_name": "/tmp/news_lk2/articles/98/98b54b76.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/lawyer-goes-to-court-against-slpp-mp-sanath-nishantha/",
+    "time_ut": 1661771700,
+    "original_lang": "en",
+    "original_title": "Lawyer goes to court against SLPP MP Sanath Nishantha",
+    "file_name": "/tmp/news_lk2/articles/d0/d04b3a8a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84613/new-members-appointed-to-several-parliamentary-committees",
     "time_ut": 1661771460,
@@ -16,12 +48,20 @@
     "file_name": "/tmp/news_lk2/articles/4d/4d4d32b8.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd/175-303189",
+    "time_ut": 1661770919,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd  \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/2b/2b2e80a2.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d91\u0da2\u0dcf\u0db4-\u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb-\u0d8b\u0dad\u0dca\u0dc3\u0dc0-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba-\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0dca-\u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca/1-618956",
+    "url": "https://www.lankadeepa.lk/news/\u0d91\u0da2\u0dcf\u0db4-\u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb-\u0d8b\u0dad\u0dca\u0dc3\u0dc0-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba-\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0dca-\u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca/101-618956",
     "time_ut": 1661770243,
     "original_lang": "si",
     "original_title": "\u0d91\u0da2\u0dcf\u0db4 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb \u0d8b\u0dad\u0dca\u0dc3\u0dc0 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba \u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0dca \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/6d/6d4d518d.json"
+    "file_name": "/tmp/news_lk2/articles/a9/a956def7.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -102,6 +142,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka power & energy minister defends \u201cnecessary\u201d electricity tariff hike",
     "file_name": "/tmp/news_lk2/articles/24/2445bf03.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0db4\u0dcf\u0dbd\u0db1-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd-\u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd2\u0dbd\u0dd2-\u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca-\u0d85\u0db1\u0dd4\u0db8\u0dad-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0d9c\u0dad-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7/11-396703",
+    "time_ut": 1661766794,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0db4\u0dcf\u0dbd\u0db1 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd \u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd2\u0dbd\u0dd2 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db8\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0d9c\u0dad \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/f9/f97f11fc.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1",
     "file_name": "/tmp/news_lk2/articles/41/414e237d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0db8\u0dca\u0db4\u0dc4-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4-\u0db8\u0dbb\u0dd4\u0da7/11-396576",
-    "time_ut": 1661330138,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0db8\u0dca\u0db4\u0dc4 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4 \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/b9/b9ce3fab.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84506/arrest-warrant-recalled-after-pathum-kerner-surrenders-to-court",
-    "time_ut": 1661329740,
-    "original_lang": "en",
-    "original_title": "Arrest warrant recalled after Pathum Kerner surrenders to court",
-    "file_name": "/tmp/news_lk2/articles/8e/8e6bb094.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddd\u0db4\u0dca--\u0d9a\u0ddd\u0db4\u0dcf-\u0db4\u0dad\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca-\u0d9c\u0dd0\u0db1-\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4-\u0dbd\u0dda\u0d9a\u0db8\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a\u0dca/1-618675",
-    "time_ut": 1661329668,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddd\u0db4\u0dca, \u0d9a\u0ddd\u0db4\u0dcf \u0db4\u0dad\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0d9c\u0dd0\u0db1 \u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4 \u0dbd\u0dda\u0d9a\u0db8\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/35/35c02f66.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dc4\u0dd4\u0d82\u0d9c\u0dbd\u0dca\u0dbd\u0dd9\u0dad\u0dca-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca:\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0dad\u0dd4\u0dc0\u0dcf\u0dbd-\u0dbd\u0db6\u0dba\u0dd2/1-618674",
-    "time_ut": 1661329504,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dc4\u0dd4\u0d82\u0d9c\u0dbd\u0dca\u0dbd\u0dd9\u0dad\u0dca \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca:\u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dbd\u0db6\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/48/485b933f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Two-shootings-in-Gampaha-and-Ahungalla-kills-one-injured-another/108-243643",
-    "time_ut": 1661329385,
-    "original_lang": "en",
-    "original_title": "Two shootings in Gampaha and Ahungalla kills one, injured another",
-    "file_name": "/tmp/news_lk2/articles/85/856c8bfd.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dc4\u0dd4\u0db1\u0dca\u0d9c\u0dbd\u0dca\u0dbd\u0dda-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/11-396575",
-    "time_ut": 1661329020,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dc4\u0dd4\u0db1\u0dca\u0d9c\u0dbd\u0dca\u0dbd\u0dda \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
-    "file_name": "/tmp/news_lk2/articles/44/442da17f.json"
   }
 ]
