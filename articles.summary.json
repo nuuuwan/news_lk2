@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Mobile-phone-accessory-prices-to-go-up-again-Communication-Owners-Assn/342-243942",
+    "time_ut": 1661782505,
+    "original_lang": "en",
+    "original_title": "Mobile phone, accessory prices to go up again: Communication Owners\u2019 Assn",
+    "file_name": "/tmp/news_lk2/articles/1f/1fc619e1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84617/exams-chief-on-the-release-of-gce-ol-results",
+    "time_ut": 1661782380,
+    "original_lang": "en",
+    "original_title": "Exams chief on the release of GCE O/L results",
+    "file_name": "/tmp/news_lk2/articles/12/120031f4.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/29/sinharaja-hotel-built-abiding-by-all-legal-aspects-rohitha-warns-of-legal-action-against-allegations/",
+    "url": "https://www.newsfirst.lk/2022/08/29/sinharaja-hotel-is-legal-rohitha-warns-legal-action-against-allegations/",
     "time_ut": 1661780880,
     "original_lang": "en",
-    "original_title": "Sinharaja hotel built abiding by all legal aspects; Rohitha warns of legal action against allegations",
-    "file_name": "/tmp/news_lk2/articles/94/948d5662.json"
+    "original_title": "\u201cSinharaja Hotel is Legal\u201d: Rohitha warns Legal Action Against Allegations.",
+    "file_name": "/tmp/news_lk2/articles/12/1280f578.json"
   },
   {
     "newspaper_id": "ada-derana-lk",

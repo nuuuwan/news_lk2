@@ -1,48 +1,52 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 19:45:33 (LK time)*
+*As of 2022-08-29 19:56:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **1** news-first-lk ([Sinharaja hotel built abiding by all legal aspects; Rohitha warns of legal action against allegations](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/948d5662.json))
+* **1** daily-mirror-lk ([Mobile phone, accessory prices to go up again: Communication Owners’ Assn](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fc619e1.json))
 
-## Last Hour (2 Articles)
+* **1** ada-derana-lk ([Exams chief on the release of GCE O/L results](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/120031f4.json))
 
-* **1** news-first-lk ([Sinharaja hotel built abiding by all legal aspects; Rohitha warns of legal action against allegations](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/948d5662.json))
+## Last Hour (4 Articles)
 
-* **1** ada-derana-lk ([Power cuts of 2 hours and 20 minutes for next four days](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e301caf.json))
+* **2** ada-derana-lk ([Power cuts of 2 hours and 20 minutes for next four days](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e301caf.json))
 
-## Last 3 Hours (28 Articles)
+* **1** daily-mirror-lk ([Mobile phone, accessory prices to go up again: Communication Owners’ Assn](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fc619e1.json))
+
+* **1** news-first-lk ([“Sinharaja Hotel is Legal”: Rohitha warns Legal Action Against Allegations.](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/1280f578.json))
+
+## Last 3 Hours (29 Articles)
 
 * **7** tamil-mirror-lk ([சிசில் வசந்த பிணையில் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f72b0422.json))
 
 * **6** lankadeepa-lk ([පළාත් පාලන බලප්‍රදේශවල ගොඩනැගිලි සැලසුම් අනුමත කිරීම ඔන්ලයින් ක්‍රමයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e16f8ccb.json))
 
-* **5** news-first-lk ([‘Man of the Hole’: Last of his tribe dies in Brazil](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/98b54b76.json))
+* **4** daily-mirror-lk ([CEB should be restructured; excess staff retrenched: Aluthgamage](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/325d5519.json))
 
-* **3** ada-derana-lk ([14-year-old boy passes GCE A/L exam](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73e152ec.json))
+* **4** ada-derana-lk ([14-year-old boy passes GCE A/L exam](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73e152ec.json))
 
-* **3** daily-mirror-lk ([CEB should be restructured; excess staff retrenched: Aluthgamage](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/325d5519.json))
+* **4** news-first-lk ([Japan Hands Over Food Donation to Help Sri Lanka Respond to Rising Food Insecurity](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e31b3c9e.json))
 
 * **2** economy-next-com ([Sri Lanka schedules power cuts of 2 hours 20 mins from August 30](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4dcc042.json))
 
 * **2** ada-lk ([රේගු උකුස්සෝ හසුකරගත් රන් ජාවාරම](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb7303a7.json))
 
-## Last 24 Hours (208 Articles)
+## Last 24 Hours (207 Articles)
 
 * **47** lankadeepa-lk ([වානිජ අංශයේ කප් එක රත්නාවලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1dbb264.json))
 
 * **33** news-first-lk ([Opposition Leader questions Govt’s coal deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/dedc94b2.json))
 
-* **29** tamil-mirror-lk ([நாளைய மின்வெட்டு அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6401ddc.json))
+* **28** tamil-mirror-lk ([அரச நிறுவனங்களுக்குக் காலக்கெடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dbd4717.json))
 
-* **25** ada-lk ([දෙකෝටියක රන් හා රිදී ආභරණ අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5aef27e.json))
+* **23** ada-derana-lk ([Best results of 2021 GCE A/L exam](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f528411.json))
 
-* **22** ada-derana-lk ([Best results of 2021 GCE A/L exam](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f528411.json))
+* **23** ada-lk ([උසස්පෙළ හපන්න්නු මෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70701618.json))
 
-* **21** daily-mirror-lk ([Chinese company refuses to budge](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c2ce780.json))
+* **22** daily-mirror-lk ([Chinese company refuses to budge](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c2ce780.json))
 
 * **14** economy-next-com ([Sri Lanka schedules power cuts of 3 hours on August 29](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83fda56f.json))
 
@@ -54,19 +58,19 @@
 
 * **1** d-b-s-jeyaraj-com ([Appapillai Amirthalingam: From Enfant Terrible of ITAK to TULF Elder Statesman](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23bc5767.json))
 
-## Last Week (1,401 Articles)
+## Last Week (1,399 Articles)
 
 * **263** lankadeepa-lk ([ලංකාවේ ප්‍රජාතන්ත්‍රවාදය ක්‍රමක්‍රමයෙන් විනාශ කරනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6a41a41.json))
 
-* **212** news-first-lk ([Sri Lankan Apparel exporters at Sourcing at Magic in Las Vegas](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5af4ca40.json))
+* **211** news-first-lk ([Assault on Deshabandu: Eight suspects plead guilty, and released on bail](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0213884a.json))
 
 * **178** tamil-mirror-lk ([கோட்டாவுக்குப் பாதுகாப்பு வேண்டும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2f999dd.json))
 
-* **174** daily-mirror-lk ([Two Sri Lankan origin Canadians among Top 25 Canadian Immigrants of 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/723dc702.json))
+* **172** daily-mirror-lk ([Documenting the struggle to release their own](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/891e3b81.json))
 
 * **162** ada-lk ([අත්අඩංගුවට ගැනීිම් ගැන සනත් කනස්සල්ලෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a5569fe.json))
 
-* **148** ada-derana-lk ([Sri Lanka expecting IMF funding by year-end if all goes to plan: CBSL chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/221f720e.json))
+* **149** ada-derana-lk ([Sri Lanka expecting IMF funding by year-end if all goes to plan: CBSL chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/221f720e.json))
 
 * **106** economy-next-com ([Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e7d91a9.json))
 
@@ -78,7 +82,7 @@
 
 * **9** colombo-telegraph-com ([Wickremesinghe/Rajapaksa – An Axis Of Evil](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afed3211.json))
 
-## All Time (3,618 Articles)
+## All Time (3,620 Articles)
 
 * **654** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -86,11 +90,11 @@
 
 * **458** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **451** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
+* **452** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
 * **403** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
-* **349** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
+* **350** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
 * **250** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 
