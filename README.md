@@ -1,36 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 22:46:38 (LK time)*
+*As of 2022-08-29 23:01:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** lankadeepa-lk ([වයස 13  සාපෙළ ජයගත් සනහස් 15 උසස් පෙළ ජය ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1a0616a.json))
 
-## Last Hour (3 Articles)
-
-* **1** lankadeepa-lk ([වයස 13  සාපෙළ ජයගත් සනහස් 15 උසස් පෙළ ජය ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1a0616a.json))
-
-* **1** ada-lk ([නාසා හඳ තරණය එන්ජිමේ දෝෂයක් නිසා නතර වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d90de855.json))
-
-* **1** tamil-mirror-lk ([சனத் நிஷாந்தவுக்கு எதிராக மனுத்தாக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5ace913e.json))
-
-## Last 3 Hours (19 Articles)
+## Last 3 Hours (16 Articles)
 
 * **6** tamil-mirror-lk ([மின்வெட்டு நேரத்தை  குறைப்பதில் சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdb0bc1a.json))
 
 * **4** lankadeepa-lk ([මහකනදරාවේ වැලි ව්‍යාපෘතියක් පරිසරය වනසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc6acfe8.json))
 
-* **3** ada-lk ([විදුලි කප්පාදුව විනාඩි 40කින් අඩුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/215e9d17.json))
+* **2** ada-lk ([ඉතිහාසගත වන විසර්ජන පනත් කෙටුම්පත හෙට පාර්ලිමේන්තුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efc358e6.json))
 
-* **3** daily-mirror-lk ([To face food crisis...](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/912ea562.json))
+* **2** daily-mirror-lk ([Joes qualify for semis of President’s Trophy](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3ca18158.json))
 
-* **2** news-first-lk ([US will support Sri Lanka through IMF, if agreement can be reached](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01d349e3.json))
+* **1** news-first-lk ([Still, no Chairmen to COPE & COPA, why the delay? – Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1347fba6.json))
 
 * **1** ada-derana-lk ([US will redouble efforts to support Sri Lanka - Ambassador Chung](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e5a32d9.json))
 
-## Last 24 Hours (211 Articles)
+## Last 24 Hours (210 Articles)
 
 * **44** lankadeepa-lk ([ඇමෙරිකන් යුද නැව් දෙකක් චීනය අවුස්සයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d141287.json))
 
@@ -52,11 +44,9 @@
 
 * **2** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
-* **1** d-b-s-jeyaraj-com ([Appapillai Amirthalingam: From Enfant Terrible of ITAK to TULF Elder Statesman](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23bc5767.json))
+## Last Week (1,384 Articles)
 
-## Last Week (1,388 Articles)
-
-* **261** lankadeepa-lk ([අපේ සේලයින් යුරෝපා වෙළෙඳ පොළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac99a2be.json))
+* **260** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43863138.json))
 
 * **211** news-first-lk ([3-hour power cuts today](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41c9a5b.json))
 
@@ -72,7 +62,7 @@
 
 * **60** daily-ft-lk ([Saying no to authoritarian governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26c5c9.json))
 
-* **57** island-lk ([The dangerous betrayal of trust](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93819366.json))
+* **54** island-lk ([Profit-takings in Lanka IOC, Expolanka Holdings and Lankem Development; turnover Rs. 4.9 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4b6b03a.json))
 
 * **22** d-b-s-jeyaraj-com ([“How could a public protest campaign, dubbed as peaceful, destroy 70 houses and 600  other properties belonging to as many as 72 MPs, within a matter of 24 hours? Asks SLPP Gen Secy Sagara  Kariyawasam](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/689df5af.json))
 
