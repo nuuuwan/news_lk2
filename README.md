@@ -1,36 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 23:42:01 (LK time)*
+*As of 2022-08-29 23:55:46 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (3 Articles)
 
 * **1** daily-mirror-lk ([Shooting at Mattakkuliya injures one](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e6cc0f0.json))
-
-## Last Hour (4 Articles)
-
-* **2** daily-mirror-lk ([US will support SL through IMF, if agreement reached: Julie Chung](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3f4b9b7.json))
 
 * **1** tamil-mirror-lk ([கஞ்சனவின் கோரிக்கையை ஏற்றார் சம்பிக்க](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92eb4055.json))
 
 * **1** ada-derana-lk ([Foreign Minister to address 51st session of UNHRC](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf6c5e85.json))
 
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (14 Articles)
 
 * **5** tamil-mirror-lk ([பாணின் விலை ரூ.300ஐ தாண்டும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a01f3252.json))
 
 * **3** daily-mirror-lk ([Price of bread could rise to Rs.300? - Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aed58c1.json))
 
-* **3** lankadeepa-lk ([හිතේ හයියෙන් දිවිය ජයගත් රශ්මි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8f5245e.json))
-
 * **2** ada-derana-lk ([US will redouble efforts to support Sri Lanka - Ambassador Chung](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e5a32d9.json))
+
+* **2** lankadeepa-lk ([රත්මලාන දුම්රිය වැඩපොළ සොරුගෙන් බේරාගැනීමට ආරක්ෂක වැඩපිළිවෙළක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09a235d0.json))
 
 * **1** ada-lk ([නාසා හඳ තරණය එන්ජිමේ දෝෂයක් නිසා නතර වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d90de855.json))
 
 * **1** news-first-lk ([Still, no Chairmen to COPE & COPA, why the delay? – Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1347fba6.json))
 
-## Last 24 Hours (213 Articles)
+## Last 24 Hours (212 Articles)
 
 * **44** lankadeepa-lk ([ඇමෙරිකන් යුද නැව් දෙකක් චීනය අවුස්සයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d141287.json))
 
@@ -38,9 +34,9 @@
 
 * **30** tamil-mirror-lk ([தேர்தலில் போட்டியிட இளைஞர்களுக்கு வாய்ப்பு: ஜீவன் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87d85a3f.json))
 
-* **27** daily-mirror-lk ([Chinese company refuses to budge](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c2ce780.json))
-
 * **27** ada-lk ([උසස්පෙළ හපන්න්නු මෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70701618.json))
+
+* **26** daily-mirror-lk ([Fascists, neo fascists, and SL’s future](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f196abda.json))
 
 * **23** ada-derana-lk ([Six Indian fishermen arrested by Sri Lanka Navy](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/430b4e3f.json))
 
