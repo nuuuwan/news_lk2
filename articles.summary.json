@@ -1,6 +1,142 @@
 [
   {
     "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1\u0dba-\u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1\u0dba\u0dda-\u0dad\u0dcf\u0dba\u0dd2\u0db4\u0dda-\u0d85\u0dc3\u0dbd-\u0db1\u0dd0\u0dc0\u0dca-\u0dc3\u0dc4-\u0da2\u0dd9\u0da7\u0dca-\u0dba\u0ddc\u0daf\u0dc0\u0dba\u0dd2/3-396685",
+    "time_ut": 1661743069,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1\u0dba \u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1\u0dba\u0dda \u0dad\u0dcf\u0dba\u0dd2\u0db4\u0dda \u0d85\u0dc3\u0dbd \u0db1\u0dd0\u0dc0\u0dca \u0dc3\u0dc4 \u0da2\u0dd9\u0da7\u0dca \u0dba\u0ddc\u0daf\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/3a/3a85dc1e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/No-pity-for-Sri-Lanka-by-donor-nations-SLFP/108-243905",
+    "time_ut": 1661741999,
+    "original_lang": "en",
+    "original_title": "No pity for Sri Lanka by donor nations: SLFP",
+    "file_name": "/tmp/news_lk2/articles/c0/c062c3f1.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db4\u0dd4\u2018\u0dbb-\u0dbb\u0ddd\u0dc4\u0dbd\u0dda-\u0dad\u0db9-\u0d9a\u0db8\u0dca\u0db6\u0dd2-\u0d8b\u0dc3\u0dca\u0dc3\u0dbd\u0dcf/101-618898",
+    "time_ut": 1661741942,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db4\u0dd4\u2018\u0dbb \u0dbb\u0ddd\u0dc4\u0dbd\u0dda \u0dad\u0db9 \u0d9a\u0db8\u0dca\u0db6\u0dd2 \u0d8b\u0dc3\u0dca\u0dc3\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/dc/dc14f017.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d9a\u0dca\u0dc2-20-\u0d9c\u0d82\u0da2\u0dcf-\u0dc3\u0db8\u0d9c-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/101-618897",
+    "time_ut": 1661741645,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d9a\u0dca\u0dc2 20 \u0d9c\u0d82\u0da2\u0dcf \u0dc3\u0db8\u0d9c \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7",
+    "file_name": "/tmp/news_lk2/articles/ee/ee7a83cd.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dda-\u0db8\u0dd0\u0daf-\u0db1\u0dd2\u0db0\u0dcf\u0db1\u0dca-\u0dc4\u0dd1\u0dbb\u0dd6-\u0db4\u0dc4\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/101-618896",
+    "time_ut": 1661741392,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dda \u0db8\u0dd0\u0daf \u0db1\u0dd2\u0db0\u0dcf\u0db1\u0dca \u0dc4\u0dd1\u0dbb\u0dd6 \u0db4\u0dc4\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7",
+    "file_name": "/tmp/news_lk2/articles/09/09be4dc9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/sri-lanka-navy-seizes-indian-trawler-during-weekend/",
+    "time_ut": 1661741280,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Navy seizes Indian trawler during weekend",
+    "file_name": "/tmp/news_lk2/articles/bb/bb61d268.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb-\u0d9a\u0ddd\u0da7\u0dd2\u0db4\u0dad\u0dd2-\u0d9a\u0dad\u0d9c\u0dda-\u0d9d\u0dcf\u0dad\u0d9a\u0dba\u0dcf-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-618895",
+    "time_ut": 1661741068,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb \u0d9a\u0ddd\u0da7\u0dd2\u0db4\u0dad\u0dd2 \u0d9a\u0dad\u0d9c\u0dda \u0d9d\u0dcf\u0dad\u0d9a\u0dba\u0dcf \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4d/4dc54610.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0dc4\u0dad\u0dbb\u0d9a\u0da7-\u0dad\u0daf-\u0dc0\u0dd0\u0dc3\u0dd2/101-618894",
+    "time_ut": 1661740577,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0dc4\u0dad\u0dbb\u0d9a\u0da7 \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ae/aeefcf97.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/thunder-showers-for-several-areas-today-29/",
+    "time_ut": 1661740440,
+    "original_lang": "en",
+    "original_title": "Thunder showers for several areas today (29)",
+    "file_name": "/tmp/news_lk2/articles/71/71049b7b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u2018\u0daf\u0dd3\u0dbb\u0dca\u0d9d-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19\u2019-\u0dc3\u0dad\u0dca\u200d\u0dba\u0dba\u0d9a\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/11-396683",
+    "time_ut": 1661739947,
+    "original_lang": "si",
+    "original_title": "\u2018\u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca 19\u2019 \u0dc3\u0dad\u0dca\u200d\u0dba\u0dba\u0d9a\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/5b/5b582312.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0bb3\u0bc1\u0bae\u0bcd-\u0b95\u0b9f\u0bcd\u0b9a\u0bbf-\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1-\u0b95\u0bc1\u0bb4\u0bc1-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1/175-303161",
+    "time_ut": 1661739294,
+    "original_lang": "ta",
+    "original_title": "\u0b86\u0bb3\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b95\u0bc1\u0bb4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/18/181803c1.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-tax-revenues-grow-29-pct-up-to-may-amid-inflation-99128/",
+    "time_ut": 1661738880,
+    "original_lang": "en",
+    "original_title": "Sri Lanka tax revenues grow 29-pct up to May amid inflation",
+    "file_name": "/tmp/news_lk2/articles/bd/bddaddb2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1-\u0dc3\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb-\u0dc3\u0db1\u0dca\u0db0\u0dd2\u0dba-\u0dc4\u0dbb\u0dc4\u0dcf-\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0da2\u0db1\u0db4\u0daf-\u0dba\u0dd4\u0daf-\u0db1\u0dde\u0d9a\u0dcf/3-396682",
+    "time_ut": 1661738847,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1 \u0dc3\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb \u0dc3\u0db1\u0dca\u0db0\u0dd2\u0dba \u0dc4\u0dbb\u0dc4\u0dcf \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0dba\u0dd4\u0daf \u0db1\u0dde\u0d9a\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/c8/c8d9c4af.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0ba9\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0ba3-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bc7\u0bb3\u0bc8-\u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd/175-303160",
+    "time_ut": 1661738843,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbf\u0ba9\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0ba3 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bc7\u0bb3\u0bc8 \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/30/30c4ac89.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84598/evening-thundershowers-in-several-provinces-during-next-few-days",
+    "time_ut": 1661738760,
+    "original_lang": "en",
+    "original_title": "Evening thundershowers in several provinces during next few days",
+    "file_name": "/tmp/news_lk2/articles/6f/6ff9e792.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0dc4\u0dad\u0dbb\u0d9a\u0da7-\u0dc0\u0dc4\u0dd2\u0db1\u0dca\u0db1-\u0dc0\u0dcf\u0dba\u0dd4\u0d9c\u0ddd\u0dbd\u0dba-\u0dc4\u0dd0\u0daf\u0dd9\u0dba\u0dd2/11-396680",
+    "time_ut": 1661738421,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0dc4\u0dad\u0dbb\u0d9a\u0da7 \u0dc0\u0dc4\u0dd2\u0db1\u0dca\u0db1 \u0dc0\u0dcf\u0dba\u0dd4\u0d9c\u0ddd\u0dbd\u0dba \u0dc4\u0dd0\u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/70/70bbd893.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0bb0\u0bc8\u0ba4\u0bc0\u0bb5\u0bc1-\u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd-\u0b85\u0b95\u0bbf\u0bb2-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0b9f\u0bae\u0bcd/175-303159",
+    "time_ut": 1661738250,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbe\u0bb0\u0bc8\u0ba4\u0bc0\u0bb5\u0bc1 \u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd \u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/ab/abd712fe.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0db4\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba-\u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb-\u0db1\u0dd2\u0dc3\u0dcf-\u0db8\u0dbb\u0dab-1-000-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dcf-\u0dad\u0dd2\u0db6\u0dda/3-396679",
     "time_ut": 1661737427,
     "original_lang": "si",
@@ -81,11 +217,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/FITIS-tells-President-to-lift-import-ban-on-IT-devices-and-peripherals/273-243899",
+    "url": "https://www.dailymirror.lk/business/FITIS-tells-President-to-lift-import-ban-on-IT-devices-and-peripherals/215-243899",
     "time_ut": 1661722554,
     "original_lang": "en",
     "original_title": "FITIS tells President to lift import ban on IT devices and peripherals",
-    "file_name": "/tmp/news_lk2/articles/e2/e25a186f.json"
+    "file_name": "/tmp/news_lk2/articles/15/15fd0a1a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -110,6 +246,14 @@
     "original_lang": "en",
     "original_title": "Fascists, neo fascists, and SL\u2019s future",
     "file_name": "/tmp/news_lk2/articles/8b/8bec6554.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d8b\u0dc3\u0dc3\u0dca\u0db4\u0dd9\u0dc5-\u0dc4\u0db4\u0db1\u0dca\u0db1\u0dca\u0db1\u0dd4-\u0db8\u0dd9\u0db1\u0dca\u0db1/11-396677",
+    "time_ut": 1661714217,
+    "original_lang": "si",
+    "original_title": "\u0d8b\u0dc3\u0dc3\u0dca\u0db4\u0dd9\u0dc5 \u0dc4\u0db4\u0db1\u0dca\u0db1\u0dca\u0db1\u0dd4 \u0db8\u0dd9\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/70/70701618.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -190,6 +334,14 @@
     "original_lang": "en",
     "original_title": "The International Mathematical Olympiad",
     "file_name": "/tmp/news_lk2/articles/1b/1b210877.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79211",
+    "time_ut": 1661707200,
+    "original_lang": "en",
+    "original_title": "Appapillai Amirthalingam: From Enfant Terrible of ITAK to TULF Elder Statesman",
+    "file_name": "/tmp/news_lk2/articles/23/23bc5767.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -1374,6 +1526,22 @@
     "original_lang": "ta",
     "original_title": "\u0b86\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8\u0ba4\u0bcd \u0ba4\u0bcb\u0bb1\u0bcd\u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
     "file_name": "/tmp/news_lk2/articles/f8/f8873141.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79217",
+    "time_ut": 1661627700,
+    "original_lang": "en",
+    "original_title": "Indian Media had analyses of how Yuan Wang-5  berthing in Hambantota would compromise the security of India\u2019s  naval bases and satellite and missile launch sites The plain truth is Yuan Wang-5 is capable of carrying out all these actions even without docking in Hambantota port.",
+    "file_name": "/tmp/news_lk2/articles/b5/b545a093.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79213",
+    "time_ut": 1661627160,
+    "original_lang": "en",
+    "original_title": "\u201cWe want the 13th Amendment to be fully implemented. We want Sri Lanka to be constitutionally recognised as multi-ethnic, multi-lingual, and multi-religious in nature. My view, which is now picking up support, is that Sri Lanka should be a secular state.\u201d- TPA Leader Mano Ganesan",
+    "file_name": "/tmp/news_lk2/articles/a0/a01b3712.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",

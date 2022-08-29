@@ -1,0 +1,207 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d9a\u0dca\u0dc2-20-\u0d9c\u0d82\u0da2\u0dcf-\u0dc3\u0db8\u0d9c-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/101-618897",
+  "time_ut": 1661741645,
+  "original_lang": "si",
+  "original_title": "\u0dbd\u0d9a\u0dca\u0dc2 20 \u0d9c\u0d82\u0da2\u0dcf \u0dc3\u0db8\u0d9c \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7",
+  "text_idx": {
+    "en": {
+      "title": "A person is suspected with 20 lakhs of ganja",
+      "author": "unknown",
+      "body_lines": [
+        "A suspect was arrested by the Special Task Force in Kirulapana along with a stock of Kerala Ganja worth over twenty lakh rupees.",
+        "According to information that the suspect is ready to sell a stock of Kerala ganja, the troops have conducted this raid.",
+        "At the time of arrest, the suspect was in possession of more than 6 kilos of Kerala Ganja Kerala Ganja.",
+        "The arrested suspect is a resident of Kirulapana area and he and the stock of Kerala ganja have been handed over to the Kirulapana police for further investigations."
+      ],
+      "title_ents": [
+        {
+          "text": "20",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "the Special Task Force",
+            "label": "ORG"
+          },
+          {
+            "text": "Kirulapana",
+            "label": "GPE"
+          },
+          {
+            "text": "Kerala Ganja",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Kerala",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "more than 6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Kerala",
+            "label": "GPE"
+          },
+          {
+            "text": "Ganja Kerala Ganja",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Kirulapana",
+            "label": "GPE"
+          },
+          {
+            "text": "Kerala",
+            "label": "GPE"
+          },
+          {
+            "text": "Kirulapana",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dbd\u0d9a\u0dca\u0dc2 20 \u0d9c\u0d82\u0da2\u0dcf \u0dc3\u0db8\u0d9c \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7",
+      "author": "unknown",
+      "body_lines": [
+        "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0dbd\u0d9a\u0dca\u0dc2 \u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0d9a\u0da7 \u0d85\u0db0\u0dd2\u0d9a \u0dc0\u0da7\u0dd2\u0db1\u0dcf \u0d9a\u0dda\u0dbb\u0dbd \u0d9c\u0d82\u0da2\u0dcf \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0d9a\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd4\u0dc5\u0db4\u0db1 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0daf\u0dd3 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0db6\u0dc5\u0d9a\u0dcf\u0dba \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd9\u0db1 \u0d87\u0dad",
+        "\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4 \u0d9a\u0dda\u0dbb\u0dbd \u0d9c\u0d82\u0da2\u0dcf \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0db6\u0dc0\u0da7 \u0dbd\u0daf \u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0d9a\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0db7\u0da7 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dca \u0db8\u0dd9\u0db8 \u0dc0\u0dd0\u0da7\u0dbd\u0dd3\u0db8 \u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4 \u0dc3\u0db1\u0dca\u0dad\u0d9a\u0dba\u0dda \u0d9a\u0dda\u0dbb\u0dbd \u0d9c\u0d82\u0da2\u0dcf \u0d9a\u0dda\u0dbb\u0dc5 \u0d9c\u0d82\u0da2\u0dcf \u0d9a\u0dd2\u0dbd\u0ddd 6 \u0da7 \u0d85\u0db0\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0dca \u0dad\u0dd2\u0db6\u0dd3 \u0d87\u0dad.",
+        "\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dad\u0dca \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd4\u0dc5\u0db4\u0db1 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2\u0d9a\u0dbb\u0dd4\u0dc0\u0d9a\u0dd4 \u0db6\u0dc0\u0dad\u0dca \u0d94\u0dc4\u0dd4 \u0dc3\u0dc4 \u0d9a\u0dda\u0dbb\u0dbd \u0d9c\u0d82\u0da2\u0dcf \u0dad\u0ddc\u0d9c\u0dba \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0dc3\u0db3\u0dc4\u0dcf \u0d9a\u0dd2\u0dbb\u0dd4\u0dc5\u0db4\u0db1 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0da7 \u0db6\u0dcf\u0dbb \u0daf\u0dd3 \u0d87\u0dad."
+      ],
+      "title_ents": [
+        {
+          "text": "20",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0db6\u0dbd\u0d9a\u0dcf\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbb\u0dd4\u0dc5\u0db4\u0db1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0dda\u0dbb\u0dc5 \u0d9c\u0d82\u0da2\u0dcf",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dda\u0dbb\u0dbd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "6 \u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dda\u0dbb\u0dbd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9c\u0d82\u0da2\u0dcf \u0d9a\u0dda\u0dbb\u0dbd \u0d9c\u0d82\u0da2\u0dcf",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd2\u0dbb\u0dd4\u0dc5\u0db4\u0db1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0dda\u0dbb\u0dbd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbb\u0dd4\u0dc5\u0db4\u0db1",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "20 \u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0b95\u0b9e\u0bcd\u0b9a\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0ba8\u0baa\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b87\u0bb0\u0bc1\u0baa\u0ba4\u0bc1 \u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0b95\u0bc7\u0bb0\u0bb3 \u0b95\u0b9e\u0bcd\u0b9a\u0bbe \u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b9f\u0ba9\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bbf\u0bb0\u0bc1\u0bb2\u0baa\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bbe\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc7\u0bb0\u0bb3 \u0b95\u0b9e\u0bcd\u0b9a\u0bbe\u0bb5\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0ba4\u0baf\u0bbe\u0bb0\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95 \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4 \u0ba4\u0b95\u0bb5\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bae\u0bc8\u0baf, \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb5\u0bb3\u0bc8\u0baa\u0bcd\u0baa\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd 6 \u0b95\u0bbf\u0bb2\u0bcb\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0b95\u0bc7\u0bb0\u0bb3 \u0b95\u0b9e\u0bcd\u0b9a\u0bbe \u0b95\u0bc7\u0bb0\u0bb3\u0bbe \u0b95\u0b9e\u0bcd\u0b9a\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bbf\u0bb0\u0bc1\u0bb2\u0baa\u0bcd\u0baa\u0ba9\u0bc8 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd \u0b8e\u0ba9\u0bb5\u0bc1\u0bae\u0bcd, \u0b85\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b95\u0bc7\u0bb0\u0bb3 \u0b95\u0b9e\u0bcd\u0b9a\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0ba4\u0bbf\u0b95 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0bbf\u0bb0\u0bc1\u0bb2\u0baa\u0bcd\u0baa\u0ba9\u0bc8 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbf\u0b9f\u0bae\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "20",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb2\u0baa\u0bcd\u0baa\u0ba9\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb0\u0bb3 \u0b95\u0b9e\u0bcd\u0b9a\u0bbe",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "6 \u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0b9e\u0bcd\u0b9a\u0bbe \u0b95\u0bc7\u0bb0\u0bb3\u0bbe \u0b95\u0b9e\u0bcd\u0b9a\u0bbe",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb2\u0baa\u0bcd\u0baa\u0ba9\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb2\u0baa\u0bcd\u0baa\u0ba9\u0bc8",
+            "label": "GPE"
+          }
+        ]
+      ]
+    }
+  }
+}
