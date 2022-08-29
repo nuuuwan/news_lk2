@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 05:49:37 (LK time)*
+*As of 2022-08-29 05:55:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **3** daily-ft-lk ([Kanchana reviews progress of rapid renewable energy generation plan](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc8cdc97.json))
+* **1** daily-ft-lk ([GRI launches EARTH series of radial agriculture tyres](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae6d251a.json))
 
 ## Last Hour (6 Articles)
 
