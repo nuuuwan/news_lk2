@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/military-strategies-must-be-preserved-shavendra-tells-malwathu-theros/",
+    "time_ut": 1661774700,
+    "original_lang": "en",
+    "original_title": "Military strategies must be preserved; Shavendra tells Malwathu Theros",
+    "file_name": "/tmp/news_lk2/articles/3f/3fd71265.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0db1\u0dad\u0dca-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7-\u0d85\u0db4\u0dc4\u0dcf\u0dc3-\u0d9a\u0dc5\u0dd0\u0dba\u0dd2-\u0db1\u0dd2\u0dad\u0dd3\u0da5-\u0db4\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dbd\u0dcf\u0dbd\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0d9a\u0dca/101-618960",
+    "time_ut": 1661774479,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0db1\u0dad\u0dca \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7 \u0d85\u0db4\u0dc4\u0dcf\u0dc3 \u0d9a\u0dc5\u0dd0\u0dba\u0dd2 \u0db1\u0dd2\u0dad\u0dd3\u0da5 \u0db4\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dbd\u0dcf\u0dbd\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/50/506e6733.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd-\u0bb5\u0bb4\u0b99\u0bcd\u0b95-\u0b95\u0bcb\u0bb0\u0bbf-\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-303195",
+    "time_ut": 1661774056,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0b95\u0bcb\u0bb0\u0bbf  \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/e9/e926d868.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/japan-hands-over-food-donation-to-help-sri-lanka-respond-to-rising-food-insecurity/",
+    "time_ut": 1661773980,
+    "original_lang": "en",
+    "original_title": "Japan Hands Over Food Donation to Help Sri Lanka Respond to Rising Food Insecurity",
+    "file_name": "/tmp/news_lk2/articles/e3/e31b3c9e.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0db4\u0dcf\u0dbd\u0db1-\u0db6\u0dbd\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd-\u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd2\u0dbd\u0dd2-\u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca-\u0d85\u0db1\u0dd4\u0db8\u0dad-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7/101-618957",
     "time_ut": 1661772779,
@@ -7966,37 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0dbd\u0d82\u0d9c\u0ddc\u0da9 \u0d9a\u0dcf\u0dc1\u0dca\u200d\u0dba\u0db4 \u0dc4\u0dd2\u0db8\u0dd2 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
     "file_name": "/tmp/news_lk2/articles/59/5957675f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84508/ven-balangoda-kashyapa-thero-under-arrest",
-    "time_ut": 1661333220,
-    "original_lang": "en",
-    "original_title": "Ven. Balangoda Kashyapa Thero under arrest",
-    "file_name": "/tmp/news_lk2/articles/be/be2251c1.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dc4-\u0db6\u0dd0\u0d82\u0d9a\u0dd4-\u0d85\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7-\u0d85\u0dba\u0dc0\u0dd0\u0dba-\u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3-\u0daf\u0dda\u0dc1\u0db1\u0dba\u0d9a\u0dca/11-396578",
-    "time_ut": 1661332953,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d85\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7 \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0daf\u0dda\u0dc1\u0db1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/a3/a3753ac1.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-immigration-dept-opens-separate-passport-counter-for-job-seekers-98963/",
-    "time_ut": 1661331900,
-    "original_lang": "en",
-    "original_title": "Sri Lanka immigration dept opens separate passport counter for job seekers",
-    "file_name": "/tmp/news_lk2/articles/78/7874a378.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0da2\u0db4\u0dcf\u0db1-\u0d85\u0db0\u0dd2\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dba\u0dcf\u0d9c\u0dd9\u0db1\u0dca-\u0dc3\u0dd4\u0db6-\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca/11-396577",
-    "time_ut": 1661331479,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0da2\u0db4\u0dcf\u0db1 \u0d85\u0db0\u0dd2\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dba\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0dd4\u0db6 \u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/28/28963018.json"
   }
 ]
