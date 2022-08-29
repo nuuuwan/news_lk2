@@ -1,22 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 15:54:19 (LK time)*
+*As of 2022-08-29 16:03:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **1** lankadeepa-lk ([බන්ධනාගාර රැදවියෝ දෙදෙනෙක් උසස් පෙළ සමත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e37f5287.json))
 
 * **1** tamil-mirror-lk ([இரண்டு வாரங்களில் முட்டை விலையில் திருத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd042f5a.json))
-
-* **1** news-first-lk ([Weerawansa & Co. to form new ‘Historic Alliance’ on 4th September](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a66c0c87.json))
-
-* **1** ada-derana-lk ([Petition filed seeking punishment for Sanath Nishantha for contempt of court](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3bec2136.json))
-
-* **1** economy-next-com ([Sri Lanka power & energy minister defends “necessary” electricity tariff hike](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/2445bf03.json))
 
 ## Last Hour (10 Articles)
 
 * **3** ada-derana-lk ([Protest in front of UN Office in Colombo: hearing of case postponed](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7451045.json))
+
+* **2** lankadeepa-lk ([කාංචනගේ අභියෝගය පාඨලී බාරගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5ca880a8.json))
 
 * **2** ada-lk ([සාමූහික ගිවිසුම් අවලංගු කළ යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e858311.json))
 
@@ -26,29 +24,25 @@
 
 * **1** economy-next-com ([Sri Lanka power & energy minister defends “necessary” electricity tariff hike](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/2445bf03.json))
 
-* **1** lankadeepa-lk ([කාංචනගේ අභියෝගය පාඨලී බාරගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93d61cfc.json))
+## Last 3 Hours (30 Articles)
 
-* **1** daily-mirror-lk ([Move to privatize CEB on IMF conditions; similar move thwarted by JVP in 2005: Vijitha](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9a4e7f83.json))
-
-## Last 3 Hours (35 Articles)
-
-* **9** lankadeepa-lk ([සාම්ප්‍රදායික නැට්ටුවාගේ අඳුරු වන්නම](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f3adc72.json))
-
-* **6** news-first-lk ([SLAF recognizes children who excelled G5 exam](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c662db49.json))
+* **9** lankadeepa-lk ([යුනිසෙෆ් වාර්තාව ගැන විවාදයක් ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37c274b5.json))
 
 * **6** ada-derana-lk ([Govt. decides to sell 49% stake in SriLankan Catering](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c62bdaaa.json))
 
-* **5** tamil-mirror-lk ([விமல் எம்.பிக்கு எதிரான வழக்கு தொடர்பில் தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b885345e.json))
+* **5** news-first-lk ([Sri Lanka calls for EOI for SriLankan Catering & Ground Handling](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8ddf4388.json))
 
-* **4** economy-next-com ([Sri Lanka’s “independent” parties to launch grand coalition on September 04](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dc8457b.json))
+* **4** tamil-mirror-lk ([மின்கட்டண உயர்வுக்கான காரணத்தை சபையில் கூறிய அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ec16882.json))
 
-* **3** ada-lk ([මන්ත්‍රීවරුන්ට පාඩම් කියා දෙන්න ගිය දිනයේ වෙනසක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac9b20b9.json))
+* **3** economy-next-com ([Sri Lanka to sell 49-percent stake of national carrier’s catering, ground-handling units](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b392e55.json))
 
-* **2** daily-mirror-lk ([Entrust fuel, coal procurement process to opposition: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/731fe4b4.json))
+* **2** ada-lk ([සාමූහික ගිවිසුම් අවලංගු කළ යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e858311.json))
 
-## Last 24 Hours (205 Articles)
+* **1** daily-mirror-lk ([Move to privatize CEB on IMF conditions; similar move thwarted by JVP in 2005: Vijitha](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9a4e7f83.json))
 
-* **43** lankadeepa-lk ([උසස් පෙළ ප්‍රතිඵල නිකුත් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e63f100b.json))
+## Last 24 Hours (206 Articles)
+
+* **44** lankadeepa-lk ([උසස් පෙළ ප්‍රතිඵල නිකුත් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e63f100b.json))
 
 * **34** news-first-lk ([Police seek public assistance to identify 72 suspects](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3fe744.json))
 
@@ -72,7 +66,7 @@
 
 ## Last Week (1,415 Articles)
 
-* **266** lankadeepa-lk ([නිවාස අමාත්‍යාංශයේ මහජන දිනයට වාසුත් ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6ab3ceb.json))
+* **267** lankadeepa-lk ([නිවාස අමාත්‍යාංශයේ මහජන දිනයට වාසුත් ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6ab3ceb.json))
 
 * **209** news-first-lk ([Suspects should not be wrongly treated as terrorists : Human Rights Commission](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f55abb9.json))
 
@@ -80,7 +74,7 @@
 
 * **176** daily-mirror-lk ([Defence Ministry signs detention orders to detain IUSF convenor and two others for 90 days](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21f1609b.json))
 
-* **168** ada-lk ([අධිවේගීයට යෙදවූ මුදලින් සියයට 10ක් පොදු ප්‍රවාහනයට යොදා තිබුණා නම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f425551.json))
+* **167** ada-lk ([ජනාධිපති ප්‍රජා කටයුතු අධ්‍යක්ෂ ජනරාල් රජිත් කීර්ති](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2981dc76.json))
 
 * **150** ada-derana-lk ([90-day detention orders issued on IUSF convenor and two others](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71d2ab43.json))
 
@@ -94,9 +88,9 @@
 
 * **8** colombo-telegraph-com ([Wickremesinghe/Rajapaksa – An Axis Of Evil](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afed3211.json))
 
-## All Time (3,576 Articles)
+## All Time (3,577 Articles)
 
-* **646** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **647** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **455** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 

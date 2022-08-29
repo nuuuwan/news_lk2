@@ -174,7 +174,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0d91.\u0da2\u0dcf",
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
             "label": "ORG"
           },
           {
@@ -182,7 +182,7 @@
             "label": "GPE"
           },
           {
-            "text": "\u0d91.\u0da2\u0dcf",
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
             "label": "ORG"
           },
           {
@@ -264,7 +264,7 @@
       ],
       "title_ents": [
         {
-          "text": "\u0b90.\u0ba8\u0bbe \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
+          "text": "\u0b90\u0ba8\u0bbe \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
           "label": "ORG"
         },
         {
