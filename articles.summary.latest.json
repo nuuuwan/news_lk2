@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dd2\u0dbb\u0dd2\u0dbd\u0dca-\u0dc0\u0dc3\u0db1\u0dca\u0dad\u0da7-\u0d87\u0db4/101-618947",
+    "time_ut": 1661760005,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dd2\u0dbb\u0dd2\u0dbd\u0dca \u0dc0\u0dc3\u0db1\u0dca\u0dad\u0da7 \u0d87\u0db4",
+    "file_name": "/tmp/news_lk2/articles/4c/4c66eeb8.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-sell-49-percent-stake-of-national-carriers-catering-ground-handling-units-99145/",
+    "time_ut": 1661759940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to sell 49-percent stake of national carrier\u2019s catering, ground-handling units",
+    "file_name": "/tmp/news_lk2/articles/8b/8b392e55.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0db8\u0dbd\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2-\u0db1\u0da9\u0dd4\u0dc0\u0d9a\u0dca-\u0daf\u0dd9\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dba\u0da7-\u0d9a\u0dbd\u0dca-\u0dba\u0dba\u0dd2/101-618946",
+    "time_ut": 1661759730,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0db8\u0dbd\u0dca\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0db1\u0da9\u0dd4\u0dc0\u0d9a\u0dca \u0daf\u0dd9\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dba\u0da7 \u0d9a\u0dbd\u0dca \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4b/4b5d8b15.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/2021-a-l-top-ranks-results-available-online/",
+    "time_ut": 1661759700,
+    "original_lang": "en",
+    "original_title": "2021 A/L Top Ranks \u2013 Results available online",
+    "file_name": "/tmp/news_lk2/articles/b7/b7e9bd67.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84607/govt-decides-to-sell-49-stake-in-srilankan-catering",
+    "time_ut": 1661759640,
+    "original_lang": "en",
+    "original_title": "Govt. decides to sell 49% stake in SriLankan Catering",
+    "file_name": "/tmp/news_lk2/articles/c6/c62bdaaa.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7\u0dda-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0dc0\u0dd2\u0dc3\u0db3\u0dd2\u0dba-\u0dc4\u0dd0\u0d9a\u0dca\u0d9a\u0dda-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0d91\u0d9a\u0d9c\u0dad\u0dcf\u0dc0\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0db8\u0dab\u0dba\u0dd2/101-618944",
+    "time_ut": 1661759423,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da7\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0dc0\u0dd2\u0dc3\u0db3\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dca\u0d9a\u0dda \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d91\u0d9a\u0d9c\u0dad\u0dcf\u0dc0\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0db8\u0dab\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/22/22125a22.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/court-calls-for-report-on-dhaniz-ali-case/",
+    "time_ut": 1661759400,
+    "original_lang": "en",
+    "original_title": "Court calls for report on Dhaniz Ali case",
+    "file_name": "/tmp/news_lk2/articles/61/615b2c74.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0ba9\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0ba3-\u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0b95\u0bbe\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8-\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bc2\u0bb1\u0bbf\u0baf-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd/175-303181",
     "time_ut": 1661759102,
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ape Jana Bala Party Chairman arrested",
     "file_name": "/tmp/news_lk2/articles/33/33afc669.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84501/leader-of-ape-jana-bala-pakshaya-arrested",
-    "time_ut": 1661320980,
-    "original_lang": "en",
-    "original_title": "Leader of \u2018Ape Jana Bala Pakshaya\u2019 arrested",
-    "file_name": "/tmp/news_lk2/articles/79/7978f85a.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0ba8\u0bc6\u0b9f\u0bc1\u0b9e\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0bca\u0bb0\u0bbf\u0baf-\u0bae\u0bca\u0bb4\u0bbf-\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/95-302921",
-    "time_ut": 1661320958,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bc6\u0b9f\u0bc1\u0b9e\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0bb0\u0bbf\u0baf \u0bae\u0bca\u0bb4\u0bbf \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/61/61d7d46c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u2019\u2019\u0dad\u0dc0\u0db8-\u0daf\u0dd4\u0dc0\u0db1\u0dca\u0db1\u0dda-\u0db4\u0dbb\u0dab-\u0db6\u0dc3\u0dca-\u0d91\u0d9a\u2019\u2019/1-618665",
-    "time_ut": 1661320336,
-    "original_lang": "si",
-    "original_title": "\u2019\u2019\u0dad\u0dc0\u0db8 \u0daf\u0dd4\u0dc0\u0db1\u0dca\u0db1\u0dda \u0db4\u0dbb\u0dab \u0db6\u0dc3\u0dca \u0d91\u0d9a\u2019\u2019",
-    "file_name": "/tmp/news_lk2/articles/4a/4a94f607.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84500/talks-between-imf-and-sri-lanka-kick-off",
-    "time_ut": 1661319480,
-    "original_lang": "en",
-    "original_title": "Talks between IMF and Sri Lanka kick off",
-    "file_name": "/tmp/news_lk2/articles/fd/fddd7e0f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dda\u0d9c\u0dba-\u0db4\u0dcf\u0dbd\u0db1\u0dba-\u0d9a\u0dbb-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2\u0dc0-\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae\u0dba-\u0dc0\u0dd0\u0dc0\u0da7/11-396568",
-    "time_ut": 1661319361,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dda\u0d9c\u0dba \u0db4\u0dcf\u0dbd\u0db1\u0dba \u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2\u0dc0 \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba \u0dc0\u0dd0\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/fa/fa954db5.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dd3-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca-\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0db1\u0dca-\u0db7\u0dcf\u0dc2\u0dcf-\u0d9c\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dd2\u0dba-\u0db8\u0dbb\u0dd4\u0da7/1-618664",
-    "time_ut": 1661318931,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dd3 \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0db1\u0dca \u0db7\u0dcf\u0dc2\u0dcf \u0d9c\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dd2\u0dba \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/0e/0ec2480e.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/times_column/\u0dbb\u0da2-\u0d9c\u0dd9\u0daf\u0dbb\u0da7\u0dad\u0dca-\u0daf\u0dd0\u0db1\u0dd9\u0db1-\u0dad\u0db1\u0dd2\u0d9a\u0db8--\u0db4\u0dcf\u0dc5\u0dd4\u0dc0/119-618663",
-    "time_ut": 1661318832,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0da2 \u0d9c\u0dd9\u0daf\u0dbb\u0da7\u0dad\u0dca \u0daf\u0dd0\u0db1\u0dd9\u0db1 \u0dad\u0db1\u0dd2\u0d9a\u0db8, \u0db4\u0dcf\u0dc5\u0dd4\u0dc0",
-    "file_name": "/tmp/news_lk2/articles/5b/5b8690b6.json"
   }
 ]
