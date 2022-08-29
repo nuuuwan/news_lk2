@@ -1,0 +1,198 @@
+{
+  "newspaper_id": "ada-derana-lk",
+  "url": "http://www.adaderana.lk/news/84616/power-cuts-of-2-hours-and-20-minutes-for-next-four-days",
+  "time_ut": 1661780340,
+  "original_lang": "en",
+  "original_title": "Power cuts of 2 hours and 20 minutes for next four days",
+  "text_idx": {
+    "en": {
+      "title": "Power cuts of 2 hours and 20 minutes for next four days",
+      "author": "unknown",
+      "body_lines": [
+        "The Public Utilities Commission of Sri Lanka (PUCSL) has approved power cuts of 02 hours and 20 minutes from August 30 to September 02.",
+        "Accordingly, the power cuts for the next four days will be imposed as follows:",
+        "Groups ABCDEFGHIJKLPQRSTUVW \u2013 01 hour during daytime and 01 hour and 20 minutes during night."
+      ],
+      "title_ents": [
+        {
+          "text": "2 hours and 20 minutes",
+          "label": "TIME"
+        },
+        {
+          "text": "next four days",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The Public Utilities Commission of Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "PUCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "02 hours and 20 minutes",
+            "label": "TIME"
+          },
+          {
+            "text": "August 30 to September 02",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "the next four days",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Groups ABCDEFGHIJKLPQRSTUVW",
+            "label": "ORG"
+          },
+          {
+            "text": "01 hour",
+            "label": "TIME"
+          },
+          {
+            "text": "daytime and",
+            "label": "TIME"
+          },
+          {
+            "text": "01 hour and 20 minutes during night",
+            "label": "TIME"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0daf\u0dd2\u0db1 \u0dc4\u0dad\u0dbb \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dd0\u0dba 2 \u0dba\u0dd2 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 20 \u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 30 \u0dc3\u0dd2\u0da7 \u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 02 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dd0\u0dba 02 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 20 \u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca \u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0 (PUCSL) \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba \u0dbd\u0db6\u0dcf\u0daf\u0dd3 \u0d87\u0dad.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0daf\u0dd2\u0db1 4 \u0dad\u0dd4\u0dc5 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0db4\u0dc4\u0dad \u0db4\u0dbb\u0dd2\u0daf\u0dd2 \u0db4\u0db1\u0dc0\u0db1\u0dd4 \u0dbd\u0dd0\u0db6\u0dda.",
+        "\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dca ABCDEFGHIJKLPQRSTUVW - \u0daf\u0dd2\u0dc0\u0dcf \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0db4\u0dd0\u0dba 01 \u0dc3\u0dc4 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dda \u0db4\u0dd0\u0dba 01 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 20."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0db4\u0dd0\u0dba 2 \u0dba\u0dd2 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 20 \u0dba\u0dd2",
+          "label": "TIME"
+        },
+        {
+          "text": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0daf\u0dd2\u0db1 \u0dc4\u0dad\u0dbb",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "PUCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 02 \u0dba\u0dd2 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 20 \u0dba\u0dd2",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 30 \u0dc3\u0dd2\u0da7 \u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 02 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0daf\u0dd2\u0db1 \u0dc4\u0dad\u0dbb",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dca ABCDEFGHIJKLPQRSTUVW",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 01 \u0dba\u0dd2",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0daf\u0dd2\u0dc0\u0dcf \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0dc3\u0dc4",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0db4\u0dd0\u0dba 01 \u0dba\u0dd2 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 20 \u0dba\u0dd2",
+            "label": "TIME"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 2 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd 20 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 (PUCSL) \u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 30 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 02 \u0bb5\u0bb0\u0bc8 02 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bcd 20 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b85\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bbf\u0ba9\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0bb1\u0bc1:",
+        "\u0b95\u0bc1\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd ABCDEFGHIJKLPQRSTUVW - \u0baa\u0b95\u0bb2\u0bcd \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 01 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd 01 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd 20 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "2 \u0bae\u0ba3\u0bbf 20 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+          "label": "TIME"
+        },
+        {
+          "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "PUCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "02 \u0bae\u0ba3\u0bbf 20 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 30 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 02 \u0bb5\u0bb0\u0bc8",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd ABCDEFGHIJKLPQRSTUVW",
+            "label": "ORG"
+          },
+          {
+            "text": "01 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0baa\u0b95\u0bb2\u0bcd\u0ba8\u0bc7\u0bb0 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd 01 \u0bae\u0ba3\u0bbf 20 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "TIME"
+          }
+        ]
+      ]
+    }
+  }
+}

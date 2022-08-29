@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84616/power-cuts-of-2-hours-and-20-minutes-for-next-four-days",
+    "time_ut": 1661780340,
+    "original_lang": "en",
+    "original_title": "Power cuts of 2 hours and 20 minutes for next four days",
+    "file_name": "/tmp/news_lk2/articles/0e/0e301caf.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-stocks-end-at-near-3-wk-low-after-falling-five-sessions-turnover-slumps-to-1-mth-low-99147/",
     "time_ut": 1661778900,
@@ -30,6 +38,14 @@
     "original_lang": "en",
     "original_title": "14-year-old boy successfully sits for A/L exam",
     "file_name": "/tmp/news_lk2/articles/3d/3dc9d9ef.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84615/14-year-old-boy-passes-gce-al-exam",
+    "time_ut": 1661778360,
+    "original_lang": "en",
+    "original_title": "14-year-old boy passes GCE A/L exam",
+    "file_name": "/tmp/news_lk2/articles/73/73e152ec.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Businessman gunned down by motorcycle gunmen",
     "file_name": "/tmp/news_lk2/articles/bc/bc4b9b0c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/24/sri-lanka-urge-china-to-change-stance-on-debt-relief/",
-    "time_ut": 1661337900,
-    "original_lang": "en",
-    "original_title": "Sri Lanka urge China to change stance on debt relief",
-    "file_name": "/tmp/news_lk2/articles/7e/7e8a628e.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd/175-302932",
-    "time_ut": 1661337873,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/a7/a793c5ea.json"
   }
 ]
