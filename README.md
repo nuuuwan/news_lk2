@@ -1,14 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-30 02:53:30 (LK time)*
+*As of 2022-08-30 03:17:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (1 Articles)
-
-* **1** ada-derana-lk ([Japan hands over food donation to help Sri Lanka respond to rising food insecurity](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c7c9450.json))
-
-## Last 24 Hours (204 Articles)
+## Last 24 Hours (201 Articles)
 
 * **44** lankadeepa-lk ([ඇමෙරිකන් යුද නැව් දෙකක් චීනය අවුස්සයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d141287.json))
 
@@ -16,11 +12,11 @@
 
 * **28** tamil-mirror-lk ([காரைதீவு மாணவன் அகில இலங்கை ரீதியில் முதலிடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd712fe.json))
 
-* **26** daily-mirror-lk ([FITIS tells President to lift import ban on IT devices and peripherals](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15fd0a1a.json))
-
 * **26** ada-lk ([පකිස්ථානය ගංවතුර නිසා මරණ 1,000 ඉක්මවා තිබේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb82c652.json))
 
 * **23** ada-derana-lk ([Evening thundershowers in several provinces during next few days](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6ff9e792.json))
+
+* **23** daily-mirror-lk ([No pity for Sri Lanka by donor nations: SLFP](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c062c3f1.json))
 
 * **12** economy-next-com ([Sri Lanka tax revenues grow 29-pct up to May amid inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bddaddb2.json))
 
@@ -28,7 +24,7 @@
 
 * **2** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
-## Last Week (1,366 Articles)
+## Last Week (1,362 Articles)
 
 * **260** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43863138.json))
 
@@ -36,7 +32,7 @@
 
 * **176** tamil-mirror-lk ([இன்று கடும் மழை](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/260025e9.json))
 
-* **174** daily-mirror-lk ([US $ 18tn wiped off from global markets in first half of 2022, WFE data reveals](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57b15b7e.json))
+* **170** daily-mirror-lk ([Silent protest near Slave Island Police station](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55b2fd01.json))
 
 * **160** ada-lk ([මන්ත්‍රීට පහරදී බේරේ වැවට  තල්ලුකළ තරුණිය අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73a17ca7.json))
 
