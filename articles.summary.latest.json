@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Move-to-privatize-CEB-on-IMF-conditions-similar-move-thwarted-by-JVP-in-2005-Vijitha/108-243932",
+    "time_ut": 1661765159,
+    "original_lang": "en",
+    "original_title": "Move to privatize CEB on IMF conditions; similar move thwarted by JVP in 2005: Vijitha",
+    "file_name": "/tmp/news_lk2/articles/9a/9a4e7f83.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0d82\u0da2\u0dd2\u0db1\u0dda\u0dbb\u0dd4-\u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd-\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4-\u0dc0\u0dd0\u0da7\u0dd4\u0db4-\u0d89\u0dbd\u0dca\u0dbd\u0dad\u0dd2/1-618952",
+    "time_ut": 1661764389,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0d82\u0da2\u0dd2\u0db1\u0dda\u0dbb\u0dd4 \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 \u0dc0\u0dd0\u0da7\u0dd4\u0db4 \u0d89\u0dbd\u0dca\u0dbd\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/fc/fca8219e.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0daf\u0dd2\u0d9c\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/101-618951",
     "time_ut": 1661764104,
@@ -81,11 +97,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0db8\u0dbd\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2-\u0db1\u0da9\u0dd4\u0dc0\u0d9a\u0dca-\u0daf\u0dd9\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dba\u0da7-\u0d9a\u0dbd\u0dca-\u0dba\u0dba\u0dd2/101-618946",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0db8\u0dbd\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2-\u0db1\u0da9\u0dd4\u0dc0\u0d9a\u0dca-\u0daf\u0dd9\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dba\u0da7-\u0d9a\u0dbd\u0dca-\u0dba\u0dba\u0dd2/1-618946",
     "time_ut": 1661759730,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0db8\u0dbd\u0dca\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0db1\u0da9\u0dd4\u0dc0\u0d9a\u0dca \u0daf\u0dd9\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dba\u0da7 \u0d9a\u0dbd\u0dca \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/4b/4b5d8b15.json"
+    "file_name": "/tmp/news_lk2/articles/9e/9e7d3645.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -105,11 +121,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7\u0dda-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0dc0\u0dd2\u0dc3\u0db3\u0dd2\u0dba-\u0dc4\u0dd0\u0d9a\u0dca\u0d9a\u0dda-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0d91\u0d9a\u0d9c\u0dad\u0dcf\u0dc0\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0db8\u0dab\u0dba\u0dd2/101-618944",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da7\u0dda-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0dc0\u0dd2\u0dc3\u0db3\u0dd2\u0dba-\u0dc4\u0dd0\u0d9a\u0dca\u0d9a\u0dda-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0d91\u0d9a\u0d9c\u0dad\u0dcf\u0dc0\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0db8\u0dab\u0dba\u0dd2/1-618944",
     "time_ut": 1661759423,
     "original_lang": "si",
     "original_title": "\u0dbb\u0da7\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0dc0\u0dd2\u0dc3\u0db3\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dca\u0d9a\u0dda \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d91\u0d9a\u0d9c\u0dad\u0dcf\u0dc0\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0db8\u0dab\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/22/22125a22.json"
+    "file_name": "/tmp/news_lk2/articles/54/540e259c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -313,11 +329,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/visheshanga/\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab-\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0d9a--\u0dc0\u0dd4\u0dc0\u0db8\u0db1\u0dcf\u0dc0/26-618932",
+    "url": "https://www.lankadeepa.lk/features/\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab-\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0d9a--\u0dc0\u0dd4\u0dc0\u0db8\u0db1\u0dcf\u0dc0/2-618932",
     "time_ut": 1661753297,
     "original_lang": "si",
     "original_title": "\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0d9a- \u0dc0\u0dd4\u0dc0\u0db8\u0db1\u0dcf\u0dc0",
-    "file_name": "/tmp/news_lk2/articles/73/73e38cfd.json"
+    "file_name": "/tmp/news_lk2/articles/d6/d6563715.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -401,11 +417,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Govt-agrees-to-submit-documents-in-Parliament-over-Ranjans-release/342-243927",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-agrees-to-submit-documents-in-Parliament-over-Ranjans-release/108-243927",
     "time_ut": 1661751938,
     "original_lang": "en",
     "original_title": "Govt. agrees to submit documents in Parliament over Ranjan\u2019s release",
-    "file_name": "/tmp/news_lk2/articles/b5/b599d696.json"
+    "file_name": "/tmp/news_lk2/articles/8f/8f8bcdbe.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -606,6 +622,14 @@
     "original_lang": "si",
     "original_title": "\u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba\u0dda \u0daf\u0dd3 \u0dad\u0dd1\u0d9c\u0dca\u0d9c\u0d9a\u0dca \u0daf\u0dd4\u0db1\u0dca \u0db8\u0ddd\u0dc4\u0dd2\u0dab\u0dd3 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
     "file_name": "/tmp/news_lk2/articles/83/83a1319b.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/central-bank-independence-issue-to-the-fore-again-but-will-the-government-have-foresight-to-do-it/",
+    "time_ut": 1661745927,
+    "original_lang": "en",
+    "original_title": "Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?",
+    "file_name": "/tmp/news_lk2/articles/3e/3e2eb81e.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Prez to make interim-budget speech on August 30",
     "file_name": "/tmp/news_lk2/articles/d8/d892aefc.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0dba\u0dd9\u0daf\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0db6\u0dad\u0dbd\u0d9c\u0ddc\u0da9-\u0db4\u0dbb\u0dca\u0dba\u0dda\u0dc2\u0dab-\u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dba\u0dd2/101-618669",
-    "time_ut": 1661322970,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dba\u0dd9\u0daf\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0db6\u0dad\u0dbd\u0d9c\u0ddc\u0da9 \u0db4\u0dbb\u0dca\u0dba\u0dda\u0dc2\u0dab \u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/67/67fbbb61.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84503/interim-budget-speech-on-aug-30",
-    "time_ut": 1661322660,
-    "original_lang": "en",
-    "original_title": "Interim budget speech on Aug 30",
-    "file_name": "/tmp/news_lk2/articles/b1/b171f9f2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84503/interim-budget-speech-to-be-delivered-on-aug-30",
-    "time_ut": 1661322660,
-    "original_lang": "en",
-    "original_title": "Interim budget speech to be delivered on Aug 30",
-    "file_name": "/tmp/news_lk2/articles/ed/ed3ebfe3.json"
   }
 ]
