@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84613/new-members-appointed-to-several-parliamentary-committees",
+    "time_ut": 1661771460,
+    "original_lang": "en",
+    "original_title": "New members appointed to several parliamentary committees",
+    "file_name": "/tmp/news_lk2/articles/28/2868201a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd-\u0ba4\u0bcb\u0bb1\u0bcd\u0bb1\u0bbf\u0baf-\u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd/175-303189",
+    "time_ut": 1661770919,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bcb\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd  \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/4d/4d4d32b8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d91\u0da2\u0dcf\u0db4-\u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb-\u0d8b\u0dad\u0dca\u0dc3\u0dc0-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba-\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0dca-\u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca/1-618956",
+    "time_ut": 1661770243,
+    "original_lang": "si",
+    "original_title": "\u0d91\u0da2\u0dcf\u0db4 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb \u0d8b\u0dad\u0dca\u0dc3\u0dc0 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba \u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0dca \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/6d/6d4d518d.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/29/prison-inmates-pass-a-l-examination-in-sri-lanka/",
     "time_ut": 1661769840,
@@ -57,11 +81,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Pay-our-Augustsalary/342-243934",
+    "url": "https://www.dailymirror.lk/caption_story/Pay-our-Augustsalary/110-243934",
     "time_ut": 1661767260,
     "original_lang": "en",
     "original_title": "Pay our August\u00a0salary.....!",
-    "file_name": "/tmp/news_lk2/articles/53/536658cb.json"
+    "file_name": "/tmp/news_lk2/articles/20/201eff23.json"
   },
   {
     "newspaper_id": "ada-derana-lk",

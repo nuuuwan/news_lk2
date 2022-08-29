@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84613/new-members-appointed-to-several-parliamentary-committees",
+    "time_ut": 1661771460,
+    "original_lang": "en",
+    "original_title": "New members appointed to several parliamentary committees",
+    "file_name": "/tmp/news_lk2/articles/28/2868201a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd-\u0ba4\u0bcb\u0bb1\u0bcd\u0bb1\u0bbf\u0baf-\u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd/175-303189",
+    "time_ut": 1661770919,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bcb\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd  \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/4d/4d4d32b8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d91\u0da2\u0dcf\u0db4-\u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb-\u0d8b\u0dad\u0dca\u0dc3\u0dc0-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba-\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0dca-\u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca/1-618956",
+    "time_ut": 1661770243,
+    "original_lang": "si",
+    "original_title": "\u0d91\u0da2\u0dcf\u0db4 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb \u0d8b\u0dad\u0dca\u0dc3\u0dc0 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba \u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0dca \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/6d/6d4d518d.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/29/prison-inmates-pass-a-l-examination-in-sri-lanka/",
     "time_ut": 1661769840,
@@ -57,11 +81,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Pay-our-Augustsalary/342-243934",
+    "url": "https://www.dailymirror.lk/caption_story/Pay-our-Augustsalary/110-243934",
     "time_ut": 1661767260,
     "original_lang": "en",
     "original_title": "Pay our August\u00a0salary.....!",
-    "file_name": "/tmp/news_lk2/articles/53/536658cb.json"
+    "file_name": "/tmp/news_lk2/articles/20/201eff23.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dc4\u0dd4\u0db1\u0dca\u0d9c\u0dbd\u0dca\u0dbd\u0dda \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
     "file_name": "/tmp/news_lk2/articles/44/442da17f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0d87\u0dc3\u0dca\u0db6\u0dd0\u0dc3\u0dca\u0da7\u0ddd\u0dc3\u0dca-\u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba-\u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0-\u0db4\u0dbb\u0dca\u0dba\u0dda\u0dc2\u0dab-04\u0d9a\u0dca/11-396574",
-    "time_ut": 1661328401,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d87\u0dc3\u0dca\u0db6\u0dd0\u0dc3\u0dca\u0da7\u0ddd\u0dc3\u0dca \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0 \u0db4\u0dbb\u0dca\u0dba\u0dda\u0dc2\u0dab 04\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/56/561d14d6.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84505/one-dead-another-injured-in-two-shooting-incidents",
-    "time_ut": 1661328240,
-    "original_lang": "en",
-    "original_title": "One dead, another injured in two shooting incidents",
-    "file_name": "/tmp/news_lk2/articles/32/32d94e8b.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b9a\u0bb0\u0bae\u0bbe\u0bb0\u0bbf\u0baf\u0bbe\u0b95-\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/95-302925",
-    "time_ut": 1661328150,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bb0\u0bae\u0bbe\u0bb0\u0bbf\u0baf\u0bbe\u0b95 \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/cb/cb880d7d.json"
   }
 ]
