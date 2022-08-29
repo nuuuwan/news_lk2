@@ -1,30 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-30 00:37:48 (LK time)*
+*As of 2022-08-30 00:58:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Japan hands over food donation to help Sri Lanka respond to rising food insecurity](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c7c9450.json))
 
 ## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Japan hands over food donation to help Sri Lanka respond to rising food insecurity](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c7c9450.json))
 
-## Last 3 Hours (12 Articles)
+## Last 3 Hours (9 Articles)
 
 * **5** daily-mirror-lk ([US will support SL through IMF, if agreement reached: Julie Chung](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3f4b9b7.json))
 
-* **3** tamil-mirror-lk ([ரூ.300 மில். முடக்கம்: நெல் கொள்வனவில் சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/950d7d12.json))
-
 * **2** ada-derana-lk ([Foreign Minister to address 51st session of UNHRC](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf6c5e85.json))
+
+* **1** tamil-mirror-lk ([கஞ்சனவின் கோரிக்கையை ஏற்றார் சம்பிக்க](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92eb4055.json))
 
 * **1** lankadeepa-lk ([වයස 13  සාපෙළ ජයගත් සනහස් 15 උසස් පෙළ ජය ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7f99994.json))
 
-* **1** ada-lk ([නාසා හඳ තරණය එන්ජිමේ දෝෂයක් නිසා නතර වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d90de855.json))
-
-## Last 24 Hours (208 Articles)
+## Last 24 Hours (207 Articles)
 
 * **44** lankadeepa-lk ([ඇමෙරිකන් යුද නැව් දෙකක් චීනය අවුස්සයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d141287.json))
 
@@ -34,7 +28,7 @@
 
 * **28** tamil-mirror-lk ([காரைதீவு மாணவன் அகில இலங்கை ரீதியில் முதலிடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd712fe.json))
 
-* **27** ada-lk ([උසස්පෙළ හපන්න්නු මෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70701618.json))
+* **26** ada-lk ([පකිස්ථානය ගංවතුර නිසා මරණ 1,000 ඉක්මවා තිබේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb82c652.json))
 
 * **23** ada-derana-lk ([Evening thundershowers in several provinces during next few days](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6ff9e792.json))
 
@@ -44,19 +38,19 @@
 
 * **2** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
-## Last Week (1,380 Articles)
+## Last Week (1,378 Articles)
 
 * **260** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43863138.json))
 
 * **211** news-first-lk ([3-hour power cuts today](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41c9a5b.json))
 
-* **178** tamil-mirror-lk ([கொரோனா மரணங்கள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/3712e701.json))
+* **177** tamil-mirror-lk ([’ஐ.எம்.எப் கடன் இந்த வருட இறுதிக்குள் கிடைக்கும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61c50a42.json))
 
 * **174** daily-mirror-lk ([US $ 18tn wiped off from global markets in first half of 2022, WFE data reveals](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57b15b7e.json))
 
 * **160** ada-lk ([මන්ත්‍රීට පහරදී බේරේ වැවට  තල්ලුකළ තරුණිය අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73a17ca7.json))
 
-* **149** ada-derana-lk ([Fauci to step down after decades as top US infection expert](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85f5ad1a.json))
+* **148** ada-derana-lk ([British HC expresses concern over use of PTA in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef6e3efb.json))
 
 * **106** economy-next-com ([Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e7d91a9.json))
 
