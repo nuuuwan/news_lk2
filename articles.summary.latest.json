@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db4\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba-\u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb-\u0db1\u0dd2\u0dc3\u0dcf-\u0db8\u0dbb\u0dab-1-000-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dcf-\u0dad\u0dd2\u0db6\u0dda/3-396679",
+    "time_ut": 1661737427,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb \u0db1\u0dd2\u0dc3\u0dcf \u0db8\u0dbb\u0dab 1,000 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dcf \u0dad\u0dd2\u0db6\u0dda",
+    "file_name": "/tmp/news_lk2/articles/eb/eb82c652.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/GRI-launches-EARTH-series-of-radial-agriculture-tyres/34-739227",
     "time_ut": 1661731053,
@@ -62,6 +70,30 @@
     "original_lang": "en",
     "original_title": "Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?",
     "file_name": "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/IMF-rescue-package-could-take-six-months-after-staff-level-agreement/108-243903",
+    "time_ut": 1661723086,
+    "original_lang": "en",
+    "original_title": "IMF rescue package could take six months after staff-level agreement",
+    "file_name": "/tmp/news_lk2/articles/99/99005a8f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/FITIS-tells-President-to-lift-import-ban-on-IT-devices-and-peripherals/273-243899",
+    "time_ut": 1661722554,
+    "original_lang": "en",
+    "original_title": "FITIS tells President to lift import ban on IT devices and peripherals",
+    "file_name": "/tmp/news_lk2/articles/e2/e25a186f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/State-revenue-reaches-pre-pandemic-levels-in-first-five-months/273-243897",
+    "time_ut": 1661721735,
+    "original_lang": "en",
+    "original_title": "State revenue reaches pre-pandemic levels in first five months",
+    "file_name": "/tmp/news_lk2/articles/5d/5d6377bf.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka schedules three hour power cuts for August 24",
     "file_name": "/tmp/news_lk2/articles/2a/2abdff55.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-treasuries-yield-flat-peg-steady-98927/",
-    "time_ut": 1661258160,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Treasuries yield flat, peg steady",
-    "file_name": "/tmp/news_lk2/articles/20/2020c66d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/unicef-rotary-partner-to-provide-essential-aid-to-sri-lankan-families-98921/",
-    "time_ut": 1661257980,
-    "original_lang": "en",
-    "original_title": "UNICEF, Rotary partner to provide essential aid to Sri Lankan families",
-    "file_name": "/tmp/news_lk2/articles/bb/bba472f9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84491/basl-slams-govt-over-abuse-of-pta-to-arrest-and-detain-protesters",
-    "time_ut": 1661257800,
-    "original_lang": "en",
-    "original_title": "BASL slams govt over abuse of PTA to arrest and detain protesters",
-    "file_name": "/tmp/news_lk2/articles/b8/b80d3b5b.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-state-radio-station-awards-solar-farm-contract-to-private-firm-98919/",
-    "time_ut": 1661257500,
-    "original_lang": "en",
-    "original_title": "Sri Lanka state radio station awards solar farm contract to private firm",
-    "file_name": "/tmp/news_lk2/articles/e6/e65993ab.json"
   }
 ]

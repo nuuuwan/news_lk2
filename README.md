@@ -1,26 +1,36 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 06:52:34 (LK time)*
+*As of 2022-08-29 07:35:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (8 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **8** daily-ft-lk ([Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc758d4.json))
+* **1** ada-lk ([පකිස්ථානය ගංවතුර නිසා මරණ 1,000 ඉක්මවා තිබේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb82c652.json))
 
-## Last 24 Hours (164 Articles)
+## Last Hour (1 Articles)
 
-* **30** tamil-mirror-lk ([ரஞ்சன் ராமநாயக்கவுக்கு பல பதவிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eec2a9f8.json))
+* **1** ada-lk ([පකිස්ථානය ගංවතුර නිසා මරණ 1,000 ඉක්මවා තිබේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb82c652.json))
 
-* **29** lankadeepa-lk ([ධීවරවාඩි තුනකට ගිනි තබලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e0be3c3.json))
+## Last 3 Hours (7 Articles)
+
+* **6** daily-ft-lk ([Economic crisis could be overcome with IMF interventions: Eran Wickramaratne expresses hope](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/229acbf3.json))
+
+* **1** ada-lk ([පකිස්ථානය ගංවතුර නිසා මරණ 1,000 ඉක්මවා තිබේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb82c652.json))
+
+## Last 24 Hours (163 Articles)
+
+* **28** tamil-mirror-lk ([சீனத் தூதுவர் மகாநாயக்கர்களுடன் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1ad3e22.json))
+
+* **27** lankadeepa-lk ([පළාත් ගණනාවකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6bccb4c.json))
 
 * **21** news-first-lk ([SLPP tells President to appoint State Ministers, if All-Party Govt. is further delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eba95296.json))
 
+* **19** ada-lk ([ඇෆ්ගනිස්තානයට පෙරළිකාර ජයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a50d6a59.json))
+
+* **19** daily-mirror-lk ([Sri Lanka’s economic crisis: Staple foods unaffordable, severe malnutrition in region, says UNICEF](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/948db1f8.json))
+
 * **18** ada-derana-lk ([Showers expected in several provinces and districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c228c33.json))
-
-* **18** ada-lk ([ඇෆ්ගනිස්තානයට පෙරළිකාර ජයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a50d6a59.json))
-
-* **16** daily-mirror-lk ([Sri Lanka’s economic crisis: Staple foods unaffordable, severe malnutrition in region, says UNICEF](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/948db1f8.json))
 
 * **13** economy-next-com ([Sri Lanka import controls are temporary: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7208ec6f.json))
 
@@ -28,9 +38,9 @@
 
 * **8** daily-ft-lk ([Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc758d4.json))
 
-* **2** colombo-telegraph-com ([War On China? – VI: India & The US: Forward Policy & The Brzezinskian Project](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aee73676.json))
+* **1** colombo-telegraph-com ([The China-Lanka Conundrum](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91665769.json))
 
-## Last Week (1,416 Articles)
+## Last Week (1,419 Articles)
 
 * **271** lankadeepa-lk ([ගෝඨාභය යුද අධිකරණය යවන්නැයි සංදේශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f1bcfa.json))
 
@@ -38,9 +48,9 @@
 
 * **186** tamil-mirror-lk ([அம்பலாங்கொடையில் துப்பாக்கிச் சூடு: இருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19d590b5.json))
 
-* **174** daily-mirror-lk ([UK-based Kavida to invest US$ 500, 000 to support  Sri Lanka’s apparel resilience](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc466a38.json))
+* **177** daily-mirror-lk ([UK-based Kavida to invest US$ 500, 000 to support  Sri Lanka’s apparel resilience](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc466a38.json))
 
-* **170** ada-lk ([දෙල්දුව වෙඩි තැබීමෙන් දෙදෙනෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c70ce0dd.json))
+* **170** ada-lk ([ගෝඨා 24 එන්නේ නෑ - එන දිනයක් තහවුරු නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/457d9c32.json))
 
 * **150** ada-derana-lk ([Fairly heavy rainfall expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/071d6ef3.json))
 
@@ -54,13 +64,13 @@
 
 * **8** colombo-telegraph-com ([Sri Lanka: Protesters Must Not Be Detained Under The Draconian Anti-Terror Law: Amnesty International](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f24273.json))
 
-## All Time (3,447 Articles)
+## All Time (3,451 Articles)
 
 * **614** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **435** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **436** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **433** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
+* **436** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
 * **430** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
