@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-30 01:16:55 (LK time)*
+*As of 2022-08-30 01:38:23 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (8 Articles)
 
 * **5** daily-mirror-lk ([US will support SL through IMF, if agreement reached: Julie Chung](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3f4b9b7.json))
 
@@ -12,17 +12,15 @@
 
 * **1** tamil-mirror-lk ([கஞ்சனவின் கோரிக்கையை ஏற்றார் சம்பிக்க](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92eb4055.json))
 
-* **1** lankadeepa-lk ([වයස 13  සාපෙළ ජයගත් සනහස් 15 උසස් පෙළ ජය ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7f99994.json))
-
-## Last 24 Hours (207 Articles)
+## Last 24 Hours (205 Articles)
 
 * **44** lankadeepa-lk ([ඇමෙරිකන් යුද නැව් දෙකක් චීනය අවුස්සයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d141287.json))
 
 * **35** news-first-lk ([Thunder showers for several areas today (29)](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71049b7b.json))
 
-* **29** daily-mirror-lk ([Fascists, neo fascists, and SL’s future](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f196abda.json))
-
 * **28** tamil-mirror-lk ([காரைதீவு மாணவன் அகில இலங்கை ரீதியில் முதலிடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd712fe.json))
+
+* **27** daily-mirror-lk ([State revenue reaches pre-pandemic levels in first five months](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68a501a9.json))
 
 * **26** ada-lk ([පකිස්ථානය ගංවතුර නිසා මරණ 1,000 ඉක්මවා තිබේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb82c652.json))
 
@@ -34,13 +32,13 @@
 
 * **2** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
-## Last Week (1,377 Articles)
+## Last Week (1,373 Articles)
 
 * **260** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43863138.json))
 
 * **211** news-first-lk ([3-hour power cuts today](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41c9a5b.json))
 
-* **177** tamil-mirror-lk ([’ஐ.எம்.எப் கடன் இந்த வருட இறுதிக்குள் கிடைக்கும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61c50a42.json))
+* **176** tamil-mirror-lk ([இன்று கடும் மழை](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/260025e9.json))
 
 * **174** daily-mirror-lk ([US $ 18tn wiped off from global markets in first half of 2022, WFE data reveals](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57b15b7e.json))
 
@@ -50,7 +48,7 @@
 
 * **106** economy-next-com ([Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e7d91a9.json))
 
-* **59** daily-ft-lk ([Gone with the wind but ill winds still blow](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a628ed6c.json))
+* **56** daily-ft-lk ([J’apura Uni. Dept. of BEC Economic Forum on Friday](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/430e620d.json))
 
 * **54** island-lk ([Profit-takings in Lanka IOC, Expolanka Holdings and Lankem Development; turnover Rs. 4.9 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4b6b03a.json))
 
