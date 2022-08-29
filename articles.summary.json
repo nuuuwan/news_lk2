@@ -1,6 +1,94 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/communication-owners-slam-import-ban/",
+    "time_ut": 1661752860,
+    "original_lang": "en",
+    "original_title": "Communication Owners slam import ban",
+    "file_name": "/tmp/news_lk2/articles/a1/a17d7fca.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/navy-detains-44-people-on-illegal-migration-attempt/",
+    "time_ut": 1661752740,
+    "original_lang": "en",
+    "original_title": "Navy detains 44 people on illegal migration attempt",
+    "file_name": "/tmp/news_lk2/articles/4a/4a0724cf.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/verstappen-cruises-to-belgian-grand-prix-victory/",
+    "time_ut": 1661752080,
+    "original_lang": "en",
+    "original_title": "Verstappen cruises to Belgian Grand Prix victory",
+    "file_name": "/tmp/news_lk2/articles/06/06506b0b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0da8\u0dbd\u0dd3\u0da7-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0db0\u0dd4\u0dbb\u0dba\u0d9a\u0dca-\u0d9c\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0d9a\u0d82\u0da0\u0db1\u0d9c\u0dd9\u0db1\u0dca-\u0d86\u0dbb\u0dcf\u0db0\u0db1\u0dcf\u0dc0\u0d9a\u0dca/11-396695",
+    "time_ut": 1661752058,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0da8\u0dbd\u0dd3\u0da7 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0db0\u0dd4\u0dbb\u0dba\u0d9a\u0dca \u0d9c\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0d9a\u0d82\u0da0\u0db1\u0d9c\u0dd9\u0db1\u0dca \u0d86\u0dbb\u0dcf\u0db0\u0db1\u0dcf\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/6d/6d13846e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84605/bandula-prasanna-and-wimal-called-before-hrcsl",
+    "time_ut": 1661751960,
+    "original_lang": "en",
+    "original_title": "Bandula, Prasanna and Wimal called before HRCSL",
+    "file_name": "/tmp/news_lk2/articles/f0/f0f7b442.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-agrees-to-submit-documents-in-Parliament-over-Ranjans-release/342-243927",
+    "time_ut": 1661751938,
+    "original_lang": "en",
+    "original_title": "Govt. agrees to submit documents in Parliament over Ranjan\u2019s release",
+    "file_name": "/tmp/news_lk2/articles/b5/b599d696.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/mill-owners-lament-low-price-for-crops/",
+    "time_ut": 1661751840,
+    "original_lang": "en",
+    "original_title": "Mill owners lament low price for crops",
+    "file_name": "/tmp/news_lk2/articles/0b/0b31f8a9.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84604/three-arrested-for-damaging-mps-houses",
+    "time_ut": 1661751540,
+    "original_lang": "en",
+    "original_title": "Three arrested for damaging MPs\u2019 houses",
+    "file_name": "/tmp/news_lk2/articles/55/55fc1c57.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-main-opposition-proposes-cash-transfers-for-those-affected-by-electricity-tariff-hike-99139/",
+    "time_ut": 1661750940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka main opposition proposes cash transfers for those affected by electricity tariff hike",
+    "file_name": "/tmp/news_lk2/articles/91/91ecbef4.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb\u0dba-\u0dc0\u0dd9\u0db1\u0dc3\u0dca-\u0dc0\u0dd3-\u0d87\u0dad\u0dca\u0daf\u0dd0\u0dba\u0dd2-\u0dc3\u0da2\u0dd2\u0dad\u0dca-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0d85\u0dc3\u0dba\u0dd2/11-396693",
+    "time_ut": 1661750916,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb\u0dba \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0\u0dd3 \u0d87\u0dad\u0dca\u0daf\u0dd0\u0dba\u0dd2 \u0dc3\u0da2\u0dd2\u0dad\u0dca \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d85\u0dc3\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/2f/2ff2339e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/minister-wants-green-light-to-sell-eggs-at-rs-50/",
+    "time_ut": 1661750640,
+    "original_lang": "en",
+    "original_title": "Minister wants green light to sell eggs at Rs. 50/-",
+    "file_name": "/tmp/news_lk2/articles/30/30a1adad.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/29/furnace-oil-shortage-puts-power-plants-in-crisis/",
     "time_ut": 1661750280,
     "original_lang": "en",
@@ -65,11 +153,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba-\u0dbb\u0d82\u0da2\u0db1\u0dca\u0da7-\u0dc3\u0db8\u0dcf\u0dc0\u0daf\u0dd3\u0db8\u0dda-\u0dbd\u0dd2\u0db4\u0dd2\u0dba-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-618912",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba-\u0dbb\u0d82\u0da2\u0db1\u0dca\u0da7-\u0dc3\u0db8\u0dcf\u0dc0\u0daf\u0dd3\u0db8\u0dda-\u0dbd\u0dd2\u0db4\u0dd2\u0dba-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-618912",
     "time_ut": 1661748048,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba \u0dbb\u0d82\u0da2\u0db1\u0dca\u0da7 \u0dc3\u0db8\u0dcf\u0dc0\u0daf\u0dd3\u0db8\u0dda \u0dbd\u0dd2\u0db4\u0dd2\u0dba \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/19/19531421.json"
+    "file_name": "/tmp/news_lk2/articles/bf/bf6c8427.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -113,11 +201,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddd\u0db4\u0dca---\u0d9a\u0ddd\u0db4\u0dcf-\u0db4\u0dc3\u0dca\u0dc3-\u0d9c\u0dc4\u0db1-\u0dc4\u0dda\u0dad\u0dd4\u0dc0-\u0db1\u0dbd\u0dd2\u0db1\u0dca-\u0d9a\u0dad\u0dcf-\u0d9a\u0dbb\u0dba\u0dd2/101-618909",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddd\u0db4\u0dca---\u0d9a\u0ddd\u0db4\u0dcf-\u0db4\u0dc3\u0dca\u0dc3-\u0d9c\u0dc4\u0db1-\u0dc4\u0dda\u0dad\u0dd4\u0dc0-\u0db1\u0dbd\u0dd2\u0db1\u0dca-\u0d9a\u0dad\u0dcf-\u0d9a\u0dbb\u0dba\u0dd2/1-618909",
     "time_ut": 1661746996,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddd\u0db4\u0dca - \u0d9a\u0ddd\u0db4\u0dcf \u0db4\u0dc3\u0dca\u0dc3 \u0d9c\u0dc4\u0db1 \u0dc4\u0dda\u0dad\u0dd4\u0dc0 \u0db1\u0dbd\u0dd2\u0db1\u0dca \u0d9a\u0dad\u0dcf \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/aa/aa132111.json"
+    "file_name": "/tmp/news_lk2/articles/7b/7b169b1a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0d86\u0daf\u0dcf\u0dba\u0db8-\u0db4\u0dd6\u0dbb\u0dca\u0dc0-\u0dc0\u0dc3\u0d82\u0d9c\u0dad-\u0db8\u0da7\u0dca\u0da7\u0db8\u0da7-\u0dc5\u0d9f\u0dcf-\u0dc0\u0dd9\u0dba\u0dd2/11-396691",
+    "time_ut": 1661746983,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0db4\u0dd6\u0dbb\u0dca\u0dc0 \u0dc0\u0dc3\u0d82\u0d9c\u0dad \u0db8\u0da7\u0dca\u0da7\u0db8\u0da7 \u0dc5\u0d9f\u0dcf \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/5c/5ca347d2.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -233,11 +329,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0db6\u0dd2\u0dbd\u0dda-\u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba-\u0d85\u0daf/101-618900",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0db6\u0dd2\u0dbd\u0dda-\u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba-\u0d85\u0daf/1-618900",
     "time_ut": 1661743041,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db6\u0dd2\u0dbd\u0dda \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba \u0d85\u0daf",
-    "file_name": "/tmp/news_lk2/articles/ca/caa1ae62.json"
+    "file_name": "/tmp/news_lk2/articles/21/217f937d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
