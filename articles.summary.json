@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dba\u0dc3-13--\u0dc3\u0dcf\u0db4\u0dd9\u0dc5-\u0da2\u0dba\u0d9c\u0dad\u0dca-\u0dc3\u0db1\u0dc4\u0dc3\u0dca-15-\u0d8b\u0dc3\u0dc3\u0dca-\u0db4\u0dd9\u0dc5-\u0da2\u0dba-\u0d9c\u0db1\u0dd3/101-618972",
+    "time_ut": 1661791642,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dba\u0dc3 13  \u0dc3\u0dcf\u0db4\u0dd9\u0dc5 \u0da2\u0dba\u0d9c\u0dad\u0dca \u0dc3\u0db1\u0dc4\u0dc3\u0dca 15 \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0da2\u0dba \u0d9c\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/d1/d1a0616a.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0db1\u0dcf\u0dc3\u0dcf-\u0dc4\u0db3-\u0dad\u0dbb\u0dab\u0dba-\u0d91\u0db1\u0dca\u0da2\u0dd2\u0db8\u0dda-\u0daf\u0ddd\u0dc2\u0dba\u0d9a\u0dca-\u0db1\u0dd2\u0dc3\u0dcf-\u0db1\u0dad\u0dbb-\u0dc0\u0dd9\u0dba\u0dd2/3-396709",
     "time_ut": 1661790414,
@@ -25,11 +33,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Price-of-bread-could-rise-to-Rs-300-Assn/342-243945",
+    "url": "https://www.dailymirror.lk/breaking_news/Price-of-bread-could-rise-to-Rs-300-Assn/108-243945",
     "time_ut": 1661789219,
     "original_lang": "en",
     "original_title": "Price of bread could rise to Rs.300? - Assn.",
-    "file_name": "/tmp/news_lk2/articles/0d/0db693ae.json"
+    "file_name": "/tmp/news_lk2/articles/8a/8aed58c1.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -97,11 +105,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Joes-qualify-for-semis-of-Presidents-Trophy/342-243944",
+    "url": "https://www.dailymirror.lk/caption_story/Joes-qualify-for-semis-of-Presidents-Trophy/110-243944",
     "time_ut": 1661784390,
     "original_lang": "en",
     "original_title": "Joes qualify for semis of President\u2019s Trophy",
-    "file_name": "/tmp/news_lk2/articles/b6/b6e3864c.json"
+    "file_name": "/tmp/news_lk2/articles/3c/3ca18158.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0d9c\u0dad-\u0dc0\u0db1-\u0dc0\u0dd2\u0dc3\u0dbb\u0dca\u0da2\u0db1-\u0db4\u0db1\u0dad\u0dca-\u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad-\u0dc4\u0dd9\u0da7-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7/11-396708",
+    "time_ut": 1661784224,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0d9c\u0dad \u0dc0\u0db1 \u0dc0\u0dd2\u0dc3\u0dbb\u0dca\u0da2\u0db1 \u0db4\u0db1\u0dad\u0dca \u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad \u0dc4\u0dd9\u0da7 \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/ef/efc358e6.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -257,11 +273,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Court-grants-interim-protection-to-lesbian-from-abusive-parents/342-243939",
+    "url": "https://www.dailymirror.lk/breaking_news/Court-grants-interim-protection-to-lesbian-from-abusive-parents/108-243939",
     "time_ut": 1661776754,
     "original_lang": "en",
     "original_title": "Court grants interim protection to lesbian from abusive parents",
-    "file_name": "/tmp/news_lk2/articles/6d/6d12ed45.json"
+    "file_name": "/tmp/news_lk2/articles/57/5713a0ab.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -297,11 +313,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/CEB-should-be-restructured-excess-staff-retrenched-Aluthgamage/342-243938",
+    "url": "https://www.dailymirror.lk/breaking_news/CEB-should-be-restructured-excess-staff-retrenched-Aluthgamage/108-243938",
     "time_ut": 1661775378,
     "original_lang": "en",
     "original_title": "CEB should be restructured; excess staff retrenched: Aluthgamage",
-    "file_name": "/tmp/news_lk2/articles/32/325d5519.json"
+    "file_name": "/tmp/news_lk2/articles/fc/fc7a97b6.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
