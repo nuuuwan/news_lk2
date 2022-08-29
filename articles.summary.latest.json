@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Grit-honour-and-resilience-markers-of-a-great-leader/14-739261",
+    "time_ut": 1661812639,
+    "original_lang": "en",
+    "original_title": "Grit, honour and resilience; markers of a great leader",
+    "file_name": "/tmp/news_lk2/articles/46/463ccb87.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/SL-Govt-Stop-labelling-student-protestors-and-activists-as-terrorists/14-739260",
+    "time_ut": 1661812528,
+    "original_lang": "en",
+    "original_title": "SL Govt.: Stop labelling student protestors and activists as terrorists",
+    "file_name": "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/financial-services/HNB-Assurance-achieves-37-GWP-growth-during-1H/42-739252",
     "time_ut": 1661810863,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0db4\u0db1\u0dad \u0db1\u0dd2\u0dc3\u0dcf \u0d91\u0dad\u0dd9\u0dbb \u0dc3\u0dc4\u0dcf\u0dba \u0db1\u0dd0\u0dad\u0dd2 \u0dc0\u0dda\u0dc0\u0dd2",
     "file_name": "/tmp/news_lk2/articles/c4/c4333f76.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/3\u0b86\u0bb5\u0ba4\u0bc1-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-302948",
-    "time_ut": 1661348565,
-    "original_lang": "ta",
-    "original_title": "3\u0b86\u0bb5\u0ba4\u0bc1 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd  \u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/e2/e2bcdcab.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0dc3\u0dd2\u0dd2\u0dba\u0dcf\u0dc0\u0da7-\u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca-\u0db7\u0dcf\u0dab\u0dca\u0da9-\u0dba\u0dd0\u0dc0\u0dd3\u0db8-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2\u0dd2/11-396584",
-    "time_ut": 1661348264,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0dba\u0dd0\u0dc0\u0dd3\u0db8 \u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/aa/aaba3d5b.json"
   }
 ]

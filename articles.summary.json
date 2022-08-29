@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Grit-honour-and-resilience-markers-of-a-great-leader/14-739261",
+    "time_ut": 1661812639,
+    "original_lang": "en",
+    "original_title": "Grit, honour and resilience; markers of a great leader",
+    "file_name": "/tmp/news_lk2/articles/46/463ccb87.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/SL-Govt-Stop-labelling-student-protestors-and-activists-as-terrorists/14-739260",
+    "time_ut": 1661812528,
+    "original_lang": "en",
+    "original_title": "SL Govt.: Stop labelling student protestors and activists as terrorists",
+    "file_name": "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/financial-services/HNB-Assurance-achieves-37-GWP-growth-during-1H/42-739252",
     "time_ut": 1661810863,
     "original_lang": "en",
