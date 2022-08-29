@@ -1,0 +1,222 @@
+{
+  "newspaper_id": "economy-next-com",
+  "url": "https://economynext.com/sri-lank-shares-slip-in-mid-day-trade-99143/",
+  "time_ut": 1661754360,
+  "original_lang": "en",
+  "original_title": "Sri Lank shares slip in mid-day trade",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lank shares slip in mid-day trade",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 Sri Lanka stocks slipped in mid-morning trade on Monday (29) after opening stronger as the market continued on the downward trend.",
+        "The main All Share Price Index fell 0.54 percent or 47.11 points to 8,746.28 at 1130 hours.",
+        "Most liquid index S&P SL20 down 0.50 percent or 14.44 points to 2,849.31."
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lank",
+          "label": "ORG"
+        },
+        {
+          "text": "mid-day",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "mid-morning",
+            "label": "TIME"
+          },
+          {
+            "text": "Monday",
+            "label": "DATE"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "0.54 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "47.11",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "8,746.28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1130 hours",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "0.50 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "14.44",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,849.31",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0db0\u0dca\u200d\u0dba \u0daf\u0dd2\u0db1 \u0dc0\u0dd9\u0dc5\u0db3\u0dcf\u0db8\u0dda \u0daf\u0dd3 \u0dbd\u0dd2\u0dc3\u0dca\u0dc3\u0dcf \u0dba\u0dba\u0dd2",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc3\u0db3\u0dd4\u0daf\u0dcf (29) \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0d8b\u0daf\u0dd1\u0dc3\u0db1 \u0dc0\u0dd9\u0dc5\u0db3\u0dcf\u0db8\u0dda\u0daf\u0dd3 \u0dc0\u0dd9\u0dbd\u0db3\u0db4\u0ddc\u0dbd \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dab\u0dad\u0dcf\u0dc0\u0dba\u0dda \u0daf\u0dd2\u0d9c\u0da7\u0db8 \u0db4\u0dd0\u0dc0\u0dad\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0d9f \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca\u0dc0 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dd2.",
+        "\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 0.54 \u0d9a\u0dd2\u0db1\u0dca \u0dc4\u0ddd \u0d92\u0d9a\u0d9a 47.11 \u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd3 \u0db4\u0dd0\u0dba 1130 \u0daf\u0dd3 \u0d92\u0d9a\u0d9a 8,746.28 \u0d9a\u0dca \u0dc0\u0dd2\u0dba.",
+        "\u0db6\u0ddc\u0dc4\u0ddd \u0daf\u0dca\u200d\u0dbb\u0dc0 \u0daf\u0dbb\u0dca\u0dc1\u0d9a S&P SL20 \u0dc3\u0dd2\u0dba\u0dba\u0da7 0.50\u0d9a\u0dd2\u0db1\u0dca \u0dc4\u0ddd \u0d92\u0d9a\u0d9a 14.44\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca 2,849.31\u0d9a\u0dca \u0dc0\u0dd2\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0db8\u0dd0\u0daf \u0db7\u0dcf\u0d9c\u0dba\u0dda",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0db0\u0dca\u0dba\u0db8 \u0d8b\u0daf\u0dd1\u0dc3\u0db1",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 0.54 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "47.11",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "8,746.28 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 1130 \u0dba\u0dd2",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 0.50 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "14.44",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,849.31 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0bbe\u0bb3\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bb0\u0bbf\u0bb5\u0bc1",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bbe\u0bb2\u0bcd, \u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (29) \u0b95\u0bbe\u0bb2\u0bc8 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bb2\u0bc1\u0bb5\u0bbe\u0b95\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9.",
+        "\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bc1 0.54 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 47.11 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 1130 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 8,746.28 \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbe\u0bb2\u0bbe\u0ba9 \u0ba4\u0bbf\u0bb0\u0bb5\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bc1 S&P SL20 0.50 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 14.44 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 2,849.31 \u0b86\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bae\u0bcd",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba8\u0ba3\u0bcd\u0baa\u0b95\u0bb2\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "0.54 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "47.11",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "8,746.28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1130 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "0.50 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "14.44",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,849.31",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}
