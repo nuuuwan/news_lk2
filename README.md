@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-29 16:32:13 (LK time)*
+*As of 2022-08-29 16:37:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** news-first-lk ([Protest against PTA near UN Colombo Office](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d1eac02.json))
+* **1** news-first-lk ([Prison inmates pass A/L examination in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18d71499.json))
 
 ## Last Hour (6 Articles)
 
@@ -14,7 +14,7 @@
 
 * **2** daily-mirror-lk ([Chinese Scholarship Awards](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d13e44c5.json))
 
-* **1** lankadeepa-lk ([බන්ධනාගාර රැදවියෝ දෙදෙනෙක් උසස් පෙළ සමත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e37f5287.json))
+* **1** lankadeepa-lk ([බන්ධනාගාර රැදවියෝ දෙදෙනෙක් උසස් පෙළ සමත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c071f81.json))
 
 * **1** tamil-mirror-lk ([இரண்டு வாரங்களில் முட்டை விலையில் திருத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd042f5a.json))
 
@@ -34,7 +34,7 @@
 
 * **2** ada-lk ([සාමූහික ගිවිසුම් අවලංගු කළ යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e858311.json))
 
-## Last 24 Hours (205 Articles)
+## Last 24 Hours (204 Articles)
 
 * **43** lankadeepa-lk ([මෙවර 171497කට සරසවි වරම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c18f0f22.json))
 
@@ -44,7 +44,7 @@
 
 * **26** ada-lk ([පොලිස් නිලධාරීන්ට අල්ලස් දෙන්න ගිය අය ළඟ කෝටියක මත්ද්‍රව්‍ය](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c033445.json))
 
-* **23** ada-derana-lk ([2021 A/L exam results released](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1c38069.json))
+* **22** ada-derana-lk ([General Shavendra Silva bestowed with honorary title](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e92405b2.json))
 
 * **17** daily-mirror-lk ([Chinese company refuses to budge](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c2ce780.json))
 
@@ -58,13 +58,13 @@
 
 * **1** d-b-s-jeyaraj-com ([Appapillai Amirthalingam: From Enfant Terrible of ITAK to TULF Elder Statesman](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23bc5767.json))
 
-## Last Week (1,413 Articles)
+## Last Week (1,412 Articles)
 
 * **266** lankadeepa-lk ([රජිත් කීර්තිටත් ජනාධිපති අධ්‍යක්ෂ ධුරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b70473bf.json))
 
 * **211** news-first-lk ([Suspects should not be wrongly treated as terrorists : Human Rights Commission](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f55abb9.json))
 
-* **180** tamil-mirror-lk ([PTA கைதுகள் குறித்து EU வெளியிட்ட செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3fcd127.json))
+* **179** tamil-mirror-lk ([பல்கலைக்கழகங்கள் செப். முதல் ஆரம்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f39af08d.json))
 
 * **177** daily-mirror-lk ([All universities reopen in September: UGC Chairman](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e557c95.json))
 
