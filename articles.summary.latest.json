@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/furnace-oil-shortage-puts-power-plants-in-crisis/",
+    "time_ut": 1661750280,
+    "original_lang": "en",
+    "original_title": "Furnace Oil shortage puts power plants in crisis",
+    "file_name": "/tmp/news_lk2/articles/43/43245e13.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbd\u0dd4\u0dad\u0dd2\u0db1\u0dca-\u0db6\u0dcf\u0dbb\u0d9c\u0dad\u0dca-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0d9a\u0db8-\u0d9c\u0dd0\u0db1-\u0dc4\u0dbb\u0dca\u0dc2\u0d9c\u0dd9\u0db1\u0dca-\u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba\u0d9a\u0dca/101-618919",
+    "time_ut": 1661750145,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbd\u0dd4\u0dad\u0dd2\u0db1\u0dca \u0db6\u0dcf\u0dbb\u0d9c\u0dad\u0dca \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0d9a\u0db8 \u0d9c\u0dd0\u0db1 \u0dc4\u0dbb\u0dca\u0dc2\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/39/391a7441.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84603/school-girl-drowns-while-bathing-in-medagama-lake",
+    "time_ut": 1661749740,
+    "original_lang": "en",
+    "original_title": "School girl drowns while bathing in Medagama Lake",
+    "file_name": "/tmp/news_lk2/articles/9e/9e8e0a2a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84602/4-killed-2-injured-after-shooter-sets-building-on-fire-in-houston",
+    "time_ut": 1661749680,
+    "original_lang": "en",
+    "original_title": "4 killed, 2 injured after shooter sets building on fire in Houston",
+    "file_name": "/tmp/news_lk2/articles/f6/f67be590.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0baa-\u0b87\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bcd-\u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf-\u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd-\u0b85\u0b95\u0bbf\u0bb2-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd-\u0b87\u0b9f\u0bae\u0bcd/95-303173",
+    "time_ut": 1661749431,
+    "original_lang": "ta",
+    "original_title": "\u0baa/ \u0b87\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd  \u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd \u0b87\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/0c/0c952aaf.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84601/slpp-district-leaders-summoned-to-colombo",
+    "time_ut": 1661749320,
+    "original_lang": "en",
+    "original_title": "SLPP district leaders summoned to Colombo",
+    "file_name": "/tmp/news_lk2/articles/80/80ce2c1c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-energy-minister-proposes-parliament-committee-on-fuel-coal-procurement-99135/",
+    "time_ut": 1661748180,
+    "original_lang": "en",
+    "original_title": "Sri Lanka energy minister proposes parliament committee on fuel, coal procurement",
+    "file_name": "/tmp/news_lk2/articles/71/7193341e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84600/parliament-sittings-commences",
     "time_ut": 1661748120,
@@ -185,11 +241,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Govt-employees-leave-form-for-foreign-employment-reduced-to-2-pages/108-243913",
+    "url": "https://www.dailymirror.lk/front_page/Govt-employees-leave-form-for-foreign-employment-reduced-to-2-pages/238-243913",
     "time_ut": 1661743034,
     "original_lang": "en",
     "original_title": "Govt. employees leave form for foreign employment reduced to 2 pages",
-    "file_name": "/tmp/news_lk2/articles/cb/cb6e9c43.json"
+    "file_name": "/tmp/news_lk2/articles/ef/efeca8c7.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -414,6 +470,14 @@
     "original_lang": "en",
     "original_title": "IMF rescue package could take six months after staff-level agreement",
     "file_name": "/tmp/news_lk2/articles/99/99005a8f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Credit-card-balances-slump-reflecting-spending-squeeze-amid-soaring-inflation/273-243902",
+    "time_ut": 1661722939,
+    "original_lang": "en",
+    "original_title": "Credit card balances slump reflecting spending squeeze amid soaring inflation",
+    "file_name": "/tmp/news_lk2/articles/dd/dd48157d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "en",
     "original_title": "Government Brings  temporary ban with effect from Aug 23  on the import of products from over 360 categories in a bid to save foreign exchange and support local manufacturers.",
     "file_name": "/tmp/news_lk2/articles/25/25b4e2e0.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a-\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0bb5\u0bb4\u0bae\u0bc8-\u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bc1-\u0baa\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-302908",
-    "time_ut": 1661279076,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bb0\u0b9a \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0bae\u0bc8 \u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/32/328f145f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0da2\u0dba\u0dda-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca-\u0dc4\u0dd9\u0da7-\u0dc3\u0dd2\u0da7-\u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba--\u0dbd\u0dd9\u0dc3-\u0dc0\u0dd0\u0da9/11-396566",
-    "time_ut": 1661278828,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0da2\u0dba\u0dda \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca \u0dc4\u0dd9\u0da7 \u0dc3\u0dd2\u0da7 \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba  \u0dbd\u0dd9\u0dc3 \u0dc0\u0dd0\u0da9",
-    "file_name": "/tmp/news_lk2/articles/b5/b56b0500.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe-\u0baa\u0bc7\u0bb0\u0bb4\u0bbf\u0bb5\u0bc1-\u0ba8\u0bbf\u0bb2\u0bc8-\u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bb2\u0bbe\u0bae\u0bcd/175-302907",
-    "time_ut": 1661277151,
-    "original_lang": "ta",
-    "original_title": "\u2019\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0baa\u0bc7\u0bb0\u0bb4\u0bbf\u0bb5\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bb2\u0bbe\u0bae\u0bcd\u2019",
-    "file_name": "/tmp/news_lk2/articles/dc/dc3c3033.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-president-allows-imports-of-electrical-bikes-98941/",
-    "time_ut": 1661276760,
-    "original_lang": "en",
-    "original_title": "Sri Lanka President allows imports of electrical bikes",
-    "file_name": "/tmp/news_lk2/articles/5e/5ed79b26.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-president-allows-imports-of-electrical-bikes-amid-soft-peg-crisis-98941/",
-    "time_ut": 1661276760,
-    "original_lang": "en",
-    "original_title": "Sri Lanka President allows imports of electrical bikes amid soft-peg crisis",
-    "file_name": "/tmp/news_lk2/articles/d3/d3dde096.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84495/state-sector-employees-required-to-report-for-duty-as-usual",
-    "time_ut": 1661275380,
-    "original_lang": "en",
-    "original_title": "State sector employees required to report for duty as usual",
-    "file_name": "/tmp/news_lk2/articles/cb/cbf47555.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/delisting-of-former-proscribed-entities/",
-    "time_ut": 1661274960,
-    "original_lang": "en",
-    "original_title": "Delisting of former proscribed entities",
-    "file_name": "/tmp/news_lk2/articles/8f/8fdf8e31.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/pta-no-solution/",
-    "time_ut": 1661274840,
-    "original_lang": "en",
-    "original_title": "PTA no solution",
-    "file_name": "/tmp/news_lk2/articles/ad/ad233a3d.json"
   }
 ]
