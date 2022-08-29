@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-30 05:13:24 (LK time)*
+*As of 2022-08-30 05:19:30 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,7 +8,7 @@
 
 * **11** daily-ft-lk ([Maithri vows to form Govt. with leftist Opposition parties](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4833ef4.json))
 
-## Last 24 Hours (207 Articles)
+## Last 24 Hours (206 Articles)
 
 * **43** lankadeepa-lk ([පළාත් හතරකට තද වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeefcf97.json))
 
@@ -22,7 +22,7 @@
 
 * **23** daily-mirror-lk ([No pity for Sri Lanka by donor nations: SLFP](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c062c3f1.json))
 
-* **15** daily-ft-lk ([Ceylon tea increases footprint in largest retail chains in Poland](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb171d2.json))
+* **14** daily-ft-lk ([Kanchana reviews progress of rapid renewable energy generation plan](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc8cdc97.json))
 
 * **12** economy-next-com ([Sri Lanka tax revenues grow 29-pct up to May amid inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bddaddb2.json))
 
