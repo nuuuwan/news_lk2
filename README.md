@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-30 02:41:02 (LK time)*
+*As of 2022-08-30 02:53:30 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,7 +8,7 @@
 
 * **1** ada-derana-lk ([Japan hands over food donation to help Sri Lanka respond to rising food insecurity](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c7c9450.json))
 
-## Last 24 Hours (205 Articles)
+## Last 24 Hours (204 Articles)
 
 * **44** lankadeepa-lk ([ඇමෙරිකන් යුද නැව් දෙකක් චීනය අවුස්සයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d141287.json))
 
@@ -16,7 +16,7 @@
 
 * **28** tamil-mirror-lk ([காரைதீவு மாணவன் அகில இலங்கை ரீதியில் முதலிடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd712fe.json))
 
-* **27** daily-mirror-lk ([State revenue reaches pre-pandemic levels in first five months](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68a501a9.json))
+* **26** daily-mirror-lk ([FITIS tells President to lift import ban on IT devices and peripherals](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15fd0a1a.json))
 
 * **26** ada-lk ([පකිස්ථානය ගංවතුර නිසා මරණ 1,000 ඉක්මවා තිබේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb82c652.json))
 
