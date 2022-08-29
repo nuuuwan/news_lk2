@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-30 02:22:51 (LK time)*
+*As of 2022-08-30 02:41:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (2 Articles)
+## Last 3 Hours (1 Articles)
 
 * **1** ada-derana-lk ([Japan hands over food donation to help Sri Lanka respond to rising food insecurity](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c7c9450.json))
-
-* **1** daily-mirror-lk ([Need to reform PTA ahead of UNHRC session](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7d27bd2.json))
 
 ## Last 24 Hours (205 Articles)
 
@@ -30,7 +28,7 @@
 
 * **2** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
-## Last Week (1,371 Articles)
+## Last Week (1,366 Articles)
 
 * **260** lankadeepa-lk ([කාලගුණ අනාවැකිය වැරැදිලා ජංජාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43863138.json))
 
@@ -46,9 +44,9 @@
 
 * **106** economy-next-com ([Sri Lanka shares gain for third straight session to 1-wk high; market heavyweights lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e7d91a9.json))
 
-* **54** daily-ft-lk ([Tyeab Akbarally joins Sunshine Holdings Board](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/600c61b7.json))
-
 * **54** island-lk ([Profit-takings in Lanka IOC, Expolanka Holdings and Lankem Development; turnover Rs. 4.9 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4b6b03a.json))
+
+* **49** daily-ft-lk ([First tribal woman president symbolises India’s pluralist legacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a998f7.json))
 
 * **19** d-b-s-jeyaraj-com ([Government Brings  temporary ban with effect from Aug 23  on the import of products from over 360 categories in a bid to save foreign exchange and support local manufacturers.](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25b4e2e0.json))
 
