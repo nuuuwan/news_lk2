@@ -1,0 +1,120 @@
+{
+  "newspaper_id": "ada-derana-lk",
+  "url": "http://www.adaderana.lk/news/84611/05-more-covid-19-deaths-confirmed",
+  "time_ut": 1661766720,
+  "original_lang": "en",
+  "original_title": "05 more Covid-19 deaths confirmed",
+  "text_idx": {
+    "en": {
+      "title": "05 more Covid-19 deaths confirmed",
+      "author": "unknown",
+      "body_lines": [
+        "The Director General of Health Services has confirmed 05 coronavirus related deaths for yesterday (28), the Department of Government Information reported today (29)."
+      ],
+      "title_ents": [
+        {
+          "text": "05",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Department of Government Information",
+            "label": "ORG"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dad\u0dc0\u0dad\u0dca \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca 19 \u0db8\u0dbb\u0dab 05\u0d9a\u0dca \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca\u0dc0\u0dbb\u0dba\u0dcf \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d8a\u0dba\u0dda (28) \u0daf\u0dd2\u0db1\u0da7 \u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0db8\u0dbb\u0dab 05\u0d9a\u0dca \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dbb\u0da2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0d85\u0daf (29) \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dc5\u0dda\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "05",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0da2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 05 \u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd-19 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 (28) 05 \u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0bb5\u0bc8\u0bb0\u0bb8\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (29) \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "05",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}

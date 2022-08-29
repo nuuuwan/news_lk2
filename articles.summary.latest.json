@@ -1,5 +1,77 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8-\u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd/175-303187",
+    "time_ut": 1661767769,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/bd/bd042f5a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/29/weerawansa-co-to-form-new-historic-alliance-on-4th-september/",
+    "time_ut": 1661767320,
+    "original_lang": "en",
+    "original_title": "Weerawansa & Co. to form new \u2018Historic Alliance\u2019 on 4th September",
+    "file_name": "/tmp/news_lk2/articles/a6/a66c0c87.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84612/petition-filed-seeking-punishment-for-sanath-nishantha-for-contempt-of-court",
+    "time_ut": 1661766960,
+    "original_lang": "en",
+    "original_title": "Petition filed seeking punishment for Sanath Nishantha for contempt of court",
+    "file_name": "/tmp/news_lk2/articles/3b/3bec2136.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-power-energy-minister-defends-necessary-electricity-tariff-hike-99142/",
+    "time_ut": 1661766900,
+    "original_lang": "en",
+    "original_title": "Sri Lanka power & energy minister defends \u201cnecessary\u201d electricity tariff hike",
+    "file_name": "/tmp/news_lk2/articles/24/2445bf03.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dcf\u0d82\u0da0\u0db1\u0d9c\u0dda-\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba-\u0db4\u0dcf\u0da8\u0dbd\u0dd3-\u0db6\u0dcf\u0dbb\u0d9c\u0db1\u0dd3/1-618953",
+    "time_ut": 1661766742,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dcf\u0d82\u0da0\u0db1\u0d9c\u0dda \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba \u0db4\u0dcf\u0da8\u0dbd\u0dd3 \u0db6\u0dcf\u0dbb\u0d9c\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/93/93d61cfc.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84611/05-more-covid-19-deaths-confirmed",
+    "time_ut": 1661766720,
+    "original_lang": "en",
+    "original_title": "05 more Covid-19 deaths confirmed",
+    "file_name": "/tmp/news_lk2/articles/49/496d017b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0d82\u0da0\u0db1-\u0d9a\u0dd3-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0db4\u0dd4\u0da7\u0dd4\u0dc0-\u0db7\u0dcf\u0dbb-\u0d9c\u0db1\u0dca\u0db1-\u0db4\u0dcf\u0da8\u0dbd\u0dd3-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca/11-396702",
+    "time_ut": 1661766334,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0d82\u0da0\u0db1 \u0d9a\u0dd3 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0db4\u0dd4\u0da7\u0dd4\u0dc0 \u0db7\u0dcf\u0dbb \u0d9c\u0db1\u0dca\u0db1 \u0db4\u0dcf\u0da8\u0dbd\u0dd3 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/35/35c584d7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84610/protest-in-front-of-un-office-in-colombo-hearing-of-case-postponed",
+    "time_ut": 1661766120,
+    "original_lang": "en",
+    "original_title": "Protest in front of UN Office in Colombo: hearing of case postponed",
+    "file_name": "/tmp/news_lk2/articles/c7/c7451045.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dcf\u0db8\u0dd6\u0dc4\u0dd2\u0d9a-\u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0dca-\u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4-\u0d9a\u0dc5-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/11-396701",
+    "time_ut": 1661766063,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dcf\u0db8\u0dd6\u0dc4\u0dd2\u0d9a \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0dca \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dc5 \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/9e/9e858311.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Move-to-privatize-CEB-on-IMF-conditions-similar-move-thwarted-by-JVP-in-2005-Vijitha/108-243932",
     "time_ut": 1661765159,
@@ -190,6 +262,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s \u201cindependent\u201d parties to launch grand coalition on September 04",
     "file_name": "/tmp/news_lk2/articles/0d/0dc8457b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7-\u0db4\u0dcf\u0da9\u0db8\u0dca-\u0d9a\u0dd2\u0dba\u0dcf-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-\u0daf\u0dd2\u0db1\u0dba\u0dda-\u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca/11-396700",
+    "time_ut": 1661758078,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7 \u0db4\u0dcf\u0da9\u0db8\u0dca \u0d9a\u0dd2\u0dba\u0dcf \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0daf\u0dd2\u0db1\u0dba\u0dda \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/ac/ac9b20b9.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7918,85 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9c\u0db8\u0dca\u0db4\u0dc4 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
     "file_name": "/tmp/news_lk2/articles/13/1339e556.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Probe-reveals-Green-Eco-Lodge-owned-by-MRs-son/155-243642",
-    "time_ut": 1661325773,
-    "original_lang": "en",
-    "original_title": "Probe reveals \u2018Green Eco Lodge\u2019 owned by MR\u2019s son",
-    "file_name": "/tmp/news_lk2/articles/dd/dd78dd6d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0d9c\u0dda-\u0dc3\u0db8\u0dcf\u0dc0-\u0d89\u0d9a\u0dca\u0db8\u0db1\u0dca-\u0dc0\u0db1-\u0dbd\u0d9a\u0dd4\u0dab\u0dd4/11-396572",
-    "time_ut": 1661324838,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0db8\u0dcf\u0dc0 \u0d89\u0d9a\u0dca\u0db8\u0db1\u0dca \u0dc0\u0db1 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/4f/4fefdd14.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/24/media-briefing-at-president-s-office-suspects-granted-bail/",
-    "time_ut": 1661324580,
-    "original_lang": "en",
-    "original_title": "Media Briefing at President\u2019s Office: suspects granted bail",
-    "file_name": "/tmp/news_lk2/articles/fe/fe4feeae.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/24/warrant-against-pathum-kerner-recalled/",
-    "time_ut": 1661324280,
-    "original_lang": "en",
-    "original_title": "Warrant against Pathum Kerner recalled",
-    "file_name": "/tmp/news_lk2/articles/d2/d26e878b.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-shares-slip-in-mid-day-trade-on-banking-and-retail-shares-98961/",
-    "time_ut": 1661324040,
-    "original_lang": "en",
-    "original_title": "Sri Lanka shares slip in mid-day trade on banking and retail shares",
-    "file_name": "/tmp/news_lk2/articles/ad/ad162a57.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Court-recalls-arrest-warrant-against-Pathum-Kerner/108-243641",
-    "time_ut": 1661323935,
-    "original_lang": "en",
-    "original_title": "Court recalls arrest warrant against Pathum Kerner",
-    "file_name": "/tmp/news_lk2/articles/50/50b801ac.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/24/sri-lanka-party-leader-arrested-for-harboring-murder-suspects/",
-    "time_ut": 1661323740,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Party leader arrested for harboring murder suspects",
-    "file_name": "/tmp/news_lk2/articles/19/19dee348.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0db0\u0dd3\u0dc0\u0dbb-\u0d87\u0db8\u0dad\u0dd2\u0da7-\u0db4\u0ddc\u0dbb\u0ddc\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0d9a\u0dca/101-618670",
-    "time_ut": 1661323482,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db0\u0dd3\u0dc0\u0dbb \u0d87\u0db8\u0dad\u0dd2\u0da7 \u0db4\u0ddc\u0dbb\u0ddc\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/d6/d6718616.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dbb\u0dca\u0dc0-\u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a-\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0d9a\u0dca-\u0d87\u0dad\u0dd2-\u0dc0\u0dd3\u0db8\u0dda-\u0d89\u0da9-\u0d9a\u0da9-\u0d85\u0dc0\u0db8\u0dba\u0dd2/11-396571",
-    "time_ut": 1661323204,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0dbb\u0dca\u0dc0 \u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a \u0db4\u0dcf\u0dbd\u0db1\u0dba\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0dc0\u0dd3\u0db8\u0dda \u0d89\u0da9 \u0d9a\u0da9 \u0d85\u0dc0\u0db8\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/22/22227544.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Prez-to-make-interim-budget-speech-on-August-30/342-243640",
-    "time_ut": 1661323073,
-    "original_lang": "en",
-    "original_title": "Prez to make interim-budget speech on August 30",
-    "file_name": "/tmp/news_lk2/articles/d8/d892aefc.json"
   }
 ]
