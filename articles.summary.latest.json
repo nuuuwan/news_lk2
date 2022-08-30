@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/\u0db8\u0dd9\u0dbb\u0da7-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a-\u0d85\u0db7\u0dd2\u0dc0\u0dd8\u0daf\u0dca\u0db0\u0dd2\u0dba\u0dda-\u0da2\u0dd3\u0dc0\u0db1\u0dcf\u0dbd\u0dd2\u0dba-\u0d87\u0d9f\u0dbd\u0dd4\u0db8\u0dca-\u0db6\u0dc0-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/7-396755",
+    "time_ut": 1661882278,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd9\u0dbb\u0da7 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0db7\u0dd2\u0dc0\u0dd8\u0daf\u0dca\u0db0\u0dd2\u0dba\u0dda \u0da2\u0dd3\u0dc0\u0db1\u0dcf\u0dbd\u0dd2\u0dba \u0d87\u0d9f\u0dbd\u0dd4\u0db8\u0dca \u0db6\u0dc0 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/89/895a4b29.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/Asia-Pacific-Seeds-for-the-Future-2022-\u0daf\u0dd2\u0dba\u0dad\u0dca-\u0dc0\u0dda/7-396753",
+    "time_ut": 1661882146,
+    "original_lang": "si",
+    "original_title": "Asia Pacific Seeds for the Future 2022 \u0daf\u0dd2\u0dba\u0dad\u0dca \u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/b0/b08a445b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/\u0d85\u0da9\u0dd4-\u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca\u0dbd\u0dcf\u0db7\u0dd3\u0db1\u0dca\u0da7-\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7-\u0dc0\u0dbb\u0dcf\u0dba-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0dbd\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca-\u0daf\u0dd9\u0dba\u0dd2/7-396752",
+    "time_ut": 1661882037,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0da9\u0dd4 \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca\u0dbd\u0dcf\u0db7\u0dd3\u0db1\u0dca\u0da7 \u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0dc0\u0dbb\u0dcf\u0dba \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0dbd\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f9/f9676231.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a-\u0dc3\u0dc4\u0dad\u0dd2\u0d9a-\u0db4\u0dad\u0dca\u200d\u0dbb-\u0db4\u0dcf\u0da8\u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca-\u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf-\u0daf\u0dd9\u0dba\u0dd2/7-396751",
+    "time_ut": 1661881692,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0db4\u0dad\u0dca\u200d\u0dbb \u0db4\u0dcf\u0da8\u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/60/60e206b6.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84652/amber-flood-warning-for-low-lying-areas-of-several-rivers",
     "time_ut": 1661880540,
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Prime Minister urges Daraz to expand Saubhagya Production Village program",
     "file_name": "/tmp/news_lk2/articles/68/68ca723f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Police-cites-UN-resolution-as-relevant-for-detention-of-activists-under-PTA/56-739107",
-    "time_ut": 1661469064,
-    "original_lang": "en",
-    "original_title": "Police cites UN resolution as relevant for detention of activists under PTA",
-    "file_name": "/tmp/news_lk2/articles/b5/b500ac95.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/President-Ramaphosa-keen-to-further-enhance-ties-with-Sri-Lanka/56-739106",
-    "time_ut": 1661469047,
-    "original_lang": "en",
-    "original_title": "President Ramaphosa keen to further enhance ties with Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/7e/7eb223bf.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Ranjan-apologises-profusely-to-CJ-SC-ahead-of-release/56-739105",
-    "time_ut": 1661469028,
-    "original_lang": "en",
-    "original_title": "Ranjan apologises \u2018profusely\u2019 to CJ, SC ahead of release",
-    "file_name": "/tmp/news_lk2/articles/8b/8bb198de.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/WHO-pledges-4-m-worth-medical-supplies-to-SL/56-739104",
-    "time_ut": 1661468946,
-    "original_lang": "en",
-    "original_title": "WHO pledges $ 4 m worth medical supplies to SL",
-    "file_name": "/tmp/news_lk2/articles/27/275f5e4c.json"
   }
 ]

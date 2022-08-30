@@ -1,20 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-30 23:23:10 (LK time)*
+*As of 2022-08-30 23:40:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (4 Articles)
+
+* **4** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
+
+## Last Hour (5 Articles)
+
+* **4** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
 * **1** ada-derana-lk ([‘Amber’ flood warning for low-lying areas of several rivers](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeb52246.json))
 
-## Last Hour (2 Articles)
+## Last 3 Hours (12 Articles)
 
-* **1** ada-derana-lk ([‘Amber’ flood warning for low-lying areas of several rivers](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeb52246.json))
-
-* **1** lankadeepa-lk ([කෝටි 6ක අබිලි  රේගුවේ හිරවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f615062.json))
-
-## Last 3 Hours (8 Articles)
+* **4** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
 * **3** lankadeepa-lk ([මෙරට අර්බුදය තවත් දරුණු අතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8625e9d.json))
 
@@ -24,25 +26,25 @@
 
 * **1** tamil-mirror-lk ([பெற்றோல் குறித்து அமைச்சரின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47f91416.json))
 
-## Last 24 Hours (244 Articles)
+## Last 24 Hours (247 Articles)
+
+* **41** ada-lk ([මට්ටක්කුලිය වෙඩි තැබීමකින් තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74a98e13.json))
 
 * **39** lankadeepa-lk ([ඉන්ධන පෝලිම්වල වගකීම තෙල් සංස්ථාව ගත යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d6ee4a3.json))
 
 * **38** tamil-mirror-lk ([மட்டக்குளியில் துப்பாக்கி பிரயோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/209ee370.json))
 
-* **37** ada-lk ([මට්ටක්කුලිය වෙඩි තැබීමකින් තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74a98e13.json))
-
 * **35** ada-derana-lk ([Japan hands over food donation to help Sri Lanka respond to rising food insecurity](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c7c9450.json))
 
 * **35** news-first-lk ([Mattakkuliya man gunned down by motorcycle gunmen](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71fe3a19.json))
 
-* **27** daily-mirror-lk ([Need to reform PTA ahead of UNHRC session](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7d27bd2.json))
+* **26** daily-mirror-lk ([Import ban delivers hard blow on soft tissue paper industry](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e06afa51.json))
 
 * **22** economy-next-com ([Sri Lanka PM seeks ideas for new oversight committees amid COPE, COPA controversy](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4681a46.json))
 
 * **11** daily-ft-lk ([Maithri vows to form Govt. with leftist Opposition parties](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4833ef4.json))
 
-## Last Week (1,406 Articles)
+## Last Week (1,410 Articles)
 
 * **248** lankadeepa-lk ([තවත් භාණ්ඩ 300ක් ආනයනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f66d41f.json))
 
@@ -52,7 +54,7 @@
 
 * **177** daily-mirror-lk ([Govt. slaps import ban on wide range of goods](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f44a11f.json))
 
-* **170** ada-lk ([රජයේ සේවකයන් හෙට සිට සාමාන්‍ය  ලෙස වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b56b0500.json))
+* **174** ada-lk ([රජයේ සේවකයන් හෙට සිට සාමාන්‍ය  ලෙස වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b56b0500.json))
 
 * **160** ada-derana-lk ([Sri Lanka aims to cut fiscal deficit in budget 2023](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/444a0ec7.json))
 
@@ -66,11 +68,11 @@
 
 * **7** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## All Time (3,910 Articles)
+## All Time (3,915 Articles)
 
 * **698** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **501** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **506** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **500** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
