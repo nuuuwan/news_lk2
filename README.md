@@ -1,48 +1,40 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-30 21:00:06 (LK time)*
+*As of 2022-08-30 21:21:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (2 Articles)
 
 * **1** tamil-mirror-lk ([பெற்றோல் குறித்து அமைச்சரின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47f91416.json))
 
 * **1** news-first-lk ([If APG is not possible, next alternative is an Election: Maithree](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e906ace1.json))
 
-## Last Hour (3 Articles)
-
-* **2** tamil-mirror-lk ([இலங்கைக்காக ஜப்பான் செய்யவுள்ள விடயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48bd1cfb.json))
-
-* **1** news-first-lk ([If APG is not possible, next alternative is an Election: Maithree](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e906ace1.json))
-
-## Last 3 Hours (27 Articles)
+## Last 3 Hours (22 Articles)
 
 * **8** news-first-lk ([Suspect remanded for stealing liquor bottle from RWs private home](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b98be36f.json))
 
-* **5** tamil-mirror-lk ([இலங்கைபோல பங்களாதேஷ் மூழ்காது](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4ea7fafb.json))
+* **4** tamil-mirror-lk ([வரவு செலவு திட்டத்தை நடைமுறைப்படுத்த முடியாது](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/681f2a82.json))
 
-* **5** ada-derana-lk ([25 arrested during IUSF protest in Maradana](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8ce109c.json))
+* **4** ada-derana-lk ([Another petition against Sanath Nishantha over contempt of court](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1616a49.json))
 
-* **3** economy-next-com ([Sri Lanka reduces retirement age among measures to rationalize state-sector](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d352b32.json))
-
-* **3** daily-mirror-lk ([Tear gassed...](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9b60d77.json))
+* **2** economy-next-com ([Sri Lanka stocks recover from near 3-wk low in moderate turnover; more gains expected](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0662145.json))
 
 * **2** lankadeepa-lk ([සංවර්ධන නිලධාරිනියට  සැමියා තියුණු ආයුධයකින් පහරදීලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ca456e.json))
 
-* **1** ada-lk ([අන්තරේ විරෝධයට ආපු 25ක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/689868c7.json))
+* **2** daily-mirror-lk ([Prez has a challenge to setup credible mechanism to probe enforced disappearances: Sandya Eknaligoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f67785d0.json))
 
-## Last 24 Hours (260 Articles)
+## Last 24 Hours (258 Articles)
 
 * **43** tamil-mirror-lk ([பாணின் விலை ரூ.300ஐ தாண்டும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a01f3252.json))
 
 * **39** ada-lk ([නාසා හඳ තරණය එන්ජිමේ දෝෂයක් නිසා නතර වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d90de855.json))
 
-* **38** lankadeepa-lk ([රත්මලාන දුම්රිය වැඩපොළ සොරුගෙන් බේරාගැනීමට ආරක්ෂක වැඩපිළිවෙළක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09a235d0.json))
+* **37** lankadeepa-lk ([වයස 13  සාපෙළ ජයගත් සනහස් 15 උසස් පෙළ ජය ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7f99994.json))
 
 * **35** news-first-lk ([Still, no Chairmen to COPE & COPA, why the delay? – Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1347fba6.json))
 
-* **35** ada-derana-lk ([US will redouble efforts to support Sri Lanka - Ambassador Chung](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e5a32d9.json))
+* **34** ada-derana-lk ([Foreign Minister to address 51st session of UNHRC](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf6c5e85.json))
 
 * **33** daily-mirror-lk ([Price of bread could rise to Rs.300? - Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aed58c1.json))
 
