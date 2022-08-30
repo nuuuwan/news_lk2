@@ -1,24 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-31 00:55:39 (LK time)*
+*As of 2022-08-31 01:18:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
+
+## Last 30 Minutes (1 Articles)
+
+* **1** tamil-mirror-lk ([நாணய நிதியத்தின் பிரதிநிதிகள் – சஜித் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4e94071.json))
+
+## Last Hour (1 Articles)
+
+* **1** tamil-mirror-lk ([நாணய நிதியத்தின் பிரதிநிதிகள் – சஜித் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4e94071.json))
 
 ## Last 3 Hours (13 Articles)
 
 * **10** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
-* **2** lankadeepa-lk ([ජනපති නිවෙසින් රට බීම ඉස්සූ අරගලකරුවා රිමාන්ඩ්](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/98388e3b.json))
+* **1** tamil-mirror-lk ([நாணய நிதியத்தின் பிரதிநிதிகள் – சஜித் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4e94071.json))
 
 * **1** ada-derana-lk ([‘Amber’ flood warning for low-lying areas of several rivers](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeb52246.json))
 
-## Last 24 Hours (248 Articles)
+* **1** lankadeepa-lk ([කෝටි 6ක අබිලි  රේගුවේ හිරවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f615062.json))
+
+## Last 24 Hours (247 Articles)
 
 * **47** ada-lk ([මට්ටක්කුලිය වෙඩි තැබීමකින් තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74a98e13.json))
 
 * **39** lankadeepa-lk ([ඉන්ධන පෝලිම්වල වගකීම තෙල් සංස්ථාව ගත යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d6ee4a3.json))
 
-* **38** tamil-mirror-lk ([மட்டக்குளியில் துப்பாக்கி பிரயோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/209ee370.json))
+* **37** tamil-mirror-lk ([இடைக்கால வரவு - செலவு திட்டம் இன்று](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a0da799.json))
 
 * **35** news-first-lk ([Mattakkuliya man gunned down by motorcycle gunmen](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71fe3a19.json))
 
@@ -36,13 +46,13 @@
 
 * **217** news-first-lk ([IMF team to visit Sri Lanka today (24)](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4df9e7e6.json))
 
-* **181** tamil-mirror-lk ([ரயில் சேவையை முன்னெடுப்பதில் சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6a3f977.json))
+* **182** tamil-mirror-lk ([ரயில் சேவையை முன்னெடுப்பதில் சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6a3f977.json))
 
 * **179** ada-lk ([ජීප් - ලොරි ගැටී ගුරුවරිය මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c499f020.json))
 
 * **177** daily-mirror-lk ([Govt. slaps import ban on wide range of goods](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f44a11f.json))
 
-* **160** ada-derana-lk ([Sri Lanka aims to cut fiscal deficit in budget 2023](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/444a0ec7.json))
+* **159** ada-derana-lk ([Rainfall expected at times in several areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f78c7e89.json))
 
 * **103** economy-next-com ([Egg in the face of Sri Lanka President’s ‘Social Market Economy’](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39240274.json))
 
@@ -54,7 +64,7 @@
 
 * **7** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## All Time (3,921 Articles)
+## All Time (3,922 Articles)
 
 * **698** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -64,7 +74,7 @@
 
 * **487** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
-* **448** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **449** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **387** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
