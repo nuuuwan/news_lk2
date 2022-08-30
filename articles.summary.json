@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84647/sri-lanka-reports-3-more-covid-19-deaths-74-cases",
+    "time_ut": 1661864940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka reports 3 more Covid-19 deaths, 74 cases",
+    "file_name": "/tmp/news_lk2/articles/cb/cb9f0fd8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84646/another-petition-against-sanath-nishantha-over-contempt-of-court",
+    "time_ut": 1661864700,
+    "original_lang": "en",
+    "original_title": "Another petition against Sanath Nishantha over contempt of court",
+    "file_name": "/tmp/news_lk2/articles/a1/a1616a49.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-recover-from-near-3-wk-low-in-moderate-turnover-more-gains-expected-99204/",
+    "time_ut": 1661864700,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks recover from near 3-wk low in moderate turnover; more gains expected",
+    "file_name": "/tmp/news_lk2/articles/d0/d0662145.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Customs-seize-illegally-imported-scrap-metal/342-244019",
+    "time_ut": 1661864359,
+    "original_lang": "en",
+    "original_title": "Customs seize illegally imported scrap metal",
+    "file_name": "/tmp/news_lk2/articles/ed/ed65e0d0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/another-petition-against-sanath-nishantha/",
+    "time_ut": 1661864220,
+    "original_lang": "en",
+    "original_title": "Another petition against Sanath Nishantha",
+    "file_name": "/tmp/news_lk2/articles/f5/f5fc7fef.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/suspect-remanded-for-stealing-liquor-bottle-from-rws-private-home/",
+    "time_ut": 1661864160,
+    "original_lang": "en",
+    "original_title": "Suspect remanded for stealing liquor bottle from RWs private home",
+    "file_name": "/tmp/news_lk2/articles/b9/b98be36f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84645/25-arrested-during-iusf-protest-in-maradana",
+    "time_ut": 1661863620,
+    "original_lang": "en",
+    "original_title": "25 arrested during IUSF protest in Maradana",
+    "file_name": "/tmp/news_lk2/articles/c8/c8ce109c.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-reduces-retirement-age-among-measures-to-rationalize-state-sector-99200/",
     "time_ut": 1661863380,
