@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0dd2\u0db1\u0dca-\u0dbb\u0da7-\u0db6\u0dd3\u0db8-\u0d89\u0dc3\u0dca\u0dc3\u0dd6-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0dcf-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/101-619028",
+    "time_ut": 1661877463,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0dd2\u0db1\u0dca \u0dbb\u0da7 \u0db6\u0dd3\u0db8 \u0d89\u0dc3\u0dca\u0dc3\u0dd6 \u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0dcf \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "file_name": "/tmp/news_lk2/articles/27/2766accd.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd9\u0dbb\u0da7-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba-\u0dad\u0dc0\u0dad\u0dca-\u0daf\u0dbb\u0dd4\u0dab\u0dd4-\u0d85\u0dad\u0da7/101-619027",
+    "time_ut": 1661876713,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd9\u0dbb\u0da7 \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba \u0dad\u0dc0\u0dad\u0dca \u0daf\u0dbb\u0dd4\u0dab\u0dd4 \u0d85\u0dad\u0da7",
+    "file_name": "/tmp/news_lk2/articles/a8/a8625e9d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84651/minister-kanchana-says-fuel-distribution-lapses-rectified",
+    "time_ut": 1661876400,
+    "original_lang": "en",
+    "original_title": "Minister Kanchana says fuel distribution lapses rectified",
+    "file_name": "/tmp/news_lk2/articles/4a/4ae8c4f6.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/30/35-000-mt-of-petrol-unloaded-tonight-30/",
     "time_ut": 1661874600,
@@ -73,11 +97,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0daf\u0dd2\u0dbb\u0dd2-\u0daf\u0dd2\u0db1-\u0d9c\u0dd0\u0db1-\u0dc0\u0dcf\u0dbb\u0dd2\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dd9\u0db1\u0dca-\u0dbb\u0dad\u0dd4-\u0d91\u0dc5\u0dd2\u0dba\u0d9a\u0dca/1-619026",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0daf\u0dd2\u0dbb\u0dd2-\u0daf\u0dd2\u0db1-\u0d9c\u0dd0\u0db1-\u0dc0\u0dcf\u0dbb\u0dd2\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dd9\u0db1\u0dca-\u0dbb\u0dad\u0dd4-\u0d91\u0dc5\u0dd2\u0dba\u0d9a\u0dca/101-619026",
     "time_ut": 1661868569,
     "original_lang": "si",
     "original_title": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0daf\u0dd2\u0db1 \u0d9c\u0dd0\u0db1 \u0dc0\u0dcf\u0dbb\u0dd2\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0dbb\u0dad\u0dd4 \u0d91\u0dc5\u0dd2\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/f3/f3dc8f07.json"
+    "file_name": "/tmp/news_lk2/articles/7f/7f36120b.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Poor decisions could kill egg exports from Sri Lanka, says industry",
     "file_name": "/tmp/news_lk2/articles/46/462b89eb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-to-welcome-more-Swiss-travellers-this-winter-with-travel-advisory-easing/108-243753",
-    "time_ut": 1661465776,
-    "original_lang": "en",
-    "original_title": "\u200bSL to welcome more Swiss travellers this winter with travel advisory easing",
-    "file_name": "/tmp/news_lk2/articles/b9/b9e1b25f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/The-place-for-law-in-a-country-obsessed-WITH-peace-and-religion-EDITORIAL/231-243751",
-    "time_ut": 1661462025,
-    "original_lang": "en",
-    "original_title": "The place for law in a country obsessed WITH peace and religion - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/3e/3e18c902.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Ukraine-war-Sri-Lanka-and-IMF-prescriptions/172-243750",
-    "time_ut": 1661461946,
-    "original_lang": "en",
-    "original_title": "Ukraine war, Sri Lanka and IMF prescriptions",
-    "file_name": "/tmp/news_lk2/articles/dd/dd0d7dde.json"
   }
 ]
