@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/fm-ali-sabry-to-lead-sri-lanka-at-unhrc/",
+    "time_ut": 1661834100,
+    "original_lang": "en",
+    "original_title": "FM Ali Sabry to lead Sri Lanka at UNHRC",
+    "file_name": "/tmp/news_lk2/articles/48/481da9e6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/imf-board-releases-over-1-1-bln-in-pakistan-bailout-funds/",
+    "time_ut": 1661833680,
+    "original_lang": "en",
+    "original_title": "IMF board releases over $1.1 bln in Pakistan bailout funds",
+    "file_name": "/tmp/news_lk2/articles/e6/e6d83964.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/thundershowers-expected-tonight-30/",
+    "time_ut": 1661833020,
+    "original_lang": "en",
+    "original_title": "Thundershowers expected tonight (30)",
+    "file_name": "/tmp/news_lk2/articles/69/693db478.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dc3\u0db7\u0dcf\u0dc0-\u0d9c\u0dd0\u0db1-\u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad-\u0db4\u0d9a\u0dca\u0dc2-\u0db1\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-396715",
+    "time_ut": 1661832885,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc3\u0db7\u0dcf\u0dc0 \u0d9c\u0dd0\u0db1 \u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad \u0db4\u0d9a\u0dca\u0dc2 \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d4/d4ec1654.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/sri-lankan-president-to-present-his-first-budget-today-30/",
+    "time_ut": 1661832480,
+    "original_lang": "en",
+    "original_title": "Sri Lankan President to present his first budget today (30)",
+    "file_name": "/tmp/news_lk2/articles/37/37e66265.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/us-to-redouble-efforts-to-support-crisis-hit-sri-lanka-ambassador-99167/",
+    "time_ut": 1661832360,
+    "original_lang": "en",
+    "original_title": "US to redouble efforts to support crisis-hit Sri Lanka: Ambassador",
+    "file_name": "/tmp/news_lk2/articles/73/736dac40.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0bb0\u0b9a\u0bbf\u0b95\u0bb0\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/44-303227",
     "time_ut": 1661830612,
@@ -14,6 +62,14 @@
     "original_lang": "en",
     "original_title": "Committee on procurement of fuel and coal",
     "file_name": "/tmp/news_lk2/articles/0e/0eda14c7.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dca\u0dc0\u0dd3\u0da9\u0db1\u0dba-\u0dc4\u0dcf-\u0da9\u0dd9\u0db1\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0d9a\u0dba-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a-\u0d8b\u0db4\u0daf\u0dda\u0dc1-\u0dbd\u0dd2\u0dc4\u0dd2\u0dbd\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-396714",
+    "time_ut": 1661829974,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dca\u0dc0\u0dd3\u0da9\u0db1\u0dba \u0dc4\u0dcf \u0da9\u0dd9\u0db1\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0d9a\u0dba \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0d8b\u0db4\u0daf\u0dda\u0dc1 \u0dbd\u0dd2\u0dc4\u0dd2\u0dbd\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/31/315f2bc9.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Concerns raised on \u2018insulting\u2019 comments made by Sanath Nishantha against judges",
     "file_name": "/tmp/news_lk2/articles/0a/0a5e29e2.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Counsels-to-file-FRs-against-detention-of-IUSF-activists-under-PTA/56-739076",
-    "time_ut": 1661371061,
-    "original_lang": "en",
-    "original_title": "Counsels to file FRs against detention of IUSF activists under PTA",
-    "file_name": "/tmp/news_lk2/articles/6f/6f2845b3.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Aussie-Parliamentarian-Ondarchie-visits-Port-City-Commission/56-739075",
-    "time_ut": 1661370927,
-    "original_lang": "en",
-    "original_title": "Aussie Parliamentarian Ondarchie visits Port City Commission",
-    "file_name": "/tmp/news_lk2/articles/ac/ac4a6aa0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/MAS-Holdings-finalist-in-Diversity-Equity-and-Inclusion-Category-at-Reuters-Events-Responsible-Business-Awards-2022/34-739074",
-    "time_ut": 1661370756,
-    "original_lang": "en",
-    "original_title": "MAS Holdings finalist in Diversity, Equity and Inclusion Category at Reuters Events: Responsible Business Awards 2022",
-    "file_name": "/tmp/news_lk2/articles/66/668a5481.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Unleash-excellence-in-the-new-normal-SLASSCOM-to-hold-6th-successive-Quality-Summit/34-739073",
-    "time_ut": 1661370423,
-    "original_lang": "en",
-    "original_title": "\u201cUnleash excellence in the new normal\u201d: SLASSCOM to hold 6th successive Quality Summit",
-    "file_name": "/tmp/news_lk2/articles/2f/2ff27689.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84522/thai-court-suspends-pm-prayuth-chan-ocha-from-duties",
-    "time_ut": 1661365740,
-    "original_lang": "en",
-    "original_title": "Thai court suspends PM Prayuth Chan-ocha from duties",
-    "file_name": "/tmp/news_lk2/articles/2d/2d9b8dd6.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84522/prayuth-chan-ocha-thai-court-suspends-pm-and-coup-leader",
-    "time_ut": 1661365740,
-    "original_lang": "en",
-    "original_title": "Prayuth Chan-ocha: Thai court suspends PM and coup leader",
-    "file_name": "/tmp/news_lk2/articles/93/93badc7d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84521/circular-issued-for-govt-officials-to-take-no-pay-leave-for-foreign-jobs",
-    "time_ut": 1661365680,
-    "original_lang": "en",
-    "original_title": "Circular issued for govt officials to take no-pay leave for foreign jobs",
-    "file_name": "/tmp/news_lk2/articles/ec/ec2b4f91.json"
   }
 ]
