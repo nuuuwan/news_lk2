@@ -1,11 +1,83 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84628/sri-lanka-to-introduce-5-year-multiple-entry-tourist-visa",
+    "time_ut": 1661841240,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to introduce 5-year multiple entry tourist visa",
+    "file_name": "/tmp/news_lk2/articles/3a/3ac2af7b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-extends-multiple-entry-tourist-visa-to-five-years-99176/",
+    "time_ut": 1661841060,
+    "original_lang": "en",
+    "original_title": "Sri Lanka extends multiple-entry tourist visa to five years",
+    "file_name": "/tmp/news_lk2/articles/03/035129df.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/5-year-multiple-entry-tourist-visa-with-6-months-stay-for-35-countries-Harin/342-243995",
+    "time_ut": 1661840524,
+    "original_lang": "en",
+    "original_title": "5-year multiple entry tourist visa with 6 months stay for 35 countries: Harin",
+    "file_name": "/tmp/news_lk2/articles/24/24943781.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/kerala-cannabis-worth-rs-15-mn-seized/",
+    "time_ut": 1661840220,
+    "original_lang": "en",
+    "original_title": "Kerala cannabis worth Rs 15 Mn seized",
+    "file_name": "/tmp/news_lk2/articles/14/1405e328.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0ddc\u0dbb\u0d9c\u0ddc\u0dbd\u0dca\u0dbd-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda\u0daf\u0dd3-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4-\u0d9a\u0db4\u0dcf-\u0d9a\u0ddc\u0da7\u0dcf-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/1-618992",
+    "time_ut": 1661840059,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0ddc\u0dbb\u0d9c\u0ddc\u0dbd\u0dca\u0dbd \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda\u0daf\u0dd3 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4 \u0d9a\u0db4\u0dcf \u0d9a\u0ddc\u0da7\u0dcf \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f7/f773e1d3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d91\u0daf\u0dcf-\u0dc0\u0dda\u0dbd-\u0da7\u0dd4\u0dc0\u0dbb\u0dca\u0dc3\u0dca-\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda-\u0db6\u0da9\u0d9c\u0dd2\u0db1\u0dca\u0db1-\u0d89\u0dc4\u0dc5-\u0dba\u0db1\u0dc0\u0dcf/1-618991",
+    "time_ut": 1661839840,
+    "original_lang": "si",
+    "original_title": "\u0d91\u0daf\u0dcf \u0dc0\u0dda\u0dbd \u0da7\u0dd4\u0dc0\u0dbb\u0dca\u0dc3\u0dca \u0db4\u0dcf\u0dbd\u0db1\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda \u0db6\u0da9\u0d9c\u0dd2\u0db1\u0dca\u0db1 \u0d89\u0dc4\u0dc5 \u0dba\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/2c/2cf854ce.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84627/three-arrested-over-assault-on-sdig-tennakoon",
+    "time_ut": 1661839740,
+    "original_lang": "en",
+    "original_title": "Three arrested over assault on SDIG Tennakoon",
+    "file_name": "/tmp/news_lk2/articles/c5/c5aeb156.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/30/only-100-bowsers-delivering-fuel-in-sri-lanka/",
     "time_ut": 1661839500,
     "original_lang": "en",
     "original_title": "Only 100 Bowsers delivering fuel in Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/74/748c5177.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/live-blog-appropriation-amendment-bill/",
+    "time_ut": 1661839200,
+    "original_lang": "en",
+    "original_title": "Live blog: Appropriation (Amendment) Bill 2022",
+    "file_name": "/tmp/news_lk2/articles/19/19906694.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0d82\u0da2\u0dcf-\u0d9a\u0dd2\u0dbd\u0ddd-50\u0d9a\u0dca-\u0dc3\u0db8\u0d9c-02\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6/11-396719",
+    "time_ut": 1661839016,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0d82\u0da2\u0dcf \u0d9a\u0dd2\u0dbd\u0ddd 50\u0d9a\u0dca \u0dc3\u0db8\u0d9c 02\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6",
+    "file_name": "/tmp/news_lk2/articles/a0/a0f0fa06.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -46,6 +118,14 @@
     "original_lang": "si",
     "original_title": "\u0daf\u0dda\u0dc1\u0db6\u0db1\u0dca\u0daf\u0dd4 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
     "file_name": "/tmp/news_lk2/articles/cf/cfa94800.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dda\u0dc1\u0db6\u0db1\u0dca\u0daf\u0dd4-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-618990",
+    "time_ut": 1661837955,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dda\u0dc1\u0db6\u0db1\u0dca\u0daf\u0dd4 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/9a/9af44893.json"
   },
   {
     "newspaper_id": "economy-next-com",
