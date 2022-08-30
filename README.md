@@ -1,26 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-31 01:18:06 (LK time)*
+*As of 2022-08-31 01:37:42 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** tamil-mirror-lk ([நாணய நிதியத்தின் பிரதிநிதிகள் – சஜித் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4e94071.json))
 
 ## Last Hour (1 Articles)
 
 * **1** tamil-mirror-lk ([நாணய நிதியத்தின் பிரதிநிதிகள் – சஜித் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4e94071.json))
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (12 Articles)
 
 * **10** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
 * **1** tamil-mirror-lk ([நாணய நிதியத்தின் பிரதிநிதிகள் – சஜித் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4e94071.json))
 
 * **1** ada-derana-lk ([‘Amber’ flood warning for low-lying areas of several rivers](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeb52246.json))
-
-* **1** lankadeepa-lk ([කෝටි 6ක අබිලි  රේගුවේ හිරවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f615062.json))
 
 ## Last 24 Hours (247 Articles)
 
