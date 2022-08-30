@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-30 22:25:06 (LK time)*
+*As of 2022-08-30 22:44:58 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (2 Articles)
-
-* **2** lankadeepa-lk ([මෙරට අර්බුදය තවත් දරුණු අතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8625e9d.json))
 
 ## Last Hour (3 Articles)
 
@@ -14,25 +10,25 @@
 
 * **1** ada-derana-lk ([Minister Kanchana says fuel distribution lapses rectified](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ae8c4f6.json))
 
-## Last 3 Hours (16 Articles)
+## Last 3 Hours (11 Articles)
 
-* **6** news-first-lk ([Denmark and Sweden ease travel restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82214ba1.json))
-
-* **4** lankadeepa-lk ([සංවර්ධන නිලධාරිනියට  සැමියා තියුණු ආයුධයකින් පහරදීලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ca456e.json))
+* **4** news-first-lk ([Merchandise export earnings in July increased to USD 1.1Bn](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2e109a2.json))
 
 * **3** tamil-mirror-lk ([மத்திய வங்கி ஆளுநர் விடுத்துள்ள அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f82a6ea0.json))
 
-* **2** ada-derana-lk ([Sri Lanka has made good progress in negotiations with IMF - CBSL chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72ea2465.json))
+* **2** lankadeepa-lk ([මෙරට අර්බුදය තවත් දරුණු අතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8625e9d.json))
+
+* **1** ada-derana-lk ([Minister Kanchana says fuel distribution lapses rectified](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ae8c4f6.json))
 
 * **1** economy-next-com ([Sri Lanka bakery owners shift price control drumbeat from eggs to wheat flour](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00e66c9d.json))
 
-## Last 24 Hours (251 Articles)
+## Last 24 Hours (249 Articles)
 
 * **39** tamil-mirror-lk ([கஞ்சனவின் கோரிக்கையை ஏற்றார் சம்பிக்க](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92eb4055.json))
 
 * **38** lankadeepa-lk ([ඉන්ධන පෝලිම්වල වගකීම තෙල් සංස්ථාව ගත යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d6ee4a3.json))
 
-* **38** ada-lk ([අලි සබ්රි හා විජයදාස ජිනීවා යති](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b749fb0f.json))
+* **37** ada-lk ([මට්ටක්කුලිය වෙඩි තැබීමකින් තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74a98e13.json))
 
 * **35** ada-derana-lk ([Foreign Minister to address 51st session of UNHRC](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf6c5e85.json))
 
@@ -44,15 +40,13 @@
 
 * **11** daily-ft-lk ([Maithri vows to form Govt. with leftist Opposition parties](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4833ef4.json))
 
-* **1** island-lk ([DJ Shawnn padding up!](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0017cab.json))
-
-## Last Week (1,414 Articles)
+## Last Week (1,408 Articles)
 
 * **247** lankadeepa-lk ([තවත් භාණ්ඩ 300ක් ආනයනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f66d41f.json))
 
 * **217** news-first-lk ([IMF team to visit Sri Lanka today (24)](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4df9e7e6.json))
 
-* **184** tamil-mirror-lk ([சிறுவர் இல்லத்தில் இருந்த மூவர் தப்பியோட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86d7dd52.json))
+* **183** tamil-mirror-lk ([’கொரோனா பேரழிவு நிலை உருவாகலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc3c3033.json))
 
 * **177** daily-mirror-lk ([Govt. slaps import ban on wide range of goods](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f44a11f.json))
 
@@ -60,9 +54,9 @@
 
 * **160** ada-derana-lk ([State sector employees required to report for duty as usual](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbf47555.json))
 
-* **105** economy-next-com ([Sri Lanka halts imports of over 300 items](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a96f0522.json))
+* **104** economy-next-com ([Sri Lanka President allows imports of electrical bikes amid soft-peg crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3dde096.json))
 
-* **65** island-lk ([Profit-takings in Lanka IOC, Expolanka Holdings and Lankem Development; turnover Rs. 4.9 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4b6b03a.json))
+* **61** island-lk ([Delisting of former proscribed entities](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8fdf8e31.json))
 
 * **60** daily-ft-lk ([First tribal woman president symbolises India’s pluralist legacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a998f7.json))
 
