@@ -1,24 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-30 21:47:29 (LK time)*
+*As of 2022-08-30 21:59:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** news-first-lk ([35,000 MT of Petrol unloaded tonight (30)](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d65c0d81.json))
 
-## Last Hour (2 Articles)
+## Last 3 Hours (14 Articles)
 
-* **1** news-first-lk ([35,000 MT of Petrol unloaded tonight (30)](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d65c0d81.json))
+* **6** news-first-lk ([Denmark and Sweden ease travel restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82214ba1.json))
 
-* **1** tamil-mirror-lk ([பெற்றோல் குறித்து அமைச்சரின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47f91416.json))
-
-## Last 3 Hours (16 Articles)
-
-* **7** news-first-lk ([Sri Lanka in final stages of IMF talks – President](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6dfa95f.json))
-
-* **4** tamil-mirror-lk ([வரவு செலவு திட்டத்தை நடைமுறைப்படுத்த முடியாது](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/681f2a82.json))
+* **3** tamil-mirror-lk ([மத்திய வங்கி ஆளுநர் விடுத்துள்ள அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f82a6ea0.json))
 
 * **2** lankadeepa-lk ([සංවර්ධන නිලධාරිනියට  සැමියා තියුණු ආයුධයකින් පහරදීලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ca456e.json))
 
@@ -26,11 +20,11 @@
 
 * **1** economy-next-com ([Sri Lanka bakery owners shift price control drumbeat from eggs to wheat flour](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00e66c9d.json))
 
-## Last 24 Hours (254 Articles)
+## Last 24 Hours (252 Articles)
 
-* **40** tamil-mirror-lk ([சனத் நிஷாந்தவுக்கு எதிராக மனுத்தாக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5ace913e.json))
+* **39** tamil-mirror-lk ([கஞ்சனவின் கோரிக்கையை ஏற்றார் சம்பிக்க](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92eb4055.json))
 
-* **39** ada-lk ([නාසා හඳ තරණය එන්ජිමේ දෝෂයක් නිසා නතර වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d90de855.json))
+* **38** ada-lk ([අලි සබ්රි හා විජයදාස ජිනීවා යති](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b749fb0f.json))
 
 * **37** lankadeepa-lk ([වයස 13  සාපෙළ ජයගත් සනහස් 15 උසස් පෙළ ජය ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7f99994.json))
 
@@ -46,9 +40,9 @@
 
 * **4** island-lk ([Ceylinco Life invests in a substantial stake in Kings Hospital](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e01557ec.json))
 
-## Last Week (1,414 Articles)
+## Last Week (1,412 Articles)
 
-* **247** lankadeepa-lk ([ගාල්ලේ ළමා නිවාසයකින් දරුවන් තිදෙනකු පැන ගිහින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0de47c2e.json))
+* **246** lankadeepa-lk ([ත්‍රස්තපනත ගැන නීතිඥ සංගමය කළ ඉල්ලීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7b31073.json))
 
 * **217** news-first-lk ([IMF team to visit Sri Lanka today (24)](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4df9e7e6.json))
 
@@ -58,7 +52,7 @@
 
 * **170** ada-lk ([රජයේ සේවකයන් හෙට සිට සාමාන්‍ය  ලෙස වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b56b0500.json))
 
-* **160** ada-derana-lk ([Sri Lanka suspends import of over 300 items](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e6ba21d.json))
+* **159** ada-derana-lk ([State sector employees required to report for duty as usual](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbf47555.json))
 
 * **105** economy-next-com ([Sri Lanka halts imports of over 300 items](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a96f0522.json))
 
