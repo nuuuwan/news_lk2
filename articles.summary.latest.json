@@ -1,5 +1,77 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/imf-delegation-meets-sajith-premadasa/",
+    "time_ut": 1661855640,
+    "original_lang": "en",
+    "original_title": "IMF delegation meets Sajith Premadasa",
+    "file_name": "/tmp/news_lk2/articles/eb/ebc0d223.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dc5\u0db9-\u0dc3\u0dc4-\u0d85\u0dc0\u0da7-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1-\u0dbb\u0dd0\u0dc3\u0d9a\u0da7-\u0db4\u0dd0\u0dba-18\u0d9a-\u0da2\u0dbd-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca/1-619013",
+    "time_ut": 1661855475,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dc3\u0dc4 \u0d85\u0dc0\u0da7 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1 \u0dbb\u0dd0\u0dc3\u0d9a\u0da7 \u0db4\u0dd0\u0dba 18\u0d9a \u0da2\u0dbd \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/87/87ad81ff.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-approves-5-year-multiple-entry-VISA-for-tourists-from-35-nations-with-6-months-stay/108-244011",
+    "time_ut": 1661854988,
+    "original_lang": "en",
+    "original_title": "Govt. approves 5-year multiple entry VISA for tourists from 35 nations with 6 months stay",
+    "file_name": "/tmp/news_lk2/articles/27/277ea302.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84640/special-decision-taken-on-20-stake-of-state-owned-banks",
+    "time_ut": 1661854980,
+    "original_lang": "en",
+    "original_title": "Special decision taken on 20% stake of state-owned banks",
+    "file_name": "/tmp/news_lk2/articles/d7/d72d5303.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84641/presidents-full-interim-budget-speech-2022",
+    "time_ut": 1661854980,
+    "original_lang": "en",
+    "original_title": "President\u2019s Full Interim Budget Speech 2022",
+    "file_name": "/tmp/news_lk2/articles/aa/aa3c1773.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/crisis-hit-sri-lankas-interim-budget-aims-ambitious-revenue-debt-cut-targets-99193/",
+    "time_ut": 1661854980,
+    "original_lang": "en",
+    "original_title": "Crisis-hit Sri Lanka\u2019s interim budget aims ambitious revenue, debt cut targets",
+    "file_name": "/tmp/news_lk2/articles/50/50996edd.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/5\u0b86\u0bae\u0bcd-\u0ba4\u0bbf\u0b95\u0ba4\u0bbf-\u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95\u0bae\u0bcd-\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd/175-303261",
+    "time_ut": 1661854620,
+    "original_lang": "ta",
+    "original_title": "5\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95\u0bae\u0bcd  \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/db/db249a0b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Road-accident-leaves-one-dead-two-critically-wounded/108-244010",
+    "time_ut": 1661854579,
+    "original_lang": "en",
+    "original_title": "Road accident leaves one dead, two critically wounded",
+    "file_name": "/tmp/news_lk2/articles/37/37359937.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dc4-\u0d9a\u0db1\u0dca\u0db1\u0dba-\u0db6\u0da9-\u0d89\u0dbb\u0dd2\u0d9f\u0dd4-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0db4\u0dd4\u0dbb\u0dc0\u0db1\u0dca\u0db1-\u0dba\u0dba\u0dd2/1-619011",
+    "time_ut": 1661854418,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dc4 \u0d9a\u0db1\u0dca\u0db1\u0dba \u0db6\u0da9 \u0d89\u0dbb\u0dd2\u0d9f\u0dd4 \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0db4\u0dd4\u0dbb\u0dc0\u0db1\u0dca\u0db1 \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f3/f3b2220a.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Technical-Junction-blocked-due-to-protest/108-244009",
     "time_ut": 1661854411,
@@ -57,11 +129,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda-\u0dc4\u0dcf-\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba-\u0dc3\u0db8\u0dd2\u0dad\u0dd2-\u0d91\u0d9a\u0dca\u0dc0-\u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf-\u0db4\u0dcf-\u0d9c\u0db8\u0db1-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/101-619010",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda-\u0dc4\u0dcf-\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba-\u0dc3\u0db8\u0dd2\u0dad\u0dd2-\u0d91\u0d9a\u0dca\u0dc0-\u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf-\u0db4\u0dcf-\u0d9c\u0db8\u0db1-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/1-619010",
     "time_ut": 1661853252,
     "original_lang": "si",
     "original_title": "\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda \u0dc4\u0dcf \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0dc3\u0db8\u0dd2\u0dad\u0dd2 \u0d91\u0d9a\u0dca\u0dc0 \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf \u0db4\u0dcf \u0d9c\u0db8\u0db1 \u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/4e/4e771c64.json"
+    "file_name": "/tmp/news_lk2/articles/51/51fef9f5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -78,6 +150,14 @@
     "original_lang": "en",
     "original_title": "Heavy traffic in Maradana due to protest",
     "file_name": "/tmp/news_lk2/articles/98/98c6756e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbd\u0ddc\u0dbb\u0dd2---\u0db6\u0dc3\u0dca-\u0d9c\u0dd0\u0da7\u0dd3-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-396745",
+    "time_ut": 1661852970,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0ddc\u0dbb\u0dd2 - \u0db6\u0dc3\u0dca \u0d9c\u0dd0\u0da7\u0dd3 \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/d0/d080a177.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7918,85 +7998,5 @@
     "original_lang": "en",
     "original_title": "Super Diesel cargo being unloaded after delay",
     "file_name": "/tmp/news_lk2/articles/ed/eda6f205.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84538/power-cut-schedule-for-tomorrow",
-    "time_ut": 1661428860,
-    "original_lang": "en",
-    "original_title": "Power cut schedule for tomorrow",
-    "file_name": "/tmp/news_lk2/articles/4c/4cbb6fe2.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0da7-\u0dc4\u0dd9\u0da7-\u0dc4\u0ddd--\u0dc3\u0db3\u0dd4\u0daf\u0dcf-\u0db1\u0dd2\u0daf\u0dc4\u0dc3/11-396612",
-    "time_ut": 1661428081,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0da7 \u0dc4\u0dd9\u0da7 \u0dc4\u0ddd  \u0dc3\u0db3\u0dd4\u0daf\u0dcf \u0db1\u0dd2\u0daf\u0dc4\u0dc3",
-    "file_name": "/tmp/news_lk2/articles/86/86e24f4b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/25/delayed-super-diesel-cargo-being-unloaded-distribution-to-continue-tonight/",
-    "time_ut": 1661427600,
-    "original_lang": "en",
-    "original_title": "Delayed Super Diesel cargo being unloaded, distribution to continue tonight",
-    "file_name": "/tmp/news_lk2/articles/ee/ee850b6c.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dab\u0dba-\u0dc3\u0dc4\u0db1-\u0d9c\u0dd0\u0db1-\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb\u0dba--\u0dc0\u0dd9\u0db1\u0dc3\u0dca-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0da0\u0dd2\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-396611",
-    "time_ut": 1661427458,
-    "original_lang": "si",
-    "original_title": "\u0dab\u0dba \u0dc3\u0dc4\u0db1 \u0d9c\u0dd0\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb\u0dba  \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0da0\u0dd2\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a0/a0deb78e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Jacqueline-Fernandez-asks-the-authorities-to-release-her-assets-attached-by-the-ED/108-243738",
-    "time_ut": 1661427431,
-    "original_lang": "en",
-    "original_title": "Jacqueline Fernandez asks the authorities to release her assets attached by the ED",
-    "file_name": "/tmp/news_lk2/articles/f8/f87bd818.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-canteen-association-to-launch-consumer-rights-political-party-99019/",
-    "time_ut": 1661427300,
-    "original_lang": "en",
-    "original_title": "Sri Lanka canteen association to launch consumer rights political party",
-    "file_name": "/tmp/news_lk2/articles/4d/4d1f272a.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84536/another-leopard-dies-after-caught-in-trap",
-    "time_ut": 1661427060,
-    "original_lang": "en",
-    "original_title": "Another leopard dies after caught in trap",
-    "file_name": "/tmp/news_lk2/articles/ff/ff7d9b38.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Govt-to-initiate-projects-to-manufacture-assemble-electric-vehicles/342-243737",
-    "time_ut": 1661426934,
-    "original_lang": "en",
-    "original_title": "Govt. to initiate projects to manufacture, assemble electric vehicles",
-    "file_name": "/tmp/news_lk2/articles/cd/cdef384a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/25/time-for-ranil-to-fulfil-pledge-on-repealing-pta-made-five-years-ago-sumanthiran/",
-    "time_ut": 1661426700,
-    "original_lang": "en",
-    "original_title": "Time for Ranil to fulfil pledge on repealing PTA made five years ago \u2013 Sumanthiran",
-    "file_name": "/tmp/news_lk2/articles/ed/ed1e49f5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Private-bus-operations-at-half-strength-from-tomorrow-Gemunu/342-243736",
-    "time_ut": 1661425860,
-    "original_lang": "en",
-    "original_title": "Private bus operations at half-strength from tomorrow: Gemunu",
-    "file_name": "/tmp/news_lk2/articles/e0/e01c9d3a.json"
   }
 ]
