@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84652/amber-flood-warning-for-low-lying-areas-of-several-rivers",
+    "time_ut": 1661880540,
+    "original_lang": "en",
+    "original_title": "\u2018Amber\u2019 flood warning for low-lying areas of several rivers",
+    "file_name": "/tmp/news_lk2/articles/ae/aeb52246.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddd\u0da7\u0dd2-6\u0d9a-\u0d85\u0db6\u0dd2\u0dbd\u0dd2--\u0dbb\u0dda\u0d9c\u0dd4\u0dc0\u0dda-\u0dc4\u0dd2\u0dbb\u0dc0\u0dd9\u0dba\u0dd2/1-619029",
     "time_ut": 1661879094,
@@ -2302,6 +2310,14 @@
     "original_lang": "en",
     "original_title": "Power cut schedule until Friday announced",
     "file_name": "/tmp/news_lk2/articles/8f/8f5aae0d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-2-hours-20-mins-from-aug-30-sept-02-99149/",
+    "time_ut": 1661777760,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules power cuts of 2 hours 20 mins from Aug 30 \u2013 Sept 02",
+    "file_name": "/tmp/news_lk2/articles/a1/a105361d.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "WHO pledges $ 4 m worth medical supplies to SL",
     "file_name": "/tmp/news_lk2/articles/27/275f5e4c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Rooftop-solar-sector-demands-substantial-tariff-hike/342-243759",
-    "time_ut": 1661466271,
-    "original_lang": "en",
-    "original_title": "Rooftop solar sector demands substantial tariff hike",
-    "file_name": "/tmp/news_lk2/articles/a2/a23b789f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Morison-begins-local-production-of-three-high-in-demand-medicines/108-243757",
-    "time_ut": 1661466104,
-    "original_lang": "en",
-    "original_title": "Morison begins local production of three high-in-demand medicines",
-    "file_name": "/tmp/news_lk2/articles/05/058490d3.json"
   }
 ]
