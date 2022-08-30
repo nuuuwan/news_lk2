@@ -1,20 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-30 06:19:51 (LK time)*
+*As of 2022-08-30 06:28:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (7 Articles)
 
-* **8** daily-ft-lk ([Softlogic launches Walton brand in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cb3f062.json))
+* **7** daily-ft-lk ([Deutsche Bank donates Rs. 16.5 m to provide relief to Sri Lankan citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d1d93b8.json))
 
-## Last 24 Hours (207 Articles)
+## Last 24 Hours (208 Articles)
 
 * **43** lankadeepa-lk ([පළාත් හතරකට තද වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeefcf97.json))
 
 * **35** news-first-lk ([Thunder showers for several areas today (29)](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71049b7b.json))
 
-* **28** tamil-mirror-lk ([காரைதீவு மாணவன் அகில இலங்கை ரீதியில் முதலிடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd712fe.json))
+* **29** tamil-mirror-lk ([காரைதீவு மாணவன் அகில இலங்கை ரீதியில் முதலிடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd712fe.json))
 
 * **26** ada-lk ([පකිස්ථානය ගංවතුර නිසා මරණ 1,000 ඉක්මවා තිබේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb82c652.json))
 
@@ -30,13 +30,13 @@
 
 * **2** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
-## Last Week (1,381 Articles)
+## Last Week (1,382 Articles)
 
 * **259** lankadeepa-lk ([පොලීසිය අරලියගහ මන්දිරයේ තොරතුරු ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68bc09f1.json))
 
 * **211** news-first-lk ([3-hour power cuts today](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41c9a5b.json))
 
-* **176** tamil-mirror-lk ([இன்று கடும் மழை](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/260025e9.json))
+* **177** tamil-mirror-lk ([இன்று கடும் மழை](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/260025e9.json))
 
 * **170** daily-mirror-lk ([Silent protest near Slave Island Police station](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55b2fd01.json))
 
@@ -54,7 +54,7 @@
 
 * **8** colombo-telegraph-com ([An English Language Primer Focused On Sri Lanka: Raising Alarm Bells On Sri Lankan English](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b50d08f0.json))
 
-## All Time (3,671 Articles)
+## All Time (3,672 Articles)
 
 * **658** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -64,7 +64,7 @@
 
 * **460** daily-mirror-lk ([Cardinal says recommendations made by PCoI delayed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1618b2b.json))
 
-* **410** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **411** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **353** ada-derana-lk ([Petroleum Products (Special Provisions) Amendment Bill gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fef38a05.json))
 
