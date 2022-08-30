@@ -1,11 +1,83 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/only-100-bowsers-delivering-fuel-in-sri-lanka/",
+    "time_ut": 1661839500,
+    "original_lang": "en",
+    "original_title": "Only 100 Bowsers delivering fuel in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/74/748c5177.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84626/tokyo-will-coordinate-with-other-sri-lanka-creditors-on-debt-japan",
+    "time_ut": 1661838600,
+    "original_lang": "en",
+    "original_title": "Tokyo will coordinate with other Sri Lanka creditors on debt: Japan",
+    "file_name": "/tmp/news_lk2/articles/0e/0e23acca.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/tokyo-will-coordinate-with-other-sri-lanka-creditors-on-debt/",
+    "time_ut": 1661838480,
+    "original_lang": "en",
+    "original_title": "Tokyo will coordinate with other Sri Lanka creditors on debt",
+    "file_name": "/tmp/news_lk2/articles/9d/9d5e0af5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/sri-lanka-to-introduce-5-year-multiple-entry-tourist-visa/",
+    "time_ut": 1661838240,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to introduce 5-year-multiple entry tourist VISA",
+    "file_name": "/tmp/news_lk2/articles/06/06caf53c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Pakistan-secures-1-1bn-in-IMF-bailout-funding/342-243994",
+    "time_ut": 1661838053,
+    "original_lang": "en",
+    "original_title": "Pakistan secures $1.1bn in IMF bailout funding",
+    "file_name": "/tmp/news_lk2/articles/5a/5a73c2d7.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dda\u0dc1\u0db6\u0db1\u0dca\u0daf\u0dd4-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/1-618990",
+    "time_ut": 1661837955,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dda\u0dc1\u0db6\u0db1\u0dca\u0daf\u0dd4 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/cf/cfa94800.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-infotech-mobile-telephony-in-a-fix-after-import-ban-99166/",
+    "time_ut": 1661837940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka infotech, mobile telephony in a fix after import ban",
+    "file_name": "/tmp/news_lk2/articles/ce/cebfebd1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-rerun-Iraq-protestors-storm-presidential-palace-take-dip-in-pool/108-243993",
+    "time_ut": 1661837643,
+    "original_lang": "en",
+    "original_title": "Sri Lanka rerun, Iraq protestors storm presidential palace, take dip in pool",
+    "file_name": "/tmp/news_lk2/articles/46/4659acad.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/In-Sri-Lanka-rerun-Iraq-protestors-storm-presidential-palace-take-dip-in-pool/108-243993",
     "time_ut": 1661837643,
     "original_lang": "en",
     "original_title": "In Sri Lanka rerun, Iraq protestors storm presidential palace, take dip in pool",
     "file_name": "/tmp/news_lk2/articles/78/78ba563b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/162-\u0dc3\u0dd4\u0d9b\u0ddd\u0db4\u0db7\u0ddd\u0d9c\u0dd3-\u0db6\u0dc3\u0dca-\u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a\u0dca/11-396718",
+    "time_ut": 1661837400,
+    "original_lang": "si",
+    "original_title": "162 \u0dc3\u0dd4\u0d9b\u0ddd\u0db4\u0db7\u0ddd\u0d9c\u0dd3 \u0db6\u0dc3\u0dca \u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/79/79f95d9a.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -25,11 +97,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db6\u0ddc\u0dc4\u0ddd-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0db1\u0dca\u0da7-\u0dc3\u0dc0\u0dc3\u0dca-\u0d9a\u0dcf\u0dbd\u0dba\u0dda-\u0dc0\u0dd0\u0dc3\u0dd2/101-618989",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0ddc\u0dc4\u0ddd-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0db1\u0dca\u0da7-\u0dc3\u0dc0\u0dc3\u0dca-\u0d9a\u0dcf\u0dbd\u0dba\u0dda-\u0dc0\u0dd0\u0dc3\u0dd2/1-618989",
     "time_ut": 1661836398,
     "original_lang": "si",
     "original_title": "\u0db6\u0ddc\u0dc4\u0ddd \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0db1\u0dca\u0da7 \u0dc3\u0dc0\u0dc3\u0dca \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0dc0\u0dd0\u0dc3\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/40/406fa37d.json"
+    "file_name": "/tmp/news_lk2/articles/7c/7c148b70.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -257,11 +329,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business/Sweden-and-Denmark-eases-travel-advisory-to-SL/215-243990",
+    "url": "https://www.dailymirror.lk/mirror_business/Sweden-and-Denmark-eases-travel-advisory-to-SL/241-243990",
     "time_ut": 1661824383,
     "original_lang": "en",
     "original_title": "Sweden and Denmark eases travel advisory to SL",
-    "file_name": "/tmp/news_lk2/articles/b0/b0ff5a3d.json"
+    "file_name": "/tmp/news_lk2/articles/e6/e633a262.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -297,11 +369,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7-\u0dc4\u0dd0\u0dbb-\u0dba\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-34\u0d9a\u0dca-\u0db8\u0dd4\u0dc4\u0dd4\u0daf-\u0db8\u0dd0\u0daf\u0daf\u0dd3-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-618985",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da7-\u0dc4\u0dd0\u0dbb-\u0dba\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-34\u0d9a\u0dca-\u0db8\u0dd4\u0dc4\u0dd4\u0daf-\u0db8\u0dd0\u0daf\u0daf\u0dd3-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-618985",
     "time_ut": 1661822316,
     "original_lang": "si",
     "original_title": "\u0dbb\u0da7 \u0dc4\u0dd0\u0dbb \u0dba\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba 34\u0d9a\u0dca \u0db8\u0dd4\u0dc4\u0dd4\u0daf \u0db8\u0dd0\u0daf\u0daf\u0dd3 \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/8b/8b0acda4.json"
+    "file_name": "/tmp/news_lk2/articles/e6/e6154dfa.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
