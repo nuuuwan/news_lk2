@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/sri-lanka-in-final-stages-of-imf-talks-president/",
+    "time_ut": 1661865480,
+    "original_lang": "en",
+    "original_title": "Sri Lanka in final stages of IMF talks \u2013 President",
+    "file_name": "/tmp/news_lk2/articles/f6/f6dfa95f.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84647/sri-lanka-reports-3-more-covid-19-deaths-74-cases",
     "time_ut": 1661864940,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka reports 6 more Covid-19 deaths, 114 new cases",
     "file_name": "/tmp/news_lk2/articles/3f/3ffa4445.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/25/gotabaya-rajapaksa-may-return-to-sri-lanka-on-3rd-september-udayanga/",
-    "time_ut": 1661444160,
-    "original_lang": "en",
-    "original_title": "Gotabaya Rajapaksa may return to Sri Lanka on 3rd September \u2013 Udayanga",
-    "file_name": "/tmp/news_lk2/articles/fd/fd7489e6.json"
   }
 ]
