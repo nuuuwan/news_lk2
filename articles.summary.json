@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/VAT-to-be-increased-to-15/108-244005",
+    "time_ut": 1661853302,
+    "original_lang": "en",
+    "original_title": "VAT to be increased to 15%",
+    "file_name": "/tmp/news_lk2/articles/07/07fb77aa.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Bangladesh-will-never-face-situation-like-Sri-Lanka-Sheikh-Hasina/108-244004",
+    "time_ut": 1661853168,
+    "original_lang": "en",
+    "original_title": "Bangladesh will never face situation like Sri Lanka: Sheikh Hasina",
+    "file_name": "/tmp/news_lk2/articles/37/3785ad2f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84638/heavy-traffic-in-maradana-due-to-protest",
+    "time_ut": 1661853120,
+    "original_lang": "en",
+    "original_title": "Heavy traffic in Maradana due to protest",
+    "file_name": "/tmp/news_lk2/articles/98/98c6756e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0db1\u0dad\u0dca-\u0db1\u0dd2\u0dc1\u0dcf\u0db1\u0dca\u0dad\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dad\u0dc0\u0dad\u0dca-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0d9a\u0dca/1-619008",
+    "time_ut": 1661852802,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0db1\u0dad\u0dca \u0db1\u0dd2\u0dc1\u0dcf\u0db1\u0dca\u0dad\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dad\u0dc0\u0dad\u0dca \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/cd/cd5cd2fc.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84637/sri-lanka-to-establish-national-debt-management-agency",
+    "time_ut": 1661852580,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to establish National Debt Management Agency",
+    "file_name": "/tmp/news_lk2/articles/b4/b447c396.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/sri-lanka-to-bring-new-laws-to-stabilize-economy/",
+    "time_ut": 1661852520,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to bring new laws to stabilize economy",
+    "file_name": "/tmp/news_lk2/articles/9a/9a566580.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-enact-new-central-bank-law-amid-fears-of-flexible-policy-99194/",
+    "time_ut": 1661852400,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to enact new central bank law amid fears of flexible policy",
+    "file_name": "/tmp/news_lk2/articles/93/93fee10c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/all-you-need-to-know-about-the-2022-interim-budget/",
+    "time_ut": 1661852340,
+    "original_lang": "en",
+    "original_title": "All you need to know about the 2022 Interim Budget",
+    "file_name": "/tmp/news_lk2/articles/5d/5dd18fa9.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/30/200-mn-for-restructuring-unit-of-soes/",
     "time_ut": 1661852160,
@@ -16,12 +80,20 @@
     "file_name": "/tmp/news_lk2/articles/29/298f983e.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dbb\u0dca\u0dc0-\u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0da7-\u0d91\u0d9a\u0dca\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0dba\u0dc5\u0dd2-\u0d86\u0dbb\u0dcf\u0db0\u0db1\u0dcf/11-396744",
+    "time_ut": 1661851438,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dbb\u0dca\u0dc0 \u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0da7 \u0d91\u0d9a\u0dca\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0dba\u0dc5\u0dd2 \u0d86\u0dbb\u0dcf\u0db0\u0db1\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/55/55d27b02.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/162-\u0dc3\u0dd0\u0db4-\u0db6\u0dc3\u0dca-\u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a/1-619007",
+    "url": "https://www.lankadeepa.lk/news/162-\u0dc3\u0dd0\u0db4-\u0db6\u0dc3\u0dca-\u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a/101-619007",
     "time_ut": 1661851432,
     "original_lang": "si",
     "original_title": "162 \u0dc3\u0dd0\u0db4 \u0db6\u0dc3\u0dca \u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a",
-    "file_name": "/tmp/news_lk2/articles/02/024025f8.json"
+    "file_name": "/tmp/news_lk2/articles/aa/aa7086a0.json"
   },
   {
     "newspaper_id": "ada-lk",
