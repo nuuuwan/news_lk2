@@ -1,0 +1,57 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0bb2\u0bbe\u0bb5\u0bb2-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0b95\u0bbf\u0bb3\u0bc8-\u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0bbe\u0b95\u0bb2\u0bbf\u0bb2\u0bcd/175-303256",
+  "time_ut": 1661848548,
+  "original_lang": "ta",
+  "original_title": "\u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0bb2\u0bbe\u0bb5\u0bb2 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bbf\u0bb3\u0bc8 \u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0bbe\u0b95\u0bb2\u0bbf\u0bb2\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "Kothalawala Defense University Branch at Kurunegala",
+      "author": "unknown",
+      "body_lines": [],
+      "title_ents": [
+        {
+          "text": "Kothalawala Defense University Branch",
+          "label": "ORG"
+        },
+        {
+          "text": "Kurunegala",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": []
+    },
+    "si": {
+      "title": "\u0d9a\u0dd4\u0dbb\u0dd4\u0dab\u0dd1\u0d9c\u0dbd \u0d9a\u0ddc\u0dad\u0dbd\u0dcf\u0dc0\u0dbd \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd \u0dc1\u0dcf\u0d9b\u0dcf\u0dc0",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [],
+      "title_ents": [
+        {
+          "text": "\u0d9a\u0ddc\u0dad\u0dbd\u0dcf\u0dc0\u0dbd \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd \u0dc1\u0dcf\u0d9b\u0dcf\u0dc0",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0d9a\u0dd4\u0dbb\u0dd4\u0dab\u0dd1\u0d9c\u0dbd",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": []
+    },
+    "ta": {
+      "title": "\u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0bb2\u0bbe\u0bb5\u0bb2 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bbf\u0bb3\u0bc8 \u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0bbe\u0b95\u0bb2\u0bbf\u0bb2\u0bcd",
+      "author": "unknown",
+      "body_lines": [],
+      "title_ents": [
+        {
+          "text": "\u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0bb2\u0bbe\u0bb5\u0bb2 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0b95\u0bbf\u0bb3\u0bc8",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0bbe\u0b95\u0bb2\u0bcd",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": []
+    }
+  }
+}

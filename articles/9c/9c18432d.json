@@ -1,0 +1,57 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bae\u0bc1\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf-\u0b89\u0ba4\u0bb5\u0bbf-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-303251",
+  "time_ut": 1661847478,
+  "original_lang": "ta",
+  "original_title": "\u0b9a\u0bae\u0bc1\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf \u0b89\u0ba4\u0bb5\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+  "text_idx": {
+    "en": {
+      "title": "Capacity building increases",
+      "author": "unknown",
+      "body_lines": [
+        "There are 1.7 million households receiving Samurthi assistance. The relief for them will also be increased from Rs 5500 to Rs 7000"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "1.7 million",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0db0\u0dcf\u0dbb\u0dd2\u0dad\u0dcf\u0dc0 \u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd3\u0db8 \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dda",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc3\u0db8\u0dd8\u0daf\u0dca\u0db0\u0dd2 \u0dc3\u0dc4\u0db1\u0dcf\u0db0\u0dcf\u0dbb \u0dbd\u0db6\u0db1 \u0db4\u0dc0\u0dd4\u0dbd\u0dca \u0dbd\u0d9a\u0dca\u0dc2 17\u0d9a\u0dca \u0d89\u0db1\u0dca\u0db1\u0dc0\u0dcf. \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0db1 \u0dc3\u0dc4\u0db1 \u0daf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 5500 \u0dc3\u0dd2\u0da7 7000 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dd9\u0dbb\u0dda"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.7 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b9a\u0bae\u0bc1\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf \u0b89\u0ba4\u0bb5\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+      "author": "unknown",
+      "body_lines": [
+        "\u0b9a\u0bae\u0bc1\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd 1.7 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba9. \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd 5500 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 7000 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0bb5\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "1.7 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}
