@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0bb0\u0b9a\u0bbf\u0b95\u0bb0\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/44-303227",
+    "time_ut": 1661830612,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb0\u0b9a\u0bbf\u0b95\u0bb0\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/6c/6c94d4ca.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/committee-on-procurement-of-fuel-and-coal/",
+    "time_ut": 1661830440,
+    "original_lang": "en",
+    "original_title": "Committee on procurement of fuel and coal",
+    "file_name": "/tmp/news_lk2/articles/0e/0eda14c7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/2-hrs-20-min-power-cuts-from-today-30/",
+    "time_ut": 1661829840,
+    "original_lang": "en",
+    "original_title": "2 hrs & 20 min power cuts from today (30)",
+    "file_name": "/tmp/news_lk2/articles/bb/bb07a2e3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/mattakkuliya-man-gunned-down-by-motorcycle-gunmen/",
+    "time_ut": 1661829300,
+    "original_lang": "en",
+    "original_title": "Mattakkuliya man gunned down by motorcycle gunmen",
+    "file_name": "/tmp/news_lk2/articles/71/71fe3a19.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bbf-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf-\u0b9a\u0bc2\u0b9f\u0bc1-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-303225",
+    "time_ut": 1661829198,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bbf \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b9a\u0bc2\u0b9f\u0bc1: \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/c4/c4f83bb2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84624/youth-killed-in-shooting-at-mattakkuliya",
+    "time_ut": 1661829120,
+    "original_lang": "en",
+    "original_title": "Youth killed in shooting at Mattakkuliya",
+    "file_name": "/tmp/news_lk2/articles/33/33821d38.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84623/george-steuart-healths-steuart-senehasa-develops-stoma-clinic-at-lrh",
+    "time_ut": 1661828160,
+    "original_lang": "en",
+    "original_title": "George Steuart Health\u2019s \u201cSteuart Senehasa\u201d develops Stoma Clinic at LRH",
+    "file_name": "/tmp/news_lk2/articles/91/91bc4e22.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84622/cict-awards-winners-of-quay-crane-operator-competition",
     "time_ut": 1661827260,
@@ -14,6 +70,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0bb5\u0bb0\u0bb5\u0bc1 - \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
     "file_name": "/tmp/news_lk2/articles/1a/1a0da799.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf\u0da7-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba-\u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4-\u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca-\u0dc3\u0db4\u0dd4\u0dbb\u0dcf-\u0d85\u0dc0\u0dc3\u0db1\u0dca/11-396712",
+    "time_ut": 1661826905,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4 \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dc3\u0db4\u0dd4\u0dbb\u0dcf \u0d85\u0dc0\u0dc3\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/7c/7c921e48.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -1958,6 +2022,14 @@
     "original_lang": "en",
     "original_title": "Fascists, neo fascists, and SL\u2019s future",
     "file_name": "/tmp/news_lk2/articles/f1/f196abda.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79256",
+    "time_ut": 1661714640,
+    "original_lang": "en",
+    "original_title": "The ongoing crackdown on the protest movement needs to cease.  Its excessive nature is discrediting the government in the eyes of the international community as well as within the country. The blame  for this  is falling squarely on the president",
+    "file_name": "/tmp/news_lk2/articles/13/13237679.json"
   },
   {
     "newspaper_id": "ada-lk",
