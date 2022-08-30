@@ -1,42 +1,38 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-30 23:40:10 (LK time)*
+*As of 2022-08-31 00:12:33 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **4** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
+* **3** ada-lk ([පෙන්ටගනය යුක්රේනය හා ගුවන් ආරක්ෂක ගිවිසුමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/2093c8f1.json))
 
-## Last Hour (5 Articles)
+## Last Hour (10 Articles)
 
-* **4** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
+* **10** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
-* **1** ada-derana-lk ([‘Amber’ flood warning for low-lying areas of several rivers](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeb52246.json))
+## Last 3 Hours (16 Articles)
 
-## Last 3 Hours (12 Articles)
-
-* **4** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
+* **10** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
 * **3** lankadeepa-lk ([මෙරට අර්බුදය තවත් දරුණු අතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8625e9d.json))
 
 * **2** ada-derana-lk ([Minister Kanchana says fuel distribution lapses rectified](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ae8c4f6.json))
 
-* **2** news-first-lk ([If APG is not possible, next alternative is an Election: Maithree](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e906ace1.json))
+* **1** news-first-lk ([35,000 MT of Petrol unloaded tonight (30)](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d65c0d81.json))
 
-* **1** tamil-mirror-lk ([பெற்றோல் குறித்து அமைச்சரின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47f91416.json))
+## Last 24 Hours (252 Articles)
 
-## Last 24 Hours (247 Articles)
-
-* **41** ada-lk ([මට්ටක්කුලිය වෙඩි තැබීමකින් තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74a98e13.json))
+* **47** ada-lk ([මට්ටක්කුලිය වෙඩි තැබීමකින් තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74a98e13.json))
 
 * **39** lankadeepa-lk ([ඉන්ධන පෝලිම්වල වගකීම තෙල් සංස්ථාව ගත යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d6ee4a3.json))
 
 * **38** tamil-mirror-lk ([மட்டக்குளியில் துப்பாக்கி பிரயோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/209ee370.json))
 
-* **35** ada-derana-lk ([Japan hands over food donation to help Sri Lanka respond to rising food insecurity](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c7c9450.json))
-
 * **35** news-first-lk ([Mattakkuliya man gunned down by motorcycle gunmen](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71fe3a19.json))
+
+* **34** ada-derana-lk ([Six provinces to receive heavy rainfall above 100mm](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5aef6ff7.json))
 
 * **26** daily-mirror-lk ([Import ban delivers hard blow on soft tissue paper industry](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e06afa51.json))
 
@@ -44,17 +40,17 @@
 
 * **11** daily-ft-lk ([Maithri vows to form Govt. with leftist Opposition parties](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4833ef4.json))
 
-## Last Week (1,410 Articles)
+## Last Week (1,413 Articles)
 
 * **248** lankadeepa-lk ([තවත් භාණ්ඩ 300ක් ආනයනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f66d41f.json))
 
 * **217** news-first-lk ([IMF team to visit Sri Lanka today (24)](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4df9e7e6.json))
 
-* **182** tamil-mirror-lk ([அரச ஊழியர்களை வழமை போன்று பணிக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/328f145f.json))
+* **181** tamil-mirror-lk ([ரயில் சேவையை முன்னெடுப்பதில் சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6a3f977.json))
+
+* **179** ada-lk ([ජීප් - ලොරි ගැටී ගුරුවරිය මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c499f020.json))
 
 * **177** daily-mirror-lk ([Govt. slaps import ban on wide range of goods](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f44a11f.json))
-
-* **174** ada-lk ([රජයේ සේවකයන් හෙට සිට සාමාන්‍ය  ලෙස වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b56b0500.json))
 
 * **160** ada-derana-lk ([Sri Lanka aims to cut fiscal deficit in budget 2023](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/444a0ec7.json))
 
@@ -64,15 +60,15 @@
 
 * **60** island-lk ([Nations Trust Bank expands physical touchpoints with new cash deposits and withdrawal machines at Keells outlets](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c3c1e2.json))
 
-* **22** d-b-s-jeyaraj-com ([Government Brings  temporary ban with effect from Aug 23  on the import of products from over 360 categories in a bid to save foreign exchange and support local manufacturers.](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25b4e2e0.json))
+* **21** d-b-s-jeyaraj-com ([Police  Storm Into Press Conference Held at CSR in Maradana to Protest  Against Detention of Three IUSF  Activists Stating  they Want to Arrest Eranga Gunasekara the  National Organiser of the Socialist Youth Union without possessing a  Valid Arrest Warrant](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da0935bb.json))
 
 * **7** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## All Time (3,915 Articles)
+## All Time (3,921 Articles)
 
 * **698** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **506** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **512** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **500** news-first-lk ([Accusations against Scottish tourist Kayleigh Fraser ‘unjustified’ – SLYOF](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2545b1.json))
 
