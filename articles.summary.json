@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-reduces-retirement-age-among-measures-to-rationalize-state-sector-99200/",
+    "time_ut": 1661863380,
+    "original_lang": "en",
+    "original_title": "Sri Lanka reduces retirement age among measures to rationalize state-sector",
+    "file_name": "/tmp/news_lk2/articles/2d/2d352b32.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Tear-gassed/342-244017",
+    "time_ut": 1661863193,
+    "original_lang": "en",
+    "original_title": "Tear gassed...",
+    "file_name": "/tmp/news_lk2/articles/a9/a9b60d77.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baa\u0bcb\u0bb2-\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0ba4\u0bc7\u0bb7\u0bcd-\u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbe\u0ba4\u0bc1/175-303271",
+    "time_ut": 1661862713,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baa\u0bcb\u0bb2 \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0ba4\u0bc7\u0bb7\u0bcd \u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbe\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/4e/4ea7fafb.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/25-iusf-activists-arrested-during-protest/",
+    "time_ut": 1661862360,
+    "original_lang": "en",
+    "original_title": "25 IUSF activists arrested during protest",
+    "file_name": "/tmp/news_lk2/articles/07/07d040af.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd-\u0baa\u0bb2-\u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b95\u0b9f\u0bc1\u0bae\u0bcd-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd/175-303269",
+    "time_ut": 1661861730,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0baa\u0bb2 \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/fd/fda83736.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/University-admissions-from-Monday-UGC-Chairman/108-244016",
     "time_ut": 1661861295,
@@ -24,6 +64,22 @@
     "file_name": "/tmp/news_lk2/articles/c7/c7df28da.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca-\u0d9c\u0dd0\u0db1-\u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1-\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/11-396748",
+    "time_ut": 1661860556,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca \u0d9c\u0dd0\u0db1 \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/89/89ff9a1e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84644/sri-lankas-merchandise-export-earnings-over-usd-1100-mn-in-july-",
+    "time_ut": 1661860500,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s merchandise export earnings over USD 1,100 Mn in July",
+    "file_name": "/tmp/news_lk2/articles/9e/9ed861bd.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84644/merchandise-export-earnings-rise-over-usd-1100-mn-in-july-edb",
     "time_ut": 1661860500,
@@ -33,11 +89,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Water-levels-in-several-rivers-rising-flood-warning-issued/108-244014",
+    "url": "https://www.dailymirror.lk/latest_news/Water-levels-in-several-rivers-rising-flood-warning-issued/342-244014",
     "time_ut": 1661860225,
     "original_lang": "en",
     "original_title": "Water levels in several rivers rising; flood warning issued",
-    "file_name": "/tmp/news_lk2/articles/41/41814c6d.json"
+    "file_name": "/tmp/news_lk2/articles/40/40623198.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -102,6 +158,14 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0dad\u0ddd\u0dc3 \u0da7\u0dd2\u0db1\u0dca \u0db8\u0dcf\u0dc5\u0dd4 \u0d9c\u0dda\u0db1\u0dca\u0db1 \u0dc0\u0dd0\u0da9\u0dd2 \u0dbd\u0db1\u0dca\u0dc3\u0dd4\u0dc0\u0da7 \u0daf\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/1f/1f66dbaa.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9a\u0dcf-\u0dc3\u0dad\u0ddc\u0dc3-\u0da7\u0dd2\u0db1\u0dca-\u0db8\u0dcf\u0dc5\u0dd4-\u0d9c\u0dda\u0db1\u0dca\u0db1-\u0dc0\u0dd0\u0da9\u0dd2-\u0dbd\u0db1\u0dca\u0dc3\u0dd4\u0dc0\u0da7-\u0daf\u0dd9\u0dba\u0dd2/101-619019",
+    "time_ut": 1661857682,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0dad\u0ddc\u0dc3 \u0da7\u0dd2\u0db1\u0dca \u0db8\u0dcf\u0dc5\u0dd4 \u0d9c\u0dda\u0db1\u0dca\u0db1 \u0dc0\u0dd0\u0da9\u0dd2 \u0dbd\u0db1\u0dca\u0dc3\u0dd4\u0dc0\u0da7 \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/33/33fa66f8.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -177,11 +241,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/IUSF-protesters-tear-gassed/108-244012",
+    "url": "https://www.dailymirror.lk/latest_news/IUSF-protesters-tear-gassed/342-244012",
     "time_ut": 1661856007,
     "original_lang": "en",
     "original_title": "IUSF protesters tear gassed",
-    "file_name": "/tmp/news_lk2/articles/2a/2a7e1029.json"
+    "file_name": "/tmp/news_lk2/articles/b5/b5d070c3.json"
   },
   {
     "newspaper_id": "news-first-lk",
