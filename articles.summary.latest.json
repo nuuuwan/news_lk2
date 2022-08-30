@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dba\u0dc0\u0dd0\u0dba-\u0d85\u0daf-\u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dba\u0da7/1-618984",
+    "time_ut": 1661821646,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dba\u0dc0\u0dd0\u0dba \u0d85\u0daf \u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/74/74346be8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0da7\u0dca\u0da7\u0d9a\u0dca\u0d9a\u0dd4\u0dbd\u0dd2\u0dba\u0dda-\u0daf\u0dd2-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0d9a\u0dd4\u0da7-\u0dc0\u0dd9\u0da9\u0dd2/1-618983",
+    "time_ut": 1661821353,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0da7\u0dca\u0da7\u0d9a\u0dca\u0d9a\u0dd4\u0dbd\u0dd2\u0dba\u0dda \u0daf\u0dd2 \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0d9a\u0dd4\u0da7 \u0dc0\u0dd9\u0da9\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/90/90b35dc6.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-pm-seeks-ideas-for-new-oversight-committees-amid-cope-copa-controversy-99159/",
+    "time_ut": 1661821200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka PM seeks ideas for new oversight committees amid COPE, COPA controversy",
+    "file_name": "/tmp/news_lk2/articles/d4/d4681a46.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb\u0dba\u0d9a-\u0d8b\u0db4\u0dbb\u0dd2\u0db8-\u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dbb-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0d9a\u0dd2\u0db1\u0dca-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2/1-618982",
+    "time_ut": 1661820601,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb\u0dba\u0d9a \u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dbb \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/77/770f27eb.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca\u0dc0\u0dbd-\u0dc0\u0d9c\u0d9a\u0dd3\u0db8-\u0dad\u0dd9\u0dbd\u0dca-\u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0-\u0d9c\u0dad-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/1-618981",
+    "time_ut": 1661820385,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca\u0dc0\u0dbd \u0dc0\u0d9c\u0d9a\u0dd3\u0db8 \u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0d9c\u0dad \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e4/e4e12528.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/opinion/Grit-honour-and-resilience-markers-of-a-great-leader/14-739261",
     "time_ut": 1661812639,
@@ -7958,45 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda \u0daf\u0dd9\u0dc0\u0db1 \u0dbb\u0dd0\u0dbd\u0dca\u0dbd \u0d9c\u0dd0\u0db1 \u0dc3\u0dd3\u0dbb\u0dd4\u0dc0\u0dd9\u0db1\u0dca",
     "file_name": "/tmp/news_lk2/articles/3a/3ab62c29.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0ddd\u0dc4\u0dd2\u0dad-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0d9c\u0dda-\u0dc4\u0ddd\u0da7\u0dbd\u0dca\u0dc0\u0dbd\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0dd0\u0db6\u0dd6\u00a0\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-618703",
-    "time_ut": 1661354466,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0ddd\u0dc4\u0dd2\u0dad \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0d9c\u0dda \u0dc4\u0ddd\u0da7\u0dbd\u0dca\u0dc0\u0dbd\u0da7 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0dd0\u0db6\u0dd6\u00a0\u0dad\u0dd4\u0db1\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ab/abec984a.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc1\u0ba4\u0bbf-\u0bae\u0bc0\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1/175-302949",
-    "time_ut": 1661353932,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc1\u0ba4\u0bbf \u0bae\u0bc0\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/99/99b66c8c.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-shares-close-weaker-aspi-down-on-retail-and-banking-counters-98990/",
-    "time_ut": 1661353920,
-    "original_lang": "en",
-    "original_title": "Sri Lanka shares close weaker; ASPI down on retail and banking counters",
-    "file_name": "/tmp/news_lk2/articles/52/5229632c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/24/elephants-removed-from-crop-damaging-animals-list/",
-    "time_ut": 1661353860,
-    "original_lang": "en",
-    "original_title": "Elephants removed from \u2018crop damaging animals\u2019 list",
-    "file_name": "/tmp/news_lk2/articles/6c/6c92e488.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/24/president-s-head-of-security-at-inquiry-over-assault-on-journalists/",
-    "time_ut": 1661353560,
-    "original_lang": "en",
-    "original_title": "President\u2019s Head of Security at inquiry over assault on journalists",
-    "file_name": "/tmp/news_lk2/articles/5d/5d5223b9.json"
   }
 ]
