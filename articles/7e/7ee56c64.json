@@ -1,0 +1,246 @@
+{
+  "newspaper_id": "economy-next-com",
+  "url": "https://economynext.com/sri-lanka-sells-9-year-bonds-at-29-52-pct-2025-bonds-offered-on-tap-99199/",
+  "time_ut": 1661857560,
+  "original_lang": "en",
+  "original_title": "Sri Lanka sells 9-year bonds at 29.52-pct, 2025 bonds offered on tap",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka sells 9-year bonds at 29.52-pct, 2025 bonds offered on tap",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 Sri Lanka has sold the entire 25 billion rupees of offered bonds maturing on 15 May 2031 at 29.52 percent, data from the state debt office showed.",
+        "The debt office also sold 2,443 million rupees of 01 July 2025 bonds at 29.16 percent after offering 15 billion rupees.",
+        "Dealers and the public could bid for the 2025 bond at the weighted average yield until 4.0 pm on August  31."
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        },
+        {
+          "text": "9-year",
+          "label": "DATE"
+        },
+        {
+          "text": "29.52",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "2025",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "25 billion",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "15 May 2031",
+            "label": "DATE"
+          },
+          {
+            "text": "29.52 percent",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "2,443",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "01 July 2025",
+            "label": "DATE"
+          },
+          {
+            "text": "29.16 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "15 billion",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "2025",
+            "label": "DATE"
+          },
+          {
+            "text": "4.0 pm",
+            "label": "TIME"
+          },
+          {
+            "text": "August  31",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc0\u0dc3\u0dbb 9\u0d9a \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb 29.52-2025 \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dc0\u0dbd\u0da7 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca 2031 \u0db8\u0dd0\u0dba\u0dd2 15 \u0daf\u0dd2\u0db1 \u0d9a\u0dbd\u0dca \u0db4\u0dd2\u0dbb\u0dd9\u0db1 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 25 \u0d9a \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc3\u0dd2\u0dba\u0dba\u0da7 29.52 \u0da7 \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dcf \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dab\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0daf\u0dad\u0dca\u0dad \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2.",
+        "\u0dab\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 15\u0d9a\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0dd0\u0db8\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 2025 \u0da2\u0dd6\u0dbd\u0dd2 01 \u0daf\u0dd2\u0db1 \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2,443\u0d9a\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 29.16 \u0db6\u0dd0\u0d9c\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dcf \u0d87\u0dad.",
+        "\u0d85\u0dbd\u0dd9\u0dc0\u0dd2\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0dc3\u0dc4 \u0db8\u0dc4\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 2025 \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc3\u0db3\u0dc4\u0dcf \u0db6\u0dbb \u0d9a\u0dc5 \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1 \u0d85\u0db1\u0dd4\u0dc0 \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 31 \u0dc3\u0dc0\u0dc3 4.0 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dbd\u0d82\u0dc3\u0dd4 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 9\u0d9a\u0dca",
+          "label": "DATE"
+        },
+        {
+          "text": "29.52 \u0d9a\u0dd2",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "2025",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 25 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "2031 \u0db8\u0dd0\u0dba\u0dd2 15",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 29.52 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "2,443",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2025 \u0da2\u0dd6\u0dbd\u0dd2 01",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 29.16 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 15 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "2025",
+            "label": "DATE"
+          },
+          {
+            "text": "4.0 \u0db4.\u0dc0",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 31",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 9 \u0bb5\u0bb0\u0bc1\u0b9f \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8 29.52-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd, 2025 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - 2031 \u0bae\u0bc7 15 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 25 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8 29.52 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0bb0\u0b9a \u0b95\u0b9f\u0ba9\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bb0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9.",
+        "\u0b95\u0b9f\u0ba9\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd 2025 \u0b9c\u0bc2\u0bb2\u0bc8 01 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd 2,443 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc8 15 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd 29.16 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1.",
+        "\u0b9f\u0bc0\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 31 \u0bae\u0bbe\u0bb2\u0bc8 4.0 \u0bae\u0ba3\u0bbf \u0bb5\u0bb0\u0bc8 \u0b8e\u0b9f\u0bc8\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf \u0bb5\u0bbf\u0bb3\u0bc8\u0b9a\u0bcd\u0b9a\u0bb2\u0bbf\u0bb2\u0bcd 2025 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8f\u0bb2\u0bae\u0bcd \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        },
+        {
+          "text": "9-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+          "label": "DATE"
+        },
+        {
+          "text": "29.52",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "2025",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "25 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "15 \u0bae\u0bc7 2031",
+            "label": "DATE"
+          },
+          {
+            "text": "29.52 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "2,443",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "01 \u0b9c\u0bc2\u0bb2\u0bc8 2025",
+            "label": "DATE"
+          },
+          {
+            "text": "29.16 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "15 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "2025",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bc8 4.0 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 31",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
