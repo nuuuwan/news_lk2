@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84650/sri-lanka-has-made-good-progress-in-negotiations-with-imf-cbsl-chief",
+    "time_ut": 1661868060,
+    "original_lang": "en",
+    "original_title": "Sri Lanka has made good progress in negotiations with IMF - CBSL chief",
+    "file_name": "/tmp/news_lk2/articles/72/72ea2465.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84649/visiting-imf-delegates-call-on-opposition-leader",
     "time_ut": 1661866860,
     "original_lang": "en",
@@ -70,6 +78,14 @@
     "original_lang": "en",
     "original_title": "Suspect remanded for stealing liquor bottle from RWs private home",
     "file_name": "/tmp/news_lk2/articles/b9/b98be36f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Prez-has-a-challenge-to-setup-credible-mechanism-to-probe-enforced-disappearances-Sandya-Eknaligoda/108-244018",
+    "time_ut": 1661864094,
+    "original_lang": "en",
+    "original_title": "Prez has a challenge to setup credible mechanism to probe enforced disappearances: Sandya Eknaligoda",
+    "file_name": "/tmp/news_lk2/articles/f6/f67785d0.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
