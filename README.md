@@ -1,18 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-31 04:00:40 (LK time)*
+*As of 2022-08-31 04:25:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
+## Last Hour (1 Articles)
+
+* **1** lankadeepa-lk ([මිකායිල් ගොර්බචොව් සමුගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb845e02.json))
+
 ## Last 3 Hours (1 Articles)
 
-* **1** tamil-mirror-lk ([நாணய நிதியத்தின் பிரதிநிதிகள் – சஜித் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4e94071.json))
+* **1** lankadeepa-lk ([මිකායිල් ගොර්බචොව් සමුගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb845e02.json))
 
-## Last 24 Hours (238 Articles)
+## Last 24 Hours (237 Articles)
 
 * **47** ada-lk ([මට්ටක්කුලිය වෙඩි තැබීමකින් තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74a98e13.json))
 
-* **39** lankadeepa-lk ([ඉන්ධන පෝලිම්වල වගකීම තෙල් සංස්ථාව ගත යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d6ee4a3.json))
+* **40** lankadeepa-lk ([ඉන්ධන පෝලිම්වල වගකීම තෙල් සංස්ථාව ගත යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d6ee4a3.json))
 
 * **37** tamil-mirror-lk ([இடைக்கால வரவு - செலவு திட்டம் இன்று](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a0da799.json))
 
@@ -24,11 +28,9 @@
 
 * **22** daily-mirror-lk ([Sweden and Denmark eases travel advisory to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e633a262.json))
 
-* **2** daily-ft-lk ([SL Govt.: Stop labelling student protestors and activists as terrorists](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fcfb244.json))
+## Last Week (1,407 Articles)
 
-## Last Week (1,406 Articles)
-
-* **248** lankadeepa-lk ([තවත් භාණ්ඩ 300ක් ආනයනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f66d41f.json))
+* **249** lankadeepa-lk ([තවත් භාණ්ඩ 300ක් ආනයනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f66d41f.json))
 
 * **217** news-first-lk ([IMF team to visit Sri Lanka today (24)](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4df9e7e6.json))
 
@@ -50,9 +52,9 @@
 
 * **7** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## All Time (3,923 Articles)
+## All Time (3,924 Articles)
 
-* **698** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **699** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **512** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
