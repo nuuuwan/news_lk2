@@ -1,0 +1,96 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb1\u0bcd\u0bb5\u0bb0\u0bbf-15-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-303245",
+  "time_ut": 1661845819,
+  "original_lang": "ta",
+  "original_title": "\u0bb5\u0bb1\u0bcd\u0bb5\u0bb0\u0bbf 15 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+  "text_idx": {
+    "en": {
+      "title": "Increase in excise duty to 15 percent",
+      "author": "unknown",
+      "body_lines": [
+        "Increase in excise duty from 12 percent to 15 percent from September 1"
+      ],
+      "title_ents": [
+        {
+          "text": "15 percent",
+          "label": "PERCENT"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "12 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "15 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "September 1",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0db6\u0daf\u0dca\u0daf \u0dc3\u0dd2\u0dba\u0dba\u0da7 15 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 1 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0dc3\u0dd2\u0da7 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0db6\u0daf\u0dca\u0daf \u0dc3\u0dd2\u0dba\u0dba\u0da7 12 \u0dc3\u0dd2\u0da7 \u0dc3\u0dd2\u0dba\u0dba\u0da7 15 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dd9\u0dbb\u0dda"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 15 \u0d9a\u0dd2",
+          "label": "PERCENT"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 12 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 15 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 1",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bb5\u0bb1\u0bcd\u0bb5\u0bb0\u0bbf 15 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+      "author": "unknown",
+      "body_lines": [
+        "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bc6\u0bae\u0bcd\u0baa\u0bb0\u0bcd 1\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bb5\u0bb1\u0bcd\u0bb5\u0bb0\u0bbf 12 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 15 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1"
+      ],
+      "title_ents": [
+        {
+          "text": "15 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+          "label": "PERCENT"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "12 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "15 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 1",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
