@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-31 03:56:33 (LK time)*
+*As of 2022-08-31 04:00:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -26,7 +26,7 @@
 
 * **2** daily-ft-lk ([SL Govt.: Stop labelling student protestors and activists as terrorists](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fcfb244.json))
 
-## Last Week (1,408 Articles)
+## Last Week (1,406 Articles)
 
 * **248** lankadeepa-lk ([තවත් භාණ්ඩ 300ක් ආනයනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f66d41f.json))
 
@@ -42,9 +42,9 @@
 
 * **103** economy-next-com ([Egg in the face of Sri Lanka President’s ‘Social Market Economy’](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39240274.json))
 
-* **60** daily-ft-lk ([First tribal woman president symbolises India’s pluralist legacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a998f7.json))
-
 * **60** island-lk ([Nations Trust Bank expands physical touchpoints with new cash deposits and withdrawal machines at Keells outlets](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c3c1e2.json))
+
+* **58** daily-ft-lk ([Kanchana updates on fuel supplies](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a07887a.json))
 
 * **16** d-b-s-jeyaraj-com ([India’s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d409b1cb.json))
 
