@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-31 00:38:29 (LK time)*
+*As of 2022-08-31 00:48:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (5 Articles)
+## Last Hour (2 Articles)
 
-* **5** ada-lk ([ඇමෙරිකානු බුංවත් නීතියට සමාන ප්‍රතිපාදන මෙරටටත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96f008dd.json))
+* **2** ada-lk ([යුක්රේන සරණාගත 50,000ක් බ්‍රිතාන්‍යයේදි හෝම්ලස් වෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41a05d9a.json))
 
 ## Last 3 Hours (15 Articles)
 
@@ -16,7 +16,7 @@
 
 * **2** ada-derana-lk ([Minister Kanchana says fuel distribution lapses rectified](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ae8c4f6.json))
 
-## Last 24 Hours (249 Articles)
+## Last 24 Hours (248 Articles)
 
 * **47** ada-lk ([මට්ටක්කුලිය වෙඩි තැබීමකින් තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74a98e13.json))
 
@@ -28,13 +28,13 @@
 
 * **34** ada-derana-lk ([Six provinces to receive heavy rainfall above 100mm](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5aef6ff7.json))
 
-* **23** daily-mirror-lk ([Jet fuel shortage worsens SLA’s woes](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a0a2af8.json))
-
 * **22** economy-next-com ([Sri Lanka PM seeks ideas for new oversight committees amid COPE, COPA controversy](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4681a46.json))
+
+* **22** daily-mirror-lk ([Sweden and Denmark eases travel advisory to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e633a262.json))
 
 * **11** daily-ft-lk ([Maithri vows to form Govt. with leftist Opposition parties](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4833ef4.json))
 
-## Last Week (1,410 Articles)
+## Last Week (1,409 Articles)
 
 * **248** lankadeepa-lk ([තවත් භාණ්ඩ 300ක් ආනයනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f66d41f.json))
 
@@ -54,7 +54,7 @@
 
 * **60** island-lk ([Nations Trust Bank expands physical touchpoints with new cash deposits and withdrawal machines at Keells outlets](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c3c1e2.json))
 
-* **18** d-b-s-jeyaraj-com ([The 9 July Uprising may not have ended in the victory progressives anticipated. But efforts to draw out its lessons and to shift the battle onto a higher plane are not over](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ba3b64.json))
+* **17** d-b-s-jeyaraj-com ([Colombo Fort Magistrate Thilina Gamage issues  order directing the CID to conduct an investigation into a contemptuous statement allegedly  made  at a press conference by Puttalam District Parliamentarian Sanath Nishantha Following Submissions made by President’s Counsel Upul Jayasuriya](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a86aeb5c.json))
 
 * **7** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
