@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/President-presents-Interim-Budget-2023-highlights-proposals-to-create-new-economy/56-739293",
+    "time_ut": 1661902713,
+    "original_lang": "en",
+    "original_title": "President presents Interim Budget 2023, highlights proposals to create new economy",
+    "file_name": "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Concerns-over-ban-of-import-of-raw-material-to-manufacture-hygienic-soft-tissue-paper-products/34-739292",
+    "time_ut": 1661900926,
+    "original_lang": "en",
+    "original_title": "Concerns over ban of import of raw material to manufacture hygienic soft tissue paper products",
+    "file_name": "/tmp/news_lk2/articles/14/14b396b6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/UNDP-Govt-and-private-sector-partner-for-SDG-Investor-Map-for-Sri-Lanka/34-739291",
+    "time_ut": 1661900822,
+    "original_lang": "en",
+    "original_title": "UNDP, Govt. and private sector partner for SDG Investor Map for Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/a8/a814db38.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/UN-says-more-need-to-be-done-by-SL-to-win-confidence-of-families-of-victims-enforced-disappearances/56-739290",
     "time_ut": 1661900530,
     "original_lang": "en",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "3-hr power cuts today (26)",
     "file_name": "/tmp/news_lk2/articles/3d/3df46537.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4-\u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bbe\u0ba9-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc7-\u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd/175-303021",
-    "time_ut": 1661480677,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bbe\u0ba9 \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc7 \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/16/16c0fcec.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b89\u0bb3\u0bcd\u0bb3-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-303020",
-    "time_ut": 1661480163,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/ae/aee3b149.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d8b\u0db8\u0d82\u0daf\u0dcf\u0dc0\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca-4\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396618",
-    "time_ut": 1661479021,
-    "original_lang": "si",
-    "original_title": "\u0d8b\u0db8\u0d82\u0daf\u0dcf\u0dc0\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca 4\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/64/64427198.json"
   }
 ]

@@ -1,26 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-31 04:52:15 (LK time)*
+*As of 2022-08-31 05:25:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** daily-ft-lk ([Police use tear gas and water cannons to disperse IUSF protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e587af79.json))
+* **1** daily-ft-lk ([President presents Interim Budget 2023, highlights proposals to create new economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e4cbf2c.json))
 
-## Last Hour (3 Articles)
+## Last Hour (5 Articles)
 
-* **2** daily-ft-lk ([Police use tear gas and water cannons to disperse IUSF protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e587af79.json))
+* **5** daily-ft-lk ([Police use tear gas and water cannons to disperse IUSF protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e587af79.json))
 
-* **1** lankadeepa-lk ([මිකායිල් ගොර්බචොව් සමුගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb845e02.json))
+## Last 3 Hours (6 Articles)
 
-## Last 3 Hours (3 Articles)
-
-* **2** daily-ft-lk ([Police use tear gas and water cannons to disperse IUSF protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e587af79.json))
+* **5** daily-ft-lk ([Police use tear gas and water cannons to disperse IUSF protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e587af79.json))
 
 * **1** lankadeepa-lk ([මිකායිල් ගොර්බචොව් සමුගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb845e02.json))
 
-## Last 24 Hours (239 Articles)
+## Last 24 Hours (242 Articles)
 
 * **47** ada-lk ([මට්ටක්කුලිය වෙඩි තැබීමකින් තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74a98e13.json))
 
@@ -36,9 +34,9 @@
 
 * **22** daily-mirror-lk ([Sweden and Denmark eases travel advisory to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e633a262.json))
 
-* **2** daily-ft-lk ([Police use tear gas and water cannons to disperse IUSF protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e587af79.json))
+* **5** daily-ft-lk ([Police use tear gas and water cannons to disperse IUSF protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e587af79.json))
 
-## Last Week (1,409 Articles)
+## Last Week (1,412 Articles)
 
 * **249** lankadeepa-lk ([තවත් භාණ්ඩ 300ක් ආනයනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f66d41f.json))
 
@@ -54,7 +52,7 @@
 
 * **103** economy-next-com ([Egg in the face of Sri Lanka President’s ‘Social Market Economy’](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39240274.json))
 
-* **60** daily-ft-lk ([Kanchana updates on fuel supplies](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a07887a.json))
+* **63** daily-ft-lk ([Kanchana updates on fuel supplies](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a07887a.json))
 
 * **60** island-lk ([Nations Trust Bank expands physical touchpoints with new cash deposits and withdrawal machines at Keells outlets](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c3c1e2.json))
 
@@ -62,7 +60,7 @@
 
 * **7** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## All Time (3,926 Articles)
+## All Time (3,929 Articles)
 
 * **699** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -78,7 +76,7 @@
 
 * **273** economy-next-com ([Reset Sri Lanka reform conference by Advocata Institute](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86a8b16.json))
 
-* **232** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
+* **235** daily-ft-lk ([Ranil’s destiny](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8275c049.json))
 
 * **187** island-lk ([Lanka’s misery should be warning to us all on global food, fuel and finance crisis: UNDP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564b2893.json))
 
