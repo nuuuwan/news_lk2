@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/3-\u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd/175-303262",
+    "time_ut": 1661856977,
+    "original_lang": "ta",
+    "original_title": "3 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/fd/fdd55b84.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84643/police-fire-tear-gas-at-iusf-protesters",
+    "time_ut": 1661856720,
+    "original_lang": "en",
+    "original_title": "Police fire tear gas at IUSF protesters",
+    "file_name": "/tmp/news_lk2/articles/ab/ab8d027c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84642/govt-to-waive-off-small-scale-paddy-farmers-loans-obtained-from-state-banks",
+    "time_ut": 1661856360,
+    "original_lang": "en",
+    "original_title": "Govt to waive off small-scale paddy farmers\u2019 loans obtained from state banks",
+    "file_name": "/tmp/news_lk2/articles/07/07bc5e32.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/IUSF-protesters-tear-gassed/108-244012",
+    "time_ut": 1661856007,
+    "original_lang": "en",
+    "original_title": "IUSF protesters tear gassed",
+    "file_name": "/tmp/news_lk2/articles/2a/2a7e1029.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/30/imf-delegation-meets-sajith-premadasa/",
     "time_ut": 1661855640,
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Fuel queues seen outside several filling stations in Sri Lanka as schools reopen",
     "file_name": "/tmp/news_lk2/articles/72/72a18600.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Bank-clearance-delays-unloading-super-diesel-cargo/342-243740",
-    "time_ut": 1661429973,
-    "original_lang": "en",
-    "original_title": "Bank clearance delays unloading super diesel cargo",
-    "file_name": "/tmp/news_lk2/articles/7d/7d9f9050.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/2100-businesses-installed-their-own-fuel-storage-tanks-many-without-permission-Minister/342-243739",
-    "time_ut": 1661429662,
-    "original_lang": "en",
-    "original_title": "2100+ businesses installed their own fuel storage tanks, many without permission: Minister",
-    "file_name": "/tmp/news_lk2/articles/79/7931f7ef.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84539/unloading-of-diesel-cargo-delayed-due-to-bank-clearances",
-    "time_ut": 1661428980,
-    "original_lang": "en",
-    "original_title": "Unloading of diesel cargo delayed due to bank clearances",
-    "file_name": "/tmp/news_lk2/articles/9c/9c8eb460.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84539/super-diesel-cargo-being-unloaded-after-delay",
-    "time_ut": 1661428980,
-    "original_lang": "en",
-    "original_title": "Super Diesel cargo being unloaded after delay",
-    "file_name": "/tmp/news_lk2/articles/ed/eda6f205.json"
   }
 ]
