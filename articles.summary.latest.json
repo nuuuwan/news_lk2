@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/icrc-remembers-the-families-of-the-missing/",
+    "time_ut": 1661869440,
+    "original_lang": "en",
+    "original_title": "ICRC remembers the families of the missing",
+    "file_name": "/tmp/news_lk2/articles/0f/0f36edd5.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0bb5\u0b99\u0bcd\u0b95\u0bbf-\u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-303290",
+    "time_ut": 1661869425,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/f8/f82a6ea0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/merchandise-export-earnings-in-july-increased-to-usd-1-1bn/",
+    "time_ut": 1661869080,
+    "original_lang": "en",
+    "original_title": "Merchandise export earnings in July increased to USD 1.1Bn",
+    "file_name": "/tmp/news_lk2/articles/a2/a2e109a2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/mixed-reactions-for-2022-budget-amendments/",
+    "time_ut": 1661868840,
+    "original_lang": "en",
+    "original_title": "Mixed reactions for 2022 Budget Amendments",
+    "file_name": "/tmp/news_lk2/articles/02/022a132f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0daf\u0dd2\u0dbb\u0dd2-\u0daf\u0dd2\u0db1-\u0d9c\u0dd0\u0db1-\u0dc0\u0dcf\u0dbb\u0dd2\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dd9\u0db1\u0dca-\u0dbb\u0dad\u0dd4-\u0d91\u0dc5\u0dd2\u0dba\u0d9a\u0dca/1-619026",
+    "time_ut": 1661868569,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0daf\u0dd2\u0db1 \u0d9c\u0dd0\u0db1 \u0dc0\u0dcf\u0dbb\u0dd2\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0dbb\u0dad\u0dd4 \u0d91\u0dc5\u0dd2\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/f3/f3dc8f07.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/30/denmark-and-sweden-ease-travel-restrictions/",
+    "time_ut": 1661868540,
+    "original_lang": "en",
+    "original_title": "Denmark and Sweden ease travel restrictions",
+    "file_name": "/tmp/news_lk2/articles/82/82214ba1.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba\u0da7--\u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf-\u0dad\u0dd2\u0dba\u0dd4\u0dab\u0dd4-\u0d86\u0dba\u0dd4\u0db0\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0dbd\u0dcf/1-619025",
+    "time_ut": 1661868349,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba\u0da7  \u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf \u0dad\u0dd2\u0dba\u0dd4\u0dab\u0dd4 \u0d86\u0dba\u0dd4\u0db0\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/e6/e6ca456e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84650/sri-lanka-has-made-good-progress-in-negotiations-with-imf-cbsl-chief",
     "time_ut": 1661868060,
@@ -193,11 +249,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0dca-\u0db1\u0dd0\u0dad\u0dd2\u0dc0-\u0d85\u0dba\u0dc0\u0dd0\u0dba-\u0dba\u0ddd\u0da2\u0db1\u0dcf-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0db6\u0dd1/101-619022",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0dca-\u0db1\u0dd0\u0dad\u0dd2\u0dc0-\u0d85\u0dba\u0dc0\u0dd0\u0dba-\u0dba\u0ddd\u0da2\u0db1\u0dcf-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0db6\u0dd1/1-619022",
     "time_ut": 1661859651,
     "original_lang": "si",
     "original_title": "\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0dca \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0dba\u0ddd\u0da2\u0db1\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0db6\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/d5/d5e47627.json"
+    "file_name": "/tmp/news_lk2/articles/65/6518a44b.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -257,11 +313,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9a\u0dcf-\u0dc3\u0dad\u0ddc\u0dc3-\u0da7\u0dd2\u0db1\u0dca-\u0db8\u0dcf\u0dc5\u0dd4-\u0d9c\u0dda\u0db1\u0dca\u0db1-\u0dc0\u0dd0\u0da9\u0dd2-\u0dbd\u0db1\u0dca\u0dc3\u0dd4\u0dc0\u0da7-\u0daf\u0dd9\u0dba\u0dd2/101-619019",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9a\u0dcf-\u0dc3\u0dad\u0ddc\u0dc3-\u0da7\u0dd2\u0db1\u0dca-\u0db8\u0dcf\u0dc5\u0dd4-\u0d9c\u0dda\u0db1\u0dca\u0db1-\u0dc0\u0dd0\u0da9\u0dd2-\u0dbd\u0db1\u0dca\u0dc3\u0dd4\u0dc0\u0da7-\u0daf\u0dd9\u0dba\u0dd2/1-619019",
     "time_ut": 1661857682,
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0dad\u0ddc\u0dc3 \u0da7\u0dd2\u0db1\u0dca \u0db8\u0dcf\u0dc5\u0dd4 \u0d9c\u0dda\u0db1\u0dca\u0db1 \u0dc0\u0dd0\u0da9\u0dd2 \u0dbd\u0db1\u0dca\u0dc3\u0dd4\u0dc0\u0da7 \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/33/33fa66f8.json"
+    "file_name": "/tmp/news_lk2/articles/2a/2ae67885.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "\u2018Outstanding Entrepreneur of the Year 2022\u2019 award for Diluni Jayasekara",
     "file_name": "/tmp/news_lk2/articles/43/43c82444.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/hnb-joins-slt-mobitel-in-enhancing-e-commerce-capabilities-for-smes-with-cochchi-lk/",
-    "time_ut": 1661453640,
-    "original_lang": "en",
-    "original_title": "HNB joins SLT-MOBITEL in enhancing e-commerce capabilities for SMEs with Cochchi.lk",
-    "file_name": "/tmp/news_lk2/articles/7f/7f09def3.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/dialogs-govi-mithuru-nidhanaya-programme-rewards-subscribers-in-island-wide-competition/",
-    "time_ut": 1661453580,
-    "original_lang": "en",
-    "original_title": "Dialog\u2019s Govi Mithuru\u00a0Nidhanaya Programme rewards subscribers in island-wide competition",
-    "file_name": "/tmp/news_lk2/articles/6f/6f7b6c4c.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79190",
-    "time_ut": 1661453280,
-    "original_lang": "en",
-    "original_title": "China  always supports  Sri Lanka\u2019s  sovereignty, independence, and territorial integritywhile some countries,far or near, always make various groundless excuses to bully Sri Lanka and trample on Sri Lanka\u2019s sovereignty and independence repeatedly.",
-    "file_name": "/tmp/news_lk2/articles/db/dba51755.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84545/security-forces-should-be-equipped-with-technological-knowledge-president",
-    "time_ut": 1661452980,
-    "original_lang": "en",
-    "original_title": "Security forces should be equipped with technological knowledge - President",
-    "file_name": "/tmp/news_lk2/articles/fe/fe1c8b6f.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/hemas-partners-with-clean-ocean-force-to-safeguard-negombos-threatened-ecosystems/",
-    "time_ut": 1661452440,
-    "original_lang": "en",
-    "original_title": "Hemas partners with Clean Ocean Force to safeguard Negombo\u2019s threatened ecosystems",
-    "file_name": "/tmp/news_lk2/articles/75/75ca79a5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/India-urges-its-citizens-to-examine-relevant-factors-before-undertaking-visit-to-Sri-Lanka/155-243748",
-    "time_ut": 1661450208,
-    "original_lang": "en",
-    "original_title": "India urges its citizens to examine relevant factors before undertaking visit to Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/de/de15b358.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/an-oil-scam/",
-    "time_ut": 1661450160,
-    "original_lang": "en",
-    "original_title": "An oil scam?",
-    "file_name": "/tmp/news_lk2/articles/e6/e6abbc75.json"
   }
 ]
