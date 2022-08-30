@@ -1,12 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-31 02:37:27 (LK time)*
+*As of 2022-08-31 02:59:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
-
-* **5** ada-lk ([ඇමෙරිකානු බුංවත් නීතියට සමාන ප්‍රතිපාදන මෙරටටත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96f008dd.json))
+## Last 3 Hours (1 Articles)
 
 * **1** tamil-mirror-lk ([நாணய நிதியத்தின் பிரதிநிதிகள் – சஜித் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4e94071.json))
 
