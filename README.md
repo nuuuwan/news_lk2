@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-31 00:12:33 (LK time)*
+*As of 2022-08-31 00:38:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last Hour (5 Articles)
 
-* **3** ada-lk ([පෙන්ටගනය යුක්රේනය හා ගුවන් ආරක්ෂක ගිවිසුමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/2093c8f1.json))
+* **5** ada-lk ([ඇමෙරිකානු බුංවත් නීතියට සමාන ප්‍රතිපාදන මෙරටටත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96f008dd.json))
 
-## Last Hour (10 Articles)
-
-* **10** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
-
-## Last 3 Hours (16 Articles)
+## Last 3 Hours (15 Articles)
 
 * **10** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
@@ -20,9 +16,7 @@
 
 * **2** ada-derana-lk ([Minister Kanchana says fuel distribution lapses rectified](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ae8c4f6.json))
 
-* **1** news-first-lk ([35,000 MT of Petrol unloaded tonight (30)](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d65c0d81.json))
-
-## Last 24 Hours (252 Articles)
+## Last 24 Hours (249 Articles)
 
 * **47** ada-lk ([මට්ටක්කුලිය වෙඩි තැබීමකින් තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74a98e13.json))
 
@@ -34,13 +28,13 @@
 
 * **34** ada-derana-lk ([Six provinces to receive heavy rainfall above 100mm](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5aef6ff7.json))
 
-* **26** daily-mirror-lk ([Import ban delivers hard blow on soft tissue paper industry](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e06afa51.json))
+* **23** daily-mirror-lk ([Jet fuel shortage worsens SLA’s woes](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a0a2af8.json))
 
 * **22** economy-next-com ([Sri Lanka PM seeks ideas for new oversight committees amid COPE, COPA controversy](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4681a46.json))
 
 * **11** daily-ft-lk ([Maithri vows to form Govt. with leftist Opposition parties](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4833ef4.json))
 
-## Last Week (1,413 Articles)
+## Last Week (1,410 Articles)
 
 * **248** lankadeepa-lk ([තවත් භාණ්ඩ 300ක් ආනයනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f66d41f.json))
 
@@ -60,7 +54,7 @@
 
 * **60** island-lk ([Nations Trust Bank expands physical touchpoints with new cash deposits and withdrawal machines at Keells outlets](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c3c1e2.json))
 
-* **21** d-b-s-jeyaraj-com ([Police  Storm Into Press Conference Held at CSR in Maradana to Protest  Against Detention of Three IUSF  Activists Stating  they Want to Arrest Eranga Gunasekara the  National Organiser of the Socialist Youth Union without possessing a  Valid Arrest Warrant](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da0935bb.json))
+* **18** d-b-s-jeyaraj-com ([The 9 July Uprising may not have ended in the victory progressives anticipated. But efforts to draw out its lessons and to shift the battle onto a higher plane are not over](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ba3b64.json))
 
 * **7** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
