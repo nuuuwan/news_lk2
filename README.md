@@ -1,20 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-31 00:48:49 (LK time)*
+*As of 2022-08-31 00:55:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
-
-* **2** ada-lk ([යුක්රේන සරණාගත 50,000ක් බ්‍රිතාන්‍යයේදි හෝම්ලස් වෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41a05d9a.json))
-
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (13 Articles)
 
 * **10** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
-* **3** lankadeepa-lk ([මෙරට අර්බුදය තවත් දරුණු අතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8625e9d.json))
+* **2** lankadeepa-lk ([ජනපති නිවෙසින් රට බීම ඉස්සූ අරගලකරුවා රිමාන්ඩ්](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/98388e3b.json))
 
-* **2** ada-derana-lk ([Minister Kanchana says fuel distribution lapses rectified](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ae8c4f6.json))
+* **1** ada-derana-lk ([‘Amber’ flood warning for low-lying areas of several rivers](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeb52246.json))
 
 ## Last 24 Hours (248 Articles)
 
@@ -34,7 +30,7 @@
 
 * **11** daily-ft-lk ([Maithri vows to form Govt. with leftist Opposition parties](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4833ef4.json))
 
-## Last Week (1,409 Articles)
+## Last Week (1,407 Articles)
 
 * **248** lankadeepa-lk ([තවත් භාණ්ඩ 300ක් ආනයනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f66d41f.json))
 
@@ -54,7 +50,7 @@
 
 * **60** island-lk ([Nations Trust Bank expands physical touchpoints with new cash deposits and withdrawal machines at Keells outlets](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c3c1e2.json))
 
-* **17** d-b-s-jeyaraj-com ([Colombo Fort Magistrate Thilina Gamage issues  order directing the CID to conduct an investigation into a contemptuous statement allegedly  made  at a press conference by Puttalam District Parliamentarian Sanath Nishantha Following Submissions made by President’s Counsel Upul Jayasuriya](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a86aeb5c.json))
+* **15** d-b-s-jeyaraj-com ([India’s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d409b1cb.json))
 
 * **7** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
