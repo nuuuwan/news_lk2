@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84622/cict-awards-winners-of-quay-crane-operator-competition",
+    "time_ut": 1661827260,
+    "original_lang": "en",
+    "original_title": "CICT awards winners of Quay Crane Operator competition",
+    "file_name": "/tmp/news_lk2/articles/f2/f2d18f84.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2-\u0bb5\u0bb0\u0bb5\u0bc1-\u0b9a\u0bc6\u0bb2\u0bb5\u0bc1-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1/175-303224",
+    "time_ut": 1661827155,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0bb5\u0bb0\u0bb5\u0bc1 - \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/1a/1a0da799.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0da7\u0dca\u0da7\u0d9a\u0dca\u0d9a\u0dd4\u0dbd\u0dd2\u0dba-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-396711",
+    "time_ut": 1661825803,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0da7\u0dca\u0da7\u0d9a\u0dca\u0d9a\u0dd4\u0dbd\u0dd2\u0dba \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/74/74a98e13.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business/Sweden-and-Denmark-eases-travel-advisory-to-SL/215-243990",
+    "time_ut": 1661824383,
+    "original_lang": "en",
+    "original_title": "Sweden and Denmark eases travel advisory to SL",
+    "file_name": "/tmp/news_lk2/articles/b0/b0ff5a3d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84621/six-provinces-to-receive-heavy-rainfall-above-100mm",
     "time_ut": 1661824320,
     "original_lang": "en",
@@ -14,6 +46,14 @@
     "original_lang": "en",
     "original_title": "SriLankan Airlines debt to be cut before sale by spinning off units",
     "file_name": "/tmp/news_lk2/articles/96/96cd43c9.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/srilanka-airlines-billion-dollar-debt-to-be-trimmed-before-sale-99160/",
+    "time_ut": 1661823480,
+    "original_lang": "en",
+    "original_title": "SriLanka Airlines billion dollar debt to be trimmed before sale",
+    "file_name": "/tmp/news_lk2/articles/f7/f76ae712.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -193,6 +233,14 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Govt-urged-to-do-its-utmost-to-discourage-demands-for-domestic-debt-restructuring/273-243974",
+    "time_ut": 1661799893,
+    "original_lang": "en",
+    "original_title": "Govt. urged to do its utmost to discourage demands for domestic debt restructuring",
+    "file_name": "/tmp/news_lk2/articles/df/df29d98b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/business-news/Import-ban-delivers-hard-blow-on-soft-tissue-paper-industry/273-243973",
     "time_ut": 1661799660,
     "original_lang": "en",
@@ -233,6 +281,14 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Update-Shooting-at-Mattakkuliya-kills-one/108-243968",
+    "time_ut": 1661795416,
+    "original_lang": "en",
+    "original_title": "Update: Shooting at Mattakkuliya kills one",
+    "file_name": "/tmp/news_lk2/articles/90/90630614.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Children-the-most-vulnerable-group-today/172-243967",
     "time_ut": 1661795316,
     "original_lang": "en",
@@ -270,6 +326,14 @@
     "original_lang": "en",
     "original_title": "DJ Shawnn padding up!",
     "file_name": "/tmp/news_lk2/articles/d0/d0017cab.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dbd\u0dd2-\u0dc3\u0db6\u0dca\u0dbb\u0dd2-\u0dc4\u0dcf-\u0dc0\u0dd2\u0da2\u0dba\u0daf\u0dcf\u0dc3-\u0da2\u0dd2\u0db1\u0dd3\u0dc0\u0dcf-\u0dba\u0dad\u0dd2/11-396710",
+    "time_ut": 1661792108,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbd\u0dd2 \u0dc3\u0db6\u0dca\u0dbb\u0dd2 \u0dc4\u0dcf \u0dc0\u0dd2\u0da2\u0dba\u0daf\u0dcf\u0dc3 \u0da2\u0dd2\u0db1\u0dd3\u0dc0\u0dcf \u0dba\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/b7/b749fb0f.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -1928,6 +1992,14 @@
     "file_name": "/tmp/news_lk2/articles/5a/5a4d7c45.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79252",
+    "time_ut": 1661713020,
+    "original_lang": "en",
+    "original_title": "Sri Lankan Airlines Group  to be restructured  by inviting foreign operators to take up 49% equity stake and management;Govt Unable to fund Loss making National Carrier any longer",
+    "file_name": "/tmp/news_lk2/articles/ff/ffd61d17.json"
+  },
+  {
     "newspaper_id": "island-lk",
     "url": "http://island.lk/european-importers-and-retailers-offer-to-buy-organic-food-products-from-sri-lanka/",
     "time_ut": 1661712900,
@@ -1958,6 +2030,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0b9f \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1: \u0b9c\u0bc0\u0bb5\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/87/87d85a3f.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79254",
+    "time_ut": 1661711940,
+    "original_lang": "en",
+    "original_title": "Power and Energy Minister Kanchana Wijesekera  defends decision to increase electricity tariffs, citing spendthrift generation plans and unsuitable policies adopted by successive governments pushed for the inevitable upward adjustments.",
+    "file_name": "/tmp/news_lk2/articles/ba/bafcb9f4.json"
   },
   {
     "newspaper_id": "island-lk",

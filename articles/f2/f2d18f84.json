@@ -1,0 +1,951 @@
+{
+  "newspaper_id": "ada-derana-lk",
+  "url": "http://www.adaderana.lk/news/84622/cict-awards-winners-of-quay-crane-operator-competition",
+  "time_ut": 1661827260,
+  "original_lang": "en",
+  "original_title": "CICT awards winners of Quay Crane Operator competition",
+  "text_idx": {
+    "en": {
+      "title": "CICT awards winners of Quay Crane Operator competition",
+      "author": "unknown",
+      "body_lines": [
+        "An awards ceremony organized by the Colombo International Container Terminals Limited (CICT) to celebrate the winners of its Competition for Quay Crane (QC) operators was held on Monday (29).",
+        "It was reported that such an award ceremony was held for the first time in South Asia.",
+        "The Gold Medal of the competition was won by QC operator Chathuranga Pushpakumara.",
+        "China Merchants Group (CMG), the parent company of Colombo International Container Terminals Limited (CICT), is celebrating its 150th anniversary this year. To mark this milestone, the company is conducting 150 global competitions among its group.",
+        "In an effort to recognize and reward the best operators within the company, Colombo International Container Terminals Limited, located in the south Harbour of Port of Colombo, had hosted the first ever Quay Crane (QC) operator competition in South Asia.",
+        "The goal was to promote exceptional safety standards and continued skills development within all ranks of the QC operators.",
+        "The competition was held within CICT contained 2 rounds. The Participation of all QC operators was mandatory in the 1st round, where overall skills and abilities were assessed based on strict standardized criteria applicable to all participants taking part.",
+        "The top 30 performers from the 1st round had advanced to the 2nd round, which focused on exceptional skills. The participants were given an opportunity to demonstrate, to the best of their ability, skills and expertise in handling containers and operating their stations.",
+        "After the 2nd round, 6 of the top-scoring QC operators from CICT receiveed awards and cash prices across three categories:",
+        "1 Gold Winner received LKR 600,000/-, 2 Silver Winners received LKR 400,000/- each, and 3 Bronze Winners received LKR 200,000/- each.",
+        "Colombo International Container Terminal (CICT}, which manages the South Terminal at the Port of Colombo, is the first deep water terminal in South Asia and the only one of its kind in operation within the region. Since its inception in 2014, the terminal has incrementally grown its volumes handled from 686,639 TEUs (in 2014} to just over 3.2 million TEUs in 2021; the highest done by a terminal in South Asia.",
+        "CICT has been consistently recognized for exceptional levels of efficiency, driven on the ground by its QC operators, and has won the AFLAS award for Asia\u2019s best container terminal under 4 million TEU\u2019s for 5 consecutive years (2017-2021).Further, CICT has also won the award for Most Efficient Terminal 2021\u2019 at the Global Ports Forum Awards. Thus, CICT is very keen on promoting and creating healthy competition amongst its QC operators whilst providing incentives to encourage exceptional excellence. CICT\u2019s efficiency drive has positively impacted the stakeholders by reducing the port stay of the vessels which are impacted by the global challenges faced by the shipping industry. This has ultimately lead to remarkable efficiency, further strengthening the globally renowned position of the Port of Colombo."
+      ],
+      "title_ents": [
+        {
+          "text": "CICT",
+          "label": "ORG"
+        },
+        {
+          "text": "Quay Crane Operator",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "the Colombo International Container Terminals Limited",
+            "label": "ORG"
+          },
+          {
+            "text": "Quay Crane",
+            "label": "PERSON"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "Monday",
+            "label": "DATE"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "South Asia",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "Chathuranga Pushpakumara",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "China Merchants Group",
+            "label": "ORG"
+          },
+          {
+            "text": "Colombo International Container Terminals Limited",
+            "label": "ORG"
+          },
+          {
+            "text": "150th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "this year",
+            "label": "DATE"
+          },
+          {
+            "text": "150",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Colombo International Container Terminals Limited",
+            "label": "ORG"
+          },
+          {
+            "text": "Port of Colombo",
+            "label": "FAC"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Quay Crane",
+            "label": "PERSON"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "South Asia",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "QC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "1st",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "2nd",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "2nd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Gold Winner",
+            "label": "NORP"
+          },
+          {
+            "text": "600,000/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Silver Winners",
+            "label": "ORG"
+          },
+          {
+            "text": "400,000/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Bronze Winners",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "200,000/-",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Colombo International Container Terminal",
+            "label": "ORG"
+          },
+          {
+            "text": "the South Terminal",
+            "label": "ORG"
+          },
+          {
+            "text": "the Port of Colombo",
+            "label": "FAC"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "South Asia",
+            "label": "LOC"
+          },
+          {
+            "text": "2014",
+            "label": "DATE"
+          },
+          {
+            "text": "686,639",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "TEUs",
+            "label": "ORG"
+          },
+          {
+            "text": "2014",
+            "label": "DATE"
+          },
+          {
+            "text": "just over 3.2 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "South Asia",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "Asia",
+            "label": "LOC"
+          },
+          {
+            "text": "4 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5 consecutive years",
+            "label": "DATE"
+          },
+          {
+            "text": "2017-2021).Further",
+            "label": "DATE"
+          },
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "the Global Ports Forum Awards",
+            "label": "ORG"
+          },
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "the Port of Colombo",
+            "label": "FAC"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "Quay Crane Operator \u0dad\u0dbb\u0d9f\u0dba\u0dda \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf CICT \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc3\u0dd3\u0db8\u0dcf\u0dc3\u0dc4\u0dd2\u0dad Colombo International Container Terminals Limited (CICT) \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca Quay Crane (QC) \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd6 \u0dad\u0dbb\u0d9f\u0dba\u0dda \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc3\u0dd0\u0db8\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1 \u0d8b\u0dc5\u0dd9\u0dbd\u0d9a\u0dca \u0dc3\u0db3\u0dd4\u0daf\u0dcf (29) \u0daf\u0dd2\u0db1 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd2\u0dab\u0dd2.",
+        "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc0\u0dad\u0dcf\u0dc0\u0da7 \u0db8\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1 \u0d8b\u0dc5\u0dd9\u0dbd\u0d9a\u0dca \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd6 \u0db6\u0dc0\u0dba\u0dd2 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd4\u0dab\u0dda.",
+        "\u0dad\u0dbb\u0d9c\u0dba\u0dda \u0dbb\u0db1\u0dca \u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8 QC \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dbb\u0dd4 \u0da0\u0dad\u0dd4\u0dbb\u0d82\u0d9c \u0db4\u0dd4\u0dc2\u0dca\u0db4\u0d9a\u0dd4\u0db8\u0dcf\u0dbb \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0daf\u0dd2\u0db1\u0dcf \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0dbd\u0daf\u0dd3.",
+        "Colombo International Container Terminals Limited (CICT) \u0dc4\u0dd2 \u0db8\u0dc0\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0dc0\u0db1 China Merchants Group (CMG) \u0db8\u0dd9\u0db8 \u0dc0\u0dc3\u0dbb\u0dda \u0dc3\u0dd2\u0dba 150 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba \u0dc3\u0db8\u0dbb\u0dba\u0dd2. \u0db8\u0dd9\u0db8 \u0dc3\u0db1\u0dca\u0db0\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dc3\u0db1\u0dd2\u0da7\u0dd4\u0dc4\u0db1\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0dc3\u0dd2\u0dba \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0d85\u0dad\u0dbb \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0dad\u0dbb\u0d9f 150 \u0d9a\u0dca \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2.",
+        "\u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0dad\u0dd4\u0dc5 \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0dc4\u0ddc\u0db3\u0db8 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dcf\u0d9c\u0dd9\u0db1 \u0dad\u0dca\u200d\u0dba\u0dcf\u0d9c \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0dd0\u0db8\u0dd3\u0db8\u0dda \u0db4\u0dca\u200d\u0dbb\u0dba\u0dad\u0dca\u0db1\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3, \u0d9a\u0ddc\u0dc5\u0db9 \u0dc0\u0dbb\u0dcf\u0dba\u0dda \u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0dc0\u0dbb\u0dcf\u0dba\u0dda \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 Colombo International Container Terminals Limited, \u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 Quay Crane (QC) \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dbb\u0dd4 \u0dad\u0dbb\u0d9f\u0dba\u0d9a\u0dca \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0d89\u0dbd\u0d9a\u0dca\u0d9a\u0dba \u0dc0\u0dd6\u0dba\u0dda QC \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0dad\u0dbb\u0dcf\u0dad\u0dd2\u0dbb\u0db8\u0dca\u0dc0\u0dbd \u0dc3\u0dd4\u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dd3 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dab \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd2\u0dad\u0dd3\u0db1\u0dca \u0dc3\u0dc4 \u0d85\u0d9b\u0dab\u0dca\u0da9 \u0d9a\u0dd4\u0dc3\u0dbd\u0dad\u0dcf \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dba\u0dd2.",
+        "\u0dad\u0dbb\u0d9f\u0dba \u0dc0\u0da7 2\u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0db8\u0db1\u0dca\u0dc0\u0dd2\u0dad CICT \u0dad\u0dd4\u0dc5 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd2\u0dab\u0dd2. \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3 \u0dc0\u0db1 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd2\u0dc0\u0db1\u0dca\u0db1\u0db1\u0dca\u0da7 \u0d85\u0daf\u0dcf\u0dc5 \u0dc0\u0db1 \u0daf\u0dd0\u0da9\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd2\u0dad\u0dd2\u0d9c\u0dad \u0db1\u0dd2\u0dbb\u0dca\u0dab\u0dcf\u0dba\u0d9a \u0db8\u0dad \u0db4\u0daf\u0db1\u0db8\u0dca\u0dc0 \u0dc3\u0db8\u0dc3\u0dca\u0dad \u0d9a\u0dd4\u0dc3\u0dbd\u0dad\u0dcf \u0dc3\u0dc4 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0db1\u0dca \u0dad\u0d9a\u0dca\u0dc3\u0dda\u0dbb\u0dd4 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf 1 \u0dc0\u0db1 \u0dc0\u0da7\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 QC \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3\u0dad\u0dca\u0dc0\u0dba \u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba \u0dc0\u0dd2\u0dba.",
+        "\u0dc3\u0dd4\u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dd3 \u0daf\u0dc3\u0dca\u0d9a\u0db8\u0dca \u0d9a\u0dd9\u0dbb\u0dd9\u0dc4\u0dd2 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba \u0dba\u0ddc\u0db8\u0dd4 \u0d9a\u0dc5 \u0db4\u0dc5\u0db8\u0dd4 \u0dc0\u0da7\u0dba\u0dda \u0dc4\u0ddc\u0db3\u0db8 \u0daf\u0d9a\u0dca\u0dc2\u0dad\u0dcf \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd6 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a\u0dba\u0dd2\u0db1\u0dca 30 \u0daf\u0dd9\u0db1\u0dcf 2 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0da7\u0dba\u0da7 \u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dbd\u0db6\u0dcf \u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dd2. \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd2\u0dc0\u0db1\u0dca\u0db1\u0db1\u0dca\u0da7 \u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca \u0dc4\u0dd0\u0dc3\u0dd2\u0dbb\u0dc0\u0dd3\u0db8 \u0dc3\u0dc4 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0, \u0d9a\u0dd4\u0dc3\u0dbd\u0dad\u0dcf \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd3\u0dab\u0dad\u0dca\u0dc0\u0dba \u0db4\u0dca\u200d\u0dbb\u0daf\u0dbb\u0dca\u0dc1\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0db1 \u0dbd\u0daf\u0dd3.",
+        "2 \u0dc0\u0db1 \u0dc0\u0da7\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0dc0, CICT \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0db8 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca QC \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca 6 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0da7 \u0d9a\u0dcf\u0dab\u0dca\u0da9 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dc4\u0dbb\u0dc4\u0dcf \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1 \u0dc3\u0dc4 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0d9c\u0dab\u0db1\u0dca \u0dbd\u0dd0\u0db6\u0dd4\u0dab\u0dd2:",
+        "\u0dbb\u0db1\u0dca \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dd2\u0db1\u0dca 1 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0da7 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 600,000/- \u0db6\u0dd0\u0d9c\u0dd2\u0db1\u0dca \u0daf, \u0dbb\u0dd2\u0daf\u0dd3 \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dd2\u0db1\u0dca 2 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0da7 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 400,000/- \u0db6\u0dd0\u0d9c\u0dd2\u0db1\u0dca \u0daf, \u0dbd\u0ddd\u0d9a\u0da9 \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dd2\u0db1\u0dca 3 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0da7 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 200,000/- \u0db6\u0dd0\u0d9c\u0dd2\u0db1\u0dca \u0daf \u0dc4\u0dd2\u0db8\u0dd2 \u0dc0\u0dd2\u0dba.",
+        "\u0d9a\u0ddc\u0dc5\u0db9 \u0dc0\u0dbb\u0dcf\u0dba\u0dda \u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba \u0d9a\u0dbb\u0db1 \u0d9a\u0ddc\u0dc5\u0db9 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba (CICT}, \u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0d9c\u0dd0\u0db9\u0dd4\u0dbb\u0dd4 \u0da2\u0dbd \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d9a\u0dbd\u0dcf\u0db4\u0dba \u0dad\u0dd4\u0dc5 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0db1 \u0d91\u0dc0\u0dd0\u0db1\u0dd2 \u0d91\u0d9a\u0db8 \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba\u0dba\u0dd2. 2014 \u0dc0\u0dc3\u0dbb\u0dda \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dc5 \u0daf\u0dcf \u0dc3\u0dd2\u0da7 \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba 686,639 TEU \u0dc3\u0dd2\u0da7 (2014 \u0daf\u0dd3 TEU \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3.2 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf 2021 \u0daf\u0d9a\u0dca\u0dc0\u0dcf, \u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba\u0d9a\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0d89\u0dc4\u0dc5\u0db8 \u0db4\u0dbb\u0dd2\u0db8\u0dcf\u0dc0\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd2\u0dba.",
+        "CICT \u0d91\u0dc4\u0dd2 QC \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db6\u0dd2\u0db8 \u0db8\u0dad \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0dc3\u0dd4\u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dd3 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0d9a\u0dca\u200d\u0dc2\u0db8\u0dad\u0dcf \u0db8\u0da7\u0dca\u0da7\u0db8\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dbd\u0d9a\u0dca\u0dc0 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0dc0\u0dc3\u0dbb 5\u0d9a\u0dca (2017-2021) \u0dc3\u0db3\u0dc4\u0dcf TEU \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 4\u0d9a\u0dca \u0dba\u0da7\u0dad\u0dda \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc4\u0ddc\u0db3\u0db8 \u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba \u0dc3\u0db3\u0dc4\u0dcf AFLAS \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dba \u0daf\u0dd2\u0db1\u0dcf \u0d9c\u0dd9\u0db1 \u0d87\u0dad. Global Ports Forum Awards \u0dc4\u0dd2\u0daf\u0dd3 \u0dc0\u0da9\u0dcf\u0dad\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0d9a\u0dca\u0dc2\u0db8 \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba 2021' \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0db1 \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dba \u0daf\u0dd2\u0db1\u0dcf \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0dbd\u0daf\u0dd3. \u0db8\u0dda \u0d85\u0db1\u0dd4\u0dc0, CICT \u0dc3\u0dd2\u0dba QC \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0d85\u0dad\u0dbb \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0db8\u0dca\u0db4\u0db1\u0dca\u0db1 \u0dad\u0dbb\u0d9f\u0dba\u0d9a\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dc4 \u0db1\u0dd2\u0dbb\u0dca\u0db8\u0dcf\u0dab\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d89\u0dad\u0dcf \u0d8b\u0db1\u0db1\u0dca\u0daf\u0dd4 \u0dc0\u0db1 \u0d85\u0dad\u0dbb\u0db8 \u0dc3\u0dd4\u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dd3 \u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da7\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dd2\u0dbb\u0dd2\u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0daf\u0dd2\u0dbb\u0dd2\u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0dba\u0dd2. \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba \u0db8\u0dd4\u0dc4\u0dd4\u0dab \u0daf\u0dd9\u0db1 \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db6\u0dbd\u0db4\u0dd1\u0db8\u0da7 \u0dbd\u0d9a\u0dca \u0dc0\u0dd6 \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf \u0dc0\u0dbd \u0dc0\u0dbb\u0dcf\u0dba \u0dbb\u0dd0\u0db3\u0dd3\u0db8 \u0d85\u0da9\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0db8\u0d9c\u0dd2\u0db1\u0dca CICT \u0dc4\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0d9a\u0dca\u200d\u0dc2\u0db8\u0dad\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dbd\u0dd2\u0dba \u0db4\u0dcf\u0dbb\u0dca\u0dc1\u0dc0\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0db0\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dbd\u0dd9\u0dc3 \u0db6\u0dbd\u0db4\u0dcf \u0d87\u0dad. \u0db8\u0dd9\u0dba \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0dda\u0daf\u0dd3 \u0d9a\u0ddc\u0dc5\u0db9 \u0dc0\u0dbb\u0dcf\u0dba\u0dda \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d9a\u0dd3\u0dbb\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd0\u0db4\u0dd3 \u0db4\u0dd9\u0db1\u0dd9\u0db1 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0d9a\u0dca\u0dc2\u0db8\u0dad\u0dcf\u0dc0\u0dba\u0d9a\u0da7 \u0dad\u0dd4\u0da9\u0dd4 \u0daf\u0dd3 \u0d87\u0dad."
+      ],
+      "title_ents": [
+        {
+          "text": "CICT",
+          "label": "ORG"
+        },
+        {
+          "text": "Quay Crane Operator",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc3\u0dd3\u0db8\u0dcf\u0dc3\u0dc4\u0dd2\u0dad Colombo International Container Terminals",
+            "label": "ORG"
+          },
+          {
+            "text": "Quay Crane",
+            "label": "PERSON"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da0\u0dad\u0dd4\u0dbb\u0d82\u0d9c \u0db4\u0dd4\u0dc2\u0dca\u0db4\u0d9a\u0dd4\u0db8\u0dcf\u0dbb",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0da0\u0dba\u0dd2\u0db1\u0dcf \u0db8\u0dbb\u0dca\u0da0\u0db1\u0dca\u0da7\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd3\u0db8\u0dcf\u0dc3\u0dc4\u0dd2\u0dad Colombo International Container Terminals",
+            "label": "ORG"
+          },
+          {
+            "text": "150 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "150",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd3\u0db8\u0dcf\u0dc3\u0dc4\u0dd2\u0dad Colombo International Container Terminals",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dc0\u0dbb\u0dcf\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Quay Crane",
+            "label": "PERSON"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "QC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "1 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1 \u0dc0\u0db1",
+            "label": "DATE"
+          },
+          {
+            "text": "2 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "2 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0db1\u0dca \u0da2\u0dba\u0d9c\u0dca\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dcf",
+            "label": "NORP"
+          },
+          {
+            "text": "600,000/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dd2\u0daf\u0dd3 \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dd2\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "400,000/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbd\u0ddd\u0d9a\u0da9 \u0da2\u0dba\u0d9c\u0dca\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0dd2\u0db1\u0dca",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "200,000/-",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dc0\u0dbb\u0dcf\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "2014",
+            "label": "DATE"
+          },
+          {
+            "text": "686,639 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "TEUs",
+            "label": "ORG"
+          },
+          {
+            "text": "2014",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3.2\u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2\u0dba\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 4 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0dc0\u0dc3\u0dbb 5 \u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "2017-2021).\u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "Global Ports Forum \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1 \u0d8b\u0dc5\u0dd9\u0dbd",
+            "label": "ORG"
+          },
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dc0\u0dbb\u0dcf\u0dba",
+            "label": "FAC"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0bc1\u0bb5\u0bc7 \u0b95\u0bbf\u0bb0\u0bc7\u0ba9\u0bcd \u0b86\u0baa\u0bb0\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 CICT \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0b95\u0bb3\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd \u0b9f\u0bc6\u0bb0\u0bcd\u0bae\u0bbf\u0ba9\u0bb2\u0bcd\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd (CICT) \u0b8f\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 Quay Crane (QC) \u0b86\u0baa\u0bb0\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb4\u0bbe \u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (29) \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1.",
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bbe\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bc7\u0baf\u0bc7 \u0bae\u0bc1\u0ba4\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b87\u0ba4\u0bc1\u0baa\u0bcb\u0ba9\u0bcd\u0bb1 \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb4\u0bbe \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1.",
+        "\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0ba4\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 QC \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0ba9\u0bb0\u0bcd \u0b9a\u0ba4\u0bc1\u0bb0\u0b99\u0bcd\u0b95 \u0baa\u0bc1\u0bb7\u0bcd\u0baa\u0b95\u0bc1\u0bae\u0bbe\u0bb0 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "Colombo International Container Terminals Limited (CICT) \u0b87\u0ba9\u0bcd \u0ba4\u0bbe\u0baf\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bbe\u0ba9 China Merchants Group (CMG) \u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba4\u0ba9\u0ba4\u0bc1 150\u0bb5\u0ba4\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b87\u0ba8\u0bcd\u0ba4 \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb2\u0bcd\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd 150 \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0b86\u0baa\u0bb0\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0b85\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd, \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 Colombo International Container Terminals Limited, \u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bbe\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd Quay Crane (QC) \u0b86\u0baa\u0bb0\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\u0bb5\u0bbf\u0ba4\u0bbf\u0bb5\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bb0\u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc8 \u0b8a\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc1\u0bae\u0bcd, QC \u0b86\u0baa\u0bb0\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bb0\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9 \u0ba4\u0bbf\u0bb1\u0ba9\u0bcd \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "CICT \u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd 2 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1. \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 QC \u0b86\u0baa\u0bb0\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0bc1 1\u0bb5\u0ba4\u0bc1 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bbe\u0baf\u0bae\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1, \u0b87\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0b95\u0b9f\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b85\u0bb3\u0bb5\u0bc1\u0b95\u0bcb\u0bb2\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b92\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0ba4\u0bbf\u0bb1\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb1\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9.",
+        "1 \u0bb5\u0ba4\u0bc1 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 30 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd 2 \u0bb5\u0ba4\u0bc1 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bbf\u0ba9\u0bb0\u0bcd, \u0b87\u0ba4\u0bc1 \u0bb5\u0bbf\u0ba4\u0bbf\u0bb5\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0bbf\u0bb1\u0bae\u0bc8\u0b95\u0bb3\u0bc8 \u0bae\u0bc8\u0baf\u0bae\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1. \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bc8\u0baf\u0bbe\u0bb3\u0bcd\u0bb5\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0bb1\u0ba9\u0bcd, \u0ba4\u0bbf\u0bb1\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "2\u0bb5\u0ba4\u0bc1 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1, CICT \u0b87\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b85\u0ba4\u0bbf\u0b95 \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc6\u0ba3\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 QC \u0b86\u0baa\u0bb0\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 6 \u0baa\u0bc7\u0bb0\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0ba3 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd:",
+        "1 \u0ba4\u0b99\u0bcd\u0b95 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd 600,000/- \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc1\u0bae\u0bcd, 2 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bb2\u0bbe 400,000/- \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc1\u0bae\u0bcd, \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 3 \u0bb5\u0bc6\u0ba3\u0bcd\u0b95\u0bb2 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bb2\u0bbe 200,000/- \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd.",
+        "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bae\u0bcd (CICT}, \u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bbe\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b86\u0bb4\u0bae\u0bbe\u0ba9 \u0ba8\u0bc0\u0bb0\u0bcd \u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bae\u0bbe\u0b95\u0bc1\u0bae\u0bcd, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc7 \u0bae\u0bbe\u0ba4\u0bbf\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 \u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0b95\u0bc1\u0bae\u0bcd. 2014 \u0b87\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1, \u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b85\u0ba4\u0ba9\u0bcd \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bcd 686,639 TEU \u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 (2014} \u0b87\u0bb2\u0bcd 2021 \u0b87\u0bb2\u0bcd 3.2 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 TEU \u0b95\u0bb3\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bc8\u0baf\u0bbe\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1; \u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bbe\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bbf\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0b85\u0bb3\u0bb5\u0bc1.",
+        "CICT \u0b86\u0ba9\u0ba4\u0bc1 \u0b85\u0ba4\u0ba9\u0bcd QC \u0b86\u0baa\u0bb0\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0ba4\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0ba4\u0bbf\u0bb5\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0ba4\u0bbf\u0bb1\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1, \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 5 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95 (2017-2021) 4 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd TEU \u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b86\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 AFLAS \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc8 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, CICT \u0b86\u0ba9\u0ba4\u0bc1. \u0b95\u0bc1\u0bb3\u0bcb\u0baa\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0b83\u0baa\u0bcb\u0bb0\u0bae\u0bcd \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb1\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b9f\u0bc6\u0bb0\u0bcd\u0bae\u0bbf\u0ba9\u0bb2\u0bcd 2021'\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc8 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1. \u0b8e\u0ba9\u0bb5\u0bc7, CICT \u0b86\u0ba9\u0ba4\u0bc1 \u0b85\u0ba4\u0ba9\u0bcd QC \u0b86\u0baa\u0bb0\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bc8\u0baf\u0bc7 \u0b86\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0ba9 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc8 \u0b8a\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b86\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b85\u0ba4\u0bc7 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0ba4\u0bbf\u0bb5\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc8 \u0b8a\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b8a\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. CICT \u0b87\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0ba4\u0bbf\u0bb1\u0ba9\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd, \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b9a\u0bb5\u0bbe\u0bb2\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0bbe\u0ba4\u0b95\u0bae\u0bbe\u0b95 \u0baa\u0bbe\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b87\u0ba4\u0bc1 \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0bb5\u0bbf\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0bbf\u0bb5\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd, \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0baa\u0bc1\u0b95\u0bb4\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0bb2\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "CICT",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b95\u0bc1\u0bb5\u0bc7 \u0b95\u0bbf\u0bb0\u0bc7\u0ba9\u0bcd \u0b86\u0baa\u0bb0\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd \u0b9f\u0bc6\u0bb0\u0bcd\u0bae\u0bbf\u0ba9\u0bb2\u0bcd\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb5\u0bc7 \u0b95\u0bbf\u0bb0\u0bc7\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "29",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bbe\u0b9a\u0bbf\u0baf\u0bbe",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0ba4\u0bc1\u0bb0\u0b99\u0bcd\u0b95 \u0baa\u0bc1\u0bb7\u0bcd\u0baa\u0b95\u0bc1\u0bae\u0bbe\u0bb0",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc0\u0ba9\u0bbe \u0bb5\u0ba3\u0bbf\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd \u0b9f\u0bc6\u0bb0\u0bcd\u0bae\u0bbf\u0ba9\u0bb2\u0bcd\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "150\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "150",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd \u0b9f\u0bc6\u0bb0\u0bcd\u0bae\u0bbf\u0ba9\u0bb2\u0bcd\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb5\u0bc7 \u0b95\u0bbf\u0bb0\u0bc7\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bbe\u0b9a\u0bbf\u0baf\u0bbe",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "QC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "1\u0bb5\u0ba4\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1\u0bb5\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "2\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "2\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "600,000/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "400,000/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0bc6\u0ba3\u0bcd\u0b95\u0bb2 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "200,000/-",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bbe\u0b9a\u0bbf\u0baf\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "2014",
+            "label": "DATE"
+          },
+          {
+            "text": "686,639",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "TEU\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "2014",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd 3.2 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bbe\u0b9a\u0bbf\u0baf\u0bbe",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "4 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 5 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "2017-2021).\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb3\u0bcb\u0baa\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0b83\u0baa\u0bcb\u0bb0\u0bae\u0bcd \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "QC",
+            "label": "ORG"
+          },
+          {
+            "text": "CICT",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+            "label": "FAC"
+          }
+        ]
+      ]
+    }
+  }
+}
