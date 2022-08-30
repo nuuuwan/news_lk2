@@ -1,11 +1,67 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Technical-Junction-blocked-due-to-protest/108-244009",
+    "time_ut": 1661854411,
+    "original_lang": "en",
+    "original_title": "Technical Junction blocked due to protest",
+    "file_name": "/tmp/news_lk2/articles/00/00be787e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Pregnant-mothers-to-get-Rs-2-500-monthly-allowance/108-244008",
+    "time_ut": 1661854162,
+    "original_lang": "en",
+    "original_title": "Pregnant mothers to get Rs. 2,500 monthly allowance",
+    "file_name": "/tmp/news_lk2/articles/58/582d94ef.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-2022-interim-budget-proposes-new-targeted-welfare-system-99185/",
+    "time_ut": 1661853780,
+    "original_lang": "en",
+    "original_title": "Sri Lanka 2022 interim budget proposes new targeted welfare system",
+    "file_name": "/tmp/news_lk2/articles/d1/d1a7808d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84639/special-unit-to-be-set-up-for-restructuring-state-owned-enterprises",
+    "time_ut": 1661853780,
+    "original_lang": "en",
+    "original_title": "Special unit to be set up for restructuring state-owned enterprises",
+    "file_name": "/tmp/news_lk2/articles/1e/1e51df5e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Retirement-age-of-public-semi-government-sector-employees-to-be-reduced-to-60/108-244007",
+    "time_ut": 1661853681,
+    "original_lang": "en",
+    "original_title": "Retirement age of public, semi-government sector employees to be reduced to 60",
+    "file_name": "/tmp/news_lk2/articles/a0/a0039569.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Elephantiasis-clinic-at-Gampaha/110-244006",
+    "time_ut": 1661853607,
+    "original_lang": "en",
+    "original_title": "Elephantiasis clinic at Gampaha...",
+    "file_name": "/tmp/news_lk2/articles/4a/4acc3474.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/VAT-to-be-increased-to-15/108-244005",
     "time_ut": 1661853302,
     "original_lang": "en",
     "original_title": "VAT to be increased to 15%",
     "file_name": "/tmp/news_lk2/articles/07/07fb77aa.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda-\u0dc4\u0dcf-\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba-\u0dc3\u0db8\u0dd2\u0dad\u0dd2-\u0d91\u0d9a\u0dca\u0dc0-\u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf-\u0db4\u0dcf-\u0d9c\u0db8\u0db1-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/101-619010",
+    "time_ut": 1661853252,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda \u0dc4\u0dcf \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0dc3\u0db8\u0dd2\u0dad\u0dd2 \u0d91\u0d9a\u0dca\u0dc0 \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf \u0db4\u0dcf \u0d9c\u0db8\u0db1 \u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4e/4e771c64.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -25,11 +81,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0db1\u0dad\u0dca-\u0db1\u0dd2\u0dc1\u0dcf\u0db1\u0dca\u0dad\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dad\u0dc0\u0dad\u0dca-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0d9a\u0dca/1-619008",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0db1\u0dad\u0dca-\u0db1\u0dd2\u0dc1\u0dcf\u0db1\u0dca\u0dad\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dad\u0dc0\u0dad\u0dca-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0d9a\u0dca/101-619008",
     "time_ut": 1661852802,
     "original_lang": "si",
     "original_title": "\u0dc3\u0db1\u0dad\u0dca \u0db1\u0dd2\u0dc1\u0dcf\u0db1\u0dca\u0dad\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dad\u0dc0\u0dad\u0dca \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/cd/cd5cd2fc.json"
+    "file_name": "/tmp/news_lk2/articles/e0/e07c4d9e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -142,6 +198,14 @@
     "original_lang": "si",
     "original_title": "\u0dc4\u0dcf\u0dbd\u0dd2 \u0d87\u0dbd \u0dc3\u0dd2\u0da7 \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0da7 \u0d91\u0dbd\u0dc0\u0dc5\u0dd4 \u0dc4\u0dcf \u0db4\u0dc5\u0dad\u0dd4\u0dbb\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/a2/a283cc02.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84636/govt-to-suspend-purchase-of-fossil-fuel-powered-vehicles-for-state-sector",
+    "time_ut": 1661850180,
+    "original_lang": "en",
+    "original_title": "Govt to suspend purchase of fossil fuel-powered vehicles for state sector",
+    "file_name": "/tmp/news_lk2/articles/bf/bf232aee.json"
   },
   {
     "newspaper_id": "ada-derana-lk",

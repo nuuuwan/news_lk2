@@ -1,0 +1,120 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/breaking_news/Pregnant-mothers-to-get-Rs-2-500-monthly-allowance/108-244008",
+  "time_ut": 1661854162,
+  "original_lang": "en",
+  "original_title": "Pregnant mothers to get Rs. 2,500 monthly allowance",
+  "text_idx": {
+    "en": {
+      "title": "Pregnant mothers to get Rs. 2,500 monthly allowance",
+      "author": "unknown",
+      "body_lines": [
+        "Pregnant mothers would be provided with an additional monthly allowance of Rs. 2,500 in addition to Rs. 20,000 already provided for them, President Ranil Wickremesinghe said in his budget speech."
+      ],
+      "title_ents": [
+        {
+          "text": "Rs",
+          "label": "PERSON"
+        },
+        {
+          "text": "2,500",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "monthly",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "2,500",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "20,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Ranil Wickremesinghe",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d9c\u0dd0\u0db6\u0dd2\u0dab\u0dd2 \u0db8\u0dc0\u0dca\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7 \u0dbb\u0dd4. 2,500 \u0db8\u0dcf\u0dc3\u0dd2\u0d9a \u0daf\u0dd3\u0db8\u0db1\u0dcf\u0dc0",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d9c\u0dd0\u0db6\u0dd2\u0dab\u0dd2 \u0db8\u0dc0\u0dca\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7 \u0db8\u0dcf\u0dc3\u0dd2\u0d9a\u0dc0 \u0dbb\u0dd4. 2,500 \u0da7 \u0d85\u0db8\u0dad\u0dbb\u0dc0 \u0dbb\u0dd4. \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0daf\u0dd0\u0db1\u0da7\u0db8\u0dad\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 20,000\u0d9a\u0dca \u0dbd\u0db6\u0dcf\u0daf\u0dd3 \u0d87\u0dad\u0dd0\u0dba\u0dd2 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4 \u0db8\u0dc4\u0dad\u0dcf \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0d9a\u0dad\u0dcf\u0dc0\u0dda\u0daf\u0dd3 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca",
+          "label": "PERSON"
+        },
+        {
+          "text": "2,500 \u0d9a\u0dd2",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0db8\u0dcf\u0dc3\u0dd2\u0d9a\u0dc0",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "2,500 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "20,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0ba3\u0bbf \u0ba4\u0bbe\u0baf\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb0\u0bc2. 2,500 \u0bae\u0bbe\u0ba4\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b89\u0ba4\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc8",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b95\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0ba3\u0bbf \u0ba4\u0bbe\u0baf\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bbe\u0ba4 \u0b89\u0ba4\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc8\u0baf\u0bbe\u0b95 \u0bb0\u0bc2. 2,500 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bbe\u0b95 \u0bb0\u0bc2. \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b8f\u0bb1\u0bcd\u0b95\u0ba9\u0bb5\u0bc7 20,000 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0ba4\u0ba9\u0ba4\u0bc1 \u0bb5\u0bb0\u0bb5\u0bc1 \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f \u0b89\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bb0\u0bc2",
+          "label": "PERSON"
+        },
+        {
+          "text": "2,500",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0bae\u0bbe\u0ba4\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "2,500",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "20,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
