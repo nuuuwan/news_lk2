@@ -1,0 +1,30 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd-\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd-\u0bb5\u0baf\u0ba4\u0bc6\u0bb2\u0bcd\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-303246",
+  "time_ut": 1661845921,
+  "original_lang": "ta",
+  "original_title": "\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0baf\u0ba4\u0bc6\u0bb2\u0bcd\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+  "text_idx": {
+    "en": {
+      "title": "Reduction of pensionable age",
+      "author": "unknown",
+      "body_lines": [],
+      "title_ents": [],
+      "body_line_ents_list": []
+    },
+    "si": {
+      "title": "\u0dc0\u0dd2\u0dc1\u0dca\u0dbb\u0dcf\u0db8 \u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca \u0dc0\u0dba\u0dc3 \u0d85\u0da9\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [],
+      "title_ents": [],
+      "body_line_ents_list": []
+    },
+    "ta": {
+      "title": "\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0baf\u0ba4\u0bc6\u0bb2\u0bcd\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+      "author": "unknown",
+      "body_lines": [],
+      "title_ents": [],
+      "body_line_ents_list": []
+    }
+  }
+}

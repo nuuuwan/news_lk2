@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84631/sri-lanka-to-increase-vat-from-september",
+    "time_ut": 1661845980,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to increase VAT from September",
+    "file_name": "/tmp/news_lk2/articles/12/12ebe964.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd-\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd-\u0bb5\u0baf\u0ba4\u0bc6\u0bb2\u0bcd\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-303246",
+    "time_ut": 1661845921,
+    "original_lang": "ta",
+    "original_title": "\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0baf\u0ba4\u0bc6\u0bb2\u0bcd\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/db/db8f7a02.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb1\u0bcd\u0bb5\u0bb0\u0bbf-15-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0ba9-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-303245",
+    "time_ut": 1661845819,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bb1\u0bcd\u0bb5\u0bb0\u0bbf 15 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/92/929df71d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd0\u0da7\u0dca-\u0db6\u0daf\u0dca\u0daf-\u0dc3\u0dd2\u0dba\u0dba\u0da7-12-\u0dc3\u0dd2\u0da7-\u0dc3\u0dd2\u0dba\u0dba\u0da7-15-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0dc0\u0dd0\u0da9\u0dd2-\u0d9a\u0dbb\u0dba\u0dd2/11-396726",
+    "time_ut": 1661845567,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd0\u0da7\u0dca \u0db6\u0daf\u0dca\u0daf \u0dc3\u0dd2\u0dba\u0dba\u0da7 12 \u0dc3\u0dd2\u0da7 \u0dc3\u0dd2\u0dba\u0dba\u0da7 15 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e4/e4f972db.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd-\u0dc3\u0db3\u0dc4\u0dcf-\u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca-\u0dba\u0ddc\u0db8\u0dd4\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0d9c\u0dad-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7/11-396725",
+    "time_ut": 1661845204,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca \u0dba\u0ddc\u0db8\u0dd4\u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0d9c\u0dad \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/ba/ba6b86a8.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0dad\u0dcf-\u0db6\u0daf\u0dd4-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba-\u0db1\u0da9\u0dad\u0dca\u0dad\u0dd4-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dba\u0ddc\u0daf\u0dc0\u0db1\u0dc0\u0dcf/11-396724",
     "time_ut": 1661845190,
@@ -78,6 +118,14 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bb2\u0bcd\u0bb2\u0bbe\u0b95\u0bcd\u0b95 \u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1 \u0baa\u0bb8\u0bcd: 18 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd: \u0b85\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bb5\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/96/96d29fc4.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0bb2\u0bcd\u0bb2\u0bbe\u0b95\u0bcd\u0b95-\u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1-\u0baa\u0bb8\u0bcd-27-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd-\u0b85\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bb5\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bae\u0bcd/76-303242",
+    "time_ut": 1661843379,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bb2\u0bcd\u0bb2\u0bbe\u0b95\u0bcd\u0b95 \u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1 \u0baa\u0bb8\u0bcd: 27  \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd: \u0b85\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bb5\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/0b/0b44fa0e.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -249,11 +297,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Pakistan-secures-1-1bn-in-IMF-bailout-funding/108-243994",
+    "url": "https://www.dailymirror.lk/latest_news/Pakistan-secures-1-1bn-in-IMF-bailout-funding/342-243994",
     "time_ut": 1661838053,
     "original_lang": "en",
     "original_title": "Pakistan secures $1.1bn in IMF bailout funding",
-    "file_name": "/tmp/news_lk2/articles/21/21fc91bb.json"
+    "file_name": "/tmp/news_lk2/articles/5a/5a73c2d7.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -385,11 +433,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0db4\u0dd9\u0dbb\u0dd0\u0dc5\u0dd2\u0dba\u0d9a\u0da7-\u0dc0\u0dd9\u0db1\u0dc3\u0dca\u0d9a\u0db8\u0dca-\u0db4\u0dd0\u0dad\u0dd2\u0d9a\u0da9/2-618988",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0db4\u0dd9\u0dbb\u0dd0\u0dc5\u0dd2\u0dba\u0d9a\u0da7-\u0dc0\u0dd9\u0db1\u0dc3\u0dca\u0d9a\u0db8\u0dca-\u0db4\u0dd0\u0dad\u0dd2\u0d9a\u0da9/26-618988",
     "time_ut": 1661834682,
     "original_lang": "si",
     "original_title": "\u0db4\u0dd9\u0dbb\u0dd0\u0dc5\u0dd2\u0dba\u0d9a\u0da7 \u0dc0\u0dd9\u0db1\u0dc3\u0dca\u0d9a\u0db8\u0dca \u0db4\u0dd0\u0dad\u0dd2\u0d9a\u0da9",
-    "file_name": "/tmp/news_lk2/articles/18/188abdfe.json"
+    "file_name": "/tmp/news_lk2/articles/d5/d55cf476.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
