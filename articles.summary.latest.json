@@ -1,11 +1,19 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0dd2\u0db1\u0dca-\u0dbb\u0da7-\u0db6\u0dd3\u0db8-\u0d89\u0dc3\u0dca\u0dc3\u0dd6-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0dcf-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/101-619028",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddd\u0da7\u0dd2-6\u0d9a-\u0d85\u0db6\u0dd2\u0dbd\u0dd2--\u0dbb\u0dda\u0d9c\u0dd4\u0dc0\u0dda-\u0dc4\u0dd2\u0dbb\u0dc0\u0dd9\u0dba\u0dd2/1-619029",
+    "time_ut": 1661879094,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 6\u0d9a \u0d85\u0db6\u0dd2\u0dbd\u0dd2  \u0dbb\u0dda\u0d9c\u0dd4\u0dc0\u0dda \u0dc4\u0dd2\u0dbb\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/6f/6f615062.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0dd2\u0db1\u0dca-\u0dbb\u0da7-\u0db6\u0dd3\u0db8-\u0d89\u0dc3\u0dca\u0dc3\u0dd6-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0dcf-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/1-619028",
     "time_ut": 1661877463,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0dd2\u0db1\u0dca \u0dbb\u0da7 \u0db6\u0dd3\u0db8 \u0d89\u0dc3\u0dca\u0dc3\u0dd6 \u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0dcf \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
-    "file_name": "/tmp/news_lk2/articles/27/2766accd.json"
+    "file_name": "/tmp/news_lk2/articles/98/98388e3b.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Morison begins local production of three high-in-demand medicines",
     "file_name": "/tmp/news_lk2/articles/05/058490d3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Poor-decisions-could-kill-egg-exports-from-Sri-Lanka-says-industry/273-243755",
-    "time_ut": 1661465931,
-    "original_lang": "en",
-    "original_title": "Poor decisions could kill egg exports from Sri Lanka, says industry",
-    "file_name": "/tmp/news_lk2/articles/46/462b89eb.json"
   }
 ]
