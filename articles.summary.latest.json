@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-bakery-owners-demand-prince-controls-for-wheat-flour-99205/",
+    "time_ut": 1661869680,
+    "original_lang": "en",
+    "original_title": "Sri Lanka bakery owners shift price control drumbeat from eggs to wheat flour",
+    "file_name": "/tmp/news_lk2/articles/78/789c76aa.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/30/icrc-remembers-the-families-of-the-missing/",
     "time_ut": 1661869440,
@@ -158,6 +166,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka reduces retirement age among measures to rationalize state-sector",
     "file_name": "/tmp/news_lk2/articles/2d/2d352b32.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0da7-\u0d86\u0db4\u0dd4-25\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-396749",
+    "time_ut": 1661863197,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0da7 \u0d86\u0db4\u0dd4 25\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/68/689868c7.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Oil price worries negatively impact share market",
     "file_name": "/tmp/news_lk2/articles/23/23b7db9a.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/john-keells-group-initiates-accelerated-crisis-response-programme-to-address-food-and-educational-challenges/",
-    "time_ut": 1661453700,
-    "original_lang": "en",
-    "original_title": "John Keells Group initiates accelerated Crisis Response Programme to address food and educational challenges",
-    "file_name": "/tmp/news_lk2/articles/a5/a524c161.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/outstanding-entrepreneur-of-the-year-2022-award-for-diluni-jayasekara/",
-    "time_ut": 1661453640,
-    "original_lang": "en",
-    "original_title": "\u2018Outstanding Entrepreneur of the Year 2022\u2019 award for Diluni Jayasekara",
-    "file_name": "/tmp/news_lk2/articles/43/43c82444.json"
   }
 ]
