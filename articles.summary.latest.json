@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-Tamil-factor-in-the-first-UNP-led-National-Govt/4-739304",
+    "time_ut": 1661907690,
+    "original_lang": "en",
+    "original_title": "The Tamil factor in the first UNP-led \u2018National\u2019 Govt.",
+    "file_name": "/tmp/news_lk2/articles/15/1550ea19.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Import-controls-are-required-but-do-it-smartly/4-739303",
+    "time_ut": 1661907318,
+    "original_lang": "en",
+    "original_title": "Import controls are required, but do it smartly",
+    "file_name": "/tmp/news_lk2/articles/bb/bb38725c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Dear-Mr-President-let-s-leapfrog/4-739302",
+    "time_ut": 1661907069,
+    "original_lang": "en",
+    "original_title": "Dear Mr. President; let\u2019s leapfrog",
+    "file_name": "/tmp/news_lk2/articles/3a/3ad4a90f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/18-hour-water-cut-in-Colombo-and-suburbs-on-Saturday-Sunday/108-244029",
+    "time_ut": 1661907050,
+    "original_lang": "en",
+    "original_title": "18-hour water cut in Colombo and suburbs on Saturday, Sunday",
+    "file_name": "/tmp/news_lk2/articles/80/803ac13c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Why-we-can-t-get-back-to-Sri-Lanka-soon-enough/14-739301",
+    "time_ut": 1661906604,
+    "original_lang": "en",
+    "original_title": "Why we can\u2019t get back to Sri Lanka soon enough",
+    "file_name": "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Economic-reforms-in-Sri-Lanka-and-Aragalaya/4-739300",
+    "time_ut": 1661906556,
+    "original_lang": "en",
+    "original_title": "Economic reforms in  Sri Lanka and \u2018Aragalaya\u2019",
+    "file_name": "/tmp/news_lk2/articles/91/911f32f6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Citrix-holds-CxO-Forum/34-739294",
     "time_ut": 1661903239,
     "original_lang": "en",
@@ -7950,53 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd \u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/72/729acf7a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/26/kanchana-meets-harin-for-tourism-fuel-needs/",
-    "time_ut": 1661490480,
-    "original_lang": "en",
-    "original_title": "Kanchana meets Harin for Tourism Fuel needs",
-    "file_name": "/tmp/news_lk2/articles/11/117ca309.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/26/ranjan-ramanayake-president-s-secretary-signs-release-documents/",
-    "time_ut": 1661489520,
-    "original_lang": "en",
-    "original_title": "Ranjan Ramanayake: President\u2019s Secretary signs release documents",
-    "file_name": "/tmp/news_lk2/articles/7b/7b30a268.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0db6\u0dc3\u0dca\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0dc3\u0dd2\u0dba\u0dba\u0da7-50\u0d9a\u0dca-\u0d9c\u0dd9\u0daf\u0dbb/1-618770",
-    "time_ut": 1661488866,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db6\u0dc3\u0dca\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 50\u0d9a\u0dca \u0d9c\u0dd9\u0daf\u0dbb",
-    "file_name": "/tmp/news_lk2/articles/d8/d83b300f.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0daf-\u0dc0\u0dd2\u0da7\u0dd2\u0db1\u0dca-\u0dc0\u0dd2\u0da7-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3/101-618769",
-    "time_ut": 1661488748,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0daf \u0dc0\u0dd2\u0da7\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0da7 \u0dc0\u0dd0\u0dc3\u0dca\u0dc3",
-    "file_name": "/tmp/news_lk2/articles/70/7016f5da.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/26/rajan-ramanayake-likely-to-receive-presidential-pardon-on-friday-26/",
-    "time_ut": 1661488620,
-    "original_lang": "en",
-    "original_title": "Rajan Ramanayake likely to receive Presidential Pardon on Friday (26)",
-    "file_name": "/tmp/news_lk2/articles/2f/2f215e16.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84547/gl-warns-govt-against-use-of-pta",
-    "time_ut": 1661488140,
-    "original_lang": "en",
-    "original_title": "GL warns govt against use of PTA",
-    "file_name": "/tmp/news_lk2/articles/e6/e674acc9.json"
   }
 ]

@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-Tamil-factor-in-the-first-UNP-led-National-Govt/4-739304",
+    "time_ut": 1661907690,
+    "original_lang": "en",
+    "original_title": "The Tamil factor in the first UNP-led \u2018National\u2019 Govt.",
+    "file_name": "/tmp/news_lk2/articles/15/1550ea19.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Import-controls-are-required-but-do-it-smartly/4-739303",
+    "time_ut": 1661907318,
+    "original_lang": "en",
+    "original_title": "Import controls are required, but do it smartly",
+    "file_name": "/tmp/news_lk2/articles/bb/bb38725c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Dear-Mr-President-let-s-leapfrog/4-739302",
+    "time_ut": 1661907069,
+    "original_lang": "en",
+    "original_title": "Dear Mr. President; let\u2019s leapfrog",
+    "file_name": "/tmp/news_lk2/articles/3a/3ad4a90f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/18-hour-water-cut-in-Colombo-and-suburbs-on-Saturday-Sunday/108-244029",
+    "time_ut": 1661907050,
+    "original_lang": "en",
+    "original_title": "18-hour water cut in Colombo and suburbs on Saturday, Sunday",
+    "file_name": "/tmp/news_lk2/articles/80/803ac13c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Why-we-can-t-get-back-to-Sri-Lanka-soon-enough/14-739301",
+    "time_ut": 1661906604,
+    "original_lang": "en",
+    "original_title": "Why we can\u2019t get back to Sri Lanka soon enough",
+    "file_name": "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Economic-reforms-in-Sri-Lanka-and-Aragalaya/4-739300",
+    "time_ut": 1661906556,
+    "original_lang": "en",
+    "original_title": "Economic reforms in  Sri Lanka and \u2018Aragalaya\u2019",
+    "file_name": "/tmp/news_lk2/articles/91/911f32f6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Citrix-holds-CxO-Forum/34-739294",
     "time_ut": 1661903239,
     "original_lang": "en",
