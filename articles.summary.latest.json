@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-revises-budget-amid-inflationary-blow-off-99212/",
+    "time_ut": 1661914020,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President revises budget amid inflationary blow off",
+    "file_name": "/tmp/news_lk2/articles/ec/ec9209e9.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8-\u0bae\u0bbe-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-303296",
+    "time_ut": 1661912539,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8 \u0bae\u0bbe  \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/9a/9a010015.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0dd9\u0db1\u0dca-\u0dbb\u0dad\u0dd4-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/11-396766",
+    "time_ut": 1661912357,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0dd9\u0db1\u0dca \u0dbb\u0dad\u0dd4 \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/6e/6eadc48a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dc5\u0dd4\u0dad\u0dbb--\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb--\u0db8\u0dcf\u0dad\u0dbd\u0dda-\u0dc3\u0dc4-\u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb\u0da7-\u0db1\u0dcf\u0dba-\u0dba\u0dcf\u0db8\u0dda-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca/101-619038",
+    "time_ut": 1661912061,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dc5\u0dd4\u0dad\u0dbb, \u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb, \u0db8\u0dcf\u0dad\u0dbd\u0dda \u0dc3\u0dc4 \u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb\u0da7 \u0db1\u0dcf\u0dba \u0dba\u0dcf\u0db8\u0dda \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/70/705f8f01.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bcb\u0bb5\u0bbf\u0baf\u0ba4\u0bcd-\u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0b87\u0bb1\u0bc1\u0ba4\u0bbf-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/50-303295",
     "time_ut": 1661911988,
     "original_lang": "ta",
     "original_title": "\u0b9a\u0bcb\u0bb5\u0bbf\u0baf\u0ba4\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/01/014a49cf.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84655/caa-imposes-several-conditions-on-48-items",
+    "time_ut": 1661911920,
+    "original_lang": "en",
+    "original_title": "CAA imposes several conditions on 48 items",
+    "file_name": "/tmp/news_lk2/articles/00/008c391d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -17,11 +57,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dcf\u0db3\u0dd4\u0db1\u0db1-\u0db8\u0dc5\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0d9a\u0dca--\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0db8\u0d9f-\u0db1\u0dc0\u0dad\u0dba\u0dd2/1-619036",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dcf\u0db3\u0dd4\u0db1\u0db1-\u0db8\u0dc5\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0d9a\u0dca--\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0db8\u0d9f-\u0db1\u0dc0\u0dad\u0dba\u0dd2/101-619036",
     "time_ut": 1661911721,
     "original_lang": "si",
     "original_title": "\u0db1\u0dcf\u0db3\u0dd4\u0db1\u0db1 \u0db8\u0dc5\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0d9a\u0dca  \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0db8\u0d9f \u0db1\u0dc0\u0dad\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/bd/bd227456.json"
+    "file_name": "/tmp/news_lk2/articles/fc/fc002266.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -32,12 +72,20 @@
     "file_name": "/tmp/news_lk2/articles/25/252e30b0.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbd\u0d9a\u0dca\u0dc2-157\u0d9a-\u0dbb\u0db1\u0dca-\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dd2\u0da7-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0db6\u0dd0\u0dbb\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2/11-396765",
+    "time_ut": 1661911049,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d9a\u0dca\u0dc2 157\u0d9a \u0dbb\u0db1\u0dca \u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0da7 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db6\u0dd0\u0dbb\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/31/3118af01.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddd\u0da7\u0dd2-15\u0d9a-\u0dbb\u0db1\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0dca\u0dad\u0ddc\u0da7\u0dd2\u0db1\u0dca-\u0db4\u0dd2\u0da7-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dc4\u0daf\u0dbd\u0dcf/1-619034",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddd\u0da7\u0dd2-15\u0d9a-\u0dbb\u0db1\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0dca\u0dad\u0ddc\u0da7\u0dd2\u0db1\u0dca-\u0db4\u0dd2\u0da7-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dc4\u0daf\u0dbd\u0dcf/101-619034",
     "time_ut": 1661910668,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 15\u0d9a \u0dbb\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca\u0dad\u0ddc\u0da7\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0da7 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dc4\u0daf\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/26/2689befc.json"
+    "file_name": "/tmp/news_lk2/articles/ef/ef936b11.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -65,27 +113,27 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Last-Soviet-leader-Mikhail-Gorbachev-dies-at-91/342-244032",
+    "url": "https://www.dailymirror.lk/breaking_news/Last-Soviet-leader-Mikhail-Gorbachev-dies-at-91/108-244032",
     "time_ut": 1661909837,
     "original_lang": "en",
     "original_title": "Last Soviet leader Mikhail Gorbachev dies at 91",
-    "file_name": "/tmp/news_lk2/articles/92/928ce9c5.json"
+    "file_name": "/tmp/news_lk2/articles/43/43050a22.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Devastating-economic-crisis-and-the-interim-budget-EDITORIAL/231-244031",
+    "url": "https://www.dailymirror.lk/opinion/Devastating-economic-crisis-and-the-interim-budget-EDITORIAL/172-244031",
     "time_ut": 1661909709,
     "original_lang": "en",
     "original_title": "Devastating economic crisis and the interim budget - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/58/580af052.json"
+    "file_name": "/tmp/news_lk2/articles/47/4700092e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Duty-free-worker-busted-with-gold-biscuits-worth-Rs-157mn/342-244030",
+    "url": "https://www.dailymirror.lk/breaking_news/Duty-free-worker-busted-with-gold-biscuits-worth-Rs-157mn/108-244030",
     "time_ut": 1661909397,
     "original_lang": "en",
     "original_title": "Duty-free worker busted with gold biscuits worth Rs.157mn",
-    "file_name": "/tmp/news_lk2/articles/cb/cb4856ce.json"
+    "file_name": "/tmp/news_lk2/articles/f2/f2f8809d.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "Conditional presidential pardon for Ranjan; relevant documents signed",
     "file_name": "/tmp/news_lk2/articles/48/480cf13a.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0da7-\u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dd9\u0dc3\u0dd2--\u0dc3\u0dc4\u0dd2\u0dad-\u0dc3\u0db8\u0dcf\u0dc0\u0d9a\u0dca/11-396623",
-    "time_ut": 1661493561,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0da7 \u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dd9\u0dc3\u0dd2  \u0dc3\u0dc4\u0dd2\u0dad \u0dc3\u0db8\u0dcf\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/87/878c25ea.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/japan-seeks-to-organise-sri-lanka-creditors-meeting-on-debt-crisis-reuters-99050/",
-    "time_ut": 1661493480,
-    "original_lang": "en",
-    "original_title": "Japan seeks to organise Sri Lanka creditors\u2019 meeting on debt crisis: Reuters",
-    "file_name": "/tmp/news_lk2/articles/44/44328894.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84550/uk-lifts-advisory-against-all-but-essential-travel-to-sri-lanka",
-    "time_ut": 1661493480,
-    "original_lang": "en",
-    "original_title": "UK lifts advisory against all but essential travel to Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/6e/6e373e4d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3--\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0d85\u0dad-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0db8\u0dd6\u0dc5\u0dd4\u0dc0\u0d9a\u0dca/11-396622",
-    "time_ut": 1661493224,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3  \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0d85\u0dad \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dd6\u0dc5\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/1f/1f874dc1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/26/discussion-on-fuel-subsidy-for-fisherfolk-on-monday-29/",
-    "time_ut": 1661493060,
-    "original_lang": "en",
-    "original_title": "Discussion on fuel subsidy for fisherfolk on Monday (29)",
-    "file_name": "/tmp/news_lk2/articles/c0/c0171aa3.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/friday/\u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca-\u0dc5\u0dd2\u0db4\u0da7-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u0daf-/122-618778",
-    "time_ut": 1661492832,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca \u0dc5\u0dd2\u0db4\u0da7 \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/47/4765e710.json"
   }
 ]
