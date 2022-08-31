@@ -1,11 +1,91 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/31/us-organization-donates-medical-supplies/",
+    "time_ut": 1661918460,
+    "original_lang": "en",
+    "original_title": "US organization donates medical supplies",
+    "file_name": "/tmp/news_lk2/articles/9c/9cffa300.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-boi-targets-one-billion-dollars-in-fdi-for-2022-99210/",
+    "time_ut": 1661918460,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s BOI targets one billion dollars in FDI for 2022",
+    "file_name": "/tmp/news_lk2/articles/59/59c78547.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd-\u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd-\u0b8e\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-303299",
+    "time_ut": 1661918323,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/08/08e97c97.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/31/distribution-sales-caa-imposes-strict-conditions-on-series-of-goods/",
+    "time_ut": 1661918100,
+    "original_lang": "en",
+    "original_title": "Distribution & Sales: CAA imposes strict conditions on series of goods",
+    "file_name": "/tmp/news_lk2/articles/06/063b0782.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Harak-Katas-drug-peddler-Kudu-Batti-arrested/108-244057",
+    "time_ut": 1661917865,
+    "original_lang": "en",
+    "original_title": "Harak Kata\u2019s drug peddler \u2019Kudu Batti\u2019 arrested",
+    "file_name": "/tmp/news_lk2/articles/be/be610049.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/31/thundershowers-expected-today-31/",
+    "time_ut": 1661917740,
+    "original_lang": "en",
+    "original_title": "Thundershowers expected today (31)",
+    "file_name": "/tmp/news_lk2/articles/c7/c7987030.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/CAA-issues-special-gazette-specifying-directions-for-manufacturers-traders/342-244056",
+    "time_ut": 1661917156,
+    "original_lang": "en",
+    "original_title": "CAA issues special gazette specifying directions for manufacturers, traders",
+    "file_name": "/tmp/news_lk2/articles/69/69bc1c2c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca--\u0d85\u0dad\u0dd2\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0d9c\u0dd0\u0dc3\u0da7\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/11-396768",
+    "time_ut": 1661915354,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca  \u0d85\u0dad\u0dd2\u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d9c\u0dd0\u0dc3\u0da7\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/28/28fa846f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-revises-budget-for-stability-in-monetary-meltdown-99212/",
+    "time_ut": 1661914020,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President revises budget for stability in monetary meltdown",
+    "file_name": "/tmp/news_lk2/articles/ab/ab8b538d.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-president-revises-budget-amid-inflationary-blow-off-99212/",
     "time_ut": 1661914020,
     "original_lang": "en",
     "original_title": "Sri Lanka President revises budget amid inflationary blow off",
     "file_name": "/tmp/news_lk2/articles/ec/ec9209e9.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-allow-foreign-universities-to-start-branches-99222/",
+    "time_ut": 1661913900,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to allow foreign universities to start branches",
+    "file_name": "/tmp/news_lk2/articles/99/99e56392.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -25,11 +105,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dc5\u0dd4\u0dad\u0dbb--\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb--\u0db8\u0dcf\u0dad\u0dbd\u0dda-\u0dc3\u0dc4-\u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb\u0da7-\u0db1\u0dcf\u0dba-\u0dba\u0dcf\u0db8\u0dda-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca/101-619038",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dc5\u0dd4\u0dad\u0dbb--\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb--\u0db8\u0dcf\u0dad\u0dbd\u0dda-\u0dc3\u0dc4-\u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb\u0da7-\u0db1\u0dcf\u0dba-\u0dba\u0dcf\u0db8\u0dda-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca/1-619038",
     "time_ut": 1661912061,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dc5\u0dd4\u0dad\u0dbb, \u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb, \u0db8\u0dcf\u0dad\u0dbd\u0dda \u0dc3\u0dc4 \u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb\u0da7 \u0db1\u0dcf\u0dba \u0dba\u0dcf\u0db8\u0dda \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/70/705f8f01.json"
+    "file_name": "/tmp/news_lk2/articles/9f/9fc5a965.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7918,85 +7998,5 @@
     "original_lang": "en",
     "original_title": "Communist Party slams use of PTA",
     "file_name": "/tmp/news_lk2/articles/8a/8a74677e.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc7-\u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/50-303033",
-    "time_ut": 1661495949,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc7 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/48/48358666.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/26/conditional-presidential-pardon-for-ranjan-ramanayake-says-pmd/",
-    "time_ut": 1661495760,
-    "original_lang": "en",
-    "original_title": "Conditional Presidential Pardon for Ranjan Ramanayake, says PMD",
-    "file_name": "/tmp/news_lk2/articles/fb/fb638c99.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84551/special-gazette-on-water-tariff-hike-to-be-issued-today",
-    "time_ut": 1661495640,
-    "original_lang": "en",
-    "original_title": "Special gazette on water tariff hike to be issued today",
-    "file_name": "/tmp/news_lk2/articles/68/68007196.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/UK-too-relaxes-travel-restrictions-on-SL/342-243782",
-    "time_ut": 1661495363,
-    "original_lang": "en",
-    "original_title": "UK too relaxes travel restrictions on SL",
-    "file_name": "/tmp/news_lk2/articles/3a/3acfbf65.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/26/counter-for-sri-lankan-expats-at-bia/",
-    "time_ut": 1661495340,
-    "original_lang": "en",
-    "original_title": "Counter for Sri Lankan expats at BIA",
-    "file_name": "/tmp/news_lk2/articles/a8/a891c45a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db4\u0dcf\u0db1\u0dba-\u0dc4\u0dcf-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dab\u0dba-\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca-\u0d85\u0dad\u0dbb-\u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0d9a\u0dca/1-618780",
-    "time_ut": 1661495181,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db4\u0dcf\u0db1\u0dba \u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dab\u0dba \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca \u0d85\u0dad\u0dbb \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/ff/ff090982.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-president-signs-conditional-pardon-for-ex-mp-ranjan-ramanayake-99051/",
-    "time_ut": 1661494800,
-    "original_lang": "en",
-    "original_title": "Sri Lanka president signs conditional pardon for ex MP Ranjan Ramanayake",
-    "file_name": "/tmp/news_lk2/articles/46/46f83818.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/26/cpstl-working-to-normalize-fuel-delivery/",
-    "time_ut": 1661494560,
-    "original_lang": "en",
-    "original_title": "CPSTL working to normalize fuel delivery",
-    "file_name": "/tmp/news_lk2/articles/cb/cbb352fc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Conditional-pardon-for-Ranjan-relevant-documents-signed/108-243781",
-    "time_ut": 1661493627,
-    "original_lang": "en",
-    "original_title": "Conditional pardon for Ranjan; relevant documents signed",
-    "file_name": "/tmp/news_lk2/articles/6b/6bab4c41.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Conditional-presidential-pardon-for-Ranjan-relevant-documents-signed/342-243781",
-    "time_ut": 1661493627,
-    "original_lang": "en",
-    "original_title": "Conditional presidential pardon for Ranjan; relevant documents signed",
-    "file_name": "/tmp/news_lk2/articles/48/480cf13a.json"
   }
 ]
