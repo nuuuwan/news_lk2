@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-31 05:48:28 (LK time)*
+*As of 2022-08-31 05:59:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -14,7 +14,7 @@
 
 * **1** lankadeepa-lk ([මිකායිල් ගොර්බචොව් සමුගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb845e02.json))
 
-## Last 24 Hours (248 Articles)
+## Last 24 Hours (247 Articles)
 
 * **47** ada-lk ([මට්ටක්කුලිය වෙඩි තැබීමකින් තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74a98e13.json))
 
@@ -34,9 +34,7 @@
 
 * **4** island-lk ([Bourse’s fortunes pick-up in the wake of IMF deal speculation](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d9f3443.json))
 
-* **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bf2aea2.json))
-
-## Last Week (1,421 Articles)
+## Last Week (1,420 Articles)
 
 * **249** lankadeepa-lk ([තවත් භාණ්ඩ 300ක් ආනයනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f66d41f.json))
 
@@ -54,13 +52,13 @@
 
 * **68** island-lk ([Nations Trust Bank expands physical touchpoints with new cash deposits and withdrawal machines at Keells outlets](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c3c1e2.json))
 
-* **63** daily-ft-lk ([Dolawaththa to present private members bill to amend penal code to protect LGBTQI+ community](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82c7ff4a.json))
+* **61** daily-ft-lk ([President Wickremesinghe must stop the crackdown to rebuild the nation](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba681ed1.json))
 
-* **17** d-b-s-jeyaraj-com ([India’s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d409b1cb.json))
+* **18** d-b-s-jeyaraj-com ([India’s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d409b1cb.json))
 
 * **7** colombo-telegraph-com ([Sri Lanka’s PTA: The Anti-Terrorism Law That Promotes Terrorism](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a15ed447.json))
 
-## All Time (3,939 Articles)
+## All Time (3,940 Articles)
 
 * **699** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,6 +78,6 @@
 
 * **195** island-lk ([Lanka’s misery should be warning to us all on global food, fuel and finance crisis: UNDP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564b2893.json))
 
-* **154** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
+* **155** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 
 * **47** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))

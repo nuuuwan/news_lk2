@@ -272,14 +272,6 @@
     "file_name": "/tmp/news_lk2/articles/f8/f82a6ea0.json"
   },
   {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79266",
-    "time_ut": 1661869140,
-    "original_lang": "en",
-    "original_title": "",
-    "file_name": "/tmp/news_lk2/articles/9b/9bf2aea2.json"
-  },
-  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/30/merchandise-export-earnings-in-july-increased-to-usd-1-1bn/",
     "time_ut": 1661869080,
@@ -2088,6 +2080,14 @@
     "file_name": "/tmp/news_lk2/articles/20/209ee370.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79266",
+    "time_ut": 1661800500,
+    "original_lang": "en",
+    "original_title": "\u201cI would say that the 225 MPs are hanging on by force. They do not have the people\u2019s mandate anymore\u2026\u2026\u2026 I fully agree that all 225 MPs must go and a new government with new faces and the right kind of vision must come to power.\u201d- Former President Chandrika Kumaratunga in Interview with \u201cThe Hindu\u201d",
+    "file_name": "/tmp/news_lk2/articles/9b/9bf2aea2.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/business-news/Jet-fuel-shortage-worsens-SLAs-woes/273-243978",
     "time_ut": 1661800118,
@@ -2118,6 +2118,14 @@
     "original_lang": "en",
     "original_title": "Import ban delivers hard blow on soft tissue paper industry",
     "file_name": "/tmp/news_lk2/articles/e0/e06afa51.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79270",
+    "time_ut": 1661799420,
+    "original_lang": "en",
+    "original_title": "President Wickremesinghe rolls out sweeping reforms and relief via   mini-Budget to appease crisis-hit vulnerable groups;\u201cI am well aware of the difficulties faced by many due to the ongoing crisis.That\u2019s why I decided to cut some of the capital expenditure and find room to provide enhanced support for vulnerable communities,\u201d Ranil Tells Parliament.",
+    "file_name": "/tmp/news_lk2/articles/6f/6f96fcab.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
