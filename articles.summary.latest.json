@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Citrix-holds-CxO-Forum/34-739294",
+    "time_ut": 1661903239,
+    "original_lang": "en",
+    "original_title": "Citrix holds CxO Forum",
+    "file_name": "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/President-presents-Interim-Budget-2023-highlights-proposals-to-create-new-economy/56-739293",
     "time_ut": 1661902713,
     "original_lang": "en",
@@ -152,6 +160,38 @@
     "file_name": "/tmp/news_lk2/articles/6f/6f615062.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/curveup-offers-digital-workspace-training-for-lawyers-2/",
+    "time_ut": 1661878920,
+    "original_lang": "en",
+    "original_title": "CurveUp offers Digital Workspace Training for Lawyers",
+    "file_name": "/tmp/news_lk2/articles/c5/c50c2858.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sampath-bank-hands-over-pubbiliya-wewa-the-12th-successful-restoration-project-in-its-wewata-jeewayak-program/",
+    "time_ut": 1661878860,
+    "original_lang": "en",
+    "original_title": "Sampath Bank hands over Pubbiliya Wewa, the 12th successful restoration project in its Wewata Jeewayak program",
+    "file_name": "/tmp/news_lk2/articles/d5/d5d1d211.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/developing-cultural-and-historical-ties-between-india-and-sri-lanka-through-the-murugan-trail/",
+    "time_ut": 1661878740,
+    "original_lang": "en",
+    "original_title": "Developing cultural and historical ties between India and Sri Lanka through the \u201cMurugan Trail\u201d",
+    "file_name": "/tmp/news_lk2/articles/c5/c5e01f88.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/bourses-fortunes-pick-up-in-the-wake-of-imf-deal-speculation/",
+    "time_ut": 1661878680,
+    "original_lang": "en",
+    "original_title": "Bourse\u2019s fortunes pick-up in the wake of IMF deal speculation",
+    "file_name": "/tmp/news_lk2/articles/7d/7d9f3443.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0dd2\u0db1\u0dca-\u0dbb\u0da7-\u0db6\u0dd3\u0db8-\u0d89\u0dc3\u0dca\u0dc3\u0dd6-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0dcf-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/1-619028",
     "time_ut": 1661877463,
@@ -230,6 +270,14 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/f8/f82a6ea0.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79266",
+    "time_ut": 1661869140,
+    "original_lang": "en",
+    "original_title": "",
+    "file_name": "/tmp/news_lk2/articles/9b/9bf2aea2.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -2192,12 +2240,36 @@
     "file_name": "/tmp/news_lk2/articles/e0/e01557ec.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/cse-slips-in-mid-morning-trade-ahead-of-interim-budget-presentation/",
+    "time_ut": 1661791680,
+    "original_lang": "en",
+    "original_title": "CSE slips in mid-morning trade ahead of interim budget presentation",
+    "file_name": "/tmp/news_lk2/articles/d1/d131661c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dialog-blaster-mobile-plans-to-suit-every-sri-lankan/",
+    "time_ut": 1661791680,
+    "original_lang": "en",
+    "original_title": "Dialog Blaster: Mobile plans to suit every Sri Lankan",
+    "file_name": "/tmp/news_lk2/articles/5a/5a0f3738.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dba\u0dc3-13--\u0dc3\u0dcf\u0db4\u0dd9\u0dc5-\u0da2\u0dba\u0d9c\u0dad\u0dca-\u0dc3\u0db1\u0dc4\u0dc3\u0dca-15-\u0d8b\u0dc3\u0dc3\u0dca-\u0db4\u0dd9\u0dc5-\u0da2\u0dba-\u0d9c\u0db1\u0dd3/1-618972",
     "time_ut": 1661791642,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dba\u0dc3 13  \u0dc3\u0dcf\u0db4\u0dd9\u0dc5 \u0da2\u0dba\u0d9c\u0dad\u0dca \u0dc3\u0db1\u0dc4\u0dc3\u0dca 15 \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0da2\u0dba \u0d9c\u0db1\u0dd3",
     "file_name": "/tmp/news_lk2/articles/e7/e7f99994.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sri-lankas-children-paying-the-steepest-price-in-the-current-crisis-unicef-regional-director-for-south-asia/",
+    "time_ut": 1661791620,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s children paying the steepest price in the current crisis \u2013 UNICEF Regional Director for South Asia",
+    "file_name": "/tmp/news_lk2/articles/8f/8f401667.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -5392,6 +5464,14 @@
     "file_name": "/tmp/news_lk2/articles/6e/6e8322e6.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/asking-for-big-trouble/",
+    "time_ut": 1661610360,
+    "original_lang": "en",
+    "original_title": "Asking for big trouble",
+    "file_name": "/tmp/news_lk2/articles/df/dfa1395f.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0dad\u0dd2\u0db6\u0dd6-\u0dba\u0dad\u0dd4\u0dbb\u0dd4-\u0db4\u0dd0\u0daf\u0dd2-13\u0d9a\u0dca-\u0dba\u0da7\u0d9a\u0dbb-\u0d9c\u0dd2\u0dba-\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae\u0dba/1-618849",
     "time_ut": 1661610292,
@@ -7918,85 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/02/02c7efbb.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbe\u0b95-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf-\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a/175-303026",
-    "time_ut": 1661487447,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbe\u0b95 \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a?",
-    "file_name": "/tmp/news_lk2/articles/19/19525782.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0ba9\u0bcd\u0bae\u0baf\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd-300-\u0b93\u0b9f\u0bcd\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0bb3\u0bcd/175-303025",
-    "time_ut": 1661487203,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bbf\u0ba9\u0bcd\u0bae\u0baf\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd 300 \u0b93\u0b9f\u0bcd\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/05/0509c01f.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bcd\u0ba4\u0bbf-\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/71-303024",
-    "time_ut": 1661487173,
-    "original_lang": "ta",
-    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/99/9953d5dc.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0bb2\u0b95\u0ba4\u0bcd-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd-\u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd-\u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0bb5\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd/175-303023",
-    "time_ut": 1661486869,
-    "original_lang": "ta",
-    "original_title": "\u0b89\u0bb2\u0b95\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0bb5\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/45/451ca177.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d94\u0da7\u0ddd-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db1\u0dd0\u0dc0\u0d9a\u0dca-\u0d85\u0daf-\u0d91\u0dba\u0dd2/11-396620",
-    "time_ut": 1661486122,
-    "original_lang": "si",
-    "original_title": "\u0d94\u0da7\u0ddd \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db1\u0dd0\u0dc0\u0d9a\u0dca \u0d85\u0daf \u0d91\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a3/a32bdfcf.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/26/japan-seeks-to-organize-sri-lanka-creditors-meeting-on-debt-crisis/",
-    "time_ut": 1661486100,
-    "original_lang": "en",
-    "original_title": "Japan seeks to organize Sri Lanka creditors\u2019 meeting on debt crisis",
-    "file_name": "/tmp/news_lk2/articles/31/31b9b030.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/26/norway-lifts-travel-advisory-against-sri-lanka-but-urges-citizens-to-follow-developments/",
-    "time_ut": 1661485140,
-    "original_lang": "en",
-    "original_title": "Norway lifts travel advisory against Sri Lanka, but urges citizens to follow developments",
-    "file_name": "/tmp/news_lk2/articles/2e/2e3680de.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-housing-hit-by-protectionist-taxes-monopoly-power-developers-99039/",
-    "time_ut": 1661483880,
-    "original_lang": "en",
-    "original_title": "Sri Lanka housing hit by protectionist taxes, monopoly power: Developers",
-    "file_name": "/tmp/news_lk2/articles/50/50c77cd3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/26/showers-over-50mm-expected-today-26/",
-    "time_ut": 1661481960,
-    "original_lang": "en",
-    "original_title": "Showers over 50mm expected today (26)",
-    "file_name": "/tmp/news_lk2/articles/e7/e70d35e0.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/26/3-hr-power-cuts-today-26/",
-    "time_ut": 1661481420,
-    "original_lang": "en",
-    "original_title": "3-hr power cuts today (26)",
-    "file_name": "/tmp/news_lk2/articles/3d/3df46537.json"
   }
 ]
