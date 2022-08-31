@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-31 05:59:28 (LK time)*
+*As of 2022-08-31 06:30:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (2 Articles)
-
-* **2** daily-ft-lk ([President presents Interim Budget 2023, highlights proposals to create new economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e4cbf2c.json))
 
 ## Last 3 Hours (7 Articles)
 
@@ -14,11 +10,11 @@
 
 * **1** lankadeepa-lk ([මිකායිල් ගොර්බචොව් සමුගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb845e02.json))
 
-## Last 24 Hours (247 Articles)
+## Last 24 Hours (244 Articles)
 
 * **47** ada-lk ([මට්ටක්කුලිය වෙඩි තැබීමකින් තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74a98e13.json))
 
-* **40** lankadeepa-lk ([ඉන්ධන පෝලිම්වල වගකීම තෙල් සංස්ථාව ගත යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d6ee4a3.json))
+* **38** lankadeepa-lk ([මට්ටක්කුලියේ දි තරුණයකුට වෙඩි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6c47582.json))
 
 * **37** tamil-mirror-lk ([இடைக்கால வரவு - செலவு திட்டம் இன்று](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a0da799.json))
 
@@ -26,15 +22,15 @@
 
 * **34** ada-derana-lk ([Six provinces to receive heavy rainfall above 100mm](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5aef6ff7.json))
 
-* **22** economy-next-com ([Sri Lanka PM seeks ideas for new oversight committees amid COPE, COPA controversy](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4681a46.json))
-
 * **22** daily-mirror-lk ([Sweden and Denmark eases travel advisory to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e633a262.json))
+
+* **21** economy-next-com ([Sri Lanka Airlines billion dollar debt to be trimmed before sale](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5ffa4d2.json))
 
 * **6** daily-ft-lk ([Police use tear gas and water cannons to disperse IUSF protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e587af79.json))
 
 * **4** island-lk ([Bourse’s fortunes pick-up in the wake of IMF deal speculation](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d9f3443.json))
 
-## Last Week (1,420 Articles)
+## Last Week (1,419 Articles)
 
 * **249** lankadeepa-lk ([තවත් භාණ්ඩ 300ක් ආනයනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f66d41f.json))
 
@@ -52,7 +48,7 @@
 
 * **68** island-lk ([Nations Trust Bank expands physical touchpoints with new cash deposits and withdrawal machines at Keells outlets](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c3c1e2.json))
 
-* **61** daily-ft-lk ([President Wickremesinghe must stop the crackdown to rebuild the nation](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba681ed1.json))
+* **60** daily-ft-lk ([Dilmah and Good Life X launch‘ Lost Ingredients Lab’](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd2ae236.json))
 
 * **18** d-b-s-jeyaraj-com ([India’s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d409b1cb.json))
 
