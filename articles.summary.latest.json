@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dc5\u0dd4\u0dad\u0dbb-\u0db1\u0dd2\u0dc0\u0dcf\u0dc3-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0d85\u0dc4\u0dd2\u0d82\u0dc3\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0db8\u0dd4\u0daf\u0dbd\u0dca\u0dc0\u0dbd\u0da7-\u0dc0\u0dd2\u0daf\u0dbd\u0dcf/101-619143",
+    "time_ut": 1662036519,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dc5\u0dd4\u0dad\u0dbb \u0db1\u0dd2\u0dc0\u0dcf\u0dc3 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0d85\u0dc4\u0dd2\u0d82\u0dc3\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda \u0db8\u0dd4\u0daf\u0dbd\u0dca\u0dc0\u0dbd\u0da7 \u0dc0\u0dd2\u0daf\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/ff/ffdd8b19.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/No-changes-to-fuel-prices/108-244146",
+    "time_ut": 1662036300,
+    "original_lang": "en",
+    "original_title": "No changes to fuel prices",
+    "file_name": "/tmp/news_lk2/articles/05/05f31b69.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/01/president-appoints-08-task-forces-to-secure-investors/",
+    "time_ut": 1662035820,
+    "original_lang": "en",
+    "original_title": "President appoints 08 task forces to secure investors",
+    "file_name": "/tmp/news_lk2/articles/91/91e0b8bf.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84691/ndcu-initiates-dengue-prevention-program",
+    "time_ut": 1662035520,
+    "original_lang": "en",
+    "original_title": "NDCU initiates dengue prevention program",
+    "file_name": "/tmp/news_lk2/articles/d4/d477a56c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/features/\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0dda-\u0d85\u0db1\u0dcf\u0d9c\u0dad-\u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4/2-619142",
     "time_ut": 1662035113,
     "original_lang": "si",
@@ -9,11 +41,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/IMF-concludes-mission/110-244145",
+    "url": "https://www.dailymirror.lk/latest_news/IMF-concludes-mission/342-244145",
     "time_ut": 1662034897,
     "original_lang": "en",
     "original_title": "IMF concludes mission",
-    "file_name": "/tmp/news_lk2/articles/3d/3d93e67b.json"
+    "file_name": "/tmp/news_lk2/articles/18/182b7067.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
