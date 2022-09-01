@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 02:18:02 (LK time)*
+*As of 2022-09-02 02:36:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,7 +12,7 @@
 
 * **1** daily-mirror-lk ([Asia Cup: Sri Lanka beat Bangladesh to enter Super Four](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b039021.json))
 
-## Last 24 Hours (181 Articles)
+## Last 24 Hours (182 Articles)
 
 * **47** lankadeepa-lk ([මන්ත්‍රී නිවාසවලට පහරදුන් තවත් හතරක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d9b7689.json))
 
@@ -30,7 +30,9 @@
 
 * **2** colombo-telegraph-com ([Jaffna’s Municipality Loses Japanese Grant Of 4 Compactors & Associated Duty-Grant](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec180de6.json))
 
-## Last Week (503 Articles)
+* **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e67e678.json))
+
+## Last Week (504 Articles)
 
 * **77** lankadeepa-lk ([ජීවන බර අඩු කිරීමට ජනතාවට සහන සලසනු](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6482c98.json))
 
@@ -48,13 +50,13 @@
 
 * **43** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
-* **21** d-b-s-jeyaraj-com ([Japanese Embassy Asks Jaffna Municipal Council to  Refund  Rs 14,329,446 Given in 2019 to Purchase four reconditioned waste-collection trucks ;”greatly regrettable that the project has already been three years late over the schedule and you were unable to implement the project,” the embassy informs Mayor V. Manivannan on the cancellation of the project.](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88429fbe.json))
+* **22** d-b-s-jeyaraj-com ([Japanese Embassy Asks Jaffna Municipal Council to  Refund  Rs 14,329,446 Given in 2019 to Purchase four reconditioned waste-collection trucks ;”greatly regrettable that the project has already been three years late over the schedule and you were unable to implement the project,” the embassy informs Mayor V. Manivannan on the cancellation of the project.](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88429fbe.json))
 
 * **17** island-lk ([Protests, arrests and gutted assets](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8703bcf7.json))
 
 * **12** colombo-telegraph-com ([Taking Dictatorial Steps To Control Public Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/841810c5.json))
 
-## All Time (794 Articles)
+## All Time (795 Articles)
 
 * **136** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -62,7 +64,7 @@
 
 * **111** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
 
-* **110** d-b-s-jeyaraj-com ([The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f93260b.json))
+* **111** d-b-s-jeyaraj-com ([The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f93260b.json))
 
 * **90** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf4124c.json))
 
