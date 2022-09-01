@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 01:19:35 (LK time)*
+*As of 2022-09-02 01:36:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Assets of Sri Lankans with LTTE links seized in India over money laundering charges](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/787ce7ac.json))
 
 ## Last Hour (1 Articles)
 
@@ -20,7 +16,7 @@
 
 * **1** daily-mirror-lk ([Asia Cup: Sri Lanka beat Bangladesh to enter Super Four](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b039021.json))
 
-## Last 24 Hours (184 Articles)
+## Last 24 Hours (181 Articles)
 
 * **47** lankadeepa-lk ([මන්ත්‍රී නිවාසවලට පහරදුන් තවත් හතරක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d9b7689.json))
 
@@ -35,8 +31,6 @@
 * **19** news-first-lk ([Criminal Gang Feud: 26 people gunned down in three months](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/9109ebf7.json))
 
 * **14** economy-next-com ([Sri Lanka Chamber welcomes interim budget proposals, calls for implementation](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d640bf55.json))
-
-* **3** daily-ft-lk ([G.L. calls on Govt. to urgently revise HS classification codes](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21949947.json))
 
 * **2** colombo-telegraph-com ([Jaffna’s Municipality Loses Japanese Grant Of 4 Compactors & Associated Duty-Grant](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec180de6.json))
 
