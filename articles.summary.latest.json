@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd2\u0dbd\u0ddd-198\u0d9a-\u0d9a\u0dd4\u0da9\u0dd4-\u0db1\u0da9\u0dd4\u0dc0-\u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7-\u0dad\u0dca\u200d\u0dbb\u0dd2\u0db4\u0dd4\u0daf\u0dca\u0dbd-\u0dc0\u0dd2\u0db1\u0dd2\u0dc3\u0dd4\u0dbb\u0dd4-\u0db8\u0da9\u0dd4\u0dbd\u0dca\u0dbd\u0d9a\u0dca/101-619145",
+    "time_ut": 1662037696,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd2\u0dbd\u0ddd 198\u0d9a \u0d9a\u0dd4\u0da9\u0dd4 \u0db1\u0da9\u0dd4\u0dc0 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7 \u0dad\u0dca\u200d\u0dbb\u0dd2\u0db4\u0dd4\u0daf\u0dca\u0dbd \u0dc0\u0dd2\u0db1\u0dd2\u0dc3\u0dd4\u0dbb\u0dd4 \u0db8\u0da9\u0dd4\u0dbd\u0dca\u0dbd\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/9a/9a693bd3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Blood-donation-camp/342-244148",
+    "time_ut": 1662037466,
+    "original_lang": "en",
+    "original_title": "Blood donation camp...",
+    "file_name": "/tmp/news_lk2/articles/6f/6f16b6ba.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84692/president-appoints-8-task-forces-to-secure-investors",
+    "time_ut": 1662037200,
+    "original_lang": "en",
+    "original_title": "President appoints 8 task forces to secure investors",
+    "file_name": "/tmp/news_lk2/articles/7b/7bbafe73.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/01/sjbs-hesha-credits-cbsl-governor-for-imf-agreement-slams-govt-for-trying-to-take-credit/",
+    "time_ut": 1662037080,
+    "original_lang": "en",
+    "original_title": "SJBs Hesha credits CBSL Governor for IMF agreement; Slams Govt for trying to take credit",
+    "file_name": "/tmp/news_lk2/articles/2e/2ec90c8d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Luxury-vehicle-crashes-into-filling-station/342-244147",
+    "time_ut": 1662037048,
+    "original_lang": "en",
+    "original_title": "Luxury vehicle crashes into filling station",
+    "file_name": "/tmp/news_lk2/articles/73/73a05392.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d86\u0dba\u0ddd\u0da2\u0d9a\u0dba\u0db1\u0dca-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0d9a\u0dcf\u0dbb\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0d9a-\u0db6\u0dbd\u0d9a\u0dcf-08\u0d9a\u0dca/101-619144",
+    "time_ut": 1662037031,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dba\u0ddd\u0da2\u0d9a\u0dba\u0db1\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0dc3\u0dcf\u0db0\u0d9a \u0db6\u0dbd\u0d9a\u0dcf 08\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/34/341109af.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dc5\u0dd4\u0dad\u0dbb-\u0db1\u0dd2\u0dc0\u0dcf\u0dc3-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0d85\u0dc4\u0dd2\u0d82\u0dc3\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0db8\u0dd4\u0daf\u0dbd\u0dca\u0dc0\u0dbd\u0da7-\u0dc0\u0dd2\u0daf\u0dbd\u0dcf/101-619143",
     "time_ut": 1662036519,
     "original_lang": "si",
@@ -73,11 +121,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/This-to-be-the-beginning-of-a-new-economic-era-Prez/108-244144",
+    "url": "https://www.dailymirror.lk/latest_news/This-to-be-the-beginning-of-a-new-economic-era-Prez/342-244144",
     "time_ut": 1662033897,
     "original_lang": "en",
     "original_title": "This to be the beginning of a new economic era: Prez",
-    "file_name": "/tmp/news_lk2/articles/60/609deca8.json"
+    "file_name": "/tmp/news_lk2/articles/8a/8a6033ce.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -2422,6 +2470,14 @@
     "original_lang": "si",
     "original_title": "\u0d94\u0d9a\u0dca\u0da7\u0dda\u0db1\u0dca 92 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca \u0d85\u0daf \u0d9c\u0ddc\u0da9\u0db6\u0dcf\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/cb/cb9b1c6a.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/gorbachev-and-gotabaya/",
+    "time_ut": 1661922584,
+    "original_lang": "en",
+    "original_title": "Gorbachev And Gotabaya",
+    "file_name": "/tmp/news_lk2/articles/61/6129152c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
