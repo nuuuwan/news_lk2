@@ -1,0 +1,762 @@
+{
+  "newspaper_id": "daily-ft-lk",
+  "url": "https://www.ft.lk/business/Kanchana-reviews-progress-of-rapid-renewable-energy-generation-plan/34-739225",
+  "time_ut": 1661730854,
+  "original_lang": "en",
+  "original_title": "Kanchana reviews progress of rapid renewable energy generation plan",
+  "text_idx": {
+    "en": {
+      "title": "Kanchana reviews progress of rapid renewable energy generation plan",
+      "author": "unknown",
+      "body_lines": [
+        "Appoints joint committee comprising CEB and SEA officials to finalise renewable energy plans",
+        "Discusses salient points of proposed 100 MW solar plant in Siyambalanduwa",
+        "Power and Energy Minister Kanchana Wijesekera said salient points in connection with the proposed 100 MW solar plant in Siyambalanduwa were discussed during a progress review meeting last Friday.",
+        "He also noted that a joint committee comprising the Ceylon Electricity Board (CEB) and Sustainable Energy Authority (SEA) was appointed to finalise the renewable energy strategy.",
+        "\u201cWe discussed the proposed 100 MW solar plant in Siyambalanduwa, EOIs, floating solar, tariffs, grid capacity, and signing of power purchase agreement (PPA),\u201d he said.\u00a0 The Daily FT exclusively reported that the State-run Ceylon Electricity Board (CEB) has called for International Competitive Bidding (ICB) to develop a 100 MW AC (alternating-current) solar PV (photovoltaic) power plant on a Build, Own, and Operate (BOO) basis in Siyambalanduwa for three years (https://www.ft.lk/front-page/SL-calls-the-world-to-boost-renewable-energy/44-739005).",
+        "In addition, the CEB has called for ICBs to construct a 132 kV transmission facility on a turnkey basis from Siyambalanduwa to Monaragala grid substation.",
+        "It is the first call for ICB post-pandemic amidst the ongoing economic crisis, sources told the Daily FT.",
+        "The move comes after the Cabinet approved the restructuring of the debt-ridden CEB, as well as a revision of the tariff rates for renewable energy projects.",
+        "In May, Minister Wijesekera announced that the Government will launch a rapid renewable energy generation plan from June onwards, which will be executed in two quick steps, which include conversion of rooftops to solar panels and extending immediate nod to provisional approval for proposed renewable energy proposals.",
+        "He believes that renewable energy is the way forward and will help Sri Lanka to overcome the energy crisis in the long run. The Minister recently affirmed that the CEB and Ceylon Petroleum Corporation (CPC) will be restructured, despite the strong opposition from the trade unions.",
+        "During a stakeholder consultation held last month, it was also revealed that the CEB\u2019s accumulated revenue shortfall is at Rs. 477 billion, whilst the gross liabilities are at a staggering Rs. 612.4 billion as of May 2022."
+      ],
+      "title_ents": [
+        {
+          "text": "Kanchana",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "CEB",
+            "label": "GPE"
+          },
+          {
+            "text": "SEA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "MW",
+            "label": "ORG"
+          },
+          {
+            "text": "Siyambalanduwa",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Energy",
+            "label": "ORG"
+          },
+          {
+            "text": "Kanchana Wijesekera",
+            "label": "PERSON"
+          },
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "MW",
+            "label": "ORG"
+          },
+          {
+            "text": "Siyambalanduwa",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "last Friday",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "the Ceylon Electricity Board",
+            "label": "ORG"
+          },
+          {
+            "text": "Sustainable Energy Authority",
+            "label": "ORG"
+          },
+          {
+            "text": "SEA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "MW",
+            "label": "ORG"
+          },
+          {
+            "text": "Siyambalanduwa",
+            "label": "ORG"
+          },
+          {
+            "text": "PPA",
+            "label": "ORG"
+          },
+          {
+            "text": "Daily",
+            "label": "DATE"
+          },
+          {
+            "text": "State",
+            "label": "ORG"
+          },
+          {
+            "text": "Ceylon Electricity Board",
+            "label": "ORG"
+          },
+          {
+            "text": "International Competitive Bidding",
+            "label": "ORG"
+          },
+          {
+            "text": "ICB",
+            "label": "ORG"
+          },
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "MW AC",
+            "label": "ORG"
+          },
+          {
+            "text": "Build",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "Operate",
+            "label": "ORG"
+          },
+          {
+            "text": "BOO",
+            "label": "ORG"
+          },
+          {
+            "text": "Siyambalanduwa",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "three years",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "CEB",
+            "label": "GPE"
+          },
+          {
+            "text": "132",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Siyambalanduwa",
+            "label": "ORG"
+          },
+          {
+            "text": "Monaragala",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "ICB",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Cabinet",
+            "label": "ORG"
+          },
+          {
+            "text": "CEB",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "May",
+            "label": "DATE"
+          },
+          {
+            "text": "Wijesekera",
+            "label": "PERSON"
+          },
+          {
+            "text": "June",
+            "label": "DATE"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "CEB",
+            "label": "ORG"
+          },
+          {
+            "text": "Ceylon Petroleum Corporation",
+            "label": "ORG"
+          },
+          {
+            "text": "CPC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "last month",
+            "label": "DATE"
+          },
+          {
+            "text": "CEB",
+            "label": "ORG"
+          },
+          {
+            "text": "477 billion",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "612.4 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "May 2022",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca \u0db4\u0dd4\u0db1\u0dbb\u0dca\u0da2\u0db1\u0db1\u0dd3\u0dba \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0d8b\u0dad\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc3\u0dd0\u0dbd\u0dd0\u0dc3\u0dca\u0db8\u0dda \u0db4\u0dca\u200d\u0dbb\u0d9c\u0dad\u0dd2\u0dba \u0d9a\u0dcf\u0d82\u0da0\u0db1\u0dcf \u0dc3\u0db8\u0dcf\u0dbd\u0ddd\u0da0\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0db4\u0dd4\u0db1\u0dbb\u0dca\u0da2\u0db1\u0db1\u0dd3\u0dba \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dbd\u0d82\u0dc0\u0dd2\u0db8 \u0dc3\u0dc4 \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dda \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0db1\u0dca\u0dc0\u0dd2\u0dad \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+        "\u0dc3\u0dd2\u0dba\u0db9\u0dbd\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dda \u0dba\u0ddd\u0da2\u0dd2\u0dad \u0db8\u0dd9\u0d9c\u0dcf\u0dc0\u0ddc\u0da7\u0dca 100 \u0dc3\u0dd6\u0dbb\u0dca\u0dba \u0db6\u0dbd\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dda \u0d9a\u0dd0\u0db4\u0dd3 \u0db4\u0dd9\u0db1\u0dd9\u0db1 \u0d9a\u0dbb\u0dd4\u0dab\u0dd4 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0d9a\u0dbb\u0dba\u0dd2",
+        "\u0dc3\u0dd2\u0dba\u0db9\u0dbd\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dda \u0db8\u0dd9\u0d9c\u0dcf\u0dc0\u0ddc\u0da7\u0dca 100 \u0d9a \u0dc3\u0dd6\u0dbb\u0dca\u0dba \u0db6\u0dbd\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0d9a\u0dca \u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dba\u0ddd\u0da2\u0dd2\u0dad \u0db6\u0dc0 \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0d9c\u0dad\u0dd2 \u0dc3\u0db8\u0dcf\u0dbd\u0ddd\u0da0\u0db1 \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda\u0daf\u0dd3 \u0dc0\u0dd0\u0daf\u0d9c\u0dad\u0dca \u0d9a\u0dbb\u0dd4\u0dab\u0dd4 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0d9a\u0dc5 \u0db6\u0dc0 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0dc4\u0dcf \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0d9a\u0d82\u0da0\u0db1 \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0db4\u0dd4\u0db1\u0dbb\u0dca\u0da2\u0db1\u0db1\u0dd3\u0dba \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0d8b\u0db4\u0dcf\u0dba\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba (CEB) \u0dc3\u0dc4 \u0dc3\u0dd4\u0db1\u0dd2\u0dad\u0dca\u200d\u0dba \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba (SEA) \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca \u0db4\u0dad\u0dca \u0d9a\u0dc5 \u0db6\u0dc0 \u0daf \u0d94\u0dc4\u0dd4 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba \u0d9c\u0dbd\u0dcf \u0d92\u0db8 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db8\u0dd4\u0dbd\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca \u0dc3\u0dc4 \u0d8b\u0dad\u0dca\u0db4\u0dca\u200d\u0dbb\u0dda\u0dbb\u0d9a\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3",
+        "\u0db8\u0dd3\u0da7 \u0d85\u0db8\u0dad\u0dbb\u0dc0, \u0dc3\u0dd2\u0dba\u0db9\u0dbd\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dda \u0dc3\u0dd2\u0da7 \u0db8\u0ddc\u0dab\u0dbb\u0dcf\u0d9c\u0dbd \u0d9c\u0dca\u200d\u0dbb\u0dd2\u0da9\u0dca \u0d8b\u0db4\u0db4\u0ddc\u0dc5 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc4\u0dd0\u0dbb\u0dc0\u0dd4\u0db8\u0dca \u0dba\u0dad\u0dd4\u0dbb \u0db4\u0daf\u0db1\u0db8 \u0db8\u0dad 132 kV \u0dc3\u0db8\u0dca\u0db4\u0dca\u200d\u0dbb\u0dda\u0dc2\u0dab \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8 \u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba ICBs \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d87\u0dad.",
+        "\u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba \u0db8\u0db0\u0dca\u200d\u0dba\u0dba\u0dda ICB \u0db4\u0dc1\u0dca\u0da0\u0dcf\u0dad\u0dca \u0dc0\u0dc3\u0d82\u0d9c\u0dad\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0db1 \u0db4\u0dc5\u0db8\u0dd4 \u0d87\u0db8\u0dad\u0dd4\u0db8 \u0d91\u0dba \u0db6\u0dc0 \u0db8\u0dd6\u0dbd\u0dcf\u0dc1\u0dca\u200d\u0dbb Daily FT \u0dc0\u0dd9\u0dad \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0dab\u0dba \u0db6\u0dbb\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dbb\u0dd2\u0d9a\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0dbd\u0d82\u0dc0\u0dd2\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc0\u0dca\u200d\u0dba\u0dd4\u0dc4\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db8\u0dd9\u0db1\u0dca\u0db8 \u0db4\u0dd4\u0db1\u0dbb\u0dca\u0da2\u0db1\u0db1\u0dd3\u0dba \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 \u0dc3\u0db3\u0dc4\u0dcf \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba \u0dbd\u0dd0\u0db6\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0dc0 \u0db8\u0dd9\u0db8 \u0db4\u0dd2\u0dba\u0dc0\u0dbb \u0d9c\u0dd9\u0db1 \u0d87\u0dad.",
+        "\u0dc0\u0dc4\u0dbd\u0dc0\u0dbd\u0dca \u0dc3\u0dd6\u0dbb\u0dca\u0dba \u0db4\u0dd0\u0db1\u0dbd \u0db6\u0dc0\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0dc4 \u0dba\u0ddd\u0da2\u0dd2\u0dad \u0db4\u0dd4\u0db1\u0dbb\u0dca\u0da2\u0db1\u0db1\u0dd3\u0dba \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0dba\u0ddd\u0da2\u0db1\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0dad\u0dcf\u0dc0\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dc4\u0dcf \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dca \u0db4\u0dd2\u0dba\u0dc0\u0dbb \u0daf\u0dd9\u0d9a\u0d9a\u0dd2\u0db1\u0dca \u0d91\u0dba \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dbb\u0db1 \u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dca \u0db4\u0dd4\u0db1\u0dbb\u0dca\u0da2\u0db1\u0db1\u0dd3\u0dba \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0d8b\u0dad\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc3\u0dd0\u0dbd\u0dd0\u0dc3\u0dca\u0db8\u0d9a\u0dca \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0dbb\u0da2\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0db6\u0dc0 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb \u0db8\u0dd0\u0dba\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d9a\u0dc5\u0dda\u0dba. .",
+        "\u0db4\u0dd4\u0db1\u0dbb\u0dca\u0da2\u0db1\u0db1\u0dd3\u0dba \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba \u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0db8\u0dcf\u0dc0\u0dad \u0db6\u0dc0 \u0d94\u0dc4\u0dd4 \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3 \u0d9a\u0dbb\u0db1 \u0d85\u0dad\u0dbb \u0daf\u0dd2\u0d9c\u0dd4\u0d9a\u0dcf\u0dbd\u0dd3\u0db1\u0dc0 \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd2\u0daf\u0dd3\u0db8\u0da7 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0d8b\u0db4\u0d9a\u0dcf\u0dbb\u0dd3 \u0dc0\u0db1\u0dd4 \u0d87\u0dad. \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0dc3\u0db8\u0dd2\u0dad\u0dd2\u0dc0\u0dbd \u0daf\u0dd0\u0da9\u0dd2 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba \u0db1\u0ddc\u0dad\u0d9a\u0dcf \u0dbd\u0d82\u0dc0\u0dd2\u0db8 \u0dc3\u0dc4 \u0dbd\u0d82\u0d9a\u0dcf \u0d9b\u0db1\u0dd2\u0da2 \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0d9c\u0dad \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0 (CPC) \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc0\u0dca\u200d\u0dba\u0dd4\u0dc4\u0d9c\u0dad \u0d9a\u0dbb\u0db1 \u0db6\u0dc0 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba\u0daf\u0dcf \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dcf\u0dc3\u0dba\u0dda \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0db4\u0dcf\u0dbb\u0dca\u0dc1\u0dca\u0dc0\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1\u0dba\u0d9a\u0daf\u0dd3 \u0dbd\u0d82\u0dc0\u0dd2\u0db8\u0dda \u0dc3\u0db8\u0dd4\u0da0\u0dca\u0da0\u0dd2\u0dad \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca \u0dc4\u0dd2\u0d9f\u0dba \u0dbb\u0dd4. \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 477 \u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb, \u0daf\u0dc5 \u0dc0\u0d9c\u0d9a\u0dd3\u0db8\u0dca \u0dc0\u0dd2\u0dc1\u0dca\u0db8\u0dba\u0da2\u0db1\u0d9a \u0dbd\u0dd9\u0dc3 \u0dbb\u0dd4. 2022 \u0db8\u0dd0\u0dba\u0dd2 \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 612.4 \u0d9a\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d9a\u0dcf\u0d82\u0da0\u0db1\u0dcf",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dbd\u0d82\u0dc0\u0dd2\u0db8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd9.\u0dc0\u0ddc",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0db9\u0dbd\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dcf\u0d82\u0da0\u0db1 \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd9.\u0dc0\u0ddc",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0db9\u0dbd\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd4\u0db1\u0dd2\u0dad\u0dca\u200d\u0dba \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd9.\u0dc0\u0ddc",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0db9\u0dbd\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "PPA",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd2\u0db1\u0db4\u0dad\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0da2\u0dba\u0dda",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dad\u0dbb\u0d9f\u0d9a\u0dcf\u0dbb\u0dd3 \u0dbd\u0d82\u0dc3\u0dd4 \u0dad\u0dd0\u0db6\u0dd3\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "ICB",
+            "label": "ORG"
+          },
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "MW AC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9c\u0ddc\u0da9\u0db1\u0d9f\u0db1\u0dca\u0db1",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "BOO",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0db9\u0dbd\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0dbb \u0dad\u0dd4\u0db1\u0d9a\u0dca",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbd\u0d82\u0dc0\u0dd2\u0db8",
+            "label": "GPE"
+          },
+          {
+            "text": "132",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0db9\u0dbd\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0db1\u0dbb\u0dcf\u0d9c\u0dbd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "ICB",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dab\u0dca\u0da9\u0dbd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0dc0\u0dd2\u0db8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dd0\u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0dc0\u0dd2\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0d9b\u0db1\u0dd2\u0da2 \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0d9c\u0dad \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "CPC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dcf\u0dc3\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0dc0\u0dd2\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 477 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 612.4 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "2022 \u0db8\u0dd0\u0dba\u0dd2",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9\u0bbe \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbe\u0ba9 \u0baa\u0bc1\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0b86\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bcd\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0baa\u0bc1\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0b86\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf CEB \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd SEA \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc8 \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bc8 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
+        "\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bc7\u0b9a 100 \u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd \u0b9a\u0bc2\u0bb0\u0bbf\u0baf \u0bae\u0bbf\u0ba9\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+        "\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bc7\u0b9a 100 \u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd \u0b9a\u0bcb\u0bb2\u0bbe\u0bb0\u0bcd \u0b86\u0bb2\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0bae\u0bc0\u0bb3\u0bbe\u0baf\u0bcd\u0bb5\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bb5\u0bbf\u0b9f\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9 \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0baa\u0bc1\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0b86\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd \u0bae\u0bc2\u0bb2\u0bcb\u0baa\u0bbe\u0baf\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8 (CEB) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9 \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8 (SEA) \u0b85\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bca\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bca\u0bb4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 100 \u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd \u0b9a\u0bcb\u0bb2\u0bbe\u0bb0\u0bcd \u0b86\u0bb2\u0bc8, EOI\u0b95\u0bb3\u0bcd, \u0bae\u0bbf\u0ba4\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bcb\u0bb2\u0bbe\u0bb0\u0bcd, \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba4\u0bbf\u0bb1\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbf\u0ba9\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd (PPA) \u0b95\u0bc8\u0baf\u0bc6\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bc1\u0bb5\u0ba4\u0bc1 \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bcb\u0bae\u0bcd,\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u0b9f\u0bc6\u0baf\u0bcd\u0bb2\u0bbf FT \u0baa\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc7\u0b95\u0bae\u0bbe\u0b95, \u0b85\u0bb0\u0b9a\u0bbe\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0bae\u0bcd (CEB) 100 MW AC (\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1-\u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf) \u0b9a\u0bc2\u0bb0\u0bbf\u0baf PV (\u0b92\u0bb3\u0bbf\u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4) \u0bae\u0bbf\u0ba9\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 (ICB) \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. (BOO) \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0baf\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd (https://www.ft.lk/front-page/SL-calls-the-world-to-boost-renewable-energy/44-739005).",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, \u0b9a\u0bbf\u0baf\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bca\u0ba9\u0bb0\u0bbe\u0b95\u0bb2\u0bc8 \u0b95\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd \u0ba4\u0bc1\u0ba3\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd \u0bb5\u0bb0\u0bc8 \u0b86\u0baf\u0ba4\u0bcd\u0ba4 \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 132 kV \u0b92\u0bb2\u0bbf\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0b9a\u0ba4\u0bbf\u0baf\u0bc8 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 ICB \u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 CEB \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b90\u0b9a\u0bbf\u0baa\u0bbf \u0baa\u0bbf\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9f\u0bc6\u0baf\u0bcd\u0bb2\u0bbf \u0b8e\u0b83\u0baa\u0bcd\u0b9f\u0bbf \u0bb5\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9.",
+        "\u0b95\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 CEB\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bb1\u0bc1\u0b9a\u0bc0\u0bb0\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0b9f\u0bcd\u0b9f\u0ba3 \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8 \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc8 \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0bae\u0bc7 \u0bae\u0bbe\u0ba4\u0bae\u0bcd, \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0, \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0bae\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbe\u0ba9 \u0baa\u0bc1\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd, \u0b87\u0ba4\u0bc1 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbe\u0ba9 \u0baa\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd, \u0b87\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc2\u0bb0\u0bc8\u0b95\u0bb3\u0bc8 \u0b9a\u0bcb\u0bb2\u0bbe\u0bb0\u0bcd \u0baa\u0bc7\u0ba9\u0bb2\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bca\u0bb4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bc1\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95 \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0b9f\u0ba9\u0b9f\u0bbf \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bc1 \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bc8 \u0b85\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd. .",
+        "\u0baa\u0bc1\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bc7 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bcb\u0b95\u0bcd\u0b95\u0bbf \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0bb4\u0bbf \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd, \u0ba8\u0bc0\u0ba3\u0bcd\u0b9f \u0b95\u0bbe\u0bb2 \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bc8 \u0b9a\u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bcd\u0b95 \u0b89\u0ba4\u0bb5\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd. \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bc0\u0bb1\u0bbf CEB \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0bae\u0bcd (CPC) \u0bae\u0bb1\u0bc1\u0b9a\u0bc0\u0bb0\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b85\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bae\u0bbe\u0ba4\u0bae\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, \u200b\u200bCEB\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8 \u0bb0\u0bc2. 477 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd, \u0bae\u0bca\u0ba4\u0bcd\u0ba4\u0baa\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0baf\u0b95\u0bcd\u0b95 \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. \u0bae\u0bc7 2022 \u0bb5\u0bb0\u0bc8 612.4 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9\u0bbe",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "CEB",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb2\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b86\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9\u0bbe \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9 \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb2\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0baa\u0bbf\u0b8f",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0bb2\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf \u0b8f\u0bb2\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0b9a\u0bbf\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd \u0b8f\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "BOO",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "CEB",
+            "label": "GPE"
+          },
+          {
+            "text": "132",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bca\u0ba9\u0bb0\u0bbe\u0b95\u0bb2\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b90\u0b9a\u0bbf\u0baa\u0bbf",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf \u0b9a\u0baa\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "CEB",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc7",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "CEB",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "CPC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bae\u0bbe\u0ba4\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "CEB",
+            "label": "ORG"
+          },
+          {
+            "text": "477 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "612.4 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0bae\u0bc7 2022",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,6337 @@
+{
+  "Malaysia": [
+    "/tmp/news_lk2/articles/9d/9d732591.json",
+    "/tmp/news_lk2/articles/9d/9d732591.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json",
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Tan Yang": [
+    "/tmp/news_lk2/articles/9d/9d732591.json"
+  ],
+  "Malaysia National Day": [
+    "/tmp/news_lk2/articles/9d/9d732591.json"
+  ],
+  "Colombo": [
+    "/tmp/news_lk2/articles/9d/9d732591.json",
+    "/tmp/news_lk2/articles/00/00ed2bb2.json",
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/7c/7c0ae2cb.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/ae/aec23d3a.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/a8/a814db38.json",
+    "/tmp/news_lk2/articles/9a/9a2043e5.json",
+    "/tmp/news_lk2/articles/b5/b58d39d3.json",
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json",
+    "/tmp/news_lk2/articles/8a/8a04851e.json",
+    "/tmp/news_lk2/articles/51/51a5ac13.json",
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json",
+    "/tmp/news_lk2/articles/b5/b500ac95.json",
+    "/tmp/news_lk2/articles/6f/6f2845b3.json",
+    "/tmp/news_lk2/articles/03/036fd6d0.json",
+    "/tmp/news_lk2/articles/65/65c7bf25.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json",
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "Sri Lanka": [
+    "/tmp/news_lk2/articles/9d/9d732591.json",
+    "/tmp/news_lk2/articles/df/df1ea245.json",
+    "/tmp/news_lk2/articles/21/21949947.json",
+    "/tmp/news_lk2/articles/21/21949947.json",
+    "/tmp/news_lk2/articles/21/21949947.json",
+    "/tmp/news_lk2/articles/98/98263d67.json",
+    "/tmp/news_lk2/articles/98/98263d67.json",
+    "/tmp/news_lk2/articles/1e/1e364f14.json",
+    "/tmp/news_lk2/articles/1e/1e364f14.json",
+    "/tmp/news_lk2/articles/50/50ea7c1a.json",
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/00/00ed2bb2.json",
+    "/tmp/news_lk2/articles/00/00ed2bb2.json",
+    "/tmp/news_lk2/articles/37/379aeeeb.json",
+    "/tmp/news_lk2/articles/37/379aeeeb.json",
+    "/tmp/news_lk2/articles/d6/d68056d3.json",
+    "/tmp/news_lk2/articles/8d/8dc08023.json",
+    "/tmp/news_lk2/articles/8d/8dc08023.json",
+    "/tmp/news_lk2/articles/49/49830bcc.json",
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/5c/5cfb577e.json",
+    "/tmp/news_lk2/articles/a8/a8887838.json",
+    "/tmp/news_lk2/articles/b6/b686d5a9.json",
+    "/tmp/news_lk2/articles/70/7058b03c.json",
+    "/tmp/news_lk2/articles/70/7058b03c.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/bb/bb38725c.json",
+    "/tmp/news_lk2/articles/bb/bb38725c.json",
+    "/tmp/news_lk2/articles/3a/3ad4a90f.json",
+    "/tmp/news_lk2/articles/3a/3ad4a90f.json",
+    "/tmp/news_lk2/articles/ae/aec23d3a.json",
+    "/tmp/news_lk2/articles/ae/aec23d3a.json",
+    "/tmp/news_lk2/articles/ae/aec23d3a.json",
+    "/tmp/news_lk2/articles/ae/aec23d3a.json",
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/4a/4aaefe33.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/14/14b396b6.json",
+    "/tmp/news_lk2/articles/14/14b396b6.json",
+    "/tmp/news_lk2/articles/14/14b396b6.json",
+    "/tmp/news_lk2/articles/a8/a814db38.json",
+    "/tmp/news_lk2/articles/a8/a814db38.json",
+    "/tmp/news_lk2/articles/80/802f1533.json",
+    "/tmp/news_lk2/articles/9a/9a2043e5.json",
+    "/tmp/news_lk2/articles/9a/9a2043e5.json",
+    "/tmp/news_lk2/articles/9a/9a2043e5.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/b5/b58d39d3.json",
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json",
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json",
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json",
+    "/tmp/news_lk2/articles/7c/7cb3f062.json",
+    "/tmp/news_lk2/articles/7c/7cb3f062.json",
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/e4/e4833ef4.json",
+    "/tmp/news_lk2/articles/8a/8a04851e.json",
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json",
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/49/492fb08d.json",
+    "/tmp/news_lk2/articles/22/229acbf3.json",
+    "/tmp/news_lk2/articles/22/229acbf3.json",
+    "/tmp/news_lk2/articles/44/44cc6611.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json",
+    "/tmp/news_lk2/articles/14/14548edc.json",
+    "/tmp/news_lk2/articles/14/14548edc.json",
+    "/tmp/news_lk2/articles/14/14548edc.json",
+    "/tmp/news_lk2/articles/2d/2d2658fe.json",
+    "/tmp/news_lk2/articles/17/176f804f.json",
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json",
+    "/tmp/news_lk2/articles/42/42c4179e.json",
+    "/tmp/news_lk2/articles/42/42c4179e.json",
+    "/tmp/news_lk2/articles/e7/e7b7230b.json",
+    "/tmp/news_lk2/articles/e7/e7b7230b.json",
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json",
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json",
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/41/41a84f9a.json",
+    "/tmp/news_lk2/articles/41/41a84f9a.json",
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json",
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/f8/f802a583.json",
+    "/tmp/news_lk2/articles/f8/f802a583.json",
+    "/tmp/news_lk2/articles/f8/f802a583.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json",
+    "/tmp/news_lk2/articles/2c/2c20c012.json",
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json",
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json",
+    "/tmp/news_lk2/articles/68/68ca723f.json",
+    "/tmp/news_lk2/articles/7e/7eb223bf.json",
+    "/tmp/news_lk2/articles/27/275f5e4c.json",
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json",
+    "/tmp/news_lk2/articles/6f/6f2845b3.json",
+    "/tmp/news_lk2/articles/2f/2ff27689.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/87/874d8261.json",
+    "/tmp/news_lk2/articles/87/874d8261.json",
+    "/tmp/news_lk2/articles/4e/4ec43f4e.json",
+    "/tmp/news_lk2/articles/44/446ce5f7.json",
+    "/tmp/news_lk2/articles/2a/2ae847b8.json",
+    "/tmp/news_lk2/articles/cd/cd2ae236.json",
+    "/tmp/news_lk2/articles/cd/cd2ae236.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/65/65c7bf25.json",
+    "/tmp/news_lk2/articles/65/65c7bf25.json",
+    "/tmp/news_lk2/articles/65/65c7bf25.json",
+    "/tmp/news_lk2/articles/92/9237b6e7.json",
+    "/tmp/news_lk2/articles/07/077b506e.json",
+    "/tmp/news_lk2/articles/95/95ca79f0.json",
+    "/tmp/news_lk2/articles/95/95ca79f0.json",
+    "/tmp/news_lk2/articles/95/95ca79f0.json",
+    "/tmp/news_lk2/articles/95/95ca79f0.json",
+    "/tmp/news_lk2/articles/43/430e620d.json",
+    "/tmp/news_lk2/articles/c5/c5ac80b6.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json",
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json",
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json",
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json",
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Upul Galappatti": [
+    "/tmp/news_lk2/articles/df/df1ea245.json"
+  ],
+  "Channa Jayasumana": [
+    "/tmp/news_lk2/articles/df/df1ea245.json"
+  ],
+  "Dilan Perera": [
+    "/tmp/news_lk2/articles/df/df1ea245.json"
+  ],
+  "Udayana Kirindigoda": [
+    "/tmp/news_lk2/articles/df/df1ea245.json"
+  ],
+  "Thilak Rajapaksa": [
+    "/tmp/news_lk2/articles/df/df1ea245.json"
+  ],
+  "Tsunami": [
+    "/tmp/news_lk2/articles/df/df1ea245.json"
+  ],
+  "Lalith Ellawala": [
+    "/tmp/news_lk2/articles/df/df1ea245.json"
+  ],
+  "Gunapala Rathnasekara": [
+    "/tmp/news_lk2/articles/df/df1ea245.json"
+  ],
+  "Podujana Peramuna": [
+    "/tmp/news_lk2/articles/df/df1ea245.json",
+    "/tmp/news_lk2/articles/21/21949947.json",
+    "/tmp/news_lk2/articles/49/49830bcc.json",
+    "/tmp/news_lk2/articles/e4/e4833ef4.json",
+    "/tmp/news_lk2/articles/49/492fb08d.json",
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Peiris": [
+    "/tmp/news_lk2/articles/df/df1ea245.json",
+    "/tmp/news_lk2/articles/21/21949947.json"
+  ],
+  "GL Peiris": [
+    "/tmp/news_lk2/articles/df/df1ea245.json",
+    "/tmp/news_lk2/articles/21/21949947.json",
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/74/7435cf7c.json"
+  ],
+  "Dullas Alahapperuma": [
+    "/tmp/news_lk2/articles/df/df1ea245.json",
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Parliamentary Elections": [
+    "/tmp/news_lk2/articles/df/df1ea245.json"
+  ],
+  "Wasantha Yapa": [
+    "/tmp/news_lk2/articles/df/df1ea245.json"
+  ],
+  "Opposition": [
+    "/tmp/news_lk2/articles/df/df1ea245.json",
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/22/229acbf3.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Nalaka Godahewa": [
+    "/tmp/news_lk2/articles/df/df1ea245.json"
+  ],
+  "KPS Kumarasiri": [
+    "/tmp/news_lk2/articles/df/df1ea245.json"
+  ],
+  "Parliament": [
+    "/tmp/news_lk2/articles/df/df1ea245.json",
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/e4/e4833ef4.json",
+    "/tmp/news_lk2/articles/49/492fb08d.json",
+    "/tmp/news_lk2/articles/22/229acbf3.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json",
+    "/tmp/news_lk2/articles/70/701ba81d.json",
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/92/9237b6e7.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Charitha Herath": [
+    "/tmp/news_lk2/articles/df/df1ea245.json",
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Govt": [
+    "/tmp/news_lk2/articles/21/21949947.json",
+    "/tmp/news_lk2/articles/a8/a814db38.json",
+    "/tmp/news_lk2/articles/e4/e4833ef4.json",
+    "/tmp/news_lk2/articles/49/492fb08d.json"
+  ],
+  "HS": [
+    "/tmp/news_lk2/articles/21/21949947.json",
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/14/14b396b6.json"
+  ],
+  "GL": [
+    "/tmp/news_lk2/articles/21/21949947.json"
+  ],
+  "Import and Export Control Act": [
+    "/tmp/news_lk2/articles/21/21949947.json",
+    "/tmp/news_lk2/articles/bb/bb38725c.json"
+  ],
+  "Invoice of Golden Garden": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Golden Garden": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Evergreen Group": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Nuwara Eliya Estate of": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Asia Siyaka Commodities PLC": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Udeni Wanigatunge": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Jafferjee Brothers": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Kelani Valley Plantations PLC": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Indika Nallaperuma": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Lasantha Alwis": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "PA Saman Buddika": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Siyaka": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Senal de Silva": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Western High Grown Category an": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Colombo Tea Auction": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Invoice of Inverness Pekoe": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Inter Tea Ltd": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Aruna de Silva": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Evergreen Tea Factory": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Talgaswela": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "WP Susantha": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Group": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Galle": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json",
+    "/tmp/news_lk2/articles/67/67d963fb.json",
+    "/tmp/news_lk2/articles/7c/7c0ae2cb.json",
+    "/tmp/news_lk2/articles/17/176f804f.json"
+  ],
+  "Hayleys Group of Companies": [
+    "/tmp/news_lk2/articles/81/8181fb4a.json"
+  ],
+  "Ellen MacArthur Foundation": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "Noyon\u2019s \u2018Planetones\u2019": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "United Nations Environment Programme": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "Ashiq Lafir": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "European": [
+    "/tmp/news_lk2/articles/98/98263d67.json",
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json",
+    "/tmp/news_lk2/articles/7c/7cb3f062.json",
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json",
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "Sinharaja Forest": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "Planetones": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "Zero Discharge of Hazardous Chemicals": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "Noyon Lanka Ltd": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "Noyon Lanka": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "UNP": [
+    "/tmp/news_lk2/articles/98/98263d67.json",
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/a8/a814db38.json",
+    "/tmp/news_lk2/articles/f8/f802a583.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/2a/2ae847b8.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "PET": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "Galle Wildlife Conservation Society": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "Control Union": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "Noyon": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "IP": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "Control Union Certification": [
+    "/tmp/news_lk2/articles/98/98263d67.json"
+  ],
+  "MAS Holdings": [
+    "/tmp/news_lk2/articles/98/98263d67.json",
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json",
+    "/tmp/news_lk2/articles/66/668a5481.json",
+    "/tmp/news_lk2/articles/2a/2ae847b8.json",
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Bandula Wijesiriwardena": [
+    "/tmp/news_lk2/articles/1e/1e364f14.json"
+  ],
+  "Jyothi": [
+    "/tmp/news_lk2/articles/1e/1e364f14.json"
+  ],
+  "Lanka Hospitals Corporation PLC": [
+    "/tmp/news_lk2/articles/1e/1e364f14.json"
+  ],
+  "Joint Commission International": [
+    "/tmp/news_lk2/articles/1e/1e364f14.json"
+  ],
+  "Hospitals Corp": [
+    "/tmp/news_lk2/articles/1e/1e364f14.json"
+  ],
+  "LHC Group": [
+    "/tmp/news_lk2/articles/1e/1e364f14.json"
+  ],
+  "Lanka Hospitals Diagnostics Ltd": [
+    "/tmp/news_lk2/articles/1e/1e364f14.json"
+  ],
+  "Lanka Hospitals": [
+    "/tmp/news_lk2/articles/1e/1e364f14.json"
+  ],
+  "College of American Pathologists": [
+    "/tmp/news_lk2/articles/1e/1e364f14.json"
+  ],
+  "Brands Finance": [
+    "/tmp/news_lk2/articles/1e/1e364f14.json"
+  ],
+  "CAP": [
+    "/tmp/news_lk2/articles/1e/1e364f14.json"
+  ],
+  "Medical Tourism Certification from Medical Travel Quality Alliance": [
+    "/tmp/news_lk2/articles/1e/1e364f14.json"
+  ],
+  "Hospitals Group": [
+    "/tmp/news_lk2/articles/1e/1e364f14.json"
+  ],
+  "Ministry of Labour and Foreign Employment": [
+    "/tmp/news_lk2/articles/50/50ea7c1a.json"
+  ],
+  "Minister of Labour & Foreign Employment Manusha Nanayakkara": [
+    "/tmp/news_lk2/articles/50/50ea7c1a.json"
+  ],
+  "Kalutara": [
+    "/tmp/news_lk2/articles/67/67d963fb.json",
+    "/tmp/news_lk2/articles/f1/f1a1bd20.json",
+    "/tmp/news_lk2/articles/7c/7c0ae2cb.json"
+  ],
+  "Deraniyagala": [
+    "/tmp/news_lk2/articles/67/67d963fb.json"
+  ],
+  "Kalutara, Kandy": [
+    "/tmp/news_lk2/articles/67/67d963fb.json"
+  ],
+  "Yatiyantota": [
+    "/tmp/news_lk2/articles/67/67d963fb.json"
+  ],
+  "National Building Research Organization": [
+    "/tmp/news_lk2/articles/67/67d963fb.json",
+    "/tmp/news_lk2/articles/f1/f1a1bd20.json"
+  ],
+  "Ratnapura": [
+    "/tmp/news_lk2/articles/67/67d963fb.json",
+    "/tmp/news_lk2/articles/f1/f1a1bd20.json",
+    "/tmp/news_lk2/articles/7c/7c0ae2cb.json",
+    "/tmp/news_lk2/articles/b6/b686d5a9.json",
+    "/tmp/news_lk2/articles/d5/d56ecc14.json"
+  ],
+  "Kegalle": [
+    "/tmp/news_lk2/articles/67/67d963fb.json",
+    "/tmp/news_lk2/articles/03/0307cf2a.json"
+  ],
+  "Bulathkohupitiya": [
+    "/tmp/news_lk2/articles/67/67d963fb.json"
+  ],
+  "Ruwanwella": [
+    "/tmp/news_lk2/articles/67/67d963fb.json"
+  ],
+  "Matale": [
+    "/tmp/news_lk2/articles/67/67d963fb.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Dehiowita": [
+    "/tmp/news_lk2/articles/67/67d963fb.json"
+  ],
+  "Wickremesinghe Budget\u2019s": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Minister of External Trade": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "JVP-JJB": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Deep State": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Antonio Gramsci": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Ranil-Rajapaksa": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Army": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Federation of Information Technology Industry Sri Lanka": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "United Front": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Greece": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Chairperson": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Apartheid": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Leftists": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Newton Gunasinghe": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Defence": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/97/97d5dffa.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "SJB": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/70/701ba81d.json",
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json",
+    "/tmp/news_lk2/articles/03/036fd6d0.json"
+  ],
+  "United National Business Alliance": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Nicos Poulantzas": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Cooperative Society": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Sajith Premadasa": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/a8/a8887838.json",
+    "/tmp/news_lk2/articles/49/492fb08d.json",
+    "/tmp/news_lk2/articles/51/51a5ac13.json",
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json"
+  ],
+  "IUSF": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/30/30fade74.json",
+    "/tmp/news_lk2/articles/05/05351b6f.json",
+    "/tmp/news_lk2/articles/e5/e587af79.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/6f/6f2845b3.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Legitimacy": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "FSP": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Budget": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "State": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/97/97d5dffa.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/a8/a814db38.json",
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/41/41a84f9a.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/ba/ba6116ed.json",
+    "/tmp/news_lk2/articles/03/036fd6d0.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json",
+    "/tmp/news_lk2/articles/a6/a628ed6c.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Ranil": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/f8/f802a583.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "SLFP": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/e4/e4833ef4.json"
+  ],
+  "Rajapaksa": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/30/30fade74.json",
+    "/tmp/news_lk2/articles/9a/9a2043e5.json",
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/f8/f802a583.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/ba/ba6116ed.json",
+    "/tmp/news_lk2/articles/c5/c5ac80b6.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "FITIS": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Gotabaya Rajapaksa": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/ae/aec23d3a.json",
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/9a/9a2043e5.json",
+    "/tmp/news_lk2/articles/49/492fb08d.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/c5/c5ac80b6.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "ICT": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "Social Contract": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "PTA": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/74/7435cf7c.json",
+    "/tmp/news_lk2/articles/a8/a8887838.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/f8/f802a583.json",
+    "/tmp/news_lk2/articles/b5/b500ac95.json",
+    "/tmp/news_lk2/articles/6f/6f2845b3.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/ba/ba6116ed.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json",
+    "/tmp/news_lk2/articles/a6/a628ed6c.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Independence": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Rajapaksa Clan": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Marx": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "Kotelawela Defence University": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Ranil Wickremesinghe": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/70/7058b03c.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/51/51a5ac13.json",
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json",
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/b5/b500ac95.json",
+    "/tmp/news_lk2/articles/7e/7eb223bf.json",
+    "/tmp/news_lk2/articles/8b/8bb198de.json",
+    "/tmp/news_lk2/articles/27/275f5e4c.json",
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/87/874d8261.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/82/82c7ff4a.json",
+    "/tmp/news_lk2/articles/03/036fd6d0.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Tania Abeysundara, Chairperson of the": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "UNP Government": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Lebanon": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Constitution": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "a Constituent Assembly": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Marxist": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Chairperson Tanya Abeysundara": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Chile": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "South Asian": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/70/7058b03c.json",
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/17/176f804f.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json",
+    "/tmp/news_lk2/articles/95/95ca79f0.json"
+  ],
+  "Trade Union": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Aragalaya": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/37/379aeeeb.json",
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/f8/f802a583.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/ba/ba6116ed.json",
+    "/tmp/news_lk2/articles/03/036fd6d0.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json",
+    "/tmp/news_lk2/articles/a6/a628ed6c.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "20th Amendment": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Prevention of Terrorism Act": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/74/7435cf7c.json",
+    "/tmp/news_lk2/articles/a8/a8887838.json",
+    "/tmp/news_lk2/articles/e5/e587af79.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/f8/f802a583.json",
+    "/tmp/news_lk2/articles/b5/b500ac95.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/ba/ba6116ed.json",
+    "/tmp/news_lk2/articles/03/036fd6d0.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Third Civil War": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json"
+  ],
+  "Executive": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Wickremesinghe": [
+    "/tmp/news_lk2/articles/ae/aecb089e.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/51/51a5ac13.json",
+    "/tmp/news_lk2/articles/7e/7eb223bf.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/82/82c7ff4a.json",
+    "/tmp/news_lk2/articles/03/036fd6d0.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "a Child Care Center": [
+    "/tmp/news_lk2/articles/53/5386f8e6.json"
+  ],
+  "Cyber Crime": [
+    "/tmp/news_lk2/articles/53/5386f8e6.json",
+    "/tmp/news_lk2/articles/00/00ed2bb2.json",
+    "/tmp/news_lk2/articles/d6/d68056d3.json",
+    "/tmp/news_lk2/articles/8d/8dc08023.json",
+    "/tmp/news_lk2/articles/49/49830bcc.json",
+    "/tmp/news_lk2/articles/4e/4e5f6ef6.json",
+    "/tmp/news_lk2/articles/f1/f1a1bd20.json",
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/b0/b0156f0c.json",
+    "/tmp/news_lk2/articles/74/7435cf7c.json",
+    "/tmp/news_lk2/articles/30/30fade74.json",
+    "/tmp/news_lk2/articles/05/05351b6f.json",
+    "/tmp/news_lk2/articles/7c/7c0ae2cb.json",
+    "/tmp/news_lk2/articles/5c/5cfb577e.json",
+    "/tmp/news_lk2/articles/a8/a8887838.json",
+    "/tmp/news_lk2/articles/f5/f54a1580.json",
+    "/tmp/news_lk2/articles/b6/b686d5a9.json",
+    "/tmp/news_lk2/articles/70/7058b03c.json",
+    "/tmp/news_lk2/articles/d5/d56ecc14.json",
+    "/tmp/news_lk2/articles/97/97d5dffa.json",
+    "/tmp/news_lk2/articles/09/09815420.json",
+    "/tmp/news_lk2/articles/3c/3c3490cd.json",
+    "/tmp/news_lk2/articles/9b/9ba65407.json",
+    "/tmp/news_lk2/articles/2e/2e7a5bd0.json",
+    "/tmp/news_lk2/articles/03/0307cf2a.json"
+  ],
+  "Diyathalawa": [
+    "/tmp/news_lk2/articles/53/5386f8e6.json"
+  ],
+  "Ambewala": [
+    "/tmp/news_lk2/articles/53/5386f8e6.json"
+  ],
+  "Bandarawela": [
+    "/tmp/news_lk2/articles/53/5386f8e6.json"
+  ],
+  "Nihal Ranasinghe": [
+    "/tmp/news_lk2/articles/00/00ed2bb2.json"
+  ],
+  "Education Ministry": [
+    "/tmp/news_lk2/articles/00/00ed2bb2.json"
+  ],
+  "Painting Tools & Supplies": [
+    "/tmp/news_lk2/articles/00/00ed2bb2.json"
+  ],
+  "Jaffna District": [
+    "/tmp/news_lk2/articles/00/00ed2bb2.json"
+  ],
+  "World Childrens Day": [
+    "/tmp/news_lk2/articles/00/00ed2bb2.json"
+  ],
+  "Sirasa TV": [
+    "/tmp/news_lk2/articles/00/00ed2bb2.json"
+  ],
+  "Capital Maharaja Group": [
+    "/tmp/news_lk2/articles/00/00ed2bb2.json"
+  ],
+  "Independence Sqaure in Colombo": [
+    "/tmp/news_lk2/articles/00/00ed2bb2.json"
+  ],
+  "Cock Robin": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "Whig Party": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "England": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "a Chef": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "Sri Lankan Elections": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "Oktoberfest": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "Hegel\u2019s Philosophy of Law": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "Kingdom": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json",
+    "/tmp/news_lk2/articles/70/7058b03c.json"
+  ],
+  "Robert Peel": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "Ramsay MacDonald": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "Asia": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json",
+    "/tmp/news_lk2/articles/5c/5cfb577e.json",
+    "/tmp/news_lk2/articles/3a/3ad4a90f.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/7c/7cb3f062.json",
+    "/tmp/news_lk2/articles/95/95ca79f0.json",
+    "/tmp/news_lk2/articles/95/95ca79f0.json"
+  ],
+  "Plato": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "Treasury": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json",
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "Galle Face Green": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "Robert Walpole": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json",
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "Abraham Lincoln": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "Tory Party": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "Critique": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "United Kingdom": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "Conservative Party": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Germany": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json",
+    "/tmp/news_lk2/articles/37/379aeeeb.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json",
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Walpole": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "This \u2018Aragalaya\u2019": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "JR Jayewardene": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/49/492fb08d.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Labour Party": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "Karl Marx": [
+    "/tmp/news_lk2/articles/37/379aeeeb.json"
+  ],
+  "W P Jayanettisiri": [
+    "/tmp/news_lk2/articles/d6/d68056d3.json"
+  ],
+  "Computer Crime Investigation Division": [
+    "/tmp/news_lk2/articles/d6/d68056d3.json"
+  ],
+  "ASP": [
+    "/tmp/news_lk2/articles/d6/d68056d3.json"
+  ],
+  "Matara": [
+    "/tmp/news_lk2/articles/d6/d68056d3.json"
+  ],
+  "Central Bank": [
+    "/tmp/news_lk2/articles/d6/d68056d3.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/9a/9a2043e5.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/41/41a84f9a.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Fort": [
+    "/tmp/news_lk2/articles/d6/d68056d3.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Social Media Platforms": [
+    "/tmp/news_lk2/articles/d6/d68056d3.json"
+  ],
+  "Computer Crime Investigation Division \u2013 Sri Lanka Police": [
+    "/tmp/news_lk2/articles/d6/d68056d3.json",
+    "/tmp/news_lk2/articles/d6/d68056d3.json"
+  ],
+  "Kandy": [
+    "/tmp/news_lk2/articles/d6/d68056d3.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Criminal Investigations Department": [
+    "/tmp/news_lk2/articles/d6/d68056d3.json",
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/b5/b500ac95.json",
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json",
+    "/tmp/news_lk2/articles/ba/ba6116ed.json"
+  ],
+  "Sri Lanka Police": [
+    "/tmp/news_lk2/articles/d6/d68056d3.json",
+    "/tmp/news_lk2/articles/4e/4e5f6ef6.json",
+    "/tmp/news_lk2/articles/b0/b0156f0c.json",
+    "/tmp/news_lk2/articles/97/97d5dffa.json",
+    "/tmp/news_lk2/articles/9b/9ba65407.json",
+    "/tmp/news_lk2/articles/03/0307cf2a.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/b5/b500ac95.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Crypto-Crime": [
+    "/tmp/news_lk2/articles/d6/d68056d3.json"
+  ],
+  "Ampara": [
+    "/tmp/news_lk2/articles/d6/d68056d3.json"
+  ],
+  "Palitha Kohona": [
+    "/tmp/news_lk2/articles/8d/8dc08023.json"
+  ],
+  "Kohona": [
+    "/tmp/news_lk2/articles/8d/8dc08023.json"
+  ],
+  "Global Times": [
+    "/tmp/news_lk2/articles/8d/8dc08023.json"
+  ],
+  "CPC": [
+    "/tmp/news_lk2/articles/8d/8dc08023.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Communist Party of China": [
+    "/tmp/news_lk2/articles/8d/8dc08023.json"
+  ],
+  "China": [
+    "/tmp/news_lk2/articles/8d/8dc08023.json",
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/22/229acbf3.json",
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json",
+    "/tmp/news_lk2/articles/65/65c7bf25.json"
+  ],
+  "Ambalangoda": [
+    "/tmp/news_lk2/articles/65/65f8909d.json"
+  ],
+  "Balapitiya Hospital": [
+    "/tmp/news_lk2/articles/65/65f8909d.json",
+    "/tmp/news_lk2/articles/4e/4e5f6ef6.json"
+  ],
+  "Mahinda Rajapaksa": [
+    "/tmp/news_lk2/articles/49/49830bcc.json",
+    "/tmp/news_lk2/articles/ae/aec23d3a.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/49/492fb08d.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/c5/c5ac80b6.json"
+  ],
+  "a T-56 Assault Rifle": [
+    "/tmp/news_lk2/articles/4e/4e5f6ef6.json"
+  ],
+  "Balapitiya": [
+    "/tmp/news_lk2/articles/4e/4e5f6ef6.json"
+  ],
+  "Wathugedara": [
+    "/tmp/news_lk2/articles/4e/4e5f6ef6.json"
+  ],
+  "Elapatha": [
+    "/tmp/news_lk2/articles/f1/f1a1bd20.json",
+    "/tmp/news_lk2/articles/b6/b686d5a9.json",
+    "/tmp/news_lk2/articles/d5/d56ecc14.json"
+  ],
+  "Ratnapura District": [
+    "/tmp/news_lk2/articles/f1/f1a1bd20.json"
+  ],
+  "Kuruwita": [
+    "/tmp/news_lk2/articles/f1/f1a1bd20.json",
+    "/tmp/news_lk2/articles/d5/d56ecc14.json"
+  ],
+  "Trincomalee": [
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/2c/2c20c012.json"
+  ],
+  "New Delhi": [
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/65/65c7bf25.json"
+  ],
+  "Milinda Moragoda": [
+    "/tmp/news_lk2/articles/d6/d6646514.json"
+  ],
+  "Gujarat": [
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Hambantota": [
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/3a/3ad4a90f.json"
+  ],
+  "Kolkata": [
+    "/tmp/news_lk2/articles/d6/d6646514.json"
+  ],
+  "Vivian Balakrishnan": [
+    "/tmp/news_lk2/articles/d6/d6646514.json"
+  ],
+  "Sinhala": [
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "India": [
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/3a/3ad4a90f.json",
+    "/tmp/news_lk2/articles/4a/4aaefe33.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/44/44cc6611.json",
+    "/tmp/news_lk2/articles/44/44cc6611.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/4e/4ec43f4e.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/65/65c7bf25.json",
+    "/tmp/news_lk2/articles/65/65c7bf25.json",
+    "/tmp/news_lk2/articles/07/077b506e.json"
+  ],
+  "Yuan Wang 5": [
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json",
+    "/tmp/news_lk2/articles/65/65c7bf25.json"
+  ],
+  "Singapore": [
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/41/41a84f9a.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Chinese": [
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/65/65c7bf25.json"
+  ],
+  "Buddhist": [
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "Odisha": [
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "International Monetary Fund": [
+    "/tmp/news_lk2/articles/d6/d6646514.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/22/229acbf3.json",
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Moragoda": [
+    "/tmp/news_lk2/articles/d6/d6646514.json"
+  ],
+  "Motorcycle": [
+    "/tmp/news_lk2/articles/b0/b0156f0c.json",
+    "/tmp/news_lk2/articles/9b/9ba65407.json"
+  ],
+  "Katana": [
+    "/tmp/news_lk2/articles/b0/b0156f0c.json"
+  ],
+  "Police": [
+    "/tmp/news_lk2/articles/b0/b0156f0c.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Negombo Court": [
+    "/tmp/news_lk2/articles/b0/b0156f0c.json",
+    "/tmp/news_lk2/articles/9b/9ba65407.json"
+  ],
+  "'Pas Podda'": [
+    "/tmp/news_lk2/articles/b0/b0156f0c.json"
+  ],
+  "Gampaha Court": [
+    "/tmp/news_lk2/articles/b0/b0156f0c.json"
+  ],
+  "Suresh Pushpakumara": [
+    "/tmp/news_lk2/articles/b0/b0156f0c.json"
+  ],
+  "Negombo Shooting": [
+    "/tmp/news_lk2/articles/b0/b0156f0c.json"
+  ],
+  "Saliya Peiris": [
+    "/tmp/news_lk2/articles/74/7435cf7c.json"
+  ],
+  "Open University of Sri Lanka": [
+    "/tmp/news_lk2/articles/74/7435cf7c.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "BASL": [
+    "/tmp/news_lk2/articles/74/7435cf7c.json"
+  ],
+  "Courts": [
+    "/tmp/news_lk2/articles/74/7435cf7c.json",
+    "/tmp/news_lk2/articles/bf/bf59c47d.json"
+  ],
+  "Bar Association of Sri Lanka": [
+    "/tmp/news_lk2/articles/74/7435cf7c.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Piyasoma Thero": [
+    "/tmp/news_lk2/articles/30/30fade74.json",
+    "/tmp/news_lk2/articles/30/30fade74.json"
+  ],
+  "Human Rights Commission of Sri Lanka": [
+    "/tmp/news_lk2/articles/30/30fade74.json",
+    "/tmp/news_lk2/articles/97/97d5dffa.json",
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "Maradana": [
+    "/tmp/news_lk2/articles/30/30fade74.json",
+    "/tmp/news_lk2/articles/05/05351b6f.json",
+    "/tmp/news_lk2/articles/e5/e587af79.json"
+  ],
+  "Inter-University Student Union": [
+    "/tmp/news_lk2/articles/30/30fade74.json"
+  ],
+  "Inter-University Students Federation": [
+    "/tmp/news_lk2/articles/05/05351b6f.json",
+    "/tmp/news_lk2/articles/05/05351b6f.json",
+    "/tmp/news_lk2/articles/e5/e587af79.json",
+    "/tmp/news_lk2/articles/e5/e587af79.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/b5/b500ac95.json",
+    "/tmp/news_lk2/articles/6f/6f2845b3.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Maligakanda Magistrate Court": [
+    "/tmp/news_lk2/articles/05/05351b6f.json"
+  ],
+  "Sri Lanka Navy": [
+    "/tmp/news_lk2/articles/7c/7c0ae2cb.json"
+  ],
+  "Southern Naval Command": [
+    "/tmp/news_lk2/articles/7c/7c0ae2cb.json"
+  ],
+  "Navy": [
+    "/tmp/news_lk2/articles/7c/7c0ae2cb.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Western Naval Command": [
+    "/tmp/news_lk2/articles/7c/7c0ae2cb.json"
+  ],
+  "Tangalle": [
+    "/tmp/news_lk2/articles/7c/7c0ae2cb.json",
+    "/tmp/news_lk2/articles/b5/b500ac95.json",
+    "/tmp/news_lk2/articles/6f/6f2845b3.json",
+    "/tmp/news_lk2/articles/ba/ba6116ed.json"
+  ],
+  "Nishantha Ulugetenne": [
+    "/tmp/news_lk2/articles/7c/7c0ae2cb.json"
+  ],
+  "Pacific": [
+    "/tmp/news_lk2/articles/5c/5cfb577e.json",
+    "/tmp/news_lk2/articles/95/95ca79f0.json"
+  ],
+  "MANILA": [
+    "/tmp/news_lk2/articles/5c/5cfb577e.json"
+  ],
+  "Japan Fund for Prosperous and Resilient Asia": [
+    "/tmp/news_lk2/articles/5c/5cfb577e.json"
+  ],
+  "ADB": [
+    "/tmp/news_lk2/articles/5c/5cfb577e.json",
+    "/tmp/news_lk2/articles/95/95ca79f0.json"
+  ],
+  "Asian Development Bank": [
+    "/tmp/news_lk2/articles/5c/5cfb577e.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "South Asia Asako Maruyama": [
+    "/tmp/news_lk2/articles/5c/5cfb577e.json"
+  ],
+  "Samurdhi": [
+    "/tmp/news_lk2/articles/5c/5cfb577e.json"
+  ],
+  "PHILIPPINES": [
+    "/tmp/news_lk2/articles/5c/5cfb577e.json"
+  ],
+  "Sri Lankan Parliament": [
+    "/tmp/news_lk2/articles/a8/a8887838.json",
+    "/tmp/news_lk2/articles/92/9237b6e7.json"
+  ],
+  "Dinesh Gunawardena": [
+    "/tmp/news_lk2/articles/a8/a8887838.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/68/68ca723f.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "State-Sponsored": [
+    "/tmp/news_lk2/articles/a8/a8887838.json"
+  ],
+  "Geneva Human Rights Council": [
+    "/tmp/news_lk2/articles/a8/a8887838.json"
+  ],
+  "All-Party Government": [
+    "/tmp/news_lk2/articles/a8/a8887838.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Mt Lavinia": [
+    "/tmp/news_lk2/articles/f5/f54a1580.json"
+  ],
+  "Kolonnawa U C": [
+    "/tmp/news_lk2/articles/f5/f54a1580.json"
+  ],
+  "Rathmalana": [
+    "/tmp/news_lk2/articles/f5/f54a1580.json"
+  ],
+  "National Water Supply and Drainage Board": [
+    "/tmp/news_lk2/articles/f5/f54a1580.json"
+  ],
+  "Water Cut": [
+    "/tmp/news_lk2/articles/f5/f54a1580.json"
+  ],
+  "Katubedda": [
+    "/tmp/news_lk2/articles/f5/f54a1580.json"
+  ],
+  "Kotikawatta Mulleriyawa P S": [
+    "/tmp/news_lk2/articles/f5/f54a1580.json"
+  ],
+  "Boralasgamuwa": [
+    "/tmp/news_lk2/articles/f5/f54a1580.json"
+  ],
+  "Kotte": [
+    "/tmp/news_lk2/articles/f5/f54a1580.json"
+  ],
+  "Maharagama": [
+    "/tmp/news_lk2/articles/f5/f54a1580.json"
+  ],
+  "Dehiwela": [
+    "/tmp/news_lk2/articles/f5/f54a1580.json"
+  ],
+  "Kaduwela": [
+    "/tmp/news_lk2/articles/f5/f54a1580.json"
+  ],
+  "Bulathsinhala": [
+    "/tmp/news_lk2/articles/b6/b686d5a9.json"
+  ],
+  "Landslide": [
+    "/tmp/news_lk2/articles/b6/b686d5a9.json"
+  ],
+  "Department": [
+    "/tmp/news_lk2/articles/b6/b686d5a9.json",
+    "/tmp/news_lk2/articles/09/09815420.json"
+  ],
+  "Baddegama and Yakkalamulla Divisional Secretariats of Galle": [
+    "/tmp/news_lk2/articles/b6/b686d5a9.json"
+  ],
+  "Southern, Sabaragamuwa, Central": [
+    "/tmp/news_lk2/articles/b6/b686d5a9.json",
+    "/tmp/news_lk2/articles/d5/d56ecc14.json"
+  ],
+  "Disaster Management Center": [
+    "/tmp/news_lk2/articles/b6/b686d5a9.json"
+  ],
+  "Uva": [
+    "/tmp/news_lk2/articles/b6/b686d5a9.json",
+    "/tmp/news_lk2/articles/d5/d56ecc14.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Kuruwita Divisional Secretariats of Ratnapura": [
+    "/tmp/news_lk2/articles/b6/b686d5a9.json"
+  ],
+  "Western": [
+    "/tmp/news_lk2/articles/b6/b686d5a9.json",
+    "/tmp/news_lk2/articles/d5/d56ecc14.json"
+  ],
+  "Saudi": [
+    "/tmp/news_lk2/articles/70/7058b03c.json"
+  ],
+  "Naseer Ahamed": [
+    "/tmp/news_lk2/articles/70/7058b03c.json"
+  ],
+  "Riyadh": [
+    "/tmp/news_lk2/articles/70/7058b03c.json"
+  ],
+  "Middle Eastern": [
+    "/tmp/news_lk2/articles/70/7058b03c.json",
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/7c/7cb3f062.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Mohammed bin Salman": [
+    "/tmp/news_lk2/articles/70/7058b03c.json"
+  ],
+  "Sultan Al-Marshad": [
+    "/tmp/news_lk2/articles/70/7058b03c.json"
+  ],
+  "Saudi Arabia": [
+    "/tmp/news_lk2/articles/70/7058b03c.json"
+  ],
+  "Saudi Fund for Development": [
+    "/tmp/news_lk2/articles/70/7058b03c.json"
+  ],
+  "2030 Vision of": [
+    "/tmp/news_lk2/articles/70/7058b03c.json"
+  ],
+  "Waleed Al-Khuraiji": [
+    "/tmp/news_lk2/articles/70/7058b03c.json"
+  ],
+  "Arab News": [
+    "/tmp/news_lk2/articles/70/7058b03c.json"
+  ],
+  "Saudi\u2019s 2030 Vision": [
+    "/tmp/news_lk2/articles/70/7058b03c.json"
+  ],
+  "Ayagama": [
+    "/tmp/news_lk2/articles/d5/d56ecc14.json"
+  ],
+  "Department of Meteorology": [
+    "/tmp/news_lk2/articles/d5/d56ecc14.json"
+  ],
+  "Palamadulla": [
+    "/tmp/news_lk2/articles/d5/d56ecc14.json"
+  ],
+  "Nivithigala": [
+    "/tmp/news_lk2/articles/d5/d56ecc14.json"
+  ],
+  "Irrigation Department": [
+    "/tmp/news_lk2/articles/d5/d56ecc14.json"
+  ],
+  "HRCSL": [
+    "/tmp/news_lk2/articles/97/97d5dffa.json"
+  ],
+  "Temple Trees": [
+    "/tmp/news_lk2/articles/97/97d5dffa.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Galle Face": [
+    "/tmp/news_lk2/articles/97/97d5dffa.json",
+    "/tmp/news_lk2/articles/17/176f804f.json",
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json",
+    "/tmp/news_lk2/articles/6f/6f2845b3.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/bf/bf59c47d.json",
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "State Intelligence Unit": [
+    "/tmp/news_lk2/articles/97/97d5dffa.json"
+  ],
+  "Law Enforcement": [
+    "/tmp/news_lk2/articles/97/97d5dffa.json"
+  ],
+  "IGP": [
+    "/tmp/news_lk2/articles/97/97d5dffa.json"
+  ],
+  "non-State": [
+    "/tmp/news_lk2/articles/97/97d5dffa.json"
+  ],
+  "Food Group": [
+    "/tmp/news_lk2/articles/09/09815420.json"
+  ],
+  "Year on Year": [
+    "/tmp/news_lk2/articles/09/09815420.json"
+  ],
+  "Non Food Group": [
+    "/tmp/news_lk2/articles/09/09815420.json"
+  ],
+  "Department of Census and Statistics": [
+    "/tmp/news_lk2/articles/09/09815420.json"
+  ],
+  "Non-Food": [
+    "/tmp/news_lk2/articles/09/09815420.json"
+  ],
+  "Air Marshal": [
+    "/tmp/news_lk2/articles/3c/3c3490cd.json"
+  ],
+  "Regimental Special Forces": [
+    "/tmp/news_lk2/articles/3c/3c3490cd.json"
+  ],
+  "Sri Lanka Air Force": [
+    "/tmp/news_lk2/articles/3c/3c3490cd.json"
+  ],
+  "Air Force": [
+    "/tmp/news_lk2/articles/3c/3c3490cd.json"
+  ],
+  "Search and Rescue": [
+    "/tmp/news_lk2/articles/3c/3c3490cd.json"
+  ],
+  "Negombo Hospital": [
+    "/tmp/news_lk2/articles/9b/9ba65407.json"
+  ],
+  "Negombo Court Complex": [
+    "/tmp/news_lk2/articles/9b/9ba65407.json"
+  ],
+  "Harak Katara": [
+    "/tmp/news_lk2/articles/2e/2e7a5bd0.json"
+  ],
+  "Chinthaka Wickramaratne": [
+    "/tmp/news_lk2/articles/2e/2e7a5bd0.json"
+  ],
+  "Gold Biscuits": [
+    "/tmp/news_lk2/articles/2e/2e7a5bd0.json"
+  ],
+  "Carat Gold": [
+    "/tmp/news_lk2/articles/2e/2e7a5bd0.json"
+  ],
+  "STF": [
+    "/tmp/news_lk2/articles/2e/2e7a5bd0.json"
+  ],
+  "Bandaranaike International Airport": [
+    "/tmp/news_lk2/articles/2e/2e7a5bd0.json"
+  ],
+  "Harak Kata\u2019s": [
+    "/tmp/news_lk2/articles/2e/2e7a5bd0.json"
+  ],
+  "Batti": [
+    "/tmp/news_lk2/articles/2e/2e7a5bd0.json"
+  ],
+  "Police Special Task Force": [
+    "/tmp/news_lk2/articles/2e/2e7a5bd0.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Rs": [
+    "/tmp/news_lk2/articles/2e/2e7a5bd0.json",
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json",
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "Rohitha Abeygunawardena": [
+    "/tmp/news_lk2/articles/03/0307cf2a.json"
+  ],
+  "Vidura Wickramanayake": [
+    "/tmp/news_lk2/articles/03/0307cf2a.json"
+  ],
+  "Mahawa": [
+    "/tmp/news_lk2/articles/03/0307cf2a.json"
+  ],
+  "Elahera Pradeshiya Sabha": [
+    "/tmp/news_lk2/articles/03/0307cf2a.json"
+  ],
+  "Fernando": [
+    "/tmp/news_lk2/articles/03/0307cf2a.json",
+    "/tmp/news_lk2/articles/70/701ba81d.json",
+    "/tmp/news_lk2/articles/8b/8bb198de.json",
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "Tharaka Balasuriya": [
+    "/tmp/news_lk2/articles/03/0307cf2a.json"
+  ],
+  "Kahatagasdigiliya": [
+    "/tmp/news_lk2/articles/03/0307cf2a.json"
+  ],
+  "Johnston Fernando": [
+    "/tmp/news_lk2/articles/03/0307cf2a.json"
+  ],
+  "Parliamentarians": [
+    "/tmp/news_lk2/articles/03/0307cf2a.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Tamil": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Sri Lanka Freedom Party": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/e4/e4833ef4.json"
+  ],
+  "Ponnambalam Ramanathan\u2019s": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Jathika Vimukthi Peramuna": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "NM Perera": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Moothoor": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "RG Senanayake": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "William Gopallawa\u2019s": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Gunawardena": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Natesan": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "IMF": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/22/229acbf3.json",
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json"
+  ],
+  "MA Abdul Majeed": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Parameshwara College": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Oliver Goonetilleke": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Dullewa": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Colombo South": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Kusuma Rajaratne": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "USA": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/14/14548edc.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json",
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "All Ceylon Tamil Congress": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Sri Lankan Tamil": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Muslim": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Vimukthi Peramuna": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Mahajana Eksath Peramuna": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Independents RG Senanayake": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Murugesysen Tiruchelvam": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Iranganie": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "MS Kariapper": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Federal party": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Kariapper and Samaraweera": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Badiuddhin Mahmud": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "ITAK/FP": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Akurana": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Kandiah Vaithiyanathan": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "GG Ponnambalam": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "KMP Rajaratne": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "TB Jayah": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Malay": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "MM Mustapha": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Sirima Bandaranaike": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Ilankai Tamil": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Esmond Wickremesinghe": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "ACTC": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Nandalal Weerasinghe": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Jana Balawegaya": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/49/492fb08d.json",
+    "/tmp/news_lk2/articles/03/036fd6d0.json"
+  ],
+  "NM": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Lawyer Murugeysen Tiruchelvam": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Jaffna": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/17/176f804f.json",
+    "/tmp/news_lk2/articles/c5/c5ac80b6.json"
+  ],
+  "Kankesanthurai": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "W Dahanayake": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Rohana Wijeweera": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Independents": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Kingmaker": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Galle Road": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "CAS Marikkar": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/70/701ba81d.json"
+  ],
+  "Queenmaker": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "SWRD Bandaranaike": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Percy Samaraweera": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "CP de Silva": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "DS Senanayake": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "FP": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Woodlands": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "United National Party": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/22/229acbf3.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Mackie Ratwatte": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Kalmunai": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Borella": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Lanka Sama Samaja Party": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Dudley Senanayake\u2019s": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Welimada": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Dudley": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "John Kotelawala": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Ratwatte": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "Politically Tiruchelvam\u2019s": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "National Government": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Mudiyanse Tennekoon": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Sri Lanka Freedom Socialist Party": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Communist Party": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Prime": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "MEP": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Ceylon Workers Congress": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Samagi": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/49/492fb08d.json",
+    "/tmp/news_lk2/articles/22/229acbf3.json",
+    "/tmp/news_lk2/articles/51/51a5ac13.json",
+    "/tmp/news_lk2/articles/8b/8bb198de.json",
+    "/tmp/news_lk2/articles/03/036fd6d0.json"
+  ],
+  "anti-UNP": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "SLFP Government": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Bernard Soysa": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "ITAK": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "MCM Kaleel": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Philip Gunawardena": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Ilankai Tamil Arasu Katchi": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "HS Ismail": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Prajathanthrawadi Pakshaya": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Islamic": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "tandem": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "JVP": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "V Nalliah": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Gopallawa": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Arasu Katchi": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Habaraduwa": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Tissa Vitarane": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Razeek Fareed": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Tamil Congress": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "John": [
+    "/tmp/news_lk2/articles/15/1550ea19.json"
+  ],
+  "Bandaranaike": [
+    "/tmp/news_lk2/articles/15/1550ea19.json",
+    "/tmp/news_lk2/articles/22/229acbf3.json"
+  ],
+  "Customs": [
+    "/tmp/news_lk2/articles/bb/bb38725c.json"
+  ],
+  "Export Development Board of Sri Lanka": [
+    "/tmp/news_lk2/articles/bb/bb38725c.json"
+  ],
+  "Advocata Institute": [
+    "/tmp/news_lk2/articles/bb/bb38725c.json"
+  ],
+  "Temporary Importation for Export Purposes": [
+    "/tmp/news_lk2/articles/bb/bb38725c.json"
+  ],
+  "Indonesia": [
+    "/tmp/news_lk2/articles/bb/bb38725c.json"
+  ],
+  "Bangladesh": [
+    "/tmp/news_lk2/articles/bb/bb38725c.json",
+    "/tmp/news_lk2/articles/3a/3ad4a90f.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/2d/2d2658fe.json",
+    "/tmp/news_lk2/articles/e7/e7b7230b.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Board of Investment of Sri Lanka": [
+    "/tmp/news_lk2/articles/bb/bb38725c.json"
+  ],
+  "Ministry of Industries": [
+    "/tmp/news_lk2/articles/bb/bb38725c.json"
+  ],
+  "FTAs": [
+    "/tmp/news_lk2/articles/bb/bb38725c.json"
+  ],
+  "Bill of Lading/Airway": [
+    "/tmp/news_lk2/articles/bb/bb38725c.json"
+  ],
+  "Section 17": [
+    "/tmp/news_lk2/articles/bb/bb38725c.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Chambers": [
+    "/tmp/news_lk2/articles/bb/bb38725c.json"
+  ],
+  "Controller General of Imports and Exports Control": [
+    "/tmp/news_lk2/articles/bb/bb38725c.json"
+  ],
+  "PepperCube Consultants": [
+    "/tmp/news_lk2/articles/3a/3ad4a90f.json"
+  ],
+  "Dimension 4": [
+    "/tmp/news_lk2/articles/3a/3ad4a90f.json"
+  ],
+  "FX": [
+    "/tmp/news_lk2/articles/3a/3ad4a90f.json",
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json"
+  ],
+  "Pakistan": [
+    "/tmp/news_lk2/articles/3a/3ad4a90f.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "NEXT Campus": [
+    "/tmp/news_lk2/articles/3a/3ad4a90f.json"
+  ],
+  "British": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Jetwing Hotels": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "Red Dot Tours": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "wwwthetimescouk": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "Bookingcom": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "Udawalawe National Park": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "Travel Group": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "Deanne Barker": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "Chris Haslam": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "Easter": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "London": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json",
+    "/tmp/news_lk2/articles/66/668a5481.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Britain": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json",
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "US": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/ae/ae6d251a.json",
+    "/tmp/news_lk2/articles/44/44cc6611.json",
+    "/tmp/news_lk2/articles/14/14548edc.json",
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/65/65c7bf25.json",
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Barker": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "Cooray": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "Sam Clark": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "Foreign Office": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "Gotabaya": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json",
+    "/tmp/news_lk2/articles/49/492fb08d.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "Qatar": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "World Cup": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "David Hopps": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "Hiran Cooray": [
+    "/tmp/news_lk2/articles/ae/aec23d3a.json"
+  ],
+  "Sri Lanka Economic Association": [
+    "/tmp/news_lk2/articles/91/911f32f6.json"
+  ],
+  "SLEA Council of Management 2022-2023": [
+    "/tmp/news_lk2/articles/91/911f32f6.json"
+  ],
+  "Paddy Lands Act": [
+    "/tmp/news_lk2/articles/91/911f32f6.json"
+  ],
+  "Practice of International Development": [
+    "/tmp/news_lk2/articles/91/911f32f6.json"
+  ],
+  "Samurdhi Program": [
+    "/tmp/news_lk2/articles/91/911f32f6.json"
+  ],
+  "Sirimal Abeyratne": [
+    "/tmp/news_lk2/articles/91/911f32f6.json"
+  ],
+  "Georgetown University\u2019s": [
+    "/tmp/news_lk2/articles/91/911f32f6.json"
+  ],
+  "Economics at University of Colombo": [
+    "/tmp/news_lk2/articles/91/911f32f6.json"
+  ],
+  "University of Colombo": [
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Hema Senanayake": [
+    "/tmp/news_lk2/articles/91/911f32f6.json"
+  ],
+  "Mathematics, Science": [
+    "/tmp/news_lk2/articles/91/911f32f6.json"
+  ],
+  "PhD": [
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/92/9237b6e7.json"
+  ],
+  "Shanta Devarajan": [
+    "/tmp/news_lk2/articles/91/911f32f6.json"
+  ],
+  "Committee": [
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/03/036fd6d0.json"
+  ],
+  "seminar series": [
+    "/tmp/news_lk2/articles/91/911f32f6.json"
+  ],
+  "Rajapaksa Government": [
+    "/tmp/news_lk2/articles/91/911f32f6.json",
+    "/tmp/news_lk2/articles/c5/c5ac80b6.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Citrix": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "SAARC": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "SL/Maldives) Regional": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "SAARC Sales Manager/Systems Engineering Sandip Warke": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "ZTNA": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "App": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "CxO Forum": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "Spice Room": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "GB Segment - India": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "Maldives Lucian Siriwardena": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "API Protection": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "Citrix CxO Forum": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "DDoS": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "VDI": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "Desktops": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "Rachit Ranjan": [
+    "/tmp/news_lk2/articles/4a/4aaefe33.json"
+  ],
+  "NVQ": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/41/41a84f9a.json"
+  ],
+  "Mathematics": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Companies Act": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Science, Technology,": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Vocational Training Centre": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Cabinet of Ministers": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "healthcare": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "Bankruptcy Code": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Bank of Ceylon": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Welfare Benefits Board": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "United States": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/b5/b58d39d3.json",
+    "/tmp/news_lk2/articles/14/14548edc.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/65/65c7bf25.json"
+  ],
+  "Sri Lanka Railways": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Motherland": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Final Report of \u201cPresidential Commission of Inquiry into Sri Lanka Customs": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "STEM": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Apa thanikara": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Urban Councils": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "\u2022 Accordingly": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "DAD": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "National Design Centre and Export Development Board": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "General Treasury": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Ministry of Tourism": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Black Smithing": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "National Export Strategy": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "lokaya diva yanne\u2019": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Budget 2023": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Mahapola Scholarship Fund": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "IG": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "General of Management Services": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Divisional Federation of Youth Clubs": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "BOI": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "Kelaniweli": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Interim Budget for year 2023": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "House": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/bf/bf59c47d.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Telecommunication Levy": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "a Municipal Council": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/03/036fd6d0.json"
+  ],
+  "External Resources Department": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Finance": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Recovery of Possession of Premises Given": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "National Security \u2013 2030": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Kurunegala": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Youth Agriculture Companies": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Indian Line of Credit": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "CEB": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json"
+  ],
+  "Parliamentary Committee on Ways and Means": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Board of Investment": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "National Budget Department": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "TVEC": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Interim Budget": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "SCI": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "all Sinhala, Tamil, Muslim,": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "United Nations": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/a8/a814db38.json",
+    "/tmp/news_lk2/articles/80/802f1533.json",
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  ],
+  "Interim Budget 2023": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Treasury Operations Department": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Badulla": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Colombo Fort Railway Station": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Hali Ela Railway Station": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Burgher": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Betting": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Bandara Eheliyagoda": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "SriLankan Airlines": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "National Debt Management Agency": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Lease (Special Provisions": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Budget for year": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Central Bank of Sri Lanka": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json",
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json",
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "Sunil Handunneththi": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "National Economic Policy": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Gaming Levy": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "ekathena karakenne": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Comptroller General of General Treasury": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Palmyra Development Board": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "National Program": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Tourist Board": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "NAITA": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/41/41a84f9a.json"
+  ],
+  "VTA": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/41/41a84f9a.json"
+  ],
+  "Youth Corps": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Domestic Agriculture Development": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Centre": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/2d/2d2658fe.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "a Trade Adjustment Programme": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Climate Fund": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Sri Lanka Customs": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Nepal": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "World Bank": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Chapter 11": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "KDU": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "NDMA": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "a Public Finance Management Act": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Office for Overseas Sri Lankans": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "People\u2019s Bank": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "South East": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
+  ],
+  "Department of Agriculture": [
+    "/tmp/news_lk2/articles/8e/8e4cbf2c.json",
+    "/tmp/news_lk2/articles/14/14548edc.json",
+    "/tmp/news_lk2/articles/42/42c4179e.json"
+  ],
+  "Sri Lanka Customs Tariff": [
+    "/tmp/news_lk2/articles/14/14b396b6.json"
+  ],
+  "Gazette": [
+    "/tmp/news_lk2/articles/14/14b396b6.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "World Health Organisation": [
+    "/tmp/news_lk2/articles/14/14b396b6.json",
+    "/tmp/news_lk2/articles/9a/9a2043e5.json",
+    "/tmp/news_lk2/articles/27/275f5e4c.json"
+  ],
+  "Maldives": [
+    "/tmp/news_lk2/articles/14/14b396b6.json",
+    "/tmp/news_lk2/articles/4e/4ec43f4e.json"
+  ],
+  "Shiran Fernando": [
+    "/tmp/news_lk2/articles/a8/a814db38.json",
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "Hanaa Singer-Hamdy": [
+    "/tmp/news_lk2/articles/a8/a814db38.json",
+    "/tmp/news_lk2/articles/80/802f1533.json"
+  ],
+  "United Nations Development Program": [
+    "/tmp/news_lk2/articles/a8/a814db38.json",
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Renuka Weerakone": [
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "Food and Beverages and Consumer Goods": [
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "Manjula De Silva": [
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "Dulani Sirisena": [
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "Fabienne Michaux": [
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "Ceylon Chamber of Commerce Principal": [
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "Chamindry Saparamadu": [
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "Charge Malin Herwig": [
+    "/tmp/news_lk2/articles/a8/a814db38.json",
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Sustainable Development Goals": [
+    "/tmp/news_lk2/articles/a8/a814db38.json",
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "Infrastructure": [
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "IM": [
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "Kumara": [
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "Government": [
+    "/tmp/news_lk2/articles/a8/a814db38.json",
+    "/tmp/news_lk2/articles/22/229acbf3.json"
+  ],
+  "Ruwan Walpola": [
+    "/tmp/news_lk2/articles/a8/a814db38.json"
+  ],
+  "Ceylon Chamber of Commerce": [
+    "/tmp/news_lk2/articles/a8/a814db38.json",
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json",
+    "/tmp/news_lk2/articles/43/430e620d.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "OMP": [
+    "/tmp/news_lk2/articles/80/802f1533.json"
+  ],
+  "UN": [
+    "/tmp/news_lk2/articles/80/802f1533.json",
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json",
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/b5/b500ac95.json",
+    "/tmp/news_lk2/articles/2a/2ae847b8.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json"
+  ],
+  "Enforced Disappearances": [
+    "/tmp/news_lk2/articles/80/802f1533.json"
+  ],
+  "International of Victims of Enforced Disappearances": [
+    "/tmp/news_lk2/articles/80/802f1533.json"
+  ],
+  "\u2018List of Complaints and Information Regarding Missing and Disappeared Persons": [
+    "/tmp/news_lk2/articles/80/802f1533.json"
+  ],
+  "International Convention for Protection of All Persons": [
+    "/tmp/news_lk2/articles/80/802f1533.json"
+  ],
+  "Office on Missing Persons": [
+    "/tmp/news_lk2/articles/80/802f1533.json"
+  ],
+  "International Day": [
+    "/tmp/news_lk2/articles/80/802f1533.json"
+  ],
+  "Technical College Junction": [
+    "/tmp/news_lk2/articles/e5/e587af79.json"
+  ],
+  "Collective of Trade Unions": [
+    "/tmp/news_lk2/articles/e5/e587af79.json"
+  ],
+  "Colombo Municipal Council City Hall": [
+    "/tmp/news_lk2/articles/e5/e587af79.json"
+  ],
+  "Technical Junction": [
+    "/tmp/news_lk2/articles/e5/e587af79.json"
+  ],
+  "Ministry of Health": [
+    "/tmp/news_lk2/articles/e5/e587af79.json",
+    "/tmp/news_lk2/articles/b5/b58d39d3.json",
+    "/tmp/news_lk2/articles/14/14548edc.json"
+  ],
+  "Maradana Elphinstone Theatre": [
+    "/tmp/news_lk2/articles/e5/e587af79.json"
+  ],
+  "Dilrukshana": [
+    "/tmp/news_lk2/articles/e5/e587af79.json"
+  ],
+  "WHO": [
+    "/tmp/news_lk2/articles/9a/9a2043e5.json",
+    "/tmp/news_lk2/articles/27/275f5e4c.json"
+  ],
+  "Tamil Eelam": [
+    "/tmp/news_lk2/articles/9a/9a2043e5.json"
+  ],
+  "civil war": [
+    "/tmp/news_lk2/articles/9a/9a2043e5.json"
+  ],
+  "HE": [
+    "/tmp/news_lk2/articles/9a/9a2043e5.json"
+  ],
+  "LTTE": [
+    "/tmp/news_lk2/articles/9a/9a2043e5.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Russia": [
+    "/tmp/news_lk2/articles/9a/9a2043e5.json",
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/22/229acbf3.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/87/874d8261.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "OPEC Fund for International Development": [
+    "/tmp/news_lk2/articles/9a/9a2043e5.json"
+  ],
+  "Ukraine": [
+    "/tmp/news_lk2/articles/9a/9a2043e5.json"
+  ],
+  "Nalani Hennayake": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Khushi Kabir": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Research Fellow": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "University of Gothenburg": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Thiruni Kelegama": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Ayesha Kidwai": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Department of Legal Studies": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Ramindu Perera": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "University of California": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Sweden": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Madison": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "European Union": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "Noelene Nabulivou": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Convenor": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Shamala Kumar": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Feminist Activist": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Bishnupriya Ghosh": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Equality": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Colgate University": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Samanthi Gunawardana": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Rapti Siriwardane-de Zoysa": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Monash University": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Australian National University": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "Nivedita Menon": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Postgraduate Institute of English": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "\u00c9ric Toussaint": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Hiniduma Sunil Senevi": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Collective of Women Affected": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Sumathy Sivamohan": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Women\u2019s Studies": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Vasuki Nesiah": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "IWRAW Asia Pacific": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Romania": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Santa Barbara": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Noenoe Silva": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "International Coordination Committee": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Asha Abeyasekera": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "King\u2019s College": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Sangat": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Australia": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json",
+    "/tmp/news_lk2/articles/ac/ac4a6aa0.json",
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "Lecturer": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/c5/c5ac80b6.json"
+  ],
+  "Ruvani Ranasinha": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Ramona Duminicioiu": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Nimanthi Rajasingham": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Royal Holloway": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "University of Oxford": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Harshana Rambukwella": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Camena Guneratne": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Advisor": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Department of Law": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Farida C Khan": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "University of St Andrews": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "New York University": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Niru Perera": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "St Mary\u2019s College": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Nihal Perera": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "UK": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json",
+    "/tmp/news_lk2/articles/2d/2d2658fe.json",
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Sushovan Dhar": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Hashan Jeewantha": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "WB": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Lecturer \u2013 Politics & International Relations": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "solidarity": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/7e/7eb223bf.json"
+  ],
+  "Wasantha Mudalige": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/b5/b500ac95.json",
+    "/tmp/news_lk2/articles/6f/6f2845b3.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/ba/ba6116ed.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "GoSL": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Kaushalya Herath": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Ball State University": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Nawala": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Sankaran Krishna": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Dhaka": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "University of Peradeniya": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json",
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Kanchana N Ruwanpura": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Jayadeva Uyangoda": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Inter-University Bhikkhu Federation": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/b5/b500ac95.json"
+  ],
+  "Department of Economics, Drew University": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Committee for Abolition of Illegitimate Debt": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Jawaharlal Nehru University": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Jennifer C Olmsted": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Belihuloya": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "University of Colorado Colorado Springs": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Renuka Karunarathna": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "University of London": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Michael J Shapiro": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "CTA": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Counter Terrorism Act": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Fiji": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "NJ": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Microfinance": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Galwewa Siridhamma": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json",
+    "/tmp/news_lk2/articles/6f/6f2845b3.json"
+  ],
+  "Anupama Ranaweera": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "International Women\u2019s Rights Action Watch Asia Pacific": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "IN": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Kanchuka Dharmasiri": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Centre for Study of Religion and Politics": [
+    "/tmp/news_lk2/articles/3f/3fcfb244.json"
+  ],
+  "Sri Lanka Ministry of Health": [
+    "/tmp/news_lk2/articles/b5/b58d39d3.json",
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json",
+    "/tmp/news_lk2/articles/27/275f5e4c.json"
+  ],
+  "Lenexa": [
+    "/tmp/news_lk2/articles/b5/b58d39d3.json"
+  ],
+  "Washington DC": [
+    "/tmp/news_lk2/articles/b5/b58d39d3.json",
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Heart International US": [
+    "/tmp/news_lk2/articles/b5/b58d39d3.json",
+    "/tmp/news_lk2/articles/b5/b58d39d3.json"
+  ],
+  "Kim Carroll": [
+    "/tmp/news_lk2/articles/b5/b58d39d3.json"
+  ],
+  "Embassy of Sri Lanka": [
+    "/tmp/news_lk2/articles/b5/b58d39d3.json",
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Mahinda Samarasinghe": [
+    "/tmp/news_lk2/articles/b5/b58d39d3.json"
+  ],
+  "Samarasinghe": [
+    "/tmp/news_lk2/articles/b5/b58d39d3.json"
+  ],
+  "Kansas": [
+    "/tmp/news_lk2/articles/b5/b58d39d3.json"
+  ],
+  "BBB Accredited": [
+    "/tmp/news_lk2/articles/b5/b58d39d3.json"
+  ],
+  "Vikas Arora": [
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json"
+  ],
+  "Deutsche Bank": [
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json"
+  ],
+  "Red Cross Society": [
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json"
+  ],
+  "Deutsche Bank Sri Lanka": [
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json"
+  ],
+  "Vavuniya": [
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json"
+  ],
+  "Americas": [
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json",
+    "/tmp/news_lk2/articles/14/14548edc.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Lady Ridgeway Hospital for Children": [
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json"
+  ],
+  "District General Hospital": [
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json"
+  ],
+  "Deutsche Bank\u2019s Corporate Social Responsibility": [
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json"
+  ],
+  "National Hospital of Sri Lanka": [
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json"
+  ],
+  "Autobahn": [
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json"
+  ],
+  "Asia Pacific": [
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json",
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "World Meditation Day": [
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json"
+  ],
+  "Bank": [
+    "/tmp/news_lk2/articles/4d/4d1d93b8.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Africa": [
+    "/tmp/news_lk2/articles/7c/7cb3f062.json"
+  ],
+  "Edward Kim": [
+    "/tmp/news_lk2/articles/7c/7cb3f062.json"
+  ],
+  "Softlogic Max": [
+    "/tmp/news_lk2/articles/7c/7cb3f062.json"
+  ],
+  "Softlogic Retail": [
+    "/tmp/news_lk2/articles/7c/7cb3f062.json",
+    "/tmp/news_lk2/articles/7c/7cb3f062.json"
+  ],
+  "wwwmysoftlogiclk": [
+    "/tmp/news_lk2/articles/7c/7cb3f062.json"
+  ],
+  "Walton Global Business Division": [
+    "/tmp/news_lk2/articles/7c/7cb3f062.json"
+  ],
+  "Softlogic": [
+    "/tmp/news_lk2/articles/7c/7cb3f062.json"
+  ],
+  "Softlogic Holdings PLC": [
+    "/tmp/news_lk2/articles/7c/7cb3f062.json",
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Walton": [
+    "/tmp/news_lk2/articles/7c/7cb3f062.json"
+  ],
+  "Softlogic Furniture": [
+    "/tmp/news_lk2/articles/7c/7cb3f062.json"
+  ],
+  "Consumer Electronics and Furniture": [
+    "/tmp/news_lk2/articles/7c/7cb3f062.json"
+  ],
+  "Mohammed Rizvi": [
+    "/tmp/news_lk2/articles/7c/7cb3f062.json"
+  ],
+  "Reiterating Marikkar\u2019s": [
+    "/tmp/news_lk2/articles/bd/bdc7d782.json"
+  ],
+  "Cabinet": [
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/e4/e4833ef4.json",
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Hashim": [
+    "/tmp/news_lk2/articles/bd/bdc7d782.json"
+  ],
+  "National People\u2019s Power": [
+    "/tmp/news_lk2/articles/bd/bdc7d782.json"
+  ],
+  "SJB Colombo District": [
+    "/tmp/news_lk2/articles/bd/bdc7d782.json"
+  ],
+  "Marikkar": [
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/70/701ba81d.json",
+    "/tmp/news_lk2/articles/2a/2ae847b8.json",
+    "/tmp/news_lk2/articles/03/036fd6d0.json"
+  ],
+  "Ranawaka": [
+    "/tmp/news_lk2/articles/bd/bdc7d782.json"
+  ],
+  "Ceylon Electricity Board\u2019s": [
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json",
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "NPP": [
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "Kabir Hashim": [
+    "/tmp/news_lk2/articles/bd/bdc7d782.json"
+  ],
+  "Public Utilities Commission of Sri Lanka": [
+    "/tmp/news_lk2/articles/bd/bdc7d782.json",
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json"
+  ],
+  "CID": [
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/2d/2d2658fe.json",
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/03/036fd6d0.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json",
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "Kanchana Wijesekera": [
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json",
+    "/tmp/news_lk2/articles/7a/7a07887a.json"
+  ],
+  "Parliamentary Select Committee": [
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "MW Norochcholai": [
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json"
+  ],
+  "Power and Energy": [
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json"
+  ],
+  "Independent MP Champika Ranawaka": [
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json"
+  ],
+  "Ceylon Petroleum Corporation Rs": [
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json"
+  ],
+  "Energy": [
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json",
+    "/tmp/news_lk2/articles/7a/7a07887a.json"
+  ],
+  "Kanchana": [
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json",
+    "/tmp/news_lk2/articles/7a/7a07887a.json"
+  ],
+  "Wijesekera": [
+    "/tmp/news_lk2/articles/c9/c9e4fcf6.json",
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json",
+    "/tmp/news_lk2/articles/7a/7a07887a.json"
+  ],
+  "Nimal Siripala de Silva": [
+    "/tmp/news_lk2/articles/e4/e4833ef4.json"
+  ],
+  "Maithripala Sirisena": [
+    "/tmp/news_lk2/articles/e4/e4833ef4.json"
+  ],
+  "Thilanga Sumathipala": [
+    "/tmp/news_lk2/articles/e4/e4833ef4.json"
+  ],
+  "Sirisena": [
+    "/tmp/news_lk2/articles/e4/e4833ef4.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Pohottuwa": [
+    "/tmp/news_lk2/articles/e4/e4833ef4.json",
+    "/tmp/news_lk2/articles/49/492fb08d.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "GRI": [
+    "/tmp/news_lk2/articles/ae/ae6d251a.json"
+  ],
+  "Iowa": [
+    "/tmp/news_lk2/articles/ae/ae6d251a.json"
+  ],
+  "Farm Progress Show": [
+    "/tmp/news_lk2/articles/ae/ae6d251a.json"
+  ],
+  "Reclaimed": [
+    "/tmp/news_lk2/articles/ae/ae6d251a.json"
+  ],
+  "GREEN X Circle": [
+    "/tmp/news_lk2/articles/ae/ae6d251a.json"
+  ],
+  "Mahesha Ranasoma": [
+    "/tmp/news_lk2/articles/ae/ae6d251a.json"
+  ],
+  "earth": [
+    "/tmp/news_lk2/articles/ae/ae6d251a.json"
+  ],
+  "EARTH": [
+    "/tmp/news_lk2/articles/ae/ae6d251a.json"
+  ],
+  "Prabhash Subasinghe": [
+    "/tmp/news_lk2/articles/ae/ae6d251a.json"
+  ],
+  "Shanaka Fernando": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "Chaminda de Silva": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "Sumudu Pagoda": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "Jinandi Chandrarathne": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "CMA": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "BPM": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "Institute of Certified Management Accounts of Sri Lanka": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "Ashique M Ali": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "SLASSCOM": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json",
+    "/tmp/news_lk2/articles/2f/2ff27689.json"
+  ],
+  "R Watawala": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "Sri Lanka Association for Software Services Companies": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "IT-BPM": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "SLASSCOM Board": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "CMA Sri Lanka": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json",
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "BPO": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "Management": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "Eranga Wijayasinghe": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "Jehan Perimpanayagam": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "Kosala Dissanayake": [
+    "/tmp/news_lk2/articles/8a/8a04851e.json"
+  ],
+  "International Competitive Bidding": [
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json"
+  ],
+  "ICB": [
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json"
+  ],
+  "Monaragala": [
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json"
+  ],
+  "Siyambalanduwa": [
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json"
+  ],
+  "Build": [
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json"
+  ],
+  "Sustainable Energy Authority": [
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json"
+  ],
+  "BOO": [
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json"
+  ],
+  "Operate": [
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json"
+  ],
+  "PPA": [
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json"
+  ],
+  "MW": [
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json"
+  ],
+  "SEA": [
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json"
+  ],
+  "MW AC": [
+    "/tmp/news_lk2/articles/fc/fc8cdc97.json"
+  ],
+  "Wroc\u0142aw Tea Festival \u201cCzaisz": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Anuga": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "PLN": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Ireland": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Briedronka\u2019s Lion": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Auchan Poland": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Portugal": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Warsaw": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Mabroc Teas Ltd": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "LIVEE POLSKA Sp": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "French": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/44/44cc6611.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Krakow": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Jer\u00f3nimo Martins Group": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Netherlands": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Central/Eastern Europe": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Ukrainian": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Croix": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Empire Teas Ltd": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Cologne": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Italy": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Elpitiya Plantations PLC": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "REMSEY": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Quest Ceylon Tea LLC": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Polish": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "International Charity Bazaar": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "CSR": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Poland": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Ladybird": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Hungary": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Ceylon Tea": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Ceylon": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "LIVEE": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Kenya": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Earl Grey": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Dhammika Kumari Semasinghe": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Belgium": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Auchan": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "Embassy": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json"
+  ],
+  "EU": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "France": [
+    "/tmp/news_lk2/articles/0f/0fb171d2.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Sajith": [
+    "/tmp/news_lk2/articles/49/492fb08d.json"
+  ],
+  "Ranasinghe Premadasa": [
+    "/tmp/news_lk2/articles/49/492fb08d.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Minuwangoda": [
+    "/tmp/news_lk2/articles/49/492fb08d.json"
+  ],
+  "Premadasa": [
+    "/tmp/news_lk2/articles/49/492fb08d.json",
+    "/tmp/news_lk2/articles/51/51a5ac13.json",
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json"
+  ],
+  "Islam": [
+    "/tmp/news_lk2/articles/22/229acbf3.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Eran Wickramaratne": [
+    "/tmp/news_lk2/articles/22/229acbf3.json"
+  ],
+  "Korea": [
+    "/tmp/news_lk2/articles/22/229acbf3.json"
+  ],
+  "Wickramaratne": [
+    "/tmp/news_lk2/articles/22/229acbf3.json"
+  ],
+  "ajantha@pimsjpaclk": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Nishkam Karma": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "John F Kennedy": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Bhagavad Gita": [
+    "/tmp/news_lk2/articles/44/44cc6611.json",
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Indian Institute of Management": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Postgraduate Institute of Management": [
+    "/tmp/news_lk2/articles/44/44cc6611.json",
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Hindu": [
+    "/tmp/news_lk2/articles/44/44cc6611.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Rotary International": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Brindavan": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "State Public Service Commissions": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Karma Yoga": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Sri Aurobindo": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "bhajan": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "ajantha@ouedu or wwwajanthadharmasiriinfo": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Karma": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Satvik": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Liberation": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Chakraborty": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Richard Daft": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Akarma": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Yoga": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Buddha": [
+    "/tmp/news_lk2/articles/44/44cc6611.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Sakam Karma": [
+    "/tmp/news_lk2/articles/44/44cc6611.json"
+  ],
+  "Bombay": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Denmark": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "US Federal Reserve System": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Gustav III": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "John Maynard Keynes": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Norway": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Imperial Bank of India": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "YV Reddy": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "RBI": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Chamberlain Commission": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Financial System": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Ministry of Finance": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Switzerland": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Twitter": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json",
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json",
+    "/tmp/news_lk2/articles/7a/7a07887a.json"
+  ],
+  "Senate": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "World War I": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "John Exter": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Calcutta": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Central": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Reddy": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Republican Constitution": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Venezuela": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "US Senate Foreign Relations Committee": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Riksbank": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Hyderabad": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Exter": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Swedish National Debt Office": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Marco Arnone": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Daron Acemoglu": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Bank\u2019s Centre for Banking Studies": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Madras": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Monetary Law Act": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Monetary Board": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "National Consumers Price": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "C Rangarajan": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "NBER Working Paper": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Reserve Bank of India": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "William McChesney Martin": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Federal Reserve": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Keynes": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json",
+    "/tmp/news_lk2/articles/c5/c5ac80b6.json"
+  ],
+  "Petro": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "previous central bank management": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Colombo Consumers": [
+    "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  ],
+  "Ranjan Ramanayake": [
+    "/tmp/news_lk2/articles/51/51a5ac13.json",
+    "/tmp/news_lk2/articles/70/701ba81d.json",
+    "/tmp/news_lk2/articles/8b/8bb198de.json",
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json"
+  ],
+  "Ramanayake": [
+    "/tmp/news_lk2/articles/51/51a5ac13.json",
+    "/tmp/news_lk2/articles/70/701ba81d.json",
+    "/tmp/news_lk2/articles/8b/8bb198de.json",
+    "/tmp/news_lk2/articles/8b/8bb198de.json",
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json"
+  ],
+  "Welikada Prison": [
+    "/tmp/news_lk2/articles/51/51a5ac13.json",
+    "/tmp/news_lk2/articles/8b/8bb198de.json"
+  ],
+  "Media Division": [
+    "/tmp/news_lk2/articles/51/51a5ac13.json"
+  ],
+  "Ranjan": [
+    "/tmp/news_lk2/articles/51/51a5ac13.json",
+    "/tmp/news_lk2/articles/70/701ba81d.json"
+  ],
+  "PALAM/A": [
+    "/tmp/news_lk2/articles/14/14548edc.json"
+  ],
+  "Education": [
+    "/tmp/news_lk2/articles/14/14548edc.json"
+  ],
+  "Lankan": [
+    "/tmp/news_lk2/articles/14/14548edc.json"
+  ],
+  "Alaskan": [
+    "/tmp/news_lk2/articles/14/14548edc.json"
+  ],
+  "US Embassy": [
+    "/tmp/news_lk2/articles/14/14548edc.json"
+  ],
+  "Save Children": [
+    "/tmp/news_lk2/articles/14/14548edc.json"
+  ],
+  "Julie Chung": [
+    "/tmp/news_lk2/articles/14/14548edc.json"
+  ],
+  "Mid-August": [
+    "/tmp/news_lk2/articles/14/14548edc.json"
+  ],
+  "Susil Premajayantha": [
+    "/tmp/news_lk2/articles/14/14548edc.json"
+  ],
+  "National Planning Department": [
+    "/tmp/news_lk2/articles/14/14548edc.json"
+  ],
+  "Sanath Nishantha": [
+    "/tmp/news_lk2/articles/70/701ba81d.json",
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Judiciary": [
+    "/tmp/news_lk2/articles/70/701ba81d.json",
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json"
+  ],
+  "Harin": [
+    "/tmp/news_lk2/articles/70/701ba81d.json"
+  ],
+  "Harin Fernando": [
+    "/tmp/news_lk2/articles/70/701ba81d.json",
+    "/tmp/news_lk2/articles/8b/8bb198de.json"
+  ],
+  "Kavinda Jayawardena": [
+    "/tmp/news_lk2/articles/70/701ba81d.json"
+  ],
+  "National List": [
+    "/tmp/news_lk2/articles/70/701ba81d.json"
+  ],
+  "Operations Himali": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "Anushka Earskin": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "APFHRM": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "BIPD Vice-": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "Chartered Qualification": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "Kazi Rakibuddin Ahmed": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "Dhammika Fernando": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "Study Centre": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "Mohammad Mashequr Rahman Khan": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "G Weerathunga": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "CIPM Executive Council": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "Mohammad Nazrul Islam": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "BSHRM Institution of Professional Development Ltd": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "Jayantha Amarasinghe": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "CIPM": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json",
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Ken Vijayakumar": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json",
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "UAC Obeyesekere": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "BIPD": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "Bangladesh International Study Centre": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "CIPM Immediate Past": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "Chartered Institute of Personnel & Development": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "International Study Centre": [
+    "/tmp/news_lk2/articles/2d/2d2658fe.json"
+  ],
+  "https://5gsltmobitellk": [
+    "/tmp/news_lk2/articles/17/176f804f.json"
+  ],
+  "IOT": [
+    "/tmp/news_lk2/articles/17/176f804f.json"
+  ],
+  "Virtual Reality": [
+    "/tmp/news_lk2/articles/17/176f804f.json"
+  ],
+  "Colombo, Kandy, Anuradhapura": [
+    "/tmp/news_lk2/articles/17/176f804f.json"
+  ],
+  "Telecommunications Regulatory Commission of Sri Lanka": [
+    "/tmp/news_lk2/articles/17/176f804f.json"
+  ],
+  "SLT-Mobitel Mobile": [
+    "/tmp/news_lk2/articles/17/176f804f.json"
+  ],
+  "SLT-Mobitel": [
+    "/tmp/news_lk2/articles/17/176f804f.json"
+  ],
+  "NDB": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "Regional Development Bank": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "CDB": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "B Balamuhunthan": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "Remittance Marketing and": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "Winner M Selvarajah": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "Sub Agents": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "SDF": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "Citizen Development Business Finance PLC": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "Wellawatta Assistant": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "Western Union": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "Sarvodaya Development Finance Ltd": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "RDB": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "Mihiri Silva": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "Wellawattta": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "Singer Sri Lanka PLC": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "NDB Bank": [
+    "/tmp/news_lk2/articles/b4/b43cd0e1.json"
+  ],
+  "\u2018Govi Mithuru Nidhanaya\u2019": [
+    "/tmp/news_lk2/articles/42/42c4179e.json"
+  ],
+  "Dialog Axiata PLC": [
+    "/tmp/news_lk2/articles/42/42c4179e.json"
+  ],
+  "Hutch": [
+    "/tmp/news_lk2/articles/42/42c4179e.json"
+  ],
+  "Govi Mithuru": [
+    "/tmp/news_lk2/articles/42/42c4179e.json"
+  ],
+  "Roshan Rassool": [
+    "/tmp/news_lk2/articles/e7/e7b7230b.json"
+  ],
+  "Softlogic Information Technologies": [
+    "/tmp/news_lk2/articles/e7/e7b7230b.json",
+    "/tmp/news_lk2/articles/e7/e7b7230b.json"
+  ],
+  "Intel Xeon": [
+    "/tmp/news_lk2/articles/e7/e7b7230b.json"
+  ],
+  "ThinkPad": [
+    "/tmp/news_lk2/articles/e7/e7b7230b.json"
+  ],
+  "Series": [
+    "/tmp/news_lk2/articles/e7/e7b7230b.json"
+  ],
+  "Lenovo": [
+    "/tmp/news_lk2/articles/e7/e7b7230b.json"
+  ],
+  "ISV": [
+    "/tmp/news_lk2/articles/e7/e7b7230b.json"
+  ],
+  "Softlogic Information Technologies Graphic Workstations": [
+    "/tmp/news_lk2/articles/e7/e7b7230b.json"
+  ],
+  "CPU": [
+    "/tmp/news_lk2/articles/e7/e7b7230b.json"
+  ],
+  "AMD": [
+    "/tmp/news_lk2/articles/e7/e7b7230b.json"
+  ],
+  "Resolution": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json",
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "PRC": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  ],
+  "Taiwan": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  ],
+  "Pelosi": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  ],
+  "UN Human Rights Council": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json",
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json"
+  ],
+  "UN General Assembly": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  ],
+  "People\u2019s Republic of China": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  ],
+  "Taiwan Strait": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  ],
+  "UN Resolution 2758": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  ],
+  "Non-Interference": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  ],
+  "Geneva": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json",
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json",
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "Hambantota Port": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json",
+    "/tmp/news_lk2/articles/65/65c7bf25.json"
+  ],
+  "United Nations General Assembly": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  ],
+  "National Sovereignty and Territorial Integrity": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  ],
+  "Sri Lankan Government": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  ],
+  "Nancy Pelosi\u2019s": [
+    "/tmp/news_lk2/articles/c4/c4dc5eae.json"
+  ],
+  "ISIL": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "Sri Lankan Foreign Ministry": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "Constitution of Sri Lanka": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "Foreign Ministry": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "Defence Ministry": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "Al Qaida": [
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "section 3": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "section 2 as \u2018ISIL\u2019, \u2018Al Qaida\u2019": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "Islamic State of Iraq": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "ISIS": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "Easter Sunday": [
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/f8/f802a583.json"
+  ],
+  "Levant": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "UN Security Council": [
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "resolution 2253 of 2015": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "anti-Islamic": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "International Court of Justice": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "Catholic Church": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "Article 41 of UN Charter": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "Organisation of Professional Associations": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "Hague": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "Article 41": [
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Shehan Gunasekara": [
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "Seneviratne": [
+    "/tmp/news_lk2/articles/df/df97980d.json"
+  ],
+  "Taliban": [
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "SC": [
+    "/tmp/news_lk2/articles/df/df97980d.json",
+    "/tmp/news_lk2/articles/8b/8bb198de.json"
+  ],
+  "Institute of Business Administration": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Legislative": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Dubai": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Russian-Ukraine": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "International Sovereign": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Good Governance": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "State Bank of Pakistan": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Sinhalese": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Exports of Goods and Services": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Merit": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Afghanistan": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Ashraf Ghani": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Mahinda": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Chandrika Kumaratunga": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Arab": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Imran Khan": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Expenditure": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "FDI": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/ed/ed94cff6.json",
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Christians": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "External Debt": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "Dean": [
+    "/tmp/news_lk2/articles/ba/ba6ccc06.json"
+  ],
+  "voice of micro": [
+    "/tmp/news_lk2/articles/41/41a84f9a.json"
+  ],
+  "Vietnam": [
+    "/tmp/news_lk2/articles/41/41a84f9a.json"
+  ],
+  "Nawaz Rajabdeen": [
+    "/tmp/news_lk2/articles/41/41a84f9a.json"
+  ],
+  "Hambantota District": [
+    "/tmp/news_lk2/articles/41/41a84f9a.json"
+  ],
+  "ST Muthumala": [
+    "/tmp/news_lk2/articles/41/41a84f9a.json"
+  ],
+  "Research and Development": [
+    "/tmp/news_lk2/articles/41/41a84f9a.json"
+  ],
+  "Plaque of Appreciation to HDCC": [
+    "/tmp/news_lk2/articles/41/41a84f9a.json"
+  ],
+  "COSMI": [
+    "/tmp/news_lk2/articles/41/41a84f9a.json"
+  ],
+  "ITI": [
+    "/tmp/news_lk2/articles/41/41a84f9a.json"
+  ],
+  "Chaminda Rusiru Maliyadda": [
+    "/tmp/news_lk2/articles/41/41a84f9a.json"
+  ],
+  "AGM": [
+    "/tmp/news_lk2/articles/41/41a84f9a.json",
+    "/tmp/news_lk2/articles/4e/4ec43f4e.json"
+  ],
+  "Albert Einstein": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "Koloda-Duda": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "Transportation": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "New York Times": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "NATO Alliance of Sri Lanka": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "Export Development Board": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json",
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json",
+    "/tmp/news_lk2/articles/07/077b506e.json"
+  ],
+  "Cossack": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "Port City Commission": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json",
+    "/tmp/news_lk2/articles/ac/ac4a6aa0.json"
+  ],
+  "Pete Seeger": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "Vietnam War": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "Motherhood": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "Ceylon Petroleum Corporation": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "Constitutional Council": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "Rightly": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "\u201850s and \u201860s": [
+    "/tmp/news_lk2/articles/0c/0c6c20c9.json"
+  ],
+  "Ranil\u2019s": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "RW": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "democratic": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/d6/d63620cb.json",
+    "/tmp/news_lk2/articles/03/036fd6d0.json"
+  ],
+  "Murdoch University": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "metropolis": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "Basil Rajapaksa": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "Murdoch Business School": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "Aragalayers": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "Viyathmaga": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "First World": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "pro-RW Rajapaksa": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "Sathosa": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "Post-IMF": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "Western Australia": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "Gnanasara": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "Sinhala Buddhist": [
+    "/tmp/news_lk2/articles/d6/d63620cb.json"
+  ],
+  "Gota": [
+    "/tmp/news_lk2/articles/f8/f802a583.json",
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "NSA": [
+    "/tmp/news_lk2/articles/f8/f802a583.json"
+  ],
+  "CBK/RW": [
+    "/tmp/news_lk2/articles/f8/f802a583.json"
+  ],
+  "Aragalaya/Antharaya": [
+    "/tmp/news_lk2/articles/f8/f802a583.json"
+  ],
+  "National Security Act": [
+    "/tmp/news_lk2/articles/f8/f802a583.json"
+  ],
+  "MS/RW": [
+    "/tmp/news_lk2/articles/f8/f802a583.json"
+  ],
+  "Marina": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Hainan": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Putrajaya": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Kobe city": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Hong Kong": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Kuala Lumpur": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "BRI": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Colombo Port City": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Thailand": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Macau": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Julie Yoo": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Japan": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "King": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Thulci Aluwihare": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Views": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Ref": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "SL": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "World Cities Summit 2022": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Bangkok": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Port City Colombo": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Foreign Direct Investments": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "Environmental, Social": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "S Menon": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "SL\u2019s Greater Colombo Economic Commission": [
+    "/tmp/news_lk2/articles/ed/ed94cff6.json"
+  ],
+  "GOSL": [
+    "/tmp/news_lk2/articles/3a/3a28539a.json"
+  ],
+  "Evsey Domar": [
+    "/tmp/news_lk2/articles/3a/3a28539a.json"
+  ],
+  "USDA": [
+    "/tmp/news_lk2/articles/3a/3a28539a.json"
+  ],
+  "LKR": [
+    "/tmp/news_lk2/articles/3a/3a28539a.json"
+  ],
+  "Jargon": [
+    "/tmp/news_lk2/articles/3a/3a28539a.json"
+  ],
+  "API SN": [
+    "/tmp/news_lk2/articles/2c/2c20c012.json"
+  ],
+  "Spectrum Trading Co": [
+    "/tmp/news_lk2/articles/2c/2c20c012.json",
+    "/tmp/news_lk2/articles/2c/2c20c012.json",
+    "/tmp/news_lk2/articles/2c/2c20c012.json"
+  ],
+  "American Petroleum Institute": [
+    "/tmp/news_lk2/articles/2c/2c20c012.json"
+  ],
+  "SERVO Lubricants": [
+    "/tmp/news_lk2/articles/2c/2c20c012.json"
+  ],
+  "Stafford Group": [
+    "/tmp/news_lk2/articles/2c/2c20c012.json"
+  ],
+  "Kalinga Kaluperuma": [
+    "/tmp/news_lk2/articles/2c/2c20c012.json"
+  ],
+  "Lanka IOC": [
+    "/tmp/news_lk2/articles/2c/2c20c012.json"
+  ],
+  "SERVO": [
+    "/tmp/news_lk2/articles/2c/2c20c012.json"
+  ],
+  "Manoj Gupta": [
+    "/tmp/news_lk2/articles/2c/2c20c012.json"
+  ],
+  "Council\u2019s AGM": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Sarah Hulton": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "De La Rue": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Shiluka Gunawardena": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Council": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json",
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json"
+  ],
+  "MD": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Secretariat": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Commercial Bank MD Sanath Manatunge": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Ceylon Chamber\u2019s Council for Business": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Chairperson Hajar Alafifi": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Maldives Mark Surgenor": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Wettimuny": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Ameena Ziauddin": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Tel": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "EDB": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json",
+    "/tmp/news_lk2/articles/07/077b506e.json",
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Link Natural Ltd": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Arjuna Nanayakkara": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Hongkong": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Derek Mansfield": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Hilton Colombo Residences": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Michael Fernandopulle": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "British High Commission": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Suresh De Mel": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "British Council": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Dougie Douglas": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Irfan Thassim": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Sarath Ganegoda": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Tania Polonowita Wettimuny": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Norfolk Foods Ltd": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Hayleys PLC": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Roshanie J Moraes": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Unilever": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Gihan Jayasinghe": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Maarya Rehman": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Sri Lanka Currency": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "KPMG Principal": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "DIT Head of Trade": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Global Market Technologies Ltd": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Council for Business": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Nikhil Hirdaramani": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Point Consulting and Business Advisory Ltd": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Shanghai Banking Corporation Ltd": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Karim Schadlou": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Shirendra Lawrence": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Treasurer": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "CBB": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "London Stock Exchange Group": [
+    "/tmp/news_lk2/articles/a3/a3d6e8b3.json"
+  ],
+  "Bjarke Mikkelson": [
+    "/tmp/news_lk2/articles/68/68ca723f.json"
+  ],
+  "Connect": [
+    "/tmp/news_lk2/articles/68/68ca723f.json"
+  ],
+  "Saubhagya Production Bureau": [
+    "/tmp/news_lk2/articles/68/68ca723f.json"
+  ],
+  "Divisional Secretariats": [
+    "/tmp/news_lk2/articles/68/68ca723f.json"
+  ],
+  "Saubhagya Production Village": [
+    "/tmp/news_lk2/articles/68/68ca723f.json",
+    "/tmp/news_lk2/articles/68/68ca723f.json"
+  ],
+  "Rakhil Fernando": [
+    "/tmp/news_lk2/articles/68/68ca723f.json",
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Daraz Connect": [
+    "/tmp/news_lk2/articles/68/68ca723f.json"
+  ],
+  "Daraz": [
+    "/tmp/news_lk2/articles/68/68ca723f.json",
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Anura Dissanayake": [
+    "/tmp/news_lk2/articles/68/68ca723f.json"
+  ],
+  "Anishka De Zylva": [
+    "/tmp/news_lk2/articles/68/68ca723f.json"
+  ],
+  "Daraz Group": [
+    "/tmp/news_lk2/articles/68/68ca723f.json"
+  ],
+  "Mikkelson": [
+    "/tmp/news_lk2/articles/68/68ca723f.json"
+  ],
+  "United Nations Security Council": [
+    "/tmp/news_lk2/articles/b5/b500ac95.json"
+  ],
+  "Hashantha Gunathilake": [
+    "/tmp/news_lk2/articles/b5/b500ac95.json",
+    "/tmp/news_lk2/articles/ba/ba6116ed.json"
+  ],
+  "Prevention of Terrorism (Temporary Provisions": [
+    "/tmp/news_lk2/articles/b5/b500ac95.json"
+  ],
+  "UN Security Council Resolution 1566 of October 2004": [
+    "/tmp/news_lk2/articles/b5/b500ac95.json"
+  ],
+  "resolution 1566 of": [
+    "/tmp/news_lk2/articles/b5/b500ac95.json"
+  ],
+  "Kelaniya University Students\u2019 Union": [
+    "/tmp/news_lk2/articles/b5/b500ac95.json"
+  ],
+  "Siridhamma Thera": [
+    "/tmp/news_lk2/articles/b5/b500ac95.json",
+    "/tmp/news_lk2/articles/ba/ba6116ed.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Inspector General of Police": [
+    "/tmp/news_lk2/articles/b5/b500ac95.json"
+  ],
+  "Matamela Cyril Ramaphosa": [
+    "/tmp/news_lk2/articles/7e/7eb223bf.json"
+  ],
+  "South African": [
+    "/tmp/news_lk2/articles/7e/7eb223bf.json",
+    "/tmp/news_lk2/articles/7e/7eb223bf.json",
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Ramaphosa": [
+    "/tmp/news_lk2/articles/7e/7eb223bf.json"
+  ],
+  "Supreme Court": [
+    "/tmp/news_lk2/articles/8b/8bb198de.json",
+    "/tmp/news_lk2/articles/6f/6f2845b3.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Manusha Nanayakkara": [
+    "/tmp/news_lk2/articles/8b/8bb198de.json"
+  ],
+  "Appellate": [
+    "/tmp/news_lk2/articles/8b/8bb198de.json"
+  ],
+  "CJ": [
+    "/tmp/news_lk2/articles/8b/8bb198de.json"
+  ],
+  "Wijeyadasa Rajapakshe": [
+    "/tmp/news_lk2/articles/8b/8bb198de.json"
+  ],
+  "Justice": [
+    "/tmp/news_lk2/articles/8b/8bb198de.json"
+  ],
+  "WHO Country Office": [
+    "/tmp/news_lk2/articles/27/275f5e4c.json"
+  ],
+  "WHO\u2019s Regional and Country Offices": [
+    "/tmp/news_lk2/articles/27/275f5e4c.json"
+  ],
+  "Tedros Adhanom Ghebreyesus": [
+    "/tmp/news_lk2/articles/27/275f5e4c.json"
+  ],
+  "Rising global food and oil prices": [
+    "/tmp/news_lk2/articles/27/275f5e4c.json"
+  ],
+  "Ghebreyesus": [
+    "/tmp/news_lk2/articles/27/275f5e4c.json"
+  ],
+  "Fort Magistrate": [
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json"
+  ],
+  "Nishantha": [
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json"
+  ],
+  "Nirashan Vithanage": [
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json"
+  ],
+  "Sarva": [
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json"
+  ],
+  "Colombo Fort Magistrate": [
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json",
+    "/tmp/news_lk2/articles/bf/bf59c47d.json"
+  ],
+  "Vauxhall Street": [
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json"
+  ],
+  "MP": [
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json"
+  ],
+  "National Centre for Citizen\u2019s Struggle": [
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json"
+  ],
+  "Jayasuriya": [
+    "/tmp/news_lk2/articles/0a/0a5e29e2.json"
+  ],
+  "draconian Prevention of Terrorism Act": [
+    "/tmp/news_lk2/articles/6f/6f2845b3.json"
+  ],
+  "Ven": [
+    "/tmp/news_lk2/articles/6f/6f2845b3.json"
+  ],
+  "Attempts": [
+    "/tmp/news_lk2/articles/6f/6f2845b3.json"
+  ],
+  "Mudalige": [
+    "/tmp/news_lk2/articles/6f/6f2845b3.json",
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Tangalle Detention Centre": [
+    "/tmp/news_lk2/articles/6f/6f2845b3.json",
+    "/tmp/news_lk2/articles/ba/ba6116ed.json"
+  ],
+  "Multicultural Affairs": [
+    "/tmp/news_lk2/articles/ac/ac4a6aa0.json"
+  ],
+  "Craig Ondarchie": [
+    "/tmp/news_lk2/articles/ac/ac4a6aa0.json"
+  ],
+  "Aussie Parliamentarian Ondarchie": [
+    "/tmp/news_lk2/articles/ac/ac4a6aa0.json"
+  ],
+  "Northern Metropolitan Region Victorian Parliament": [
+    "/tmp/news_lk2/articles/ac/ac4a6aa0.json"
+  ],
+  "Citizenship": [
+    "/tmp/news_lk2/articles/ac/ac4a6aa0.json"
+  ],
+  "Port City": [
+    "/tmp/news_lk2/articles/ac/ac4a6aa0.json",
+    "/tmp/news_lk2/articles/a6/a628ed6c.json",
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "Mohan de Silva": [
+    "/tmp/news_lk2/articles/ac/ac4a6aa0.json"
+  ],
+  "Colombo Port City Commission": [
+    "/tmp/news_lk2/articles/ac/ac4a6aa0.json"
+  ],
+  "Responsible Business Awards": [
+    "/tmp/news_lk2/articles/66/668a5481.json"
+  ],
+  "MAS": [
+    "/tmp/news_lk2/articles/66/668a5481.json"
+  ],
+  "Reuters Events: Responsible Business Awards": [
+    "/tmp/news_lk2/articles/66/668a5481.json"
+  ],
+  "Ed Long": [
+    "/tmp/news_lk2/articles/66/668a5481.json"
+  ],
+  "Diversity": [
+    "/tmp/news_lk2/articles/66/668a5481.json"
+  ],
+  "MAS Holdings Group Human": [
+    "/tmp/news_lk2/articles/66/668a5481.json"
+  ],
+  "Dinali Peiris": [
+    "/tmp/news_lk2/articles/66/668a5481.json"
+  ],
+  "Supported Employment": [
+    "/tmp/news_lk2/articles/66/668a5481.json"
+  ],
+  "Inclusion": [
+    "/tmp/news_lk2/articles/66/668a5481.json"
+  ],
+  "AI": [
+    "/tmp/news_lk2/articles/2f/2ff27689.json"
+  ],
+  "Quality Engineering and Management": [
+    "/tmp/news_lk2/articles/2f/2ff27689.json"
+  ],
+  "SLASSCOM Quality Forum Advisory Board": [
+    "/tmp/news_lk2/articles/2f/2ff27689.json"
+  ],
+  "Quality Summit": [
+    "/tmp/news_lk2/articles/2f/2ff27689.json"
+  ],
+  "Quality Engineering": [
+    "/tmp/news_lk2/articles/2f/2ff27689.json"
+  ],
+  "HCL Technologies": [
+    "/tmp/news_lk2/articles/2f/2ff27689.json"
+  ],
+  "QA": [
+    "/tmp/news_lk2/articles/2f/2ff27689.json"
+  ],
+  "DevOps": [
+    "/tmp/news_lk2/articles/2f/2ff27689.json"
+  ],
+  "Tharindra Jayamaha": [
+    "/tmp/news_lk2/articles/2f/2ff27689.json"
+  ],
+  "Lean QE": [
+    "/tmp/news_lk2/articles/2f/2ff27689.json"
+  ],
+  "Peradeniya": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Colombo Uni": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Mervyn de Silva": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Reagan": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Greeks": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Rottweiler": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Naxalite": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "post-Hartal UNP": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Economist": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Presidential Secretariat": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/bf/bf59c47d.json"
+  ],
+  "Bandula Gunawardena": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "ILO": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Ranil\u2019s de-stabilising": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Central Bank Bond Scam": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Cambridge": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Revolutionary Students Union": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Texas Chainsaw Massacre": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Ceylon Daily News": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Neville Jayaweera\u2019s": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Deep": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "deep cuts": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "JVP Politbureau": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Vijaya": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Peradeniya University": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Ivor Jennings": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "RSU": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Thatcher": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Sri Lanka Insurance": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "KD Lal Kantha": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "a Guy Fawkes": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Vendetta": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Socialist Students Union": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "pre-Aragalaya": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Ancien Regime": [
+    "/tmp/news_lk2/articles/bf/bf15c110.json"
+  ],
+  "Hegel": [
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "French Revolution": [
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "North": [
+    "/tmp/news_lk2/articles/87/874d8261.json",
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Holy Alliance": [
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "Engels": [
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "Slavic": [
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "Dani Rodrik": [
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "Eric Hobsbawm": [
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "egalitarian": [
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "Concert of Europe": [
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "Italian": [
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "Prussia": [
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "Napoleonic Empire": [
+    "/tmp/news_lk2/articles/87/874d8261.json"
+  ],
+  "Grand Crystal Building": [
+    "/tmp/news_lk2/articles/4e/4ec43f4e.json"
+  ],
+  "Chamber of Commerce AGM": [
+    "/tmp/news_lk2/articles/4e/4ec43f4e.json",
+    "/tmp/news_lk2/articles/4e/4ec43f4e.json"
+  ],
+  "Gopal Baglay": [
+    "/tmp/news_lk2/articles/4e/4ec43f4e.json"
+  ],
+  "Expo Lanka Holdings PLC": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "SLID": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "Young Directors Forum": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "Leading Board": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "Sri Lanka Institute of Directors": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "Harsha Amarasekera": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "Chevron": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "Amaya Leisure PLC": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "Amana Bank PLC": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json",
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Colombo Stock Exchange": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "Board": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "Royal Ceramics PLC": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "Vallibel Power Erathna PLC": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "Taprobane Holdings PLC": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "CIC Holdings PLC": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "Lubricants Lanka PLC": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "Vallibel One PLC": [
+    "/tmp/news_lk2/articles/44/446ce5f7.json"
+  ],
+  "Ashroff Omar": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Platinum Realty Investments": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "FAO": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "John Keells Holdings PLC": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Policy Specialist": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Brandix Apparel Ltd": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json",
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Rathika de Silva": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Head - Legal": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Naresha Supramaniam": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Facility": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Mahesh Amalean": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "United Nations Global Compact Network Sri Lanka": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Secretarial Nadija Tambiah": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Daraz Sri Lanka": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Hirdaramani Group of Companies": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Mahesh Hirdaramani": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Sustainability Fazly Marikar": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Mark Surgenor": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Team": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Ceylon Biscuits Ltd Group": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Ravin Basnayake": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "HSBC Sri Lanka": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Hemas Holdings PLC": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Maldives Vimlendra Sharan": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Standard Chartered Bank CEO Sri Lanka/Head": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Tyeab Akbarally": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Hela Apparel Holdings Group": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Shea Wickramasinghe": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Ashok Pathirage": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Dilmah Ceylon Tea Company": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Food and Agriculture Organisation": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Hemas Holdings PLC Executive": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Dilanka Jinadasa": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "Indian Ocean Tsunami": [
+    "/tmp/news_lk2/articles/2a/2ae847b8.json"
+  ],
+  "BMZ": [
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "Multi-Donor Action": [
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "Lost Ingredients Lab: A platform for Sri Lankan": [
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "\u2018Support to Small and Medium Enterprises in": [
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "Internationale Zusammenarbeit": [
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "Organic Agriculture Sector": [
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "Deutsche Gesellschaft": [
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "Dilmah Tea": [
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "Dilhan C Fernando": [
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "Randhula de Silva": [
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "German Federal Ministry for Economic Cooperation and Development": [
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "Lost Ingredients Lab": [
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "MDA": [
+    "/tmp/news_lk2/articles/cd/cd2ae236.json"
+  ],
+  "Rambukkana": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Parisian": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "BLM": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Paris": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Minnesota": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Malian": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "George Floyd": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Millbank": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Saint Paul": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "George Floyd protest": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Chaminda Lakshman": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Floyd": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Derek Chauvin": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "North and East": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Educator": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Minneapolis": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Sky news channel": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Chandrika Bandaranaike": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Floyd\u2019s": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Tory": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Camilla": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Cornwall": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Keerthi Ratnayake": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Wimal Weerawansa": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Tunisian": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Chamuditha Samarawickrama": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Black Lives Matter": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Chicago Avenue": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Namal Kumara": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Operations": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Information and Communication Technology": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "David Cameron": [
+    "/tmp/news_lk2/articles/ba/ba681ed1.json"
+  ],
+  "Social Media": [
+    "/tmp/news_lk2/articles/bf/bf59c47d.json"
+  ],
+  "Beira Lake": [
+    "/tmp/news_lk2/articles/bf/bf59c47d.json"
+  ],
+  "Beira": [
+    "/tmp/news_lk2/articles/bf/bf59c47d.json"
+  ],
+  "Counsel": [
+    "/tmp/news_lk2/articles/bf/bf59c47d.json"
+  ],
+  "Magistrate": [
+    "/tmp/news_lk2/articles/bf/bf59c47d.json"
+  ],
+  "Section 365 A": [
+    "/tmp/news_lk2/articles/82/82c7ff4a.json"
+  ],
+  "Bill": [
+    "/tmp/news_lk2/articles/82/82c7ff4a.json"
+  ],
+  "LGBT": [
+    "/tmp/news_lk2/articles/82/82c7ff4a.json"
+  ],
+  "Institute of Politics Sanjeewa Wimalagunarathna": [
+    "/tmp/news_lk2/articles/82/82c7ff4a.json"
+  ],
+  "Podujana Peramuna MP Premnath C Dolawaththa": [
+    "/tmp/news_lk2/articles/82/82c7ff4a.json"
+  ],
+  "Mahinda Yapa Abeywardena": [
+    "/tmp/news_lk2/articles/82/82c7ff4a.json"
+  ],
+  "Akalanka Hettiarachchi": [
+    "/tmp/news_lk2/articles/82/82c7ff4a.json"
+  ],
+  "Law Aritha Wickramasinghe": [
+    "/tmp/news_lk2/articles/82/82c7ff4a.json"
+  ],
+  "Mangala Samaraweera": [
+    "/tmp/news_lk2/articles/82/82c7ff4a.json"
+  ],
+  "Samaraweera": [
+    "/tmp/news_lk2/articles/82/82c7ff4a.json"
+  ],
+  "Dolawaththa": [
+    "/tmp/news_lk2/articles/82/82c7ff4a.json"
+  ],
+  "Penal Code": [
+    "/tmp/news_lk2/articles/82/82c7ff4a.json"
+  ],
+  "National Fuel": [
+    "/tmp/news_lk2/articles/7a/7a07887a.json"
+  ],
+  "Super Diesel": [
+    "/tmp/news_lk2/articles/7a/7a07887a.json"
+  ],
+  "Terrorism Investigation Division": [
+    "/tmp/news_lk2/articles/ba/ba6116ed.json"
+  ],
+  "Indian Governments": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Maharashtra": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "C Deshmukh": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Orissa": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "South": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "UP": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Zakir Hussain": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Dalit Hindu": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Puti Biranchi Tudu": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Murmur": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Bharatiya Janata party": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Tamil Nadu": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Shankar Dayal Sharma": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "PV": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Jayalalitha Jayaram": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Mahrattas": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Godavari": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "united opposition": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Chaudhari Charan": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "a South Indian": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Radhakrishnan": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Atulya Ghosh": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Singh": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Kalam": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Bania": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "West Bengal": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "VP Singh": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Southern States": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Prasad": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Niyogi Brahmin": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Indian Lower": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Karnataka": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "a Republic": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Jawarhalal Nehru": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Kumar Gujral": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Rajaji": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Hussein": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "VV Giri": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "KR Narayanan": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Sikh": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Republican": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Giri": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Abdul Kalam": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Aadivaasi": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Richard Jayewardene": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Droupadi Murmu": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "P Narasimha Rao": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Upper": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Rajaji\u2019s Swathantra party": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "SK Patil": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "a North Indian Muslim": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Ali Ahmed": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Rajendra Prasad": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Venkatraman": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json",
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Rameshwaram": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Lal Bahadur Shastri": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Nehruvian": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Rajya Sabha": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "North Indian": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "DMK": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "BJP": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Communist": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "S Nijalingappa": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Mukherjee": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Yashwant Sinha": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Narendra Modi": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Janata": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Congress": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Telugu": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Narendra Modi Government": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Lok Sabha": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Rajiv Gandhi": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Incredible\u201d India": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Allahabad": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Sharma": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Indira Gandhi": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Kerala": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Prathiba Patil": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "a Tamil Brahmin": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "South Indian Radhakrishnan": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "N Sanjiva": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Shekhawat": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Dalit": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Indira married": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Urdu": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "non-Hindi": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Pranab Mukherjee": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Neelam Sanjiva Reddy": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Chandra Shekhar": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Nehru": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Kamaraj": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Manmohan Singh": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Rashtrapathy": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Kashmiri": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Bengali": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Zail Singh": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "another South Indian Deve Gowda": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Tamil Hindus": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Hindi": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Shastri": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Uttar Pradesh": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Andhra Pradesh": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "BR Ambedkar": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Rao": [
+    "/tmp/news_lk2/articles/c3/c3a998f7.json"
+  ],
+  "Markar": [
+    "/tmp/news_lk2/articles/03/036fd6d0.json"
+  ],
+  "Imthiaz Bakeer": [
+    "/tmp/news_lk2/articles/03/036fd6d0.json"
+  ],
+  "International Human Rights Organisations": [
+    "/tmp/news_lk2/articles/03/036fd6d0.json"
+  ],
+  "Indian Ocean": [
+    "/tmp/news_lk2/articles/65/65c7bf25.json"
+  ],
+  "AFP": [
+    "/tmp/news_lk2/articles/65/65c7bf25.json",
+    "/tmp/news_lk2/articles/c5/c5ac80b6.json",
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Port of Hambantota": [
+    "/tmp/news_lk2/articles/65/65c7bf25.json"
+  ],
+  "Jiangsu": [
+    "/tmp/news_lk2/articles/65/65c7bf25.json"
+  ],
+  "Jiangyin": [
+    "/tmp/news_lk2/articles/65/65c7bf25.json"
+  ],
+  "Qi Zhenhong": [
+    "/tmp/news_lk2/articles/65/65c7bf25.json"
+  ],
+  "Beijing": [
+    "/tmp/news_lk2/articles/65/65c7bf25.json"
+  ],
+  "GCE Advance Level": [
+    "/tmp/news_lk2/articles/92/9237b6e7.json"
+  ],
+  "Janakantha Silva": [
+    "/tmp/news_lk2/articles/92/9237b6e7.json"
+  ],
+  "Legislative Services": [
+    "/tmp/news_lk2/articles/92/9237b6e7.json"
+  ],
+  "Turkey": [
+    "/tmp/news_lk2/articles/92/9237b6e7.json"
+  ],
+  "Parliament of Sri Lanka": [
+    "/tmp/news_lk2/articles/92/9237b6e7.json"
+  ],
+  "Diploma": [
+    "/tmp/news_lk2/articles/92/9237b6e7.json"
+  ],
+  "Degree": [
+    "/tmp/news_lk2/articles/92/9237b6e7.json"
+  ],
+  "Tropical Life Ltd": [
+    "/tmp/news_lk2/articles/07/077b506e.json"
+  ],
+  "Kumar Mohanty": [
+    "/tmp/news_lk2/articles/07/077b506e.json"
+  ],
+  "Dhammika Gunasekara": [
+    "/tmp/news_lk2/articles/07/077b506e.json"
+  ],
+  "Sustainability": [
+    "/tmp/news_lk2/articles/07/077b506e.json"
+  ],
+  "PwC Netherlands Advisory": [
+    "/tmp/news_lk2/articles/07/077b506e.json"
+  ],
+  "Sri Lanka Food Processors\u2019 Association": [
+    "/tmp/news_lk2/articles/07/077b506e.json"
+  ],
+  "Sebastiaan Nijhuis": [
+    "/tmp/news_lk2/articles/07/077b506e.json"
+  ],
+  "Zahra Cader": [
+    "/tmp/news_lk2/articles/07/077b506e.json"
+  ],
+  "Anil Cooke": [
+    "/tmp/news_lk2/articles/07/077b506e.json"
+  ],
+  "Food and Beverage Industry\u2019": [
+    "/tmp/news_lk2/articles/07/077b506e.json"
+  ],
+  "S Jain": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "WYR Fernando": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "SG Sathasivam": [
+    "/tmp/news_lk2/articles/60/600c61b7.json",
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "Spices": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "Amana Bank": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "V Govindasamy": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "HD Abeywickrama": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "Akbar Brothers Group of Companies": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "ADB Talwatte": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "Sunshine Holdings Board": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "Akbar Brothers": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "Allied Products Producers\u2019": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "S Shishoo": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "Board of Sunshine Holdings PLC": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "Sunshine Holdings": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "Amal Cabraal": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "Amana Takaful PLC": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "Colombo Tea Traders Association": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "S Renganathan": [
+    "/tmp/news_lk2/articles/60/600c61b7.json"
+  ],
+  "South Asia Department": [
+    "/tmp/news_lk2/articles/95/95ca79f0.json"
+  ],
+  "Chen Chen": [
+    "/tmp/news_lk2/articles/95/95ca79f0.json"
+  ],
+  "Sabyasachi Mitra": [
+    "/tmp/news_lk2/articles/95/95ca79f0.json"
+  ],
+  "Financial Sector and Trade Division": [
+    "/tmp/news_lk2/articles/95/95ca79f0.json"
+  ],
+  "Southeast Asia": [
+    "/tmp/news_lk2/articles/95/95ca79f0.json"
+  ],
+  "Training": [
+    "/tmp/news_lk2/articles/95/95ca79f0.json"
+  ],
+  "Sri Lanka Resident Mission": [
+    "/tmp/news_lk2/articles/95/95ca79f0.json"
+  ],
+  "Director of Public Management": [
+    "/tmp/news_lk2/articles/95/95ca79f0.json"
+  ],
+  "TVET": [
+    "/tmp/news_lk2/articles/95/95ca79f0.json"
+  ],
+  "WA Wijewardene": [
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "Premachandra Athukorala": [
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "J\u2019apura Uni": [
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "University of Sri Jayewardenepura": [
+    "/tmp/news_lk2/articles/43/430e620d.json",
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Commerce": [
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "Dushni Weerakoon": [
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "Indrajit Coomaraswamy": [
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "BEC Economic Forum": [
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "Faculty of Management Studies": [
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "Institute of Policy Studies Executive": [
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "Department of Business Economics": [
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "Nisthar Cassim": [
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "Confronting Economic and Political Crisis in Sri Lanka: Priorities for Transformation": [
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "Research Centre for Business Economics and Development Studies": [
+    "/tmp/news_lk2/articles/43/430e620d.json"
+  ],
+  "Ahilan Kadirgamar": [
+    "/tmp/news_lk2/articles/c5/c5ac80b6.json"
+  ],
+  "Great Depression of 1930s": [
+    "/tmp/news_lk2/articles/c5/c5ac80b6.json"
+  ],
+  "Devaka Gunawardena": [
+    "/tmp/news_lk2/articles/c5/c5ac80b6.json"
+  ],
+  "University of Jaffna": [
+    "/tmp/news_lk2/articles/c5/c5ac80b6.json",
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Bang": [
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json"
+  ],
+  "Mozambique": [
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json"
+  ],
+  "Office of United Nations": [
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json"
+  ],
+  "Office of High Commissioner": [
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json"
+  ],
+  "Sheep": [
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json"
+  ],
+  "Peaceful Assembly": [
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json"
+  ],
+  "Special Rapporteur": [
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json"
+  ],
+  "Auditor General": [
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json"
+  ],
+  "Wolf": [
+    "/tmp/news_lk2/articles/8f/8f85bfc8.json"
+  ],
+  "Julian Bolling": [
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "Gota-Ranil": [
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "WWII": [
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "Olympians": [
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "Napoleon": [
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "Hawkers": [
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "Old Major": [
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "Antharaya": [
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "\u2018Antharay\u2019": [
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "Michelangelo": [
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "democrat": [
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "CCC": [
+    "/tmp/news_lk2/articles/a6/a628ed6c.json"
+  ],
+  "Elected by People": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Caritas": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Yahapalanaya Government": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "K Nihal Ahamed \u2013 Social and Environment Activist": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Sasanka Perera": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Pohottuwa Cabinet and Government": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Rohan Silva": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Princeton University": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Citizens Movement for Good Governance": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "DC Ambalavanar": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "kerella": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Aruna\u00a0 Shantha Nonis": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Precedent Partner and Country Head KPMG": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "International Centre for Ethnic Studies": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "St Thomas\u2019 Preparatory School": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Niroshan de Mel": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Andrew Devadason": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Chamber of Parliament": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Law": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Centre for Society and Religion": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "G Usvatte": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "University of Exeter": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Puttalam Pradeshiya Sabha": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Hemamali Perera": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Chandra Jayaratne": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "State of Emergency": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Institute of Social Development": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "premises": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "All-Party Interim": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Rajan Asirwathan": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "New York City": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Sudarshani Coonghe": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Sandun Thudugala": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Ranil Abayasekara": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Diocese of Colombo": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "KJ Brito Fernando": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "AC Visvalingam": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Bisliya Bhutto": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Mario Gomez": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "People (Article 4": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Yohesan Casiechetty": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Aragalaya Peoples\u2019 Movement": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Harendra de Silva - Emeritus": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Programmes": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Janodaanya": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Janawaboda Kendraya": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Upward Breathing": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Commissions": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Pohottuwa Parliamentarians": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Farah Mihlar": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Saman Kapila": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Articles 3": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Society Trust": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Ashila Niroshine Dandeniya": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Bond": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Arjuna Aluwihare": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Savitri Goonesekere": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Families": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Stand Up Movement": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Clergy": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Kollupitiya": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Pohottuwa Government": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Katugastota": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Mellawa": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Constitution Article 4": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Ranjini Obeyesekere": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Sakuntala Kadirgamar": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Anglican Church": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Easter Sunday Victims": [
+    "/tmp/news_lk2/articles/8a/8a26c5c9.json"
+  ],
+  "Convention Center of Las Vegas \u2013": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "US Department of Commerce": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Sarasavi Exports": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Colmans Garments Industries": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Los Angeles": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Joint Apparel Association Forum": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Commercial Law Development Programme": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "JK Garments": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Counsellor": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Magic Las Vegas": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json",
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Lucky Industries": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Consulate General": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Anil Sirimanna": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Haward Fashion": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Las Vegas": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Nevada": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Consulate General of Sri Lanka": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Jia Moda": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Queens Work Wear": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Department of Commerce of Sri Lanka": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Sri Lanka Export Development Board": [
+    "/tmp/news_lk2/articles/ec/ecab6fdd.json"
+  ],
+  "Delmege Forsyth": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Malaysian Institute of Human Resource Management": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "PIM": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Lankem (Ceylon) Ltd": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "WNS": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Brandix": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Waters Edge Ltd": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "CIPM SL": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Bachelor of Arts": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Vijayakumar": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Keells Plantations": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Boardroom": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Lanka Equities": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Government of Sri Lanka": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "FMCG": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Watawala Plantations": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Regional Head": [
+    "/tmp/news_lk2/articles/37/3727b455.json"
+  ],
+  "Hitler": [
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "IUSF Bhikshu Council": [
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Union Place": [
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Colombo Additional Magistrate TN Ilangasinghe": [
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Anti-Riot Unit": [
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Union of Young Journalists": [
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Human Rights Commission": [
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Hashantha Jawanthu Gunathilake": [
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "National Bhikshu Peramuna": [
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ],
+  "Galvewa": [
+    "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  ]
+}

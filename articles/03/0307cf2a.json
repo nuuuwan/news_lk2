@@ -1,0 +1,390 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/08/31/12-more-arrests-for-9th-may-violence/",
+  "time_ut": 1661932320,
+  "original_lang": "en",
+  "original_title": "12 more arrests for 9th May violence",
+  "text_idx": {
+    "en": {
+      "title": "12 more arrests for 9th May violence",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st); Sri Lanka Police arrested 12 more suspects in connection to the violence that broke out on the 9th of May 2022.",
+        "04 suspects were arrested by the Kegalle police in connection with the attack on the residence and office of parliamentarian Tharaka Balasuriya in Kegalle.",
+        "A 58-year-old suspect was arrested in connection with the attacks on the residences of Parliamentarians Rohitha Abeygunawardena and Johnston Fernando.",
+        "Two residents of Mahawa and Kahatagasdigiliya areas were arrested in connection with an incident of assaulting the Chairman of the Elahera Pradeshiya Sabha.",
+        "Another suspect was arrested for damaging the residence of MP Vidura Wickramanayake, while one suspect was arrested for causing damages to the residences of Arundhika Fernando, and the Chairperson of the Mahara Pradeshiya Sabha.",
+        "One-month-old infant abandoned at a motor garage with a letter",
+        "Are you a victim of Cyber Crime? Police Unit ready to crackdown crime in the cyberspace"
+      ],
+      "title_ents": [
+        {
+          "text": "12",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "May",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "Sri Lanka Police",
+            "label": "ORG"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "9th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "May 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "04",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Kegalle",
+            "label": "GPE"
+          },
+          {
+            "text": "Tharaka Balasuriya",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kegalle",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "58-year-old",
+            "label": "DATE"
+          },
+          {
+            "text": "Parliamentarians",
+            "label": "NORP"
+          },
+          {
+            "text": "Rohitha Abeygunawardena",
+            "label": "PERSON"
+          },
+          {
+            "text": "Johnston Fernando",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Mahawa",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kahatagasdigiliya",
+            "label": "GPE"
+          },
+          {
+            "text": "the Elahera Pradeshiya Sabha",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Vidura Wickramanayake",
+            "label": "PERSON"
+          },
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Fernando",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "One-month-old",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Cyber Crime",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0db8\u0dd0\u0dba\u0dd2 9 \u0db4\u0dca\u200d\u0dbb\u0da0\u0dab\u0dca\u0da9\u0dad\u0dca\u0dc0\u0dba\u0da7 \u0dad\u0dc0\u0dad\u0dca 12\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); 2022 \u0db8\u0dd0\u0dba\u0dd2 9 \u0dc0\u0db1 \u0daf\u0dd2\u0db1 \u0d87\u0dad\u0dd2 \u0dc0\u0dd6 \u0db4\u0dca\u200d\u0dbb\u0da0\u0dab\u0dca\u0da9\u0dad\u0dca\u0dc0\u0dba\u0da7 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0dad\u0dc0\u0dad\u0dca \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca 12 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0dbd\u0daf\u0dd3.",
+        "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0dad\u0dcf\u0dbb\u0d9a \u0db6\u0dcf\u0dbd\u0dc3\u0dd6\u0dbb\u0dd2\u0dba\u0d9c\u0dda \u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd\u0dda \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0db1\u0dd2\u0dc0\u0dc3\u0da7 \u0dc3\u0dc4 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8\u0dda \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca 04 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd9\u0db1 \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf.",
+        "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0dc0\u0db1 \u0dbb\u0ddd\u0dc4\u0dd2\u0dad \u0d85\u0db6\u0dda\u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dc3\u0dc4 \u0da2\u0ddc\u0db1\u0dca\u0dc3\u0dca\u0da7\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4 \u0dba\u0db1 \u0d85\u0dba\u0d9c\u0dda \u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0dca\u0dc0\u0dbd\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8\u0dda \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca 58 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2 \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd9\u0db1 \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf.",
+        "\u0d87\u0dbd\u0dc4\u0dd0\u0dbb \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dc3\u0db7\u0dcf\u0dc0\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8\u0dda \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dc4\u0dc0 \u0dc3\u0dc4 \u0d9a\u0dc4\u0da7\u0d9c\u0dc3\u0dca\u0daf\u0dd2\u0d9c\u0dd2\u0dbd\u0dd2\u0dba \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd \u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd9\u0db1 \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf.",
+        "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0dc0\u0dd2\u0daf\u0dd4\u0dbb \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dad\u0dcf\u0d9c\u0dda \u0db1\u0dd2\u0dc0\u0dc3\u0da7 \u0d85\u0dbd\u0dcf\u0db7\u0dc4\u0dcf\u0db1\u0dd2 \u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd9\u0db1 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0d85\u0dbb\u0dd4\u0db1\u0dca\u0daf\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4 \u0dc3\u0dc4 \u0db8\u0dc4\u0dbb \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dc3\u0db7\u0dcf\u0dc0\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0db1\u0dd2\u0dba\u0d9c\u0dda \u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0dca\u0dc0\u0dbd\u0da7 \u0d85\u0dbd\u0dcf\u0db7 \u0dc4\u0dcf\u0db1\u0dd2 \u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0d91\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd9\u0db1 \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf.",
+        "\u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae \u0d9c\u0dbb\u0dcf\u0da2\u0dba\u0d9a \u0daf\u0db8\u0dcf \u0d9c\u0dd2\u0dba \u0db8\u0dcf\u0dc3\u0dba\u0d9a\u0dca \u0dc0\u0dba\u0dc3\u0dd0\u0dad\u0dd2 \u0dc5\u0daf\u0dbb\u0dd4\u0dc0\u0dcf",
+        "\u0d94\u0db6 \u0dc3\u0dba\u0dd2\u0db6\u0dbb\u0dca \u0d85\u0db4\u0dbb\u0dcf\u0db0\u0dba\u0da7 \u0d9c\u0ddc\u0daf\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd6\u0dc0\u0dd9\u0d9a\u0dca\u0daf? \u0dc3\u0dba\u0dd2\u0db6\u0dbb\u0dca \u0d85\u0dc0\u0d9a\u0dcf\u0dc1\u0dba\u0dda \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0db1 \u0d85\u0db4\u0dbb\u0dcf\u0db0 \u0db8\u0dbb\u0dca\u0daf\u0db1\u0dba\u0da7 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0d92\u0d9a\u0d9a\u0dba \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca"
+      ],
+      "title_ents": [
+        {
+          "text": "12",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0db8\u0dd0\u0dba\u0dd2",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "9 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "2022 \u0db8\u0dd0\u0dba\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "04",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dad\u0dcf\u0dbb\u0d9a \u0db6\u0dcf\u0dbd\u0dc3\u0dd6\u0dbb\u0dd2\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "58 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dbb\u0ddd\u0dc4\u0dd2\u0dad \u0d85\u0db6\u0dda\u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da2\u0ddc\u0db1\u0dca\u0dc3\u0dca\u0da7\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dc4\u0dc0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dc4\u0da7\u0d9c\u0dc3\u0dca\u0daf\u0dd2\u0d9c\u0dd2\u0dbd\u0dd2\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d87\u0dbd\u0dc4\u0dd0\u0dbb \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbb \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dcf\u0dc3\u0dba\u0d9a\u0dca \u0dc0\u0dba\u0dc3\u0dd0\u0dad\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dba\u0dd2\u0db6\u0dbb\u0dca \u0d85\u0db4\u0dbb\u0dcf\u0db0",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bae\u0bc7 9 \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 12 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); 2022 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc7 \u0bae\u0bbe\u0ba4\u0bae\u0bcd 9 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0b9a\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1\u0b9f\u0bc8\u0baf \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 12 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0ba8\u0bbe\u0b9f\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0ba4\u0bbe\u0bb0\u0b95 \u0baa\u0bbe\u0bb2\u0b9a\u0bc2\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bc7\u0b95\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc0\u0b9f\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd 04 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc7\u0b95\u0bbe\u0bb2\u0bc8 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbe\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0ba9 \u0bb0\u0bcb\u0bb9\u0bbf\u0ba4 \u0b85\u0baa\u0bc7\u0b95\u0bc1\u0ba3\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9c\u0bcb\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd 58 \u0bb5\u0baf\u0ba4\u0bc1\u0b9f\u0bc8\u0baf \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b8e\u0bb2\u0bb9\u0bc6\u0bb0 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bae\u0bb9\u0bb5 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bb9\u0b9f\u0bcd\u0b9f\u0b95\u0bb8\u0bcd\u0ba4\u0bbf\u0b95\u0bbf\u0bb2\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0bb5\u0bbf\u0ba4\u0bc1\u0bb0 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc7\u0ba4\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0baa\u0bc7\u0bb0\u0bbf\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd, \u0bae\u0bb9\u0bb0 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb5\u0bbf\u0b9a\u0bbe\u0bb3\u0bb0\u0bcd \u0b85\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bbe \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc7\u0ba4\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b95\u0b9f\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b95\u0bc7\u0bb0\u0bc7\u0b9c\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0bb5\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b92\u0bb0\u0bc1 \u0bae\u0bbe\u0ba4 \u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8",
+        "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc8\u0baa\u0bb0\u0bcd \u0b95\u0bbf\u0bb0\u0bc8\u0bae\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bbe? \u0b9a\u0bc8\u0baa\u0bb0\u0bcd\u0bb8\u0bcd\u0baa\u0bc7\u0bb8\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b92\u0b9f\u0bc1\u0b95\u0bcd\u0b95 \u0baa\u0bcb\u0bb2\u0bc0\u0bb8\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 \u0ba4\u0baf\u0bbe\u0bb0\u0bcd"
+      ],
+      "title_ents": [
+        {
+          "text": "12",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0bae\u0bc7",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "9\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc7 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "04",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0b95\u0bbe\u0bb2\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba4\u0bbe\u0bb0\u0b95 \u0baa\u0bbe\u0bb2\u0b9a\u0bc2\u0bb0\u0bbf\u0baf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0b95\u0bbe\u0bb2\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "58 \u0bb5\u0baf\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0bb0\u0bcb\u0bb9\u0bbf\u0ba4 \u0b85\u0baa\u0bc7\u0b95\u0bc1\u0ba3\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9c\u0bcb\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bb9\u0bbe\u0bb5\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bb9\u0b9f\u0b95\u0bb8\u0bcd\u0ba4\u0bbf\u0b95\u0bbf\u0bb2\u0bbf\u0baf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8e\u0bb2\u0bb9\u0bc6\u0bb0 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bbf\u0ba4\u0bc1\u0bb0 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bae\u0bbe\u0ba4 \u0bb5\u0baf\u0ba4\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc8\u0baa\u0bb0\u0bcd",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
