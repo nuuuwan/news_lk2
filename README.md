@@ -1,56 +1,56 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-01 18:50:01 (LK time)*
+*As of 2022-09-01 19:06:32 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **2** lankadeepa-lk ([ආයෝජකයන් ආරක්ෂා කරන්න ජනපතිගෙන් කාර්ය සාධක බලකා 08ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/341109af.json))
+* **2** lankadeepa-lk ([කිලෝ 198ක කුඩු නඩුව විභාගයට ත්‍රිපුද්ල විනිසුරු මඩුල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e635bfc4.json))
 
-* **2** daily-mirror-lk ([Luxury vehicle crashes into filling station](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73a05392.json))
+* **1** tamil-mirror-lk ([குளிர்சாதனப்பெட்டியை திறந்த போது மின்சாரம் தாக்கி தாய் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fb6cab5.json))
 
-* **1** ada-derana-lk ([President appoints 8 task forces to secure investors](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7bbafe73.json))
-
-* **1** news-first-lk ([SJBs Hesha credits CBSL Governor for IMF agreement; Slams Govt for trying to take credit](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2ec90c8d.json))
+* **1** news-first-lk ([NO Fuel Price Revision today (1)](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7454e6d.json))
 
 ## Last Hour (13 Articles)
 
-* **5** lankadeepa-lk ([දෙව්දත් පුතු පියා මරා මවට ගහලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e299b12.json))
+* **4** lankadeepa-lk ([කළුතර නිවාස නිලධාරීන් පිරිසක් අහිංසකයන්ගේ මුදල්වලට විදලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffdd8b19.json))
 
-* **4** daily-mirror-lk ([IMF concludes mission](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/182b7067.json))
+* **4** news-first-lk ([President appoints 08 task forces to secure investors](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91e0b8bf.json))
 
-* **2** ada-derana-lk ([NDCU initiates dengue prevention program](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d477a56c.json))
+* **3** daily-mirror-lk ([No changes to fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05f31b69.json))
 
-* **2** news-first-lk ([President appoints 08 task forces to secure investors](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91e0b8bf.json))
+* **1** tamil-mirror-lk ([குளிர்சாதனப்பெட்டியை திறந்த போது மின்சாரம் தாக்கி தாய் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fb6cab5.json))
 
-## Last 3 Hours (39 Articles)
+* **1** ada-derana-lk ([President appoints 8 task forces to secure investors](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7bbafe73.json))
 
-* **15** lankadeepa-lk ([ලංකාවේ පළමු තැපැත්පත නිකුත් කර වසර 150ක් පිරීමට සමරු තැපැල්පතක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d986fc6c.json))
+## Last 3 Hours (38 Articles)
 
-* **7** daily-mirror-lk ([GR to return back to SL on Saturday](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6ba3a557.json))
+* **12** lankadeepa-lk ([දුමින්ද‌ට එරෙහි පෙත්සම් විභාගයෙන් විනිසුරුවරයෙක් ඉවත් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8db8480c.json))
+
+* **6** news-first-lk ([Sri Lanka needs government with mandate to carry out reforms – IMF Mission Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/029fc3e0.json))
+
+* **6** daily-mirror-lk ([Govt. plotting to weaken armed forces: SF](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/100e8ae6.json))
+
+* **5** tamil-mirror-lk ([இன்று எரிபொருள் விலை குறையுமா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1762d7d.json))
 
 * **4** ada-derana-lk ([Gotabaya to return to Sri Lanka on Sep 02: sources](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db72b41a.json))
-
-* **4** news-first-lk ([Sri Lanka needs government with mandate to carry out reforms – IMF Mission Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/029fc3e0.json))
-
-* **4** tamil-mirror-lk ([இன்று எரிபொருள் விலை குறையுமா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1762d7d.json))
 
 * **3** ada-lk ([නාලක ගොඩහේවාගේ නම කපලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f821637f.json))
 
 * **2** economy-next-com ([Sri Lanka stocks end at 5-month high after IMF deal announcement](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a19758f6.json))
 
-## Last 24 Hours (207 Articles)
+## Last 24 Hours (210 Articles)
 
-* **43** lankadeepa-lk ([ආසියානු සංවර්ධන බැංකුවෙන් ඩොලර් මිලියන 200 ක මූල්‍ය සහායක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad382385.json))
+* **43** lankadeepa-lk ([බළපිටියේ වෙඩි තැබීමක්:තරුණයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a53faf06.json))
 
 * **32** daily-mirror-lk ([Another shooting in Ambalangoda kills one](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e71dc28c.json))
 
-* **28** tamil-mirror-lk ([பல மாவட்டங்களுக்கு  எச்சரிக்கை விடுப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/0972f780.json))
+* **29** tamil-mirror-lk ([பல மாவட்டங்களுக்கு  எச்சரிக்கை விடுப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/0972f780.json))
 
 * **28** ada-lk ([ඩොලර් එවන අයට විදුලි වාහනයක් ගේන්න චක්‍ර ලේඛය නිකුත් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7040ec1.json))
 
-* **25** news-first-lk ([BASL President says PTA needs to be amended](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7435cf7c.json))
+* **27** news-first-lk ([BASL President says PTA needs to be amended](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7435cf7c.json))
 
 * **19** ada-derana-lk ([Youth shot dead in Ambalangoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65f8909d.json))
 
@@ -62,9 +62,9 @@
 
 * **2** colombo-telegraph-com ([Jaffna’s Municipality Loses Japanese Grant Of 4 Compactors & Associated Duty-Grant](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec180de6.json))
 
-## Last Week (479 Articles)
+## Last Week (483 Articles)
 
-* **69** lankadeepa-lk ([ජීවන බර අඩු කිරීමට ජනතාවට සහන සලසනු](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6482c98.json))
+* **70** lankadeepa-lk ([ජීවන බර අඩු කිරීමට ජනතාවට සහන සලසනු](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6482c98.json))
 
 * **68** daily-mirror-lk ([India urges its citizens to examine relevant factors before undertaking visit to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de15b358.json))
 
@@ -74,9 +74,9 @@
 
 * **50** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
 
-* **42** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
+* **43** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
-* **40** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **42** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **38** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
@@ -86,9 +86,9 @@
 
 * **12** colombo-telegraph-com ([Taking Dictatorial Steps To Control Public Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/841810c5.json))
 
-## All Time (765 Articles)
+## All Time (769 Articles)
 
-* **128** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **129** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **110** d-b-s-jeyaraj-com ([The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f93260b.json))
 
@@ -100,9 +100,9 @@
 
 * **50** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
 
-* **43** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **44** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
-* **40** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **42** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **38** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
