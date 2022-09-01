@@ -1,11 +1,123 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Its-time-to-show-SL-bowlers-batters-who-they-are-Mahela/108-244119",
+    "time_ut": 1662008467,
+    "original_lang": "en",
+    "original_title": "It\u2019s time to show SL bowlers, batters who they are: Mahela",
+    "file_name": "/tmp/news_lk2/articles/90/9000587f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/01/imf-sri-lanka-reaches-staff-level-of-about-us-2-9-bn/",
+    "time_ut": 1662008460,
+    "original_lang": "en",
+    "original_title": "IMF \u2013 Sri Lanka reaches staff-level of about US$2.9 bn",
+    "file_name": "/tmp/news_lk2/articles/24/24714b0d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/01/jeyaraj-murder-case-former-sp-ex-ltte-cadre-acquitted-and-released/",
+    "time_ut": 1662008160,
+    "original_lang": "en",
+    "original_title": "Jeyaraj Murder Case: Former SP & Ex-LTTE cadre acquitted and released",
+    "file_name": "/tmp/news_lk2/articles/64/64e4ae6a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Expediting-Arbitration-Rules/110-244117",
+    "time_ut": 1662007302,
+    "original_lang": "en",
+    "original_title": "Expediting Arbitration Rules",
+    "file_name": "/tmp/news_lk2/articles/e0/e0a44c89.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/01/chinese-fertilizer-attorney-general-advises-on-recovering-losses/",
+    "time_ut": 1662007080,
+    "original_lang": "en",
+    "original_title": "Chinese Fertilizer: Attorney General advises on recovering losses",
+    "file_name": "/tmp/news_lk2/articles/ea/ea6d4925.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/01/jacqueline-fernandez-knew-of-conman-s-cases-enjoyed-gifts-probe-agency/",
+    "time_ut": 1662005580,
+    "original_lang": "en",
+    "original_title": "Jacqueline Fernandez Knew Of Conman\u2019s Cases, Enjoyed Gifts: Probe Agency",
+    "file_name": "/tmp/news_lk2/articles/6f/6f42bcc0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Conman-bought-house-for-Jacqueline-Fernandez-in-Sri-Lanka/108-244114",
+    "time_ut": 1662004874,
+    "original_lang": "en",
+    "original_title": "Conman bought house for Jacqueline Fernandez in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/c1/c1866dce.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/01/heavy-rains-expected-today-1/",
+    "time_ut": 1662004500,
+    "original_lang": "en",
+    "original_title": "Heavy rains expected today (1)",
+    "file_name": "/tmp/news_lk2/articles/da/daae34cc.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/01/criminal-gang-feud-26-people-gunned-down-in-three-months/",
+    "time_ut": 1662004260,
+    "original_lang": "en",
+    "original_title": "Criminal Gang Feud: 26 people gunned down in three months",
+    "file_name": "/tmp/news_lk2/articles/91/9109ebf7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84679/day-two-of-parliamentary-debate-on-interim-budget-speech-today",
+    "time_ut": 1662004080,
+    "original_lang": "en",
+    "original_title": "Day two of parliamentary debate on interim budget speech today",
+    "file_name": "/tmp/news_lk2/articles/31/31aa5db4.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84678/wfp-says-three-in-10-sri-lankans-are-food-insecure",
+    "time_ut": 1662003120,
+    "original_lang": "en",
+    "original_title": "WFP says three in 10 Sri Lankans are food insecure",
+    "file_name": "/tmp/news_lk2/articles/fe/feb5f1cc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Circular-permitting-migrant-workers-to-import-electric-vehicles-issued/108-244106",
+    "time_ut": 1662002166,
+    "original_lang": "en",
+    "original_title": "Circular permitting migrant workers to import electric vehicles issued",
+    "file_name": "/tmp/news_lk2/articles/de/de85be1e.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0db4\u0dc4\u0dc5-\u0dc0\u0dcf\u0dba\u0dd4\u0d9c\u0ddd\u0dbd\u0dba\u0dda-\u0d9a\u0dd0\u0dc5\u0db9\u0dd3\u0db8-\u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca/11-396796",
     "time_ut": 1662002065,
     "original_lang": "si",
     "original_title": "\u0db4\u0dc4\u0dc5 \u0dc0\u0dcf\u0dba\u0dd4\u0d9c\u0ddd\u0dbd\u0dba\u0dda \u0d9a\u0dd0\u0dc5\u0db9\u0dd3\u0db8 \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca",
     "file_name": "/tmp/news_lk2/articles/16/1684fba3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-transporting-over-5-tonnes-of-stale-fish-in-lorry-arrested-in-Negombo/108-244102",
+    "time_ut": 1662001789,
+    "original_lang": "en",
+    "original_title": "Man transporting over 5 tonnes of stale fish in lorry arrested in Negombo",
+    "file_name": "/tmp/news_lk2/articles/27/279631af.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Heavy-rains-four-sluice-gates-of-Deduru-Oya-opened-Irrigation-Dept/342-244101",
+    "time_ut": 1662001626,
+    "original_lang": "en",
+    "original_title": "Heavy rains; four sluice gates of Deduru Oya opened: Irrigation Dept.",
+    "file_name": "/tmp/news_lk2/articles/fb/fb4d26f2.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -22,6 +134,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka price control agency issues stock ceiling orders",
     "file_name": "/tmp/news_lk2/articles/93/93c888ee.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84677/five-provinces-including-western-to-receive-fairly-heavy-rainfall-today",
+    "time_ut": 1661997480,
+    "original_lang": "en",
+    "original_title": "Five provinces including Western to receive fairly heavy rainfall today",
+    "file_name": "/tmp/news_lk2/articles/45/45490a5a.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -62,6 +182,46 @@
     "original_lang": "en",
     "original_title": "G.L. calls on Govt. to urgently revise HS classification codes",
     "file_name": "/tmp/news_lk2/articles/21/21949947.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Colombo-inflation-surges-to-64-3-in-August/342-244099",
+    "time_ut": 1661975006,
+    "original_lang": "en",
+    "original_title": "Colombo inflation surges to 64.3% in August",
+    "file_name": "/tmp/news_lk2/articles/cf/cfb10beb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Colombo-Lotus-Tower-to-open-doors-to-public-on-September-15/108-244098",
+    "time_ut": 1661974959,
+    "original_lang": "en",
+    "original_title": "Colombo Lotus Tower to open doors to public on September 15",
+    "file_name": "/tmp/news_lk2/articles/49/49fe447a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/SriLankan-Airlines-celebrates-43-years-of-flying/342-244091",
+    "time_ut": 1661974300,
+    "original_lang": "en",
+    "original_title": "SriLankan Airlines celebrates 43 years of flying",
+    "file_name": "/tmp/news_lk2/articles/ee/eee848f2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/In-remembrance-of-Mikhail-Gorbachev/172-244084",
+    "time_ut": 1661972929,
+    "original_lang": "en",
+    "original_title": "In remembrance of Mikhail Gorbachev",
+    "file_name": "/tmp/news_lk2/articles/6a/6a9b32f9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Julie-Chung-and-fire-hoses-of-falsehoods/172-244083",
+    "time_ut": 1661972867,
+    "original_lang": "en",
+    "original_title": "Julie Chung  and fire hoses  of falsehoods",
+    "file_name": "/tmp/news_lk2/articles/46/46d5ac44.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -160,6 +320,14 @@
     "file_name": "/tmp/news_lk2/articles/ae/aecb089e.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Donation-from-Uber-Lanka-to-Red-Cross-Society/110-244081",
+    "time_ut": 1661963025,
+    "original_lang": "en",
+    "original_title": "Donation from Uber Lanka to Red Cross Society",
+    "file_name": "/tmp/news_lk2/articles/3d/3da8a6d5.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/31/one-month-old-infant-abandoned-at-a-motor-garage-with-a-letter/",
     "time_ut": 1661962860,
@@ -216,6 +384,14 @@
     "file_name": "/tmp/news_lk2/articles/8d/8dc08023.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/NIMHs-Mental-Health-Helpline-via-WhatsApp/110-244080",
+    "time_ut": 1661961581,
+    "original_lang": "en",
+    "original_title": "NIMH\u2019s Mental Health Helpline via WhatsApp",
+    "file_name": "/tmp/news_lk2/articles/66/662e2974.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84674/youth-shot-dead-in-ambalangoda",
     "time_ut": 1661961360,
@@ -238,6 +414,22 @@
     "original_lang": "en",
     "original_title": "Police suspect drug feud as motive for Balapitiya murder",
     "file_name": "/tmp/news_lk2/articles/4e/4e5f6ef6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/65th-Malaysia-National-Day-celebrated/110-244079",
+    "time_ut": 1661959296,
+    "original_lang": "en",
+    "original_title": "65th Malaysia National Day celebrated",
+    "file_name": "/tmp/news_lk2/articles/a7/a71de869.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Another-shooting-in-Ambalangoda-kills-one/108-244078",
+    "time_ut": 1661959036,
+    "original_lang": "en",
+    "original_title": "Another shooting in Ambalangoda kills one",
+    "file_name": "/tmp/news_lk2/articles/e7/e71dc28c.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -320,6 +512,14 @@
     "file_name": "/tmp/news_lk2/articles/8d/8db69957.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84673/two-accused-of-stealing-from-temple-trees-further-remanded",
+    "time_ut": 1661950800,
+    "original_lang": "en",
+    "original_title": "Two accused of stealing from Temple Trees further remanded",
+    "file_name": "/tmp/news_lk2/articles/79/7910e4ae.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/31/iusf-goes-to-hrcsl-over-arrests/",
     "time_ut": 1661950620,
@@ -336,6 +536,30 @@
     "file_name": "/tmp/news_lk2/articles/05/05351b6f.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84672/amber-flood-warning-for-low-lying-areas-of-kalu-river",
+    "time_ut": 1661950140,
+    "original_lang": "en",
+    "original_title": "\u2018Amber\u2019 flood warning for low-lying areas of Kalu River",
+    "file_name": "/tmp/news_lk2/articles/f9/f9ad468f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Applications-will-not-be-accepted-after-Sept-2-for-intermediate-grades-Ministry/342-244077",
+    "time_ut": 1661949344,
+    "original_lang": "en",
+    "original_title": "Applications will not be accepted after Sept. 2 for intermediate grades: Ministry",
+    "file_name": "/tmp/news_lk2/articles/35/3516e0ef.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84671/supreme-court-informed-of-govts-policy-decision-on-death-penalty",
+    "time_ut": 1661949240,
+    "original_lang": "en",
+    "original_title": "Supreme Court informed of govt\u2019s policy decision on death penalty",
+    "file_name": "/tmp/news_lk2/articles/a4/a458e03a.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0da2\u0dad\u0dd2\u0d9a-\u0db4\u0dcf\u0dc3\u0dbd\u0dca\u0dc0\u0dbd-\u0d85\u0dad\u0dbb---\u0db8\u0dd0\u0daf-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2-\u0dc3\u0daf\u0dc4\u0dcf-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-\u0d87\u0dad\u0dd4\u0dbd\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda-\u0d9a\u0dcf\u0dbd\u0dba-2\u0daf\u0dcf-\u0d85\u0dc0\u0dc3\u0db1\u0dca/11-396789",
     "time_ut": 1661949099,
@@ -350,6 +574,14 @@
     "original_lang": "si",
     "original_title": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dca 35\u0d9a\u0dca \u0dc3\u0dd3\u0dbb\u0dd4\u0dc0\u0dd9\u0db1\u0dca",
     "file_name": "/tmp/news_lk2/articles/56/5617d840.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84670/education-ministry-issues-special-notice-on-school-holidays",
+    "time_ut": 1661947500,
+    "original_lang": "en",
+    "original_title": "Education Ministry issues special notice on school holidays",
+    "file_name": "/tmp/news_lk2/articles/28/289e6f13.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -376,6 +608,14 @@
     "file_name": "/tmp/news_lk2/articles/7c/7c0ae2cb.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84669/adb-approves-200-million-loan-to-mitigate-sri-lankas-food-crisis",
+    "time_ut": 1661946000,
+    "original_lang": "en",
+    "original_title": "ADB approves $200 million loan to mitigate Sri Lanka\u2019s food crisis",
+    "file_name": "/tmp/news_lk2/articles/39/39f49e2d.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/31/adb-approves-200-million-loan-to-mitigate-sri-lanka-food-crisis/",
     "time_ut": 1661946000,
@@ -390,6 +630,22 @@
     "original_lang": "en",
     "original_title": "IUSF activists will not be charged under PTA \u2013 PM",
     "file_name": "/tmp/news_lk2/articles/a8/a8887838.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Daham-Sirisena-appointed-Polonnaruwa-West-SLFP-organiser/342-244075",
+    "time_ut": 1661944474,
+    "original_lang": "en",
+    "original_title": "Daham Sirisena appointed Polonnaruwa West SLFP organiser",
+    "file_name": "/tmp/news_lk2/articles/7f/7f04ff67.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84668/circular-issued-to-prevent-delays-in-responses-from-govt-officials-to-public-inquiries",
+    "time_ut": 1661944260,
+    "original_lang": "en",
+    "original_title": "Circular issued to prevent delays in responses from govt officials to public inquiries",
+    "file_name": "/tmp/news_lk2/articles/cf/cfe7f3c4.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -432,6 +688,14 @@
     "file_name": "/tmp/news_lk2/articles/d5/d56ecc14.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84667/28-people-arrested-during-protest-yesterday-granted-bail",
+    "time_ut": 1661942400,
+    "original_lang": "en",
+    "original_title": "28 people arrested during protest yesterday granted bail",
+    "file_name": "/tmp/news_lk2/articles/66/6619d28f.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dc5\u0dd4-\u0d9c\u0d9f-\u0daf\u0dd9\u0db4\u0dc3-\u0dc3\u0dd2\u0da7\u0dd2\u0db1-\u0d85\u0dba\u0da7-\u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca\u0daf\u0dd3\u0db8\u0d9a\u0dca/11-396786",
     "time_ut": 1661941918,
@@ -446,6 +710,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka: Human Rights Comm. wants to probe the entire Law Enforcement system",
     "file_name": "/tmp/news_lk2/articles/97/97d5dffa.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Pay-our-wages/110-244074",
+    "time_ut": 1661941595,
+    "original_lang": "en",
+    "original_title": "Pay our wages....",
+    "file_name": "/tmp/news_lk2/articles/7f/7faf7710.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -478,6 +750,14 @@
     "original_lang": "en",
     "original_title": "Extreme Weather: Air Force on standby for Search and Rescue",
     "file_name": "/tmp/news_lk2/articles/3c/3c3490cd.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84666/ccpi-based-inflation-climbs-over-64-in-august",
+    "time_ut": 1661940480,
+    "original_lang": "en",
+    "original_title": "CCPI-based inflation climbs over 64% in August",
+    "file_name": "/tmp/news_lk2/articles/9e/9eee55cb.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -520,6 +800,14 @@
     "file_name": "/tmp/news_lk2/articles/9a/9ae5b695.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84665/two-injured-in-shooting-near-negombo-court",
+    "time_ut": 1661935380,
+    "original_lang": "en",
+    "original_title": "Two injured in shooting near Negombo Court",
+    "file_name": "/tmp/news_lk2/articles/3d/3d43777a.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-presidents-policy-direction-correct-but-could-be-a-cuckoo-egg-harsha-99283/",
     "time_ut": 1661935260,
@@ -542,6 +830,38 @@
     "original_lang": "en",
     "original_title": "Sri Lanka DMC warns of floods, landslides after heavy rains",
     "file_name": "/tmp/news_lk2/articles/39/39ec96bb.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84664/lotus-tower-to-begin-operations-on-sep-15",
+    "time_ut": 1661934180,
+    "original_lang": "en",
+    "original_title": "Lotus Tower to begin operations on Sep 15",
+    "file_name": "/tmp/news_lk2/articles/2c/2c0a615b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84663/cse-shows-significant-improvement-as-aspi-gains-over-205-points",
+    "time_ut": 1661934060,
+    "original_lang": "en",
+    "original_title": "CSE shows significant improvement as ASPI gains over 205 points",
+    "file_name": "/tmp/news_lk2/articles/f5/f5d132f5.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84662/ice-worth-nearly-rs-150-million-seized-in-mannar",
+    "time_ut": 1661933940,
+    "original_lang": "en",
+    "original_title": "\u2018Ice\u2019 worth nearly Rs. 150 million seized in Mannar",
+    "file_name": "/tmp/news_lk2/articles/c7/c7e8e7a6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/No-action-against-arrested-undergrads-under-PTA-Govt-assures/342-244071",
+    "time_ut": 1661933208,
+    "original_lang": "en",
+    "original_title": "No action against arrested undergrads under PTA: Govt. assures",
+    "file_name": "/tmp/news_lk2/articles/a6/a62ceac7.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -600,6 +920,22 @@
     "file_name": "/tmp/news_lk2/articles/af/afa82534.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/President-denies-allocating-Rs-400-Mn-to-renovate-MRs-residence/342-244070",
+    "time_ut": 1661931607,
+    "original_lang": "en",
+    "original_title": "President denies allocating Rs. 400 Mn to renovate MR\u2019s residence",
+    "file_name": "/tmp/news_lk2/articles/fd/fd2d85e7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84661/accepting-university-admission-applications-to-begin-next-week",
+    "time_ut": 1661930640,
+    "original_lang": "en",
+    "original_title": "Accepting university admission applications to begin next week",
+    "file_name": "/tmp/news_lk2/articles/a3/a3848fc5.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d86\u0db4\u0daf\u0dcf\u0dc0\u0db1\u0dca\u0da7-\u0db8\u0dd4\u0dc4\u0dd4\u0dab-\u0daf\u0dd2\u0db8\u0da7-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0-\u0dc3\u0dd4\u0daf\u0dcf\u0db1\u0db8\u0dca/11-396777",
     "time_ut": 1661930263,
@@ -640,12 +976,36 @@
     "file_name": "/tmp/news_lk2/articles/95/9563d5af.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/GL-threatens-to-seek-legal-action-if-LG-polls-postponed/342-244066",
+    "time_ut": 1661927356,
+    "original_lang": "en",
+    "original_title": "GL threatens to seek legal action if LG polls postponed",
+    "file_name": "/tmp/news_lk2/articles/cf/cf778c83.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84659/early-landslide-warning-issued-to-four-districts",
+    "time_ut": 1661927280,
+    "original_lang": "en",
+    "original_title": "Early landslide warning issued to four districts",
+    "file_name": "/tmp/news_lk2/articles/68/68449bfb.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0dc3\u0dd2-\u0db1\u0dd2\u0dc3\u0dcf-\u0d9c\u0dd0\u0da7\u0dc5\u0dd4\u0dc0\u0d9a\u0dca/11-396775",
     "time_ut": 1661925534,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dcf\u0dc3\u0dd2 \u0db1\u0dd2\u0dc3\u0dcf \u0d9c\u0dd0\u0da7\u0dc5\u0dd4\u0dc0\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/c1/c1212aa8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84658/sri-lanka-imf-reach-preliminary-agreement-on-emergency-loan-reports",
+    "time_ut": 1661925360,
+    "original_lang": "en",
+    "original_title": "Sri Lanka, IMF reach preliminary agreement on emergency loan: reports",
+    "file_name": "/tmp/news_lk2/articles/23/235517c4.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -656,12 +1016,36 @@
     "file_name": "/tmp/news_lk2/articles/ec/ec8090ce.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84657/two-including-kudu-batti-arrested-with-heroin",
+    "time_ut": 1661925000,
+    "original_lang": "en",
+    "original_title": "Two including \u2018Kudu Batti\u2019 arrested with heroin",
+    "file_name": "/tmp/news_lk2/articles/93/93859cd7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Crisis-hit-Sri-Lanka-strikes-staff-level-pact-with-IMF-on-loan/342-244064",
+    "time_ut": 1661924706,
+    "original_lang": "en",
+    "original_title": "Crisis-hit Sri Lanka strikes staff-level pact with IMF on loan",
+    "file_name": "/tmp/news_lk2/articles/8c/8c587bc8.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda-\u0d89\u0dad\u0dd2\u0dbb\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0dc3\u0dd2\u0dba\u0dba\u0da7-70\u0d9a\u0dca-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0dbd\u0dcf-\u0dc4\u0ddc\u0dbb\u0d9a\u0db8\u0dca-\u0d9a\u0dbb\u0dbd\u0dcf/11-396774",
     "time_ut": 1661924618,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda \u0d89\u0dad\u0dd2\u0dbb\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 70\u0d9a\u0dca \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0dbd\u0dcf \u0dc4\u0ddc\u0dbb\u0d9a\u0db8\u0dca \u0d9a\u0dbb\u0dbd\u0dcf",
     "file_name": "/tmp/news_lk2/articles/f1/f1f9ed0e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Troops-arrest-duo-with-10-4-kg-of-ICE-worth-Rs-150mn-in-Mannar/342-244063",
+    "time_ut": 1661924082,
+    "original_lang": "en",
+    "original_title": "Troops arrest duo with 10.4 kg of ICE worth Rs. 150mn in Mannar",
+    "file_name": "/tmp/news_lk2/articles/6c/6cd41784.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
@@ -680,12 +1064,52 @@
     "file_name": "/tmp/news_lk2/articles/8d/8d6ab189.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Red-alert-issued-for-20-districts-as-rains-intensify-Met-Dept/342-244062",
+    "time_ut": 1661922823,
+    "original_lang": "en",
+    "original_title": "Red alert issued for 20 districts as rains intensify: Met Dept.",
+    "file_name": "/tmp/news_lk2/articles/36/36c977e2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Deluge-above-150-mm-in-many-provinces-Met-Dept/342-244061",
+    "time_ut": 1661922691,
+    "original_lang": "en",
+    "original_title": "Deluge above 150 mm in many provinces: Met Dept.",
+    "file_name": "/tmp/news_lk2/articles/fd/fd099192.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d94\u0d9a\u0dca\u0da7\u0dda\u0db1\u0dca-92-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca-\u0d85\u0daf-\u0d9c\u0ddc\u0da9\u0db6\u0dcf\u0dba\u0dd2/11-396772",
     "time_ut": 1661922611,
     "original_lang": "si",
     "original_title": "\u0d94\u0d9a\u0dca\u0da7\u0dda\u0db1\u0dca 92 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca \u0d85\u0daf \u0d9c\u0ddc\u0da9\u0db6\u0dcf\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/cb/cb9b1c6a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Rainfall-in-hydro-catchment-areas-still-inadequate-Irrigation-Dept/342-244060",
+    "time_ut": 1661922174,
+    "original_lang": "en",
+    "original_title": "Rainfall in hydro catchment areas still inadequate: Irrigation Dept.",
+    "file_name": "/tmp/news_lk2/articles/17/173c5613.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/SLPP-independent-group-sit-in-opposition/342-244059",
+    "time_ut": 1661922106,
+    "original_lang": "en",
+    "original_title": "SLPP independent group sit in opposition",
+    "file_name": "/tmp/news_lk2/articles/ca/cab35732.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Sun-directly-over-Sri-Lanka-for-11-days/342-244058",
+    "time_ut": 1661921634,
+    "original_lang": "en",
+    "original_title": "Sun directly over Sri Lanka for 11 days",
+    "file_name": "/tmp/news_lk2/articles/46/46aa03cc.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -704,6 +1128,14 @@
     "file_name": "/tmp/news_lk2/articles/9b/9be7870a.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84656/13-slpp-mps-decide-to-sit-in-opposition",
+    "time_ut": 1661920800,
+    "original_lang": "en",
+    "original_title": "13 SLPP MPs decide to sit in Opposition",
+    "file_name": "/tmp/news_lk2/articles/56/5614fa34.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dbb\u0da2\u0dba\u0dda-\u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd\u0da7-\u0db8\u0dc4\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dd9\u0db1\u0dca-\u0dbd\u0dd0\u0db6\u0dd9\u0db1-\u0dbd\u0dd2\u0db4\u0dd2\u0dc0\u0dbd\u0da7-\u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0dca-\u0dad\u0dd4\u0dc5-\u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0dd4-\u0dba\u0dc0\u0db1\u0dca\u0db1/11-396769",
     "time_ut": 1661919471,
@@ -718,6 +1150,22 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s BOI targets one billion dollars in FDI for 2022",
     "file_name": "/tmp/news_lk2/articles/59/59c78547.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Harak-Katas-drug-peddler-Kudu-Batti-arrested/108-244057",
+    "time_ut": 1661917865,
+    "original_lang": "en",
+    "original_title": "Harak Kata\u2019s drug peddler \u2019Kudu Batti\u2019 arrested",
+    "file_name": "/tmp/news_lk2/articles/be/be610049.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/CAA-issues-special-gazette-specifying-directions-for-manufacturers-traders/342-244056",
+    "time_ut": 1661917156,
+    "original_lang": "en",
+    "original_title": "CAA issues special gazette specifying directions for manufacturers, traders",
+    "file_name": "/tmp/news_lk2/articles/69/69bc1c2c.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -750,6 +1198,46 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0dd9\u0db1\u0dca \u0dbb\u0dad\u0dd4 \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/6e/6eadc48a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84655/caa-imposes-several-conditions-on-48-items",
+    "time_ut": 1661911920,
+    "original_lang": "en",
+    "original_title": "CAA imposes several conditions on 48 items",
+    "file_name": "/tmp/news_lk2/articles/00/008c391d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84654/last-soviet-leader-mikhail-gorbachev-dies-aged-91",
+    "time_ut": 1661910360,
+    "original_lang": "en",
+    "original_title": "Last Soviet leader Mikhail Gorbachev dies aged 91",
+    "file_name": "/tmp/news_lk2/articles/71/71faa08d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Last-Soviet-leader-Mikhail-Gorbachev-dies-at-91/342-244032",
+    "time_ut": 1661909837,
+    "original_lang": "en",
+    "original_title": "Last Soviet leader Mikhail Gorbachev dies at 91",
+    "file_name": "/tmp/news_lk2/articles/92/928ce9c5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Devastating-economic-crisis-and-the-interim-budget-EDITORIAL/231-244031",
+    "time_ut": 1661909709,
+    "original_lang": "en",
+    "original_title": "Devastating economic crisis and the interim budget - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/58/580af052.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Duty-free-worker-busted-with-gold-biscuits-worth-Rs-157mn/342-244030",
+    "time_ut": 1661909397,
+    "original_lang": "en",
+    "original_title": "Duty-free worker busted with gold biscuits worth Rs.157mn",
+    "file_name": "/tmp/news_lk2/articles/cb/cb4856ce.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -1040,6 +1528,14 @@
     "file_name": "/tmp/news_lk2/articles/ce/cebfebd1.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Tokyo-will-coordinate-with-other-Sri-Lanka-creditors-on-debt-Japan-Finance-Minister/155-243992",
+    "time_ut": 1661837072,
+    "original_lang": "en",
+    "original_title": "Tokyo will coordinate with other Sri Lanka creditors on debt: Japan Finance Minister",
+    "file_name": "/tmp/news_lk2/articles/7e/7e56445b.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/us-to-redouble-efforts-to-support-crisis-hit-sri-lanka-ambassador-99167/",
     "time_ut": 1661832360,
@@ -1128,6 +1624,14 @@
     "file_name": "/tmp/news_lk2/articles/a8/a85a2127.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-to-present-interim-budget-today/342-243976",
+    "time_ut": 1661800043,
+    "original_lang": "en",
+    "original_title": "Govt. to present interim budget today",
+    "file_name": "/tmp/news_lk2/articles/dd/ddf8ffdb.json"
+  },
+  {
     "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/79270",
     "time_ut": 1661799420,
@@ -1142,6 +1646,30 @@
     "original_lang": "en",
     "original_title": "President cum Finance Minister Ranil Wickremesinghe Presents  Sri Lanka\u2019s interim budget which is intended to lay the foundation for a progressive economy even as it provides a buffer to the poor who are bearing the brunt of the current unprecedented economic crisis.",
     "file_name": "/tmp/news_lk2/articles/f1/f1790b1a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Need-to-reform-PTA-ahead-of-UNHRC-session/172-243970",
+    "time_ut": 1661795818,
+    "original_lang": "en",
+    "original_title": "Need to reform PTA ahead of UNHRC session",
+    "file_name": "/tmp/news_lk2/articles/c7/c7d27bd2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Can-Lankans-make-politicians-pay-the-cost-of-economic-ruin/172-243969",
+    "time_ut": 1661795539,
+    "original_lang": "en",
+    "original_title": "Can Lankans make politicians pay the cost of economic ruin?",
+    "file_name": "/tmp/news_lk2/articles/68/6854c2cc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Children-the-most-vulnerable-group-today/172-243967",
+    "time_ut": 1661795316,
+    "original_lang": "en",
+    "original_title": "Children, the most vulnerable group today",
+    "file_name": "/tmp/news_lk2/articles/25/25df5e2e.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -1190,6 +1718,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka to sell 49-percent stake of national carrier\u2019s catering, ground-handling units",
     "file_name": "/tmp/news_lk2/articles/8b/8b392e55.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-agrees-to-submit-documents-in-Parliament-over-Ranjans-release/342-243927",
+    "time_ut": 1661751938,
+    "original_lang": "en",
+    "original_title": "Govt. agrees to submit documents in Parliament over Ranjan\u2019s release",
+    "file_name": "/tmp/news_lk2/articles/b5/b599d696.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
@@ -1280,6 +1816,22 @@
     "file_name": "/tmp/news_lk2/articles/9d/9dc758d4.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Will-Asia-go-the-way-of-Ukraine-in-Europe-EDITORIAL/231-243888",
+    "time_ut": 1661717202,
+    "original_lang": "en",
+    "original_title": "Will Asia go the way of Ukraine in Europe? - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/59/5956a634.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Fascists-neo-fascists-and-SLs-future/231-243887",
+    "time_ut": 1661717116,
+    "original_lang": "en",
+    "original_title": "Fascists, neo fascists, and SL\u2019s future",
+    "file_name": "/tmp/news_lk2/articles/8b/8bec6554.json"
+  },
+  {
     "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/79256",
     "time_ut": 1661714640,
@@ -1310,6 +1862,14 @@
     "original_lang": "en",
     "original_title": "Pity the land \u2026",
     "file_name": "/tmp/news_lk2/articles/a8/a81f5eec.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Chinese-company-refuses-to-budge/155-243885",
+    "time_ut": 1661710600,
+    "original_lang": "en",
+    "original_title": "Chinese company refuses to budge",
+    "file_name": "/tmp/news_lk2/articles/a2/a253e9ed.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -1416,12 +1976,52 @@
     "file_name": "/tmp/news_lk2/articles/96/96a9319d.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/India-responds-to-Chinese-Ambassadors-remarks-on-SL/155-243866",
+    "time_ut": 1661620949,
+    "original_lang": "en",
+    "original_title": "India responds to Chinese Ambassador\u2019s remarks on SL",
+    "file_name": "/tmp/news_lk2/articles/2d/2d8abe18.json"
+  },
+  {
     "newspaper_id": "island-lk",
     "url": "http://island.lk/asking-for-big-trouble/",
     "time_ut": 1661610360,
     "original_lang": "en",
     "original_title": "Asking for big trouble",
     "file_name": "/tmp/news_lk2/articles/df/dfa1395f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/China-says-Ball-is-in-Sri-Lankas-court/155-243846",
+    "time_ut": 1661566854,
+    "original_lang": "en",
+    "original_title": "China says Ball is in Sri Lanka\u2019s court",
+    "file_name": "/tmp/news_lk2/articles/b1/b1a1abcb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/recomended-news/Appapillai-Amirthalingam-From-Enfant-Terrible-to-Elder-Statesman/277-243845",
+    "time_ut": 1661545600,
+    "original_lang": "en",
+    "original_title": "Appapillai Amirthalingam From Enfant Terrible to Elder Statesman",
+    "file_name": "/tmp/news_lk2/articles/b2/b2220353.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Democracy-people-must-choose-well-and-wisely/172-243844",
+    "time_ut": 1661545099,
+    "original_lang": "en",
+    "original_title": "Democracy: people must choose well and wisely",
+    "file_name": "/tmp/news_lk2/articles/1f/1fc38ea4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/recomended-news/Sri-Lankans-migrating-to-greener-pastures/277-243843",
+    "time_ut": 1661545058,
+    "original_lang": "en",
+    "original_title": "Sri Lankans migrating to greener pastures",
+    "file_name": "/tmp/news_lk2/articles/f1/f1dd083f.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -1584,6 +2184,14 @@
     "file_name": "/tmp/news_lk2/articles/84/841810c5.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Ranjan-leaves-prison/342-243788",
+    "time_ut": 1661506672,
+    "original_lang": "en",
+    "original_title": "Ranjan leaves prison",
+    "file_name": "/tmp/news_lk2/articles/f1/f10481a7.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Ranil-s-perilous-authoritarian-alternative/4-739124",
     "time_ut": 1661472075,
@@ -1672,6 +2280,22 @@
     "file_name": "/tmp/news_lk2/articles/27/275f5e4c.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/The-place-for-law-in-a-country-obsessed-WITH-peace-and-religion-EDITORIAL/172-243751",
+    "time_ut": 1661462025,
+    "original_lang": "en",
+    "original_title": "The place for law in a country obsessed WITH peace and religion - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/96/9622494a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Ukraine-war-Sri-Lanka-and-IMF-prescriptions/172-243750",
+    "time_ut": 1661461946,
+    "original_lang": "en",
+    "original_title": "Ukraine war, Sri Lanka and IMF prescriptions",
+    "file_name": "/tmp/news_lk2/articles/dd/dd0d7dde.json"
+  },
+  {
     "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/79194",
     "time_ut": 1661454360,
@@ -1696,6 +2320,14 @@
     "file_name": "/tmp/news_lk2/articles/db/dba51755.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/India-urges-its-citizens-to-examine-relevant-factors-before-undertaking-visit-to-Sri-Lanka/155-243748",
+    "time_ut": 1661450208,
+    "original_lang": "en",
+    "original_title": "India urges its citizens to examine relevant factors before undertaking visit to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/de/de15b358.json"
+  },
+  {
     "newspaper_id": "island-lk",
     "url": "http://island.lk/an-oil-scam/",
     "time_ut": 1661450160,
@@ -1704,12 +2336,68 @@
     "file_name": "/tmp/news_lk2/articles/e6/e6abbc75.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/2100-businesses-installed-their-own-fuel-storage-tanks-many-without-permission-Minister/342-243739",
+    "time_ut": 1661429662,
+    "original_lang": "en",
+    "original_title": "2100+ businesses installed their own fuel storage tanks, many without permission: Minister",
+    "file_name": "/tmp/news_lk2/articles/79/7931f7ef.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Ranjan-to-be-released-during-the-weekend/342-243735",
+    "time_ut": 1661425804,
+    "original_lang": "en",
+    "original_title": "Ranjan to be released during the weekend",
+    "file_name": "/tmp/news_lk2/articles/7a/7a623cce.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/President-urges-China-to-change-tune-on-debt/342-243703",
+    "time_ut": 1661396019,
+    "original_lang": "en",
+    "original_title": "President urges China to change tune on debt",
+    "file_name": "/tmp/news_lk2/articles/6a/6acd1c2f.json"
+  },
+  {
     "newspaper_id": "colombo-telegraph-com",
     "url": "https://www.colombotelegraph.com/index.php/sri-lankas-pta-the-anti-terrorism-law-that-promotes-terrorism/",
     "time_ut": 1661394009,
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s PTA: The Anti-Terrorism Law That Promotes Terrorism",
     "file_name": "/tmp/news_lk2/articles/a1/a15ed447.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/The-Elephant-in-the-Room/172-243668",
+    "time_ut": 1661378794,
+    "original_lang": "en",
+    "original_title": "The Elephant in the Room",
+    "file_name": "/tmp/news_lk2/articles/9f/9f4c617a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Plugging-loopholes-in-Sri-Lankas-maritime-security-architecture/172-243667",
+    "time_ut": 1661378498,
+    "original_lang": "en",
+    "original_title": "Plugging loopholes in Sri Lanka\u2019s  maritime security architecture",
+    "file_name": "/tmp/news_lk2/articles/b7/b7a7742f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Free-health-care-debt-restructuring-and-subsidy-cuts/172-243666",
+    "time_ut": 1661378344,
+    "original_lang": "en",
+    "original_title": "Free health-care, debt restructuring and subsidy cuts",
+    "file_name": "/tmp/news_lk2/articles/22/220ec9f0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Beware-the-Neddas/172-243665",
+    "time_ut": 1661378228,
+    "original_lang": "en",
+    "original_title": "Beware the Neddas!",
+    "file_name": "/tmp/news_lk2/articles/48/48c54513.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -1774,6 +2462,38 @@
     "original_lang": "en",
     "original_title": "The spirit of the 9 July uprising in Sri Lanka remains alive",
     "file_name": "/tmp/news_lk2/articles/87/874d8261.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Probe-reveals-Green-Eco-Lodge-owned-by-MRs-son/155-243642",
+    "time_ut": 1661325773,
+    "original_lang": "en",
+    "original_title": "Probe reveals \u2018Green Eco Lodge\u2019 owned by MR\u2019s son",
+    "file_name": "/tmp/news_lk2/articles/dd/dd78dd6d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/recomended-news/Of-blushing-buttocks-and-freedom-to-express/277-243592",
+    "time_ut": 1661309829,
+    "original_lang": "en",
+    "original_title": "Of blushing buttocks and freedom to express",
+    "file_name": "/tmp/news_lk2/articles/63/6310d7f2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Restructuring-the-domestic-debt-is-a-red-line-EDITORIAL/172-243590",
+    "time_ut": 1661309487,
+    "original_lang": "en",
+    "original_title": "Restructuring the domestic debt is a red line - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/91/91c16095.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Govt-slaps-import-ban-on-wide-range-of-goods/155-243589",
+    "time_ut": 1661309167,
+    "original_lang": "en",
+    "original_title": "Govt. slaps import ban on wide range of goods",
+    "file_name": "/tmp/news_lk2/articles/20/204e997c.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -1920,6 +2640,14 @@
     "file_name": "/tmp/news_lk2/articles/ad/ad233a3d.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/SL-ranks-5th-among-10-countries-with-highest-food-price-inflation-World-Bank/155-243560",
+    "time_ut": 1661226713,
+    "original_lang": "en",
+    "original_title": "SL ranks 5th among 10 countries with highest food price inflation: World Bank",
+    "file_name": "/tmp/news_lk2/articles/51/51109819.json"
+  },
+  {
     "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/79093",
     "time_ut": 1661205780,
@@ -2040,6 +2768,22 @@
     "file_name": "/tmp/news_lk2/articles/68/689df5af.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Sri-Lankas-lost-peoples-revolution/172-243534",
+    "time_ut": 1661190297,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s lost people\u2019s revolution",
+    "file_name": "/tmp/news_lk2/articles/51/519eca66.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Importance-of-looking-at-the-bigger-picture/172-243533",
+    "time_ut": 1661190087,
+    "original_lang": "en",
+    "original_title": "Importance of looking at the bigger picture",
+    "file_name": "/tmp/news_lk2/articles/70/70280c2a.json"
+  },
+  {
     "newspaper_id": "island-lk",
     "url": "http://island.lk/wimps-heroes-and-litmus-test/",
     "time_ut": 1661188440,
@@ -2048,12 +2792,28 @@
     "file_name": "/tmp/news_lk2/articles/16/16d3765e.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Defence-Ministry-signs-detention-orders-to-detain-IUSF-convenor-and-two-others-for-90-days/155-243494",
+    "time_ut": 1661164701,
+    "original_lang": "en",
+    "original_title": "Defence Ministry signs detention orders to detain IUSF convenor and two others for 90 days",
+    "file_name": "/tmp/news_lk2/articles/78/78dfdf99.json"
+  },
+  {
     "newspaper_id": "colombo-telegraph-com",
     "url": "https://www.colombotelegraph.com/index.php/sri-lanka-protesters-must-not-be-detained-under-the-draconian-anti-terror-law-amnesty-international/",
     "time_ut": 1661136528,
     "original_lang": "en",
     "original_title": "Sri Lanka: Protesters Must Not Be Detained Under The Draconian Anti-Terror Law: Amnesty International",
     "file_name": "/tmp/news_lk2/articles/83/83f24273.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/President-contacts-Gotabaya-about-his-return/155-243462",
+    "time_ut": 1661135741,
+    "original_lang": "en",
+    "original_title": "President contacts Gotabaya about his return",
+    "file_name": "/tmp/news_lk2/articles/f8/f81c8a9d.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -2088,12 +2848,36 @@
     "file_name": "/tmp/news_lk2/articles/5c/5cf4124c.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/IMF-facility-and-future-burdens-EDITORIAL/172-243448",
+    "time_ut": 1661104827,
+    "original_lang": "en",
+    "original_title": "IMF facility and future burdens - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/af/affe7f2f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Marking-75-years-of-Indian-Independence-DEMOCRACY-THAT-IS-INDIA-INTRIGUING-EVOLVING-AND-INSPIRING/172-243447",
+    "time_ut": 1661104669,
+    "original_lang": "en",
+    "original_title": "Marking 75 years of Indian Independence: DEMOCRACY THAT IS INDIA: INTRIGUING, EVOLVING AND INSPIRING",
+    "file_name": "/tmp/news_lk2/articles/21/21992fff.json"
+  },
+  {
     "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/79109",
     "time_ut": 1661023440,
     "original_lang": "en",
     "original_title": "The SLPP will not gain a majority in the next election. But it won\u2019t be wiped out either. The Rajapaksa family party is likely to command a significant minority with around 20% of the vote, especially if Mahinda Rajapaksa leads the campaign.",
     "file_name": "/tmp/news_lk2/articles/a4/a44c7391.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/204-Lankan-flights-stopped-for-refuelling-at-Thiruvananthapuram-airport/155-243429",
+    "time_ut": 1661003573,
+    "original_lang": "en",
+    "original_title": "204 Lankan flights stopped for refuelling at Thiruvananthapuram airport",
+    "file_name": "/tmp/news_lk2/articles/86/86de61ba.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
@@ -2112,12 +2896,44 @@
     "file_name": "/tmp/news_lk2/articles/c3/c37b8a6e.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Saying-No-to-Authoritarian-Governance/172-243400",
+    "time_ut": 1660942120,
+    "original_lang": "en",
+    "original_title": "Saying No to Authoritarian Governance",
+    "file_name": "/tmp/news_lk2/articles/e4/e47d605f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/recomended-news/Diaspora-investments-not-to-come-soon/277-243399",
+    "time_ut": 1660941891,
+    "original_lang": "en",
+    "original_title": "Diaspora investments not to come soon",
+    "file_name": "/tmp/news_lk2/articles/7c/7cdc1e00.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Best-way-to-find-yourself-Lose-yourself-in-the-service-of-others/172-243398",
+    "time_ut": 1660941742,
+    "original_lang": "en",
+    "original_title": "Best way to find yourself: Lose yourself in the service of others",
+    "file_name": "/tmp/news_lk2/articles/9d/9d0147ff.json"
+  },
+  {
     "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/79001",
     "time_ut": 1660938060,
     "original_lang": "en",
     "original_title": "Ranil Wickremesinghe, Dulles Alahapperuma and the Historic 2022 Presidential Election",
     "file_name": "/tmp/news_lk2/articles/e9/e9e215e0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Gotabaya-should-be-tried-for-allegations-of-misusing-funds-SJB/155-243364",
+    "time_ut": 1660900768,
+    "original_lang": "en",
+    "original_title": "Gotabaya should be tried for allegations of misusing funds: SJB",
+    "file_name": "/tmp/news_lk2/articles/81/8122b182.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
@@ -2136,6 +2952,30 @@
     "file_name": "/tmp/news_lk2/articles/2a/2af95aab.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/In-search-of-a-system-that-eliminates-doubt-EDITORIAL/172-243327",
+    "time_ut": 1660860552,
+    "original_lang": "en",
+    "original_title": "In search of a system that eliminates doubt - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/72/72e0e20c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Rushdie-in-the-news-again-Free-speech-rights-linked-to-responsibilities/172-243326",
+    "time_ut": 1660860467,
+    "original_lang": "en",
+    "original_title": "Rushdie in the news again: Free speech rights linked to responsibilities",
+    "file_name": "/tmp/news_lk2/articles/9a/9ab6c437.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/hard-talk/People-who-were-in-the-Aragalaya-without-any-political-agenda-were-not-harmed-Manusha-Nanayakkara/334-243325",
+    "time_ut": 1660860219,
+    "original_lang": "en",
+    "original_title": "People who were in the Aragalaya without any political agenda were not harmed - Manusha Nanayakkara",
+    "file_name": "/tmp/news_lk2/articles/10/101f5b8c.json"
+  },
+  {
     "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/79074",
     "time_ut": 1660850100,
@@ -2152,12 +2992,44 @@
     "file_name": "/tmp/news_lk2/articles/0e/0e6c31be.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/CB-optimistic-of-wrapping-up-IMF-staff-level-deal-towards-end-of-this-month/155-243323",
+    "time_ut": 1660848080,
+    "original_lang": "en",
+    "original_title": "CB optimistic of wrapping up IMF staff-level deal towards end of this month",
+    "file_name": "/tmp/news_lk2/articles/c5/c579d025.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Power-consumption-reduced-by-more-than-20-during-past-two-months-PUCSL/342-243304",
+    "time_ut": 1660819681,
+    "original_lang": "en",
+    "original_title": "Power consumption reduced by more than 20% during past two months: PUCSL",
+    "file_name": "/tmp/news_lk2/articles/e8/e82988cf.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/GR-applies-for-US-Green-Card-looks-to-settle-back-in-US/342-243265",
+    "time_ut": 1660784696,
+    "original_lang": "en",
+    "original_title": "GR applies for US Green Card, looks to settle back in US",
+    "file_name": "/tmp/news_lk2/articles/bf/bfceac11.json"
+  },
+  {
     "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/78950",
     "time_ut": 1660769520,
     "original_lang": "en",
     "original_title": "From Lone MP to PM and President: Resilient Ranil\u2019s Three Stage  Return and Rise to the Top.",
     "file_name": "/tmp/news_lk2/articles/4e/4ecf3f96.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Political-geographies-imagined-and-real/172-243263",
+    "time_ut": 1660765567,
+    "original_lang": "en",
+    "original_title": "Political geographies; imagined and real",
+    "file_name": "/tmp/news_lk2/articles/72/724d9f31.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -2190,6 +3062,22 @@
     "original_lang": "en",
     "original_title": "Police use Tear Gas and Water Cannon to  Disperse Protest Demonstration Organized by the Inter-University Student Federation;Six persons including Wasantha Mudalige  taken into custody",
     "file_name": "/tmp/news_lk2/articles/bd/bd7d49cb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Gotabaya-set-to-return-on-August-24-Udayanga-hints/342-243233",
+    "time_ut": 1660731366,
+    "original_lang": "en",
+    "original_title": "Gotabaya set to return on August 24: Udayanga hints",
+    "file_name": "/tmp/news_lk2/articles/69/69f5f792.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Chinese-vessel-Yuan-Wang-5-arrives/155-243149",
+    "time_ut": 1660622074,
+    "original_lang": "en",
+    "original_title": "Chinese vessel \u2019Yuan Wang 5\u2019 arrives",
+    "file_name": "/tmp/news_lk2/articles/20/203a4b50.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -2240,6 +3128,14 @@
     "file_name": "/tmp/news_lk2/articles/01/0162468a.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-imposes-ban-on-three-new-entities-and-55-individuals/342-243075",
+    "time_ut": 1660546687,
+    "original_lang": "en",
+    "original_title": "Sri Lanka imposes ban on three new entities and 55 individuals",
+    "file_name": "/tmp/news_lk2/articles/bf/bfdf8c81.json"
+  },
+  {
     "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/79013",
     "time_ut": 1660481280,
@@ -2248,12 +3144,28 @@
     "file_name": "/tmp/news_lk2/articles/20/204627e7.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Arms-drug-seizure-from-Lankan-boat-Accused-raised-funds-to-revive-LTTE-says-NIA/155-242992",
+    "time_ut": 1660443809,
+    "original_lang": "en",
+    "original_title": "Arms, drug seizure from Lankan boat: Accused raised funds to revive LTTE, says NIA",
+    "file_name": "/tmp/news_lk2/articles/5f/5f17f974.json"
+  },
+  {
     "newspaper_id": "island-lk",
     "url": "http://island.lk/crime-and-punishment-in-sri-lanka-where-is-the-equity/",
     "time_ut": 1660386120,
     "original_lang": "en",
     "original_title": "Crime and Punishment In Sri Lanka \u2013 Where is the Equity ?",
     "file_name": "/tmp/news_lk2/articles/14/145866e5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/SL-grants-permission-for-entry-of-Chinese-tracking-vessel/155-242982",
+    "time_ut": 1660361459,
+    "original_lang": "en",
+    "original_title": "SL grants permission for entry of Chinese tracking vessel",
+    "file_name": "/tmp/news_lk2/articles/31/312ba20c.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -2270,6 +3182,22 @@
     "original_lang": "en",
     "original_title": "Sri Lanka  Grants Permission for  Chinese space and satellite tracking vessel \u201cYuan Wang 5\u201d to dock  on August 16 at  Hambantota port subject to conditions that the visiting Chinese vessel\u2019s Automatic Identification System (AIS) must  be kept switched on within the EEZ of Sri Lanka and that no scientific research be conducted in Sri Lankan waters.",
     "file_name": "/tmp/news_lk2/articles/e2/e2bdccc7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Gotabaya-Rajapaksa-advised-to-remain-indoors-for-security-reasons-at-Bangkok-hotel/155-242937",
+    "time_ut": 1660312319,
+    "original_lang": "en",
+    "original_title": "Gotabaya Rajapaksa advised to remain indoors for security reasons at Bangkok hotel",
+    "file_name": "/tmp/news_lk2/articles/7f/7f314205.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-directly-handles-matter-with-Chinese-Embassy/342-242911",
+    "time_ut": 1660275858,
+    "original_lang": "en",
+    "original_title": "Govt. directly handles matter with Chinese Embassy",
+    "file_name": "/tmp/news_lk2/articles/bd/bd5caad3.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
@@ -2320,6 +3248,14 @@
     "file_name": "/tmp/news_lk2/articles/78/78668862.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Children-infected-with-Dengue-COVID-19-on-the-rise-at-LRH-Paediatrician/342-242871",
+    "time_ut": 1660219802,
+    "original_lang": "en",
+    "original_title": "Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician",
+    "file_name": "/tmp/news_lk2/articles/7f/7f703d7c.json"
+  },
+  {
     "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/78945",
     "time_ut": 1660159440,
@@ -2342,6 +3278,14 @@
     "original_lang": "en",
     "original_title": "Ranil Wickremesinghe Makes First Official Visit as Elected President to Army Headquarters and thanks Military for Protecting Parliament and Preventing its seizure by a group without Opening Fire on People",
     "file_name": "/tmp/news_lk2/articles/92/926b1542.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78935",
+    "time_ut": 1660071420,
+    "original_lang": "en",
+    "original_title": "Ex- Sri Lankan President Gotabaya Rajapaksa  Likely to move from Singapore to Thailand for Temporary Stay; \u201cThe Sri Lankan side informs us that the former president has no intention for political asylum in Thailand and will travel to another country afterwards.\u201d Says Thai Foreign Ministry Spokesman Tanee Sangrat",
+    "file_name": "/tmp/news_lk2/articles/7f/7f672d81.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
