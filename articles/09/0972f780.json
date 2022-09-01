@@ -13,9 +13,9 @@
         "In this case, the Disaster Management Center has announced that there are chances of disasters like floods and landslides due to heavy rains in many parts of the country.",
         "Air Force Commander Air Marshal Sudarshana Patherana has instructed Sri Lankan Air Force helicopters and soldiers to be ready for rescue and search operations in case of such disasters.",
         "The department has predicted that heavy rainfall of more than 150 mm is expected in some places of Upper, Southern, Sabaragamuwa, Central and Uva provinces.",
-        "The department has also cautioned people living in landslide-prone areas and low-lying areas near river basins to be vigilant.",
+        "The department has also warned people living in low-lying areas near landslide-prone areas and river basins to be vigilant.",
         "It has been advised to be aware of the dangers of lightning, landslides, falling trees, rocks and downed power lines.",
-        "Meanwhile, a landslide warning has been issued by the National Building Research Institute for the districts of Kegalai, Kandy, Matala and Ratnapura."
+        "Meanwhile, a landslide warning has been issued by the National Building Research Institute for the districts of Kegala, Kandy, Mattala and Ratnapura."
       ],
       "title_ents": [],
       "body_line_ents_list": [
@@ -83,12 +83,8 @@
             "label": "ORG"
           },
           {
-            "text": "Kegalai, Kandy",
+            "text": "Kegala, Kandy, Mattala",
             "label": "ORG"
-          },
-          {
-            "text": "Matala",
-            "label": "PERSON"
           },
           {
             "text": "Ratnapura",
@@ -175,12 +171,8 @@
             "label": "ORG"
           },
           {
-            "text": "\u0d9a\u0dd1\u0d9c\u0dbd\u0dba\u0dd2, \u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb",
+            "text": "\u0d9a\u0dd1\u0d9c\u0dbd, \u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb, \u0db8\u0dad\u0dca\u0dad\u0dbd",
             "label": "ORG"
-          },
-          {
-            "text": "\u0db8\u0dcf\u0dad\u0dbd",
-            "label": "PERSON"
           },
           {
             "text": "\u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb\u0dba",
@@ -267,12 +259,8 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b95\u0bc7\u0b95\u0bb2\u0bbe\u0baf\u0bcd, \u0b95\u0ba3\u0bcd\u0b9f\u0bbf",
+            "text": "\u0b95\u0bc7\u0b95\u0bb2, \u0b95\u0ba3\u0bcd\u0b9f\u0bbf, \u0bae\u0ba4\u0bcd\u0ba4\u0bb3",
             "label": "ORG"
-          },
-          {
-            "text": "\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb2\u0bbe",
-            "label": "PERSON"
           },
           {
             "text": "\u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0baa\u0bc1\u0bb0\u0bbf",

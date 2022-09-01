@@ -11,7 +11,7 @@
       "body_lines": [
         "According to Police Media Spokesman Senior Superintendent of Police Advocate Mr. Talduwa, an employee of the Kegalle Samagi Janabalawegaya office has been shot dead on a bed in the back room of the office.",
         "The 36-year-old woman is a resident of Kegalle Habudugala area.",
-        "The media spokesperson said that information has been revealed that the organizer of the Kegalle Samagi Jana Balawegaya who went to her home had brought her to the office this morning.",
+        "The media spokesperson said that information has been revealed that the Kegalle Samagi Jana Balawegaya organizer who went to her home had brought her to the office this morning.",
         "The spokesperson added that it has not yet been revealed whether she shot herself or someone else shot her."
       ],
       "title_ents": [
@@ -40,7 +40,7 @@
         [
           {
             "text": "Jana Balawegaya",
-            "label": "PERSON"
+            "label": "LOC"
           },
           {
             "text": "this morning",
@@ -85,7 +85,7 @@
         [
           {
             "text": "\u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba",
-            "label": "PERSON"
+            "label": "LOC"
           },
           {
             "text": "\u0db8\u0dda \u0d8b\u0daf\u0dd1\u0dc3\u0db1",
@@ -130,7 +130,7 @@
         [
           {
             "text": "\u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf\u0bbe",
-            "label": "PERSON"
+            "label": "LOC"
           },
           {
             "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0bb2\u0bc8",

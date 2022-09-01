@@ -12,7 +12,7 @@
         "Opposition leader Mr. Sajith Premadasa said in the Parliament that the budget presented by the President is a \"city suit\".",
         "The opposition leader mentioned that the budget proposal that 61000 families will be given 10000 rupees per month is very good, but only 1.07 percent of the population will get relief from it and the Peradeniya University and UNICEF survey reports say that tens of millions of the country's population are suffering.",
         "The opposition leader also said that seven out of 10 families or seventy percent eat only twice.",
-        "The opposition leader questioned how he said that 2500 will be given to pregnant mothers in addition to the allowance of 20000, but today no allowance of 20,000 will be given.",
+        "The opposition leader questioned how to add 2500 to the stipend that is not being given to pregnant mothers who said that 2500 will be given to pregnant mothers in addition to the 20000 stipend, but today 20,000 stipend is not given.",
         "The Leader of the Opposition asked how to create a policy without knowing the data properly."
       ],
       "title_ents": [],
@@ -64,6 +64,10 @@
           }
         ],
         [
+          {
+            "text": "2500",
+            "label": "CARDINAL"
+          },
           {
             "text": "2500",
             "label": "CARDINAL"
@@ -153,6 +157,10 @@
             "label": "CARDINAL"
           },
           {
+            "text": "2500",
+            "label": "CARDINAL"
+          },
+          {
             "text": "20000",
             "label": "CARDINAL"
           },
@@ -232,6 +240,10 @@
           }
         ],
         [
+          {
+            "text": "2500",
+            "label": "CARDINAL"
+          },
           {
             "text": "2500",
             "label": "CARDINAL"

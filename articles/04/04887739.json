@@ -10,7 +10,7 @@
       "author": "unknown",
       "body_lines": [
         "The Dam Engineering Office stated that 3 sluice gates of the Polgolla Reservoir were opened yesterday (01) due to the rain falling in the central mountains.",
-        "Accordingly, three sluice gates of the Polgolla Dam have been raised 1 foot 6 inches (1'.6\") each and due to this, the reservoir will release 4,500 cubic feet of water per second downstream to the Mahaweli River.",
+        "Accordingly, three sluice gates of Polgolla Dam have been raised 1 foot 6 inches (1'.6\") each and due to this, 4,500 cubic feet of water per second will be released downstream of the reservoir to the Mahaweli River.",
         "Due to this, people using the Mahaweli River below Polgolla Dam to Victoria Reservoir should be careful, the office added."
       ],
       "title_ents": [
@@ -66,10 +66,6 @@
           {
             "text": "4,500 cubic feet",
             "label": "QUANTITY"
-          },
-          {
-            "text": "second",
-            "label": "ORDINAL"
           },
           {
             "text": "the Mahaweli River",
@@ -151,10 +147,6 @@
             "label": "QUANTITY"
           },
           {
-            "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
-            "label": "ORDINAL"
-          },
-          {
             "text": "\u0db8\u0dc4\u0dc0\u0dd0\u0dbd\u0dd2 \u0d9c\u0d9f",
             "label": "GPE"
           }
@@ -232,10 +224,6 @@
           {
             "text": "4,500 \u0b95\u0ba9 \u0b85\u0b9f\u0bbf",
             "label": "QUANTITY"
-          },
-          {
-            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
-            "label": "ORDINAL"
           },
           {
             "text": "\u0bae\u0b95\u0bbe\u0bb5\u0bb2\u0bbf \u0b86\u0bb1\u0bc1",
