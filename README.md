@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 00:35:39 (LK time)*
+*As of 2022-09-02 00:58:03 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (2 Articles)
-
-* **1** tamil-mirror-lk ([ஆசியக் கிண்ணம்: பங்களாதேஷை வென்று சுப்பர் – 4-இல் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/3359f562.json))
-
-* **1** daily-mirror-lk ([Asia Cup: Sri Lanka beat Bangladesh to enter Super Four](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b039021.json))
 
 ## Last 3 Hours (4 Articles)
 
@@ -18,11 +12,11 @@
 
 * **1** daily-mirror-lk ([Asia Cup: Sri Lanka beat Bangladesh to enter Super Four](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b039021.json))
 
-## Last 24 Hours (189 Articles)
+## Last 24 Hours (187 Articles)
 
 * **47** lankadeepa-lk ([මන්ත්‍රී නිවාසවලට පහරදුන් තවත් හතරක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d9b7689.json))
 
-* **33** daily-mirror-lk ([Julie Chung  and fire hoses  of falsehoods](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46d5ac44.json))
+* **31** daily-mirror-lk ([SriLankan Airlines celebrates 43 years of flying](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91b4d654.json))
 
 * **27** ada-lk ([සංචාරකයින් මිලියනයක් හා ඇ.ඩො. බිලියන 1.8ක ඉලක්කයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a011762.json))
 
@@ -38,7 +32,7 @@
 
 * **2** colombo-telegraph-com ([Jaffna’s Municipality Loses Japanese Grant Of 4 Compactors & Associated Duty-Grant](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec180de6.json))
 
-## Last Week (503 Articles)
+## Last Week (502 Articles)
 
 * **77** lankadeepa-lk ([ජීවන බර අඩු කිරීමට ජනතාවට සහන සලසනු](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6482c98.json))
 
@@ -56,7 +50,7 @@
 
 * **42** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
-* **22** d-b-s-jeyaraj-com ([Police explainin the reasons for arresting  Wasantha Mudalige, Hashan Jeewantha Gunathilaka and Galwewa Siridamma Thera under  the Prevention of Terrorism Act (PTA) No. 48 of 1979)](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62f377bf.json))
+* **21** d-b-s-jeyaraj-com ([Japanese Embassy Asks Jaffna Municipal Council to  Refund  Rs 14,329,446 Given in 2019 to Purchase four reconditioned waste-collection trucks ;”greatly regrettable that the project has already been three years late over the schedule and you were unable to implement the project,” the embassy informs Mayor V. Manivannan on the cancellation of the project.](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88429fbe.json))
 
 * **17** island-lk ([Protests, arrests and gutted assets](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8703bcf7.json))
 
