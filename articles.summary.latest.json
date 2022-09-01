@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd-\u0b8e\u0b95\u0bbf\u0bb1\u0bbf\u0ba9/175-303385",
+    "time_ut": 1662019178,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b8e\u0b95\u0bbf\u0bb1\u0bbf\u0ba9",
+    "file_name": "/tmp/news_lk2/articles/9d/9d4d540c.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/22-\u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba\u0dda-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dc2\u0dca\u0da8\u0dcf\u0db0\u0dd2\u0d9a\u0dbb\u0dab-\u0db8\u0dad\u0dba-\u0db8\u0dda-\u0dc3\u0dad\u0dd2\u0dba-\u0d85\u0d9c\u0daf\u0dd3/101-619114",
     "time_ut": 1662017647,
@@ -16,12 +24,28 @@
     "file_name": "/tmp/news_lk2/articles/f1/f1a77843.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd\u0dda-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0d9a--\u0dc0\u0dd9\u0da9\u0dd2-\u0dc0\u0dd0\u0daf\u0dd4\u0dab-\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0d9c\u0dda-\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0d9a\u0dca/11-396814",
+    "time_ut": 1662017468,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd\u0dda \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0d9a  \u0dc0\u0dd9\u0da9\u0dd2 \u0dc0\u0dd0\u0daf\u0dd4\u0dab \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0d9c\u0dda \u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/d1/d1e34c7d.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-should-have-market-rupee-rate-taxes-lower-inflation-for-imf-funds-99328/",
     "time_ut": 1662017460,
     "original_lang": "en",
     "original_title": "Sri Lanka should have market rupee rate, taxes, lower inflation for IMF funds",
     "file_name": "/tmp/news_lk2/articles/7c/7c24ff31.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-should-have-market-rupee-rate-more-taxes-lower-inflation-for-imf-funds-99328/",
+    "time_ut": 1662017460,
+    "original_lang": "en",
+    "original_title": "Sri Lanka should have market rupee rate, more taxes, lower inflation for IMF funds",
+    "file_name": "/tmp/news_lk2/articles/ed/ed0003e9.json"
   },
   {
     "newspaper_id": "news-first-lk",
