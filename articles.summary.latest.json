@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Wesley-College-trounce-Science-College/110-244139",
+    "time_ut": 1662025398,
+    "original_lang": "en",
+    "original_title": "Wesley College trounce Science College",
+    "file_name": "/tmp/news_lk2/articles/60/60aae1b2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Kegalle-SJB-organizer-arrested-over-death-of-woman-at-SJB-office/108-244138",
+    "time_ut": 1662025189,
+    "original_lang": "en",
+    "original_title": "Kegalle SJB organizer arrested over death of woman at SJB office",
+    "file_name": "/tmp/news_lk2/articles/3e/3e314595.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84685/india-is-anchor-of-regional-security-sri-lankan-envoy-says",
+    "time_ut": 1662025080,
+    "original_lang": "en",
+    "original_title": "India is anchor of regional security, Sri Lankan envoy says",
+    "file_name": "/tmp/news_lk2/articles/2f/2f483695.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dd2\u0d9c\u0dbb\u0dd0\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0dca-\u0d9c\u0dab\u0db1\u0dca-\u0d8b\u0dc3\u0dca\u0dc3\u0dba\u0dd2/1-619123",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dba\u0dd2-\u0d91\u0db8\u0dca-\u0d91\u0dc6\u0dca-\u0dab\u0dba-\u0db8\u0dd4\u0daf\u0dbd-\u0d9c\u0dd0\u0db1-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0dca/101-619124",
+    "time_ut": 1662024351,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d91\u0dc6\u0dca \u0dab\u0dba \u0db8\u0dd4\u0daf\u0dbd \u0d9c\u0dd0\u0db1 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/f0/f0c1fd7b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dd4\u0db8\u0dca\u0dc0\u0dd0\u0da7\u0dd2\u0dba\u0d9a-\u0db8\u0dd2\u0dbd-\u0d89\u0dc4\u0dc5\u0da7/11-396816",
+    "time_ut": 1662024166,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dc0\u0dd0\u0da7\u0dd2\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0d89\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/f0/f00186cf.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dd2\u0d9c\u0dbb\u0dd0\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0dca-\u0d9c\u0dab\u0db1\u0dca-\u0d8b\u0dc3\u0dca\u0dc3\u0dba\u0dd2/101-619123",
     "time_ut": 1662024127,
     "original_lang": "si",
     "original_title": "\u0dc3\u0dd2\u0d9c\u0dbb\u0dd0\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0dca \u0d9c\u0dab\u0db1\u0dca \u0d8b\u0dc3\u0dca\u0dc3\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/14/14f4b7eb.json"
+    "file_name": "/tmp/news_lk2/articles/04/04b357f0.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -41,11 +81,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Cigarette-prices-increased/342-244136",
+    "url": "https://www.dailymirror.lk/breaking_news/Cigarette-prices-increased/108-244136",
     "time_ut": 1662021466,
     "original_lang": "en",
     "original_title": "Cigarette prices increased",
-    "file_name": "/tmp/news_lk2/articles/27/2770e809.json"
+    "file_name": "/tmp/news_lk2/articles/57/577fa73d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -72,6 +112,14 @@
     "file_name": "/tmp/news_lk2/articles/57/57e7fcf3.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84684/price-of-cigarettes-increased-from-today",
+    "time_ut": 1662020460,
+    "original_lang": "en",
+    "original_title": "Price of cigarettes increased from today",
+    "file_name": "/tmp/news_lk2/articles/78/7866d21d.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-seeks-to-meet-creditors-armed-with-imf-deal-99342/",
     "time_ut": 1662020460,
@@ -81,11 +129,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/600-000MT-of-substandard-rice-imported-due-to-chemical-fertilizer-ban-Amaraweera/342-244135",
+    "url": "https://www.dailymirror.lk/breaking_news/600-000MT-of-substandard-rice-imported-due-to-chemical-fertilizer-ban-Amaraweera/108-244135",
     "time_ut": 1662020179,
     "original_lang": "en",
     "original_title": "600,000MT of substandard rice imported due to chemical fertilizer ban: Amaraweera",
-    "file_name": "/tmp/news_lk2/articles/9a/9abc7c79.json"
+    "file_name": "/tmp/news_lk2/articles/21/21ae950f.json"
   },
   {
     "newspaper_id": "news-first-lk",
