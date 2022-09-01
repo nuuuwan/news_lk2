@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84693/child-critically-injured-in-brutal-stabbing-suspect-arrested",
+    "time_ut": 1662039960,
+    "original_lang": "en",
+    "original_title": "Child critically injured in brutal stabbing; suspect arrested",
+    "file_name": "/tmp/news_lk2/articles/bf/bf65d93a.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1/\u0b95\u0bc1\u0bb3\u0bbf\u0bb0\u0bcd\u0b9a\u0bbe\u0ba4\u0ba9\u0baa\u0bcd\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc8-\u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4-\u0baa\u0bcb\u0ba4\u0bc1-\u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf-\u0ba4\u0bbe\u0baf\u0bcd-\u0baa\u0bb2\u0bbf/73-303408",
     "time_ut": 1662038890,
@@ -110,6 +118,14 @@
     "original_lang": "en",
     "original_title": "NDCU initiates dengue prevention program",
     "file_name": "/tmp/news_lk2/articles/d4/d477a56c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/picture_story/\u0daf\u0dd9\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca-\u0dc0\u0dd9\u0db1\u0d9a\u0db8\u0dca-\u0d85\u0db4\u0dc4\u0dc3\u0dd4\u0dad\u0dcf-\u0dc0\u0dd2\u0daf\u0dd2\u0db1\u0dca\u0db1-\u0dc0\u0dd9\u0db1\u0dc0\u0dcf/10-396822",
+    "time_ut": 1662035285,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd9\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca \u0dc0\u0dd9\u0db1\u0d9a\u0db8\u0dca \u0d85\u0db4\u0dc4\u0dc3\u0dd4\u0dad\u0dcf \u0dc0\u0dd2\u0daf\u0dd2\u0db1\u0dca\u0db1 \u0dc0\u0dd9\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/7e/7e1e779e.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
