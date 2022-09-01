@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0d86\u0dba\u0dad\u0db1-\u0dc0\u0dd9\u0dad-\u0dbd\u0dd2\u0db4\u0dd2-\u0d91\u0dc0\u0dd3\u0db8\u0dda\u0daf\u0dd3-\u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1-\u0d85\u0d82\u0d9a\u0dba\u0d9a\u0dca-\u0dc3\u0da7\u0dc4\u0db1\u0dca-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca\u0daf\u0dd3\u0db8\u0d9a\u0dca/101-619126",
+    "time_ut": 1662025978,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d86\u0dba\u0dad\u0db1 \u0dc0\u0dd9\u0dad \u0dbd\u0dd2\u0db4\u0dd2 \u0d91\u0dc0\u0dd3\u0db8\u0dda\u0daf\u0dd3 \u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1 \u0d85\u0d82\u0d9a\u0dba\u0d9a\u0dca \u0dc3\u0da7\u0dc4\u0db1\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca\u0daf\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/f4/f44dc5a3.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/caption_story/Wesley-College-trounce-Science-College/110-244139",
     "time_ut": 1662025398,
@@ -22,6 +30,14 @@
     "original_lang": "en",
     "original_title": "India is anchor of regional security, Sri Lankan envoy says",
     "file_name": "/tmp/news_lk2/articles/2f/2f483695.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dd9\u0dba\u0dbb\u0dcf\u0da2\u0dca-\u0d9d\u0dcf\u0dad\u0db1-\u0db1\u0da9\u0dd4\u0dc0\u0dda-LTTE-\u0dc3\u0dcf\u0db8\u0da2\u0dd2\u0d9a\u0dba\u0dcf-\u0dc4\u0dcf-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-ASP-\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca/11-396817",
+    "time_ut": 1662024595,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dd9\u0dba\u0dbb\u0dcf\u0da2\u0dca \u0d9d\u0dcf\u0dad\u0db1 \u0db1\u0da9\u0dd4\u0dc0\u0dda LTTE \u0dc3\u0dcf\u0db8\u0da2\u0dd2\u0d9a\u0dba\u0dcf \u0dc4\u0dcf \u0dc4\u0dd2\u0da7\u0db4\u0dd4 ASP \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca",
+    "file_name": "/tmp/news_lk2/articles/99/9957c8f4.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
