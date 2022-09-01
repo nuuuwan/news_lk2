@@ -1,0 +1,174 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/latest_news/GR-to-return-back-to-SL-on-Saturday/342-244141",
+  "time_ut": 1662028451,
+  "original_lang": "en",
+  "original_title": "GR to return back to SL on Saturday",
+  "text_idx": {
+    "en": {
+      "title": "GR to return back to SL on Saturday",
+      "author": "unknown",
+      "body_lines": [
+        "Former President Gotabaya Rajapaksa will return back to the country on Saturday, a source close to him said.",
+        "The Former President fled the county following mass agitations calling for his resignation on July 9. He is currently in Thailand.",
+        "President Ranil Wickremesinghe made arrangements for his return upon a request by Sri Lanka Podujana Peramuna (SLPP). (Kelum Bandara)"
+      ],
+      "title_ents": [
+        {
+          "text": "Saturday",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Gotabaya Rajapaksa",
+            "label": "PERSON"
+          },
+          {
+            "text": "Saturday",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "July 9",
+            "label": "DATE"
+          },
+          {
+            "text": "Thailand",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Ranil Wickremesinghe",
+            "label": "PERSON"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Podujana Peramuna",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kelum Bandara",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf \u0db1\u0dd0\u0dc0\u0dad \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0da7 GR",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0db8\u0dc4\u0dad\u0dcf \u0dbd\u0db6\u0db1 \u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf \u0dba\u0dc5\u0dd2 \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1\u0dd4 \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0d94\u0dc4\u0dd4\u0da7 \u0dc3\u0db8\u0dd3\u0db4 \u0d86\u0dbb\u0d82\u0da0\u0dd2 \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0da2\u0dd4\u0dbd\u0dd2 9 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0db6\u0dc0\u0da7 \u0d9a\u0dc5 \u0da2\u0db1\u0dad\u0dcf \u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dbd\u0dcf \u0d9c\u0dd2\u0dba \u0d85\u0dad\u0dbb \u0db8\u0dda \u0dc0\u0db1\u0dc0\u0dd2\u0da7 \u0d94\u0dc4\u0dd4 \u0dc3\u0dd2\u0da7\u0dd2\u0db1\u0dca\u0db1\u0dda \u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda\u0dba.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab\u0dda (SLPP) \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4 \u0db8\u0dc4\u0dad\u0dcf \u0db1\u0dd0\u0dc0\u0dad \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0da7 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0dc3\u0db8\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dc5\u0dda\u0dba. (\u0d9a\u0dd0\u0dc5\u0dd4\u0db8\u0dca \u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 9",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad\u0dba",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd0\u0dc5\u0dd4\u0db8\u0dca \u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8\u0baf\u0ba9\u0bcd\u0bb1\u0bc1 SL\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 GR",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0ba8\u0bbe\u0b9f\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba9 \u0bb5\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9.",
+        "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9c\u0bc2\u0bb2\u0bc8 9 \u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0ba4\u0ba9\u0ba4\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc8 \u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b95\u0bcb\u0bb0\u0bbf \u0bb5\u0bc6\u0b95\u0bc1\u0b9c\u0ba9 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u0b85\u0bb5\u0bb0\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9\u0bb5\u0bbf\u0ba9\u0bcd (SLPP) \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba3\u0b99\u0bcd\u0b95 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0b85\u0bb5\u0bb0\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b8f\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. (\u0b95\u0bc6\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 9",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bc6\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}

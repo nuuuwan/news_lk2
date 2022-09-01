@@ -1,0 +1,180 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/latest_news/Wesley-College-trounce-Science-College/342-244139",
+  "time_ut": 1662025398,
+  "original_lang": "en",
+  "original_title": "Wesley College trounce Science College",
+  "text_idx": {
+    "en": {
+      "title": "Wesley College trounce Science College",
+      "author": "unknown",
+      "body_lines": [
+        "Wesley College romped to a 38-00 win over Science College in the fourth quarter-final of the President's Trophy schools rugby knockout tournament. Wesley led 05-00 at the half-time whistle before shifting up a gear to score 33 points in the second half. Pix by Nisal Baduge"
+      ],
+      "title_ents": [
+        {
+          "text": "Wesley College",
+          "label": "ORG"
+        },
+        {
+          "text": "Science College",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Wesley College",
+            "label": "ORG"
+          },
+          {
+            "text": "38-00",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Science College",
+            "label": "ORG"
+          },
+          {
+            "text": "the fourth quarter-final",
+            "label": "DATE"
+          },
+          {
+            "text": "05-00",
+            "label": "DATE"
+          },
+          {
+            "text": "half",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "33",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the second half",
+            "label": "DATE"
+          },
+          {
+            "text": "Nisal Baduge",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc0\u0dd9\u0dc3\u0dca\u0dbd\u0dd2 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba \u0db4\u0dbb\u0dcf\u0da2\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1 \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dbb\u0d9c\u0dca\u0db6\u0dd2 \u0db4\u0dd2\u0dc5\u0dd2\u0db8\u0dc5\u0dd4\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dd4\u0daf\u0dd0\u0d9a\u0dd3\u0db8\u0dda \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0dc3\u0dd2\u0dc0\u0dca\u0dc0\u0dd0\u0db1\u0dd2 \u0d85\u0dbb\u0dca\u0db0 \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0db4\u0dd6\u0dbb\u0dca\u0dc0 \u0dad\u0dbb\u0d9c\u0dba\u0dda\u0daf\u0dd3 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 38-00\u0d9a \u0da2\u0dba\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc0\u0dd9\u0dc3\u0dca\u0dbd\u0dd2 \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd \u0dc3\u0db8\u0dad\u0dca\u0dc0\u0dd2\u0dba. \u0daf\u0dd9\u0dc0\u0db1 \u0d85\u0dbb\u0dca\u0db0\u0dba\u0dda\u0daf\u0dd3 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 33\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d9c\u0dd2\u0dba\u0dbb\u0dba\u0d9a\u0dca \u0d89\u0dc4\u0dc5\u0da7 \u0dba\u0dcf\u0db8\u0da7 \u0db4\u0dd9\u0dbb \u0dc0\u0dd9\u0dc3\u0dca\u0dbd\u0dd2 \u0d85\u0dbb\u0dca\u0db0-\u0d9a\u0dcf\u0dbd \u0dc0\u0dd2\u0dc3\u0dca\u0dbd\u0dca \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 05-00\u0d9a\u0dca \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda\u0dba. Pix by Nisal Baduge"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc0\u0dd9\u0dc3\u0dca\u0dbd\u0dd2 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc0\u0dd9\u0dc3\u0dca\u0dbd\u0dd2 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "38-00",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dc0\u0dca\u0dc0\u0db1 \u0d85\u0dbb\u0dca\u0db0 \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0db4\u0dd6\u0dbb\u0dca\u0dc0 \u0dad\u0dbb\u0d9c\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "05-00",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d85\u0da9\u0d9a\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "33",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0db1 \u0db7\u0dcf\u0d9c\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db1\u0dd2\u0dc3\u0dbd\u0dca \u0db6\u0daf\u0dd4\u0d9c\u0dda",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bb5\u0bc6\u0bb8\u0bcd\u0bb2\u0bbf \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0b9f\u0bcd\u0bb0\u0bb5\u0bc1\u0ba9\u0bcd\u0bb8\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8 \u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bb0\u0b95\u0bcd\u0baa\u0bbf \u0ba8\u0bbe\u0b95\u0bcd \u0b85\u0bb5\u0bc1\u0b9f\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bbe\u0bb5\u0ba4\u0bc1 \u0b95\u0bbe\u0bb2\u0bbf\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb8\u0bcd\u0bb2\u0bbf \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf, \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf\u0baf\u0bc8 38-00 \u0b8e\u0ba9\u0bcd\u0bb1 \u0b95\u0bcb\u0bb2\u0bcd \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1. \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0baa\u0bbe\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd 33 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1 \u0b92\u0bb0\u0bc1 \u0b95\u0bbf\u0baf\u0bb0\u0bc8 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd, \u0bb5\u0bc6\u0bb8\u0bcd\u0bb2\u0bbf \u0b85\u0bb0\u0bc8 \u0ba8\u0bc7\u0bb0 \u0bb5\u0bbf\u0b9a\u0bbf\u0bb2\u0bcd 05-00 \u0b8e\u0ba9 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8 \u0bb5\u0b95\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0ba8\u0bbf\u0b9a\u0bb2\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bc7\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0b95\u0bcd\u0bb8\u0bcd"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bb5\u0bc6\u0bb8\u0bcd\u0bb2\u0bbf \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0bb5\u0bc6\u0bb8\u0bcd\u0bb2\u0bbf \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "38-00",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bbe\u0bb5\u0ba4\u0bc1 \u0b95\u0bbe\u0bb2\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "05-00",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bbf",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "33",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0baa\u0bbe\u0ba4\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0b9a\u0bb2\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bc7",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
