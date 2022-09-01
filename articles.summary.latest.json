@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0dad\u0dca-\u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf\u0da7-\u0d9a\u0dd0\u0dad\u0dd2-\u0db4\u0dc4\u0dbb-\u0daf\u0dd4\u0db1\u0dca-\u0db1\u0dbb\u0dd4\u0db8-\u0dc3\u0dd2\u0dba\u0dcf/1-619151",
+    "time_ut": 1662044192,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dad\u0dca \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2 \u0daf\u0dbb\u0dd4\u0dc0\u0dcf\u0da7 \u0d9a\u0dd0\u0dad\u0dd2 \u0db4\u0dc4\u0dbb \u0daf\u0dd4\u0db1\u0dca \u0db1\u0dbb\u0dd4\u0db8 \u0dc3\u0dd2\u0dba\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/fc/fcee64a4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/01/kegalle-shooting-sjb-organizer-arrested/",
+    "time_ut": 1662044160,
+    "original_lang": "en",
+    "original_title": "Kegalle Shooting: SJB Organizer arrested",
+    "file_name": "/tmp/news_lk2/articles/0b/0b7ed706.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7\u0dad\u0dca-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dca\u0da7\u0dad\u0dca-\u0daf\u0dd0\u0d9a\u0dca\u0db8\u0d9a\u0dca-\u0db1\u0dd1\u2018\u2018/1-619150",
+    "time_ut": 1662043679,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7\u0dad\u0dca \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dca\u0da7\u0dad\u0dca \u0daf\u0dd0\u0d9a\u0dca\u0db8\u0d9a\u0dca \u0db1\u0dd1\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/49/49ef0cf0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0da2\u0db4\u0db1\u0dca-\u0db8\u0dc4\u0dcf\u0da0\u0dcf\u0dbb\u0dca\u0dba\u0dc0\u0dbb\u0dd2\u0dba\u0da7-\u0d85\u0db8\u0dad\u0d9a-\u0dc0\u0dd6-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0db4\u0dc3\u0dd4\u0db8\u0dca\u0db6\u0dd2\u0dba-\u0d86\u0db4\u0dc3\u0dd4-\u0daf\u0dd9\u0dba\u0dd2/101-619149",
     "time_ut": 1662042986,
     "original_lang": "si",
@@ -33,11 +57,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dbd-\u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca-\u0db1\u0dd1/101-619147",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dbd-\u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca-\u0db1\u0dd1/1-619147",
     "time_ut": 1662042016,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/be/be9d5733.json"
+    "file_name": "/tmp/news_lk2/articles/15/157efecd.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
