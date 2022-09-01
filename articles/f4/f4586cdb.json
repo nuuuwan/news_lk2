@@ -1,0 +1,84 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0bae\u0bb0\u0bc8\u0b95\u0bcd-\u0b95\u0bcb\u0baa\u0bc1\u0bb0\u0bae\u0bcd-15\u0b86\u0bae\u0bcd-\u0ba4\u0bbf\u0b95\u0ba4\u0bbf-\u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd/175-303321",
+  "time_ut": 1661936434,
+  "original_lang": "ta",
+  "original_title": "\u0ba4\u0bbe\u0bae\u0bb0\u0bc8\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bc1\u0bb0\u0bae\u0bcd 15\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "Tamarai Gopuram will be opened on 15th",
+      "author": "unknown",
+      "body_lines": [
+        "Public can also go to Tamarikopuram to buy goods. The login fee ranges from Rs.500 to Rs.2,000. 20 USD will be charged to tourists."
+      ],
+      "title_ents": [
+        {
+          "text": "Tamarai Gopuram",
+          "label": "PERSON"
+        },
+        {
+          "text": "15th",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "20 USD",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dad\u0db8\u0dcf\u0dbb\u0dba\u0dd2 \u0d9c\u0ddd\u0db4\u0dd4\u0dbb\u0db8\u0dca 15 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dd9\u0dbb\u0dda",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0db8\u0dc4\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dad\u0db8\u0dbb\u0dd2\u0d9a\u0ddd\u0db4\u0dd4\u0dbb\u0db8\u0dca \u0dc0\u0dd9\u0dad \u0dba\u0dcf \u0dc4\u0dd0\u0d9a\u0dd2\u0dba. \u0d87\u0dad\u0dd4\u0dbd\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 500 \u0dc3\u0dd2\u0da7 2000 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dbb\u0dcf\u0dc3\u0dba\u0d9a \u0db4\u0dc0\u0dad\u0dd3. 20 USD \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0dba \u0d9a\u0dd9\u0dbb\u0dda."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dad\u0db8\u0dbb\u0dba\u0dd2 \u0d9c\u0ddd\u0db4\u0dd4\u0dbb\u0db8\u0dca",
+          "label": "PERSON"
+        },
+        {
+          "text": "15 \u0dc0\u0dd0\u0db1\u0dd2",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "20 USD",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0ba4\u0bbe\u0bae\u0bb0\u0bc8\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bc1\u0bb0\u0bae\u0bcd 15\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd",
+      "author": "unknown",
+      "body_lines": [
+        "\u200b\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba9\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95, \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0ba4\u0bbe\u0bae\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bcb\u0baa\u0bc1\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bb2\u0bbe\u0bae\u0bcd. \u0b89\u0bb3\u0bcd\u0ba8\u0bc1\u0bb4\u0bc8\u0bb5\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0bb0\u0bc2.500 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 2,000 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd. \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 20 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9f\u0bca\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb1\u0bb5\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0ba4\u0bbe\u0bae\u0bb0\u0bc8 \u0b95\u0bcb\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+          "label": "PERSON"
+        },
+        {
+          "text": "15\u0bb5\u0ba4\u0bc1",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "20 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}

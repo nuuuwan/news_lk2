@@ -1,0 +1,258 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/breaking_news/Troops-arrest-duo-with-10-4-kg-of-ICE-worth-Rs-150mn-in-Mannar/108-244063",
+  "time_ut": 1661924082,
+  "original_lang": "en",
+  "original_title": "Troops arrest duo with 10.4 kg of ICE worth Rs. 150mn in Mannar",
+  "text_idx": {
+    "en": {
+      "title": "Troops arrest duo with 10.4 kg of ICE worth Rs. 150mn in Mannar",
+      "author": "unknown",
+      "body_lines": [
+        "Two men were arrested by the Army with 10.4 kg of ICE (methamphetamine crystals) which has a street value of more than Rs. 150 million at a Mannar roadblock this morning.",
+        "Army said the two men were attempting to shuttle those drugs from Thalaimannar to Vangalai area in a cab.",
+        "Army troopers handed over those suspects and the seized drugs to the Mannar Police station for further inquiries. (Darshana Sanjeewa Balasuriya)"
+      ],
+      "title_ents": [
+        {
+          "text": "10.4 kg",
+          "label": "QUANTITY"
+        },
+        {
+          "text": "ICE",
+          "label": "ORG"
+        },
+        {
+          "text": "Mannar",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Army",
+            "label": "ORG"
+          },
+          {
+            "text": "10.4 kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "ICE",
+            "label": "ORG"
+          },
+          {
+            "text": "150 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Mannar",
+            "label": "PERSON"
+          },
+          {
+            "text": "this morning",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "Army",
+            "label": "ORG"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Thalaimannar to Vangalai",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Army",
+            "label": "ORG"
+          },
+          {
+            "text": "Mannar Police",
+            "label": "ORG"
+          },
+          {
+            "text": "Darshana Sanjeewa Balasuriya",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0d9a\u0ddd\u0da7\u0dd2 10\u0d9a\u0dca \u0dc0\u0da7\u0dd2\u0db1\u0dcf \u0d85\u0dba\u0dd2\u0dc3\u0dca \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 10.4\u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8\u0dda 150mn",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc0\u0dd3\u0daf\u0dd2 \u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0d9a\u0db8 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0d9a\u0ddd\u0da7\u0dd2\u0dba\u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 ICE (methamphetamine crystals) \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 10.4\u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd2\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dba\u0dd4\u0daf \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd9\u0db1 \u0dad\u0dd2\u0db6\u0dda. \u0d85\u0daf \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4\u0dc0\u0dda \u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0db6\u0dcf\u0db0\u0d9a\u0dba\u0d9a \u0daf\u0dd3 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 150\u0d9a\u0dca.",
+        "\u0d94\u0dc0\u0dd4\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf \u0d9a\u0dd0\u0db6\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0dad\u0dbd\u0dd9\u0dba\u0dd2\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8\u0dda \u0dc3\u0dd2\u0da7 \u0dc0\u0d82\u0d9c\u0dbd\u0dd9\u0dba\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db8\u0dd9\u0db8 \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dad\u0ddc\u0d9c\u0dba \u0dbb\u0dd0\u0d9c\u0dd9\u0db1 \u0dba\u0dcf\u0db8\u0da7 \u0d8b\u0dad\u0dca\u0dc3\u0dcf\u0dc4 \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2 \u0db6\u0dc0 \u0dba\u0dd4\u0daf \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0dba\u0dd4\u0daf \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dc3\u0dd9\u0db6\u0dc5\u0dd4\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dc4 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dad\u0dca \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dc0\u0dd9\u0dad \u0db7\u0dcf\u0dbb \u0daf\u0dd9\u0db1 \u0dbd\u0daf\u0dd3. (\u0daf\u0dbb\u0dca\u0dc1\u0db1 \u0dc3\u0d82\u0da2\u0dd3\u0dc0 \u0db6\u0dcf\u0dbd\u0dc3\u0dd6\u0dbb\u0dd2\u0dba)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 10.4 \u0d9a\u0dd2",
+          "label": "QUANTITY"
+        },
+        {
+          "text": "ICE",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc4\u0db8\u0dd4\u0daf\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 10.4 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "ICE",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 150 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dda \u0d8b\u0daf\u0dd1\u0dc3\u0db1",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc4\u0db8\u0dd4\u0daf\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dad\u0dbd\u0dd9\u0dba\u0dd2\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0dc3\u0dd2\u0da7 \u0dc0\u0d82\u0d9c\u0dbd\u0dd9\u0dba\u0dd2",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc4\u0db8\u0dd4\u0daf\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dbb\u0dca\u0dc1\u0db1 \u0dc3\u0d82\u0da2\u0dd3\u0dc0 \u0db6\u0dcf\u0dbd\u0dc3\u0dd6\u0dbb\u0dd2\u0dba",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "10.4 \u0b95\u0bbf\u0bb2\u0bcb \u0b90\u0b9a\u0bbf\u0b87 \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd. \u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd 150\u0bae\u0bbf",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "10.4 \u0b95\u0bbf\u0bb2\u0bcb \u0b90\u0b9a\u0bbf\u0b87 (\u0bae\u0bc6\u0ba4\u0bcd\u0ba4\u0bbe\u0bae\u0bcd\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0ba9\u0bcd \u0b95\u0bbf\u0bb0\u0bbf\u0bb8\u0bcd\u0b9f\u0bb2\u0bcd\u0bb8\u0bcd) \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd, \u0b87\u0ba4\u0ba9\u0bcd \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bb0\u0bc2. \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0bb2\u0bc8 \u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0bb5\u0bc0\u0ba4\u0bbf\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 150 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd.",
+        "\u0ba4\u0bb2\u0bc8\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bc8 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc6\u0baa\u0bcd \u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0bae\u0bc7\u0bb2\u0ba4\u0bbf\u0b95 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0baa\u0bcd \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd. (\u0ba4\u0bb0\u0bcd\u0bb7\u0ba9 \u0b9a\u0b9e\u0bcd\u0b9a\u0bc0\u0bb5 \u0baa\u0bbe\u0bb2\u0b9a\u0bc2\u0bb0\u0bbf\u0baf)"
+      ],
+      "title_ents": [
+        {
+          "text": "10.4 \u0b95\u0bbf\u0bb2\u0bcb",
+          "label": "QUANTITY"
+        },
+        {
+          "text": "ICE",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "10.4 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "ICE",
+            "label": "ORG"
+          },
+          {
+            "text": "150 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0bb2\u0bc8",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bb2\u0bc8\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bc8 \u0bb5\u0bb0\u0bc8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bb0\u0bcd\u0bb7\u0ba9 \u0b9a\u0b9e\u0bcd\u0b9a\u0bc0\u0bb5 \u0baa\u0bbe\u0bb2\u0b9a\u0bc2\u0bb0\u0bbf\u0baf",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,1152 @@
+{
+  "newspaper_id": "d-b-s-jeyaraj-com",
+  "url": "https://dbsjeyaraj.com/dbsj/archives/78879",
+  "time_ut": 1659727440,
+  "original_lang": "en",
+  "original_title": "Sri Lanka Rescinds Permission Given for Chinese Vessel \u201cYuan Wang 5\u201d to dock at Hambantota for Replenishment: \u201cThe Ministry requests that the arrival date of the vessel Yuan Wang 5 in Hambantota be deferred until further consultations are made on this matter,\u201d  says  Lankan  Foreign Ministry note;Chinese Envoy Protests to President Wickremesinghe",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka Rescinds Permission Given for Chinese Vessel \u201cYuan Wang 5\u201d to dock at Hambantota for Replenishment: \u201cThe Ministry requests that the arrival date of the vessel Yuan Wang 5 in Hambantota be deferred until further consultations are made on this matter,\u201d  says  Lankan  Foreign Ministry note;Chinese Envoy Protests to President Wickremesinghe",
+      "author": "Administrator",
+      "body_lines": [
+        "The Government on Thursday (4) decided to rescind the permission granted to the Yuan Wang 5 Chinese research vessel with the relevant official communication to the Chinese Embassy in Colombo being delivered on Friday (5), The Sunday Morning learns.",
+        "The Yuan Wang 5\u2019s visit to Sri Lanka that was earlier scheduled for Thursday (11) caused much controversy, with India posting strong concerns and protests over permission being granted for the Chinese vessel to dock in Sri Lanka as the vessel has satellite and missile tracking capabilities.",
+        "The Sri Lankan Government made several efforts, including several unofficial discussions being held between the President and the Indian and Chinese envoys in Sri Lanka, to resolve the diplomatic row over the Chinese vessel.",
+        "The President has also requested Foreign Minister Ali Sabry to discuss the issue over the Chinese vessel with his Indian and Chinese counterparts on the sidelines of the ASEAN summit in Cambodia. However, despite efforts by the Foreign Minister, the issue was not resolved, with the Chinese leaders not agreeing to consider a change of route for the vessel.",
+        "Highly-placed Government sources told The Sunday Morning that during Ali Sabry\u2019s meeting with Chinese Foreign Minister Wang Yi, efforts had been made to explain the crisis faced by the country and the exceptional situation Sri Lanka was in at present and to request the Chinese to help Sri Lanka by changing the Yuan Wang 5\u2019s route to avoid docking in the country at present.",
+        "However, the Chinese official had not agreed, saying that permission had been sought from the Sri Lankan Government and that it had been granted for the vessel to dock in Sri Lanka for replenishment.",
+        "When Sabry communicated the outcome of the meeting to President Wickremesinghe, it had been decided that the Government had no option but to rescind the permission granted for the Yuan Wang 5 to dock in Hambantota.",
+        "\u201cThe Ministry requests that the arrival date of the vessel Yuan Wang 5 in Hambantota be deferred until further consultations are made on this matter,\u201d the Foreign Ministry has noted in its note sent to the Chinese Embassy in Colombo last Friday.",
+        "\u201cThe Ministry of Foreign Affairs of the Democratic Socialist Republic of Sri Lanka avails itself of this opportunity to renew to the Embassy of the People\u2019s Republic of China in Colombo the assurances of its highest consideration,\u201d the note added.",
+        "Chinese Ambassador to Colombo Qi Zhenhong requested to meet the President soon after receiving the note on Friday and was granted an appointment last afternoon (6). It is learnt that the Chinese Envoy has expressed China\u2019s concern and displeasure at the Sri Lankan Government\u2019s decision to rescind permission to the Chinese vessel.",
+        "It is learnt that the Sri Lankan Government in 2021 and early 2022 had granted permission for several Chinese vessels for replenishment in Sri Lankan ports. Among them are Shi Yan 1 (15 April 2021 to Colombo), Shi Yan 3 (15 May 2021 to Colombo), Hai Ce 3301 (8 December 2021 and 5 January 2022 to Colombo) and Shi Yan 6 (20 April 2022 to Colombo).",
+        "All these vessels had sought permission from the Foreign Ministry for docking and replenishments. Another vessel \u2013 Xiang Yang Hong 3 \u2013 that was due to dock in Colombo on 7 July 2022 for \u2018research\u2019 purposes had been cancelled.",
+        "It is in this same manner that Yuan Wang 5 had sought permission to dock at the Hambantota Port on 11 August for replenishment."
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka",
+          "label": "LOC"
+        },
+        {
+          "text": "Chinese",
+          "label": "NORP"
+        },
+        {
+          "text": "Yuan Wang",
+          "label": "PERSON"
+        },
+        {
+          "text": "Yuan Wang",
+          "label": "PERSON"
+        },
+        {
+          "text": "Lankan  Foreign Ministry",
+          "label": "ORG"
+        },
+        {
+          "text": "Wickremesinghe",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Thursday",
+            "label": "DATE"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "the Chinese Embassy in Colombo",
+            "label": "ORG"
+          },
+          {
+            "text": "Friday",
+            "label": "DATE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sunday",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Thursday",
+            "label": "DATE"
+          },
+          {
+            "text": "11",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "The Sri Lankan Government",
+            "label": "ORG"
+          },
+          {
+            "text": "Indian",
+            "label": "NORP"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "Ali Sabry",
+            "label": "PERSON"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "Indian",
+            "label": "NORP"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "ASEAN",
+            "label": "ORG"
+          },
+          {
+            "text": "Cambodia",
+            "label": "GPE"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "The Sunday Morning",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Ali Sabry",
+            "label": "PERSON"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "Wang Yi",
+            "label": "PERSON"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "the Sri Lankan Government",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Sabry",
+            "label": "PERSON"
+          },
+          {
+            "text": "Wickremesinghe",
+            "label": "PERSON"
+          },
+          {
+            "text": "Hambantota",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Yuan Wang",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Foreign Ministry",
+            "label": "ORG"
+          },
+          {
+            "text": "the Chinese Embassy in Colombo",
+            "label": "ORG"
+          },
+          {
+            "text": "last Friday",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "The Ministry of Foreign Affairs",
+            "label": "ORG"
+          },
+          {
+            "text": "the Democratic Socialist Republic of Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "the Embassy of the People\u2019s Republic of China",
+            "label": "ORG"
+          },
+          {
+            "text": "Colombo",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "Colombo Qi Zhenhong",
+            "label": "PERSON"
+          },
+          {
+            "text": "Friday",
+            "label": "DATE"
+          },
+          {
+            "text": "6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "China",
+            "label": "GPE"
+          },
+          {
+            "text": "the Sri Lankan Government\u2019s",
+            "label": "ORG"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "the Sri Lankan Government",
+            "label": "ORG"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "early 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "Sri Lankan",
+            "label": "NORP"
+          },
+          {
+            "text": "Shi Yan",
+            "label": "PERSON"
+          },
+          {
+            "text": "15 April 2021",
+            "label": "DATE"
+          },
+          {
+            "text": "Shi Yan",
+            "label": "PERSON"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "15 May 2021",
+            "label": "DATE"
+          },
+          {
+            "text": "Hai Ce 3301",
+            "label": "PERSON"
+          },
+          {
+            "text": "8 December 2021",
+            "label": "DATE"
+          },
+          {
+            "text": "5 January 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "Colombo",
+            "label": "PERSON"
+          },
+          {
+            "text": "Shi Yan",
+            "label": "PERSON"
+          },
+          {
+            "text": "20 April 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "the Foreign Ministry",
+            "label": "ORG"
+          },
+          {
+            "text": "Xiang Yang",
+            "label": "PERSON"
+          },
+          {
+            "text": "Colombo",
+            "label": "GPE"
+          },
+          {
+            "text": "7 July 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Yuan Wang 5",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Hambantota Port",
+            "label": "FAC"
+          },
+          {
+            "text": "11 August",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0da0\u0dd3\u0db1 \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca \u0dc0\u0db1 \u201c\u0dba\u0dd4\u0dc0\u0dcf\u0db1\u0dca \u0dc0\u0dd0\u0db1\u0dca\u0d9c\u0dca 5\u201d \u0db1\u0dd0\u0dc0\u0dad \u0db4\u0dd2\u0dbb\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0db1\u0dd0\u0d82\u0d9c\u0dd4\u0dbb\u0db8\u0dca \u0dbd\u0dd1\u0db8\u0da7 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dbd\u0db6\u0dcf\u0daf\u0dd3 \u0dad\u0dd2\u0db6\u0dd6 \u0d85\u0dc0\u0dc3\u0dbb\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2: \u201c\u0dba\u0dd4\u0dc0\u0dcf\u0db1\u0dca \u0dc0\u0dd0\u0db1\u0dca\u0d9c\u0dca 5 \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0 \u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0dda \u0daf\u0dd2\u0db1\u0dba \u0d9a\u0dbd\u0dca \u0daf\u0db8\u0db1 \u0dbd\u0dd9\u0dc3 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dd2. \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0dc3\u0da7\u0dc4\u0db1; \u0da0\u0dd3\u0db1 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4\u0da7 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba \u0db4\u0dc5 \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0d9a",
+      "body_lines": [
+        "\u0dba\u0dd4\u0dc0\u0dcf\u0db1\u0dca \u0dc0\u0dd0\u0db1\u0dca\u0d9c\u0dca 5 \u0da0\u0dd3\u0db1 \u0db4\u0dbb\u0dca\u0dba\u0dda\u0dc2\u0dab \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0da7 \u0dbd\u0db6\u0dcf\u0daf\u0dd3 \u0dad\u0dd2\u0db6\u0dd6 \u0d85\u0dc0\u0dc3\u0dbb\u0dba \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dbb\u0da2\u0dba \u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf (4) \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dc5 \u0d85\u0dad\u0dbb \u0d85\u0daf\u0dcf\u0dc5 \u0db1\u0dd2\u0dbd \u0dc3\u0db1\u0dca\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d9a\u0ddc\u0dc5\u0db9 \u0da0\u0dd3\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0dc0\u0dd9\u0dad \u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf (5) \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0db6\u0dc0 The Sunday Morning \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb\u0dba\u0dd2.",
+        "\u0db8\u0dd3\u0da7 \u0db4\u0dd9\u0dbb \u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf (11) \u0daf\u0dd2\u0db1\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dc0 \u0dad\u0dd2\u0db6\u0dd6 \u0dba\u0dd4\u0dc0\u0dcf\u0db1\u0dca \u0dc0\u0dd0\u0db1\u0dca\u0d9c\u0dca 5 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba \u0db6\u0ddc\u0dc4\u0ddd \u0d86\u0db1\u0dca\u0daf\u0ddd\u0dbd\u0db1\u0dba\u0da7 \u0dad\u0dd4\u0da9\u0dd4 \u0daf\u0dd4\u0db1\u0dca \u0d85\u0dad\u0dbb, \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0da7 \u0da0\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf \u0dc3\u0dc4 \u0db8\u0dd2\u0dc3\u0dba\u0dd2\u0dbd \u0dbd\u0dd4\u0dc4\u0dd4\u0db6\u0dd0\u0db3\u0dd3\u0db8\u0dda \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0 \u0d87\u0dad\u0dd2 \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0da0\u0dd3\u0db1 \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0da7 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dbb \u0daf\u0dd3\u0db8 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0daf\u0dd0\u0da9\u0dd2 \u0d9a\u0db1\u0dc3\u0dca\u0dc3\u0dbd\u0dca\u0dbd\u0d9a\u0dca \u0dc3\u0dc4 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0db4\u0dc5 \u0d9a\u0dc5\u0dda\u0dba. .",
+        "\u0da0\u0dd3\u0db1 \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0d87\u0dad\u0dd2 \u0dc0\u0dd6 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dad\u0dcf\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a \u0d9c\u0dd0\u0da7\u0dd4\u0db8 \u0dc3\u0db8\u0dae\u0dba\u0d9a\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dc3\u0dc4 \u0da0\u0dd3\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0d85\u0dad\u0dbb \u0db1\u0dd2\u0dbd \u0db1\u0ddc\u0dc0\u0db1 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8 \u0d87\u0dad\u0dd4\u0dc5\u0dd4\u0dc0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba \u0d8b\u0dad\u0dca\u0dc3\u0dcf\u0dc4\u0dba\u0db1\u0dca \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca\u0db8 \u0d9c\u0db1\u0dd4 \u0dbd\u0dd0\u0db6\u0dd3\u0dba.",
+        "\u0d9a\u0dcf\u0db8\u0dca\u0db6\u0ddd\u0da2\u0dba\u0dda \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd9\u0db1 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dca \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0da7 \u0dc3\u0db8\u0d9c\u0dcf\u0db8\u0dd3\u0dc0 \u0da0\u0dd3\u0db1 \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dad\u0dd4\u0dc0 \u0d87\u0dad\u0dd2 \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dc3\u0dc4 \u0da0\u0dd3\u0db1 \u0dc3\u0d9c\u0dba\u0db1\u0dca \u0dc3\u0db8\u0d9f \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0d9a\u0dbb\u0db1 \u0dbd\u0dd9\u0dc3 \u0daf \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0d85\u0dbd\u0dd2 \u0dc3\u0db6\u0dca\u0dbb\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca \u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf. \u0d9a\u0dd9\u0dc3\u0dda \u0dc0\u0dd9\u0dad\u0dad\u0dca, \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf\u0d9c\u0dda \u0d8b\u0dad\u0dca\u0dc3\u0dcf\u0dc4\u0dba \u0db1\u0ddc\u0dad\u0d9a\u0dcf, \u0d9c\u0dd0\u0da7\u0dc5\u0dd4\u0dc0 \u0dc0\u0dd2\u0dc3\u0db3\u0dd3 \u0db1\u0ddc\u0dad\u0dd2\u0db6\u0dd6 \u0d85\u0dad\u0dbb, \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0dda \u0d9c\u0db8\u0db1\u0dca \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0dc3\u0dbd\u0d9a\u0dcf \u0db6\u0dd0\u0dbd\u0dd3\u0db8\u0da7 \u0da0\u0dd3\u0db1 \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0d91\u0d9a\u0d9f \u0db1\u0ddc\u0dc0\u0dd3\u0dba.",
+        "Ali Sabry \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0da0\u0dd3\u0db1 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba Wang Yi \u0dc3\u0db8\u0d9f \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0dda\u0daf\u0dd3 \u0dbb\u0da7 \u0db8\u0dd4\u0dc4\u0dd4\u0dab \u0daf\u0dd3 \u0d87\u0dad\u0dd2 \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0daf\u0dd0\u0db1\u0da7 \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0dc3\u0dd4\u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dd3 \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7\u0dad\u0dca, \u0d8b\u0daf\u0dc0\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0dd9\u0dc3 \u0da0\u0dd3\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0dd2\u0da7\u0dd3\u0db8\u0da7\u0dad\u0dca \u0d8b\u0dad\u0dca\u0dc3\u0dcf\u0dc4 \u0d9c\u0dad\u0dca \u0db6\u0dc0 \u0d89\u0dc4\u0dc5 \u0db4\u0dd9\u0dc5\u0dda \u0dbb\u0da2\u0dba\u0dda \u0d86\u0dbb\u0d82\u0da0\u0dd2 \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0d89\u0dbb\u0dd2\u0daf\u0dcf \u0d8b\u0daf\u0dd1\u0dc3\u0db1 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dc5\u0dda\u0dba. \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dba\u0dd4\u0dc0\u0dcf\u0db1\u0dca \u0dc0\u0dd0\u0db1\u0dca\u0d9c\u0dca 5 \u0dc4\u0dd2 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0daf\u0dd0\u0db1\u0da7 \u0dbb\u0da7 \u0dad\u0dd4\u0dc5 \u0db1\u0dd0\u0dc0\u0dca\u0d9c\u0dad \u0dc0\u0dd3\u0db8 \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0da7.",
+        "\u0d9a\u0dd9\u0dc3\u0dda \u0dc0\u0dd9\u0dad\u0dad\u0dca, \u0da0\u0dd3\u0db1 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0dba\u0dcf \u0d91\u0d9a\u0d9f \u0dc0\u0dd3 \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba\u0dd9\u0db1\u0dca \u0d85\u0dc0\u0dc3\u0dbb \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dad\u0dca, \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0 \u0db1\u0dd0\u0dc0\u0dad \u0db4\u0dd2\u0dbb\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0db1\u0dd0\u0dc0\u0dca\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d91\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd3 \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dad\u0dca \u0db4\u0dc0\u0dc3\u0db8\u0dd2\u0db1\u0dca.",
+        "\u0dc3\u0db6\u0dca\u0dbb\u0dd2 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd\u0dba \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4\u0da7 \u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0daf\u0dd4\u0db1\u0dca \u0dc0\u0dd2\u0da7, \u0dba\u0dd4\u0dc0\u0dcf\u0db1\u0dca \u0dc0\u0dd0\u0db1\u0dca\u0d9c\u0dca 5 \u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0db1\u0dd0\u0dc0\u0dca \u0dad\u0da7\u0dcf\u0d9a\u0dcf\u0d82\u0d9c\u0db1\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dbd\u0db6\u0dcf \u0daf\u0dd3 \u0d87\u0dad\u0dd2 \u0d85\u0dc0\u0dc3\u0dbb\u0dba \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc4\u0dd0\u0dbb \u0dbb\u0da2\u0dba\u0da7 \u0dc0\u0dd9\u0db1\u0dad\u0dca \u0dc0\u0dd2\u0d9a\u0dbd\u0dca\u0db4\u0dba\u0d9a\u0dca \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2 \u0db6\u0dc0 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dd2.",
+        "\"\u0dba\u0dd4\u0dc0\u0dcf\u0db1\u0dca \u0dc0\u0dd0\u0db1\u0dca\u0d9c\u0dca 5 \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0 \u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1 \u0daf\u0dd2\u0db1\u0dba \u0d9a\u0dbd\u0dca \u0daf\u0db8\u0db1 \u0dbd\u0dd9\u0dc3 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0db1\u0dc0\u0dcf\" \u0dba\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf \u0d9a\u0ddc\u0dc5\u0db9 \u0da0\u0dd3\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0dc0\u0dd9\u0dad \u0dba\u0dc0\u0dcf \u0d87\u0dad\u0dd2 \u0dc3\u0da7\u0dc4\u0db1\u0dda \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dbb \u0d87\u0dad.",
+        "\"\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0dcf\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a \u0dc3\u0db8\u0dcf\u0da2\u0dc0\u0dcf\u0daf\u0dd3 \u0da2\u0db1\u0dbb\u0da2\u0dba\u0dda \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba \u0d9a\u0ddc\u0dc5\u0db9 \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0db8\u0dc4\u0da2\u0db1 \u0da0\u0dd3\u0db1 \u0dc3\u0db8\u0dd6\u0dc4\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dda \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7 \u0d91\u0dc4\u0dd2 \u0d89\u0dc4\u0dc5\u0db8 \u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dbd\u0dca\u0dbd \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0db8\u0dd9\u0db8 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dba\u0ddd\u0da2\u0db1 \u0d9c\u0db1\u0dd2\u0dba\u0dd2\" \u0dba\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d91\u0db8 \u0dc3\u0da7\u0dc4\u0db1 \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2.",
+        "\u0d9a\u0ddc\u0dc5\u0db9 \u0da0\u0dd3\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 Qi Zhenhong \u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf \u0dc3\u0da7\u0dc4\u0db1 \u0dbd\u0dd0\u0db6\u0dd4\u0dab\u0dd4 \u0db4\u0dc3\u0dd4 \u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca\u0db8 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dc4\u0db8\u0dd4\u0dc0\u0db1 \u0dbd\u0dd9\u0dc3 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0dd2\u0da7\u0dd2 \u0d85\u0dad\u0dbb \u0d8a\u0dba\u0dda (6) \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4\u0dc0\u0dda \u0dc0\u0dda\u0dbd\u0dcf\u0dc0\u0d9a\u0dca \u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0db1\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3. \u0da0\u0dd3\u0db1 \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0da7 \u0d85\u0dc0\u0dc3\u0dbb \u0daf\u0dd3\u0db8 \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba \u0d9c\u0dad\u0dca \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0da0\u0dd3\u0db1 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0dcf \u0da0\u0dd3\u0db1\u0dba\u0dda \u0d9a\u0db1\u0dc3\u0dca\u0dc3\u0dbd\u0dca\u0dbd \u0dc3\u0dc4 \u0d85\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dcf\u0daf\u0dba \u0db4\u0dc5 \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0daf\u0dd0\u0db1\u0d9c\u0db1\u0dca\u0db1\u0da7 \u0d87\u0dad.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba 2021 \u0dc3\u0dc4 2022 \u0db8\u0dd4\u0dbd\u0dca \u0db7\u0dcf\u0d9c\u0dba\u0dda\u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0dbb\u0dcf\u0dba\u0db1\u0dca\u0dc4\u0dd2 \u0db1\u0dd0\u0dc0\u0dad \u0db4\u0dd2\u0dbb\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0da0\u0dd3\u0db1 \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7 \u0d85\u0dc0\u0dc3\u0dbb \u0dbd\u0db6\u0dcf \u0daf\u0dd3 \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0daf\u0dd0\u0db1\u0d9c\u0db1\u0dca\u0db1\u0da7 \u0d87\u0dad. \u0d92\u0dc0\u0dcf \u0d85\u0dad\u0dbb Shi Yan 1 (2021 \u0d85\u0db4\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dca 15 \u0d9a\u0ddc\u0dc5\u0db9\u0da7), Shi Yan 3 (2021 \u0db8\u0dd0\u0dba\u0dd2 15 \u0d9a\u0ddc\u0dc5\u0db9\u0da7), Hai Ce 3301 (2021 \u0daf\u0dd9\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 8 \u0dc3\u0dc4 2022 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 5 \u0d9a\u0ddc\u0dc5\u0db9\u0da7) \u0dc3\u0dc4 Shi Yan 6 (2022 \u0d85\u0db4\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dca 20 \u0d9a\u0ddc\u0dc5\u0db9\u0da7) .",
+        "\u0db8\u0dd9\u0db8 \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf \u0dc3\u0dd2\u0dba\u0dbd\u0dca\u0dbd \u0db1\u0dd0\u0dc0\u0dca\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0dc4 \u0db1\u0dd0\u0dc0\u0dad \u0db4\u0dd2\u0dbb\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d85\u0dc0\u0dc3\u0dbb \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dd2. 2022 \u0da2\u0dd6\u0dbd\u0dd2 7 \u0dc0\u0dd0\u0db1\u0dd2 \u0daf\u0dd2\u0db1 \u2018\u0db4\u0dbb\u0dca\u0dba\u0dda\u0dc2\u0dab\u2019 \u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4 \u0dc3\u0db3\u0dc4\u0dcf \u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0db1\u0dd0\u0d82\u0d9c\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dc0 \u0dad\u0dd2\u0db6\u0dd6 \u0dad\u0dc0\u0dad\u0dca \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0d9a\u0dca - Xiang Yang Hong 3 - \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0dba\u0dd4\u0dc0\u0dcf\u0db1\u0dca \u0dc0\u0dd0\u0db1\u0dca\u0d9c\u0dca 5 \u0db1\u0dde\u0d9a\u0dcf\u0dc0 \u0db1\u0dd0\u0dc0\u0dad \u0db4\u0dd2\u0dbb\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 11 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0dc0\u0dbb\u0dcf\u0dba\u0da7 \u0db1\u0dd0\u0d82\u0d9c\u0dd4\u0dbb\u0db8\u0dca \u0dbd\u0dd1\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dbb \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d87\u0dad\u0dca\u0dad\u0dda\u0daf \u0db8\u0dda \u0d86\u0d9a\u0dcf\u0dbb\u0dba\u0da7\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "LOC"
+        },
+        {
+          "text": "\u0da0\u0dd3\u0db1",
+          "label": "NORP"
+        },
+        {
+          "text": "Yuan Wang",
+          "label": "PERSON"
+        },
+        {
+          "text": "Yuan Wang",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0da0\u0dd3\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d89\u0dbb\u0dd2\u0daf\u0dcf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "11",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0dbd\u0dd2 \u0dc3\u0db6\u0dca\u0dbb\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dcf\u0db8\u0dca\u0db6\u0ddd\u0da2\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0dbb\u0dd2\u0daf\u0dcf \u0d8b\u0daf\u0dd1\u0dc3\u0db1",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0d85\u0dbd\u0dd2 \u0dc3\u0db6\u0dca\u0dbb\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "Wang Yi",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0db6\u0dca\u0dbb\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Yuan Wang",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0da0\u0dd3\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0dcf\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a \u0dc3\u0db8\u0dcf\u0da2\u0dc0\u0dcf\u0daf\u0dd3 \u0da2\u0db1\u0dbb\u0da2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dc4\u0da2\u0db1 \u0da0\u0dd3\u0db1 \u0dc3\u0db8\u0dd6\u0dc4\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dda \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "Colombo Qi Zhenhong",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba\u0dda",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "2022 \u0db8\u0dd4\u0dbd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "NORP"
+          },
+          {
+            "text": "Shi Yan",
+            "label": "PERSON"
+          },
+          {
+            "text": "2021 \u0d85\u0db4\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dca 15",
+            "label": "DATE"
+          },
+          {
+            "text": "Shi Yan",
+            "label": "PERSON"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2021 \u0db8\u0dd0\u0dba\u0dd2 15",
+            "label": "DATE"
+          },
+          {
+            "text": "Hai Ce 3301",
+            "label": "PERSON"
+          },
+          {
+            "text": "8 \u0daf\u0dd9\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 2021",
+            "label": "DATE"
+          },
+          {
+            "text": "2022 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 5",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
+          },
+          {
+            "text": "Shi Yan",
+            "label": "PERSON"
+          },
+          {
+            "text": "20 \u0d85\u0db4\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dca 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "Xiang Yang",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
+          },
+          {
+            "text": "2022 \u0da2\u0dd6\u0dbd\u0dd2 7",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Yuan Wang 5",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0dc0\u0dbb\u0dcf\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 11",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u201c\u0baf\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd \u0bb5\u0bbe\u0b99\u0bcd 5\u201d \u0b8e\u0ba9\u0bcd\u0bb1 \u0b9a\u0bc0\u0ba9\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bc8 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1: \u201c\u0baf\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd \u0bb5\u0bbe\u0b99\u0bcd 5 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf\u0baf\u0bc8 \u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd \u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc8,\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bc1; \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc0\u0ba9\u0ba4\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+      "author": "\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bbf",
+      "body_lines": [
+        "\u0baf\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd \u0bb5\u0bbe\u0b99\u0bcd 5 \u0b9a\u0bc0\u0ba9 \u0b86\u0bb0\u0bbe\u0baf\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bc8 \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd (4) \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0b85\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bc0\u0ba9\u0ba4\u0bcd \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (5) \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0ba4\u0bbf \u0b9a\u0ba3\u0bcd\u0b9f\u0bc7 \u0bae\u0bbe\u0bb0\u0bcd\u0ba9\u0bbf\u0b99\u0bcd \u0b85\u0bb1\u0bbf\u0baf\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba4\u0bbe\u0b95 \u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (11) \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baf\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd \u0bb5\u0bbe\u0b99\u0bcd 5 \u0b87\u0ba9\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1, \u0b87\u0ba8\u0bcd\u0ba4 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bcb\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8f\u0bb5\u0bc1\u0b95\u0ba3\u0bc8 \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bbf\u0bb1\u0ba9\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0bb2\u0bcd \u0b9a\u0bc0\u0ba9\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb1\u0bcd\u0b95 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0bb5\u0bb2\u0bc8\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. .",
+        "\u0b9a\u0bc0\u0ba9\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0bae\u0bc1\u0bb0\u0ba3\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0ba4\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc0\u0ba9\u0ba4\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bb2 \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bb1\u0bcd\u0bb1 \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0baa\u0bb2 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b95\u0bae\u0bcd\u0baa\u0bcb\u0b9f\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0b86\u0b9a\u0bbf\u0baf\u0bbe\u0ba9\u0bcd \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bca\u0b9f\u0bcd\u0b9f\u0bbf, \u0b9a\u0bc0\u0ba9\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0ba9\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc0\u0ba9 \u0b9a\u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bc1\u0bae\u0bbe\u0bb1\u0bc1\u0bae\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf, \u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b85\u0bb2\u0bbf \u0b9a\u0baa\u0bcd\u0bb0\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd. \u0b8e\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bbe\u0baf\u0bbf\u0ba9\u0bc1\u0bae\u0bcd, \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0baa\u0bcb\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd, \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8 \u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8, \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bc8 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bb0\u0bbf\u0b9a\u0bc0\u0bb2\u0bbf\u0b95\u0bcd\u0b95 \u0b9a\u0bc0\u0ba9 \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b9f\u0ba9\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8.",
+        "\u0b9a\u0bc0\u0ba9 \u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0bbe\u0b99\u0bcd \u0baf\u0bc0 \u0b89\u0b9f\u0ba9\u0bbe\u0ba9 \u0b85\u0bb2\u0bbf \u0b9a\u0baa\u0bcd\u0bb0\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, \u200b\u200b\u0ba8\u0bbe\u0b9f\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0b85\u0b9a\u0bbe\u0ba4\u0bbe\u0bb0\u0ba3 \u0b9a\u0bc2\u0bb4\u0bcd\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bbf, \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bcb\u0bb0\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0bb5\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bbf \u0b9a\u0ba9\u0bcd\u0b9f\u0bc7 \u0bae\u0bcb\u0bb0\u0bcd\u0ba9\u0bbf\u0b99\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9. \u0baf\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd \u0bb5\u0bbe\u0b99\u0bcd 5 \u0b87\u0ba9\u0bcd \u0bb5\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b8e\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bbe\u0baf\u0bbf\u0ba9\u0bc1\u0bae\u0bcd, \u0b9a\u0bc0\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8, \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf \u0b95\u0bcb\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb5\u0bbf\u0b9f\u0bae\u0bcd \u0b9a\u0baa\u0bcd\u0bb0\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0baa\u0bcb\u0ba4\u0bc1, \u200b\u200b\u0baf\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd \u0bb5\u0bbe\u0b99\u0bcd 5 \u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bc8 \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0bb5\u0bbf\u0bb0 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bc7\u0bb1\u0bc1 \u0bb5\u0bb4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u201c\u0baf\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd \u0bb5\u0bbe\u0b99\u0bcd 5 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf\u0baf\u0bc8 \u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd \u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bc0\u0ba9 \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u201c\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b9a\u0bcb\u0b9a\u0bb2\u0bbf\u0b9a \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1, \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bc0\u0ba9 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0ba9\u0bcd \u0bae\u0bbf\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0baa\u0bb0\u0bbf\u0b9a\u0bc0\u0bb2\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8 \u0baa\u0bc1\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1,\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bc0\u0ba9\u0ba4\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd Qi Zhenhong, \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8 \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b95\u0bcb\u0bb0\u0bbf\u0baf\u0ba4\u0bb1\u0bcd\u0b95\u0bc1, \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 (6) \u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0b9a\u0bc0\u0ba9\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bc8 \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc0\u0ba9\u0ba4\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bb5\u0bb2\u0bc8\u0baf\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0ba4\u0bbf\u0baf\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0baf\u0bae\u0bc1\u0b9f\u0bbf\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "2021 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 2022 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0baa\u0bb2 \u0b9a\u0bc0\u0ba9\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0baf\u0bae\u0bc1\u0b9f\u0bbf\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b85\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0bb7\u0bbf \u0baf\u0bbe\u0ba9\u0bcd 1 (15 \u0b8f\u0baa\u0bcd\u0bb0\u0bb2\u0bcd 2021 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bb5\u0bb0\u0bc8), \u0bb7\u0bbf \u0baf\u0bbe\u0ba9\u0bcd 3 (15 \u0bae\u0bc7 2021 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bb5\u0bb0\u0bc8), \u0bb9\u0bc8 \u0b9a\u0bbf 3301 (8 \u0b9f\u0bbf\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bcd 2021 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 5 \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf 2022 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bb5\u0bb0\u0bc8) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb7\u0bbf \u0baf\u0bbe\u0ba9\u0bcd 6 (20 \u0b8f\u0baa\u0bcd\u0bb0\u0bb2\u0bcd 2022 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bb5\u0bb0\u0bc8) .",
+        "\u0b87\u0ba8\u0bcd\u0ba4\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd, \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9. \u2018\u0b86\u0bb0\u0bbe\u0baf\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u2019 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 7 \u0b9c\u0bc2\u0bb2\u0bc8 2022 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bae\u0bb1\u0bcd\u0bb1\u0bca\u0bb0\u0bc1 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd - Xiang Yang Hong 3 - \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b87\u0ba4\u0bc7 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0baf\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd \u0bb5\u0bbe\u0b99\u0bcd 5 \u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd 11 \u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0b85\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf \u0b95\u0bcb\u0bb0\u0bbf\u0baf\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "LOC"
+        },
+        {
+          "text": "\u0b9a\u0bc0\u0ba9",
+          "label": "NORP"
+        },
+        {
+          "text": "Yuan Wang",
+          "label": "PERSON"
+        },
+        {
+          "text": "Yuan Wang",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bc0\u0ba9 \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "11",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0b85\u0bb2\u0bbf \u0b9a\u0baa\u0bcd\u0bb0\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf\u0bbe\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bae\u0bcd\u0baa\u0bcb\u0b9f\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1 \u0b95\u0bbe\u0bb2\u0bc8",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0b85\u0bb2\u0bbf \u0b9a\u0baa\u0bcd\u0bb0\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "Wang Yi",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0baa\u0bcd\u0bb0\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Yuan Wang",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bc0\u0ba9 \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b9a\u0bcb\u0b9a\u0bb2\u0bbf\u0b9a \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "Colombo Qi Zhenhong",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "6",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "2022 \u0b87\u0ba9\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "NORP"
+          },
+          {
+            "text": "Shi Yan",
+            "label": "PERSON"
+          },
+          {
+            "text": "15 \u0b8f\u0baa\u0bcd\u0bb0\u0bb2\u0bcd 2021",
+            "label": "DATE"
+          },
+          {
+            "text": "Shi Yan",
+            "label": "PERSON"
+          },
+          {
+            "text": "3",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "15 \u0bae\u0bc7 2021",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb9\u0bc8 \u0b9a\u0bbf\u0b87 3301",
+            "label": "PERSON"
+          },
+          {
+            "text": "8 \u0b9f\u0bbf\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bcd 2021",
+            "label": "DATE"
+          },
+          {
+            "text": "5 \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "Shi Yan",
+            "label": "PERSON"
+          },
+          {
+            "text": "20 \u0b8f\u0baa\u0bcd\u0bb0\u0bb2\u0bcd 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "Xiang Yang",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "7 \u0b9c\u0bc2\u0bb2\u0bc8 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Yuan Wang 5",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b85\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "11 \u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}

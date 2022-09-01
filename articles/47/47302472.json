@@ -1,0 +1,291 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0b9a\u0bcd\u0b9a\u0bae\u0bcd-\u0ba4\u0bca\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1-\u0b93\u0b95\u0bb8\u0bcd\u0b9f\u0bcd-\u0bae\u0bbe\u0ba4-\u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-303330",
+  "time_ut": 1661945256,
+  "original_lang": "ta",
+  "original_title": "\u0b89\u0b9a\u0bcd\u0b9a\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1 \u0b93\u0b95\u0bb8\u0bcd\u0b9f\u0bcd \u0bae\u0bbe\u0ba4 \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "Inflation peaked in August",
+      "author": "unknown",
+      "body_lines": [
+        "Headline inflation for August, as measured by the year-on-year change in the Colombo Consumer Price Index, rose to 64.3%, the Department of Value and Statistics said.",
+        "Inflation rose to 64.3% in August from 60.8% in July.",
+        "Food inflation rose to 93.7% in August from 90.9% in July and non-food inflation rose to 50.2% from 46.5% in July, the department said.",
+        "Food items increased by 0.83% and non-food items by 1.62%."
+      ],
+      "title_ents": [
+        {
+          "text": "August",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "August",
+            "label": "DATE"
+          },
+          {
+            "text": "year",
+            "label": "DATE"
+          },
+          {
+            "text": "64.3%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the Department of Value and Statistics",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "64.3%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "August",
+            "label": "DATE"
+          },
+          {
+            "text": "60.8%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "July",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "93.7%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "August",
+            "label": "DATE"
+          },
+          {
+            "text": "90.9%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "July",
+            "label": "DATE"
+          },
+          {
+            "text": "50.2%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "46.5%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "July",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "0.83%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.62%",
+            "label": "PERCENT"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0d8b\u0db4\u0dbb\u0dd2\u0db8\u0dba\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dba\u0dda\u0dba",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d9a\u0ddc\u0dc5\u0db9 \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a \u0db8\u0dd2\u0dbd \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba\u0dda \u0dc0\u0dc3\u0dbb\u0dd2\u0db1\u0dca \u0dc0\u0dc3\u0dbb \u0dc0\u0dd9\u0db1\u0dc3 \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0db8\u0db1\u0dd2\u0db1\u0dd4 \u0dbd\u0db6\u0db1 \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 \u0db8\u0dcf\u0dc3\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba 64.3% \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0d85\u0d9c\u0dba \u0dc4\u0dcf \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dda\u0d9b\u0db1 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0da2\u0dd6\u0dbd\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba 60.8% \u0dc3\u0dd2\u0da7 \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 64.3% \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba\u0dda\u0dba.",
+        "\u0d86\u0dc4\u0dcf\u0dbb \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0da2\u0dd6\u0dbd\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 90.9% \u0dc3\u0dd2\u0da7 \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 93.7% \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d86\u0dc4\u0dcf\u0dbb \u0db1\u0ddc\u0dc0\u0db1 \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0da2\u0dd6\u0dbd\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 46.5% \u0dc3\u0dd2\u0da7 50.2% \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0d86\u0dc4\u0dcf\u0dbb \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba 0.83% \u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0dc4 \u0d86\u0dc4\u0dcf\u0dbb \u0db1\u0ddc\u0dc0\u0db1 \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba 1.62% \u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd2\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc0\u0dbb\u0dca\u0dc2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "64.3%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0d9a\u0db8\u0dca \u0dc3\u0dc4 \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dda\u0d9b\u0db1 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "64.3%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4",
+            "label": "DATE"
+          },
+          {
+            "text": "60.8%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da2\u0dd4\u0dbd\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "93.7%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4",
+            "label": "DATE"
+          },
+          {
+            "text": "90.9%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da2\u0dd4\u0dbd\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "50.2%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "46.5%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da2\u0dd4\u0dbd\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "0.83%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.62%",
+            "label": "PERCENT"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b89\u0b9a\u0bcd\u0b9a\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1 \u0b93\u0b95\u0bb8\u0bcd\u0b9f\u0bcd \u0bae\u0bbe\u0ba4 \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+      "author": "unknown",
+      "body_lines": [
+        "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b9a\u0bcd \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc6\u0ba3\u0bcd\u0ba3\u0bbf\u0ba9\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b85\u0bb3\u0bb5\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b93\u0b95\u0bb8\u0bcd\u0b9f\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9\u00a0\u0bae\u0bc1\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0baa\u0bcd \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd 64.3% \u0b86\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0ba4\u0bca\u0b95\u0bc8 \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u00a0\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf \u0bb5\u0bbf\u0bb5\u0bb0\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9c\u0bc2\u0bb2\u0bc8 \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 60.8 % \u0b86\u0b95 \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u00a0\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bc7\u0baf\u0bc7 \u0b93\u0b95\u0bb8\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd 64.3% \u0b86\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b9c\u0bc2\u0bb2\u0bc8 \u0bae\u0bbe\u0ba4\u0bae\u0bcd 90.9% \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b89\u0ba3\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b93\u0b95\u0bb8\u0bcd\u0b9f\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 93.7% \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd\u00a0 \u0b9c\u0bc2\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 46.5% \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b89\u0ba3\u0bb5\u0bc1 \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd 50.2% \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b89\u0ba3\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 0.83% \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b89\u0ba3\u0bb5\u0bc1 \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd 1.62% \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "64.3%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0baf\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "64.3%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "60.8%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "93.7%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "90.9%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "50.2%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "46.5%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "0.83%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.62%",
+            "label": "PERCENT"
+          }
+        ]
+      ]
+    }
+  }
+}
