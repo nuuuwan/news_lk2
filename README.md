@@ -1,20 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-01 23:02:16 (LK time)*
+*As of 2022-09-01 23:19:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (11 Articles)
-
-* **4** lankadeepa-lk ([ජපන් මහාචාර්යවරියට අමතක වූ මුදල් පසුම්බිය ආපසු දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc7b6eea.json))
+## Last 3 Hours (9 Articles)
 
 * **3** ada-derana-lk ([Various weaknesses and wrong policy decisions led to debt default - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/3953af73.json))
 
 * **3** daily-mirror-lk ([Fuel needed for gem industry in Ratnapura under QR code soon: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e7fc7d2.json))
 
+* **2** lankadeepa-lk ([හත් හැවිරිදි දරුවාට කැති පහර දුන් නරුම සියා](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d72b869a.json))
+
 * **1** news-first-lk ([Kegalle Shooting: SJB Organizer arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b7ed706.json))
 
-## Last 24 Hours (193 Articles)
+## Last 24 Hours (191 Articles)
 
 * **47** lankadeepa-lk ([මන්ත්‍රී නිවාසවලට පහරදුන් තවත් හතරක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d9b7689.json))
 
@@ -24,11 +24,11 @@
 
 * **23** tamil-mirror-lk ([மைத்திரியின் மகனுக்கு புதிய பதவி](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64747fd1.json))
 
-* **22** ada-derana-lk ([Landslide warnings for 8 districts; ‘Red’ alert for Kalutara, Ratnapura](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67d963fb.json))
+* **21** ada-derana-lk ([Circular issued allowing migrant workers to import electric vehicles](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50ea7c1a.json))
 
 * **19** news-first-lk ([Criminal Gang Feud: 26 people gunned down in three months](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/9109ebf7.json))
 
-* **15** economy-next-com ([Sri Lanka gets US$200mn from ADB for income support, farming](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/378c5de0.json))
+* **14** economy-next-com ([Sri Lanka Chamber welcomes interim budget proposals, calls for implementation](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d640bf55.json))
 
 * **6** daily-ft-lk ([Lanka Hospitals Corp. boosts 1H after tax profit by 140% to Rs. 2.7 b](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e364f14.json))
 
