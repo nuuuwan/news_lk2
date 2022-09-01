@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/The-political-legacy-of-Gorbachev-The-death-of-balance-of-power/231-244170",
+    "time_ut": 1662070453,
+    "original_lang": "en",
+    "original_title": "The political legacy of Gorbachev: The death of balance of power",
+    "file_name": "/tmp/news_lk2/articles/d4/d4b12a90.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Reflecting-on-the-words-work-or-depart-Editorial/231-244169",
+    "time_ut": 1662070285,
+    "original_lang": "en",
+    "original_title": "Reflecting on the words \u2018work or depart\u2019 - Editorial",
+    "file_name": "/tmp/news_lk2/articles/1d/1dd68d36.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Legal-Implications-of-the-recent-Protests/231-244168",
+    "time_ut": 1662070204,
+    "original_lang": "en",
+    "original_title": "Legal Implications of the  recent Protests",
+    "file_name": "/tmp/news_lk2/articles/99/99d8415b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84696/assets-of-sri-lankans-with-ltte-links-seized-in-india-over-money-laundering-charges",
     "time_ut": 1662060720,
@@ -241,11 +265,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Luxury-vehicle-crashes-into-filling-station/342-244147",
+    "url": "https://www.dailymirror.lk/breaking_news/Luxury-vehicle-crashes-into-filling-station/108-244147",
     "time_ut": 1662037048,
     "original_lang": "en",
     "original_title": "Luxury vehicle crashes into filling station",
-    "file_name": "/tmp/news_lk2/articles/73/73a05392.json"
+    "file_name": "/tmp/news_lk2/articles/37/37501c63.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
