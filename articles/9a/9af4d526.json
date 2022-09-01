@@ -1,0 +1,216 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/latest_news/\u2019\u2019\u0db8\u0dda\u0d9a-\u0da7\u0ddc\u0db4\u0dca-\u0db6\u0dba\u0dd2\u0dba\u0dcf-\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0d9a\u0dca\u2019\u2019/1-619068",
+  "time_ut": 1661937570,
+  "original_lang": "si",
+  "original_title": "\u2019\u2019\u0db8\u0dda\u0d9a \u0da7\u0ddc\u0db4\u0dca \u0db6\u0dba\u0dd2\u0dba\u0dcf \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0d9a\u0dca\u2019\u2019",
+  "text_idx": {
+    "en": {
+      "title": "This is a top budget budget.",
+      "author": "unknown",
+      "body_lines": [
+        "Samagi Jana Balavegaya Kurunegala district councilor Mr. Thushara Indunil said in Parliament today that the government's budget is a top buy budget.",
+        "He said this during the second reading debate on the Budget Appropriation Bill.",
+        "He said that today Mr. Ranil Wickramasinghe is unable to find out whether he is a toy or a bye.",
+        "Mr. Thushara Indunil said that today people are suffering in queues and he is questioning who is responsible for this heinous crime."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Samagi",
+            "label": "NORP"
+          },
+          {
+            "text": "Jana Balavegaya",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kurunegala",
+            "label": "GPE"
+          },
+          {
+            "text": "Thushara Indunil",
+            "label": "PERSON"
+          },
+          {
+            "text": "Parliament",
+            "label": "ORG"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "second",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "the Budget Appropriation Bill",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "Ranil Wickramasinghe",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Thushara Indunil",
+            "label": "PERSON"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u2019\u2019\u0db8\u0dda\u0d9a \u0da7\u0ddc\u0db4\u0dca \u0db6\u0dba\u0dd2\u0dba\u0dcf \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0d9a\u0dca\u2019\u2019",
+      "author": "unknown",
+      "body_lines": [
+        "\u0dbb\u0da2\u0dba\u0dda \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0da7\u0ddc\u0db4\u0dca \u0db6\u0dba\u0dd2\u0dba\u0dcf\u00a0 \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0d9a\u0dca \u0db6\u0dc0 \u0dc3\u0db8\u0d9c\u0dd2 \u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba \u0d9a\u0dd4\u0dbb\u0dd4\u0dab\u0dd1\u0d9c\u0dbd \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0dad\u0dd4\u0dc2\u0dcf\u0dbb \u0d89\u0db3\u0dd4\u0db1\u0dd2\u0dbd\u0dca \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0d85\u0daf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0d94\u0dc4\u0dd4 \u0db8\u0dd9\u0dc3\u0dda \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0dc0\u0dd2\u0dc3\u0dbb\u0dca\u0da2\u0db1 \u0db4\u0db1\u0dad\u0dca \u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0dbb \u0d9a\u0dd2\u0dba\u0dc0\u0dd3\u0db8\u0dda \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0dda\u0daf\u0dd3\u0dba.",
+        "\u0d85\u0daf \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4 \u0db8\u0dc4\u0dad\u0dcf \u0da7\u0ddc\u0dba\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0daf \u0db6\u0dba\u0dd2\u0dba\u0dd9\u0d9a\u0dca\u0daf \u0d9a\u0dd2\u0dba\u0dbd\u0dcf \u0dc3\u0ddc\u0dba\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0db6\u0dc0\u0daf\u00a0 \u0d94\u0dc4\u0dd4 \u0d9a\u0dd2\u0dc0\u0dda\u0dba.",
+        "\u0d85\u0daf \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0dc0\u0dbd \u0daf\u0dd4\u0d9a\u0dca \u0dc0\u0dd2\u0db3\u0dd2\u0db1 \u0db6\u0dc0\u0dad\u0dca \u0db8\u0dda \u0dc3\u0dcf\u0dc4\u0dc3\u0dd2\u0d9a \u0d85\u0db4\u0dbb\u0dcf\u0db0\u0dba\u0da7 \u0dc0\u0d9c\u0d9a\u0dd2\u0dc0 \u0dba\u0dd4\u0dad\u0dca\u0dad\u0dda \u0d9a\u0dc0\u0dd4\u0daf\u0dd0\u0dba\u0dd2 \u0dad\u0db8\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d9a\u0dbb\u0db1 \u0db6\u0dc0\u0dad\u0dca\u00a0 \u00a0\u0dad\u0dd4\u0dc2\u0dcf\u0dbb \u0d89\u0db3\u0dd4\u0db1\u0dd2\u0dbd\u0dca \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc3\u0db8\u0d9c\u0dd2",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd4\u0dbb\u0dd4\u0dab\u0dd1\u0d9c\u0dbd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0dc2\u0dcf\u0dbb \u0d89\u0db3\u0dd4\u0db1\u0dd2\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d85\u0dba\u0dc0\u0dd0\u0dba \u0dc0\u0dd2\u0dc3\u0dbb\u0dca\u0da2\u0db1 \u0db4\u0db1\u0dad\u0dca \u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dad\u0dd4\u0dc2\u0dcf\u0dbb \u0d89\u0db3\u0dd4\u0db1\u0dd2\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd \u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd.",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bb5\u0bc1 \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0 \u0bb5\u0bb0\u0bb5\u0bc1 \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0b9a\u0bae\u0b95\u0bbf \u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf \u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0bbe\u0b95\u0bb2\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0b9a\u0baa\u0bc8 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1.\u0ba4\u0bc1\u0bb7\u0bbe\u0bb0 \u0b87\u0ba8\u0bcd\u0ba4\u0bc1\u0ba9\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0bb5\u0bb0\u0bb5\u0bc1 \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd \u0bb5\u0bbe\u0b9a\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc7 \u0b85\u0bb5\u0bb0\u0bcd \u0b87\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0baa\u0bca\u0bae\u0bcd\u0bae\u0bc8\u0baf\u0bbe \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0baa\u0bc8\u0baf\u0bbe \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0bb5\u0bb0\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0ba4\u0bc1\u0bb7\u0bbe\u0bb0 \u0b87\u0ba8\u0bcd\u0ba4\u0bc1\u0ba9\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb5\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b87\u0ba8\u0bcd\u0ba4\u0b95\u0bcd \u0b95\u0bca\u0b9f\u0bc2\u0bb0\u0bae\u0bbe\u0ba9 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf \u0b8e\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b9a\u0bae\u0b95\u0bbf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0bbe\u0b95\u0bb2\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba4\u0bc1\u0bb7\u0bbe\u0bb0\u0bbe \u0b87\u0ba8\u0bcd\u0ba4\u0bc1\u0ba9\u0bbf\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0b9a\u0bcb\u0ba4\u0bbe",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba4\u0bc1\u0bb7\u0bbe\u0bb0\u0bbe \u0b87\u0ba8\u0bcd\u0ba4\u0bc1\u0ba9\u0bbf\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
