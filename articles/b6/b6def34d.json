@@ -10,7 +10,7 @@
       "author": "unknown",
       "body_lines": [
         "The Inter-University Student Union has lodged a complaint with the Sri Lanka Human Rights Commission.",
-        "Complaints have been made regarding the incidents that took place yesterday (30), including the arrest of 28 members during the demonstration to demand the release of three people, including Vasantha Mudalike, who were arrested under the Prevention of Terrorism Act.",
+        "Complaints have been made regarding the incidents that took place yesterday (30), including the arrest of 28 members during the demonstration demanding the release of three people, including Wasantha Mudalike, who were arrested under the Prevention of Terrorism Act.",
         "It is noteworthy that 28 members of the union, who were arrested during the demonstration at the hospital, were released on bail today (31)."
       ],
       "title_ents": [
@@ -48,8 +48,8 @@
             "label": "CARDINAL"
           },
           {
-            "text": "Vasantha Mudalike",
-            "label": "PERSON"
+            "text": "Wasantha Mudalike",
+            "label": "ORG"
           },
           {
             "text": "the Prevention of Terrorism Act",
@@ -112,7 +112,7 @@
           },
           {
             "text": "\u0dc0\u0dc3\u0db1\u0dca\u0dad \u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0d9a",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
@@ -175,7 +175,7 @@
           },
           {
             "text": "\u0bb5\u0b9a\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0b95\u0bc7",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",

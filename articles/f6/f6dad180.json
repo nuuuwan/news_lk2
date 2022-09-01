@@ -10,10 +10,10 @@
       "author": "unknown",
       "body_lines": [
         "A delegation consisting of senior representatives of the Indian government headed by Indian Foreign Secretary Mr. Vinay Kwatraha met the President and the Prime Minister who arrived in Sri Lanka today (23rd) and held discussions.",
-        "Under the chairmanship of Indian Foreign Secretary Mr. Vinay Kwatraha, Indian Economic Affairs Department Secretary Shri Ajay Seth, Chief Economic Adviser Dr. V. Ananda Nageswaran, Karthik Pandey, Joint Secretary, Indian Ocean Region, Ministry of External Affairs, were included in this delegation.",
+        "Under the chairmanship of Indian Foreign Secretary Mr. Vinay Kwatraha, Indian Economic Affairs Department Secretary Shri Ajay Seth, Chief Economic Adviser Dr. V. Mr. Ananda Nageswaran, Mr. Karthik Pandey, Joint Secretary, Indian Ocean Region, Ministry of External Affairs, were included in this delegation.",
         "During this visit, the delegation held discussions with Sri Lankan President Gotabhaya Rajapaksa and Prime Minister Ranil Wickremesinghe, and it is said that the discussions between the two parties were conducted in an honest, friendly and effective manner.",
         "The economic, financial and humanitarian support provided by India to the people of Sri Lanka in a recent unprecedented amount of more than 3.5 billion US dollars is the implementation of Indian Prime Minister Narendra Modi's \"Neighbor First\" policy and Security and Growth for All in the region. In the Region - SAGAR) the Indian delegation has indicated here that it is based on the vision.",
-        "Also, in the discussion held with President Gotabhaya Rajapaksa, the Indian side has expressed its thanks for the Sri Lankan leader's commitment to developing Indo-Sri Lankan bilateral relations. There was an effective exchange of views on the current economic situation in Sri Lanka and the support provided by India.",
+        "Also, in the discussion held with President Gotabaya Rajapaksa, the Indian side has expressed its thanks for the Sri Lankan leader's commitment to developing Indo-Sri Lankan bilateral relations. There was an effective exchange of views on the current economic situation in Sri Lanka and the support provided by India.",
         "Also, in the meeting with Prime Minister Ranil Wickramasinghe, there was a long discussion about the economy of Sri Lanka and the efforts taken by the government of Sri Lanka to restore the economy. In this context, the two sides have also emphasized the importance of promoting Indo-Sri Lankan investment cooperation and deepening economic relations between the two countries, including areas such as infrastructure, interconnection, renewable energy.",
         "In addition, the Indian Foreign Secretary has also engaged in a discussion with the Sri Lankan Foreign Secretary Mrs. Aruni Wijewardena. The two foreign secretaries have agreed to work in close coordination to strengthen diplomatic relations and engage in a bilateral visit in the near future."
       ],
@@ -64,7 +64,11 @@
             "label": "PERSON"
           },
           {
-            "text": "V. Ananda Nageswaran",
+            "text": "V.",
+            "label": "PERSON"
+          },
+          {
+            "text": "Ananda Nageswaran",
             "label": "PERSON"
           },
           {
@@ -130,7 +134,7 @@
         ],
         [
           {
-            "text": "Gotabhaya Rajapaksa",
+            "text": "Gotabaya Rajapaksa",
             "label": "PERSON"
           },
           {
@@ -255,7 +259,11 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0dc0\u0dd3 \u0d86\u0db1\u0db1\u0dca\u0daf \u0db1\u0dcf\u0d9c\u0dda\u0dc3\u0dca\u0dc0\u0dbb\u0db1\u0dca",
+            "text": "\u0dc0\u0dd3.",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d86\u0db1\u0db1\u0dca\u0daf \u0db1\u0dcf\u0d9c\u0dda\u0dc3\u0dca\u0dc0\u0dbb\u0db1\u0dca",
             "label": "PERSON"
           },
           {
@@ -446,7 +454,11 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0bb5\u0bbf.\u0b86\u0ba9\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0b95\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0ba9\u0bcd",
+            "text": "\u0bb5\u0bbf.",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b86\u0ba9\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0b95\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0ba9\u0bcd",
             "label": "PERSON"
           },
           {
@@ -512,7 +524,7 @@
         ],
         [
           {
-            "text": "\u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
+            "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
             "label": "PERSON"
           },
           {
