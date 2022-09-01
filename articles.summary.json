@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/www-army-lk-website-wins-Bronze-award/56-739371",
+    "time_ut": 1662075045,
+    "original_lang": "en",
+    "original_title": "www.army.lk website wins Bronze award",
+    "file_name": "/tmp/news_lk2/articles/b6/b6e3f60f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Govt-must-rethink-its-priorities-Sumanthiran/56-739370",
+    "time_ut": 1662074965,
+    "original_lang": "en",
+    "original_title": "Govt. must rethink its priorities: Sumanthiran",
+    "file_name": "/tmp/news_lk2/articles/57/57cf33f0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Imthiaz-calls-on-Govt-to-be-sincere-in-its-efforts/56-739369",
     "time_ut": 1662074869,
     "original_lang": "en",
@@ -46,6 +62,22 @@
     "original_lang": "en",
     "original_title": "Assets of Sri Lankans with LTTE links seized in India over money laundering charges",
     "file_name": "/tmp/news_lk2/articles/78/787ce7ac.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/seylan-cards-partners-koko-to-enable-buy-now-pay-later-easy-payment-schemes/",
+    "time_ut": 1662058620,
+    "original_lang": "en",
+    "original_title": "Seylan Cards partners KOKO to enable Buy Now, Pay Later Easy Payment Schemes",
+    "file_name": "/tmp/news_lk2/articles/0c/0ce9d70f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/unicef-and-rotary-international-partner-to-deliver-critical-lifesaving-supplies-to-families-impacted-by-the-crisis-in-sri-lanka/",
+    "time_ut": 1662058560,
+    "original_lang": "en",
+    "original_title": "UNICEF and Rotary International partner to deliver critical lifesaving supplies to families impacted by the crisis in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/14/1457b74f.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -1625,6 +1657,30 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/president-mikhail-gorbachev-and-waning-of-the-first-cold-war/",
+    "time_ut": 1661965380,
+    "original_lang": "en",
+    "original_title": "President Mikhail Gorbachev and waning of the first Cold War",
+    "file_name": "/tmp/news_lk2/articles/41/41f0dd75.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/super-simpleand-all-natural/",
+    "time_ut": 1661964660,
+    "original_lang": "en",
+    "original_title": "Super simple\u2026and all natural",
+    "file_name": "/tmp/news_lk2/articles/a9/a961611a.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/animal-loverwith-15-cats-and-five-dogs/",
+    "time_ut": 1661964540,
+    "original_lang": "en",
+    "original_title": "Animal lover\u2026with 15 cats and five dogs!",
+    "file_name": "/tmp/news_lk2/articles/1b/1b1ca867.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/sysco-labs-strengthens-diversity-equity-and-inclusion-in-the-workplace/",
     "time_ut": 1661964120,
     "original_lang": "en",
@@ -1656,12 +1712,36 @@
     "file_name": "/tmp/news_lk2/articles/79/791c2571.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/stock-investors-welcome-interim-budget-turnover-hits-rs-4-3-billion/",
+    "time_ut": 1661963940,
+    "original_lang": "en",
+    "original_title": "Stock investors welcome interim budget; turnover hits Rs. 4.3 billion",
+    "file_name": "/tmp/news_lk2/articles/47/4747575d.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/elephant-house-superheroes-powered-by-dialog-hosts-grand-finale/",
+    "time_ut": 1661963940,
+    "original_lang": "en",
+    "original_title": "\u2018Elephant House SuperHeroes Powered by Dialog\u2019 hosts grand finale",
+    "file_name": "/tmp/news_lk2/articles/6a/6a8a15ff.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-stocks-gain-with-foreign-inflows-after-interim-budget-announcement-99306/",
     "time_ut": 1661963940,
     "original_lang": "en",
     "original_title": "Sri Lanka stocks gain with foreign inflows after interim budget announcement",
     "file_name": "/tmp/news_lk2/articles/f0/f0e384b9.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/government-and-undp-map-out-sdg-investment-for-private-sector-to-support-recovery/",
+    "time_ut": 1661963880,
+    "original_lang": "en",
+    "original_title": "Government and UNDP map out SDG investment for private sector to support recovery",
+    "file_name": "/tmp/news_lk2/articles/c5/c5a7a28c.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
