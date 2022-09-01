@@ -1,16 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 02:36:21 (LK time)*
+*As of 2022-09-02 03:00:41 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (3 Articles)
+## Last 3 Hours (1 Articles)
 
 * **1** ada-derana-lk ([Assets of Sri Lankans with LTTE links seized in India over money laundering charges](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/787ce7ac.json))
-
-* **1** tamil-mirror-lk ([ஆசியக் கிண்ணம்: பங்களாதேஷை வென்று சுப்பர் – 4-இல் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/3359f562.json))
-
-* **1** daily-mirror-lk ([Asia Cup: Sri Lanka beat Bangladesh to enter Super Four](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b039021.json))
 
 ## Last 24 Hours (182 Articles)
 
@@ -32,11 +28,11 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e67e678.json))
 
-## Last Week (504 Articles)
+## Last Week (502 Articles)
 
 * **77** lankadeepa-lk ([ජීවන බර අඩු කිරීමට ජනතාවට සහන සලසනු](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6482c98.json))
 
-* **72** daily-mirror-lk ([Ukraine war, Sri Lanka and IMF prescriptions](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd0d7dde.json))
+* **70** daily-mirror-lk ([Ranjan leaves prison](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f10481a7.json))
 
 * **62** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
