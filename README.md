@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 00:03:33 (LK time)*
+*As of 2022-09-02 00:20:22 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** tamil-mirror-lk ([ஆசியக் கிண்ணம்: பங்களாதேஷை வென்று சுப்பர் – 4-இல் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/3359f562.json))
-
-* **1** daily-mirror-lk ([Asia Cup: Sri Lanka beat Bangladesh to enter Super Four](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b039021.json))
 
 ## Last Hour (2 Articles)
 
@@ -26,7 +24,7 @@
 
 * **1** lankadeepa-lk ([‘‘මර්දනය තියෙන තුරු මේ රටට සල්ලි එවන්න එපා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72bbbd99.json))
 
-## Last 24 Hours (192 Articles)
+## Last 24 Hours (189 Articles)
 
 * **47** lankadeepa-lk ([මන්ත්‍රී නිවාසවලට පහරදුන් තවත් හතරක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d9b7689.json))
 
@@ -42,11 +40,11 @@
 
 * **14** economy-next-com ([Sri Lanka Chamber welcomes interim budget proposals, calls for implementation](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d640bf55.json))
 
-* **6** daily-ft-lk ([Lanka Hospitals Corp. boosts 1H after tax profit by 140% to Rs. 2.7 b](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e364f14.json))
+* **3** daily-ft-lk ([G.L. calls on Govt. to urgently revise HS classification codes](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21949947.json))
 
 * **2** colombo-telegraph-com ([Jaffna’s Municipality Loses Japanese Grant Of 4 Compactors & Associated Duty-Grant](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec180de6.json))
 
-## Last Week (505 Articles)
+## Last Week (504 Articles)
 
 * **77** lankadeepa-lk ([ජීවන බර අඩු කිරීමට ජනතාවට සහන සලසනු](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6482c98.json))
 
@@ -64,7 +62,7 @@
 
 * **42** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
-* **24** d-b-s-jeyaraj-com ([China  always supports  Sri Lanka’s  sovereignty, independence, and territorial integritywhile some countries,far or near, always make various groundless excuses to bully Sri Lanka and trample on Sri Lanka’s sovereignty and independence repeatedly.](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dba51755.json))
+* **23** d-b-s-jeyaraj-com ([Former MP and State Minister Ranjan Ramanayake walks out a free man after being released from a 4 year rigorous imprisonment sentence; President Wickremesinghe grants conditional  pardon stipulating that Ramanayake should not make any statement critical or derogatory of the entire judiciary in future.](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7610e37.json))
 
 * **17** island-lk ([Protests, arrests and gutted assets](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8703bcf7.json))
 
