@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/01/three-in-ten-sri-lankans-food-insecure-warns-wfp/",
+    "time_ut": 1662016920,
+    "original_lang": "en",
+    "original_title": "Three in Ten Sri Lankans food insecure, warns WFP",
+    "file_name": "/tmp/news_lk2/articles/f2/f281fba6.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7-\u0db6\u0d82\u0d9a\u0ddc\u0dbd\u0ddc\u0dad\u0dca-\u0d9a\u0dc5\u0dda-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0db1\u0ddc\u0daf\u0dd0\u0db1\u0dd4\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2/101-619111",
+    "time_ut": 1662016125,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da7 \u0db6\u0d82\u0d9a\u0ddc\u0dbd\u0ddc\u0dad\u0dca \u0d9a\u0dc5\u0dda \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0db1\u0ddc\u0daf\u0dd0\u0db1\u0dd4\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/95/9581fd41.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Jeyaraj-murder-Former-ASP-and-Ex-LTTE-cadre-acquitted-and-released/108-244133",
+    "time_ut": 1662016095,
+    "original_lang": "en",
+    "original_title": "Jeyaraj murder: Former ASP and Ex-LTTE cadre acquitted and released",
+    "file_name": "/tmp/news_lk2/articles/21/2174a3c2.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84682/two-accused-in-jeyaraj-fernandopulle-assassination-acquitted",
     "time_ut": 1662015840,
     "original_lang": "en",
     "original_title": "Two accused in Jeyaraj Fernandopulle assassination acquitted",
     "file_name": "/tmp/news_lk2/articles/da/daa52921.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dc4\u0dc5-\u0dc0\u0dcf\u0dba\u0dd4\u0d9c\u0ddd\u0dbd\u0dba\u0dda-\u0d9a\u0dd0\u0dc5\u0db9\u0dd2\u0dbd\u0dd2-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba-\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca-\u0db6\u0dd0\u0dc4\u0dd0\u0dbb-\u0dba\u0dba\u0dd2/11-396812",
+    "time_ut": 1662015743,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc4\u0dc5 \u0dc0\u0dcf\u0dba\u0dd4\u0d9c\u0ddd\u0dbd\u0dba\u0dda \u0d9a\u0dd0\u0dc5\u0db9\u0dd2\u0dbd\u0dd2 \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca \u0db6\u0dd0\u0dc4\u0dd0\u0dbb \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/49/49cc305c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-shares-shoots-up-in-mid-day-trade-on-imf-deal-99326/",
+    "time_ut": 1662015420,
+    "original_lang": "en",
+    "original_title": "Sri Lanka shares shoots up in mid-day trade on IMF deal",
+    "file_name": "/tmp/news_lk2/articles/94/945b1384.json"
   },
   {
     "newspaper_id": "ada-lk",
