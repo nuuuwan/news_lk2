@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 00:20:22 (LK time)*
+*As of 2022-09-02 00:35:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** tamil-mirror-lk ([ஆசியக் கிண்ணம்: பங்களாதேஷை வென்று சுப்பர் – 4-இல் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/3359f562.json))
 
 ## Last Hour (2 Articles)
 
@@ -14,15 +10,13 @@
 
 * **1** daily-mirror-lk ([Asia Cup: Sri Lanka beat Bangladesh to enter Super Four](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b039021.json))
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (4 Articles)
 
-* **3** ada-derana-lk ([Various weaknesses and wrong policy decisions led to debt default - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/3953af73.json))
+* **2** ada-derana-lk ([CBSL Governor reveals what triggered worst economic crisis in Sri Lanka’s history](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/831c8edc.json))
 
 * **1** tamil-mirror-lk ([ஆசியக் கிண்ணம்: பங்களாதேஷை வென்று சுப்பர் – 4-இல் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/3359f562.json))
 
 * **1** daily-mirror-lk ([Asia Cup: Sri Lanka beat Bangladesh to enter Super Four](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b039021.json))
-
-* **1** lankadeepa-lk ([‘‘මර්දනය තියෙන තුරු මේ රටට සල්ලි එවන්න එපා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72bbbd99.json))
 
 ## Last 24 Hours (189 Articles)
 
@@ -44,7 +38,7 @@
 
 * **2** colombo-telegraph-com ([Jaffna’s Municipality Loses Japanese Grant Of 4 Compactors & Associated Duty-Grant](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec180de6.json))
 
-## Last Week (504 Articles)
+## Last Week (503 Articles)
 
 * **77** lankadeepa-lk ([ජීවන බර අඩු කිරීමට ජනතාවට සහන සලසනු](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6482c98.json))
 
@@ -62,7 +56,7 @@
 
 * **42** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
-* **23** d-b-s-jeyaraj-com ([Former MP and State Minister Ranjan Ramanayake walks out a free man after being released from a 4 year rigorous imprisonment sentence; President Wickremesinghe grants conditional  pardon stipulating that Ramanayake should not make any statement critical or derogatory of the entire judiciary in future.](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7610e37.json))
+* **22** d-b-s-jeyaraj-com ([Police explainin the reasons for arresting  Wasantha Mudalige, Hashan Jeewantha Gunathilaka and Galwewa Siridamma Thera under  the Prevention of Terrorism Act (PTA) No. 48 of 1979)](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62f377bf.json))
 
 * **17** island-lk ([Protests, arrests and gutted assets](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8703bcf7.json))
 
