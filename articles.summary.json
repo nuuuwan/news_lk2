@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0dd3\u0dc0\u0db1\u0dca\u0dad-\u0db4\u0dd2\u0dba\u0dad\u0dd4\u0db8\u0dcf-\u0daf\u0dd0\u0db8\u0dd6-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8-\u0db4\u0dd2\u0dba\u0dad\u0dd4\u0db8\u0dcf\u0db8-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0d9a\u0dbb-\u0d9c\u0db1\u0dd3/101-619138",
+    "time_ut": 1662032015,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dd3\u0dc0\u0db1\u0dca\u0dad \u0db4\u0dd2\u0dba\u0dad\u0dd4\u0db8\u0dcf \u0daf\u0dd0\u0db8\u0dd6 \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8 \u0db4\u0dd2\u0dba\u0dad\u0dd4\u0db8\u0dcf\u0db8 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0d9a\u0dbb \u0d9c\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/a3/a348f5b6.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-should-form-stable-govt-with-slpp-mp-namal-rajapaksa-99352/",
+    "time_ut": 1662031980,
+    "original_lang": "en",
+    "original_title": "Sri Lanka president should form stable govt with SLPP: MP Namal Rajapaksa",
+    "file_name": "/tmp/news_lk2/articles/33/338b94b0.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/61-\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-28-\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b9f\u0bc1\u0bae\u0bcd-\u0b9f\u0bc1\u0bae\u0bcd-\u0b9f\u0b95\u0bcd-\u0b9f\u0b95\u0bcd/175-303406",
+    "time_ut": 1662031903,
+    "original_lang": "ta",
+    "original_title": "61 \u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd 28 \u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd   \u0b9f\u0bc1\u0bae\u0bcd\u2026\u0b9f\u0bc1\u0bae\u0bcd\u2026\u0b9f\u0b95\u0bcd\u2026\u0b9f\u0b95\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/5b/5b834c57.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0dda-\u0d9a\u0dbb\u0dd4\u0dab\u0dd4-\u0dc0\u0dd2\u0db8\u0dc3\u0db1\u0dca\u0db1-\u0daf\u0dd2\u0db1-\u0daf\u0dd9\u0dba\u0dd2/101-619136",
     "time_ut": 1662030788,
     "original_lang": "si",
@@ -209,11 +233,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dba\u0dd2-\u0d91\u0db8\u0dca-\u0d91\u0dc6\u0dca-\u0dab\u0dba-\u0db8\u0dd4\u0daf\u0dbd-\u0d9c\u0dd0\u0db1-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0dca/101-619124",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dba\u0dd2-\u0d91\u0db8\u0dca-\u0d91\u0dc6\u0dca-\u0dab\u0dba-\u0db8\u0dd4\u0daf\u0dbd-\u0d9c\u0dd0\u0db1-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0dca/1-619124",
     "time_ut": 1662024351,
     "original_lang": "si",
     "original_title": "\u0d85\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d91\u0dc6\u0dca \u0dab\u0dba \u0db8\u0dd4\u0daf\u0dbd \u0d9c\u0dd0\u0db1 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/f0/f0c1fd7b.json"
+    "file_name": "/tmp/news_lk2/articles/0a/0a0d7539.json"
   },
   {
     "newspaper_id": "ada-lk",
