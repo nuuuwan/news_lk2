@@ -1,20 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-01 22:25:20 (LK time)*
+*As of 2022-09-01 22:40:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([CBSL governor reveals reasons for Sri Lanka’s current economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c6cf10.json))
 
-## Last Hour (2 Articles)
-
-* **1** ada-derana-lk ([CBSL governor reveals reasons for Sri Lanka’s current economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c6cf10.json))
-
-* **1** lankadeepa-lk ([‘‘මර්දනය තියෙන තුරු මේ රටට සල්ලි එවන්න එපා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72bbbd99.json))
-
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (14 Articles)
 
 * **6** lankadeepa-lk ([ඉන්ධන මිල වෙනසක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/157efecd.json))
 
@@ -23,8 +17,6 @@
 * **2** ada-derana-lk ([Various weaknesses and wrong policy decisions led to debt default - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/3953af73.json))
 
 * **2** news-first-lk ([SLFP decides to amend party constitution to penalize violators](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79563c00.json))
-
-* **1** ada-lk ([අද රාත්‍රියේ ඉන්ධන මිල සංශෝධනයක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cfb322c.json))
 
 ## Last 24 Hours (192 Articles)
 
