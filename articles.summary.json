@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dc4\u0dc5-\u0dc0\u0dcf\u0dba\u0dd4\u0d9c\u0ddd\u0dbd\u0dba\u0dda-\u0d9a\u0dd0\u0dc5\u0db9\u0dd3\u0db8-\u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca/11-396796",
+    "time_ut": 1662002065,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc4\u0dc5 \u0dc0\u0dcf\u0dba\u0dd4\u0d9c\u0ddd\u0dbd\u0dba\u0dda \u0d9a\u0dd0\u0dc5\u0db9\u0dd3\u0db8 \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca",
+    "file_name": "/tmp/news_lk2/articles/16/1684fba3.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0dd2\u0db1\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0d9a\u0dca-\u0dc4\u0dcf-\u0d87-\u0da9\u0ddc--\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-1-8\u0d9a-\u0d89\u0dbd\u0d9a\u0dca\u0d9a\u0dba\u0d9a\u0dca/11-396795",
+    "time_ut": 1661998028,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0d9a\u0dca \u0dc4\u0dcf \u0d87.\u0da9\u0ddc. \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.8\u0d9a \u0d89\u0dbd\u0d9a\u0dca\u0d9a\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/2a/2a011762.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-price-control-agency-issues-stock-ceiling-orders-99314/",
+    "time_ut": 1661997780,
+    "original_lang": "en",
+    "original_title": "Sri Lanka price control agency issues stock ceiling orders",
+    "file_name": "/tmp/news_lk2/articles/93/93c888ee.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-noyon-lanka-develops-eco-friendly-plant-based-dye-99307/",
+    "time_ut": 1661991840,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s Noyon Lanka develops eco-friendly plant based dye",
+    "file_name": "/tmp/news_lk2/articles/3f/3f7f1992.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-chamber-welcomes-interim-budget-proposals-calls-for-implementation-99311/",
+    "time_ut": 1661991720,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Chamber welcomes interim budget proposals, calls for implementation",
+    "file_name": "/tmp/news_lk2/articles/d6/d640bf55.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/65th-Malaysia-National-Day-celebrations/56-739345",
     "time_ut": 1661976333,
@@ -56,12 +96,60 @@
     "file_name": "/tmp/news_lk2/articles/50/50ea7c1a.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-gets-us200mn-from-adb-for-income-support-farming-99312/",
+    "time_ut": 1661967600,
+    "original_lang": "en",
+    "original_title": "Sri Lanka gets US$200mn from ADB for income support, farming",
+    "file_name": "/tmp/news_lk2/articles/37/378c5de0.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84675/landslide-warnings-for-8-districts-red-alert-for-kalutara-ratnapura",
     "time_ut": 1661967540,
     "original_lang": "en",
     "original_title": "Landslide warnings for 8 districts; \u2018Red\u2019 alert for Kalutara, Ratnapura",
     "file_name": "/tmp/news_lk2/articles/67/67d963fb.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sysco-labs-strengthens-diversity-equity-and-inclusion-in-the-workplace/",
+    "time_ut": 1661964120,
+    "original_lang": "en",
+    "original_title": "Sysco LABS Strengthens Diversity, Equity and Inclusion in the Workplace",
+    "file_name": "/tmp/news_lk2/articles/8a/8a52a874.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/a-golden-motor-insurance-cover-from-mbsl-insurance/",
+    "time_ut": 1661964060,
+    "original_lang": "en",
+    "original_title": "A Golden Motor Insurance cover from MBSL Insurance",
+    "file_name": "/tmp/news_lk2/articles/86/861eef46.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/combank-lk-becomes-top-banking-and-finance-website-in-sri-lanka/",
+    "time_ut": 1661964060,
+    "original_lang": "en",
+    "original_title": "Combank.lk becomes top \u2018Banking and Finance\u2019 website in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/0a/0a04686e.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/chrissworld-rings-the-bell-to-celebrate-their-achievement-after-being-listed-on-the-cse-empower-board/",
+    "time_ut": 1661964000,
+    "original_lang": "en",
+    "original_title": "Chrissworld rings the bell to celebrate their achievement after being listed on the CSE Empower Board",
+    "file_name": "/tmp/news_lk2/articles/79/791c2571.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-gain-with-foreign-inflows-after-interim-budget-announcement-99306/",
+    "time_ut": 1661963940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks gain with foreign inflows after interim budget announcement",
+    "file_name": "/tmp/news_lk2/articles/f0/f0e384b9.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -96,12 +184,28 @@
     "file_name": "/tmp/news_lk2/articles/37/379aeeeb.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db8\u0dca\u0db6\u0dbd\u0db1\u0dca\u0d9c\u0ddc\u0da9-\u0d9d\u0dcf\u0dad\u0db1-\u0d9c\u0ddc\u0db1\u0dca\u0db1\u0da7-\u0dad\u0dc0\u0dad\u0dca-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0d9a\u0dca/11-396794",
+    "time_ut": 1661962378,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db8\u0dca\u0db6\u0dbd\u0db1\u0dca\u0d9c\u0ddc\u0da9 \u0d9d\u0dcf\u0dad\u0db1 \u0d9c\u0ddc\u0db1\u0dca\u0db1\u0da7 \u0dad\u0dc0\u0dad\u0dca \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/f2/f259022b.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/31/are-you-a-victim-of-cyber-crime-police-unit-ready-to-crackdown-crime-in-the-cyberspace/",
     "time_ut": 1661962080,
     "original_lang": "en",
     "original_title": "Are you a victim of Cyber Crime? Police Unit ready to crackdown crime in the cyberspace",
     "file_name": "/tmp/news_lk2/articles/d6/d68056d3.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-nbro-issues-landslide-evacuation-alert-amid-high-rainfall-flood-risks-99303/",
+    "time_ut": 1661961900,
+    "original_lang": "en",
+    "original_title": "Sri Lanka NBRO issues landslide evacuation alert amid high rainfall, flood risks",
+    "file_name": "/tmp/news_lk2/articles/42/42bdd0bb.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -136,12 +240,52 @@
     "file_name": "/tmp/news_lk2/articles/4e/4e5f6ef6.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-tourism-promotion-body-to-revise-up-2023-target-after-interim-budget-99298/",
+    "time_ut": 1661958840,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Tourism Promotion body to revise up 2023 target after interim budget",
+    "file_name": "/tmp/news_lk2/articles/e5/e5b4201a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/ADB-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-200\u0d9a-\u0dab\u0dba\u0d9a\u0dca-\u0daf\u0dd9\u0dba\u0dd2/11-396793",
+    "time_ut": 1661957743,
+    "original_lang": "si",
+    "original_title": "ADB \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 200\u0d9a \u0dab\u0dba\u0d9a\u0dca \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/6a/6a992d8a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-opposition-leader-welcomes-dissident-ruling-party-faction-to-opposition-99299/",
+    "time_ut": 1661957580,
+    "original_lang": "en",
+    "original_title": "Sri Lanka opposition leader welcomes dissident ruling party faction to opposition",
+    "file_name": "/tmp/news_lk2/articles/cc/cc1d3278.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba-\u0dad\u0dc0\u0dad\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-396792",
+    "time_ut": 1661957153,
+    "original_lang": "si",
+    "original_title": "\u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0dad\u0dc0\u0dad\u0dca \u0d89\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/cb/cb93c855.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/31/extreme-weather-red-alert-evacuation-warning-for-several-localities/",
     "time_ut": 1661956680,
     "original_lang": "en",
     "original_title": "Extreme Weather: Red Alert Evacuation warning for several localities",
     "file_name": "/tmp/news_lk2/articles/f1/f1a1bd20.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0d91\u0dc0\u0db1-\u0d85\u0dba\u0da7-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0d9a\u0dca-\u0d9c\u0dda\u0db1\u0dca\u0db1-\u0da0\u0d9a\u0dca\u200d\u0dbb-\u0dbd\u0dda\u0d9b\u0dba-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-396791",
+    "time_ut": 1661956239,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0d91\u0dc0\u0db1 \u0d85\u0dba\u0da7 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0d9a\u0dca \u0d9c\u0dda\u0db1\u0dca\u0db1 \u0da0\u0d9a\u0dca\u200d\u0dbb \u0dbd\u0dda\u0d9b\u0dba \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e7/e7040ec1.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -168,6 +312,14 @@
     "file_name": "/tmp/news_lk2/articles/74/7435cf7c.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-treasuries-yields-slightly-up-99297/",
+    "time_ut": 1661950800,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Treasuries yields slightly up",
+    "file_name": "/tmp/news_lk2/articles/8d/8db69957.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/31/iusf-goes-to-hrcsl-over-arrests/",
     "time_ut": 1661950620,
@@ -182,6 +334,38 @@
     "original_lang": "en",
     "original_title": "28 IUSF members released on bail",
     "file_name": "/tmp/news_lk2/articles/05/05351b6f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dad\u0dd2\u0d9a-\u0db4\u0dcf\u0dc3\u0dbd\u0dca\u0dc0\u0dbd-\u0d85\u0dad\u0dbb---\u0db8\u0dd0\u0daf-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2-\u0dc3\u0daf\u0dc4\u0dcf-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-\u0d87\u0dad\u0dd4\u0dbd\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda-\u0d9a\u0dcf\u0dbd\u0dba-2\u0daf\u0dcf-\u0d85\u0dc0\u0dc3\u0db1\u0dca/11-396789",
+    "time_ut": 1661949099,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dad\u0dd2\u0d9a \u0db4\u0dcf\u0dc3\u0dbd\u0dca\u0dc0\u0dbd \u0d85\u0dad\u0dbb - \u0db8\u0dd0\u0daf \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2 \u0dc3\u0daf\u0dc4\u0dcf \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca \u0d87\u0dad\u0dd4\u0dbd\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0d9a\u0dcf\u0dbd\u0dba 2\u0daf\u0dcf \u0d85\u0dc0\u0dc3\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/45/4549e151.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dca-35\u0d9a\u0dca-\u0dc3\u0dd3\u0dbb\u0dd4\u0dc0\u0dd9\u0db1\u0dca/11-396788",
+    "time_ut": 1661948758,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dca 35\u0d9a\u0dca \u0dc3\u0dd3\u0dbb\u0dd4\u0dc0\u0dd9\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/56/5617d840.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-import-ban-should-be-reversed-addressed-by-macro-policy-advocata-99295/",
+    "time_ut": 1661947500,
+    "original_lang": "en",
+    "original_title": "Sri Lanka import ban should be reversed, addressed by macro policy: Advocata",
+    "file_name": "/tmp/news_lk2/articles/f8/f8dffcd4.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dd0\u0d82\u0d9a\u0dd4-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd3\u0d9a\u0dbb\u0dab\u0dba-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0d9a\u0dca-\u0db1\u0ddc\u0dc0\u0dda/11-396787",
+    "time_ut": 1661947407,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd3\u0d9a\u0dbb\u0dab\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7 \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0d9a\u0dca \u0db1\u0ddc\u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/ff/ff6f774c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -232,12 +416,28 @@
     "file_name": "/tmp/news_lk2/articles/70/7058b03c.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-3-month-bill-yield-rise-238bp-to-32-89-pct-99293/",
+    "time_ut": 1661942700,
+    "original_lang": "en",
+    "original_title": "Sri Lanka 3-month bill yield rise 238bp to 32.89-pct",
+    "file_name": "/tmp/news_lk2/articles/6c/6cb3e211.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/31/flood-warning-for-low-lying-areas-in-ratnapura/",
     "time_ut": 1661942640,
     "original_lang": "en",
     "original_title": "Flood warning for low-lying areas in Ratnapura",
     "file_name": "/tmp/news_lk2/articles/d5/d56ecc14.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dc5\u0dd4-\u0d9c\u0d9f-\u0daf\u0dd9\u0db4\u0dc3-\u0dc3\u0dd2\u0da7\u0dd2\u0db1-\u0d85\u0dba\u0da7-\u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca\u0daf\u0dd3\u0db8\u0d9a\u0dca/11-396786",
+    "time_ut": 1661941918,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dc5\u0dd4 \u0d9c\u0d9f \u0daf\u0dd9\u0db4\u0dc3 \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0d85\u0dba\u0da7 \u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca\u0daf\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/de/de15fd29.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -256,12 +456,44 @@
     "file_name": "/tmp/news_lk2/articles/09/09815420.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-inflation-rises-to-64-3-pct-in-august-99291/",
+    "time_ut": 1661941140,
+    "original_lang": "en",
+    "original_title": "Sri Lanka inflation rises to 64.3-pct in August",
+    "file_name": "/tmp/news_lk2/articles/9c/9ceb78ae.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dbb\u0dab\u0dd3\u0dba-\u0daf\u0dab\u0dca\u0da9\u0db1\u0dba\u0da7-\u0d85\u0dad\u0dca\u0dc3\u0db1\u0dca-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd1/11-396785",
+    "time_ut": 1661940857,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dbb\u0dab\u0dd3\u0dba \u0daf\u0dab\u0dca\u0da9\u0db1\u0dba\u0da7 \u0d85\u0dad\u0dca\u0dc3\u0db1\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/a6/a6748e28.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/31/extreme-weather-air-force-on-standby-for-search-and-rescue/",
     "time_ut": 1661940780,
     "original_lang": "en",
     "original_title": "Extreme Weather: Air Force on standby for Search and Rescue",
     "file_name": "/tmp/news_lk2/articles/3c/3c3490cd.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd2\u0dba\u0dcf-\u0d9a\u0dd0\u0da9\u0dd4-\u0db4\u0ddc\u0dbd\u0dca-\u0d9c\u0dd9\u0da9\u0dd2\u0dba-\u0dc4\u0dd2\u0dc3\u0da7-\u0dc0\u0dd0\u0da7\u0dd3-\u0db4\u0dd4\u0dad\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/11-396784",
+    "time_ut": 1661939639,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd2\u0dba\u0dcf \u0d9a\u0dd0\u0da9\u0dd4 \u0db4\u0ddc\u0dbd\u0dca \u0d9c\u0dd9\u0da9\u0dd2\u0dba \u0dc4\u0dd2\u0dc3\u0da7 \u0dc0\u0dd0\u0da7\u0dd3 \u0db4\u0dd4\u0dad\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/09/09dae65b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-chinese-built-lotus-tower-to-be-commence-operations-on-sep-15-99284/",
+    "time_ut": 1661939220,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s Chinese-built Lotus Tower to be commence operations on Sep 15",
+    "file_name": "/tmp/news_lk2/articles/96/96fb4100.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -272,6 +504,62 @@
     "file_name": "/tmp/news_lk2/articles/9b/9ba65407.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dd3\u0d9c\u0db8\u0dd4\u0dc0-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba-\u0d85\u0dc3\u0dbd-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-02\u0d9a\u0dca-\u0dbb\u0ddc\u0dca\u0dc4\u0dbd\u0da7/11-396783",
+    "time_ut": 1661938297,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd3\u0d9c\u0db8\u0dd4\u0dc0 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba \u0d85\u0dc3\u0dbd \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca 02\u0d9a\u0dca \u0dbb\u0ddc\u0dca\u0dc4\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/5f/5fc48a0b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/-\u0d9a\u0dd4\u0da9\u0dd4-\u0db6\u0da7\u0dca\u0da7\u0dd2--\u0dbb\u0dcf\u0da2\u0d9c\u0dd2\u0dbb\u0dd2\u0dba\u0dda\u0daf\u0dd3-\u0d9a\u0dd4\u0da9\u0dd4-\u0dc3\u0db8\u0d9c-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6/11-396782",
+    "time_ut": 1661937232,
+    "original_lang": "si",
+    "original_title": "'\u0d9a\u0dd4\u0da9\u0dd4 \u0db6\u0da7\u0dca\u0da7\u0dd2' \u0dbb\u0dcf\u0da2\u0d9c\u0dd2\u0dbb\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0d9a\u0dd4\u0da9\u0dd4 \u0dc3\u0db8\u0d9c \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6",
+    "file_name": "/tmp/news_lk2/articles/9a/9ae5b695.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-presidents-policy-direction-correct-but-could-be-a-cuckoo-egg-harsha-99283/",
+    "time_ut": 1661935260,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President\u2019s policy direction correct, but could be a cuckoo egg: Harsha",
+    "file_name": "/tmp/news_lk2/articles/29/294e62ec.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dd9\u0dc5\u0dd4\u0db8\u0dca-\u0d9a\u0dd4\u0dbd\u0dd4\u0db1\u0dda-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0dbd\u0db6\u0db1-15\u0daf\u0dcf-\u0d87\u0dbb\u0db9\u0dda/11-396781",
+    "time_ut": 1661935022,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd9\u0dc5\u0dd4\u0db8\u0dca \u0d9a\u0dd4\u0dbd\u0dd4\u0db1\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0dbd\u0db6\u0db1 15\u0daf\u0dcf \u0d87\u0dbb\u0db9\u0dda",
+    "file_name": "/tmp/news_lk2/articles/48/487b3c07.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-dmc-warns-of-floods-landslides-after-heavy-rains-99281/",
+    "time_ut": 1661934900,
+    "original_lang": "en",
+    "original_title": "Sri Lanka DMC warns of floods, landslides after heavy rains",
+    "file_name": "/tmp/news_lk2/articles/39/39ec96bb.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-missed-fdis-over-delayed-project-planning-by-state-entities-boi-99211/",
+    "time_ut": 1661933160,
+    "original_lang": "en",
+    "original_title": "Sri Lanka missed FDIs over delayed project planning by state entities \u2013 BOI",
+    "file_name": "/tmp/news_lk2/articles/da/da0dd414.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb-04\u0da7-\u0dbb\u0dd4--500-000\u0d9a-\u0daf\u0da9\u0dba\u0d9a\u0dca/11-396780",
+    "time_ut": 1661932980,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb 04\u0da7 \u0dbb\u0dd4. 500,000\u0d9a \u0daf\u0da9\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/d5/d5670ef7.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/31/harak-kata-s-associates-nabbed/",
     "time_ut": 1661932680,
@@ -280,12 +568,172 @@
     "file_name": "/tmp/news_lk2/articles/2e/2e7a5bd0.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/IMF--\u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4\u0dc0\u0da7-\u0db8\u0dd6\u0dbd\u0dd2\u0d9a-\u0d91\u0d9a\u0d9f\u0dad\u0dcf\u0dc0-\u0d87\u0dad\u0dd2\u0dc0\u0dd9\u0dba\u0dd2/11-396779",
+    "time_ut": 1661932403,
+    "original_lang": "si",
+    "original_title": "IMF  \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4\u0dc0\u0da7 \u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0d91\u0d9a\u0d9f\u0dad\u0dcf\u0dc0 \u0d87\u0dad\u0dd2\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/66/6684c87c.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/08/31/12-more-arrests-for-9th-may-violence/",
     "time_ut": 1661932320,
     "original_lang": "en",
     "original_title": "12 more arrests for 9th May violence",
     "file_name": "/tmp/news_lk2/articles/03/0307cf2a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/circular-issued-permitting-sri-lankas-migrant-workers-to-import-electric-vehicle-99268/",
+    "time_ut": 1661932320,
+    "original_lang": "en",
+    "original_title": "Circular issued permitting Sri Lanka\u2019s migrant workers to import electric vehicle",
+    "file_name": "/tmp/news_lk2/articles/73/733f75e0.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca-4\u0d9a\u0dca-\u0dc0\u0dad\u0dca-\u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca-\u0d9a\u0dc5\u0dda-\u0db1\u0dd1/11-396778",
+    "time_ut": 1661931820,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 4\u0d9a\u0dca \u0dc0\u0dad\u0dca \u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca \u0d9a\u0dc5\u0dda \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/af/afa82534.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d86\u0db4\u0daf\u0dcf\u0dc0\u0db1\u0dca\u0da7-\u0db8\u0dd4\u0dc4\u0dd4\u0dab-\u0daf\u0dd2\u0db8\u0da7-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0-\u0dc3\u0dd4\u0daf\u0dcf\u0db1\u0db8\u0dca/11-396777",
+    "time_ut": 1661930263,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0db4\u0daf\u0dcf\u0dc0\u0db1\u0dca\u0da7 \u0db8\u0dd4\u0dc4\u0dd4\u0dab \u0daf\u0dd2\u0db8\u0da7 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0dc3\u0dd4\u0daf\u0dcf\u0db1\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/fb/fbd10861.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb-\u0dc0\u0dd0\u0da9\u0dd2-\u0db8\u0dd2\u0dbd\u0da7-\u0d85\u0dbd\u0dd9\u0dc0\u0dd2-\u0d9a\u0dc5-\u0dc0\u0dd9\u0dc5\u0db3\u0dd4\u0db1\u0dca-02\u0d9a\u0dca-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7/11-396776",
+    "time_ut": 1661929407,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb \u0dc0\u0dd0\u0da9\u0dd2 \u0db8\u0dd2\u0dbd\u0da7 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0d9a\u0dc5 \u0dc0\u0dd9\u0dc5\u0db3\u0dd4\u0db1\u0dca 02\u0d9a\u0dca \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/10/10597007.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-shares-gain-over-2-pct-in-mid-day-trade-on-positive-interim-budget-99258/",
+    "time_ut": 1661928240,
+    "original_lang": "en",
+    "original_title": "Sri Lanka shares gain over 2-pct in mid-day trade on positive interim budget",
+    "file_name": "/tmp/news_lk2/articles/6e/6e3dc5ba.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-imf-discussions-ongoing-talks-extended-for-a-day-mission-chief-99259/",
+    "time_ut": 1661927940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka IMF discussions ongoing, talks extended for a day: mission chief",
+    "file_name": "/tmp/news_lk2/articles/f9/f9262ae2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0dc3\u0dd2-\u0db1\u0dd2\u0dc3\u0dcf-\u0d9c\u0dd0\u0da7\u0dc5\u0dd4\u0dc0\u0d9a\u0dca/11-396775",
+    "time_ut": 1661925534,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dcf\u0dc3\u0dd2 \u0db1\u0dd2\u0dc3\u0dcf \u0d9c\u0dd0\u0da7\u0dc5\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/c1/c1212aa8.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-arrested-uni-student-protestors-will-not-be-detained-under-pta-pm-99246/",
+    "time_ut": 1661925240,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s arrested uni student protestors will not be detained under PTA: PM",
+    "file_name": "/tmp/news_lk2/articles/ec/ec8090ce.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda-\u0d89\u0dad\u0dd2\u0dbb\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0dc3\u0dd2\u0dba\u0dba\u0da7-70\u0d9a\u0dca-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0dbd\u0dcf-\u0dc4\u0ddc\u0dbb\u0d9a\u0db8\u0dca-\u0d9a\u0dbb\u0dbd\u0dcf/11-396774",
+    "time_ut": 1661924618,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda \u0d89\u0dad\u0dd2\u0dbb\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 70\u0d9a\u0dca \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0dbd\u0dcf \u0dc4\u0ddc\u0dbb\u0d9a\u0db8\u0dca \u0d9a\u0dbb\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/f1/f1f9ed0e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dd8\u0dc2\u0dd2-\u0d87\u0db8\u0dad\u0dd2-\u0dad\u0db8-\u0d9c\u0dd9\u0dc0\u0dad\u0dca\u0dad\u0dda-\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1-\u0db1\u0dd9\u0dc5\u0dba\u0dd2/11-396773",
+    "time_ut": 1661923326,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd8\u0dc2\u0dd2 \u0d87\u0db8\u0dad\u0dd2 \u0dad\u0db8 \u0d9c\u0dd9\u0dc0\u0dad\u0dca\u0dad\u0dda \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1 \u0db1\u0dd9\u0dc5\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/8d/8d6ab189.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d94\u0d9a\u0dca\u0da7\u0dda\u0db1\u0dca-92-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca-\u0d85\u0daf-\u0d9c\u0ddc\u0da9\u0db6\u0dcf\u0dba\u0dd2/11-396772",
+    "time_ut": 1661922611,
+    "original_lang": "si",
+    "original_title": "\u0d94\u0d9a\u0dca\u0da7\u0dda\u0db1\u0dca 92 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca \u0d85\u0daf \u0d9c\u0ddc\u0da9\u0db6\u0dcf\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/cb/cb9b1c6a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/GL--\u0da9\u0dbd\u0dc3\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda-13\u0d9a\u0dca-\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda-\u0d85\u0dc3\u0dd4\u0db1\u0dca-\u0d9c\u0db1\u0dd2\u0dad\u0dd2/11-396771",
+    "time_ut": 1661921089,
+    "original_lang": "si",
+    "original_title": "GL, \u0da9\u0dbd\u0dc3\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda 13\u0d9a\u0dca \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0d85\u0dc3\u0dd4\u0db1\u0dca \u0d9c\u0db1\u0dd2\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/81/8111b5d6.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dba\u0dd2\u0dc3\u0dca-\u0d9a\u0dd2\u0dbd\u0ddd-10\u0d9a\u0dca-\u0dc3\u0db8\u0d9c-02\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6/11-396770",
+    "time_ut": 1661921071,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dba\u0dd2\u0dc3\u0dca \u0d9a\u0dd2\u0dbd\u0ddd 10\u0d9a\u0dca \u0dc3\u0db8\u0d9c 02\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6",
+    "file_name": "/tmp/news_lk2/articles/9b/9be7870a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0da2\u0dba\u0dda-\u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd\u0da7-\u0db8\u0dc4\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dd9\u0db1\u0dca-\u0dbd\u0dd0\u0db6\u0dd9\u0db1-\u0dbd\u0dd2\u0db4\u0dd2\u0dc0\u0dbd\u0da7-\u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0dca-\u0dad\u0dd4\u0dc5-\u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0dd4-\u0dba\u0dc0\u0db1\u0dca\u0db1/11-396769",
+    "time_ut": 1661919471,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da2\u0dba\u0dda \u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd\u0da7 \u0db8\u0dc4\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dd9\u0db1\u0dca \u0dbd\u0dd0\u0db6\u0dd9\u0db1 \u0dbd\u0dd2\u0db4\u0dd2\u0dc0\u0dbd\u0da7 \u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0dad\u0dd4\u0dc5 \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0dd4 \u0dba\u0dc0\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/5b/5b4d2875.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-boi-targets-one-billion-dollars-in-fdi-for-2022-99210/",
+    "time_ut": 1661918460,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s BOI targets one billion dollars in FDI for 2022",
+    "file_name": "/tmp/news_lk2/articles/59/59c78547.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca--\u0d85\u0dad\u0dd2\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0d9c\u0dd0\u0dc3\u0da7\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/11-396768",
+    "time_ut": 1661915354,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca  \u0d85\u0dad\u0dd2\u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d9c\u0dd0\u0dc3\u0da7\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/28/28fa846f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-revises-budget-for-stability-in-monetary-meltdown-99212/",
+    "time_ut": 1661914020,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President revises budget for stability in monetary meltdown",
+    "file_name": "/tmp/news_lk2/articles/ab/ab8b538d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-allow-foreign-universities-to-start-branches-99222/",
+    "time_ut": 1661913900,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to allow foreign universities to start branches",
+    "file_name": "/tmp/news_lk2/articles/99/99e56392.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0dd9\u0db1\u0dca-\u0dbb\u0dad\u0dd4-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/11-396766",
+    "time_ut": 1661912357,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0dd9\u0db1\u0dca \u0dbb\u0dad\u0dd4 \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/6e/6eadc48a.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -376,6 +824,214 @@
     "file_name": "/tmp/news_lk2/articles/e5/e587af79.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79211",
+    "time_ut": 1661896980,
+    "original_lang": "en",
+    "original_title": "Appapillai Amirthalingam: From Enfant Terrible of ITAK to TULF Elder Statesman",
+    "file_name": "/tmp/news_lk2/articles/23/23bc5767.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79295",
+    "time_ut": 1661888460,
+    "original_lang": "en",
+    "original_title": "Sri Lanka  has reached only a  preliminary agreement with the International Monetary Fund (IMF) prior to  a staff-level agreement for an Extended Fund Facility (EFF) and Rapid Financing Instrument (RFI)  states former Central Bank of Sri Lanka (CBSL) Deputy Governor Dr. W.A. Wijewardena",
+    "file_name": "/tmp/news_lk2/articles/6f/6f78a93d.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79277",
+    "time_ut": 1661887440,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Reaches  Preliminary Agreement with the International Monetary Fund(IMF); Formal Announcement likely to be made on Thursday Sep 1st",
+    "file_name": "/tmp/news_lk2/articles/25/253a43e7.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79290",
+    "time_ut": 1661887440,
+    "original_lang": "en",
+    "original_title": "\u201cSri Lanka will be a critical test of Chinese willingness to co-ordinate with other lenders. The hope now for Sri Lanka is that Zambia\u2019s deal has set a precedent for China to co-ordinate with other creditors\u201d- The Economist",
+    "file_name": "/tmp/news_lk2/articles/02/0248a2fd.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79280",
+    "time_ut": 1661886360,
+    "original_lang": "en",
+    "original_title": "Jaffna University Students\u2019 Union Lashes out Against Chinese Ambassador Qi Zhenhong at Media briefing;signing of agreement between Jaffna Agriculture faculty and Chinese Agricultural institute indefinitely postponed;Chinese envoy\u2019s visit to Jaffna  cancelled.",
+    "file_name": "/tmp/news_lk2/articles/ba/ba343a83.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79287",
+    "time_ut": 1661885820,
+    "original_lang": "en",
+    "original_title": "Mikhail Gorbachev  who ended the cold war  was the  last leader of the Soviet Union and the architect of its dissolution",
+    "file_name": "/tmp/news_lk2/articles/6b/6bec7bde.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/2022-\u0da2\u0dd6\u0dbd\u0dd2-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0d9a\u0dcf\u0dbb\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0db1\u0dba/7-396760",
+    "time_ut": 1661883120,
+    "original_lang": "si",
+    "original_title": "2022 \u0da2\u0dd6\u0dbd\u0dd2 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d85\u0db4\u0db1\u0dba\u0db1 \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0dc3\u0dcf\u0db0\u0db1\u0dba",
+    "file_name": "/tmp/news_lk2/articles/2f/2fd04aa5.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4-\u0db6\u0dd4\u0d82\u0dc0\u0dad\u0dca-\u0db1\u0dd3\u0dad\u0dd2\u0dba\u0da7-\u0dc3\u0db8\u0dcf\u0db1-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dcf\u0daf\u0db1-\u0db8\u0dd9\u0dbb\u0da7\u0da7\u0dad\u0dca/7-396759",
+    "time_ut": 1661883003,
+    "original_lang": "si",
+    "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0db6\u0dd4\u0d82\u0dc0\u0dad\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0dba\u0da7 \u0dc3\u0db8\u0dcf\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dcf\u0daf\u0db1 \u0db8\u0dd9\u0dbb\u0da7\u0da7\u0dad\u0dca",
+    "file_name": "/tmp/news_lk2/articles/96/96f008dd.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7-\u0dc0\u0dbb\u0dcf\u0dba\u0dda-\u0dc3\u0dd2\u0db8\u0dd9\u0db1\u0dca\u0dad\u0dd2-\u0d85\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0dc3\u0db3\u0dc4\u0dcf-\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd-\u0d9c\u0db6\u0da9\u0dcf\u0dc0\u0d9a\u0dca/7-396756",
+    "time_ut": 1661882755,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0dc0\u0dbb\u0dcf\u0dba\u0dda \u0dc3\u0dd2\u0db8\u0dd9\u0db1\u0dca\u0dad\u0dd2 \u0d85\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0d9c\u0db6\u0da9\u0dcf\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/81/815e36b9.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/Asia-Pacific-Seeds-for-the-Future-2022-\u0daf\u0dd2\u0dba\u0dad\u0dca-\u0dc0\u0dda/7-396753",
+    "time_ut": 1661882146,
+    "original_lang": "si",
+    "original_title": "Asia Pacific Seeds for the Future 2022 \u0daf\u0dd2\u0dba\u0dad\u0dca \u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/b0/b08a445b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/\u0d85\u0da9\u0dd4-\u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca\u0dbd\u0dcf\u0db7\u0dd3\u0db1\u0dca\u0da7-\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7-\u0dc0\u0dbb\u0dcf\u0dba-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0dbd\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca-\u0daf\u0dd9\u0dba\u0dd2/7-396752",
+    "time_ut": 1661882037,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0da9\u0dd4 \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca\u0dbd\u0dcf\u0db7\u0dd3\u0db1\u0dca\u0da7 \u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0dc0\u0dbb\u0dcf\u0dba \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0dbd\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f9/f9676231.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a-\u0dc3\u0dc4\u0dad\u0dd2\u0d9a-\u0db4\u0dad\u0dca\u200d\u0dbb-\u0db4\u0dcf\u0da8\u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca-\u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf-\u0daf\u0dd9\u0dba\u0dd2/7-396751",
+    "time_ut": 1661881692,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0db4\u0dad\u0dca\u200d\u0dbb \u0db4\u0dcf\u0da8\u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/60/60e206b6.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/hike-in-mental-health-related-issues-in-the-wake-of-lockdowns/",
+    "time_ut": 1661878680,
+    "original_lang": "en",
+    "original_title": "\u2018Hike in mental health related issues in the wake of lockdowns\u2019",
+    "file_name": "/tmp/news_lk2/articles/12/12fb0e52.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/phoenix-launch-2022-industrial-collection-of-crates-pallets-designed-for-handling/",
+    "time_ut": 1661878560,
+    "original_lang": "en",
+    "original_title": "Phoenix Launch 2022 Industrial Collection of Crates & Pallets \u2013 Designed for Handling",
+    "file_name": "/tmp/news_lk2/articles/6f/6f182520.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/prof-s-m-p-senanayake-he-was-always-a-simple-and-humble-man/",
+    "time_ut": 1661878500,
+    "original_lang": "en",
+    "original_title": "Prof. S. M. P. Senanayake \u2013 \u2018He was always a simple and humble man\u2019",
+    "file_name": "/tmp/news_lk2/articles/7c/7c89b917.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-bakery-owners-shift-price-control-drumbeat-from-eggs-to-wheat-flour-99205/",
+    "time_ut": 1661869680,
+    "original_lang": "en",
+    "original_title": "Sri Lanka bakery owners shift price control drumbeat from eggs to wheat flour",
+    "file_name": "/tmp/news_lk2/articles/00/00e66c9d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-reduces-retirement-age-among-measures-to-rationalize-state-sector-99200/",
+    "time_ut": 1661863380,
+    "original_lang": "en",
+    "original_title": "Sri Lanka reduces retirement age among measures to rationalize state-sector",
+    "file_name": "/tmp/news_lk2/articles/2d/2d352b32.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/crisis-hit-sri-lankas-interim-budget-aims-ambitious-revenue-debt-cut-targets-99193/",
+    "time_ut": 1661854980,
+    "original_lang": "en",
+    "original_title": "Crisis-hit Sri Lanka\u2019s interim budget aims ambitious revenue, debt cut targets",
+    "file_name": "/tmp/news_lk2/articles/50/50996edd.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-2022-interim-budget-proposes-new-targeted-welfare-system-99185/",
+    "time_ut": 1661853780,
+    "original_lang": "en",
+    "original_title": "Sri Lanka 2022 interim budget proposes new targeted welfare system",
+    "file_name": "/tmp/news_lk2/articles/d1/d1a7808d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-enact-new-central-bank-law-amid-fears-of-flexible-policy-99194/",
+    "time_ut": 1661852400,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to enact new central bank law amid fears of flexible policy",
+    "file_name": "/tmp/news_lk2/articles/93/93fee10c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-set-up-soe-restructuring-unit-99188/",
+    "time_ut": 1661849460,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to set up SOE restructuring unit",
+    "file_name": "/tmp/news_lk2/articles/28/286b2914.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-state-sector-to-go-full-electric-no-more-fuel-vehicles-president-99182/",
+    "time_ut": 1661847540,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s state sector to go full electric, no more fuel vehicles: president",
+    "file_name": "/tmp/news_lk2/articles/f6/f6455c88.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-make-income-tax-files-compulsory-99180/",
+    "time_ut": 1661847000,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to make income tax files compulsory",
+    "file_name": "/tmp/news_lk2/articles/44/442f6927.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-raises-vat-to-15-from-sept-1-president-99181/",
+    "time_ut": 1661846820,
+    "original_lang": "en",
+    "original_title": "Sri Lanka raises VAT to 15%  from Sept. 1: president",
+    "file_name": "/tmp/news_lk2/articles/5e/5e440694.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-infotech-mobile-telephony-in-a-fix-after-import-ban-99166/",
+    "time_ut": 1661837940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka infotech, mobile telephony in a fix after import ban",
+    "file_name": "/tmp/news_lk2/articles/ce/cebfebd1.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/us-to-redouble-efforts-to-support-crisis-hit-sri-lanka-ambassador-99167/",
+    "time_ut": 1661832360,
+    "original_lang": "en",
+    "original_title": "US to redouble efforts to support crisis-hit Sri Lanka: Ambassador",
+    "file_name": "/tmp/news_lk2/articles/73/736dac40.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Grit-honour-and-resilience-markers-of-a-great-leader/4-739261",
     "time_ut": 1661812639,
@@ -440,6 +1096,78 @@
     "file_name": "/tmp/news_lk2/articles/e4/e4833ef4.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79266",
+    "time_ut": 1661800500,
+    "original_lang": "en",
+    "original_title": "\u201cI would say that the 225 MPs are hanging on by force. They do not have the people\u2019s mandate anymore\u2026\u2026\u2026 I fully agree that all 225 MPs must go and a new government with new faces and the right kind of vision must come to power.\u201d- Former President Chandrika Kumaratunga in Interview with \u201cThe Hindu\u201d",
+    "file_name": "/tmp/news_lk2/articles/9b/9bf2aea2.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79274",
+    "time_ut": 1661800500,
+    "original_lang": "en",
+    "original_title": "The political class as a whole is not going to let  people\u2019s power decide as to  how they should act. Even though the opposition parties speak in support of the \u2018Aragalaya\u2019 movement, they still support the govt\u2019s current repressive measures in their heart of hearts.",
+    "file_name": "/tmp/news_lk2/articles/a8/a85a2127.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/entertainment-sceneopening-up/",
+    "time_ut": 1661792820,
+    "original_lang": "en",
+    "original_title": "Entertainment scene\u2026opening up",
+    "file_name": "/tmp/news_lk2/articles/47/47655987.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dj-shawnn-padding-up/",
+    "time_ut": 1661792820,
+    "original_lang": "en",
+    "original_title": "DJ Shawnn padding up!",
+    "file_name": "/tmp/news_lk2/articles/d0/d0017cab.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/three-governmental-actions-to-be-prioritised/",
+    "time_ut": 1661792520,
+    "original_lang": "en",
+    "original_title": "Three governmental actions to be prioritised",
+    "file_name": "/tmp/news_lk2/articles/f8/f8f2ec02.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/free-education-is-the-canary-in-the-coalmine/",
+    "time_ut": 1661792400,
+    "original_lang": "en",
+    "original_title": "Free education is the canary in the coalmine",
+    "file_name": "/tmp/news_lk2/articles/09/09927bf3.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-power-energy-minister-defends-necessary-electricity-tariff-hike-99142/",
+    "time_ut": 1661766900,
+    "original_lang": "en",
+    "original_title": "Sri Lanka power & energy minister defends \u201cnecessary\u201d electricity tariff hike",
+    "file_name": "/tmp/news_lk2/articles/24/2445bf03.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-sell-49-percent-stake-of-national-carriers-catering-ground-handling-units-99145/",
+    "time_ut": 1661759940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to sell 49-percent stake of national carrier\u2019s catering, ground-handling units",
+    "file_name": "/tmp/news_lk2/articles/8b/8b392e55.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-tax-revenues-grow-29-pct-up-to-may-amid-inflation-99128/",
+    "time_ut": 1661738880,
+    "original_lang": "en",
+    "original_title": "Sri Lanka tax revenues grow 29-pct up to May amid inflation",
+    "file_name": "/tmp/news_lk2/articles/bd/bddaddb2.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/GRI-launches-EARTH-series-of-radial-agriculture-tyres/34-739227",
     "time_ut": 1661731053,
@@ -502,6 +1230,70 @@
     "original_lang": "en",
     "original_title": "Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?",
     "file_name": "/tmp/news_lk2/articles/9d/9dc758d4.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/pity-the-land/",
+    "time_ut": 1661711400,
+    "original_lang": "en",
+    "original_title": "Pity the land \u2026",
+    "file_name": "/tmp/news_lk2/articles/a8/a81f5eec.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/first-sri-lankan-female-student-to-win-bronze-medal-at-imo/",
+    "time_ut": 1661710320,
+    "original_lang": "en",
+    "original_title": "First Sri Lankan female student to win Bronze medal at IMO",
+    "file_name": "/tmp/news_lk2/articles/f5/f56a836f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/natural-blood-thinners-for-keeping-diseases-at-bay/",
+    "time_ut": 1661710260,
+    "original_lang": "en",
+    "original_title": "Natural blood thinners for keeping diseases at bay",
+    "file_name": "/tmp/news_lk2/articles/e1/e171a37f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/ditch-the-phone-before-bed-16-tips-for-a-good-nights-sleep/",
+    "time_ut": 1661710140,
+    "original_lang": "en",
+    "original_title": "Ditch the phone before bed! 16 tips for a good night\u2019s sleep",
+    "file_name": "/tmp/news_lk2/articles/87/87ee4f90.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-managing-without-bridging-finance-using-current-inflows-cb-governor-99104/",
+    "time_ut": 1661677260,
+    "original_lang": "en",
+    "original_title": "Sri Lanka managing without bridging finance using current inflows: CB Governor",
+    "file_name": "/tmp/news_lk2/articles/4c/4c4a1e7c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-import-controls-are-temporary-cb-governor-99090/",
+    "time_ut": 1661655480,
+    "original_lang": "en",
+    "original_title": "Sri Lanka import controls are temporary: CB Governor",
+    "file_name": "/tmp/news_lk2/articles/72/7208ec6f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/after-rejecting-for-decades-sri-lanka-politicians-now-want-soe-restructuring-amid-imf-deal-talks-99088/",
+    "time_ut": 1661632260,
+    "original_lang": "en",
+    "original_title": "After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks",
+    "file_name": "/tmp/news_lk2/articles/1c/1cd338db.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/asking-for-big-trouble/",
+    "time_ut": 1661610360,
+    "original_lang": "en",
+    "original_title": "Asking for big trouble",
+    "file_name": "/tmp/news_lk2/articles/df/dfa1395f.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -608,6 +1400,14 @@
     "file_name": "/tmp/news_lk2/articles/0c/0c6c20c9.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/protests-arrests-and-gutted-assets/",
+    "time_ut": 1661524140,
+    "original_lang": "en",
+    "original_title": "Protests, arrests and gutted assets",
+    "file_name": "/tmp/news_lk2/articles/87/8703bcf7.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Ranil-s-perilous-authoritarian-alternative/4-739124",
     "time_ut": 1661472075,
@@ -696,6 +1496,14 @@
     "file_name": "/tmp/news_lk2/articles/27/275f5e4c.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/an-oil-scam/",
+    "time_ut": 1661450160,
+    "original_lang": "en",
+    "original_title": "An oil scam?",
+    "file_name": "/tmp/news_lk2/articles/e6/e6abbc75.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Concerns-raised-on-insulting-comments-made-by-Sanath-Nishantha-against-judges/56-739077",
     "time_ut": 1661371349,
@@ -734,6 +1542,14 @@
     "original_lang": "en",
     "original_title": "\u201cUnleash excellence in the new normal\u201d: SLASSCOM to hold 6th successive Quality Summit",
     "file_name": "/tmp/news_lk2/articles/2f/2ff27689.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/tough-challenge-for-cb-chief/",
+    "time_ut": 1661362440,
+    "original_lang": "en",
+    "original_title": "Tough challenge for CB Chief",
+    "file_name": "/tmp/news_lk2/articles/2d/2d4efab9.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -832,6 +1648,14 @@
     "file_name": "/tmp/news_lk2/articles/c3/c3a998f7.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/pta-no-solution/",
+    "time_ut": 1661274840,
+    "original_lang": "en",
+    "original_title": "PTA no solution",
+    "file_name": "/tmp/news_lk2/articles/ad/ad233a3d.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Imithiaz-calls-out-President-on-his-duplicity-concerning-the-Aragalaya/56-739001",
     "time_ut": 1661202027,
@@ -920,6 +1744,14 @@
     "file_name": "/tmp/news_lk2/articles/8a/8a26c5c9.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/wimps-heroes-and-litmus-test/",
+    "time_ut": 1661188440,
+    "original_lang": "en",
+    "original_title": "Wimps, heroes and litmus test",
+    "file_name": "/tmp/news_lk2/articles/16/16d3765e.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Nine-Sri-Lankan-apparel-exporters-successfully-participate-in-Sourcing-at-Magic-Las-Vegas-USA/34-738955",
     "time_ut": 1661114765,
@@ -942,5 +1774,341 @@
     "original_lang": "en",
     "original_title": "Immorality of attack on university students",
     "file_name": "/tmp/news_lk2/articles/5c/5cf4124c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/crime-and-punishment-in-sri-lanka-where-is-the-equity/",
+    "time_ut": 1660386120,
+    "original_lang": "en",
+    "original_title": "Crime and Punishment In Sri Lanka \u2013 Where is the Equity ?",
+    "file_name": "/tmp/news_lk2/articles/14/145866e5.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/MBSL-\u0d86\u0db1\u0dca\u0dad\u0dd2\u0d9a-\u0dab\u0dba-\u0dc4\u0dd2\u0db8\u0dd2-\u0d86\u0dba\u0ddd\u0da2\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-SEC-\u0dc4\u0dcf-CSE-\u0db6\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca/7-396100",
+    "time_ut": 1659872502,
+    "original_lang": "si",
+    "original_title": "MBSL \u0d86\u0db1\u0dca\u0dad\u0dd2\u0d9a \u0dab\u0dba \u0dc4\u0dd2\u0db8\u0dd2 \u0d86\u0dba\u0ddd\u0da2\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca SEC \u0dc4\u0dcf CSE \u0db6\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7 \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/b3/b3abaeb7.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/the-system-change-that-can-enable-sri-lanka-to-recover-from-this-massive-crisis/",
+    "time_ut": 1659785340,
+    "original_lang": "en",
+    "original_title": "THE SYSTEM CHANGE THAT CAN ENABLE SRI LANKA TO RECOVER FROM THIS MASSIVE CRISIS",
+    "file_name": "/tmp/news_lk2/articles/14/14624373.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/propping-up-this-president-is-a-prescription-for-political-suicide/",
+    "time_ut": 1659785100,
+    "original_lang": "en",
+    "original_title": "PROPPING-UP THIS PRESIDENT IS A PRESCRIPTION FOR POLITICAL SUICIDE",
+    "file_name": "/tmp/news_lk2/articles/bb/bbfd3b42.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/twisting-the-aragalaya-into-what-it-is-not/",
+    "time_ut": 1659190560,
+    "original_lang": "en",
+    "original_title": "Twisting the aragalaya into what it is not",
+    "file_name": "/tmp/news_lk2/articles/c0/c0d455ef.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/\u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2\u0dba\u0db1\u0dca-\u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca-\u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0dd9\u0db1\u0dca-\u0db6\u0dbd\u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0dda-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0d9a\u0dca/7-395834",
+    "time_ut": 1659006197,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2\u0dba\u0db1\u0dca \u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0dd9\u0db1\u0dca \u0db6\u0dbd\u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/5c/5ca6ce3e.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/july-9-the-revolutionary-change-and-its-aftermath/",
+    "time_ut": 1658582400,
+    "original_lang": "en",
+    "original_title": "JULY 9: THE REVOLUTIONARY CHANGE AND ITS AFTERMATH",
+    "file_name": "/tmp/news_lk2/articles/7d/7daf2f91.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/a-constructive-critique-of-the-iusf/",
+    "time_ut": 1658582280,
+    "original_lang": "en",
+    "original_title": "A constructive critique of the IUSF",
+    "file_name": "/tmp/news_lk2/articles/3a/3ae042d0.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/\u0da2\u0dd4\u0db1\u0dd2-\u0db8\u0dcf\u0dc3\u0dba\u0dda-\u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba-\u0dc3\u0dd2\u0dba\u0dba\u0da7-58-9\u0d9a\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/7-395632",
+    "time_ut": 1658418178,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 58.9\u0d9a\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/3f/3fc84d88.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/gotabaya-rajapaksa-in-retrospect/",
+    "time_ut": 1657968600,
+    "original_lang": "en",
+    "original_title": "Gotabaya Rajapaksa, in retrospect",
+    "file_name": "/tmp/news_lk2/articles/40/406a09fd.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/\u0dbb\u0da7\u0da7-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0d9c\u0dda\u0db1\u0dca\u0db1\u0da7-\u0daf\u0dda\u0dc1\u0dd3\u0dba-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca/7-395372",
+    "time_ut": 1657681894,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da7\u0da7 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0d9c\u0dda\u0db1\u0dca\u0db1\u0da7 \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/ba/bac4505f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0daf\u0dd4\u0db1\u0dca-\u0dc3\u0db8\u0dcf\u0d9a\u0dcf\u0dbd\u0dba\u0da7-\u0dc3\u0dad\u0dd2-\u0daf\u0dd9\u0d9a\u0d9a\u0dca/7-395240",
+    "time_ut": 1657328050,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0daf\u0dd4\u0db1\u0dca \u0dc3\u0db8\u0dcf\u0d9a\u0dcf\u0dbd\u0dba\u0da7 \u0dc3\u0dad\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/78/7880ac84.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/\u0db4\u0dbb\u0dca\u0db4\u0dd9\u0da0\u0dd4\u0dc0\u0dbd\u0dca-\u0da7\u0dca\u200d\u0dbb\u0dd9\u0dc2\u0dbb\u0dd3\u0dc3\u0dca-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8-\u0daf\u0dd3\u0dbb\u0dca\u0d9d-\u0d9a\u0dbb\u0dba\u0dd2/7-395156",
+    "time_ut": 1657084385,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dbb\u0dca\u0db4\u0dd9\u0da0\u0dd4\u0dc0\u0dbd\u0dca \u0da7\u0dca\u200d\u0dbb\u0dd9\u0dc2\u0dbb\u0dd3\u0dc3\u0dca \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8 \u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/1b/1b26a820.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/uncategorized/\u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba-\u0d89\u0d82\u0da2\u0dd2\u0db1\u0dda\u0dbb\u0dd4-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-E-\u0dc0\u0dd3\u0dbd\u0dbb\u0dca-\u0dbb\u0dae\u0dba\u0d9a\u0dca/1-391554",
+    "time_ut": 1648034723,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba \u0d89\u0d82\u0da2\u0dd2\u0db1\u0dda\u0dbb\u0dd4 \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca E \u0dc0\u0dd3\u0dbd\u0dbb\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/91/91d255d7.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1-\u0da2\u0d82\u0d9c\u0db8-\u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0d92\u0d9a\u0d9a-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-33\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/3-390532",
+    "time_ut": 1645412223,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1 \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0d85\u0db4\u0db1\u0dba\u0db1 \u0d92\u0d9a\u0d9a \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 33\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/30/306a9911.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/\u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb-\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab-\u0dbb\u0ddd\u0dc4\u0dbd\u0dda-\u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0d9a-\u0da2\u0ddb\u0dc0-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2/5-390527",
+    "time_ut": 1645366203,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb \u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd\u0dda \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0d9a \u0da2\u0ddb\u0dc0 \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/10/10b051ec.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db1\u0dc0-\u0d9a\u0dca\u0dc0\u0ddc\u0db1\u0dca\u0da7\u0db8\u0dca-\u0db4\u0dbb\u0dd2\u0d9c\u0dab\u0d9a-\u0db8\u0dd8\u0daf\u0dd4\u0d9a\u0dcf\u0d82\u0d9c\u0dba\u0d9a\u0dca-\u0da0\u0dd3\u0db1\u0dba-\u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2/3-390446",
+    "time_ut": 1645156977,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dc0 \u0d9a\u0dca\u0dc0\u0ddc\u0db1\u0dca\u0da7\u0db8\u0dca \u0db4\u0dbb\u0dd2\u0d9c\u0dab\u0d9a \u0db8\u0dd8\u0daf\u0dd4\u0d9a\u0dcf\u0d82\u0d9c\u0dba\u0d9a\u0dca \u0da0\u0dd3\u0db1\u0dba \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/2a/2a886799.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/uncategorized/\u0da0\u0dd3\u0db1\u0dba-\u0d94\u0dbd\u0dd2\u0db8\u0dca\u0db4\u0dd2\u0d9a\u0dca-\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba-\u0dc0\u0dd9\u0db1\u0dc3\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-389935",
+    "time_ut": 1643883682,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1\u0dba \u0d94\u0dbd\u0dd2\u0db8\u0dca\u0db4\u0dd2\u0d9a\u0dca \u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d1/d1a96532.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/uncategorized/\u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab\u0dba\u0dd9\u0db1\u0dca\u0db8-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba-\u0dc0\u0db1-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dba-\u0dc3\u0dd0\u0db6\u0dd1\u0dc0\u0d9a\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/1-389842",
+    "time_ut": 1643688888,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab\u0dba\u0dd9\u0db1\u0dca\u0db8 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0dc0\u0db1 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba \u0dc3\u0dd0\u0db6\u0dd1\u0dc0\u0d9a\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4f/4f67ef98.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/uncategorized/\u0dba\u0dd4\u0daf-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dad\u0dc0\u0dad\u0dca-\u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2-\u0dc0\u0dd0\u0da9\u0d9a\u0dca/1-389833",
+    "time_ut": 1643648093,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dd4\u0daf \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2 \u0dc0\u0dd0\u0da9\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/d1/d1b5fd4f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/Number-Portability-\u0dc3\u0dda\u0dc0\u0dcf\u0dc0-\u0dc3\u0daf\u0dc4\u0dcf-\u0db1\u0dd3\u0dad\u0dd2\u0db8\u0dba-\u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba/5-386003",
+    "time_ut": 1634190483,
+    "original_lang": "si",
+    "original_title": "Number Portability \u0dc3\u0dda\u0dc0\u0dcf\u0dc0 \u0dc3\u0daf\u0dc4\u0dcf \u0db1\u0dd3\u0dad\u0dd2\u0db8\u0dba \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba",
+    "file_name": "/tmp/news_lk2/articles/ac/acc40053.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/\u0dc3\u0db8\u0dcf\u0da2-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0db6\u0dd2\ufeff\u0db3-\u0dc0\u0dd0\u0da7\u0dd3\u0db8-\u0dba\u0dae\u0dcf-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0da7/5-385584",
+    "time_ut": 1633364621,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0db8\u0dcf\u0da2 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0db6\u0dd2\ufeff\u0db3 \u0dc0\u0dd0\u0da7\u0dd3\u0db8 \u0dba\u0dae\u0dcf \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/5d/5dcb55c7.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/uncategorized/\u0d9c\u0dd9\u0daf\u0dbb\u0daf\u0dd3\u0db8-\u0db4\u0ddc\u0dbd\u0dca\u0dad\u0dd9\u0dbd\u0dca--\u0dc3\u0dd2\u0db3\u0dd2\u0db1-\u0d85\u0dad\u0dca\u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca/1-384985",
+    "time_ut": 1632281131,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dd9\u0daf\u0dbb\u0daf\u0dd3\u0db8 \u0db4\u0ddc\u0dbd\u0dca\u0dad\u0dd9\u0dbd\u0dca  \u0dc3\u0dd2\u0db3\u0dd2\u0db1 \u0d85\u0dad\u0dca\u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/9d/9d618b74.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/\u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca-\u0db8\u0dc3-\u0dc3\u0dd2\u0da7-WhatsApp-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0db1-\u0da2\u0d82\u0d9c\u0db8-\u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1-\u0dbd\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0/5-384488",
+    "time_ut": 1631433847,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca \u0db8\u0dc3 \u0dc3\u0dd2\u0da7 WhatsApp \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0db1 \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0dbd\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0",
+    "file_name": "/tmp/news_lk2/articles/f9/f9328dac.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca-\u0dc4\u0db3\u0dd4\u0db1\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0d85\u0da9\u0dd4-\u0db4\u0dd2\u0dbb\u0dd2\u0dc0\u0dd0\u0dba\u0d9a-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab-\u0d9a\u0da7\u0dca\u0da7\u0dbd\u0dba\u0d9a\u0dca/5-384331",
+    "time_ut": 1631166725,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d85\u0da9\u0dd4 \u0db4\u0dd2\u0dbb\u0dd2\u0dc0\u0dd0\u0dba\u0d9a \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0d9a\u0da7\u0dca\u0da7\u0dbd\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/63/636aaaef.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb-\u0db4\u0dc4\u0dc3\u0dd4-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0dbb\u0ddd\u0db6\u0ddc\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca/5-384288",
+    "time_ut": 1631096139,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb \u0db4\u0dc4\u0dc3\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dbb\u0ddd\u0db6\u0ddc\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/ce/cef7c6db.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0dc0\u0dd3\u0da9\u0dd2\u0dba\u0ddd-\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf-\u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0da7-\u0db4\u0dd0\u0dba-\u0dad\u0dd4\u0db1\u0d9a\u0da7-\u0dc0\u0da9\u0dcf-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0dad\u0dc4\u0db1\u0db8\u0dca-/3-383899",
+    "time_ut": 1630407668,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd3\u0da9\u0dd2\u0dba\u0ddd \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0da7 \u0db4\u0dd0\u0dba \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dad\u0dc4\u0db1\u0db8\u0dca!",
+    "file_name": "/tmp/news_lk2/articles/3d/3d2c6189.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/uncategorized/\u0d9a\u0dd2\u0dbd\u0dd2\u0db1\u0ddc\u0da0\u0dca\u0da0\u0dd2\u0dba\u0dda-10-\u0dc0\u0dc3\u0dbb-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dd6--\u0dc3\u0dd6\u0dbb\u0dca\u0dba-\u0db6\u0dbd\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0dd0\u0da9-\u0d9a\u0dbb\u0db1-\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf-\u0dbb\u0dae\u0dba/1-383796",
+    "time_ut": 1630211664,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd2\u0dbd\u0dd2\u0db1\u0ddc\u0da0\u0dca\u0da0\u0dd2\u0dba\u0dda 10 \u0dc0\u0dc3\u0dbb \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dd6  \u0dc3\u0dd6\u0dbb\u0dca\u0dba \u0db6\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd0\u0da9 \u0d9a\u0dbb\u0db1 \u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf \u0dbb\u0dae\u0dba",
+    "file_name": "/tmp/news_lk2/articles/c3/c38f6063.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/Tesla-Bot-\u0db1\u0db8\u0dd2\u0db1\u0dca-\u0db8\u0dcf\u0db1\u0dc0\u0dbb\u0dd6\u0db4\u0dd3-\u0dbb\u0ddc\u0db6\u0ddd\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca/5-383648",
+    "time_ut": 1629902398,
+    "original_lang": "si",
+    "original_title": "Tesla Bot \u0db1\u0db8\u0dd2\u0db1\u0dca \u0db8\u0dcf\u0db1\u0dc0\u0dbb\u0dd6\u0db4\u0dd3 \u0dbb\u0ddc\u0db6\u0ddd\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/b3/b3b7c51b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-wireless-stereo-hearable-\u0dc0\u0dbd\u0da7-\u0dc4\u0ddc\u0db3-\u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8\u0d9a\u0dca/5-383646",
+    "time_ut": 1629899814,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda wireless stereo hearable \u0dc0\u0dbd\u0da7 \u0dc4\u0ddc\u0db3 \u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/e4/e417a232.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/uncategorized/\u0dba\u0dd4\u0daf-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dc3\u0dca\u0dc0\u0dba\u0d82\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba-\u0dc0\u0dd2\u0dc2\u0db6\u0dd3\u0da2-\u0dc4\u0dbb\u0dab-\u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca/1-381143",
+    "time_ut": 1625570383,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dd4\u0daf \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0dca\u0dc0\u0dba\u0d82\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba \u0dc0\u0dd2\u0dc2\u0db6\u0dd3\u0da2 \u0dc4\u0dbb\u0dab \u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/54/546387e5.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/\u0db4\u0dc5\u0db8\u0dd4-\u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab-\u0d8b\u0daf\u0dca\u200d\u0dba\u0dcf\u0db1\u0dba-\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0da7/5-380004",
+    "time_ut": 1623602051,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0db8\u0dd4 \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab \u0d8b\u0daf\u0dca\u200d\u0dba\u0dcf\u0db1\u0dba \u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/81/81b92a04.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/\u0dbb\u0dae-\u0dc0\u0dcf\u0dc4\u0db1-\u0dc0\u0dd0\u0dbb\u0daf\u0dd2-\u0dc0\u0dd3\u0da9\u0dd2\u0dba\u0ddd-\u0d9a\u0dbb\u0db1\u0dca\u0db1-APP-\u0d91\u0d9a\u0d9a\u0dca/5-378597",
+    "time_ut": 1621242359,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dae \u0dc0\u0dcf\u0dc4\u0db1 \u0dc0\u0dd0\u0dbb\u0daf\u0dd2 \u0dc0\u0dd3\u0da9\u0dd2\u0dba\u0ddd \u0d9a\u0dbb\u0db1\u0dca\u0db1 APP \u0d91\u0d9a\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/23/23b4d71f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda--\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0dad\u0db8-Hyper-Casual-\u2013-eSports-Championship--\u0d85\u0daf-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/5-378499",
+    "time_ut": 1621063675,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda  \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0dad\u0db8 Hyper Casual \u2013 eSports Championship  \u0d85\u0daf \u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/2f/2f31e536.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/uncategorized/\u0dad\u0dcf\u0db4-\u0dc4\u0dd2\u0dba\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dab-\u0d94\u0d9a\u0dca\u0dc3\u0dd2\u0da2\u0db1\u0dca-\u0da0\u0dd2\u0d9a\u0dd2\u0dad\u0dca\u0dc3\u0dcf-\u0d92\u0d9a\u0d9a\u0dba\u0d9a\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0-\u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2/1-378416",
+    "time_ut": 1620891374,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dcf\u0db4 \u0dc4\u0dd2\u0dba\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dab \u0d94\u0d9a\u0dca\u0dc3\u0dd2\u0da2\u0db1\u0dca \u0da0\u0dd2\u0d9a\u0dd2\u0dad\u0dca\u0dc3\u0dcf \u0d92\u0d9a\u0d9a\u0dba\u0d9a\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f0/f0600a95.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0dd3\u0db8\u0da7-\u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0dc4\u0dd9\u0dbd\u0dca\u0db8\u0da7\u0dba\u0d9a\u0dca/5-377992",
+    "time_ut": 1620042583,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0dd3\u0db8\u0da7 \u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc4\u0dd9\u0dbd\u0dca\u0db8\u0da7\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/83/831fba9b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/\u0d85\u0db4\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dca\u0dc0\u0db1-\u0dc0\u0dd2\u0da7-\u0d85\u0dc3\u0dd3\u0db8\u0dd2\u0dad-\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0da2\u0dcf\u0dbd-\u0dc3\u0db6\u0db3\u0dad\u0dcf/5-376197",
+    "time_ut": 1616140846,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db4\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dca\u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0d85\u0dc3\u0dd3\u0db8\u0dd2\u0dad \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0da2\u0dcf\u0dbd \u0dc3\u0db6\u0db3\u0dad\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/2b/2b5b860a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/Singapore-Space-Challenge-\u0dad\u0dbb\u0d9f\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda-\u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba\u0d9a\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7\u0dad\u0dca/5-375544",
+    "time_ut": 1614676389,
+    "original_lang": "si",
+    "original_title": "Singapore Space Challenge \u0dad\u0dbb\u0d9f\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba\u0d9a\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7\u0dad\u0dca",
+    "file_name": "/tmp/news_lk2/articles/bd/bd050813.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/\u0da9\u0dba\u0dbd\u0ddc\u0d9c\u0dca-\u0da7\u0dd9\u0dbd\u0dd2\u0dc0\u0dd2\u0dc2\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dad\u0db8-\u0da0\u0dd0\u0db1\u0dbd\u0dba-\u0db8\u0dd2\u0dc3\u0dca-\u0d9a\u0ddd\u0dbd\u0dca-\u0d91\u0d9a\u0d9a\u0dd2\u0db1\u0dca--Activate-\u0d9a\u0dbb\u0d9c\u0db1\u0dca\u0db1/5-374292",
+    "time_ut": 1611559275,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dba\u0dbd\u0ddc\u0d9c\u0dca \u0da7\u0dd9\u0dbd\u0dd2\u0dc0\u0dd2\u0dc2\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dad\u0db8 \u0da0\u0dd0\u0db1\u0dbd\u0dba \u0db8\u0dd2\u0dc3\u0dca \u0d9a\u0ddd\u0dbd\u0dca \u0d91\u0d9a\u0d9a\u0dd2\u0db1\u0dca  Activate \u0d9a\u0dbb\u0d9c\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/ec/ec2c04df.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/\u0da9\u0dba\u0dbd\u0ddc\u0d9c\u0dca-\u0d91\u0db1\u0dca\u0da7\u0db4\u200d\u0dca\u200d\u0dbb\u0dba\u0dd2\u0dc3\u0dca--VDOmeet-\u0dc0\u0dd3\u0da9\u0dd2\u0dba\u0ddd-\u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1-\u0dc3\u0dda\u0dc0\u0dcf-\u0dc3\u0db3\u0dc4\u0dcf-\u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca-\u0dc3\u0dbd\u0dc3\u0dba\u0dd2/5-374210",
+    "time_ut": 1611325981,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dba\u0dbd\u0ddc\u0d9c\u0dca \u0d91\u0db1\u0dca\u0da7\u0db4\u200d\u0dca\u200d\u0dbb\u0dba\u0dd2\u0dc3\u0dca  VDOmeet \u0dc0\u0dd3\u0da9\u0dd2\u0dba\u0ddd \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1 \u0dc3\u0dda\u0dc0\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dc3\u0dbd\u0dc3\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e8/e8d2a477.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/ADSTUDIO-CLOUD-\u2018\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0dca\u0d9a\u0dbb\u0dab-\u0db4\u0dca\u200d\u0dbb\u0da0\u0dcf\u0dbb\u0dab-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u2019-\u0dbd\u0dd9\u0dc3-\u0da2\u0dcf\u0dad\u0dd2\u0dba-\u0dc3\u0dc0\u0dd2\u0db6\u0dbd-\u0d9c\u0db1\u0dca\u0dc0\u0dba\u0dd2-/5-373476",
+    "time_ut": 1609736406,
+    "original_lang": "si",
+    "original_title": "ADSTUDIO.CLOUD \u2018\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0dca\u0d9a\u0dbb\u0dab \u0db4\u0dca\u200d\u0dbb\u0da0\u0dcf\u0dbb\u0dab \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u2019 \u0dbd\u0dd9\u0dc3 \u0da2\u0dcf\u0dad\u0dd2\u0dba \u0dc3\u0dc0\u0dd2\u0db6\u0dbd \u0d9c\u0db1\u0dca\u0dc0\u0dba\u0dd2.",
+    "file_name": "/tmp/news_lk2/articles/e0/e0a05fc8.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/technology/\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0dda-\u0db4\u0dc5\u0db8\u0dd4-\u0dc0\u0dad\u0dcf\u0dc0\u0da7-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab-\u0daf\u0dad\u0dca\u0dad-\u0dbb\u0dd0\u0dc3\u0d9a\u0dca-\u0dbb\u0dd0\u0dc3\u0dca-\u0d9a\u0dbb\u0db1-\u0db6\u0dd0\u0dbd\u0dd4\u0db1\u0dba\u0d9a\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0da7/5-373216",
+    "time_ut": 1609048315,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0dc0\u0dad\u0dcf\u0dc0\u0da7 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0daf\u0dad\u0dca\u0dad \u0dbb\u0dd0\u0dc3\u0d9a\u0dca \u0dbb\u0dd0\u0dc3\u0dca \u0d9a\u0dbb\u0db1 \u0db6\u0dd0\u0dbd\u0dd4\u0db1\u0dba\u0d9a\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0da7",
+    "file_name": "/tmp/news_lk2/articles/d0/d03668f2.json"
   }
 ]

@@ -1,0 +1,330 @@
+{
+  "newspaper_id": "economy-next-com",
+  "url": "https://economynext.com/sri-lanka-shares-gain-over-2-pct-in-mid-day-trade-on-positive-interim-budget-99258/",
+  "time_ut": 1661928240,
+  "original_lang": "en",
+  "original_title": "Sri Lanka shares gain over 2-pct in mid-day trade on positive interim budget",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka shares gain over 2-pct in mid-day trade on positive interim budget",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 Sri Lanka stocks gained over 2 percent in mid-day trade on Wednesday (31) as investors welcomed the interim budget, analyst said.",
+        "The main All Share Price Index moved up 2.06 percent or 182.69 points to 9,048.09 at 1130 hours.",
+        "\u201cThe market gained on positive sentiments as investors welcomed the interim budget that was presented on Tuesday. It didn\u2019t have any deviation from the economic policy that was presented on May 31st and mainly the exclusion of capital gains tax from the budget,\u201d a top analyst said.",
+        "\u201cThere are speculation of an IMF deal too so all those factors are moving the market.\u201d",
+        "The most liquid index gained 2.42 percent or 69.36 points to 2,932.11.",
+        "Shares that drove the market in the first hour were Aitken Spence, Melstacorp and Hayleys. (Colombo/Aug31/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        },
+        {
+          "text": "2",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "mid-day",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "2 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "mid-day",
+            "label": "DATE"
+          },
+          {
+            "text": "Wednesday",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "2.06 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "182.69",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "9,048.09",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1130 hours",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "Tuesday",
+            "label": "DATE"
+          },
+          {
+            "text": "May 31st",
+            "label": "DATE"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "2.42 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "69.36",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,932.11",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "the first hour",
+            "label": "TIME"
+          },
+          {
+            "text": "Aitken Spence",
+            "label": "ORG"
+          },
+          {
+            "text": "Melstacorp",
+            "label": "ORG"
+          },
+          {
+            "text": "Hayleys",
+            "label": "NORP"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0db0\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d85\u0dad\u0dd4\u0dbb\u0dd4 \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0db8\u0dad \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0db0\u0dca\u200d\u0dba \u0daf\u0dd2\u0db1 \u0dc0\u0dd9\u0dc5\u0db3\u0dcf\u0db8\u0dda \u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 2 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0db1\u0dd3",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0d86\u0dba\u0ddd\u0da2\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d85\u0dad\u0dd4\u0dbb\u0dd4 \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0db6\u0daf\u0dcf\u0daf\u0dcf (31) \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0daf\u0dd2\u0db1 \u0dc0\u0dd9\u0dc5\u0db3\u0dcf\u0db8\u0dda \u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 2 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd6 \u0db6\u0dc0 \u0dc0\u0dd2\u0dc1\u0dca\u0dbd\u0dda\u0dc2\u0d9a \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba \u0db4\u0dd0\u0dba 1130 \u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 2.06 \u0d9a\u0dd2\u0db1\u0dca \u0dc4\u0ddd \u0d92\u0d9a\u0d9a 182.69 \u0d9a\u0dd2\u0db1\u0dca 9,048.09 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba\u0dda\u0dba.",
+        "\u201c\u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0d85\u0dad\u0dd4\u0dbb\u0dd4 \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0d86\u0dba\u0ddd\u0da2\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dd4 \u0dbd\u0dd0\u0db6\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0d9f \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0db0\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc4\u0dd0\u0d9f\u0dd3\u0db8\u0dca \u0db8\u0dad \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca\u0dad\u0dda\u0dba. \u0d91\u0dba \u0db8\u0dd0\u0dba\u0dd2 31 \u0dc0\u0db1\u0daf\u0dcf \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0d9c\u0dca\u0db0\u0db1 \u0dbd\u0dcf\u0db7 \u0db6\u0daf\u0dca\u0daf \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0dd9\u0db1\u0dca \u0db6\u0dd0\u0dc4\u0dd0\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0d9a\u0dd2\u0dc3\u0dd2\u0daf\u0dd4 \u0d85\u0db4\u0d9c\u0db8\u0db1\u0dba\u0d9a\u0dca \u0db1\u0ddc\u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dd2, \u201d\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dd2\u0dc1\u0dca\u0dbd\u0dda\u0dc2\u0d9a\u0dba\u0dd9\u0d9a\u0dca \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\"\u0da2\u0dcf\u0db8\u0dd6\u0d85 \u0d9c\u0dab\u0dd4\u0daf\u0dd9\u0db1\u0dd4\u0dc0\u0d9a\u0dca \u0d9c\u0dd0\u0db1 \u0daf \u0dc3\u0db8\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0db1 \u0db4\u0dc0\u0dad\u0dd3, \u0d91\u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0d91\u0db8 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0dc3\u0dcf\u0db0\u0d9a \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0da0\u0dbd\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2.\"",
+        "\u0dc0\u0da9\u0dcf\u0dad\u0dca\u0db8 \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dc1\u0dd3\u0dbd \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 2.42 \u0d9a\u0dd2\u0db1\u0dca \u0dc4\u0ddd \u0d92\u0d9a\u0d9a 69.36 \u0d9a\u0dd2\u0db1\u0dca 2,932.11 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd2\u0dba.",
+        "\u0db4\u0dc5\u0db8\u0dd4 \u0db4\u0dd0\u0dba \u0dad\u0dd4\u0dc5 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0d9a\u0dc5 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd6\u0dba\u0dda Aitken Spence, Melstacorp \u0dc3\u0dc4 Hayleys \u0dba. (\u0d9a\u0ddc\u0dc5\u0db9/\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 31/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "2",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0db8\u0dd0\u0daf \u0db7\u0dcf\u0d9c\u0dba\u0dda",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 2 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0daf \u0db7\u0dcf\u0d9c\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0daf\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 2.06 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "182.69 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "9,048.09 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 1130 \u0dba\u0dd2",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0dba\u0dd2 31",
+            "label": "DATE"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 2.42 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "69.36 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,932.11",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4 \u0db4\u0dd0\u0dba",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0d91\u0dba\u0dd2\u0da7\u0dca\u0d9a\u0db1\u0dca \u0dc3\u0dca\u0db4\u0dd9\u0db1\u0dca\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Melstacorp",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc4\u0dda\u0dbd\u0dd3\u0dc3\u0dca",
+            "label": "NORP"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b9a\u0bbe\u0ba4\u0b95\u0bae\u0bbe\u0ba9 \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0bb5\u0bb0\u0bb5\u0bc1\u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0bbe\u0bb3\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 2-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0b86\u0ba4\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0bb5\u0bb0\u0bb5\u0bc1\u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0ba4\u0bbe\u0bb2\u0bcd, \u0baa\u0bc1\u0ba4\u0ba9\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (31) \u0ba8\u0ba3\u0bcd\u0baa\u0b95\u0bb2\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd 2 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0b86\u0baf\u0bcd\u0bb5\u0bbe\u0bb3\u0bb0\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bc1 2.06 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 182.69 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 1130 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 9,048.09 \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u201c\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0b9a\u0bae\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0ba4\u0bbe\u0bb2\u0bcd, \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0ba8\u0bc7\u0bb0\u0bcd\u0bae\u0bb1\u0bc8\u0baf\u0bbe\u0ba9 \u0b89\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b86\u0ba4\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. \u0b87\u0ba4\u0bc1 \u0bae\u0bc7 31 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b8e\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb2\u0b95\u0bb2\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0b95 \u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc2\u0bb2\u0ba4\u0ba9 \u0b86\u0ba4\u0bbe\u0baf \u0bb5\u0bb0\u0bbf\u0baf\u0bc8 \u0bb5\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1,\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b92\u0bb0\u0bc1 \u0b89\u0baf\u0bb0\u0bcd \u0b86\u0baf\u0bcd\u0bb5\u0bbe\u0bb3\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\"IMF \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b8a\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba9, \u0b8e\u0ba9\u0bb5\u0bc7 \u0b85\u0ba8\u0bcd\u0ba4 \u0b95\u0bbe\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bc8 \u0ba8\u0b95\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9.\"",
+        "\u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb0\u0bb5\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bc1 2.42 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 69.36 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 2,932.11 \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0b8e\u0baf\u0bcd\u0b9f\u0bcd\u0b95\u0ba9\u0bcd \u0bb8\u0bcd\u0baa\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd, \u0bae\u0bc6\u0bb2\u0bcd\u0bb8\u0bcd\u0b9f\u0bbe\u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb9\u0bc7\u0bb2\u0bbf\u0bb8\u0bcd. (\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd31/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        },
+        {
+          "text": "2",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bae\u0bcd",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "2 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "2.06 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "182.69",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "9,048.09",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1130 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bc7 31",
+            "label": "DATE"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "2.42 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "69.36",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,932.11",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b90\u0b9f\u0bcd\u0b95\u0bc6\u0ba9\u0bcd \u0bb8\u0bcd\u0baa\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc6\u0bb2\u0bcd\u0bb8\u0bcd\u0b9f\u0bbe\u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb9\u0bc7\u0bb2\u0bbf\u0bb8\u0bcd",
+            "label": "NORP"
+          }
+        ]
+      ]
+    }
+  }
+}
