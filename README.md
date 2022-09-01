@@ -1,46 +1,42 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-01 21:02:38 (LK time)*
+*As of 2022-09-01 21:18:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last Hour (5 Articles)
 
 * **3** daily-mirror-lk ([Fuel needed for gem industry in Ratnapura under QR code soon: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e7fc7d2.json))
 
-## Last Hour (7 Articles)
-
-* **3** daily-mirror-lk ([Fuel needed for gem industry in Ratnapura under QR code soon: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e7fc7d2.json))
-
-* **3** lankadeepa-lk ([ජපන් මහාචාර්යවරියට අමතක වූ මුදල් පසුම්බිය ආපසු දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc7b6eea.json))
+* **1** lankadeepa-lk ([හත් හැවිරිදි දරුවාට කැති පහර දුන් නරුම සියා](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d72b869a.json))
 
 * **1** news-first-lk ([Kegalle Shooting: SJB Organizer arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b7ed706.json))
 
-## Last 3 Hours (27 Articles)
+## Last 3 Hours (25 Articles)
 
-* **9** lankadeepa-lk ([කළුතර නිවාස නිලධාරීන් පිරිසක් අහිංසකයන්ගේ මුදල්වලට විදලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffdd8b19.json))
+* **8** lankadeepa-lk ([ආයෝජකයන් ආරක්ෂා කරන්න ජනපතිගෙන් කාර්ය සාධක බලකා 08ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5aa6f9d8.json))
 
-* **7** daily-mirror-lk ([No changes to fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05f31b69.json))
+* **6** daily-mirror-lk ([Luxury vehicle crashes into filling station](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73a05392.json))
 
-* **6** news-first-lk ([President appoints 08 task forces to secure investors](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91e0b8bf.json))
+* **5** news-first-lk ([“Nandalal Did It”, says SJB MP Hesha.](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53927129.json))
+
+* **2** ada-lk ([ජනපතිගෙන් කාර් ය සාධක බලකා අටක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76cf6101.json))
 
 * **2** tamil-mirror-lk ([குளிர்சாதனப்பெட்டியை திறந்த போது மின்சாரம் தாக்கி தாய் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fb6cab5.json))
 
 * **2** ada-derana-lk ([President appoints 8 task forces to secure investors](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7bbafe73.json))
 
-* **1** ada-lk ([ජනපතිගෙන් කාර් ය සාධක බලකා අටක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76cf6101.json))
+## Last 24 Hours (206 Articles)
 
-## Last 24 Hours (209 Articles)
-
-* **48** lankadeepa-lk ([තරුණයකුට පා පහරක් ගැසූ හමුදා නිලධාරියට දුන් නිර්දේශය](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c6b0df9.json))
+* **46** lankadeepa-lk ([මන්ත්‍රී නිවාසවලට පහරදුන් තවත් හතරක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d9b7689.json))
 
 * **34** daily-mirror-lk ([NIMH’s Mental Health Helpline via WhatsApp](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/662e2974.json))
 
-* **27** ada-lk ([අම්බලන්ගොඩ ඝාතන ගොන්නට තවත් ඝාතනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f259022b.json))
+* **28** ada-lk ([අම්බලන්ගොඩ ඝාතන ගොන්නට තවත් ඝාතනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f259022b.json))
 
-* **25** tamil-mirror-lk ([ஜனாதிபதி ரணிலுக்கு விசேட கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecab9646.json))
+* **24** tamil-mirror-lk ([எட்டி உதைத்த அதிகாரி: ஆணைக்குழு அதிரடி](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/883b5d97.json))
 
-* **24** news-first-lk ([SLPP resume activities under former PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49830bcc.json))
+* **23** news-first-lk ([China’s achievements an inspiration for Sri Lanka: Ambassador Kohona](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8dc08023.json))
 
 * **20** ada-derana-lk ([Youth shot dead in Ambalangoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65f8909d.json))
 
@@ -52,13 +48,13 @@
 
 * **2** colombo-telegraph-com ([Jaffna’s Municipality Loses Japanese Grant Of 4 Compactors & Associated Duty-Grant](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec180de6.json))
 
-## Last Week (500 Articles)
+## Last Week (501 Articles)
 
 * **76** lankadeepa-lk ([ජීවන බර අඩු කිරීමට ජනතාවට සහන සලසනු](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6482c98.json))
 
 * **72** daily-mirror-lk ([India urges its citizens to examine relevant factors before undertaking visit to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de15b358.json))
 
-* **61** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
+* **62** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
 * **59** daily-ft-lk ([WHO pledges $ 4 m worth medical supplies to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/275f5e4c.json))
 
@@ -76,11 +72,11 @@
 
 * **12** colombo-telegraph-com ([Taking Dictatorial Steps To Control Public Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/841810c5.json))
 
-## All Time (786 Articles)
+## All Time (787 Articles)
 
 * **135** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **111** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **112** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **110** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
 
