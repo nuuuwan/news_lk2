@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 04:01:06 (LK time)*
+*As of 2022-09-02 04:17:37 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (3 Articles)
-
-* **3** daily-mirror-lk ([Legal Implications of the  recent Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99d8415b.json))
 
 ## Last Hour (3 Articles)
 
 * **3** daily-mirror-lk ([Legal Implications of the  recent Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99d8415b.json))
 
-## Last 3 Hours (4 Articles)
+## Last 3 Hours (3 Articles)
 
 * **3** daily-mirror-lk ([Legal Implications of the  recent Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99d8415b.json))
-
-* **1** ada-derana-lk ([Assets of Sri Lankans with LTTE links seized in India over money laundering charges](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/787ce7ac.json))
 
 ## Last 24 Hours (185 Articles)
 
