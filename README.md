@@ -1,24 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 01:37:17 (LK time)*
+*As of 2022-09-03 02:04:15 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (1 Articles)
-
-* **1** tamil-mirror-lk ([நாடு திரும்பினார் கோட்டாபய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d64a4a3a.json))
 
 ## Last 3 Hours (22 Articles)
 
 * **10** daily-ft-lk ([Really real manner of managing Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81942de3.json))
 
-* **5** daily-mirror-lk ([August tourist arrivals dip 20% from July](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59f94afb.json))
-
-* **4** ada-derana-lk ([Ex-President Gotabaya to return tonight?](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50bc96cb.json))
+* **6** daily-mirror-lk ([Lankan envoy says IMF agreement gives much-needed confidence to lure investors](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb45622.json))
 
 * **3** tamil-mirror-lk ([இலங்கைக்கு ஆதரவளிப்போம்: பொரிஸ் ஜோன்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7937743.json))
 
-## Last 24 Hours (203 Articles)
+* **3** ada-derana-lk ([SLFP makes key amendments to its constitution](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e84c9984.json))
+
+## Last 24 Hours (204 Articles)
 
 * **46** lankadeepa-lk ([‘‘විදෙස් ගත වන්නට පෙර මැලේරියාවට බෙහෙත් ගන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32b38804.json))
 
@@ -28,7 +24,7 @@
 
 * **23** ada-derana-lk ([Low-level atmospheric disturbance gradually moving away](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/577135ef.json))
 
-* **19** daily-mirror-lk ([Legal Implications of the  recent Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/437d9e1f.json))
+* **20** daily-mirror-lk ([Legal Implications of the  recent Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/437d9e1f.json))
 
 * **17** economy-next-com ([Sri Lanka CPC assets, accounts to be audited: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/5691f850.json))
 
@@ -38,11 +34,11 @@
 
 * **2** colombo-telegraph-com ([Sri Lanka’s First Firm Steps At Economic Reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e88b3d3e.json))
 
-## Last Week (686 Articles)
+## Last Week (684 Articles)
 
 * **120** lankadeepa-lk ([පොලිස් කීර්තිය වනසන පොලිසියේ අපතයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1595543b.json))
 
-* **91** daily-mirror-lk ([Sri Lankans migrating to greener pastures](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1dd083f.json))
+* **89** daily-mirror-lk ([China says Ball is in Sri Lanka’s court](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1a1abcb.json))
 
 * **82** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
@@ -62,11 +58,11 @@
 
 * **12** colombo-telegraph-com ([Let’s Have Fun Today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3c2675e.json))
 
-## All Time (1,014 Articles)
+## All Time (1,015 Articles)
 
 * **182** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **133** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
+* **134** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
 
 * **129** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
