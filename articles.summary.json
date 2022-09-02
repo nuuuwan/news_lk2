@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/dbs-jeyaraj-column/Pop-Singer-A-E-Manoharan-Flopped-as-a-Film-Actor/192-244256",
+    "time_ut": 1662145243,
+    "original_lang": "en",
+    "original_title": "Pop Singer A. E. Manoharan Flopped as a Film Actor",
+    "file_name": "/tmp/news_lk2/articles/6e/6e86974b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Trade-unions-dilemma-over-IMF-programme/172-244255",
     "time_ut": 1662144528,
     "original_lang": "en",
@@ -134,6 +142,14 @@
     "original_lang": "en",
     "original_title": "Trouble in tourism: Part 2",
     "file_name": "/tmp/news_lk2/articles/9e/9e4068d0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Really-real-manner-of-managing-Sri-Lanka/4-739403",
+    "time_ut": 1662140605,
+    "original_lang": "en",
+    "original_title": "Really real manner of managing Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/81/81942de3.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
