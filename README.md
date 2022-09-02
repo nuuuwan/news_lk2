@@ -1,30 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 01:17:29 (LK time)*
+*As of 2022-09-03 01:37:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** tamil-mirror-lk ([நாடு திரும்பினார் கோட்டாபய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d64a4a3a.json))
 
-## Last Hour (3 Articles)
-
-* **2** daily-mirror-lk ([Trade unions’ dilemma over IMF programme](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7cf5825.json))
-
-* **1** tamil-mirror-lk ([நாடு திரும்பினார் கோட்டாபய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d64a4a3a.json))
-
-## Last 3 Hours (25 Articles)
+## Last 3 Hours (22 Articles)
 
 * **10** daily-ft-lk ([Really real manner of managing Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81942de3.json))
 
 * **5** daily-mirror-lk ([August tourist arrivals dip 20% from July](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59f94afb.json))
 
-* **5** ada-derana-lk ([UK ready to engage with international partners to support Sri Lanka: PM Johnson](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc0b6b3.json))
+* **4** ada-derana-lk ([Ex-President Gotabaya to return tonight?](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50bc96cb.json))
 
 * **3** tamil-mirror-lk ([இலங்கைக்கு ஆதரவளிப்போம்: பொரிஸ் ஜோன்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7937743.json))
-
-* **2** economy-next-com ([Sri Lanka’s Litro launches new gas app feature; orders payable in dollars](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecd24e10.json))
 
 ## Last 24 Hours (203 Articles)
 
