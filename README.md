@@ -1,16 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 06:09:22 (LK time)*
+*As of 2022-09-02 06:34:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** daily-ft-lk ([Trouble in tourism: Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56df5945.json))
-
-## Last Hour (2 Articles)
-
-* **2** daily-ft-lk ([IMF, Sri Lanka: The need for speed, sensitivity and for restructuring and reform](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecb681bd.json))
 
 ## Last 3 Hours (9 Articles)
 
