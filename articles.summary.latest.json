@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/IMF-Sri-Lanka-The-need-for-speed-sensitivity-and-for-restructuring-and-reform/4-739383",
+    "time_ut": 1662076964,
+    "original_lang": "en",
+    "original_title": "IMF, Sri Lanka: The need for speed, sensitivity and for restructuring and reform",
+    "file_name": "/tmp/news_lk2/articles/ec/ecb681bd.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/www-army-lk-website-wins-Bronze-award/56-739371",
     "time_ut": 1662075045,
     "original_lang": "en",
@@ -126,6 +134,14 @@
     "original_lang": "en",
     "original_title": "Various weaknesses and wrong policy decisions led to debt default - PM",
     "file_name": "/tmp/news_lk2/articles/39/3953af73.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/born-into-a-world-that-no-longer-exists/",
+    "time_ut": 1662045480,
+    "original_lang": "en",
+    "original_title": "Born into a world that no longer exists",
+    "file_name": "/tmp/news_lk2/articles/09/09c40b42.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -3494,6 +3510,14 @@
     "original_lang": "en",
     "original_title": "Free education is the canary in the coalmine",
     "file_name": "/tmp/news_lk2/articles/09/09927bf3.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/corruption-irrationality-hilarity-and-pity/",
+    "time_ut": 1661792100,
+    "original_lang": "en",
+    "original_title": "Corruption, irrationality, hilarity and pity",
+    "file_name": "/tmp/news_lk2/articles/8b/8b90fb2a.json"
   },
   {
     "newspaper_id": "economy-next-com",
