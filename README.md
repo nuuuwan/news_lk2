@@ -1,12 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 03:18:30 (LK time)*
+*As of 2022-09-03 03:36:31 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (3 Articles)
-
-* **2** daily-mirror-lk ([Trade unions’ dilemma over IMF programme](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7cf5825.json))
+## Last 3 Hours (1 Articles)
 
 * **1** tamil-mirror-lk ([நாடு திரும்பினார் கோட்டாபய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d64a4a3a.json))
 
