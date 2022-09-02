@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/suspect-arrested-after-failed-assassination-attempt-on-argentine-vice-president/",
+    "time_ut": 1662111600,
+    "original_lang": "en",
+    "original_title": "Suspect arrested after failed assassination attempt on Argentine vice president",
+    "file_name": "/tmp/news_lk2/articles/d2/d23bb68c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/navy-commander-meets-maldives-delegation/",
+    "time_ut": 1662111420,
+    "original_lang": "en",
+    "original_title": "Navy commander meets Maldives delegation",
+    "file_name": "/tmp/news_lk2/articles/ba/ba3a6b57.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/requesting-an-rti-important-notice-from-ministry/",
+    "time_ut": 1662111000,
+    "original_lang": "en",
+    "original_title": "Requesting an RTI? Important notice from Ministry",
+    "file_name": "/tmp/news_lk2/articles/33/33aad55c.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/120-\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1/175-303451",
     "time_ut": 1662108824,
@@ -334,6 +358,14 @@
     "original_lang": "en",
     "original_title": "SJB and dissident SLPP MPs to boycott interim budget vote",
     "file_name": "/tmp/news_lk2/articles/9e/9e75bc46.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-shares-gains-in-mid-day-trade-99356/",
+    "time_ut": 1662099660,
+    "original_lang": "en",
+    "original_title": "Sri Lanka shares gains in mid-day trade",
+    "file_name": "/tmp/news_lk2/articles/c6/c641ebbe.json"
   },
   {
     "newspaper_id": "economy-next-com",
