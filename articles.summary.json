@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0ba4\u0bcd\u0ba4\u0bc6\u0ba9\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-303429",
+    "time_ut": 1662085968,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbf\u0ba4\u0bcd\u0ba4\u0bc6\u0ba9\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1: \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/52/52cf45a8.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd-8-\u0b9a\u0bc6\u0baf\u0bb2\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-303427",
+    "time_ut": 1662085297,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd 8 \u0b9a\u0bc6\u0baf\u0bb2\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c5/c51634fc.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0baa\u0bb2-\u0baa\u0bbe\u0b9f\u0b95\u0bb0\u0bcd-\u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/175-303426",
+    "time_ut": 1662084857,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0bb0\u0baa\u0bb2 \u0baa\u0bbe\u0b9f\u0b95\u0bb0\u0bcd \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/f8/f809ff9e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Indian-assets-of-Lankan-man-seized-in-money-laundering-case/108-244173",
+    "time_ut": 1662084836,
+    "original_lang": "en",
+    "original_title": "Indian assets of Lankan man seized in money laundering case",
+    "file_name": "/tmp/news_lk2/articles/2f/2f2ceb26.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84698/man-shot-dead-in-middeniya",
+    "time_ut": 1662084000,
+    "original_lang": "en",
+    "original_title": "Man shot dead in Middeniya",
+    "file_name": "/tmp/news_lk2/articles/84/84ab9385.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf-\u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-303425",
+    "time_ut": 1662083326,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/05/0594ce02.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84697/low-level-atmospheric-disturbance-gradually-moving-away",
+    "time_ut": 1662083100,
+    "original_lang": "en",
+    "original_title": "Low-level atmospheric disturbance gradually moving away",
+    "file_name": "/tmp/news_lk2/articles/57/577135ef.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Another-man-shot-to-death-in-Middeniya/108-244172",
     "time_ut": 1662082100,
@@ -24,12 +80,28 @@
     "file_name": "/tmp/news_lk2/articles/ec/ecb681bd.json"
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d9c\u0dd1\u0dc3\u0dca-\u0dc4\u0dcf-\u0d9c\u0ddc\u0dc0\u0dd2-\u0d9c\u0dd0\u0da7\u0dc5\u0dd4\u0dc0\u0dbd\u0da7-\u0dc3\u0dcf\u0d9c\u0dbd-\u0db8\u0dd0\u0daf\u0dd2\u0dc4\u0dad\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/101-619163",
+    "time_ut": 1662075741,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1,\u0d9c\u0dd1\u0dc3\u0dca \u0dc4\u0dcf \u0d9c\u0ddc\u0dc0\u0dd2 \u0d9c\u0dd0\u0da7\u0dc5\u0dd4\u0dc0\u0dbd\u0da7 \u0dc3\u0dcf\u0d9c\u0dbd \u0db8\u0dd0\u0daf\u0dd2\u0dc4\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/6c/6c888355.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/www-army-lk-website-wins-Bronze-award/56-739371",
     "time_ut": 1662075045,
     "original_lang": "en",
     "original_title": "www.army.lk website wins Bronze award",
     "file_name": "/tmp/news_lk2/articles/b6/b6e3f60f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dd4\u0d82\u0da0\u0dd2-\u0da1\u0db1\u0dca\u0daf\u0dba-\u0dbd\u0db6\u0db1-\u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda/1-619161",
+    "time_ut": 1662074979,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd4\u0d82\u0da0\u0dd2 \u0da1\u0db1\u0dca\u0daf\u0dba \u0dbd\u0db6\u0db1 \u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/18/18481e5a.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -89,11 +161,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business__main/IMF-tells-Sri-Lanka-to-work-expeditiously-to-gain-debt-relief-from-creditors/245-244165",
+    "url": "https://www.dailymirror.lk/breaking_news/IMF-tells-Sri-Lanka-to-work-expeditiously-to-gain-debt-relief-from-creditors/108-244165",
     "time_ut": 1662061037,
     "original_lang": "en",
     "original_title": "IMF tells Sri Lanka to work \u201cexpeditiously\u201d to gain debt relief from creditors",
-    "file_name": "/tmp/news_lk2/articles/0d/0d17a552.json"
+    "file_name": "/tmp/news_lk2/articles/22/2236b7d0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Calls-for-flexible-exchange-rate/108-244163",
+    "time_ut": 1662060844,
+    "original_lang": "en",
+    "original_title": "Calls for flexible exchange rate",
+    "file_name": "/tmp/news_lk2/articles/bf/bfb21005.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -152,6 +232,14 @@
     "file_name": "/tmp/news_lk2/articles/83/831c8edc.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79308",
+    "time_ut": 1662049500,
+    "original_lang": "en",
+    "original_title": "The Tamil Factor  in  Sri Lanka\u2019s First UNP- led \u201cNational\u201d Govt of Premier Dudley Senanayake",
+    "file_name": "/tmp/news_lk2/articles/2f/2f7ee1af.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0db8\u0dbb\u0dca\u0daf\u0db1\u0dba-\u0dad\u0dd2\u0dba\u0dd9\u0db1-\u0dad\u0dd4\u0dbb\u0dd4-\u0db8\u0dda-\u0dbb\u0da7\u0da7-\u0dc3\u0dbd\u0dca\u0dbd\u0dd2-\u0d91\u0dc0\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf\u2018\u2018/1-619153",
     "time_ut": 1662048051,
@@ -166,6 +254,14 @@
     "original_lang": "en",
     "original_title": "Various weaknesses and wrong policy decisions led to debt default - PM",
     "file_name": "/tmp/news_lk2/articles/39/3953af73.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dc0\u0dba\u0dc3-\u0d9c\u0dd0\u0db1-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/11-396825",
+    "time_ut": 1662046884,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0dc0\u0dba\u0dc3 \u0d9c\u0dd0\u0db1 \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/e3/e35eae8b.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -630,6 +726,14 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0dad\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0d85\u0dad\u0dbb\u0db8\u0d9f \u0db1\u0dad\u0dbb \u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/54/544cb1a8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/GR-to-return-to-SL-on-Saturday/155-244141",
+    "time_ut": 1662028451,
+    "original_lang": "en",
+    "original_title": "GR to return to SL on Saturday",
+    "file_name": "/tmp/news_lk2/articles/8f/8f01feb8.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
