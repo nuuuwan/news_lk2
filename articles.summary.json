@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/world-food-program-to-continue-support-for-sri-lanka/",
+    "time_ut": 1662132060,
+    "original_lang": "en",
+    "original_title": "World Food Program to continue support for Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/30/30072ac6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/dullas-faction-forms-the-freedom-people-s-congress/",
+    "time_ut": 1662132060,
+    "original_lang": "en",
+    "original_title": "Dullas faction forms the Freedom People\u2019s Congress",
+    "file_name": "/tmp/news_lk2/articles/20/203f63c7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/02/singapore-president-congratulates-president-wickremesinghe/",
     "time_ut": 1662130800,
     "original_lang": "en",
@@ -38,6 +54,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dba\u0dc0\u0dd0\u0dba \u0dad\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0dbb \u0d9a\u0dd2\u0dba\u0dd0\u0dc0\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/e0/e07998a2.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0d85\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca-\u0d85\u0dba\u0dd2-\u0d91\u0db8\u0dca-\u0d91\u0dc6\u0dca-\u0dc3\u0dbd\u0dca\u0dbd\u0dd2-\u0db6\u0dd9\u0daf\u0dcf\u0dc4\u0dd0\u0dbb\u0dd3\u0db8-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a/101-619211",
+    "time_ut": 1662124261,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0d85\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca \u0d85\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d91\u0dc6\u0dca \u0dc3\u0dbd\u0dca\u0dbd\u0dd2 \u0db6\u0dd9\u0daf\u0dcf\u0dc4\u0dd0\u0dbb\u0dd3\u0db8 \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a",
+    "file_name": "/tmp/news_lk2/articles/14/14f58831.json"
   },
   {
     "newspaper_id": "news-first-lk",
