@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 05:41:44 (LK time)*
+*As of 2022-09-02 06:09:22 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** daily-ft-lk ([IMF, Sri Lanka: The need for speed, sensitivity and for restructuring and reform](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecb681bd.json))
+* **1** daily-ft-lk ([Trouble in tourism: Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56df5945.json))
 
-## Last Hour (5 Articles)
+## Last Hour (2 Articles)
 
-* **5** daily-ft-lk ([Torrential rains affect 6 districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0317577.json))
+* **2** daily-ft-lk ([IMF, Sri Lanka: The need for speed, sensitivity and for restructuring and reform](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecb681bd.json))
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (9 Articles)
 
-* **5** daily-ft-lk ([Torrential rains affect 6 districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0317577.json))
+* **6** daily-ft-lk ([Torrential rains affect 6 districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0317577.json))
 
 * **3** daily-mirror-lk ([Legal Implications of the  recent Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99d8415b.json))
 
-## Last 24 Hours (193 Articles)
+## Last 24 Hours (192 Articles)
 
 * **47** lankadeepa-lk ([මන්ත්‍රී නිවාසවලට පහරදුන් තවත් හතරක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d9b7689.json))
 
@@ -32,9 +32,9 @@
 
 * **19** news-first-lk ([Criminal Gang Feud: 26 people gunned down in three months](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/9109ebf7.json))
 
-* **14** economy-next-com ([Sri Lanka Chamber welcomes interim budget proposals, calls for implementation](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d640bf55.json))
+* **12** economy-next-com ([Sri Lanka CAA raw material control orders to private firms](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51ce3537.json))
 
-* **5** daily-ft-lk ([Torrential rains affect 6 districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0317577.json))
+* **6** daily-ft-lk ([Torrential rains affect 6 districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0317577.json))
 
 * **3** island-lk ([Born into a world that no longer exists](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09c40b42.json))
 
@@ -42,7 +42,7 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e67e678.json))
 
-## Last Week (510 Articles)
+## Last Week (511 Articles)
 
 * **77** lankadeepa-lk ([ජීවන බර අඩු කිරීමට ජනතාවට සහන සලසනු](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6482c98.json))
 
@@ -50,7 +50,7 @@
 
 * **62** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
-* **53** daily-ft-lk ([NATO Alliance of Sri Lanka: ‘No Action, Talk Only’ way to overcome an economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c6c20c9.json))
+* **54** daily-ft-lk ([NATO Alliance of Sri Lanka: ‘No Action, Talk Only’ way to overcome an economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c6c20c9.json))
 
 * **51** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
 
@@ -66,7 +66,7 @@
 
 * **12** colombo-telegraph-com ([Taking Dictatorial Steps To Control Public Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/841810c5.json))
 
-## All Time (814 Articles)
+## All Time (815 Articles)
 
 * **136** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -76,7 +76,7 @@
 
 * **112** d-b-s-jeyaraj-com ([The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f93260b.json))
 
-* **95** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf4124c.json))
+* **96** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf4124c.json))
 
 * **51** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
 
