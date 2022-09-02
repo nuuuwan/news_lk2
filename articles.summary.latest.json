@@ -1,11 +1,67 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/fertilizer-distribution-for-tea-estates-begin/",
+    "time_ut": 1662106980,
+    "original_lang": "en",
+    "original_title": "Fertilizer distribution for Tea estates begin",
+    "file_name": "/tmp/news_lk2/articles/27/27b7784d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Supreme-Court-allows-Basil-to-travel-USA-for-four-months/155-244203",
+    "time_ut": 1662106793,
+    "original_lang": "en",
+    "original_title": "Supreme Court allows Basil to travel USA for four months",
+    "file_name": "/tmp/news_lk2/articles/13/138a84f0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/slfp-to-make-key-amendments-to-the-party-constitution/",
+    "time_ut": 1662106680,
+    "original_lang": "en",
+    "original_title": "SLFP to make key amendments to the party constitution",
+    "file_name": "/tmp/news_lk2/articles/12/1256c1ec.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bae\u0bc8\u0baf\u0bc8-\u0ba4\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb4\u0bbf\u0b95\u0bcd\u0b95-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1/175-303450",
+    "time_ut": 1662106469,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0b9f\u0bae\u0bc8\u0baf\u0bc8 \u0ba4\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb4\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/31/31a123ae.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-liberalize-aviation-fuel-distribution-99365/",
+    "time_ut": 1662106200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to liberalize aviation fuel distribution",
+    "file_name": "/tmp/news_lk2/articles/58/5825cea0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/weak-regulators-framework-root-cause-for-loan-issue-verite/",
+    "time_ut": 1662106080,
+    "original_lang": "en",
+    "original_title": "Weak Regulators Framework root cause for loan issue \u2013 Verite\u2019",
+    "file_name": "/tmp/news_lk2/articles/5e/5e7c8ec8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/02/conspiracy-to-remove-cbsl-governor-opposition-raises-alarm/",
     "time_ut": 1662105720,
     "original_lang": "en",
     "original_title": "Conspiracy to remove CBSL Governor? Opposition raises alarm",
     "file_name": "/tmp/news_lk2/articles/6b/6b69ebb6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84707/sc-temporarily-lifts-overseas-travel-ban-on-basil",
+    "time_ut": 1662105600,
+    "original_lang": "en",
+    "original_title": "SC temporarily lifts overseas travel ban on Basil",
+    "file_name": "/tmp/news_lk2/articles/0f/0f717f39.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -38,6 +94,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka facing a shortage of 120 essential drugs",
     "file_name": "/tmp/news_lk2/articles/14/14f5909f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db1\u0db1\u0dca\u0daf\u0dbd\u0dcf\u0dbd\u0dca-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7-\u0db8\u0db8-\u0dba\u0db1\u0dca\u0db1\u0db8\u0dca---\u0dc3\u0db6\u0dca\u200d\u0dbb\u0dd2/11-396833",
+    "time_ut": 1662105470,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0db1\u0dca\u0daf\u0dbd\u0dcf\u0dbd\u0dca \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7 \u0db8\u0db8 \u0dba\u0db1\u0dca\u0db1\u0db8\u0dca - \u0dc3\u0db6\u0dca\u200d\u0dbb\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/cc/cc0cf9fa.json"
   },
   {
     "newspaper_id": "economy-next-com",
