@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 20:01:55 (LK time)*
+*As of 2022-09-02 20:18:03 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,15 +8,13 @@
 
 * **1** news-first-lk ([It’s a good budget – Mahinda Rajapaksa on Budget Amendment 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a99e033.json))
 
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
 * **1** news-first-lk ([It’s a good budget – Mahinda Rajapaksa on Budget Amendment 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a99e033.json))
 
 * **1** ada-derana-lk ([People benefitting from CBSL governor’s decisions: Sabry defends Dr. Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ed14f9.json))
 
-* **1** lankadeepa-lk ([පාර්ලිමේන්තුවට හොරෙන් ඇතුළු වීමට ගිය කතක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f81bf929.json))
-
-## Last 3 Hours (27 Articles)
+## Last 3 Hours (26 Articles)
 
 * **8** lankadeepa-lk ([රනිල්ට නැති අනිත් නායකයන්ට ඇති දෙයක් හරීන් කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ecf77e4.json))
 
@@ -26,15 +24,15 @@
 
 * **4** ada-lk ([ඩලස්ලාගේ කණ්ඩායම අයවැයට ඡන්දය නොදෙන හේතුව](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4aecbb1d.json))
 
-* **4** tamil-mirror-lk ([டொலரை செலுத்தி சிலிண்டரை பெறலாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0987e64.json))
+* **3** tamil-mirror-lk ([வாக்கெடுப்பு ஆரம்பமானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8894aab1.json))
 
 * **1** economy-next-com ([Sri Lanka schedules shorter power cuts for Sep 04, 05, 06](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ac4617.json))
 
 * **1** daily-mirror-lk ([Interim budget passed with majority of 115 votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f29beb2b.json))
 
-## Last 24 Hours (187 Articles)
+## Last 24 Hours (185 Articles)
 
-* **48** lankadeepa-lk ([ජපන් මහාචාර්යවරියට අමතක වූ මුදල් පසුම්බිය ආපසු දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc7b6eea.json))
+* **46** lankadeepa-lk ([හත් හැවිරිදි දරුවාට කැති පහර දුන් නරුම සියා](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d72b869a.json))
 
 * **33** news-first-lk ([Kegalle Shooting: SJB Organizer arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b7ed706.json))
 
