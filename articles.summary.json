@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Freedom-People-s-Congress-formed-to-free-country-of-corruption-nepotism-and-political-ignorance/56-739431",
+    "time_ut": 1662143505,
+    "original_lang": "en",
+    "original_title": "Freedom People\u2019s Congress formed to free country of corruption, nepotism and political ignorance",
+    "file_name": "/tmp/news_lk2/articles/9f/9f2192e9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/GR-RETURNS-TO-SRI-LANKA/155-244251",
+    "time_ut": 1662143464,
+    "original_lang": "en",
+    "original_title": "GR RETURNS TO SRI LANKA",
+    "file_name": "/tmp/news_lk2/articles/a5/a56c78d1.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Sri-Lanka-products-promotion-in-Chinese-TikTok-Douyin-draws-over-1-mn-views/34-739430",
+    "time_ut": 1662143433,
+    "original_lang": "en",
+    "original_title": "Sri Lanka products promotion in Chinese TikTok Douyin draws over 1 mn views",
+    "file_name": "/tmp/news_lk2/articles/cd/cd77d74b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84717/ex-sri-lanka-president-gotabaya-returns-to-island",
+    "time_ut": 1662143400,
+    "original_lang": "en",
+    "original_title": "Ex-Sri Lanka President Gotabaya returns to island",
+    "file_name": "/tmp/news_lk2/articles/56/567cc272.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84716/slfp-makes-key-amendments-to-its-constitution-",
+    "time_ut": 1662143340,
+    "original_lang": "en",
+    "original_title": "SLFP makes key amendments to its constitution",
+    "file_name": "/tmp/news_lk2/articles/e8/e84c9984.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business__main/August-tourist-arrivals-dip-20-from-July/245-244249",
+    "time_ut": 1662142143,
+    "original_lang": "en",
+    "original_title": "August tourist arrivals dip 20% from July",
+    "file_name": "/tmp/news_lk2/articles/59/59f94afb.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84715/ex-president-gotabaya-to-return-tonight",
     "time_ut": 1662139800,
