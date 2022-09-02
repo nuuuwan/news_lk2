@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2-\u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd-\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bbf\u0baf\u0ba4\u0bc1/175-303458",
+    "time_ut": 1662123187,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bbf\u0baf\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/20/20943c6d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84712/rolling-power-cut-schedule-from-sep-03-05",
+    "time_ut": 1662122880,
+    "original_lang": "en",
+    "original_title": "Rolling power cut schedule from Sep 03 - 05",
+    "file_name": "/tmp/news_lk2/articles/2a/2a602505.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Interim-budget-passed-with-majority-of-115-votes/342-244209",
+    "time_ut": 1662122331,
+    "original_lang": "en",
+    "original_title": "Interim budget passed with majority of 115 votes",
+    "file_name": "/tmp/news_lk2/articles/08/08b0bb29.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dad\u0dd4\u0dbb\u0dd4-\u0d85\u0dba\u0dc0\u0dd0\u0dba-\u0dc0\u0dd0\u0da9\u0dd2-\u0da1\u0db1\u0dca\u0daf-115\u0d9a\u0dd2\u0db1\u0dca-\u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2/101-619207",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda-\u0db8\u0dd4\u0dc3\u0dca\u0dbd\u0dd2\u0db8\u0dca-\u0db4\u0dbd\u0dca\u0dbd\u0dd2\u0dba\u0d9a-\u0db4\u0dd2\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca/1-619209",
+    "time_ut": 1662121875,
+    "original_lang": "si",
+    "original_title": "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0db8\u0dd4\u0dc3\u0dca\u0dbd\u0dd2\u0db8\u0dca \u0db4\u0dbd\u0dca\u0dbd\u0dd2\u0dba\u0d9a \u0db4\u0dd2\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/f1/f14786f8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dad\u0dd4\u0dbb\u0dd4-\u0d85\u0dba\u0dc0\u0dd0\u0dba-\u0dc0\u0dd0\u0da9\u0dd2-\u0da1\u0db1\u0dca\u0daf-115\u0d9a\u0dd2\u0db1\u0dca-\u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2/1-619207",
     "time_ut": 1662121267,
     "original_lang": "si",
     "original_title": "\u0d85\u0dad\u0dd4\u0dbb\u0dd4 \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0dc0\u0dd0\u0da9\u0dd2 \u0da1\u0db1\u0dca\u0daf 115\u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/d9/d9e117d9.json"
+    "file_name": "/tmp/news_lk2/articles/c8/c87b3265.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -25,11 +57,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dad\u0dd2-\u0d85\u0db1\u0dca\u0dad\u0dba\u0dda-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0db4\u0dd0\u0dba\u0d9a\u0da7-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/101-619206",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dad\u0dd2-\u0d85\u0db1\u0dca\u0dad\u0dba\u0dda-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0db4\u0dd0\u0dba\u0d9a\u0da7-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/1-619206",
     "time_ut": 1662121094,
     "original_lang": "si",
     "original_title": "\u0dc3\u0dad\u0dd2 \u0d85\u0db1\u0dca\u0dad\u0dba\u0dda \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0db4\u0dd0\u0dba\u0d9a\u0da7 \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/6c/6c90dbc9.json"
+    "file_name": "/tmp/news_lk2/articles/f9/f9c523a3.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",

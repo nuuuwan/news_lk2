@@ -1,0 +1,93 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2-\u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd-\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bbf\u0baf\u0ba4\u0bc1/175-303458",
+  "time_ut": 1662123187,
+  "original_lang": "ta",
+  "original_title": "\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bbf\u0baf\u0ba4\u0bc1",
+  "text_idx": {
+    "en": {
+      "title": "The Interim Budget was passed",
+      "author": "unknown",
+      "body_lines": [
+        "The Interim Budget was passed by a majority of 115 votes. 120 votes were cast in favor of the budget. 5 votes against. 43 people did not participate in voting"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "115",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "120",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "43",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d85\u0dad\u0dd4\u0dbb\u0dd4 \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0dc3\u0db8\u0dca\u0db8\u0dad \u0dc0\u0dd2\u0dba",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d85\u0dad\u0dd4\u0dbb\u0dd4 \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0dc0\u0dd0\u0da9\u0dd2 \u0da1\u0db1\u0dca\u0daf 115 \u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0db8\u0dca\u0db8\u0dad \u0dc0\u0dd2\u0dba. \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0da7 \u0db4\u0d9a\u0dca\u0dc2\u0dc0 \u0da1\u0db1\u0dca\u0daf 120\u0d9a\u0dca \u0dbd\u0dd0\u0db6\u0dd2\u0dab\u0dd2. \u0dc0\u0dd2\u0dbb\u0dd4\u0daf\u0dca\u0db0\u0dc0 \u0da1\u0db1\u0dca\u0daf 5\u0dba\u0dd2. 43 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0da1\u0db1\u0dca\u0daf\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3 \u0db1\u0ddc\u0dc0\u0dd3\u0dba"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "115",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "120",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "43",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bbf\u0baf\u0ba4\u0bc1",
+      "author": "unknown",
+      "body_lines": [
+        "\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd 115 \u0bae\u0bc7\u0bb2\u0ba4\u0bbf\u0b95 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bbe\u0b95\u00a0 120 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9. 5 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b85\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9. 43 \u0baa\u0bc7\u0bb0\u0bcd \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "115",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "120",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "43",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}
