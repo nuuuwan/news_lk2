@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 00:43:27 (LK time)*
+*As of 2022-09-03 00:59:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **3** daily-mirror-lk ([Peace: Let us remember we belong to each other](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0e0015f.json))
+* **1** tamil-mirror-lk ([நாடு திரும்பினார் கோட்டாபய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d64a4a3a.json))
 
-* **1** tamil-mirror-lk ([அரச நிறுவனங்களில் தகவல்களை பெற்ற சந்தர்ப்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/7935cc3c.json))
+* **1** daily-mirror-lk ([Pop Singer A. E. Manoharan Flopped as a Film Actor](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e86974b.json))
 
-## Last Hour (16 Articles)
+## Last Hour (14 Articles)
 
-* **8** daily-ft-lk ([ALUMEX strengthens commitment to sustainability with Aluminium UBC collection project launch](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18ebd657.json))
+* **6** daily-ft-lk ([SLT-Mobitel unveils ‘The Arena’; new Experience Centre where smart innovation meets technology](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f19a86c3.json))
 
 * **4** daily-mirror-lk ([GR RETURNS TO SRI LANKA](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a56c78d1.json))
 
-* **2** tamil-mirror-lk ([இலங்கைக்கு ஆதரவளிப்போம்: பொரிஸ் ஜோன்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7937743.json))
+* **3** tamil-mirror-lk ([இலங்கைக்கு ஆதரவளிப்போம்: பொரிஸ் ஜோன்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7937743.json))
 
-* **2** ada-derana-lk ([SLFP makes key amendments to its constitution](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e84c9984.json))
+* **1** ada-derana-lk ([Ex-Sri Lanka President Gotabaya returns to island](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/567cc272.json))
 
 ## Last 3 Hours (25 Articles)
 
@@ -28,17 +28,17 @@
 
 * **4** ada-derana-lk ([UK ready to engage with international partners to support Sri Lanka: PM Johnson](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc0b6b3.json))
 
-* **4** economy-next-com ([Sri Lanka’s reforms should be applicable for military as well- MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90c5bad4.json))
+* **3** tamil-mirror-lk ([இலங்கைக்கு ஆதரவளிப்போம்: பொரிஸ் ஜோன்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7937743.json))
 
-* **2** tamil-mirror-lk ([இலங்கைக்கு ஆதரவளிப்போம்: பொரிஸ் ஜோன்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7937743.json))
+* **3** economy-next-com ([Sri Lanka’s rupee guidance peg against US dollar falls; Govt securities hardly traded](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab749ed4.json))
 
-## Last 24 Hours (204 Articles)
+## Last 24 Hours (205 Articles)
 
 * **46** lankadeepa-lk ([‘‘විදෙස් ගත වන්නට පෙර මැලේරියාවට බෙහෙත් ගන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32b38804.json))
 
 * **38** news-first-lk ([Record run chase puts Sri Lanka in Super Four of Asia Cup 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2ddd643f.json))
 
-* **25** tamil-mirror-lk ([இன்றைய வானிலை தொடர்பான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/0594ce02.json))
+* **26** tamil-mirror-lk ([இன்றைய வானிலை தொடர்பான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/0594ce02.json))
 
 * **23** ada-derana-lk ([Assets of Sri Lankans with LTTE links seized in India over money laundering charges](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/787ce7ac.json))
 
@@ -62,7 +62,7 @@
 
 * **79** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
-* **70** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
+* **71** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
 * **68** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
 
@@ -72,11 +72,11 @@
 
 * **26** island-lk ([Asking for big trouble](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/dfa1395f.json))
 
-* **21** d-b-s-jeyaraj-com ([President Ranil Wickremesinghe must be categorically told that the 1970s-1980’s Prevention of Terrorism (PTA) playbook wielded by his uncle JR  Jayewardene , will not work in modern-day Sri Lanka.](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e7464b4.json))
+* **20** d-b-s-jeyaraj-com ([Sri Lanka is in an economic crisis, there’s no reason to deny it. And yet, Sri Lanka stands firm, unbowed and continues to smile despite trade imbalance, shortage of fuel, gas and fertiliser, and other hardships.](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96a9319d.json))
 
 * **12** colombo-telegraph-com ([Let’s Have Fun Today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3c2675e.json))
 
-## All Time (1,012 Articles)
+## All Time (1,013 Articles)
 
 * **182** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -90,7 +90,7 @@
 
 * **82** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
-* **71** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **72** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **68** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
 
