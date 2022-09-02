@@ -1,22 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 18:50:09 (LK time)*
+*As of 2022-09-02 19:06:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last Hour (7 Articles)
 
 * **2** news-first-lk ([Chinese Fertilizer: Auditor General recommends to recover losses; prosecute those responsible](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c8e242b.json))
 
-* **1** economy-next-com ([Sri Lanka schedules shorter power cuts for Sep 04, 05, 06](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ac4617.json))
-
-* **1** tamil-mirror-lk ([இடைக்கால பட்ஜெட் நிறைவேறியது](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20943c6d.json))
-
-## Last Hour (9 Articles)
-
-* **3** lankadeepa-lk ([අතුරු අයවැය වැඩි ඡන්ද 115කින් සම්මතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c87b3265.json))
-
-* **2** news-first-lk ([Chinese Fertilizer: Auditor General recommends to recover losses; prosecute those responsible](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c8e242b.json))
+* **1** lankadeepa-lk ([ශ්‍රීලනිප ව්‍යවස්ථා සංශෝධනයට: තහනමක් නිකුත් කරන්නැයි කළ ඉල්ලීම ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f89fb07b.json))
 
 * **1** economy-next-com ([Sri Lanka schedules shorter power cuts for Sep 04, 05, 06](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ac4617.json))
 
@@ -26,29 +18,29 @@
 
 * **1** daily-mirror-lk ([Interim budget passed with majority of 115 votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08b0bb29.json))
 
-## Last 3 Hours (45 Articles)
+## Last 3 Hours (41 Articles)
 
-* **16** lankadeepa-lk ([වී ගන්න වෙන් කළ මුදල පරණ ණයකට හිලව් කළ පලහිලව්ව විසඳෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fbf7529b.json))
+* **17** lankadeepa-lk ([වී ගන්න වෙන් කළ මුදල පරණ ණයකට හිලව් කළ පලහිලව්ව විසඳෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fbf7529b.json))
 
 * **7** news-first-lk ([Independent SLPP MPs to abstain from voting](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bab521d.json))
 
 * **6** tamil-mirror-lk ([உறுதிமொழிகள் பெறப்படும்வரை  நிதி உதவி அங்கீகரிக்கப்படாது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e0d592b.json))
 
-* **6** ada-derana-lk ([Court dismisses petition challenging amendments to SLFP constitution](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de245907.json))
+* **5** ada-derana-lk ([Political instability poses risks to implementation of reforms, IMF funding distribution: Fitch](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90352452.json))
 
-* **4** economy-next-com ([Up to 6.3 million people face food insecurity in cash-strapped Sri Lanka: WFP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56a8436e.json))
+* **3** ada-lk ([ඩලස්ලාගේ කණ්ඩායම අයවැයට ඡන්දය නොදෙන හේතුව](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4aecbb1d.json))
 
-* **4** ada-lk ([බෙහෙත් ගන්න බැසිල්ට ඇමෙරිකාවට යන්න අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4abf3445.json))
+* **2** economy-next-com ([Sri Lanka parliament passes 2022 interim budget with 120 votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6eab0037.json))
 
-* **2** daily-mirror-lk ([Take action against those responsible before privatising loss-making state entities: AKD](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48bcdbec.json))
+* **1** daily-mirror-lk ([Interim budget passed with majority of 115 votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08b0bb29.json))
 
 ## Last 24 Hours (191 Articles)
 
-* **48** lankadeepa-lk ([ඉන්ධන මිල වෙනසක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/157efecd.json))
+* **49** lankadeepa-lk ([ඉන්ධන මිල වෙනසක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/157efecd.json))
 
 * **33** news-first-lk ([SLFP decides to amend party constitution to penalize violators](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79563c00.json))
 
-* **26** tamil-mirror-lk ([குளிர்சாதனப்பெட்டியை திறந்த போது மின்சாரம் தாக்கி தாய் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fb6cab5.json))
+* **25** tamil-mirror-lk ([களத்தடுப்பில் இலங்கை அணி](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf3a666f.json))
 
 * **22** ada-derana-lk ([Child critically injured in brutal stabbing; suspect arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf65d93a.json))
 
@@ -66,9 +58,9 @@
 
 * **1** d-b-s-jeyaraj-com ([The Tamil Factor  in  Sri Lanka’s First UNP- led “National” Govt of Premier Dudley Senanayake](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f7ee1af.json))
 
-## Last Week (663 Articles)
+## Last Week (664 Articles)
 
-* **116** lankadeepa-lk ([පොලිස් කීර්තිය වනසන පොලිසියේ අපතයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1595543b.json))
+* **117** lankadeepa-lk ([පොලිස් කීර්තිය වනසන පොලිසියේ අපතයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1595543b.json))
 
 * **86** daily-mirror-lk ([Sri Lankans migrating to greener pastures](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1dd083f.json))
 
@@ -90,9 +82,9 @@
 
 * **12** colombo-telegraph-com ([Government’s Attempt To Redefine The Political Discourse & Direction Through Suppression](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/4487641d.json))
 
-## All Time (972 Articles)
+## All Time (973 Articles)
 
-* **178** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **179** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **128** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
 
