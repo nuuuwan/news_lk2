@@ -1,46 +1,46 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 13:08:21 (LK time)*
+*As of 2022-09-02 13:17:58 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (9 Articles)
+## Last 30 Minutes (6 Articles)
+
+* **1** economy-next-com ([Sri Lanka main opposition, dissident MPs to sit out crucial budget vote](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa486a4d.json))
+
+* **1** tamil-mirror-lk ([இலங்கைக்கு  உதவ அமெரிக்கா தயாராக உள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a90ea28.json))
+
+* **1** ada-lk ([නන්දලාල් වීරසිංහ වෙනුවෙන් හර්ෂ පෙනී සිටියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/ddadc704.json))
+
+* **1** news-first-lk ([MRP for 43 Medical Devices](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/6298f44c.json))
+
+* **1** daily-mirror-lk ([Unfair to accuse CB Governor; defaulting loans a collective decision: Ali Sabri](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2bc8cf1.json))
+
+* **1** lankadeepa-lk ([කොළඹ ළමා රෝහලේ ඖෂධ 40ක හිඟයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c9a4cfd.json))
+
+## Last Hour (11 Articles)
 
 * **2** tamil-mirror-lk ([வாக்கெடுப்பிலிருந்து விலக பலர் தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6c5148d.json))
 
 * **2** ada-lk ([ලිට්‍රෝ මිල යළිත් බසියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29255b92.json))
 
 * **2** daily-mirror-lk ([Conspiracy to oust CB Governor: Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57ceb9af.json))
+
+* **2** lankadeepa-lk ([අනුර රට ගොඩ ගතහැකි ක්‍රමය හෙලි කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15f0b3c4.json))
 
 * **1** economy-next-com ([Sri Lanka main opposition, dissident MPs to sit out crucial budget vote](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa486a4d.json))
 
 * **1** news-first-lk ([MRP for 43 Medical Devices](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/6298f44c.json))
 
-* **1** lankadeepa-lk ([කොළඹ ළමා රෝහලේ ඖෂධ 40ක හිඟයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c9a4cfd.json))
-
-## Last Hour (14 Articles)
-
-* **4** lankadeepa-lk ([අය වැය ගැන ස.ජ.බ  ගත් තීරණය](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6502041.json))
-
-* **2** economy-next-com ([Sri Lanka’s CPC earns up to Rs.50 profit from litre of petrol now – Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49e2ea95.json))
-
-* **2** tamil-mirror-lk ([வாக்கெடுப்பிலிருந்து விலக பலர் தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6c5148d.json))
-
-* **2** ada-lk ([ලිට්‍රෝ මිල යළිත් බසියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29255b92.json))
-
-* **2** daily-mirror-lk ([Conspiracy to oust CB Governor: Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57ceb9af.json))
-
-* **1** news-first-lk ([MRP for 43 Medical Devices](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/6298f44c.json))
-
 * **1** ada-derana-lk ([Myanmar’s Aung San Suu Kyi sentenced to 3 years in prison over election fraud](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d77a4353.json))
 
-## Last 3 Hours (40 Articles)
+## Last 3 Hours (36 Articles)
 
 * **12** lankadeepa-lk ([දමනය කළ යුත්තේ අරගලය නොව උද්ධමනයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5424098.json))
 
-* **7** news-first-lk ([New Delhi can explore developing Trincomalee as an energy hub – Moragoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0013030.json))
+* **5** tamil-mirror-lk ([கொழும்பு மக்களுக்கு முக்கிய செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/568639aa.json))
 
-* **6** tamil-mirror-lk ([புலிகளுடன் தொடர்புடைய இலங்கையர்களின் சொத்து முடக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0ce4e3f7.json))
+* **5** news-first-lk ([Promptly Resolve Fuel, Gas and Paddy Issues – Senior Advisor to the President](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6d52c9a.json))
 
 * **5** daily-mirror-lk ([India launches first home-built aircraft carrier INS Vikrant](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd1fb1d3.json))
 
@@ -48,7 +48,7 @@
 
 * **3** economy-next-com ([Sri Lank shares gains in mid-day trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/843b1a43.json))
 
-* **3** ada-lk ([රජරට රැජින පීලි පනියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/0593eb44.json))
+* **2** ada-lk ([ලිට්‍රෝ මිල යළිත් බසියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29255b92.json))
 
 ## Last 24 Hours (184 Articles)
 
