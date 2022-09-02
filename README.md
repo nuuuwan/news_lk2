@@ -1,14 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 03:36:31 (LK time)*
+*As of 2022-09-03 04:02:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (1 Articles)
-
-* **1** tamil-mirror-lk ([நாடு திரும்பினார் கோட்டாபய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d64a4a3a.json))
-
-## Last 24 Hours (204 Articles)
+## Last 24 Hours (201 Articles)
 
 * **46** lankadeepa-lk ([‘‘විදෙස් ගත වන්නට පෙර මැලේරියාවට බෙහෙත් ගන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32b38804.json))
 
@@ -18,7 +14,7 @@
 
 * **23** ada-derana-lk ([Low-level atmospheric disturbance gradually moving away](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/577135ef.json))
 
-* **20** daily-mirror-lk ([Legal Implications of the  recent Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/437d9e1f.json))
+* **17** daily-mirror-lk ([Another man shot to death in Middeniya](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c296798.json))
 
 * **17** economy-next-com ([Sri Lanka CPC assets, accounts to be audited: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/5691f850.json))
 
