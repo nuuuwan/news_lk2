@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dbd\u0dc3\u0dca-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dd9\u0db1\u0dca-\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0da7-\u0dc3\u0dc4\u0dcf\u0dba-\u0db1\u0dd1/1-619195",
+    "time_ut": 1662115227,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dbd\u0dc3\u0dca \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dd9\u0db1\u0dca \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0da7 \u0dc3\u0dc4\u0dcf\u0dba \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/80/807792c2.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0dc3\u0dc4\u0dba-\u0daf\u0dd9\u0db1-\u0db6\u0dc0-\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0dbb\u0dcf\u0da2\u0db0\u0dcf\u0db1\u0dd2\u0dba-\u0db4\u0dc0\u0dc3\u0dba\u0dd2/1-619194",
+    "time_ut": 1662115216,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc3\u0dc4\u0dba \u0daf\u0dd9\u0db1 \u0db6\u0dc0 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0dbb\u0dcf\u0da2\u0db0\u0dcf\u0db1\u0dd2\u0dba \u0db4\u0dc0\u0dc3\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/b4/b4efb5e6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/independent-slpp-mps-to-abstain-from-voting/",
+    "time_ut": 1662115200,
+    "original_lang": "en",
+    "original_title": "Independent SLPP MPs to abstain from voting",
+    "file_name": "/tmp/news_lk2/articles/2b/2bab521d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd3-\u0d9c\u0db1\u0dca\u0db1-\u0dc0\u0dd9\u0db1\u0dca-\u0d9a\u0dc5-\u0db8\u0dd4\u0daf\u0dbd-\u0db4\u0dbb\u0dab-\u0dab\u0dba\u0d9a\u0da7-\u0dc4\u0dd2\u0dbd\u0dc0\u0dca-\u0d9a\u0dc5-\u0db4\u0dbd\u0dc4\u0dd2\u0dbd\u0dc0\u0dca\u0dc0-\u0dc0\u0dd2\u0dc3\u0db3\u0dd9\u0dba\u0dd2/1-619193",
+    "time_ut": 1662115006,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd3 \u0d9c\u0db1\u0dca\u0db1 \u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dc5 \u0db8\u0dd4\u0daf\u0dbd \u0db4\u0dbb\u0dab \u0dab\u0dba\u0d9a\u0da7 \u0dc4\u0dd2\u0dbd\u0dc0\u0dca \u0d9a\u0dc5 \u0db4\u0dbd\u0dc4\u0dd2\u0dbd\u0dc0\u0dca\u0dc0 \u0dc0\u0dd2\u0dc3\u0db3\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c0/c0409a8b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/6-3-million-food-insecure-in-cash-strapped-sri-lanka-wfp-99373/",
+    "time_ut": 1662114600,
+    "original_lang": "en",
+    "original_title": "6.3 million food insecure in cash-strapped Sri Lanka: WFP",
+    "file_name": "/tmp/news_lk2/articles/2b/2b6664c9.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Take-action-against-those-responsible-before-privatising-loss-making-state-entities-AKD/342-244207",
+    "url": "https://www.dailymirror.lk/breaking_news/Take-action-against-those-responsible-before-privatising-loss-making-state-entities-AKD/108-244207",
     "time_ut": 1662114583,
     "original_lang": "en",
     "original_title": "Take action against those responsible before privatising loss-making state entities: AKD",
-    "file_name": "/tmp/news_lk2/articles/e5/e5ebc08d.json"
+    "file_name": "/tmp/news_lk2/articles/48/48bcdbec.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
