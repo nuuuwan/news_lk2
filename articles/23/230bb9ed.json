@@ -1,0 +1,174 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/latest_news/Gazette-on-retail-price-ceiling-for-43-medical-devices-issued/342-244183",
+  "time_ut": 1662088236,
+  "original_lang": "en",
+  "original_title": "Gazette on retail price ceiling for 43 medical devices issued",
+  "text_idx": {
+    "en": {
+      "title": "Gazette on retail price ceiling for 43 medical devices issued",
+      "author": "unknown",
+      "body_lines": [
+        "A gazette notification (2295/18) was issued announcing the maximum retail price of 43 medical devices.",
+        "Accordingly, the price amendment was made to revise the retail prices so that the manufacturer or the importer who sells them has the authority to increase the prices by 40%.",
+        "The regulations were made by the Health Minister under Section 142 of the National Medicines Regulatory Authority Act, No. 5 of 2015. (Chaturanga Samarawickrama)"
+      ],
+      "title_ents": [
+        {
+          "text": "43",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "2295/18",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "43",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "40%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "Health",
+            "label": "ORG"
+          },
+          {
+            "text": "Section 142",
+            "label": "LAW"
+          },
+          {
+            "text": "the National Medicines Regulatory Authority Act",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Chaturanga Samarawickrama",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0d8b\u0db4\u0d9a\u0dbb\u0dab 43 \u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dbb \u0db8\u0dd2\u0dbd \u0dc3\u0dd3\u0db8\u0dcf\u0dc0 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9c\u0dd0\u0dc3\u0da7\u0dca \u0db4\u0dad\u0dca\u200d\u0dbb\u0dba \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dd9\u0dbb\u0dda",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0d8b\u0db4\u0d9a\u0dbb\u0dab 43\u0d9a \u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dbb \u0db8\u0dd2\u0dbd \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca (2295/18) \u0d9c\u0dd0\u0dc3\u0da7\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 40% \u0d9a\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dbd \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0d9a\u0dba\u0dcf\u0da7 \u0dc4\u0ddd \u0d92\u0dc0\u0dcf \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0d9a\u0dbb\u0db1 \u0d86\u0db1\u0dba\u0db1\u0d9a\u0dbb\u0dd4\u0da7 \u0db6\u0dbd\u0dba \u0dbd\u0dd0\u0db6\u0dd9\u0db1 \u0db4\u0dbb\u0dd2\u0daf\u0dd2 \u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dbb \u0db8\u0dd2\u0dbd \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7\u0dba\u0dd2 \u0db8\u0dd9\u0db8 \u0db8\u0dd2\u0dbd \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dd9\u0dbb\u0dd4\u0dab\u0dda.",
+        "2015 \u0d85\u0d82\u0d9a 5 \u0daf\u0dbb\u0db1 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d96\u0dc2\u0db0 \u0db1\u0dd2\u0dba\u0dcf\u0db8\u0db1 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd3 \u0db4\u0db1\u0dad\u0dda 142 \u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba \u0dba\u0da7\u0dad\u0dda \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db8\u0dd9\u0db8 \u0dbb\u0dd9\u0d9c\u0dd4\u0dbd\u0dcf\u0dc3\u0dd2 \u0dc3\u0d9a\u0dc3\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3. (\u0da0\u0dad\u0dd4\u0dbb\u0d82\u0d9c \u0dc3\u0db8\u0dbb\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8)"
+      ],
+      "title_ents": [
+        {
+          "text": "43",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "2295/18",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "43",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "40%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dde\u0d9b\u0dca\u0dba\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "142 \u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d96\u0dc2\u0db0 \u0db1\u0dd2\u0dba\u0dcf\u0db8\u0db1 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd3 \u0db4\u0db1\u0dad",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da0\u0dad\u0dd4\u0dbb\u0d82\u0d9c \u0dc3\u0db8\u0dbb\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "43 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b9a\u0bbe\u0ba4\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bb1\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8 \u0b89\u0b9a\u0bcd\u0b9a\u0bb5\u0bb0\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "43 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b9a\u0bbe\u0ba4\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0baa\u0b9f\u0bcd\u0b9a \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bb1\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 (2295/18) \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b87\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bb1\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0b85\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bcb \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bcb \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 40% \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "2015 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd 5 \u0b86\u0bae\u0bcd \u0b87\u0bb2\u0b95\u0bcd\u0b95 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0b9a\u0baa\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd 142 \u0bb5\u0ba4\u0bc1 \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9. (\u0b9a\u0ba4\u0bc1\u0bb0\u0b99\u0bcd\u0b95 \u0b9a\u0bae\u0bb0\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae)"
+      ],
+      "title_ents": [
+        {
+          "text": "43",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "2295/18",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "43",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "40%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b86\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 142",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8 \u0b86\u0ba3\u0bc8\u0baf\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0ba4\u0bc1\u0bb0\u0b99\u0bcd\u0b95 \u0b9a\u0bae\u0bb0\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}

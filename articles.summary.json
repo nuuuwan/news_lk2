@@ -1,11 +1,75 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-cpc-assets-accounts-to-be-audited-minister-99354/",
+    "time_ut": 1662092160,
+    "original_lang": "en",
+    "original_title": "Sri Lanka CPC assets, accounts to be audited: Minister",
+    "file_name": "/tmp/news_lk2/articles/56/5691f850.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/rainfall-for-western-sabaragmuwa-provinces-today-2/",
+    "time_ut": 1662091920,
+    "original_lang": "en",
+    "original_title": "Rainfall for Western, Sabaragmuwa provinces today (2)",
+    "file_name": "/tmp/news_lk2/articles/2e/2eb994ec.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc1\u0baa\u0bbe\u0ba9\u0bcd\u0bae\u0bc8-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8-\u0b85\u0b9f\u0b95\u0bcd\u0b95\u0bbf-\u0b86\u0bb3-\u0ba8\u0bbf\u0ba9\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bc1-\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8-\u0baa\u0bb2\u0bb5\u0bc0\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd/175-303434",
+    "time_ut": 1662091882,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bbf\u0bb1\u0bc1\u0baa\u0bbe\u0ba9\u0bcd\u0bae\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0b9f\u0b95\u0bcd\u0b95\u0bbf \u0b86\u0bb3 \u0ba8\u0bbf\u0ba9\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0baa\u0bb2\u0bb5\u0bc0\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c2/c287bd21.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/japan-calls-for-creditor-nations-talks-on-sri-lanka-debt-restructuring/",
+    "time_ut": 1662091080,
+    "original_lang": "en",
+    "original_title": "Japan calls for creditor nations\u2019 talks on Sri Lanka debt restructuring",
+    "file_name": "/tmp/news_lk2/articles/07/07568213.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/record-run-chase-puts-sri-lanka-in-super-four-of-asia-cup-2022/",
+    "time_ut": 1662090960,
+    "original_lang": "en",
+    "original_title": "Record run chase puts Sri Lanka in Super Four of Asia Cup 2022",
+    "file_name": "/tmp/news_lk2/articles/2d/2ddd643f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0db4\u0dcf\u0dbd\u0d9a-\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0d9a-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dba\u0d9a-\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1-\u0d89\u0dbb\u0dab\u0db8/26-619166",
+    "time_ut": 1662090882,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dbd\u0d9a \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0d9a \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dba\u0d9a \u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0d89\u0dbb\u0dab\u0db8",
+    "file_name": "/tmp/news_lk2/articles/4a/4a6c9e3c.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1/175-303433",
+    "time_ut": 1662090714,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/28/28baa88a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0db1\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0dda\u0dc0\u0dcf-\u0db6\u0dbb-\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0db4\u0dd2\u0da7-\u0db4\u0da7\u0dc0\u0db1\u0dd4-\u0d91\u0db4\u0dcf/26-619165",
+    "time_ut": 1662090584,
+    "original_lang": "si",
+    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dcf \u0db6\u0dbb \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db4\u0dd2\u0da7 \u0db4\u0da7\u0dc0\u0db1\u0dd4 \u0d91\u0db4\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/13/138521f4.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Gazette-on-retail-price-ceiling-for-43-medical-devices-issued/108-244183",
+    "url": "https://www.dailymirror.lk/latest_news/Gazette-on-retail-price-ceiling-for-43-medical-devices-issued/342-244183",
     "time_ut": 1662088236,
     "original_lang": "en",
     "original_title": "Gazette on retail price ceiling for 43 medical devices issued",
-    "file_name": "/tmp/news_lk2/articles/52/52dd2a28.json"
+    "file_name": "/tmp/news_lk2/articles/23/230bb9ed.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -65,11 +129,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Indian-assets-of-Lankan-man-seized-in-money-laundering-case/108-244173",
+    "url": "https://www.dailymirror.lk/latest_news/Indian-assets-of-Lankan-man-seized-in-money-laundering-case/342-244173",
     "time_ut": 1662084836,
     "original_lang": "en",
     "original_title": "Indian assets of Lankan man seized in money laundering case",
-    "file_name": "/tmp/news_lk2/articles/2f/2f2ceb26.json"
+    "file_name": "/tmp/news_lk2/articles/57/5720ab56.json"
   },
   {
     "newspaper_id": "ada-lk",
