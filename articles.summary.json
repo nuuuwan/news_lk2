@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/promptly-resolve-fuel-gas-and-paddy-issues-senior-advisor-to-the-president/",
+    "time_ut": 1662097260,
+    "original_lang": "en",
+    "original_title": "Promptly Resolve Fuel, Gas and Paddy Issues \u2013 Senior Advisor to the President",
+    "file_name": "/tmp/news_lk2/articles/e6/e6d52c9a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd--\u0db8\u0dd2\u0dbd-\u0dba\u0dc5\u0dd2-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2-/101-619172",
+    "time_ut": 1662097016,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd  \u0db8\u0dd2\u0dbd \u0dba\u0dc5\u0dd2 \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2?",
+    "file_name": "/tmp/news_lk2/articles/f9/f9c4944f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd2\u0daf\u0dca\u0daf\u0dd9\u0db1\u0dd2\u0dba-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/101-619171",
+    "time_ut": 1662096991,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd2\u0daf\u0dca\u0daf\u0dd9\u0db1\u0dd2\u0dba \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/9d/9d9445a0.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb-\u0b9a\u0bae\u0bc8\u0baf\u0bb2\u0bcd-\u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1-\u0bb5\u0bbf\u0bb2\u0bc8-\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1/175-303440",
+    "time_ut": 1662096953,
+    "original_lang": "ta",
+    "original_title": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b9a\u0bae\u0bc8\u0baf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/e0/e085083e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dd0\u0da2\u0dd2\u0db1-\u0db4\u0dd3\u0dbd\u0dd2\u0db4\u0db1\u0dd3---\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db0\u0dcf\u0dc0\u0db1\u0dc0\u0da7-\u0db6\u0dcf\u0db0\u0dcf/101-619169",
+    "time_ut": 1662096748,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dd0\u0da2\u0dd2\u0db1 \u0db4\u0dd3\u0dbd\u0dd2\u0db4\u0db1\u0dd3 - \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db0\u0dcf\u0dc0\u0db1\u0dc0\u0da7 \u0db6\u0dcf\u0db0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/76/762998b1.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/95-303439",
+    "time_ut": 1662096559,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/56/568639aa.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84703/litro-to-slash-lp-gas-prices-again",
+    "time_ut": 1662095580,
+    "original_lang": "en",
+    "original_title": "Litro to slash LP gas prices again",
+    "file_name": "/tmp/news_lk2/articles/af/af8030f4.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd0\u0da7\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dba\u0dd0\u0dc0\u0dd3\u0db8--\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0db1\u0dca-\u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7-\u0d85\u0daf\u0dcf\u0dbd-\u0db1\u0dd1/101-619168",
     "time_ut": 1662095251,
@@ -121,11 +177,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/visheshanga/\u0db4\u0dcf\u0dbd\u0d9a-\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0d9a-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dba\u0d9a-\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1-\u0d89\u0dbb\u0dab\u0db8/26-619166",
+    "url": "https://www.lankadeepa.lk/features/\u0db4\u0dcf\u0dbd\u0d9a-\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0d9a-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dba\u0d9a-\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1-\u0d89\u0dbb\u0dab\u0db8/2-619166",
     "time_ut": 1662090882,
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0dbd\u0d9a \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0d9a \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dba\u0d9a \u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0d89\u0dbb\u0dab\u0db8",
-    "file_name": "/tmp/news_lk2/articles/4a/4a6c9e3c.json"
+    "file_name": "/tmp/news_lk2/articles/cc/cc28213a.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -137,11 +193,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/visheshanga/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0db1\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0dda\u0dc0\u0dcf-\u0db6\u0dbb-\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0db4\u0dd2\u0da7-\u0db4\u0da7\u0dc0\u0db1\u0dd4-\u0d91\u0db4\u0dcf/26-619165",
+    "url": "https://www.lankadeepa.lk/features/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0db1\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0dda\u0dc0\u0dcf-\u0db6\u0dbb-\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0db4\u0dd2\u0da7-\u0db4\u0da7\u0dc0\u0db1\u0dd4-\u0d91\u0db4\u0dcf/2-619165",
     "time_ut": 1662090584,
     "original_lang": "si",
     "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dcf \u0db6\u0dbb \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db4\u0dd2\u0da7 \u0db4\u0da7\u0dc0\u0db1\u0dd4 \u0d91\u0db4\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/13/138521f4.json"
+    "file_name": "/tmp/news_lk2/articles/47/478d9302.json"
   },
   {
     "newspaper_id": "ada-lk",
