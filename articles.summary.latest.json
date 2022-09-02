@@ -1,5 +1,85 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd0\u0da7\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dba\u0dd0\u0dc0\u0dd3\u0db8--\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0db1\u0dca-\u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7-\u0d85\u0daf\u0dcf\u0dbd-\u0db1\u0dd1/101-619168",
+    "time_ut": 1662095251,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd0\u0da7\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0dba\u0dd0\u0dc0\u0dd3\u0db8  \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0db1\u0dca \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7 \u0d85\u0daf\u0dcf\u0dbd \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/ba/ba4104f4.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0db8\u0db1\u0dba-\u0d9a\u0dc5-\u0dba\u0dd4\u0dad\u0dca\u0dad\u0dda-\u0d85\u0dbb\u0d9c\u0dbd\u0dba-\u0db1\u0ddc\u0dc0-\u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba\u0dba\u0dd2/101-619167",
+    "time_ut": 1662095080,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0db8\u0db1\u0dba \u0d9a\u0dc5 \u0dba\u0dd4\u0dad\u0dca\u0dad\u0dda \u0d85\u0dbb\u0d9c\u0dbd\u0dba \u0db1\u0ddc\u0dc0 \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/97/97f3be7f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84702/18-hour-water-cut-in-several-areas-tomorrow",
+    "time_ut": 1662094380,
+    "original_lang": "en",
+    "original_title": "18-hour water cut in several areas tomorrow",
+    "file_name": "/tmp/news_lk2/articles/a8/a82b945a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/increase-revenue-by-controlling-borrowings-cbsl-chief/",
+    "time_ut": 1662094020,
+    "original_lang": "en",
+    "original_title": "Increase revenue by controlling borrowings \u2013 CBSL Chief",
+    "file_name": "/tmp/news_lk2/articles/91/919f0122.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1\u0b9f\u0bc8\u0baf-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1-\u0bae\u0bc1\u0b9f\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-303435",
+    "time_ut": 1662093882,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1\u0b9f\u0bc8\u0baf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0b9f\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/0c/0ce4e3f7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/new-delhi-can-explore-developing-trincomalee-as-an-energy-hub-moragoda/",
+    "time_ut": 1662093540,
+    "original_lang": "en",
+    "original_title": "New Delhi can explore developing Trincomalee as an energy hub \u2013 Moragoda",
+    "file_name": "/tmp/news_lk2/articles/d0/d0013030.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/murder-suspect-gunned-down-in-middeniya/",
+    "time_ut": 1662093420,
+    "original_lang": "en",
+    "original_title": "Murder suspect gunned down in Middeniya",
+    "file_name": "/tmp/news_lk2/articles/a7/a7d2b7cf.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84701/trains-delayed-on-main-line-due-to-derailment",
+    "time_ut": 1662093240,
+    "original_lang": "en",
+    "original_title": "Trains delayed on Main Line due to derailment",
+    "file_name": "/tmp/news_lk2/articles/52/52265bd2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84700/major-flood-situation-as-water-level-of-kalu-river-tributary-rises",
+    "time_ut": 1662093000,
+    "original_lang": "en",
+    "original_title": "Major flood situation as water level of Kalu River tributary rises",
+    "file_name": "/tmp/news_lk2/articles/d1/d1dd71be.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/portrait-of-sir-d-b-jayatilaka-at-sri-lankan-hc-in-delhi/",
+    "time_ut": 1662092940,
+    "original_lang": "en",
+    "original_title": "Portrait of Sir D.B. Jayatilaka at Sri Lankan HC in Delhi",
+    "file_name": "/tmp/news_lk2/articles/a3/a3fd443e.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-cpc-assets-accounts-to-be-audited-minister-99354/",
     "time_ut": 1662092160,
@@ -62,6 +142,14 @@
     "original_lang": "si",
     "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dcf \u0db6\u0dbb \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db4\u0dd2\u0da7 \u0db4\u0da7\u0dc0\u0db1\u0dd4 \u0d91\u0db4\u0dcf",
     "file_name": "/tmp/news_lk2/articles/13/138521f4.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dbd\u0dca\u0db4\u0dd2\u0dbb\u0dd4\u0dab\u0dd4-\u0da0\u0dd3\u0db1-\u0dab\u0dba-\u0d9c\u0dd0\u0db1-\u0db1\u0dd2\u0dc3\u0dd2-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0d9a\u0dca-\u0dc3\u0d9a\u0dc3\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0da0\u0dd3\u0db1\u0dba\u0dda-\u0d9a\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0dad-\u0db8\u0dd3\u0da7-\u0db4\u0dd9\u0dbb-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u00a0\u0d9a\u0dc5\u0dcf/11-396828",
+    "time_ut": 1662088576,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dbd\u0dca\u0db4\u0dd2\u0dbb\u0dd4\u0dab\u0dd4 \u0da0\u0dd3\u0db1 \u0dab\u0dba \u0d9c\u0dd0\u0db1 \u0db1\u0dd2\u0dc3\u0dd2 \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0d9a\u0dca \u0dc3\u0d9a\u0dc3\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0da0\u0dd3\u0db1\u0dba\u0dda \u0d9a\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0dad \u0db8\u0dd3\u0da7 \u0db4\u0dd9\u0dbb \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u00a0\u0d9a\u0dc5\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/42/423d4980.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -201,11 +289,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d9c\u0dd0\u0da7\u0dc5\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0db1\u0dca\u0d9a\u0db1\u0dca-\u0dc3\u0dda\u0dc0\u0dba\u0da7-\u0d85\u0db8\u0dad\u0dbb-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0da7-\u0dc4\u0dad\u0d9a-\u0dc0\u0dd2\u0dba\u0daf\u0db8\u0d9a\u0dca/101-619162",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d9c\u0dd0\u0da7\u0dc5\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0db1\u0dca\u0d9a\u0db1\u0dca-\u0dc3\u0dda\u0dc0\u0dba\u0da7-\u0d85\u0db8\u0dad\u0dbb-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0da7-\u0dc4\u0dad\u0d9a-\u0dc0\u0dd2\u0dba\u0daf\u0db8\u0d9a\u0dca/1-619162",
     "time_ut": 1662075445,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d9c\u0dd0\u0da7\u0dc5\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0db1\u0dca\u0d9a\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba\u0da7 \u0d85\u0db8\u0dad\u0dbb \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0da7 \u0dc4\u0dad\u0d9a \u0dc0\u0dd2\u0dba\u0daf\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/0c/0c19bb64.json"
+    "file_name": "/tmp/news_lk2/articles/1d/1d31b9f8.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
