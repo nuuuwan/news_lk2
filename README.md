@@ -1,50 +1,50 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 19:40:57 (LK time)*
+*As of 2022-09-02 20:01:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** news-first-lk ([It’s a good budget – Mahinda Rajapaksa on Budget Amendment 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a99e033.json))
+
+## Last Hour (3 Articles)
+
+* **1** news-first-lk ([It’s a good budget – Mahinda Rajapaksa on Budget Amendment 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a99e033.json))
 
 * **1** ada-derana-lk ([People benefitting from CBSL governor’s decisions: Sabry defends Dr. Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ed14f9.json))
 
 * **1** lankadeepa-lk ([පාර්ලිමේන්තුවට හොරෙන් ඇතුළු වීමට ගිය කතක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f81bf929.json))
 
-## Last Hour (2 Articles)
+## Last 3 Hours (27 Articles)
 
-* **1** ada-derana-lk ([People benefitting from CBSL governor’s decisions: Sabry defends Dr. Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ed14f9.json))
+* **8** lankadeepa-lk ([රනිල්ට නැති අනිත් නායකයන්ට ඇති දෙයක් හරීන් කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ecf77e4.json))
 
-* **1** lankadeepa-lk ([පාර්ලිමේන්තුවට හොරෙන් ඇතුළු වීමට ගිය කතක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f81bf929.json))
-
-## Last 3 Hours (30 Articles)
-
-* **10** lankadeepa-lk ([තරුණියගේ මරණයට සජබ ආසන සංවිධායක රිමාන්ඩ්](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73c874b2.json))
-
-* **6** tamil-mirror-lk ([உறுதிமொழிகள் பெறப்படும்வரை  நிதி உதவி அங்கீகரிக்கப்படாது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e0d592b.json))
-
-* **5** news-first-lk ([Money printing fueling inflation; CBSL autonomy paramount – IMF Mission Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ace959c4.json))
+* **5** news-first-lk ([Power Outages from 3rd to 5th Sept. announced](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/5112cc3b.json))
 
 * **4** ada-derana-lk ([Second Reading of Interim Budget 2022 passed in parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef4e23fe.json))
 
-* **3** ada-lk ([ඩලස්ලාගේ කණ්ඩායම අයවැයට ඡන්දය නොදෙන හේතුව](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4aecbb1d.json))
+* **4** ada-lk ([ඩලස්ලාගේ කණ්ඩායම අයවැයට ඡන්දය නොදෙන හේතුව](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4aecbb1d.json))
+
+* **4** tamil-mirror-lk ([டொலரை செலுத்தி சிலிண்டரை பெறலாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0987e64.json))
 
 * **1** economy-next-com ([Sri Lanka schedules shorter power cuts for Sep 04, 05, 06](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ac4617.json))
 
-* **1** daily-mirror-lk ([Interim budget passed with majority of 115 votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08b0bb29.json))
+* **1** daily-mirror-lk ([Interim budget passed with majority of 115 votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f29beb2b.json))
 
-## Last 24 Hours (189 Articles)
+## Last 24 Hours (187 Articles)
 
-* **50** lankadeepa-lk ([ඉන්ධන මිල වෙනසක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/157efecd.json))
+* **48** lankadeepa-lk ([ජපන් මහාචාර්යවරියට අමතක වූ මුදල් පසුම්බිය ආපසු දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc7b6eea.json))
 
-* **33** news-first-lk ([SLFP decides to amend party constitution to penalize violators](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79563c00.json))
+* **33** news-first-lk ([Kegalle Shooting: SJB Organizer arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b7ed706.json))
 
 * **24** tamil-mirror-lk ([ஆசியக் கிண்ணம்: பங்களாதேஷை வென்று சுப்பர் – 4-இல் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/3359f562.json))
 
 * **22** ada-derana-lk ([Various weaknesses and wrong policy decisions led to debt default - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/3953af73.json))
 
-* **21** daily-mirror-lk ([China always encourages IMF and other lenders to help SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8dbf5802.json))
+* **20** daily-mirror-lk ([Fuel needed for gem industry in Ratnapura under QR code soon: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e7fc7d2.json))
 
-* **16** ada-lk ([රාජ්‍ය සේවකයන්ගේ විශ්‍රාම වයස ගැන නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e35eae8b.json))
+* **17** ada-lk ([රාජ්‍ය සේවකයන්ගේ විශ්‍රාම වයස ගැන නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e35eae8b.json))
 
 * **12** economy-next-com ([Sri Lanka CPC assets, accounts to be audited: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/5691f850.json))
 
@@ -56,15 +56,15 @@
 
 * **1** d-b-s-jeyaraj-com ([The Tamil Factor  in  Sri Lanka’s First UNP- led “National” Govt of Premier Dudley Senanayake](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f7ee1af.json))
 
-## Last Week (666 Articles)
+## Last Week (667 Articles)
 
 * **118** lankadeepa-lk ([පොලිස් කීර්තිය වනසන පොලිසියේ අපතයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1595543b.json))
 
 * **86** daily-mirror-lk ([Sri Lankans migrating to greener pastures](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1dd083f.json))
 
-* **78** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
+* **79** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
-* **75** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **76** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **68** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
@@ -74,25 +74,25 @@
 
 * **54** daily-ft-lk ([NATO Alliance of Sri Lanka: ‘No Action, Talk Only’ way to overcome an economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c6c20c9.json))
 
-* **27** island-lk ([Protests, arrests and gutted assets](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8703bcf7.json))
+* **26** island-lk ([Asking for big trouble](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/dfa1395f.json))
 
 * **24** d-b-s-jeyaraj-com ([Japanese Embassy Asks Jaffna Municipal Council to  Refund  Rs 14,329,446 Given in 2019 to Purchase four reconditioned waste-collection trucks ;”greatly regrettable that the project has already been three years late over the schedule and you were unable to implement the project,” the embassy informs Mayor V. Manivannan on the cancellation of the project.](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88429fbe.json))
 
 * **12** colombo-telegraph-com ([Government’s Attempt To Redefine The Political Discourse & Direction Through Suppression](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/4487641d.json))
 
-## All Time (975 Articles)
+## All Time (977 Articles)
 
 * **180** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **128** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
+* **129** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **128** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **128** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
 
 * **113** d-b-s-jeyaraj-com ([The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f93260b.json))
 
 * **96** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf4124c.json))
 
-* **75** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **76** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **69** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
