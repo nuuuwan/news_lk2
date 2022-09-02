@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 23:19:23 (LK time)*
+*As of 2022-09-02 23:37:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Ex-President Gotabaya to return tonight?](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50bc96cb.json))
 
-## Last Hour (4 Articles)
+## Last 3 Hours (12 Articles)
 
-* **2** ada-derana-lk ([UK ready to engage with international partners to support Sri Lanka: PM Johnson](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc0b6b3.json))
-
-* **2** economy-next-com ([Sri Lanka’s Litro launches new gas app feature; orders payable in dollars](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecd24e10.json))
-
-## Last 3 Hours (13 Articles)
-
-* **6** news-first-lk ([Singapore President congratulates President Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04fd02ca.json))
+* **5** news-first-lk ([Dullas faction forms the Freedom People’s Congress](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/203f63c7.json))
 
 * **4** economy-next-com ([Sri Lanka’s reforms should be applicable for military as well- MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90c5bad4.json))
 
@@ -46,7 +40,7 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka’s First Firm Steps At Economic Reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e88b3d3e.json))
 
-## Last Week (681 Articles)
+## Last Week (679 Articles)
 
 * **120** lankadeepa-lk ([පොලිස් කීර්තිය වනසන පොලිසියේ අපතයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1595543b.json))
 
@@ -62,7 +56,7 @@
 
 * **63** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
-* **54** daily-ft-lk ([NATO Alliance of Sri Lanka: ‘No Action, Talk Only’ way to overcome an economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c6c20c9.json))
+* **52** daily-ft-lk ([The Sri Lanka paradox](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba6ccc06.json))
 
 * **26** island-lk ([Asking for big trouble](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/dfa1395f.json))
 
