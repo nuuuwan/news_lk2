@@ -113,6 +113,14 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84716/slfp-unanimously-approves-amendments-to-partys-constitution",
+    "time_ut": 1662143340,
+    "original_lang": "en",
+    "original_title": "SLFP unanimously approves amendments to party\u2019s constitution",
+    "file_name": "/tmp/news_lk2/articles/00/006c7baa.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84716/slfp-makes-key-amendments-to-its-constitution-",
     "time_ut": 1662143340,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dc5\u0db8\u0dd4 \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab \u0d8b\u0daf\u0dca\u200d\u0dba\u0dcf\u0db1\u0dba \u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0da7",
     "file_name": "/tmp/news_lk2/articles/81/81b92a04.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/politics/\u2018-\u0d91\u0db1\u0dca\u0db1\u0dad\u0dca-\u0dbd\u0db6\u0dcf\u0daf\u0dd3\u0db8\u0dda\u0daf\u0dd3-\u0d86\u0dba\u0ddd\u0da2\u0db1-\u0d9a\u0dbd\u0dcf\u0db4\u0dc0\u0dbd\u0da7\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0dcf\u0dc0-\u0daf\u0dd9\u0db1\u0dca\u0db1\u2018/13-592397",
-    "time_ut": 1623488773,
-    "original_lang": "si",
-    "original_title": "\u2018 \u0d91\u0db1\u0dca\u0db1\u0dad\u0dca \u0dbd\u0db6\u0dcf\u0daf\u0dd3\u0db8\u0dda\u0daf\u0dd3 \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0d9a\u0dbd\u0dcf\u0db4\u0dc0\u0dbd\u0da7\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0dcf\u0dc0 \u0daf\u0dd9\u0db1\u0dca\u0db1\u2018",
-    "file_name": "/tmp/news_lk2/articles/57/579b019f.json"
   }
 ]
