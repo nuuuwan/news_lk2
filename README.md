@@ -1,64 +1,58 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 12:08:45 (LK time)*
+*As of 2022-09-02 12:33:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **2** news-first-lk ([Importers of Cement, Wires, and Steel summoned to CAA](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b64eb245.json))
+* **3** lankadeepa-lk ([අය වැය ගැන ස.ජ.බ  ගත් තීරණය](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03e8f682.json))
 
-* **1** ada-derana-lk ([SJB and dissident SLPP MPs to boycott interim budget vote](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e75bc46.json))
+* **1** economy-next-com ([Sri Lanka’s CPC earns up to Rs.50 profit from litre of petrol now – Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49e2ea95.json))
 
-* **1** economy-next-com ([Sri Lank shares gains in mid-day trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/843b1a43.json))
+## Last Hour (14 Articles)
 
-* **1** tamil-mirror-lk ([ஜெனிவாவை சமாளிக்க தீவிரமாக ஆராய்கிறது அரசாங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8b15399.json))
+* **5** lankadeepa-lk ([’’නන්දලාල් වෙනුවෙන් මම ගෙදර යන්නම්’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82cfed81.json))
 
-* **1** daily-mirror-lk ([Japan calls for creditor nations’ talks on Sri Lanka debt restructuring](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8019075.json))
+* **3** news-first-lk ([Importers of Cement, Wires, and Steel summoned to CAA](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b64eb245.json))
 
-## Last Hour (12 Articles)
+* **2** economy-next-com ([Sri Lank shares gains in mid-day trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/843b1a43.json))
 
-* **3** news-first-lk ([Promptly Resolve Fuel, Gas and Paddy Issues – Senior Advisor to the President](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6d52c9a.json))
-
-* **3** daily-mirror-lk ([India launches first home-built aircraft carrier INS Vikrant](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd1fb1d3.json))
-
-* **3** lankadeepa-lk ([දරුවාගේ අනාගතය වෙනුවෙන් පක්ෂ ව්‍යවස්ථා සංශෝධනය කිරීම වරදක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dcebe30.json))
+* **2** daily-mirror-lk ([Prices of LP Gas to be brought down further from Monday: LITRO Chairman](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54ede973.json))
 
 * **1** ada-derana-lk ([SJB and dissident SLPP MPs to boycott interim budget vote](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e75bc46.json))
 
-* **1** economy-next-com ([Sri Lank shares gains in mid-day trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/843b1a43.json))
-
 * **1** tamil-mirror-lk ([ஜெனிவாவை சமாளிக்க தீவிரமாக ஆராய்கிறது அரசாங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8b15399.json))
 
-## Last 3 Hours (35 Articles)
+## Last 3 Hours (36 Articles)
 
-* **10** lankadeepa-lk ([ශ්‍රී ලංකන් ගුවන් සේවා බර ජනතාව පිට පටවනු එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/478d9302.json))
+* **11** lankadeepa-lk ([දමනය කළ යුත්තේ අරගලය නොව උද්ධමනයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5424098.json))
 
-* **9** news-first-lk ([Record run chase puts Sri Lanka in Super Four of Asia Cup 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2ddd643f.json))
-
-* **6** tamil-mirror-lk ([இன்று பாராளுமன்றில் வாக்கெடுப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28baa88a.json))
+* **9** news-first-lk ([Rainfall for Western, Sabaragmuwa provinces today (2)](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2eb994ec.json))
 
 * **5** ada-derana-lk ([Major flood situation as water level of Kalu River tributary rises](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1dd71be.json))
 
+* **5** tamil-mirror-lk ([சிறுபான்மை மக்களை அடக்கி ஆள நினைப்பது நாட்டை பலவீனப்படுத்தும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c287bd21.json))
+
+* **3** economy-next-com ([Sri Lanka CPC assets, accounts to be audited: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/5691f850.json))
+
 * **3** daily-mirror-lk ([India launches first home-built aircraft carrier INS Vikrant](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd1fb1d3.json))
 
-* **2** economy-next-com ([Sri Lanka CPC assets, accounts to be audited: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/5691f850.json))
+## Last 24 Hours (183 Articles)
 
-## Last 24 Hours (185 Articles)
+* **51** lankadeepa-lk ([රට බංකොලොත් කළේ පාර්ලිමේන්තුව නොදැනුවත්වයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d879ed1c.json))
 
-* **49** lankadeepa-lk ([දරුවන් වෙනුවෙන් හිඟා කන්න සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cca6ba79.json))
-
-* **31** daily-mirror-lk ([Ready even to beg to provide free meals to school children: Susil](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1554cb3.json))
+* **30** daily-mirror-lk ([Jeyaraj murder: Former ASP and Ex-LTTE cadre acquitted and released](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2174a3c2.json))
 
 * **23** ada-derana-lk ([Two accused in Jeyaraj Fernandopulle assassination acquitted](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/daa52921.json))
 
-* **22** tamil-mirror-lk ([ஐ.எம்.எப் உடன் இணக்கப்பாடு: பிரதமர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29d09956.json))
+* **21** tamil-mirror-lk ([புகைப்பொருட்களின் விலைகள் எகிறின](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d4d540c.json))
 
-* **19** news-first-lk ([Three in Ten Sri Lankans food insecure, warns WFP](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f281fba6.json))
+* **20** news-first-lk ([Three in Ten Sri Lankans food insecure, warns WFP](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f281fba6.json))
 
-* **19** ada-lk ([නාදුනන පිරිමි මළ සිරුරක් මුතු පන්තිය වෙරළට ගොඩ ගසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0092cbe.json))
+* **16** ada-lk ([ලංකාවට සතයක්වත් එවන්න එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f15f91ee.json))
 
-* **11** economy-next-com ([Sri Lanka shares shoots up in mid-day trade on IMF deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/945b1384.json))
+* **11** economy-next-com ([Sri Lanka should have market rupee rate, more taxes, lower inflation for IMF funds](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed0003e9.json))
 
 * **6** daily-ft-lk ([Torrential rains affect 6 districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0317577.json))
 
@@ -66,9 +60,9 @@
 
 * **2** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e67e678.json))
 
-## Last Week (568 Articles)
+## Last Week (573 Articles)
 
-* **90** lankadeepa-lk ([උභතෝකෝටික ප්‍රශ්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce986a67.json))
+* **93** lankadeepa-lk ([උභතෝකෝටික ප්‍රශ්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce986a67.json))
 
 * **82** daily-mirror-lk ([Ranjan leaves prison](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f10481a7.json))
 
@@ -76,11 +70,11 @@
 
 * **56** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
+* **54** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
+
+* **54** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+
 * **54** daily-ft-lk ([NATO Alliance of Sri Lanka: ‘No Action, Talk Only’ way to overcome an economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c6c20c9.json))
-
-* **53** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
-
-* **53** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
 
 * **51** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
@@ -90,9 +84,9 @@
 
 * **12** colombo-telegraph-com ([Taking Dictatorial Steps To Control Public Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/841810c5.json))
 
-## All Time (874 Articles)
+## All Time (879 Articles)
 
-* **151** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **154** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **123** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
 
@@ -104,9 +98,9 @@
 
 * **57** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
-* **53** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **54** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
 
-* **53** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
+* **54** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **51** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 

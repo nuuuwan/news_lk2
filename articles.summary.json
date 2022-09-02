@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db1\u0dd4\u0dbb-\u0dbb\u0da7-\u0d9c\u0ddc\u0da9-\u0d9c\u0dad\u0dc4\u0dd0\u0d9a\u0dd2-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba-\u0dc4\u0dd9\u0dbd\u0dd2-\u0d9a\u0dbb\u0dba\u0dd2/1-619182",
+    "time_ut": 1662101483,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dd4\u0dbb \u0dbb\u0da7 \u0d9c\u0ddc\u0da9 \u0d9c\u0dad\u0dc4\u0dd0\u0d9a\u0dd2 \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba \u0dc4\u0dd9\u0dbd\u0dd2 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/15/15f0b3c4.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dba\u0dc0\u0dd0\u0dba-\u0da1\u0db1\u0dca\u0daf-\u0dc0\u0dd2\u0db8\u0dc3\u0dd3\u0db8-\u0d85\u0daf-\u0dc3\u0dc0\u0dc3/1-619180",
+    "time_ut": 1662101278,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dba\u0dc0\u0dd0\u0dba \u0da1\u0db1\u0dca\u0daf \u0dc0\u0dd2\u0db8\u0dc3\u0dd3\u0db8 \u0d85\u0daf \u0dc3\u0dc0\u0dc3",
+    "file_name": "/tmp/news_lk2/articles/74/742c189c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dba-\u0dc0\u0dd0\u0dba-\u0d9c\u0dd0\u0db1-\u0dc3-\u0da2-\u0db6--\u0d9c\u0dad\u0dca-\u0dad\u0dd3\u0dbb\u0dab\u0dba/1-619179",
+    "time_ut": 1662101151,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dba \u0dc0\u0dd0\u0dba \u0d9c\u0dd0\u0db1 \u0dc3.\u0da2.\u0db6  \u0d9c\u0dad\u0dca \u0dad\u0dd3\u0dbb\u0dab\u0dba",
+    "file_name": "/tmp/news_lk2/articles/03/03e8f682.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-cpc-earns-up-to-rs-50-profit-from-litre-of-petrol-now-minister-99355/",
+    "time_ut": 1662101100,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s CPC earns up to Rs.50 profit from litre of petrol now \u2013 Minister",
+    "file_name": "/tmp/news_lk2/articles/49/49e2ea95.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/ministry-clarifies-on-public-sector-retirement-age/",
+    "time_ut": 1662100320,
+    "original_lang": "en",
+    "original_title": "Ministry clarifies on public sector retirement age",
+    "file_name": "/tmp/news_lk2/articles/8a/8a482f01.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/02/litro-to-drop-prices-on-monday-5/",
     "time_ut": 1662099840,
@@ -49,11 +89,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da2\u0dba\u0dda-\u0dc3\u0dda\u0dc0\u0d9a-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0da7\u0dad\u0dca-\u0dad\u0da7\u0dca\u0da7\u0dd4--\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dc4\u0daf\u0db1\u0dc0\u0dcf/101-619175",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da2\u0dba\u0dda-\u0dc3\u0dda\u0dc0\u0d9a-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0da7\u0dad\u0dca-\u0dad\u0da7\u0dca\u0da7\u0dd4--\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dc4\u0daf\u0db1\u0dc0\u0dcf/1-619175",
     "time_ut": 1662098900,
     "original_lang": "si",
     "original_title": "\u0dbb\u0da2\u0dba\u0dda \u0dc3\u0dda\u0dc0\u0d9a \u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0da7\u0dad\u0dca \u0dad\u0da7\u0dca\u0da7\u0dd4  \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dc4\u0daf\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/7a/7a43e6d4.json"
+    "file_name": "/tmp/news_lk2/articles/c4/c466748a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -121,11 +161,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dd0\u0da2\u0dd2\u0db1-\u0db4\u0dd3\u0dbd\u0dd2\u0db4\u0db1\u0dd3---\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db0\u0dcf\u0dc0\u0db1\u0dc0\u0da7-\u0db6\u0dcf\u0db0\u0dcf/101-619169",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0dd0\u0da2\u0dd2\u0db1-\u0db4\u0dd3\u0dbd\u0dd2\u0db4\u0db1\u0dd3---\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db0\u0dcf\u0dc0\u0db1\u0dc0\u0da7-\u0db6\u0dcf\u0db0\u0dcf/1-619169",
     "time_ut": 1662096748,
     "original_lang": "si",
     "original_title": "\u0dbb\u0dd0\u0da2\u0dd2\u0db1 \u0db4\u0dd3\u0dbd\u0dd2\u0db4\u0db1\u0dd3 - \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db0\u0dcf\u0dc0\u0db1\u0dc0\u0da7 \u0db6\u0dcf\u0db0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/76/762998b1.json"
+    "file_name": "/tmp/news_lk2/articles/32/32d658f8.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -153,11 +193,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0db8\u0db1\u0dba-\u0d9a\u0dc5-\u0dba\u0dd4\u0dad\u0dca\u0dad\u0dda-\u0d85\u0dbb\u0d9c\u0dbd\u0dba-\u0db1\u0ddc\u0dc0-\u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba\u0dba\u0dd2/101-619167",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0db8\u0db1\u0dba-\u0d9a\u0dc5-\u0dba\u0dd4\u0dad\u0dca\u0dad\u0dda-\u0d85\u0dbb\u0d9c\u0dbd\u0dba-\u0db1\u0ddc\u0dc0-\u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba\u0dba\u0dd2/1-619167",
     "time_ut": 1662095080,
     "original_lang": "si",
     "original_title": "\u0daf\u0db8\u0db1\u0dba \u0d9a\u0dc5 \u0dba\u0dd4\u0dad\u0dca\u0dad\u0dda \u0d85\u0dbb\u0d9c\u0dbd\u0dba \u0db1\u0ddc\u0dc0 \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/97/97f3be7f.json"
+    "file_name": "/tmp/news_lk2/articles/a5/a5424098.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
