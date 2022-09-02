@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84714/uk-ready-to-engage-with-international-partners-to-support-sri-lanka-pm-johnson",
+    "time_ut": 1662138060,
+    "original_lang": "en",
+    "original_title": "UK ready to engage with international partners to support Sri Lanka: PM Johnson",
+    "file_name": "/tmp/news_lk2/articles/db/dbc0b6b3.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stx-at-over-5-mth-high-after-imf-statement-market-sees-foreign-inflow-for-14th-session-99392/",
+    "time_ut": 1662138000,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stx at over 5-mth high after IMF statement: market sees foreign inflow for 14th session",
+    "file_name": "/tmp/news_lk2/articles/ac/ac35adf7.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-litro-launches-new-gas-app-feature-orders-payable-in-dollars-99386/",
+    "time_ut": 1662137580,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s Litro launches new gas app feature; orders payable in dollars",
+    "file_name": "/tmp/news_lk2/articles/ec/ecd24e10.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lankas-rupee-guidance-peg-against-us-dollar-falls-govt-securities-hardly-traded-99391/",
     "time_ut": 1662136440,
