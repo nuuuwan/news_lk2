@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 22:46:38 (LK time)*
+*As of 2022-09-02 23:02:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (3 Articles)
-
-* **2** economy-next-com ([Sri Lanka’s Litro launches new gas app feature; orders payable in dollars](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecd24e10.json))
-
-* **1** ada-derana-lk ([UK ready to engage with international partners to support Sri Lanka: PM Johnson](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc0b6b3.json))
 
 ## Last Hour (4 Articles)
 
@@ -16,9 +10,9 @@
 
 * **1** ada-derana-lk ([UK ready to engage with international partners to support Sri Lanka: PM Johnson](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc0b6b3.json))
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (12 Articles)
 
-* **7** news-first-lk ([It’s a good budget – Mahinda Rajapaksa on Budget Amendment 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a99e033.json))
+* **6** news-first-lk ([Singapore President congratulates President Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04fd02ca.json))
 
 * **4** economy-next-com ([Sri Lanka’s reforms should be applicable for military as well- MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90c5bad4.json))
 
