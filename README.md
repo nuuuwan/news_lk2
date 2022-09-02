@@ -1,54 +1,52 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 11:24:40 (LK time)*
+*As of 2022-09-02 11:53:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (6 Articles)
 
-* **3** lankadeepa-lk ([රැජින පීලිපනී - ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනවට බාධා](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/762998b1.json))
+* **3** daily-mirror-lk ([India launches first home-built aircraft carrier INS Vikrant](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd1fb1d3.json))
+
+* **2** lankadeepa-lk ([’’නන්දලාල් වෙනුවෙන් මම ගෙදර යන්නම්’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82cfed81.json))
+
+* **1** news-first-lk ([Importers of Cement, Wires, and Steel summoned to CAA](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b64eb245.json))
+
+## Last Hour (13 Articles)
+
+* **6** lankadeepa-lk ([රැජින පීලිපනී - ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනවට බාධා](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/762998b1.json))
+
+* **3** daily-mirror-lk ([India launches first home-built aircraft carrier INS Vikrant](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd1fb1d3.json))
+
+* **2** news-first-lk ([Promptly Resolve Fuel, Gas and Paddy Issues – Senior Advisor to the President](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6d52c9a.json))
 
 * **2** tamil-mirror-lk ([கொழும்பு மக்களுக்கு முக்கிய செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/568639aa.json))
 
-* **1** news-first-lk ([Promptly Resolve Fuel, Gas and Paddy Issues – Senior Advisor to the President](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6d52c9a.json))
+## Last 3 Hours (31 Articles)
 
-## Last Hour (9 Articles)
-
-* **5** lankadeepa-lk ([දමනය කළ යුත්තේ අරගලය නොව උද්ධමනයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97f3be7f.json))
-
-* **2** tamil-mirror-lk ([கொழும்பு மக்களுக்கு முக்கிய செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/568639aa.json))
-
-* **1** news-first-lk ([Promptly Resolve Fuel, Gas and Paddy Issues – Senior Advisor to the President](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6d52c9a.json))
-
-* **1** ada-derana-lk ([Litro to slash LP gas prices again](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af8030f4.json))
-
-## Last 3 Hours (27 Articles)
+* **10** lankadeepa-lk ([ශ්‍රී ලංකන් ගුවන් සේවා බර ජනතාව පිට පටවනු එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/478d9302.json))
 
 * **8** news-first-lk ([Record run chase puts Sri Lanka in Super Four of Asia Cup 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2ddd643f.json))
-
-* **7** lankadeepa-lk ([ශ්‍රී ලංකන් ගුවන් සේවා බර ජනතාව පිට පටවනු එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/478d9302.json))
 
 * **5** tamil-mirror-lk ([இன்று பாராளுமன்றில் வாக்கெடுப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28baa88a.json))
 
 * **4** ada-derana-lk ([Major flood situation as water level of Kalu River tributary rises](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1dd71be.json))
 
+* **3** daily-mirror-lk ([India launches first home-built aircraft carrier INS Vikrant](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd1fb1d3.json))
+
 * **1** economy-next-com ([Sri Lanka CPC assets, accounts to be audited: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/5691f850.json))
-
-* **1** ada-lk ([කල්පිරුණු චීන ණය ගැන නිසි ක්‍රමයක් සකස් කිරීමට චීනයේ කැමැත්ත මීට පෙර ප්‍රකාශ කළා](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/423d4980.json))
-
-* **1** daily-mirror-lk ([Gazette on retail price ceiling for 43 medical devices issued](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/230bb9ed.json))
 
 ## Last 24 Hours (184 Articles)
 
-* **48** lankadeepa-lk ([බුලත්සිංහල ගම් රැසක් ජලයෙන් යට වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1875d5e2.json))
+* **49** lankadeepa-lk ([දරුවන් වෙනුවෙන් හිඟා කන්න සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cca6ba79.json))
 
-* **28** daily-mirror-lk ([Ready even to beg to provide free meals to school children: Susil](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1554cb3.json))
+* **31** daily-mirror-lk ([Ready even to beg to provide free meals to school children: Susil](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1554cb3.json))
 
-* **26** tamil-mirror-lk ([ஜெயராஜ் படுகொலை: புலி உறுப்பினர் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3320412.json))
+* **23** tamil-mirror-lk ([7 வயது சிறுவன்  கூரிய ஆயுதத்தால் குத்தப்பட்டான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7cab484.json))
 
 * **23** ada-derana-lk ([Water levels of several rivers on the rise](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd5b472a.json))
 
-* **20** ada-lk ([ඩොලර් බිලියන 2.9ක ණයක් IMF නිවේදනය  කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/716deaa4.json))
+* **19** ada-lk ([නාදුනන පිරිමි මළ සිරුරක් මුතු පන්තිය වෙරළට ගොඩ ගසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0092cbe.json))
 
 * **18** news-first-lk ([Three in Ten Sri Lankans food insecure, warns WFP](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f281fba6.json))
 
@@ -60,11 +58,11 @@
 
 * **2** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e67e678.json))
 
-## Last Week (558 Articles)
+## Last Week (564 Articles)
 
-* **87** lankadeepa-lk ([උභතෝකෝටික ප්‍රශ්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce986a67.json))
+* **90** lankadeepa-lk ([උභතෝකෝටික ප්‍රශ්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce986a67.json))
 
-* **79** daily-mirror-lk ([Ranjan leaves prison](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f10481a7.json))
+* **82** daily-mirror-lk ([Ranjan leaves prison](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f10481a7.json))
 
 * **66** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
@@ -84,11 +82,11 @@
 
 * **12** colombo-telegraph-com ([Taking Dictatorial Steps To Control Public Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/841810c5.json))
 
-## All Time (864 Articles)
+## All Time (870 Articles)
 
-* **148** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **151** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **120** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
+* **123** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
 
 * **116** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
