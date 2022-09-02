@@ -1,0 +1,261 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dad\u0dd2-\u0d85\u0db1\u0dca\u0dad\u0dba\u0dda-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0db4\u0dd0\u0dba\u0d9a\u0da7-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/101-619206",
+  "time_ut": 1662121094,
+  "original_lang": "si",
+  "original_title": "\u0dc3\u0dad\u0dd2 \u0d85\u0db1\u0dca\u0dad\u0dba\u0dda \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0db4\u0dd0\u0dba\u0d9a\u0da7 \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+  "text_idx": {
+    "en": {
+      "title": "Power cuts are reduced to one hour on weekends",
+      "author": "unknown",
+      "body_lines": [
+        "Janaka Rathnayake, its chairman, said today (2) that the Public Utilities Commission has given permission for power cuts from tomorrow (3rd) to 5th due to the shortage of fuel needed for power generation.",
+        "Mr. Janaka Rathnayake further said that tomorrow and the next day (3rd and 4th) electricity will be cut for one hour only during the night time and next Saturday (5th) for two hours during the day and night time."
+      ],
+      "title_ents": [
+        {
+          "text": "one hour",
+          "label": "TIME"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Janaka Rathnayake",
+            "label": "PERSON"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Public Utilities Commission",
+            "label": "ORG"
+          },
+          {
+            "text": "tomorrow",
+            "label": "DATE"
+          },
+          {
+            "text": "3rd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "5th",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Janaka Rathnayake",
+            "label": "PERSON"
+          },
+          {
+            "text": "tomorrow",
+            "label": "DATE"
+          },
+          {
+            "text": "the next day",
+            "label": "DATE"
+          },
+          {
+            "text": "3rd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "4th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "one hour",
+            "label": "TIME"
+          },
+          {
+            "text": "next Saturday",
+            "label": "DATE"
+          },
+          {
+            "text": "5th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "two hours",
+            "label": "TIME"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc3\u0dad\u0dd2 \u0d85\u0db1\u0dca\u0dad\u0dba\u0dda \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0db4\u0dd0\u0dba\u0d9a\u0da7 \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+      "author": "unknown",
+      "body_lines": [
+        "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0da2\u0db1\u0db1\u0dba\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dd2\u0d9f\u0dc0\u0dd3\u0db8 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc4\u0dd9\u0da7 (3) \u0dc3\u0dd2\u0da7 5 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd3\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8 \u0d85\u0dc0\u0dc3\u0dbb \u0daf\u0dd4\u0db1\u0dca \u0db6\u0dc0 \u0d91\u0dc4\u0dd2 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da2\u0db1\u0d9a \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dad\u0dcf \u0d85\u0daf (2) \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0dc4\u0dd9\u0da7 \u0dc3\u0dc4 \u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf (3 \u0dc3\u0dc4 4) \u0dc3\u0dad\u0dd2 \u0d85\u0db1\u0dca\u0dad\u0dba\u0dda \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0db4\u0dd0\u0dba\u0d9a\u0dca \u0db4\u0db8\u0dab\u0d9a\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7\u0dad\u0dca, \u0dbd\u0db6\u0db1 \u0dc3\u0daf\u0dd4\u0daf\u0dcf (5 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf) \u0daf\u0dd2\u0dc0\u0dcf \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0dc3\u0dc4 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0db4\u0dd0\u0dba \u0db6\u0dd0\u0d9c\u0dd2\u0db1\u0dca \u0daf \u0db4\u0dd0\u0dba \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dbb \u0daf\u0dd4\u0db1\u0dca \u0db6\u0dc0 \u0da2\u0db1\u0d9a \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dad\u0dcf \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0d9a\u0dd3\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0db4\u0dd0\u0dba\u0d9a\u0dca",
+          "label": "TIME"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0da2\u0dcf\u0db1\u0d9a \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc4\u0dd9\u0da7",
+            "label": "DATE"
+          },
+          {
+            "text": "3 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "5 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dcf\u0db1\u0d9a \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc4\u0dd9\u0da7",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d8a\u0dc5\u0d9f \u0daf\u0dd2\u0db1\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "3 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "4 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba\u0d9a\u0dca",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0d91\u0db1 \u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "5 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
+            "label": "TIME"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bb5\u0bbe\u0bb0 \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bbe\u0b95 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0bae\u0bbf\u0ba9\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0ba8\u0bbe\u0bb3\u0bc8 (3\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf) \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 5\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bb5\u0bb0\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0ba4\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9c\u0bbe\u0ba9\u0b95 \u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (2) \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bb1\u0bc1\u0ba4\u0bbf\u0ba9\u0bae\u0bcd (3\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 4\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf) \u0b87\u0bb0\u0bb5\u0bc1 \u0bb5\u0bc7\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0bae\u0bc1\u0bae\u0bcd, \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (5\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf) \u0baa\u0b95\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bb5\u0bc1 \u0ba8\u0bc7\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd \u0ba4\u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0ba4\u0bbf\u0bb0\u0bc1.\u0b9c\u0ba9\u0b95 \u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b92\u0bb0\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+          "label": "TIME"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b9c\u0ba9\u0b95 \u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bca\u0ba4\u0bc1 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0bb3\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "3\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "5\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0ba9\u0b95 \u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0bb3\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba8\u0bbe\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "3\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "4\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "5\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          }
+        ]
+      ]
+    }
+  }
+}
