@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Trade-unions-dilemma-over-IMF-programme/172-244255",
+    "time_ut": 1662144528,
+    "original_lang": "en",
+    "original_title": "Trade unions\u2019 dilemma over IMF programme",
+    "file_name": "/tmp/news_lk2/articles/c7/c7cf5825.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Peace-Let-us-remember-we-belong-to-each-other/172-244254",
+    "time_ut": 1662144398,
+    "original_lang": "en",
+    "original_title": "Peace: Let us remember we belong to each other",
+    "file_name": "/tmp/news_lk2/articles/f0/f0e0015f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bc8-\u0baa\u0bc6\u0bb1\u0bcd\u0bb1-\u0b9a\u0ba8\u0bcd\u0ba4\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bae\u0bcd/175-303472",
+    "time_ut": 1662144386,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/79/7935cc3c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Verit\u00e9-Research-highlights-perils-of-deviating-from-competitive-bidding-to-lure-Chinese-funding-for-infrastructure/56-739435",
+    "time_ut": 1662143811,
+    "original_lang": "en",
+    "original_title": "Verit\u00e9 Research highlights perils of deviating from competitive bidding to lure Chinese funding for infrastructure",
+    "file_name": "/tmp/news_lk2/articles/1c/1ca49760.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SLFP-unanimously-approves-amendments-to-party-constitution-at-71st-Anniversary-celebrations/56-739433",
+    "time_ut": 1662143717,
+    "original_lang": "en",
+    "original_title": "SLFP unanimously approves amendments to party constitution at 71st Anniversary celebrations",
+    "file_name": "/tmp/news_lk2/articles/2f/2f9379fa.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Karu-calls-on-all-MPs-to-support-22A/56-739432",
+    "time_ut": 1662143627,
+    "original_lang": "en",
+    "original_title": "Karu calls on all MPs to support 22A",
+    "file_name": "/tmp/news_lk2/articles/3b/3bdb70e5.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Freedom-People-s-Congress-formed-to-free-country-of-corruption-nepotism-and-political-ignorance/56-739431",
     "time_ut": 1662143505,
@@ -14,6 +62,14 @@
     "original_lang": "en",
     "original_title": "GR RETURNS TO SRI LANKA",
     "file_name": "/tmp/news_lk2/articles/a5/a56c78d1.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd-\u0baa\u0bca\u0bb0\u0bbf\u0bb8\u0bcd-\u0b9c\u0bcb\u0ba9\u0bcd\u0b9a\u0ba9\u0bcd/175-303471",
+    "time_ut": 1662143449,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd: \u0baa\u0bca\u0bb0\u0bbf\u0bb8\u0bcd \u0b9c\u0bcb\u0ba9\u0bcd\u0b9a\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d7/d7937743.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -32,6 +88,14 @@
     "file_name": "/tmp/news_lk2/articles/56/567cc272.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/SLT-Mobitel-unveils-The-Arena-new-Experience-Centre-where-smart-innovation-meets-technology/34-739429",
+    "time_ut": 1662143374,
+    "original_lang": "en",
+    "original_title": "SLT-Mobitel unveils \u2018The Arena\u2019; new Experience Centre where smart innovation meets technology",
+    "file_name": "/tmp/news_lk2/articles/f1/f19a86c3.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84716/slfp-makes-key-amendments-to-its-constitution-",
     "time_ut": 1662143340,
@@ -40,12 +104,36 @@
     "file_name": "/tmp/news_lk2/articles/e8/e84c9984.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Exterminators-holds-first-AGM/34-739428",
+    "time_ut": 1662143322,
+    "original_lang": "en",
+    "original_title": "Exterminators holds first AGM",
+    "file_name": "/tmp/news_lk2/articles/61/618d1d25.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/ALUMEX-strengthens-commitment-to-sustainability-with-Aluminium-UBC-collection-project-launch/34-739427",
+    "time_ut": 1662143255,
+    "original_lang": "en",
+    "original_title": "ALUMEX strengthens commitment to sustainability with Aluminium UBC collection project launch",
+    "file_name": "/tmp/news_lk2/articles/18/18ebd657.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/business__main/August-tourist-arrivals-dip-20-from-July/245-244249",
     "time_ut": 1662142143,
     "original_lang": "en",
     "original_title": "August tourist arrivals dip 20% from July",
     "file_name": "/tmp/news_lk2/articles/59/59f94afb.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Trouble-in-tourism-Part-2/4-739412",
+    "time_ut": 1662141963,
+    "original_lang": "en",
+    "original_title": "Trouble in tourism: Part 2",
+    "file_name": "/tmp/news_lk2/articles/9e/9e4068d0.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -182,6 +270,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dba\u0dc0\u0dd0\u0dba \u0dad\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0dbb \u0d9a\u0dd2\u0dba\u0dd0\u0dc0\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/e0/e07998a2.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/cinematographer-donald-karunaratne-who-passed-away-in-la-planned-ahas-gawwa-sequel/",
+    "time_ut": 1662124763,
+    "original_lang": "en",
+    "original_title": "Cinematographer Donald Karunaratne, Who Passed Away In LA, Planned Ahas Gawwa Sequel",
+    "file_name": "/tmp/news_lk2/articles/f4/f4c08fd7.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",

@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Trade-unions-dilemma-over-IMF-programme/172-244255",
+    "time_ut": 1662144528,
+    "original_lang": "en",
+    "original_title": "Trade unions\u2019 dilemma over IMF programme",
+    "file_name": "/tmp/news_lk2/articles/c7/c7cf5825.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Peace-Let-us-remember-we-belong-to-each-other/172-244254",
+    "time_ut": 1662144398,
+    "original_lang": "en",
+    "original_title": "Peace: Let us remember we belong to each other",
+    "file_name": "/tmp/news_lk2/articles/f0/f0e0015f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bc8-\u0baa\u0bc6\u0bb1\u0bcd\u0bb1-\u0b9a\u0ba8\u0bcd\u0ba4\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bae\u0bcd/175-303472",
+    "time_ut": 1662144386,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/79/7935cc3c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Verit\u00e9-Research-highlights-perils-of-deviating-from-competitive-bidding-to-lure-Chinese-funding-for-infrastructure/56-739435",
+    "time_ut": 1662143811,
+    "original_lang": "en",
+    "original_title": "Verit\u00e9 Research highlights perils of deviating from competitive bidding to lure Chinese funding for infrastructure",
+    "file_name": "/tmp/news_lk2/articles/1c/1ca49760.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SLFP-unanimously-approves-amendments-to-party-constitution-at-71st-Anniversary-celebrations/56-739433",
+    "time_ut": 1662143717,
+    "original_lang": "en",
+    "original_title": "SLFP unanimously approves amendments to party constitution at 71st Anniversary celebrations",
+    "file_name": "/tmp/news_lk2/articles/2f/2f9379fa.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Karu-calls-on-all-MPs-to-support-22A/56-739432",
+    "time_ut": 1662143627,
+    "original_lang": "en",
+    "original_title": "Karu calls on all MPs to support 22A",
+    "file_name": "/tmp/news_lk2/articles/3b/3bdb70e5.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Freedom-People-s-Congress-formed-to-free-country-of-corruption-nepotism-and-political-ignorance/56-739431",
     "time_ut": 1662143505,
@@ -14,6 +62,14 @@
     "original_lang": "en",
     "original_title": "GR RETURNS TO SRI LANKA",
     "file_name": "/tmp/news_lk2/articles/a5/a56c78d1.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd-\u0baa\u0bca\u0bb0\u0bbf\u0bb8\u0bcd-\u0b9c\u0bcb\u0ba9\u0bcd\u0b9a\u0ba9\u0bcd/175-303471",
+    "time_ut": 1662143449,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd: \u0baa\u0bca\u0bb0\u0bbf\u0bb8\u0bcd \u0b9c\u0bcb\u0ba9\u0bcd\u0b9a\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d7/d7937743.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -32,6 +88,14 @@
     "file_name": "/tmp/news_lk2/articles/56/567cc272.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/SLT-Mobitel-unveils-The-Arena-new-Experience-Centre-where-smart-innovation-meets-technology/34-739429",
+    "time_ut": 1662143374,
+    "original_lang": "en",
+    "original_title": "SLT-Mobitel unveils \u2018The Arena\u2019; new Experience Centre where smart innovation meets technology",
+    "file_name": "/tmp/news_lk2/articles/f1/f19a86c3.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84716/slfp-makes-key-amendments-to-its-constitution-",
     "time_ut": 1662143340,
@@ -40,12 +104,36 @@
     "file_name": "/tmp/news_lk2/articles/e8/e84c9984.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Exterminators-holds-first-AGM/34-739428",
+    "time_ut": 1662143322,
+    "original_lang": "en",
+    "original_title": "Exterminators holds first AGM",
+    "file_name": "/tmp/news_lk2/articles/61/618d1d25.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/ALUMEX-strengthens-commitment-to-sustainability-with-Aluminium-UBC-collection-project-launch/34-739427",
+    "time_ut": 1662143255,
+    "original_lang": "en",
+    "original_title": "ALUMEX strengthens commitment to sustainability with Aluminium UBC collection project launch",
+    "file_name": "/tmp/news_lk2/articles/18/18ebd657.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/business__main/August-tourist-arrivals-dip-20-from-July/245-244249",
     "time_ut": 1662142143,
     "original_lang": "en",
     "original_title": "August tourist arrivals dip 20% from July",
     "file_name": "/tmp/news_lk2/articles/59/59f94afb.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Trouble-in-tourism-Part-2/4-739412",
+    "time_ut": 1662141963,
+    "original_lang": "en",
+    "original_title": "Trouble in tourism: Part 2",
+    "file_name": "/tmp/news_lk2/articles/9e/9e4068d0.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -182,6 +270,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dba\u0dc0\u0dd0\u0dba \u0dad\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0dbb \u0d9a\u0dd2\u0dba\u0dd0\u0dc0\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/e0/e07998a2.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/cinematographer-donald-karunaratne-who-passed-away-in-la-planned-ahas-gawwa-sequel/",
+    "time_ut": 1662124763,
+    "original_lang": "en",
+    "original_title": "Cinematographer Donald Karunaratne, Who Passed Away In LA, Planned Ahas Gawwa Sequel",
+    "file_name": "/tmp/news_lk2/articles/f4/f4c08fd7.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7902,85 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0db8\u0dd8\u0daf\u0dca\u0db0\u0dd2 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7 \u0d91\u0db1\u0dca\u0db1\u0dad \u0db1\u0dd0\u0dad\u0dca\u0db1\u0db8\u0dca \u0dbb\u0dcf\u0da2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd9\u0db1\u0dc0\u0dcf",
     "file_name": "/tmp/news_lk2/articles/ce/ce124b8f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/technology/\u0dbb\u0dae-\u0dc0\u0dcf\u0dc4\u0db1-\u0dc0\u0dd0\u0dbb\u0daf\u0dd2-\u0dc0\u0dd3\u0da9\u0dd2\u0dba\u0ddd-\u0d9a\u0dbb\u0db1\u0dca\u0db1-APP-\u0d91\u0d9a\u0d9a\u0dca/5-378597",
-    "time_ut": 1621242359,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dae \u0dc0\u0dcf\u0dc4\u0db1 \u0dc0\u0dd0\u0dbb\u0daf\u0dd2 \u0dc0\u0dd3\u0da9\u0dd2\u0dba\u0ddd \u0d9a\u0dbb\u0db1\u0dca\u0db1 APP \u0d91\u0d9a\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/23/23b4d71f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/technology/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda--\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0dad\u0db8-Hyper-Casual-\u2013-eSports-Championship--\u0d85\u0daf-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/5-378499",
-    "time_ut": 1621063675,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda  \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0dad\u0db8 Hyper Casual \u2013 eSports Championship  \u0d85\u0daf \u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/2f/2f31e536.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/uncategorized/\u0dad\u0dcf\u0db4-\u0dc4\u0dd2\u0dba\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dab-\u0d94\u0d9a\u0dca\u0dc3\u0dd2\u0da2\u0db1\u0dca-\u0da0\u0dd2\u0d9a\u0dd2\u0dad\u0dca\u0dc3\u0dcf-\u0d92\u0d9a\u0d9a\u0dba\u0d9a\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0-\u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2/1-378416",
-    "time_ut": 1620891374,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dcf\u0db4 \u0dc4\u0dd2\u0dba\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dab \u0d94\u0d9a\u0dca\u0dc3\u0dd2\u0da2\u0db1\u0dca \u0da0\u0dd2\u0d9a\u0dd2\u0dad\u0dca\u0dc3\u0dcf \u0d92\u0d9a\u0d9a\u0dba\u0d9a\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f0/f0600a95.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/technology/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0dd3\u0db8\u0da7-\u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0dc4\u0dd9\u0dbd\u0dca\u0db8\u0da7\u0dba\u0d9a\u0dca/5-377992",
-    "time_ut": 1620042583,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0dd3\u0db8\u0da7 \u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc4\u0dd9\u0dbd\u0dca\u0db8\u0da7\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/83/831fba9b.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/technology/\u0d85\u0db4\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dca\u0dc0\u0db1-\u0dc0\u0dd2\u0da7-\u0d85\u0dc3\u0dd3\u0db8\u0dd2\u0dad-\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0da2\u0dcf\u0dbd-\u0dc3\u0db6\u0db3\u0dad\u0dcf/5-376197",
-    "time_ut": 1616140846,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db4\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dca\u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0d85\u0dc3\u0dd3\u0db8\u0dd2\u0dad \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0da2\u0dcf\u0dbd \u0dc3\u0db6\u0db3\u0dad\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/2b/2b5b860a.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/technology/Singapore-Space-Challenge-\u0dad\u0dbb\u0d9f\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda-\u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba\u0d9a\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7\u0dad\u0dca/5-375544",
-    "time_ut": 1614676389,
-    "original_lang": "si",
-    "original_title": "Singapore Space Challenge \u0dad\u0dbb\u0d9f\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba\u0d9a\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7\u0dad\u0dca",
-    "file_name": "/tmp/news_lk2/articles/bd/bd050813.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/technology/\u0da9\u0dba\u0dbd\u0ddc\u0d9c\u0dca-\u0da7\u0dd9\u0dbd\u0dd2\u0dc0\u0dd2\u0dc2\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dad\u0db8-\u0da0\u0dd0\u0db1\u0dbd\u0dba-\u0db8\u0dd2\u0dc3\u0dca-\u0d9a\u0ddd\u0dbd\u0dca-\u0d91\u0d9a\u0d9a\u0dd2\u0db1\u0dca--Activate-\u0d9a\u0dbb\u0d9c\u0db1\u0dca\u0db1/5-374292",
-    "time_ut": 1611559275,
-    "original_lang": "si",
-    "original_title": "\u0da9\u0dba\u0dbd\u0ddc\u0d9c\u0dca \u0da7\u0dd9\u0dbd\u0dd2\u0dc0\u0dd2\u0dc2\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dad\u0db8 \u0da0\u0dd0\u0db1\u0dbd\u0dba \u0db8\u0dd2\u0dc3\u0dca \u0d9a\u0ddd\u0dbd\u0dca \u0d91\u0d9a\u0d9a\u0dd2\u0db1\u0dca  Activate \u0d9a\u0dbb\u0d9c\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/ec/ec2c04df.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/technology/\u0da9\u0dba\u0dbd\u0ddc\u0d9c\u0dca-\u0d91\u0db1\u0dca\u0da7\u0db4\u200d\u0dca\u200d\u0dbb\u0dba\u0dd2\u0dc3\u0dca--VDOmeet-\u0dc0\u0dd3\u0da9\u0dd2\u0dba\u0ddd-\u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1-\u0dc3\u0dda\u0dc0\u0dcf-\u0dc3\u0db3\u0dc4\u0dcf-\u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca-\u0dc3\u0dbd\u0dc3\u0dba\u0dd2/5-374210",
-    "time_ut": 1611325981,
-    "original_lang": "si",
-    "original_title": "\u0da9\u0dba\u0dbd\u0ddc\u0d9c\u0dca \u0d91\u0db1\u0dca\u0da7\u0db4\u200d\u0dca\u200d\u0dbb\u0dba\u0dd2\u0dc3\u0dca  VDOmeet \u0dc0\u0dd3\u0da9\u0dd2\u0dba\u0ddd \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1 \u0dc3\u0dda\u0dc0\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dc3\u0dbd\u0dc3\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e8/e8d2a477.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/technology/ADSTUDIO-CLOUD-\u2018\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0dca\u0d9a\u0dbb\u0dab-\u0db4\u0dca\u200d\u0dbb\u0da0\u0dcf\u0dbb\u0dab-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u2019-\u0dbd\u0dd9\u0dc3-\u0da2\u0dcf\u0dad\u0dd2\u0dba-\u0dc3\u0dc0\u0dd2\u0db6\u0dbd-\u0d9c\u0db1\u0dca\u0dc0\u0dba\u0dd2-/5-373476",
-    "time_ut": 1609736406,
-    "original_lang": "si",
-    "original_title": "ADSTUDIO.CLOUD \u2018\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0dca\u0d9a\u0dbb\u0dab \u0db4\u0dca\u200d\u0dbb\u0da0\u0dcf\u0dbb\u0dab \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u2019 \u0dbd\u0dd9\u0dc3 \u0da2\u0dcf\u0dad\u0dd2\u0dba \u0dc3\u0dc0\u0dd2\u0db6\u0dbd \u0d9c\u0db1\u0dca\u0dc0\u0dba\u0dd2.",
-    "file_name": "/tmp/news_lk2/articles/e0/e0a05fc8.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/technology/\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0dda-\u0db4\u0dc5\u0db8\u0dd4-\u0dc0\u0dad\u0dcf\u0dc0\u0da7-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab-\u0daf\u0dad\u0dca\u0dad-\u0dbb\u0dd0\u0dc3\u0d9a\u0dca-\u0dbb\u0dd0\u0dc3\u0dca-\u0d9a\u0dbb\u0db1-\u0db6\u0dd0\u0dbd\u0dd4\u0db1\u0dba\u0d9a\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0da7/5-373216",
-    "time_ut": 1609048315,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0dc0\u0dad\u0dcf\u0dc0\u0da7 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0daf\u0dad\u0dca\u0dad \u0dbb\u0dd0\u0dc3\u0d9a\u0dca \u0dbb\u0dd0\u0dc3\u0dca \u0d9a\u0dbb\u0db1 \u0db6\u0dd0\u0dbd\u0dd4\u0db1\u0dba\u0d9a\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0da7",
-    "file_name": "/tmp/news_lk2/articles/d0/d03668f2.json"
   }
 ]
