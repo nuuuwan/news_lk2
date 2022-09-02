@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 04:37:51 (LK time)*
+*As of 2022-09-03 05:02:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (201 Articles)
+## Last 24 Hours (195 Articles)
 
-* **46** lankadeepa-lk ([‘‘විදෙස් ගත වන්නට පෙර මැලේරියාවට බෙහෙත් ගන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32b38804.json))
+* **44** lankadeepa-lk ([ඉන්ධන ගැටළුවෙන් ශ්‍රී ලන්කන් සේවයට අමතර මිලියනට හතක වියදමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d31b9f8.json))
 
 * **38** news-first-lk ([Record run chase puts Sri Lanka in Super Four of Asia Cup 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2ddd643f.json))
 
@@ -18,9 +18,9 @@
 
 * **17** economy-next-com ([Sri Lanka CPC assets, accounts to be audited: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/5691f850.json))
 
-* **16** daily-ft-lk ([Torrential rains affect 6 districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0317577.json))
-
 * **16** ada-lk ([බංග්ලාදේශය පරදවමින් ශ්‍රී ලංකාව සුපිරි 4 දෙනාගේ වටයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5cf8914.json))
+
+* **12** daily-ft-lk ([IMF, Sri Lanka: The need for speed, sensitivity and for restructuring and reform](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecb681bd.json))
 
 * **2** colombo-telegraph-com ([Sri Lanka’s First Firm Steps At Economic Reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e88b3d3e.json))
 
