@@ -1,14 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 02:18:43 (LK time)*
+*As of 2022-09-03 02:42:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (21 Articles)
+## Last 3 Hours (18 Articles)
 
-* **9** daily-ft-lk ([Trouble in tourism: Part 2](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e4068d0.json))
+* **8** daily-ft-lk ([ALUMEX strengthens commitment to sustainability with Aluminium UBC collection project launch](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18ebd657.json))
 
-* **6** daily-mirror-lk ([Lankan envoy says IMF agreement gives much-needed confidence to lure investors](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb45622.json))
+* **4** daily-mirror-lk ([GR RETURNS TO SRI LANKA](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a56c78d1.json))
 
 * **3** tamil-mirror-lk ([இலங்கைக்கு ஆதரவளிப்போம்: பொரிஸ் ஜோன்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7937743.json))
 
