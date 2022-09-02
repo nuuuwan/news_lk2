@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 02:04:15 (LK time)*
+*As of 2022-09-03 02:18:43 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (22 Articles)
+## Last 3 Hours (21 Articles)
 
-* **10** daily-ft-lk ([Really real manner of managing Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81942de3.json))
+* **9** daily-ft-lk ([Trouble in tourism: Part 2](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e4068d0.json))
 
 * **6** daily-mirror-lk ([Lankan envoy says IMF agreement gives much-needed confidence to lure investors](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb45622.json))
 
