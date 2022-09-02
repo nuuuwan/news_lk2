@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-reforms-should-be-applicable-for-military-as-well-mp-99383/",
+    "time_ut": 1662135360,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s reforms should be applicable for military as well- MP",
+    "file_name": "/tmp/news_lk2/articles/90/90c5bad4.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/02/injunction-order-issued-against-nurses-tu-action/",
     "time_ut": 1662132960,
@@ -38,6 +46,14 @@
     "original_lang": "en",
     "original_title": "Dullas faction forms the Freedom People\u2019s Congress",
     "file_name": "/tmp/news_lk2/articles/20/203f63c7.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0dc0\u0d82\u0da0\u0db1\u0dd2\u0d9a\u0dba\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1-\u0dbb\u0da7\u0dda-\u0db1\u0dd3\u0dad\u0dd2\u0dba\u0d9a\u0dca-\u0db1\u0dd1/101-619213",
+    "time_ut": 1662131430,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0dc0\u0d82\u0da0\u0db1\u0dd2\u0d9a\u0dba\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1 \u0dbb\u0da7\u0dda \u0db1\u0dd3\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/6d/6d664fd7.json"
   },
   {
     "newspaper_id": "news-first-lk",
