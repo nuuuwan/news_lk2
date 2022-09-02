@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/02/singapore-president-congratulates-president-wickremesinghe/",
+    "time_ut": 1662130800,
+    "original_lang": "en",
+    "original_title": "Singapore President congratulates President Wickremesinghe",
+    "file_name": "/tmp/news_lk2/articles/04/04fd02ca.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/02/it-s-a-good-budget-mahinda-rajapaksa-on-budget-amendment-2022/",
     "time_ut": 1662128640,
     "original_lang": "en",

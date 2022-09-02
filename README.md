@@ -1,46 +1,44 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-02 20:18:03 (LK time)*
+*As of 2022-09-02 20:37:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** news-first-lk ([It’s a good budget – Mahinda Rajapaksa on Budget Amendment 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a99e033.json))
+* **1** news-first-lk ([Singapore President congratulates President Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04fd02ca.json))
 
 ## Last Hour (2 Articles)
 
-* **1** news-first-lk ([It’s a good budget – Mahinda Rajapaksa on Budget Amendment 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a99e033.json))
+* **2** news-first-lk ([It’s a good budget – Mahinda Rajapaksa on Budget Amendment 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a99e033.json))
 
-* **1** ada-derana-lk ([People benefitting from CBSL governor’s decisions: Sabry defends Dr. Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ed14f9.json))
+## Last 3 Hours (22 Articles)
 
-## Last 3 Hours (26 Articles)
+* **7** lankadeepa-lk ([ගෝඨා හෙට එයි: විශේෂ ආරක්ෂක වැඩපිළිවෙලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82bd77d0.json))
 
-* **8** lankadeepa-lk ([රනිල්ට නැති අනිත් නායකයන්ට ඇති දෙයක් හරීන් කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ecf77e4.json))
-
-* **5** news-first-lk ([Power Outages from 3rd to 5th Sept. announced](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/5112cc3b.json))
+* **5** news-first-lk ([Budget (Amendment) Bill passed in Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f529dee.json))
 
 * **4** ada-derana-lk ([Second Reading of Interim Budget 2022 passed in parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef4e23fe.json))
 
-* **4** ada-lk ([ඩලස්ලාගේ කණ්ඩායම අයවැයට ඡන්දය නොදෙන හේතුව](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4aecbb1d.json))
+* **2** ada-lk ([නව අධ්‍යන වර් ෂය තෙක් ගුරු ස්ථානමාරුවීම් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/327c954d.json))
 
-* **3** tamil-mirror-lk ([வாக்கெடுப்பு ஆரம்பமானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8894aab1.json))
+* **2** tamil-mirror-lk ([இரண்டாம் வாசிப்பு மீதான வாக்கெடுப்பு நிறைவேறியது.](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/cafbf323.json))
 
 * **1** economy-next-com ([Sri Lanka schedules shorter power cuts for Sep 04, 05, 06](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ac4617.json))
 
 * **1** daily-mirror-lk ([Interim budget passed with majority of 115 votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f29beb2b.json))
 
-## Last 24 Hours (185 Articles)
+## Last 24 Hours (182 Articles)
 
-* **46** lankadeepa-lk ([හත් හැවිරිදි දරුවාට කැති පහර දුන් නරුම සියා](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d72b869a.json))
+* **45** lankadeepa-lk ([‘‘මර්දනය තියෙන තුරු මේ රටට සල්ලි එවන්න එපා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecc6f2ef.json))
 
-* **33** news-first-lk ([Kegalle Shooting: SJB Organizer arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b7ed706.json))
+* **33** news-first-lk ([Record run chase puts Sri Lanka in Super Four of Asia Cup 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2ddd643f.json))
 
 * **24** tamil-mirror-lk ([ஆசியக் கிண்ணம்: பங்களாதேஷை வென்று சுப்பர் – 4-இல் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/3359f562.json))
 
 * **22** ada-derana-lk ([Various weaknesses and wrong policy decisions led to debt default - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/3953af73.json))
 
-* **20** daily-mirror-lk ([Fuel needed for gem industry in Ratnapura under QR code soon: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e7fc7d2.json))
+* **18** daily-mirror-lk ([Private buses lost their income due to protests: Bus Owners’](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/5523f805.json))
 
 * **17** ada-lk ([රාජ්‍ය සේවකයන්ගේ විශ්‍රාම වයස ගැන නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e35eae8b.json))
 
@@ -54,7 +52,7 @@
 
 * **1** d-b-s-jeyaraj-com ([The Tamil Factor  in  Sri Lanka’s First UNP- led “National” Govt of Premier Dudley Senanayake](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f7ee1af.json))
 
-## Last Week (667 Articles)
+## Last Week (668 Articles)
 
 * **118** lankadeepa-lk ([පොලිස් කීර්තිය වනසන පොලිසියේ අපතයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1595543b.json))
 
@@ -62,7 +60,7 @@
 
 * **79** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
-* **76** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **77** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **68** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
@@ -78,7 +76,7 @@
 
 * **12** colombo-telegraph-com ([Government’s Attempt To Redefine The Political Discourse & Direction Through Suppression](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/4487641d.json))
 
-## All Time (977 Articles)
+## All Time (978 Articles)
 
 * **180** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -90,7 +88,7 @@
 
 * **96** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf4124c.json))
 
-* **76** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **77** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **69** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
