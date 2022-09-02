@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 02:59:34 (LK time)*
+*As of 2022-09-03 03:18:30 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (3 Articles)
 
-* **5** daily-ft-lk ([Sri Lanka products promotion in Chinese TikTok Douyin draws over 1 mn views](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd77d74b.json))
+* **2** daily-mirror-lk ([Trade unions’ dilemma over IMF programme](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7cf5825.json))
 
-* **4** daily-mirror-lk ([GR RETURNS TO SRI LANKA](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a56c78d1.json))
-
-* **3** tamil-mirror-lk ([இலங்கைக்கு ஆதரவளிப்போம்: பொரிஸ் ஜோன்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7937743.json))
-
-* **1** ada-derana-lk ([Ex-Sri Lanka President Gotabaya returns to island](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/567cc272.json))
+* **1** tamil-mirror-lk ([நாடு திரும்பினார் கோட்டாபய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d64a4a3a.json))
 
 ## Last 24 Hours (204 Articles)
 
