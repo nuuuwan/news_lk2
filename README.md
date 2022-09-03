@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 01:03:52 (LK time)*
+*As of 2022-09-04 01:18:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** tamil-mirror-lk ([அத்தியாவசிய சேவைகளை உள்ளடக்கிய வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9b21a45.json))
-
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (7 Articles)
 
 * **3** tamil-mirror-lk ([ஆசியக் கிண்ணம்: ஆப்கானிஸ்தானை வீழ்த்திய இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/8535e383.json))
 
-* **3** ada-derana-lk ([Myanmar donates 1,000 tons of rice to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10b2a94c.json))
+* **2** ada-derana-lk ([WFP Regional Director for Asia and Pacific calls on Foreign Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a952c21d.json))
 
 * **2** daily-mirror-lk ([Sri Lanka beat Afghanistan in first Super Four clash](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/873e65a4.json))
 
