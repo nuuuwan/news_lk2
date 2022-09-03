@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b86\u0b9a\u0bbf\u0baf\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bc8-\u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8/44-303516",
+    "time_ut": 1662227778,
+    "original_lang": "ta",
+    "original_title": "\u0b86\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/85/8535e383.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84731/myanmar-donates-1000-tons-of-rice-to-sri-lanka-",
     "time_ut": 1662223380,
@@ -14,6 +22,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bc1 176 \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
     "file_name": "/tmp/news_lk2/articles/9d/9db01608.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbd\u0d9a\u0dca\u0dc2-67\u0d9a-\u0dbb\u0db1\u0dca-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0da7-\u0dbb\u0dd0\u0d9c\u0dd9\u0db1-\u0dba\u0db1\u0dca\u0db1-\u0db6\u0dd0\u0dbb\u0dd2\u0dc0\u0dd9\u0dba\u0dd2/11-396865",
+    "time_ut": 1662220063,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d9a\u0dca\u0dc2 67\u0d9a \u0dbb\u0db1\u0dca \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0da7 \u0dbb\u0dd0\u0d9c\u0dd9\u0db1 \u0dba\u0db1\u0dca\u0db1 \u0db6\u0dd0\u0dbb\u0dd2\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c4/c482aac2.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Relentless Struggle  by Tamil Mothers of \u201cDisappeared\u201d Reaches 2000 Day Landmark;Hundreds of Women Stage Rally in  northern Kilinochchi district seeking truth and justice for their loved ones forcibly disappeared during and after the civil war",
     "file_name": "/tmp/news_lk2/articles/c6/c6c068e2.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78966",
-    "time_ut": 1660244760,
-    "original_lang": "en",
-    "original_title": "Sri Lankan Govt Permits Chinese tracking ship \u201d Yuang Wang 5\u2033 to dock at Hambantota Port on August 16  following the failure of the Indian and US Governments to  provide  \u201cconcrete reasons\u201d for  their opposition to the  Vessel  arriving in H\u2019tota",
-    "file_name": "/tmp/news_lk2/articles/f9/f949eb95.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78969",
-    "time_ut": 1660243140,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s radical Leftist political parties,JVP and its breakaway faction, FSP galvanised the \u201cAragalaya \u201c(struggle)into an aggressive movement that eventually ousted the two Rajapaksa brothers from power",
-    "file_name": "/tmp/news_lk2/articles/78/78668862.json"
   }
 ]
