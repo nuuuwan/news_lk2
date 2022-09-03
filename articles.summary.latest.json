@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/more-arrests-for-damaging-mps-property/",
+    "time_ut": 1662183840,
+    "original_lang": "en",
+    "original_title": "More arrests for damaging MPs property",
+    "file_name": "/tmp/news_lk2/articles/f1/f1c9bd0f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da0\u0dd3\u0db1\u0dba\u0dda-\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb\u0dba-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-619226",
+    "time_ut": 1662183816,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1\u0dba\u0dda \u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb\u0dba \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/dd/dd01bee1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/China-willing-to-work-with-relevant-countries-to-ease-SLs-debt-burden/108-244257",
+    "time_ut": 1662183407,
+    "original_lang": "en",
+    "original_title": "China willing to work with relevant countries to ease SL\u2019s debt burden",
+    "file_name": "/tmp/news_lk2/articles/12/121b10d8.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0da7-\u0db4\u0db1\u0dd2\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-8\u0d9a\u0dca-\u0daf\u0dda\u0dc1\u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0dda\u0daf\u0dd3-\u0db8\u0dbb\u0dd4\u0da7/3-396855",
+    "time_ut": 1662183210,
+    "original_lang": "si",
+    "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0da7 \u0db4\u0db1\u0dd2\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba 8\u0d9a\u0dca \u0daf\u0dda\u0dc1\u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0dda\u0daf\u0dd3 \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/6c/6c500a06.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1/175-303482",
+    "time_ut": 1662183206,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/d7/d7f08e37.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db1\u0dd2\u0dba\u0db8\u0dd4-\u0dc0\u0dd0\u0da9-\u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0dbd\u0dd4\u0dc6\u0dca\u0dad\u0dcf\u0db1\u0dca\u0dc3\u0dcf-\u0db8\u0d9c\u0dd3\u0db1\u0dca-\u0dc4\u0dd2\u0dbb\u0dc0\u0dd9\u0dba\u0dd2/3-396854",
+    "time_ut": 1662183167,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd2\u0dba\u0db8\u0dd4 \u0dc0\u0dd0\u0da9 \u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0dd9\u0db1\u0dca \u0dbd\u0dd4\u0dc6\u0dca\u0dad\u0dcf\u0db1\u0dca\u0dc3\u0dcf \u0db8\u0d9c\u0dd3\u0db1\u0dca \u0dc4\u0dd2\u0dbb\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/80/807ed937.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1\u0dba-\u0d85\u0dad\u0dd2\u0dbb\u0dd2\u0d9a\u0dca\u0dad-\u0daf\u0dca\u200d\u0dbb\u0dc0-\u0dc3\u0dca\u0dc0\u0db7\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc0\u0dcf\u0dba\u0dd4\u0dc0-\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba\u0da7-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dba\u0dd2/3-396853",
+    "time_ut": 1662183103,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1\u0dba \u0d85\u0dad\u0dd2\u0dbb\u0dd2\u0d9a\u0dca\u0dad \u0daf\u0dca\u200d\u0dbb\u0dc0 \u0dc3\u0dca\u0dc0\u0db7\u0dcf\u0dc0\u0dd2\u0d9a \u0dc0\u0dcf\u0dba\u0dd4\u0dc0 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba\u0da7 \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/39/39ea42c5.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0d86\u0dbb\u0dca\u0da2\u0db1\u0dca\u0da7\u0dd2\u0db1\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dc4\u0db3\u0dd4\u0db1\u0dcf-\u0db1\u0ddc\u0d9c\u0dad\u0dca-\u0dbb\u0ddd\u0d9c\u0dd3-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca-/3-396852",
     "time_ut": 1662183050,
@@ -97,11 +153,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0db8\u0dd4\u0dc0\u0dcf-\u0dc0\u0dd3-\u0dc0\u0dd0\u0dbb\u0daf\u0dd2-\u0d9a\u0dc5-80\u0d9a\u0dca-\u0dbb\u0da7-\u0db4\u0dd0\u0db1\u0dbd\u0dcf/1-619225",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0db8\u0dd4\u0dc0\u0dcf-\u0dc0\u0dd3-\u0dc0\u0dd0\u0dbb\u0daf\u0dd2-\u0d9a\u0dc5-80\u0d9a\u0dca-\u0dbb\u0da7-\u0db4\u0dd0\u0db1\u0dbd\u0dcf/101-619225",
     "time_ut": 1662178837,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0db8\u0dd4\u0dc0\u0dcf \u0dc0\u0dd3 \u0dc0\u0dd0\u0dbb\u0daf\u0dd2 \u0d9a\u0dc5 80\u0d9a\u0dca \u0dbb\u0da7 \u0db4\u0dd0\u0db1\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/97/97d660e4.json"
+    "file_name": "/tmp/news_lk2/articles/8a/8ae2d1ec.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca \u0dc4\u0dd4\u0da7\u0db4\u0da7\u0dda\u0da7 \u0d88\u0db3\u0dd4\u0dab\u0dd4 \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0dc4\u0dcf\u0dc4\u0dd6\u0dc0",
     "file_name": "/tmp/news_lk2/articles/de/de7aef59.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0dca-\u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca-\u0dc4\u0daf\u0db8\u0dd4/2-616209",
-    "time_ut": 1657519863,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0dca \u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca \u0dc4\u0daf\u0db8\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/98/983ef751.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0daf\u0dd4\u0db1\u0dca-\u0dc3\u0db8\u0dcf\u0d9a\u0dcf\u0dbd\u0dba\u0da7-\u0dc3\u0dad\u0dd2-\u0daf\u0dd9\u0d9a\u0d9a\u0dca/7-395240",
-    "time_ut": 1657328050,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0daf\u0dd4\u0db1\u0dca \u0dc3\u0db8\u0dcf\u0d9a\u0dcf\u0dbd\u0dba\u0da7 \u0dc3\u0dad\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/78/7880ac84.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0d85\u0db4\u0dc4\u0dcf\u0dc3-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0d85\u0dbd\u0dd4\u200d\u0dad\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d9a\u0dcf\u0dbd\u0ddd\u0da0\u0dd2\u0dad\u0dba\u0dd2/2-616039",
-    "time_ut": 1657255054,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db4\u0dc4\u0dcf\u0dc3 \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0d85\u0dbd\u0dd4\u200d\u0dad\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d9a\u0dcf\u0dbd\u0ddd\u0da0\u0dd2\u0dad\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/2e/2e6d37eb.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0daf\u0dd2\u0dc5\u0dd2\u0db3\u0dd4\u0d9a\u0db8\u0dda-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0--\u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0db1\u0ddc\u0db4\u0dd9\u0db1\u0dda\u0daf-/117-616014",
-    "time_ut": 1657193190,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd2\u0dc5\u0dd2\u0db3\u0dd4\u0d9a\u0db8\u0dda \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0  \u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0db1\u0ddc\u0db4\u0dd9\u0db1\u0dda\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/06/065b9e8e.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba-\u0db6\u0dbb\u0db4\u0dad\u0dc5\u0dba\u0dd2--\u0dc0\u0dc4\u0dcf-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb-\u0d95\u0db1\u0dd1/117-615933",
-    "time_ut": 1657085230,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0db6\u0dbb\u0db4\u0dad\u0dc5\u0dba\u0dd2  \u0dc0\u0dc4\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb \u0d95\u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/bc/bcc96279.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0db4\u0dbb\u0dca\u0db4\u0dd9\u0da0\u0dd4\u0dc0\u0dbd\u0dca-\u0da7\u0dca\u200d\u0dbb\u0dd9\u0dc2\u0dbb\u0dd3\u0dc3\u0dca-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8-\u0daf\u0dd3\u0dbb\u0dca\u0d9d-\u0d9a\u0dbb\u0dba\u0dd2/7-395156",
-    "time_ut": 1657084385,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dbb\u0dca\u0db4\u0dd9\u0da0\u0dd4\u0dc0\u0dbd\u0dca \u0da7\u0dca\u200d\u0dbb\u0dd9\u0dc2\u0dbb\u0dd3\u0dc3\u0dca \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8 \u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/1b/1b26a820.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dbb\u0da7\u0da7-\u0db6\u0dbb\u0d9a\u0dca-\u0db1\u0ddc\u0dc0\u0dd2\u0dba-\u0dba\u0dd4\u0dad\u0dd4-\u0db4\u0dcf\u0da9\u0dd4-\u0dbd\u0db6\u0db1-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0d86\u0dba\u0dad\u0db1/2-615865",
-    "time_ut": 1656948255,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0da7\u0da7 \u0db6\u0dbb\u0d9a\u0dca \u0db1\u0ddc\u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0db4\u0dcf\u0da9\u0dd4 \u0dbd\u0db6\u0db1 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d86\u0dba\u0dad\u0db1",
-    "file_name": "/tmp/news_lk2/articles/6b/6b67e763.json"
   }
 ]
