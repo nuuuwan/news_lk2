@@ -1,22 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 23:05:49 (LK time)*
+*As of 2022-09-03 23:19:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** ada-derana-lk ([Myanmar donates 1,000 tons of rice to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10b2a94c.json))
-
-## Last 3 Hours (8 Articles)
-
-* **4** news-first-lk ([Conspiracy against CBSL Governor: Sajith questions ulterior motives](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a83bf2e0.json))
+## Last 3 Hours (5 Articles)
 
 * **3** tamil-mirror-lk ([எல்ல ஓடிசி ரயில் சேவை அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add66a26.json))
 
 * **1** ada-derana-lk ([Myanmar donates 1,000 tons of rice to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10b2a94c.json))
 
-## Last 24 Hours (149 Articles)
+* **1** news-first-lk ([If IMF reforms not implemented, Sri Lanka goes back to square one – CBSL Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f90622fd.json))
+
+## Last 24 Hours (148 Articles)
 
 * **29** news-first-lk ([Ex-President Rajapaka returns to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5dfbe33a.json))
 
@@ -28,9 +24,9 @@
 
 * **21** ada-lk ([ගෝඨා පැමිණෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35251aa2.json))
 
-* **10** daily-ft-lk ([Really real manner of managing Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81942de3.json))
-
 * **9** daily-mirror-lk ([Lankan envoy says IMF agreement gives much-needed confidence to lure investors](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb45622.json))
+
+* **9** daily-ft-lk ([Trouble in tourism: Part 2](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e4068d0.json))
 
 * **4** economy-next-com ([Sri Lanka’s ousted president returns amid tight security](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30920761.json))
 
