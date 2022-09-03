@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/associate-of-kudu-salindu-arrested/",
+    "time_ut": 1662182280,
+    "original_lang": "en",
+    "original_title": "Associate of \u201cKudu Salindu\u201d arrested",
+    "file_name": "/tmp/news_lk2/articles/39/39d15aef.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/mobile-broadband-pay-tv-charges-increased/",
+    "time_ut": 1662181500,
+    "original_lang": "en",
+    "original_title": "Mobile, Broadband, & Pay TV charges increased",
+    "file_name": "/tmp/news_lk2/articles/37/37b5826f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-parliament-to-meet-again-from-september-06-09-99402/",
+    "time_ut": 1662181200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Parliament to meet again from September 06-09",
+    "file_name": "/tmp/news_lk2/articles/0a/0aeecce7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/03/update-in-fuel-for-factories/",
     "time_ut": 1662180300,
     "original_lang": "en",
@@ -393,11 +417,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business__main/August-tourist-arrivals-dip-20-from-July/245-244249",
+    "url": "https://www.dailymirror.lk/breaking_news/August-tourist-arrivals-dip-20-from-July/108-244249",
     "time_ut": 1662142143,
     "original_lang": "en",
     "original_title": "August tourist arrivals dip 20% from July",
-    "file_name": "/tmp/news_lk2/articles/59/59f94afb.json"
+    "file_name": "/tmp/news_lk2/articles/c1/c1d9614d.json"
   },
   {
     "newspaper_id": "daily-ft-lk",

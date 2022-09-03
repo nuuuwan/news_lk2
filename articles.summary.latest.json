@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/associate-of-kudu-salindu-arrested/",
+    "time_ut": 1662182280,
+    "original_lang": "en",
+    "original_title": "Associate of \u201cKudu Salindu\u201d arrested",
+    "file_name": "/tmp/news_lk2/articles/39/39d15aef.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/mobile-broadband-pay-tv-charges-increased/",
+    "time_ut": 1662181500,
+    "original_lang": "en",
+    "original_title": "Mobile, Broadband, & Pay TV charges increased",
+    "file_name": "/tmp/news_lk2/articles/37/37b5826f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-parliament-to-meet-again-from-september-06-09-99402/",
+    "time_ut": 1662181200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Parliament to meet again from September 06-09",
+    "file_name": "/tmp/news_lk2/articles/0a/0aeecce7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/03/update-in-fuel-for-factories/",
     "time_ut": 1662180300,
     "original_lang": "en",
@@ -393,11 +417,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business__main/August-tourist-arrivals-dip-20-from-July/245-244249",
+    "url": "https://www.dailymirror.lk/breaking_news/August-tourist-arrivals-dip-20-from-July/108-244249",
     "time_ut": 1662142143,
     "original_lang": "en",
     "original_title": "August tourist arrivals dip 20% from July",
-    "file_name": "/tmp/news_lk2/articles/59/59f94afb.json"
+    "file_name": "/tmp/news_lk2/articles/c1/c1d9614d.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d87\u0db8\u0dad\u0dd2 \u0d9a\u0dbd\u0dd2\u0db1\u0dca\u0db8 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/db/db5d42fc.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d9c\u0dd9\u0dc0\u0dd4\u0dab\u0dd4-\u0db8\u0dcf\u0dc3-5\u0d9a-\u0d9a\u0dcf\u0dbd\u0dba\u0dda-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0da9\u0ddc-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-5\u0d9a\u0dca/7-394874",
-    "time_ut": 1656316187,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0dd9\u0dc0\u0dd4\u0dab\u0dd4 \u0db8\u0dcf\u0dc3 5\u0d9a \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0d85\u0db4\u0db1\u0dba\u0db1 \u0da9\u0ddc.\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 5\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/7b/7b261fba.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dda-\u0db1\u0db8\u0dca\u200d\u0dba\u0dc1\u0dd3\u0dbd\u0dd3-\u0dad\u0dd3\u0dbb\u0dab\u0dba-\u0dc4\u0dd4\u0daf\u0d9a\u0dbd\u0dcf-\u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca-\u0db1\u0ddc\u0dc0\u0dda/7-394854",
-    "time_ut": 1656299568,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dda \u0db1\u0db8\u0dca\u200d\u0dba\u0dc1\u0dd3\u0dbd\u0dd3 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0dc4\u0dd4\u0daf\u0d9a\u0dbd\u0dcf \u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca \u0db1\u0ddc\u0dc0\u0dda",
-    "file_name": "/tmp/news_lk2/articles/8e/8e96e960.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dc3\u0db1\u0dca\u0dad\u0d9a\u0dba\u0dda-\u0dad\u0db6\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0db1\u0dc0\u0dad\u0db8-\u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0db1\u0dca/7-394811",
-    "time_ut": 1656134927,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc3\u0db1\u0dca\u0dad\u0d9a\u0dba\u0dda \u0dad\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0db1\u0dc0\u0dad\u0db8 \u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/f1/f1627303.json"
   }
 ]
