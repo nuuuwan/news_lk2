@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 03:01:35 (LK time)*
+*As of 2022-09-04 03:23:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 3 Hours (1 Articles)
-
-* **1** tamil-mirror-lk ([அத்தியாவசிய சேவைகளை உள்ளடக்கிய வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9b21a45.json))
 
 ## Last 24 Hours (131 Articles)
 
