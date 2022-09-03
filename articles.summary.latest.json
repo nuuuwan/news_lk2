@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/if-imf-reforms-not-implemented-sri-lanka-goes-back-to-square-one-cbsl-chief/",
+    "time_ut": 1662217140,
+    "original_lang": "en",
+    "original_title": "If IMF reforms not implemented, Sri Lanka goes back to square one \u2013 CBSL Chief",
+    "file_name": "/tmp/news_lk2/articles/f9/f90622fd.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/jvp-demands-president-make-imf-conditions-public/",
+    "time_ut": 1662216240,
+    "original_lang": "en",
+    "original_title": "JVP demands President make IMF conditions public",
+    "file_name": "/tmp/news_lk2/articles/17/17296333.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/03/foreign-national-arrested-at-bia-with-gold-biscuits/",
     "time_ut": 1662216120,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "\u201cGota Go Home\u201d Protest That Began at Galle Face on April 9 Ends After 4 Months on Augut 9 but \u201cAragalaya\u201d(struggle) will Continue in Different Forms;Protesters Withdrwa 4 Writs Filed in Appeal Court against Removal of Site;Organizers Allege bulk of 43 Tents have been stolen by third parties",
     "file_name": "/tmp/news_lk2/articles/1a/1ad5d93f.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78937",
-    "time_ut": 1660071960,
-    "original_lang": "en",
-    "original_title": "Ranil Wickremesinghe Makes First Official Visit as Elected President to Army Headquarters and thanks Military for Protecting Parliament and Preventing its seizure by a group without Opening Fire on People",
-    "file_name": "/tmp/news_lk2/articles/92/926b1542.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78935",
-    "time_ut": 1660071420,
-    "original_lang": "en",
-    "original_title": "Ex- Sri Lankan President Gotabaya Rajapaksa  Likely to move from Singapore to Thailand for Temporary Stay; \u201cThe Sri Lankan side informs us that the former president has no intention for political asylum in Thailand and will travel to another country afterwards.\u201d Says Thai Foreign Ministry Spokesman Tanee Sangrat",
-    "file_name": "/tmp/news_lk2/articles/7f/7f672d81.json"
   }
 ]

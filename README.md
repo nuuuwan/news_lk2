@@ -1,26 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 20:23:21 (LK time)*
+*As of 2022-09-03 20:38:54 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **2** news-first-lk ([Conspiracy against CBSL Governor: Sajith questions ulterior motives](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a83bf2e0.json))
+* **4** news-first-lk ([Conspiracy against CBSL Governor: Sajith questions ulterior motives](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a83bf2e0.json))
 
-* **1** tamil-mirror-lk ([நிரந்தர அமைச்சரவை  மேலும் தாமதமாகும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/42b786af.json))
+## Last Hour (6 Articles)
 
-## Last Hour (4 Articles)
-
-* **3** news-first-lk ([Legal action against 75 egg traders](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f2d0046.json))
+* **5** news-first-lk ([Legal action against 75 egg traders](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f2d0046.json))
 
 * **1** tamil-mirror-lk ([நிரந்தர அமைச்சரவை  மேலும் தாமதமாகும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/42b786af.json))
 
-## Last 3 Hours (18 Articles)
+## Last 3 Hours (19 Articles)
 
-* **6** lankadeepa-lk ([කෝටි 20,000ක හිඟ බිල්පත් මහා භාණ්ඩාගාරයේ හිර වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ebea194.json))
+* **6** news-first-lk ([Paris Club to initiate debt relief program for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8b0668e.json))
 
-* **4** news-first-lk ([Paris Club to initiate debt relief program for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8b0668e.json))
+* **5** lankadeepa-lk ([අයි.එම්.එෆ් සාකච්ඡා දෙස බලා පැරිස් සමාජයත් ලංකාවට අත දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcfb94ea.json))
 
 * **4** tamil-mirror-lk ([உதிர்ந்த மொட்டுக்குள் உட்பூசல் உக்கிரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4be8b74d.json))
 
@@ -28,9 +26,9 @@
 
 * **1** ada-lk ([ඉදිරි මාස දෙකේ ඉන්ධන අවශ්‍යතාව ගැන සාමාලෝචනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ab2fb64.json))
 
-## Last 24 Hours (157 Articles)
+## Last 24 Hours (158 Articles)
 
-* **33** news-first-lk ([Singapore President congratulates President Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04fd02ca.json))
+* **34** news-first-lk ([Dullas faction forms the Freedom People’s Congress](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/203f63c7.json))
 
 * **24** tamil-mirror-lk ([இலங்கைக்கு ஆதரவளிப்போம்: பொரிஸ் ஜோன்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7937743.json))
 
@@ -50,11 +48,11 @@
 
 * **1** colombo-telegraph-com ([End Casino Capitalism: Sri Lanka To Join The Global Minimum Tax Agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58501d74.json))
 
-## Last Week (808 Articles)
+## Last Week (810 Articles)
 
 * **140** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
-* **109** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **111** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **99** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
@@ -74,7 +72,7 @@
 
 * **13** colombo-telegraph-com ([Let’s Have Fun Today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3c2675e.json))
 
-## All Time (1,144 Articles)
+## All Time (1,146 Articles)
 
 * **205** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -84,7 +82,7 @@
 
 * **115** d-b-s-jeyaraj-com ([The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f93260b.json))
 
-* **109** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **111** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **106** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf4124c.json))
 
