@@ -1,36 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 13:05:01 (LK time)*
+*As of 2022-09-03 13:21:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** news-first-lk ([Gotabaya to receive entitlements provided to ex-President](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37c515a9.json))
+
+## Last Hour (5 Articles)
+
+* **2** news-first-lk ([Tourist arrivals record rise in July](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/7587dc66.json))
 
 * **1** daily-mirror-lk ([GR returns](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79323a68.json))
 
 * **1** ada-derana-lk ([Veteran actor Anura Medagoda passes away](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32e2718c.json))
-
-* **1** news-first-lk ([Tourist arrivals record rise in July](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/7587dc66.json))
-
-## Last Hour (7 Articles)
-
-* **2** lankadeepa-lk ([මුල්‍ය පාලන නීතිරීති තවත් දැඩි කරන්න ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f3cb50c.json))
-
-* **1** daily-mirror-lk ([GR returns](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79323a68.json))
-
-* **1** ada-derana-lk ([Veteran actor Anura Medagoda passes away](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32e2718c.json))
-
-* **1** news-first-lk ([Tourist arrivals record rise in July](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/7587dc66.json))
 
 * **1** economy-next-com ([Sri Lanka coconut prices fall at auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3748609.json))
 
-* **1** ada-lk ([දුරකතන, බ්‍රෝඩ්බෑන්ඩ් හා රූපවාහිනී ගාස්තු ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60acad0e.json))
-
-## Last 3 Hours (34 Articles)
+## Last 3 Hours (32 Articles)
 
 * **12** ada-lk ([සංචාරක පැමිණීම්වල පහළ යෑමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d603694c.json))
 
-* **10** news-first-lk ([Eggs for wholesale traders at Rs. 46/-](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de59a513.json))
+* **8** news-first-lk ([Mobile, Broadband, & Pay TV charges increased](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37b5826f.json))
 
 * **3** lankadeepa-lk ([චීනයේ ස්ථාවරය කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd01bee1.json))
 
@@ -42,11 +34,11 @@
 
 * **2** economy-next-com ([Sri Lanka Parliament to meet again from September 06-09](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0aeecce7.json))
 
-## Last 24 Hours (186 Articles)
+## Last 24 Hours (184 Articles)
 
-* **41** news-first-lk ([Basil allowed to travel to US until Jan. 2023](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7ab53db9.json))
+* **41** news-first-lk ([Policy makers should take note of harm caused by industrial agricultural practices](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d73d445c.json))
 
-* **33** lankadeepa-lk ([ජනතාවට තොරතුරු ගන්න ජනපති කාර්යාලයෙන් දුරකථන අංක දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7146a3c.json))
+* **32** lankadeepa-lk ([කොහාගෙ බිත්තර කන්න එන නයි පොළොඟුන්ට කොටනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ccce737.json))
 
 * **24** ada-lk ([නන්දලාල් වෙනුවට මම යන්නම් - සබ්‍රි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc0cf9fa.json))
 
@@ -54,7 +46,7 @@
 
 * **21** ada-derana-lk ([Overseas travel ban on Basil temporarily lifted](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/028b6641.json))
 
-* **16** economy-next-com ([Vietnam rises strongly from Covid, keeps inflation down as 77 national day celebrated](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72b5e9af.json))
+* **15** economy-next-com ([Sri Lanka’s state-run Litro Gas to drop cooking gas prices from Sep 05](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a3f9c1a.json))
 
 * **13** daily-mirror-lk ([Supreme Court allows Basil to travel USA for four months](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/138a84f0.json))
 
@@ -64,11 +56,11 @@
 
 * **2** colombo-telegraph-com ([Cinematographer Donald Karunaratne, Who Passed Away In LA, Planned Ahas Gawwa Sequel](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4c08fd7.json))
 
-## Last Week (753 Articles)
+## Last Week (754 Articles)
 
 * **125** lankadeepa-lk ([දවල් මිගෙල් රෑ දනියෙල් ප්‍රකාශකයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d02aea1.json))
 
-* **96** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **97** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **94** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
@@ -88,7 +80,7 @@
 
 * **13** colombo-telegraph-com ([Let’s Have Fun Today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3c2675e.json))
 
-## All Time (1,087 Articles)
+## All Time (1,088 Articles)
 
 * **189** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -100,7 +92,7 @@
 
 * **106** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf4124c.json))
 
-* **96** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **97** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **81** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
