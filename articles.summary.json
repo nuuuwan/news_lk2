@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0baa\u0bc1\u0b95\u0bb4\u0bbe\u0bb0\u0bae\u0bcd/175-303517",
+    "time_ut": 1662229723,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0baa\u0bc1\u0b95\u0bb4\u0bbe\u0bb0\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/36/362ebc90.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84732/wfp-regional-director-for-asia-and-pacific-calls-on-foreign-minister-ali-sabry",
+    "time_ut": 1662229680,
+    "original_lang": "en",
+    "original_title": "WFP Regional Director for Asia and Pacific calls on Foreign Minister Ali Sabry",
+    "file_name": "/tmp/news_lk2/articles/c8/c84c44ed.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Rape-accused-Nithyananda-seeks-medical-asylum-in-Sri-Lanka/108-244262",
+    "time_ut": 1662229331,
+    "original_lang": "en",
+    "original_title": "Rape accused Nithyananda seeks medical asylum in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/41/41bb8361.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-beat-Afghanistan-in-first-Super-Four-clash/108-244261",
+    "time_ut": 1662228697,
+    "original_lang": "en",
+    "original_title": "Sri Lanka beat Afghanistan in first Super Four clash",
+    "file_name": "/tmp/news_lk2/articles/87/873e65a4.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b86\u0b9a\u0bbf\u0baf\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bc8-\u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8/44-303516",
     "time_ut": 1662227778,
     "original_lang": "ta",
@@ -182,6 +214,14 @@
     "original_lang": "en",
     "original_title": "Paris Club to initiate debt relief program for Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/e8/e8b0668e.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/i-am-not-interested-in-becoming-a-minister-for-the-glamour/",
+    "time_ut": 1662209275,
+    "original_lang": "en",
+    "original_title": "I Am Not Interested In Becoming A Minister For The Glamour",
+    "file_name": "/tmp/news_lk2/articles/f1/f11176cf.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
