@@ -1,22 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 06:36:44 (LK time)*
+*As of 2022-09-03 07:16:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (197 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **42** lankadeepa-lk ([වායුගෝලීය කැළඹිලි තත්වය ක්‍රමයෙන් ඉවත්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b0b1ca3.json))
+* **1** lankadeepa-lk ([හිටපු ජනපති ගෝඨාභය යළි පැමිණෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7793224.json))
+
+## Last Hour (1 Articles)
+
+* **1** lankadeepa-lk ([හිටපු ජනපති ගෝඨාභය යළි පැමිණෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7793224.json))
+
+## Last 3 Hours (1 Articles)
+
+* **1** lankadeepa-lk ([හිටපු ජනපති ගෝඨාභය යළි පැමිණෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7793224.json))
+
+## Last 24 Hours (196 Articles)
+
+* **43** lankadeepa-lk ([වායුගෝලීය කැළඹිලි තත්වය ක්‍රමයෙන් ඉවත්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b0b1ca3.json))
 
 * **38** news-first-lk ([Record run chase puts Sri Lanka in Super Four of Asia Cup 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2ddd643f.json))
 
 * **27** tamil-mirror-lk ([இன்றைய வானிலை தொடர்பான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/0594ce02.json))
 
-* **23** ada-derana-lk ([Low-level atmospheric disturbance gradually moving away](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/577135ef.json))
-
-* **17** daily-mirror-lk ([Another man shot to death in Middeniya](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c296798.json))
+* **22** ada-derana-lk ([Man shot dead in Middeniya](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84ab9385.json))
 
 * **17** economy-next-com ([Sri Lanka CPC assets, accounts to be audited: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/5691f850.json))
+
+* **16** daily-mirror-lk ([Indian assets of Lankan man seized in money laundering case](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/5720ab56.json))
 
 * **16** ada-lk ([බංග්ලාදේශය පරදවමින් ශ්‍රී ලංකාව සුපිරි 4 දෙනාගේ වටයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5cf8914.json))
 
@@ -26,9 +38,9 @@
 
 * **2** colombo-telegraph-com ([Sri Lanka’s First Firm Steps At Economic Reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e88b3d3e.json))
 
-## Last Week (694 Articles)
+## Last Week (695 Articles)
 
-* **120** lankadeepa-lk ([පොලිස් කීර්තිය වනසන පොලිසියේ අපතයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1595543b.json))
+* **121** lankadeepa-lk ([පොලිස් කීර්තිය වනසන පොලිසියේ අපතයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1595543b.json))
 
 * **89** daily-mirror-lk ([China says Ball is in Sri Lanka’s court](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1a1abcb.json))
 
@@ -50,9 +62,9 @@
 
 * **12** colombo-telegraph-com ([Let’s Have Fun Today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3c2675e.json))
 
-## All Time (1,025 Articles)
+## All Time (1,026 Articles)
 
-* **182** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **183** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **134** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
 
