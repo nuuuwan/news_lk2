@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 03:23:04 (LK time)*
+*As of 2022-09-04 03:37:42 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -22,7 +22,7 @@
 
 * **2** colombo-telegraph-com ([End Casino Capitalism: Sri Lanka To Join The Global Minimum Tax Agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58501d74.json))
 
-## Last Week (819 Articles)
+## Last Week (818 Articles)
 
 * **140** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
@@ -42,7 +42,7 @@
 
 * **34** island-lk ([Ditch the phone before bed! 16 tips for a good night’s sleep](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87ee4f90.json))
 
-* **19** d-b-s-jeyaraj-com ([India’s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d409b1cb.json))
+* **18** d-b-s-jeyaraj-com ([Power and Energy Minister Kanchana Wijesekera  defends decision to increase electricity tariffs, citing spendthrift generation plans and unsuitable policies adopted by successive governments pushed for the inevitable upward adjustments.](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bafcb9f4.json))
 
 * **14** colombo-telegraph-com ([Let’s Have Fun Today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3c2675e.json))
 
