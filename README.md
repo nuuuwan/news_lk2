@@ -1,14 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 05:08:11 (LK time)*
+*As of 2022-09-04 05:23:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (131 Articles)
+## Last 24 Hours (132 Articles)
 
 * **29** news-first-lk ([Ex-President Rajapaka returns to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5dfbe33a.json))
 
-* **26** tamil-mirror-lk ([100 மில்லி மீற்றருக்கும் அதிக மழை வீழ்ச்சி](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9edd9808.json))
+* **27** tamil-mirror-lk ([100 மில்லி மீற்றருக்கும் அதிக மழை வீழ்ச்சி](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9edd9808.json))
 
 * **23** lankadeepa-lk ([හිටපු ජනපති ගෝඨාභය යළි පැමිණෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7793224.json))
 
@@ -22,7 +22,7 @@
 
 * **2** colombo-telegraph-com ([End Casino Capitalism: Sri Lanka To Join The Global Minimum Tax Agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58501d74.json))
 
-## Last Week (818 Articles)
+## Last Week (829 Articles)
 
 * **140** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
@@ -30,7 +30,7 @@
 
 * **101** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
-* **98** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
+* **99** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
 * **94** daily-mirror-lk ([Chinese company refuses to budge](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab41ab08.json))
 
@@ -40,13 +40,13 @@
 
 * **51** daily-ft-lk ([Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc758d4.json))
 
-* **34** island-lk ([Ditch the phone before bed! 16 tips for a good night’s sleep](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87ee4f90.json))
+* **44** island-lk ([Ditch the phone before bed! 16 tips for a good night’s sleep](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87ee4f90.json))
 
 * **18** d-b-s-jeyaraj-com ([Power and Energy Minister Kanchana Wijesekera  defends decision to increase electricity tariffs, citing spendthrift generation plans and unsuitable policies adopted by successive governments pushed for the inevitable upward adjustments.](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bafcb9f4.json))
 
 * **14** colombo-telegraph-com ([Let’s Have Fun Today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3c2675e.json))
 
-## All Time (1,160 Articles)
+## All Time (1,172 Articles)
 
 * **205** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -60,12 +60,12 @@
 
 * **106** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf4124c.json))
 
-* **99** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **100** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **86** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
 * **72** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
 
-* **47** island-lk ([Gotabaya Rajapaksa, in retrospect](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/406a09fd.json))
+* **58** island-lk ([Gotabaya Rajapaksa, in retrospect](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/406a09fd.json))
 
 * **27** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))
