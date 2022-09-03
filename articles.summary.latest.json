@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0d9a\u0d9a\u0dd4\u0dbd\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba-\u0dbd\u0dd2\u0dba\u0dcf-\u0d8b\u0dc3\u0dc3\u0dca-\u0db4\u0dd9\u0dc5-\u0d89\u0dc4\u0dbd\u0dd2\u0db1\u0dca\u0db8-\u0dc3\u0db8\u0dad\u0dca-\u0dc0\u0dd6-\u0daf\u0ddb\u0dc0\u0dba\u0da7-\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c-\u0d9a\u0dbd-\u0daf\u0dd2\u0dbb\u0dd2\u0dba-\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba/2-619235",
+    "time_ut": 1662202418,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0d9a\u0dd4\u0dbd\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba \u0dbd\u0dd2\u0dba\u0dcf \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0d89\u0dc4\u0dbd\u0dd2\u0db1\u0dca\u0db8 \u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd6 \u0daf\u0ddb\u0dc0\u0dba\u0da7 \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c \u0d9a\u0dbd \u0daf\u0dd2\u0dbb\u0dd2\u0dba \u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba",
+    "file_name": "/tmp/news_lk2/articles/d0/d0110db7.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-303494",
     "time_ut": 1662201875,
     "original_lang": "ta",
     "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/00/00f6c56e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd/175-303494",
+    "time_ut": 1662201875,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/ae/aef39203.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -62,6 +78,14 @@
     "original_lang": "en",
     "original_title": "MPs visit former President at his residence",
     "file_name": "/tmp/news_lk2/articles/a4/a471240f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0db1\u0dca-\u0dbb\u0dcf\u0dad\u0dca\u0dad\u0dbd\u0d9a-\u0db8\u0dd2\u0dbd-\u0dbb\u0dd4-300\u0da7-\u0d91\u0dba\u0dd2/11-396861",
+    "time_ut": 1662199785,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0db1\u0dca \u0dbb\u0dcf\u0dad\u0dca\u0dad\u0dbd\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4 300\u0da7 \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/91/91277d21.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "President Wickremesinghe will resist any call for him to quit and serve till November 2024 when the next presidential poll is due. As he enjoys majority support he will be in no hurry to call for a general election, as his detractors have demanded.",
     "file_name": "/tmp/news_lk2/articles/10/10afe490.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78773",
-    "time_ut": 1659382860,
-    "original_lang": "en",
-    "original_title": "Dr. Neelan Tiruchelvam, his Devolution  Package and the LTTE",
-    "file_name": "/tmp/news_lk2/articles/1b/1b7a31e0.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78842",
-    "time_ut": 1659381300,
-    "original_lang": "en",
-    "original_title": "U.S. House Speaker Nancy Pelosi arrives in Taiwan  on Tuesday Evening despite threats from Beijing of serious consequences  and Countermeasures",
-    "file_name": "/tmp/news_lk2/articles/50/50fb2786.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78846",
-    "time_ut": 1659380760,
-    "original_lang": "en",
-    "original_title": "Gotabaya  relinquishing the presidency and fleeing  can be considered as a special situation caused by the weak and foolish manner in which President Rajapaksa faced the challenge posed by the Aragalaya rather than an outcome of the strength or wisdom of the Aragalaya itself",
-    "file_name": "/tmp/news_lk2/articles/a2/a2476f30.json"
   }
 ]
