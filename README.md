@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 15:19:09 (LK time)*
+*As of 2022-09-03 15:40:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** daily-mirror-lk ([Telecommunication providers up service charges, VAT](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f7ea8aa.json))
+
+## Last Hour (4 Articles)
+
+* **1** daily-mirror-lk ([Telecommunication providers up service charges, VAT](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f7ea8aa.json))
 
 * **1** tamil-mirror-lk ([நடுநிசியில் வரவேற்பு: நண்பகலில் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfc40e7e.json))
 
 * **1** ada-derana-lk ([Price of loaf of bread to increase further](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7156d47.json))
 
-## Last Hour (5 Articles)
-
-* **3** tamil-mirror-lk ([சர்ச்சைக்குரிய சாமியார் ஜனாதிபதி ரணிலுக்கு கடிதம்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20a493c3.json))
-
-* **1** ada-derana-lk ([Price of loaf of bread to increase further](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7156d47.json))
-
 * **1** lankadeepa-lk ([බදු හොරුන්ට උදව් කරන නිලධාරීන් හයසියයක් ගැන පරීක්ෂණ](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c4307.json))
 
-## Last 3 Hours (20 Articles)
+## Last 3 Hours (19 Articles)
 
 * **5** news-first-lk ([Tourist arrivals record rise in July](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/7587dc66.json))
 
@@ -28,17 +28,15 @@
 
 * **3** tamil-mirror-lk ([சர்ச்சைக்குரிய சாமியார் ஜனாதிபதி ரணிலுக்கு கடிதம்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20a493c3.json))
 
-* **2** ada-lk ([දුරකතන, බ්‍රෝඩ්බෑන්ඩ් හා රූපවාහිනී ගාස්තු ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60acad0e.json))
+* **2** daily-mirror-lk ([GR returns](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79323a68.json))
 
-* **1** daily-mirror-lk ([GR returns](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79323a68.json))
+* **1** ada-lk ([හිටපු ජනපති පැමිණි අවස්ථාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a8b27b8.json))
 
-* **1** economy-next-com ([Sri Lanka coconut prices fall at auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3748609.json))
+## Last 24 Hours (170 Articles)
 
-## Last 24 Hours (172 Articles)
+* **33** news-first-lk ([Political instability will pose risks to implement reforms, and distribution of IMF funding – Fitch](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29311d64.json))
 
-* **34** news-first-lk ([18-hr water cut for the weekend](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da700697.json))
-
-* **33** lankadeepa-lk ([ගුවන් යානා සඳහා දෛනිකව අවශ්‍ය ජෙට්ඉන්ධන ප්‍රමාණවත් නැහැ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15b95bd4.json))
+* **31** lankadeepa-lk ([වී ගන්න වෙන් කළ මුදල පරණ ණයකට හිලව් කළ පලහිලව්ව විසඳෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fbf7529b.json))
 
 * **22** ada-derana-lk ([Court dismisses petition challenging amendments to SLFP constitution](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de245907.json))
 
@@ -46,9 +44,9 @@
 
 * **21** ada-lk ([බෙහෙත් ගන්න බැසිල්ට ඇමෙරිකාවට යන්න අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4abf3445.json))
 
-* **13** economy-next-com ([Up to 6.3 million people face food insecurity in cash-strapped Sri Lanka: WFP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56a8436e.json))
+* **13** daily-mirror-lk ([Take action against those responsible before privatising loss-making state entities: AKD](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48bcdbec.json))
 
-* **12** daily-mirror-lk ([Take action against those responsible before privatising loss-making state entities: AKD](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48bcdbec.json))
+* **13** economy-next-com ([Up to 6.3 million people face food insecurity in cash-strapped Sri Lanka: WFP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56a8436e.json))
 
 * **10** daily-ft-lk ([Really real manner of managing Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81942de3.json))
 
@@ -56,7 +54,7 @@
 
 * **2** colombo-telegraph-com ([Cinematographer Donald Karunaratne, Who Passed Away In LA, Planned Ahas Gawwa Sequel](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4c08fd7.json))
 
-## Last Week (768 Articles)
+## Last Week (769 Articles)
 
 * **129** lankadeepa-lk ([දවල් මිගෙල් රෑ දනියෙල් ප්‍රකාශකයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d02aea1.json))
 
@@ -64,7 +62,7 @@
 
 * **95** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
-* **92** daily-mirror-lk ([India responds to Chinese Ambassador’s remarks on SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dcaea165.json))
+* **93** daily-mirror-lk ([India responds to Chinese Ambassador’s remarks on SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dcaea165.json))
 
 * **83** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
@@ -80,13 +78,13 @@
 
 * **13** colombo-telegraph-com ([Let’s Have Fun Today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3c2675e.json))
 
-## All Time (1,102 Articles)
+## All Time (1,103 Articles)
 
 * **193** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **145** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **138** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
+* **139** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
 
 * **115** d-b-s-jeyaraj-com ([The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f93260b.json))
 

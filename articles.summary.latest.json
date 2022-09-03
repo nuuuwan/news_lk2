@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Telecommunication-providers-up-service-charges-VAT/108-244260",
+    "time_ut": 1662198325,
+    "original_lang": "en",
+    "original_title": "Telecommunication providers up service charges, VAT",
+    "file_name": "/tmp/news_lk2/articles/7f/7f7ea8aa.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0b9f\u0bc1\u0ba8\u0bbf\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0baa\u0bc1-\u0ba8\u0ba3\u0bcd\u0baa\u0b95\u0bb2\u0bbf\u0bb2\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/46-303489",
     "time_ut": 1662197659,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0db6\u0dd2\u0dc4\u0dd2\u0dc0\u0dd3\u0db8\u0dda \u0dc4\u0dda\u0dad\u0dd4 \u0dc3\u0ddc\u0dba\u0dcf \u0d8a\u0da7 \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1",
     "file_name": "/tmp/news_lk2/articles/c2/c299bfec.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dd6-\u0db4\u0dca\u200d\u0dbb\u0dae\u0db8-\u0db4\u0dd6\u0dbb\u0dca\u0dab--\u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca-\u0d9a\u0dcf\u0dbb\u0dba--Moksha-\u0d91\u0dc5\u0dd2\u0daf\u0d9a\u0dd3/7-395835",
-    "time_ut": 1659006477,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dd6 \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0db4\u0dd6\u0dbb\u0dca\u0dab  \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0d9a\u0dcf\u0dbb\u0dba, Moksha \u0d91\u0dc5\u0dd2\u0daf\u0d9a\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/89/894c5069.json"
   }
 ]
