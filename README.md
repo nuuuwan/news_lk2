@@ -1,46 +1,44 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 14:03:59 (LK time)*
+*As of 2022-09-03 14:22:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (5 Articles)
 
-* **2** news-first-lk ([EU welcomes IMF – SL deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/193158cf.json))
+* **3** lankadeepa-lk ([’’අමුත්තන්ගේ රාත්‍රියෙන්’’ 306ක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd4cf7fe.json))
 
-* **1** lankadeepa-lk ([’’අමුත්තන්ගේ රාත්‍රියෙන්’’ 306ක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08bc3ade.json))
+* **2** news-first-lk ([Sri Lanka reviews fuel needs](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7ac16403.json))
 
-* **1** ada-derana-lk ([EU welcomes staff-level agreement between IMF, Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b79a368.json))
+## Last Hour (7 Articles)
 
-## Last Hour (4 Articles)
+* **3** news-first-lk ([EU welcomes IMF – SL deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/193158cf.json))
 
-* **2** news-first-lk ([EU welcomes IMF – SL deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/193158cf.json))
-
-* **1** lankadeepa-lk ([’’අමුත්තන්ගේ රාත්‍රියෙන්’’ 306ක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08bc3ade.json))
+* **3** lankadeepa-lk ([’’අමුත්තන්ගේ රාත්‍රියෙන්’’ 306ක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd4cf7fe.json))
 
 * **1** ada-derana-lk ([EU welcomes staff-level agreement between IMF, Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b79a368.json))
 
 ## Last 3 Hours (22 Articles)
 
-* **7** news-first-lk ([More arrests for damaging MPs property](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1c9bd0f.json))
+* **7** news-first-lk ([India advocating assistance for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32b448a3.json))
 
-* **4** lankadeepa-lk ([චීනයේ ස්ථාවරය කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd01bee1.json))
+* **5** lankadeepa-lk ([මුල්‍ය පාලන නීතිරීති තවත් දැඩි කරන්න ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f3cb50c.json))
 
 * **3** ada-derana-lk ([TRCSL approves tariff hike for mobile, fixed, broadband & pay TV services](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02b7c7d2.json))
 
 * **3** ada-lk ([කොලොම්බියා පොලීසියට ප්‍රහාරයක් - 8ක් මරු දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c4cd45f.json))
 
-* **2** daily-mirror-lk ([China willing to work with relevant countries to ease SL’s debt burden](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/121b10d8.json))
-
 * **2** tamil-mirror-lk ([மக்களுக்கு மற்றுமொரு அதிர்ச்சி செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5e16684.json))
+
+* **1** daily-mirror-lk ([GR returns](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79323a68.json))
 
 * **1** economy-next-com ([Sri Lanka coconut prices fall at auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3748609.json))
 
 ## Last 24 Hours (171 Articles)
 
-* **37** news-first-lk ([US Welcomes IMF Staff-Level Agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0ba9030.json))
+* **37** news-first-lk ([Requesting an RTI? Important notice from Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33aad55c.json))
 
-* **32** lankadeepa-lk ([පුත්තලමේ මවක දරුවන් හතරක් බිහි කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b72730dc.json))
+* **32** lankadeepa-lk ([ගුවන් යානා සඳහා දෛනිකව අවශ්‍ය ජෙට්ඉන්ධන ප්‍රමාණවත් නැහැ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15b95bd4.json))
 
 * **22** ada-lk ([ලබුදූවෙන් නව වී ප්‍රභේදයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/ded19844.json))
 
@@ -58,11 +56,11 @@
 
 * **2** colombo-telegraph-com ([Cinematographer Donald Karunaratne, Who Passed Away In LA, Planned Ahas Gawwa Sequel](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4c08fd7.json))
 
-## Last Week (759 Articles)
+## Last Week (762 Articles)
 
-* **126** lankadeepa-lk ([දවල් මිගෙල් රෑ දනියෙල් ප්‍රකාශකයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d02aea1.json))
+* **128** lankadeepa-lk ([දවල් මිගෙල් රෑ දනියෙල් ප්‍රකාශකයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d02aea1.json))
 
-* **99** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **100** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **95** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
@@ -82,9 +80,9 @@
 
 * **13** colombo-telegraph-com ([Let’s Have Fun Today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3c2675e.json))
 
-## All Time (1,093 Articles)
+## All Time (1,096 Articles)
 
-* **190** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **192** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **145** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
@@ -94,7 +92,7 @@
 
 * **106** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf4124c.json))
 
-* **99** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **100** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **81** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
