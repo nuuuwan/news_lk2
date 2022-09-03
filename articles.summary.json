@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0b9a\u0bbf\u0baf-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bc8-\u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf/175-303518",
+    "time_ut": 1662230816,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0b9a\u0bbf\u0baf \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bc8 \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/e9/e9b21a45.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0baa\u0bc1\u0b95\u0bb4\u0bbe\u0bb0\u0bae\u0bcd/175-303517",
     "time_ut": 1662229723,
     "original_lang": "ta",
@@ -14,6 +22,14 @@
     "original_lang": "en",
     "original_title": "WFP Regional Director for Asia and Pacific calls on Foreign Minister Ali Sabry",
     "file_name": "/tmp/news_lk2/articles/c8/c84c44ed.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84732/wfp-regional-director-for-asia-and-pacific-calls-on-foreign-minister",
+    "time_ut": 1662229680,
+    "original_lang": "en",
+    "original_title": "WFP Regional Director for Asia and Pacific calls on Foreign Minister",
+    "file_name": "/tmp/news_lk2/articles/a9/a952c21d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
