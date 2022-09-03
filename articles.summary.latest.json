@@ -64,6 +64,14 @@
     "file_name": "/tmp/news_lk2/articles/8f/8f2d0046.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd0\u0dbb\u0dd2\u0dc3\u0dca-\u0dc3\u0db8\u0dcf\u0da2\u0dba\u0dad\u0dca-\u0dab\u0dba-\u0dc3\u0dc4\u0db1-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0d9a\u0da7-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca/11-396864",
+    "time_ut": 1662212381,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd0\u0dbb\u0dd2\u0dc3\u0dca \u0dc3\u0db8\u0dcf\u0da2\u0dba\u0dad\u0dca \u0dab\u0dba \u0dc3\u0dc4\u0db1 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0d9a\u0da7 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/1a/1a6a0b16.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0db1\u0dca-\u0db8\u0dd2\u0dbd-\u0db4\u0dcf-\u0dc0\u0dd9\u0dba\u0dd2/101-619248",
     "time_ut": 1662212114,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0ddd\u0d9a \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda  \u0d85\u0daf\u0dc4\u0dc3\u0da7\u0dad\u0dca \u0dc3\u0dc0\u0db1\u0dca\u0daf\u0dd9\u0db8\u0dd4",
     "file_name": "/tmp/news_lk2/articles/31/31f9a927.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78945",
-    "time_ut": 1660159440,
-    "original_lang": "en",
-    "original_title": "Sri Lanka has become a country devoid of mature political leaders. We have only Ranil Wickremesinghe left among the leaders who can be considered an advanced political leader. In the absence of mature leaders, it should be the country\u2019s responsibility to make proper use of him at this critical juncture.",
-    "file_name": "/tmp/news_lk2/articles/99/9971012a.json"
   }
 ]

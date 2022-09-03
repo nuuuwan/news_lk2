@@ -1,32 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 21:19:51 (LK time)*
+*As of 2022-09-03 21:37:31 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
-
-* **1** tamil-mirror-lk ([ஐரோப்பிய ஒன்றியம் இலங்கைக்கு வாழ்த்து](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c779570.json))
-
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
 * **2** tamil-mirror-lk ([எல்ல ஓடிசி ரயில் சேவை அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add66a26.json))
 
-* **1** news-first-lk ([If IMF reforms not implemented, Sri Lanka goes back to square one – CBSL Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f90622fd.json))
-
-## Last 3 Hours (16 Articles)
+## Last 3 Hours (13 Articles)
 
 * **5** news-first-lk ([Legal action against 75 egg traders](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f2d0046.json))
 
-* **5** lankadeepa-lk ([අයි.එම්.එෆ් සාකච්ඡා දෙස බලා පැරිස් සමාජයත් ලංකාවට අත දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcfb94ea.json))
-
 * **4** tamil-mirror-lk ([பரிஸ் கிளப் வெளியிட்ட முக்கிய அறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8bada8e.json))
+
+* **2** ada-lk ([ඉදිරි මාස දෙකේ ඉන්ධන අවශ්‍යතාව ගැන සාමාලෝචනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ab2fb64.json))
+
+* **1** lankadeepa-lk ([පාන් මිල පා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa373965.json))
 
 * **1** ada-derana-lk ([Fuel requirements for September & October reviewed](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb804fce.json))
 
-* **1** ada-lk ([ඉදිරි මාස දෙකේ ඉන්ධන අවශ්‍යතාව ගැන සාමාලෝචනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ab2fb64.json))
-
-## Last 24 Hours (154 Articles)
+## Last 24 Hours (155 Articles)
 
 * **29** news-first-lk ([Ex-President Rajapaka returns to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5dfbe33a.json))
 
@@ -36,7 +30,7 @@
 
 * **22** ada-derana-lk ([UK ready to engage with international partners to support Sri Lanka: PM Johnson](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc0b6b3.json))
 
-* **20** ada-lk ([ගෝඨා පැමිණෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35251aa2.json))
+* **21** ada-lk ([ගෝඨා පැමිණෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35251aa2.json))
 
 * **11** daily-mirror-lk ([UK PM pledges support to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c097eb8.json))
 
@@ -48,13 +42,13 @@
 
 * **1** colombo-telegraph-com ([End Casino Capitalism: Sri Lanka To Join The Global Minimum Tax Agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58501d74.json))
 
-## Last Week (812 Articles)
+## Last Week (813 Articles)
 
 * **140** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
 * **111** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
-* **99** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
+* **100** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
 * **94** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
@@ -72,11 +66,11 @@
 
 * **13** colombo-telegraph-com ([Let’s Have Fun Today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3c2675e.json))
 
-## All Time (1,148 Articles)
+## All Time (1,149 Articles)
 
 * **205** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **149** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **150** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **139** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
 
