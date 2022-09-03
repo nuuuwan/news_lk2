@@ -1288,6 +1288,14 @@
     "file_name": "/tmp/news_lk2/articles/56/568639aa.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/between-the-prescriptive-and-descriptive-the-challenge-for-dictionary-makers/",
+    "time_ut": 1662095760,
+    "original_lang": "en",
+    "original_title": "Between the Prescriptive and Descriptive: The Challenge for Dictionary Makers",
+    "file_name": "/tmp/news_lk2/articles/b5/b50447fa.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84703/litro-to-slash-lp-gas-prices-again",
     "time_ut": 1662095580,
@@ -4886,6 +4894,14 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0db4\u0dad\u0dca\u200d\u0dbb \u0db4\u0dcf\u0da8\u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/60/60e206b6.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/fire-sale-on/",
+    "time_ut": 1661879820,
+    "original_lang": "en",
+    "original_title": "Fire sale on",
+    "file_name": "/tmp/news_lk2/articles/b2/b2953af1.json"
   },
   {
     "newspaper_id": "island-lk",

@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 05:19:55 (LK time)*
+*As of 2022-09-03 05:43:50 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -20,13 +20,13 @@
 
 * **16** ada-lk ([බංග්ලාදේශය පරදවමින් ශ්‍රී ලංකාව සුපිරි 4 දෙනාගේ වටයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5cf8914.json))
 
-* **12** daily-ft-lk ([IMF, Sri Lanka: The need for speed, sensitivity and for restructuring and reform](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecb681bd.json))
+* **11** daily-ft-lk ([Trouble in tourism: Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56df5945.json))
 
-* **4** island-lk ([Significant net foreign inflows to CSE](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2db6ef9c.json))
+* **5** island-lk ([Between the Prescriptive and Descriptive: The Challenge for Dictionary Makers](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b50447fa.json))
 
 * **2** colombo-telegraph-com ([Sri Lanka’s First Firm Steps At Economic Reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e88b3d3e.json))
 
-## Last Week (692 Articles)
+## Last Week (694 Articles)
 
 * **120** lankadeepa-lk ([පොලිස් කීර්තිය වනසන පොලිසියේ අපතයෝ](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1595543b.json))
 
@@ -44,13 +44,13 @@
 
 * **51** daily-ft-lk ([Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc758d4.json))
 
-* **33** island-lk ([Asking for big trouble](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/dfa1395f.json))
+* **35** island-lk ([Asking for big trouble](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/dfa1395f.json))
 
 * **20** d-b-s-jeyaraj-com ([Sri Lanka is in an economic crisis, there’s no reason to deny it. And yet, Sri Lanka stands firm, unbowed and continues to smile despite trade imbalance, shortage of fuel, gas and fertiliser, and other hardships.](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96a9319d.json))
 
 * **12** colombo-telegraph-com ([Let’s Have Fun Today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3c2675e.json))
 
-## All Time (1,023 Articles)
+## All Time (1,025 Articles)
 
 * **182** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -70,6 +70,6 @@
 
 * **66** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
-* **45** island-lk ([Gotabaya Rajapaksa, in retrospect](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/406a09fd.json))
+* **47** island-lk ([Gotabaya Rajapaksa, in retrospect](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/406a09fd.json))
 
 * **25** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))
