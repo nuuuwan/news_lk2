@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/indian-hc-meets-president-to-handover-statue-and-discuss-ties/",
+    "time_ut": 1662185580,
+    "original_lang": "en",
+    "original_title": "Indian HC meets President to handover statue, and discuss ties",
+    "file_name": "/tmp/news_lk2/articles/27/271a0ccc.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0d9a\u0ddc\u0dbd\u0ddc\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf-\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca---8\u0d9a\u0dca-\u0db8\u0dbb\u0dd4-\u0daf\u0d9a\u0dd2\u0dba\u0dd2/3-396856",
+    "time_ut": 1662185347,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dbd\u0ddc\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca - 8\u0d9a\u0dca \u0db8\u0dbb\u0dd4 \u0daf\u0d9a\u0dd2\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/9c/9c4cd45f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84723/trcsl-approves-tariff-hike-for-mobile-fixed-broadband-pay-tv-services",
+    "time_ut": 1662185280,
+    "original_lang": "en",
+    "original_title": "TRCSL approves tariff hike for mobile, fixed, broadband & pay TV services",
+    "file_name": "/tmp/news_lk2/articles/02/02b7c7d2.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/175-303483",
+    "time_ut": 1662185196,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1 \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/d5/d5e16684.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/03/india-advocating-assistance-for-sri-lanka/",
     "time_ut": 1662184500,
     "original_lang": "en",
@@ -78,6 +110,14 @@
     "original_lang": "si",
     "original_title": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0d9c\u0dcf\u0dbb \u0db8\u0ddc\u0da9\u0dd4\u0dba\u0dbd\u0dba \u0d85\u0db7\u0dca\u200d\u0dba\u0dc0\u0d9a\u0dcf\u0dc1\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dd0\u0dbb\u0dc3\u0dda",
     "file_name": "/tmp/news_lk2/articles/a5/a505057d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0d9c\u0ddd\u0dbd\u0dd3\u0dba-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0d86\u0dc3\u0dcf\u0daf\u0db1-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-600\u0d9a\u0dca---WHO/3-396850",
+    "time_ut": 1662182875,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0db1 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 600\u0d9a\u0dca - WHO",
+    "file_name": "/tmp/news_lk2/articles/e6/e6a85296.json"
   },
   {
     "newspaper_id": "ada-lk",

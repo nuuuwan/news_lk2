@@ -1,0 +1,483 @@
+{
+  "newspaper_id": "ada-lk",
+  "url": "https://www.ada.lk/international/\u0d9c\u0ddd\u0dbd\u0dd3\u0dba-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0d86\u0dc3\u0dcf\u0daf\u0db1-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-600\u0d9a\u0dca---WHO/3-396850",
+  "time_ut": 1662182875,
+  "original_lang": "si",
+  "original_title": "\u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0db1 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 600\u0d9a\u0dca - WHO",
+  "text_idx": {
+    "en": {
+      "title": "600 million global covid infections - WHO",
+      "author": "unknown",
+      "body_lines": [
+        "According to the latest data from the World Health Organization (WHO), the number of global Covid-19 cases has exceeded 600 million.",
+        "As of Thursday, the World Health Organization reported 600,555,262 confirmed cases of Covid-19 globally, including 6,472,914 deaths.",
+        "The United States has the highest number of confirmed cases and deaths, with more than 93.21 million cases and more than 1.03 million deaths. This is nearly 15% of the global total.",
+        "The next highest totals were recorded in India and Brazil, with over 44 million and 34 million cases respectively, as well as 527,911 and 683,851 confirmed deaths.",
+        "As far as WHO regional offices are concerned, Europe and America have so far reported more than 248 million and 175 million confirmed cases, with 2,077,355 and 2,817,530 deaths respectively. These two regions together account for more than 70% of the world's total confirmed cases and more than 75% of deaths.",
+        "Although the number of new Covid-19 cases and deaths continues to decline weekly, the director-general of the World Health Organization said last week that the world had \"passed the tragic milestone of one million deaths so far this year.\"",
+        "However, the global organizations that analyze the data in this regard have added that these infected figures and the number of deaths are much higher."
+      ],
+      "title_ents": [
+        {
+          "text": "600 million",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "the World Health Organization",
+            "label": "ORG"
+          },
+          {
+            "text": "600 million",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Thursday",
+            "label": "DATE"
+          },
+          {
+            "text": "the World Health Organization",
+            "label": "ORG"
+          },
+          {
+            "text": "600,555,262",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "6,472,914",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "The United States",
+            "label": "GPE"
+          },
+          {
+            "text": "more than 93.21 million",
+            "label": "MONEY"
+          },
+          {
+            "text": "more than 1.03 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "nearly 15%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "Brazil",
+            "label": "GPE"
+          },
+          {
+            "text": "over 44 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "34 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "527,911",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "683,851",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "WHO",
+            "label": "ORG"
+          },
+          {
+            "text": "Europe",
+            "label": "LOC"
+          },
+          {
+            "text": "America",
+            "label": "GPE"
+          },
+          {
+            "text": "more than 248 million",
+            "label": "MONEY"
+          },
+          {
+            "text": "175 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,077,355",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,817,530",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "more than 70%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "more than 75%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "weekly",
+            "label": "DATE"
+          },
+          {
+            "text": "the World Health Organization",
+            "label": "ORG"
+          },
+          {
+            "text": "last week",
+            "label": "DATE"
+          },
+          {
+            "text": "one million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "this year",
+            "label": "DATE"
+          }
+        ],
+        []
+      ]
+    },
+    "si": {
+      "title": "\u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0db1 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 600\u0d9a\u0dca - WHO",
+      "author": "unknown",
+      "body_lines": [
+        "\u0dbd\u0ddd\u0d9a \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba\u0dda (WHO) \u0db1\u0dc0\u0dad\u0db8 \u0daf\u0dad\u0dca\u0dad\u0dc0\u0dbd\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 600\u0d9a\u0dca \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dcf \u0d87\u0dad.",
+        "\u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf \u0dc0\u0db1 \u0dc0\u0dd2\u0da7, \u0dbd\u0ddd\u0d9a \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dc5\u0dda, \u0db8\u0dbb\u0dab 6,472,914 \u0d87\u0dad\u0dd4\u0dc5\u0dd4\u0dc0 \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca 600,555,262 \u0d9a\u0dca \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba\u0dda \u0dc0\u0dd0\u0da9\u0dd2\u0db8 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd6 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca \u0dc3\u0dc4 \u0db8\u0dbb\u0dab \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 93.21\u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc3\u0dc4 \u0db8\u0dbb\u0dab \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.03\u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0d87\u0dad. \u0db8\u0dd9\u0dba \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0dc3\u0db8\u0dc3\u0dca\u0dad\u0dba\u0dd9\u0db1\u0dca 15%\u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0dd2.",
+        "\u0db8\u0dd3\u0dc5\u0d9f \u0d89\u0dc4\u0dc5\u0db8 \u0d91\u0d9a\u0dad\u0dd4\u0dc0 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd3 \u0d87\u0dad\u0dca\u0dad\u0dda \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc3\u0dc4 \u0db6\u0dca\u200d\u0dbb\u0dc3\u0dd3\u0dbd\u0dba\u0dda \u0dc0\u0db1 \u0d85\u0dad\u0dbb, \u0db4\u0dd2\u0dc5\u0dd2\u0dc0\u0dd9\u0dbd\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 44 \u0dc3\u0dc4 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 34 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dcf \u0d87\u0dad\u0dd2 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca \u0db8\u0dd9\u0db1\u0dca\u0db8 \u0db8\u0dbb\u0dab 527,911 \u0dc3\u0dc4 683,851\u0d9a\u0dca\u0daf \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0dbd\u0ddd\u0d9a \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba\u0dda \u0d9a\u0dbd\u0dcf\u0db4\u0dd3\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0d9c\u0dad\u0dca \u0d9a\u0dbd, \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba \u0dc3\u0dc4 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0db8\u0dda \u0dc0\u0db1\u0dc0\u0dd2\u0da7 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd6 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 248 \u0dc3\u0dc4 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 175\u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0db4\u0dd2\u0dc5\u0dd2\u0dc0\u0dd9\u0dbd\u0dd2\u0db1\u0dca \u0db8\u0dbb\u0dab 2,077,355 \u0dc3\u0dc4 2,817,530 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dda. \u0db8\u0dd9\u0db8 \u0d9a\u0dbd\u0dcf\u0db4 \u0daf\u0dd9\u0d9a \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0\u0dc0 \u0dbd\u0ddc\u0dc0 \u0db8\u0dd4\u0dc5\u0dd4 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd6 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca 70%\u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0dca \u0dc3\u0dc4 \u0db8\u0dbb\u0dab\u0dc0\u0dbd\u0dd2\u0db1\u0dca 75%\u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0dca \u0dc0\u0dda.",
+        "\u0dc3\u0dad\u0dd2\u0db4\u0dad\u0dcf \u0db1\u0dc0 \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca \u0dc3\u0dc4 \u0db8\u0dbb\u0dab \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dd0\u0dc0\u0dad\u0dd4\u0db1\u0daf, \u0dbd\u0ddd\u0d9a \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba\u0dda \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dc5\u0dda \u0dbd\u0ddd\u0d9a\u0dba \"\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0db8\u0dda \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd6 \u0db8\u0dbb\u0dab \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0d9a \u0d9b\u0dda\u0daf\u0db1\u0dd3\u0dba \u0dc3\u0db1\u0dca\u0db0\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0db4\u0dc3\u0dd4 \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0d9a\u0dd9\u0dc3\u0dda \u0dc0\u0dd9\u0dad\u0dad\u0dca, \u0db8\u0dd9\u0db8 \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad \u0d85\u0d9c\u0dba\u0db1\u0dca \u0dc3\u0dc4 \u0db8\u0dbb\u0dab \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 \u0db8\u0dd3\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0db6\u0dc0 \u0db8\u0dda \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0daf\u0dad\u0dca\u0dad \u0dc0\u0dd2\u0dc1\u0dca\u0dbd\u0dda\u0dc2\u0dab\u0dba \u0d9a\u0dbb\u0db1 \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0d86\u0dba\u0dad\u0db1 \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0db4\u0dc0\u0dc3\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 600 \u0d9a\u0dd2",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dbd\u0ddd\u0d9a \u0dc3\u0dde\u0d9b\u0dca\u0dba \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 600 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbd\u0ddd\u0d9a \u0dc3\u0dde\u0d9b\u0dca\u0dba \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "600,555,262 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "6,472,914 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 93.21 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2\u0dba",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.03 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2\u0dba",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0db1\u0dca\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca 15%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc3\u0dd3\u0dbd\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 44 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 34 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "527,911 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "683,851 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dc0\u0dd4\u0daf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 248 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2\u0dba",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 175 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,077,355 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,817,530 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "70% \u0d9a\u0da7 \u0dc0\u0da9\u0dcf",
+            "label": "PERCENT"
+          },
+          {
+            "text": "75% \u0da7 \u0dc0\u0da9\u0dcf",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dad\u0dd2\u0db4\u0dad\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbd\u0ddd\u0d9a \u0dc3\u0dde\u0d9b\u0dca\u0dba \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0d9a\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda",
+            "label": "DATE"
+          }
+        ],
+        []
+      ]
+    },
+    "ta": {
+      "title": "600 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bb3\u0bcd - WHO",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b89\u0bb2\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd (WHO) \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bb0\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd -19 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 600 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc8\u0ba4\u0bcd \u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bbf, \u0b89\u0bb2\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 6,472,914 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0b89\u0bb2\u0b95\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd 600,555,262 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd-19 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "93.21 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 1.03 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95 \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba9. \u0b87\u0ba4\u0bc1 \u0b89\u0bb2\u0b95 \u0bae\u0bca\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f 15% \u0b86\u0b95\u0bc1\u0bae\u0bcd.",
+        "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0bc7\u0b9a\u0bbf\u0bb2\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc7 44 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 34 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9, \u0b85\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd 527,911 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 683,851 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9.",
+        "WHO \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bb0\u0bc8, \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8 248 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 175 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc7 2,077,355 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 2,817,530 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba9. \u0b87\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b89\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 70% \u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9\u0bb5\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 75% \u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9\u0bb5\u0bc8.",
+        "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd -19 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0bb5\u0bbe\u0bb0\u0ba8\u0bcd\u0ba4\u0bcb\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc7 \u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bc1\u0bae\u0bcd, \u0b89\u0bb2\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd, \"\u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8 \u0b92\u0bb0\u0bc1 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1 \u0b9a\u0bcb\u0b95\u0bae\u0bbe\u0ba9 \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb2\u0bcd\u0bb2\u0bc8 \u0b89\u0bb2\u0b95\u0bae\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b8e\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bbe\u0baf\u0bbf\u0ba9\u0bc1\u0bae\u0bcd, \u0b87\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0ba4\u0bb0\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0baa\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bcd\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0bb5\u0bbf\u0bb5\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9."
+      ],
+      "title_ents": [
+        {
+          "text": "600 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b89\u0bb2\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "600 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b89\u0bb2\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "600,555,262",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "6,472,914",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "93.21 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95",
+            "label": "MONEY"
+          },
+          {
+            "text": "1.03 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f 15%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bc7\u0b9a\u0bbf\u0bb2\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "44 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "34 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "527,911",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "683,851",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "WHO",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "248 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95",
+            "label": "MONEY"
+          },
+          {
+            "text": "175 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,077,355",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,817,530",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "70%\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "75% \u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bbe\u0bb0\u0ba8\u0bcd\u0ba4\u0bcb\u0bb1\u0bc1\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b89\u0bb2\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        []
+      ]
+    }
+  }
+}
