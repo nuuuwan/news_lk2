@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 00:26:35 (LK time)*
+*As of 2022-09-04 00:38:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** tamil-mirror-lk ([பொலிஸாருக்கு ஜனாதிபதி புகழாரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/362ebc90.json))
-
-* **2** ada-derana-lk ([WFP Regional Director for Asia and Pacific calls on Foreign Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a952c21d.json))
+* **1** tamil-mirror-lk ([அத்தியாவசிய சேவைகளை உள்ளடக்கிய வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9b21a45.json))
 
 ## Last Hour (6 Articles)
 
@@ -26,7 +24,7 @@
 
 * **2** daily-mirror-lk ([Sri Lanka beat Afghanistan in first Super Four clash](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/873e65a4.json))
 
-## Last 24 Hours (136 Articles)
+## Last 24 Hours (132 Articles)
 
 * **29** news-first-lk ([Ex-President Rajapaka returns to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5dfbe33a.json))
 
@@ -38,15 +36,13 @@
 
 * **20** ada-derana-lk ([Showery condition likely to enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35b7a969.json))
 
-* **6** daily-mirror-lk ([Pop Singer A. E. Manoharan Flopped as a Film Actor](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/446ef1c9.json))
+* **5** daily-mirror-lk ([China willing to work with relevant countries to ease SL’s debt burden](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/121b10d8.json))
 
 * **4** economy-next-com ([Sri Lanka’s ousted president returns amid tight security](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30920761.json))
 
-* **3** island-lk ([SEC, CSE and CA Sri Lanka to capitalize on synergies to encourage and advance non-financial reporting](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60947e34.json))
-
 * **2** colombo-telegraph-com ([End Casino Capitalism: Sri Lanka To Join The Global Minimum Tax Agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58501d74.json))
 
-## Last Week (823 Articles)
+## Last Week (821 Articles)
 
 * **140** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
@@ -66,7 +62,7 @@
 
 * **34** island-lk ([Ditch the phone before bed! 16 tips for a good night’s sleep](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87ee4f90.json))
 
-* **22** d-b-s-jeyaraj-com ([Sri Lanka is in an economic crisis, there’s no reason to deny it. And yet, Sri Lanka stands firm, unbowed and continues to smile despite trade imbalance, shortage of fuel, gas and fertiliser, and other hardships.](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96a9319d.json))
+* **20** d-b-s-jeyaraj-com ([Indian Media had analyses of how Yuan Wang-5  berthing in Hambantota would compromise the security of India’s  naval bases and satellite and missile launch sites The plain truth is Yuan Wang-5 is capable of carrying out all these actions even without docking in Hambantota port.](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b545a093.json))
 
 * **14** colombo-telegraph-com ([Let’s Have Fun Today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3c2675e.json))
 
