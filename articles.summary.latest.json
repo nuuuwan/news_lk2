@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8-\u0b95\u0b9f\u0bcd\u0b9f\u0b9f\u0bae\u0bcd-\u0b9a\u0bc6\u0baa\u0bcd-8-\u0b92\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8/175-303497",
+    "time_ut": 1662209385,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8 \u0b95\u0b9f\u0bcd\u0b9f\u0b9f\u0bae\u0bcd: \u0b9a\u0bc6\u0baa\u0bcd.8 \u0b92\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/79/792f1e70.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/paris-club-to-initiate-debt-relief-program-for-sri-lanka/",
+    "time_ut": 1662209280,
+    "original_lang": "en",
+    "original_title": "Paris Club to initiate debt relief program for Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/e8/e8b0668e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84729/paris-club-ready-to-start-debt-relief-for-sri-lanka",
+    "time_ut": 1662209160,
+    "original_lang": "en",
+    "original_title": "Paris Club ready to start debt relief for Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/7b/7bf1aa8e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0ba4\u0bbf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4-\u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0b89\u0b9f\u0bcd\u0baa\u0bc2\u0b9a\u0bb2\u0bcd-\u0b89\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0bcd/175-303496",
     "time_ut": 1662207381,
     "original_lang": "ta",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "PROPPING-UP THIS PRESIDENT IS A PRESCRIPTION FOR POLITICAL SUICIDE",
     "file_name": "/tmp/news_lk2/articles/bb/bbfd3b42.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0db4\u0da7\u0dd4-\u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0dad\u0ddc\u0dbb\u0dc0-\u0db4\u0ddc\u0daf\u0dd4-\u0d85\u0dbb\u0db8\u0dd4\u0dab\u0d9a\u0da7-\u0dba\u0db8\u0dd4/2-617672",
-    "time_ut": 1659760243,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0da7\u0dd4 \u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dad\u0ddc\u0dbb\u0dc0 \u0db4\u0ddc\u0daf\u0dd4 \u0d85\u0dbb\u0db8\u0dd4\u0dab\u0d9a\u0da7 \u0dba\u0db8\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/c2/c2648565.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78879",
-    "time_ut": 1659727440,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Rescinds Permission Given for Chinese Vessel \u201cYuan Wang 5\u201d to dock at Hambantota for Replenishment: \u201cThe Ministry requests that the arrival date of the vessel Yuan Wang 5 in Hambantota be deferred until further consultations are made on this matter,\u201d  says  Lankan  Foreign Ministry note;Chinese Envoy Protests to President Wickremesinghe",
-    "file_name": "/tmp/news_lk2/articles/28/28ff3e83.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78881",
-    "time_ut": 1659726900,
-    "original_lang": "en",
-    "original_title": "SJB Leader and Leader of the Opposition Sajith Premadasa  Keeps Away from the  Tea Party Given by President Ranil Wickremesinghe after his policy speech in Parliament",
-    "file_name": "/tmp/news_lk2/articles/39/395ee988.json"
   }
 ]
