@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 22:44:27 (LK time)*
+*As of 2022-09-03 23:05:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,15 +8,15 @@
 
 * **1** ada-derana-lk ([Myanmar donates 1,000 tons of rice to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10b2a94c.json))
 
-## Last 3 Hours (10 Articles)
+## Last 3 Hours (8 Articles)
 
-* **5** news-first-lk ([Legal action against 75 egg traders](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f2d0046.json))
+* **4** news-first-lk ([Conspiracy against CBSL Governor: Sajith questions ulterior motives](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a83bf2e0.json))
 
-* **4** tamil-mirror-lk ([நிரந்தர அமைச்சரவை  மேலும் தாமதமாகும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/42b786af.json))
+* **3** tamil-mirror-lk ([எல்ல ஓடிசி ரயில் சேவை அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add66a26.json))
 
 * **1** ada-derana-lk ([Myanmar donates 1,000 tons of rice to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10b2a94c.json))
 
-## Last 24 Hours (150 Articles)
+## Last 24 Hours (149 Articles)
 
 * **29** news-first-lk ([Ex-President Rajapaka returns to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5dfbe33a.json))
 
@@ -24,7 +24,7 @@
 
 * **23** lankadeepa-lk ([හිටපු ජනපති ගෝඨාභය යළි පැමිණෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7793224.json))
 
-* **22** ada-derana-lk ([Ex-President Gotabaya to return tonight?](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50bc96cb.json))
+* **21** ada-derana-lk ([SLFP makes key amendments to its constitution](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e84c9984.json))
 
 * **21** ada-lk ([ගෝඨා පැමිණෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35251aa2.json))
 
@@ -38,7 +38,7 @@
 
 * **1** colombo-telegraph-com ([End Casino Capitalism: Sri Lanka To Join The Global Minimum Tax Agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58501d74.json))
 
-## Last Week (815 Articles)
+## Last Week (814 Articles)
 
 * **140** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
@@ -48,7 +48,7 @@
 
 * **95** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
-* **93** daily-mirror-lk ([India responds to Chinese Ambassador’s remarks on SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dcaea165.json))
+* **92** daily-mirror-lk ([Chinese company refuses to budge](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab41ab08.json))
 
 * **84** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
