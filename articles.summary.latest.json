@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb0\u0bbf\u0bb8\u0bcd-\u0b95\u0bbf\u0bb3\u0baa\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-303499",
+    "time_ut": 1662211909,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb0\u0bbf\u0bb8\u0bcd \u0b95\u0bbf\u0bb3\u0baa\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/c8/c8bada8e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf-\u0dc3\u0d82\u0d9c\u0db8\u0dba-\u0dc3\u0dad\u0dd4\u0da7-\u0db4\u0dc5-\u0d9a\u0dbb\u0dba\u0dd2/1-619247",
+    "time_ut": 1662210407,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0dc3\u0dad\u0dd4\u0da7 \u0db4\u0dc5 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a7/a76e8ed2.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dca\u0dae\u0dd3\u0dbb-\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca\u0da7\u0dd4\u0dc0-\u0dad\u0dc0-\u0d9a\u0dbd-\u0dba\u0db1-\u0dc4\u0dd0\u0da9/101-619246",
     "time_ut": 1662210052,
     "original_lang": "si",
     "original_title": "\u0dc3\u0dca\u0dae\u0dd3\u0dbb \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca\u0da7\u0dd4\u0dc0 \u0dad\u0dc0 \u0d9a\u0dbd \u0dba\u0db1 \u0dc4\u0dd0\u0da9",
     "file_name": "/tmp/news_lk2/articles/d6/d646ed28.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dca\u0dae\u0dd3\u0dbb-\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca\u0da7\u0dd4\u0dc0-\u0dad\u0dc0-\u0d9a\u0dbd\u0dca-\u0dba\u0db1-\u0dc4\u0dd0\u0da9/1-619246",
+    "time_ut": 1662210052,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dca\u0dae\u0dd3\u0dbb \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca\u0da7\u0dd4\u0dc0 \u0dad\u0dc0 \u0d9a\u0dbd\u0dca \u0dba\u0db1 \u0dc4\u0dd0\u0da9",
+    "file_name": "/tmp/news_lk2/articles/24/244f0c4d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -57,19 +81,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddd\u0da7\u0dd2-20-000\u0d9a-\u0dc4\u0dd2\u0d9f-\u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca-\u0db8\u0dc4\u0dcf-\u0db7\u0dcf\u0dab\u0dca\u0da9\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dda-\u0dc4\u0dd2\u0dbb-\u0dc0\u0dd9\u0dba\u0dd2/101-619244",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddd\u0da7\u0dd2-20-000\u0d9a-\u0dc4\u0dd2\u0d9f-\u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca-\u0db8\u0dc4\u0dcf-\u0db7\u0dcf\u0dab\u0dca\u0da9\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dda-\u0dc4\u0dd2\u0dbb-\u0dc0\u0dd9\u0dba\u0dd2/1-619244",
     "time_ut": 1662206362,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 20,000\u0d9a \u0dc4\u0dd2\u0d9f \u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca \u0db8\u0dc4\u0dcf \u0db7\u0dcf\u0dab\u0dca\u0da9\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dda \u0dc4\u0dd2\u0dbb \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/35/352a394c.json"
+    "file_name": "/tmp/news_lk2/articles/8e/8ebea194.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d87\u0dbd\u0dca\u0dbd-\u0d94\u0da9\u0dd9\u0dc3\u0dd2\u2019-\u0dad\u0dc0\u0dad\u0dca-\u0daf\u0dd2\u0db1-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba\u0da7/101-619240",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d87\u0dbd\u0dca\u0dbd-\u0d94\u0da9\u0dd9\u0dc3\u0dd2\u2019-\u0dad\u0dc0\u0dad\u0dca-\u0daf\u0dd2\u0db1-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba\u0da7/1-619240",
     "time_ut": 1662204489,
     "original_lang": "si",
     "original_title": "\u0d87\u0dbd\u0dca\u0dbd \u0d94\u0da9\u0dd9\u0dc3\u0dd2\u2019 \u0dad\u0dc0\u0dad\u0dca \u0daf\u0dd2\u0db1 \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba\u0da7",
-    "file_name": "/tmp/news_lk2/articles/1b/1b2481d8.json"
+    "file_name": "/tmp/news_lk2/articles/31/312e1220.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -78,6 +102,14 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/2c/2ccfcdfb.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84727/health-petroleum-and-electricity-again-gazetted-as-essential-services",
+    "time_ut": 1662203760,
+    "original_lang": "en",
+    "original_title": "Health, petroleum and electricity again gazetted as essential services",
+    "file_name": "/tmp/news_lk2/articles/75/75434bb9.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -118,6 +150,14 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0d9a\u0dd4\u0dbd\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba \u0dbd\u0dd2\u0dba\u0dcf \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0d89\u0dc4\u0dbd\u0dd2\u0db1\u0dca\u0db8 \u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd6 \u0daf\u0ddb\u0dc0\u0dba\u0da7 \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c \u0d9a\u0dbd \u0daf\u0dd2\u0dbb\u0dd2\u0dba \u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba",
     "file_name": "/tmp/news_lk2/articles/cc/cc939bae.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0-\u0d87\u0d9a\u0da9\u0db8\u0dd2\u0dba\u0d9a\u0dca/11-396862",
+    "time_ut": 1662201987,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0 \u0d87\u0d9a\u0da9\u0db8\u0dd2\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/fe/fe793a36.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "si",
     "original_title": "MBSL \u0d86\u0db1\u0dca\u0dad\u0dd2\u0d9a \u0dab\u0dba \u0dc4\u0dd2\u0db8\u0dd2 \u0d86\u0dba\u0ddd\u0da2\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca SEC \u0dc4\u0dcf CSE \u0db6\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7 \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/b3/b3abaeb7.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78892",
-    "time_ut": 1659813840,
-    "original_lang": "en",
-    "original_title": "Sri Lanka  engages in \u201cquiet diplomacy\u201d to persuade China to agree to its request to defer the docking of the Chinese vessel Yuan Wang 5 t at Hambantota Port this week;  Chinese Embassy in Sri Lanka requests urgent meeting with senior Sri Lankan authorities",
-    "file_name": "/tmp/news_lk2/articles/50/5087c966.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78899",
-    "time_ut": 1659813840,
-    "original_lang": "en",
-    "original_title": "Saman Ratnapriya and Joseph Stalin Participate Together in May 28 Protest March Urging Gota to Go; Saman Ratnapriya is made  Director General, Trade Unions under President but Joseph Stalin is  summarily arrested  and Remanded",
-    "file_name": "/tmp/news_lk2/articles/83/8340ca99.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78894",
-    "time_ut": 1659812760,
-    "original_lang": "en",
-    "original_title": "Sajith Premadasa  is weak, indecisive and cannot bear any pressure, This mess is because he didn\u2019t have the guts to form a government and take on the corrupt Rajapaksas.Using bombastic words or archaic obsolete dictionary terms does not make a good opposition leader.",
-    "file_name": "/tmp/news_lk2/articles/3e/3ecd04d7.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78897",
-    "time_ut": 1659812220,
-    "original_lang": "en",
-    "original_title": "\u2018Who controls the past controls the future: who controls the present controls the past,\u2019-  George Orwell\u2019s 1984 repeats itself in  2022 Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/bd/bdaf5487.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78889",
-    "time_ut": 1659811680,
-    "original_lang": "en",
-    "original_title": "9 August 2022 Declared\u201cNational day of protest\u201d (Jathika Virodatha Dinaya) by \u201cAragalaya\u201dProtesters;Island-wide Protests to be held in Outstation towns;National Trade Union Co-ordination Centre (NTUCC) will stage rally at Viharamahadevi park  in Colombo on same day 2 pm",
-    "file_name": "/tmp/news_lk2/articles/14/143f2b1c.json"
   }
 ]
