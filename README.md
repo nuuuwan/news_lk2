@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 19:22:02 (LK time)*
+*As of 2022-09-03 19:41:54 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last Hour (3 Articles)
 
 * **1** lankadeepa-lk ([පාන් මිල පා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa373965.json))
 
@@ -12,37 +12,27 @@
 
 * **1** tamil-mirror-lk ([பரிஸ் கிளப் வெளியிட்ட முக்கிய அறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8bada8e.json))
 
-## Last Hour (8 Articles)
+## Last 3 Hours (20 Articles)
 
-* **5** lankadeepa-lk ([අයි.එම්.එෆ් සාකච්ඡා දෙස බලා පැරිස් සමාජයත් ලංකාවට අත දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcfb94ea.json))
-
-* **1** ada-derana-lk ([Fuel requirements for September & October reviewed](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb804fce.json))
-
-* **1** tamil-mirror-lk ([பரிஸ் கிளப் வெளியிட்ட முக்கிய அறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8bada8e.json))
-
-* **1** ada-lk ([ඉදිරි මාස දෙකේ ඉන්ධන අවශ්‍යතාව ගැන සාමාලෝචනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ab2fb64.json))
-
-## Last 3 Hours (23 Articles)
-
-* **9** lankadeepa-lk ([කකුලෙන් විභාගය ලියා උසස් පෙළ ඉහලින්ම සමත් වූ දෛවයට අභියෝග කල දිරිය දියණිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc939bae.json))
+* **8** lankadeepa-lk ([ඇල්ල ඔඩෙසි’ තවත් දින දෙකක් ධාවනයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/312e1220.json))
 
 * **6** ada-derana-lk ([Special gazette issued declaring electricity, fuel supply and health essential services](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e7a8056.json))
 
 * **4** tamil-mirror-lk ([கோட்டா கேட்டால் கொடுக்கத் தயார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2ccfcdfb.json))
 
-* **3** news-first-lk ([Sri Lanka wins preliminary match against India at Asian Netball Championships](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b91e8a4e.json))
-
 * **1** ada-lk ([ඉදිරි මාස දෙකේ ඉන්ධන අවශ්‍යතාව ගැන සාමාලෝචනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ab2fb64.json))
 
-## Last 24 Hours (154 Articles)
+* **1** news-first-lk ([Paris Club to initiate debt relief program for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8b0668e.json))
+
+## Last 24 Hours (153 Articles)
 
 * **31** news-first-lk ([It’s a good budget – Mahinda Rajapaksa on Budget Amendment 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a99e033.json))
 
 * **23** lankadeepa-lk ([ඩොලර් වංචනිකයන් අල්ලන්න රටේ නීතියක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/436e3c7d.json))
 
-* **23** ada-derana-lk ([People benefitting from CBSL governor’s decisions: Sabry defends Dr. Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ed14f9.json))
-
 * **23** tamil-mirror-lk ([இலங்கைக்கு ஆதரவளிப்போம்: பொரிஸ் ஜோன்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7937743.json))
+
+* **22** ada-derana-lk ([UK ready to engage with international partners to support Sri Lanka: PM Johnson](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc0b6b3.json))
 
 * **20** ada-lk ([ගෝඨා පැමිණෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35251aa2.json))
 
