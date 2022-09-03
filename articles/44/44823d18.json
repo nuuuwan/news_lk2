@@ -1,0 +1,573 @@
+{
+  "newspaper_id": "ada-derana-lk",
+  "url": "http://www.adaderana.lk/news/84728/india-develops-its-first-cervical-cancer-vaccine",
+  "time_ut": 1662207180,
+  "original_lang": "en",
+  "original_title": "India develops its first cervical cancer vaccine",
+  "text_idx": {
+    "en": {
+      "title": "India develops its first cervical cancer vaccine",
+      "author": "unknown",
+      "body_lines": [
+        "The Serum Institute of India (SII), the world\u2019s biggest vaccine maker, has developed the country\u2019s first cervical cancer shot that will hit the market soon, the company and the government said on Thursday.",
+        "Cervical cancer is the fourth most common cancer among women globally, with an estimated 604,000 new cases and 342,000 deaths in 2020, according to the World Health Organization. About 90% of the new cases and deaths worldwide occurred in low- and middle-income countries that year.",
+        "Two human papillomavirus (HPV) types, 16 and 18, are responsible for at least 70% of cervical cancers, and India\u2019s Department of Biotechnology said the Indian vaccine would work on HPV types 16 and 18, as well as 6 and 11.",
+        "\u201cThe indigenously developed vaccine will make our country self-sufficient in curbing female mortality caused by cervical cancer,\u201d SII Chief Executive Adar Poonawalla said in a statement.",
+        "He told reporters the vaccine would be out for sale in a few months, first for the Indian market and then the world. It may be priced between 200 rupees and 400 rupees ($2.51-$5.03) and the company will aim to produce about 200 million doses in two years, Reuters partner ANI cited Poonawalla as saying.",
+        "The vaccine will be administered via injection in two doses among 9-14 year olds and in three doses for those between 15 and 26."
+      ],
+      "title_ents": [
+        {
+          "text": "India",
+          "label": "GPE"
+        },
+        {
+          "text": "first",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The Serum Institute of India",
+            "label": "ORG"
+          },
+          {
+            "text": "SII",
+            "label": "ORG"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Thursday",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "fourth",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "an estimated 604,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "342,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2020",
+            "label": "DATE"
+          },
+          {
+            "text": "the World Health Organization",
+            "label": "ORG"
+          },
+          {
+            "text": "About 90%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "that year",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "HPV",
+            "label": "ORG"
+          },
+          {
+            "text": "16",
+            "label": "DATE"
+          },
+          {
+            "text": "18",
+            "label": "DATE"
+          },
+          {
+            "text": "at least 70%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "Department of Biotechnology",
+            "label": "ORG"
+          },
+          {
+            "text": "Indian",
+            "label": "NORP"
+          },
+          {
+            "text": "HPV",
+            "label": "ORG"
+          },
+          {
+            "text": "16",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "18",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "SII",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "a few months",
+            "label": "DATE"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Indian",
+            "label": "NORP"
+          },
+          {
+            "text": "between 200 rupees",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "400",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2.51-$5.03",
+            "label": "MONEY"
+          },
+          {
+            "text": "about 200 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "two years",
+            "label": "DATE"
+          },
+          {
+            "text": "Reuters",
+            "label": "ORG"
+          },
+          {
+            "text": "ANI",
+            "label": "ORG"
+          },
+          {
+            "text": "Poonawalla",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "9-14 year olds",
+            "label": "DATE"
+          },
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "between 15 and 26",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0dc3\u0dd2\u0dba \u0db4\u0dc5\u0db8\u0dd4 \u0d9c\u0dd0\u0db6\u0dca\u0d9c\u0dd9\u0dbd \u0db4\u0dd2\u0dc5\u0dd2\u0d9a\u0dcf \u0d91\u0db1\u0dca\u0db1\u0dad \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dbd\u0ddc\u0dc0 \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0dad\u0db8 \u0d91\u0db1\u0dca\u0db1\u0dad\u0dca \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0d9a\u0dba\u0dcf \u0dc0\u0db1 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda Serum Institute (SII) \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dbb\u0da7\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0d9c\u0dd0\u0db6\u0dca\u0d9c\u0dd9\u0dbd \u0db4\u0dd2\u0dc5\u0dd2\u0d9a\u0dcf \u0d91\u0db1\u0dca\u0db1\u0dad \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dcf \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1\u0dd4 \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0dc3\u0dc4 \u0dbb\u0da2\u0dba \u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0dbd\u0ddd\u0d9a \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba\u0da7 \u0d85\u0db1\u0dd4\u0dc0, 2020 \u0daf\u0dd3 \u0db1\u0dc0 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca 604,000 \u0d9a\u0dca \u0dc3\u0dc4 \u0db8\u0dbb\u0dab 342,000 \u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0d87\u0dc3\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d9c\u0dd0\u0db6\u0dca\u0d9c\u0dd9\u0dbd \u0db4\u0dd2\u0dc5\u0dd2\u0d9a\u0dcf \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0db1\u0dca \u0d85\u0dad\u0dbb \u0dc3\u0dd2\u0dc0\u0dca\u0dc0\u0db1 \u0dc0\u0da9\u0dcf\u0dad\u0dca \u0dc3\u0dd4\u0dbd\u0db7 \u0db4\u0dd2\u0dc5\u0dd2\u0d9a\u0dcf \u0dc0\u0dda. \u0dbd\u0ddc\u0dc0 \u0db4\u0dd4\u0dbb\u0dcf \u0db1\u0dc0 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca \u0dc3\u0dc4 \u0db8\u0dbb\u0dab \u0dc0\u0dbd\u0dd2\u0db1\u0dca 90% \u0d9a\u0dca \u0db4\u0db8\u0dab \u0d91\u0db8 \u0dc0\u0dc3\u0dbb\u0dda \u0d85\u0da9\u0dd4 \u0dc3\u0dc4 \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca \u0dbd\u0db6\u0db1 \u0dbb\u0da7\u0dc0\u0dbd \u0dc3\u0dd2\u0daf\u0dd4 \u0dc0\u0dd2\u0dba.",
+        "\u0db8\u0dcf\u0db1\u0dc0 \u0db4\u0dd0\u0db4\u0dd2\u0dbd\u0ddd\u0db8\u0dcf \u0dc0\u0dba\u0dd2\u0dbb\u0dc3 (HPV) \u0dc0\u0dbb\u0dca\u0d9c \u0daf\u0dd9\u0d9a\u0d9a\u0dca, 16 \u0dc3\u0dc4 18, \u0d85\u0dc0\u0db8 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d9c\u0dd0\u0db6\u0dca\u0d9c\u0dd9\u0dbd \u0db4\u0dd2\u0dc5\u0dd2\u0d9a\u0dcf \u0dc0\u0dbd\u0dd2\u0db1\u0dca 70% \u0d9a\u0da7 \u0dc0\u0d9c\u0d9a\u0dd2\u0dc0 \u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0dad\u0dbb, \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0da2\u0ddb\u0dc0 \u0dad\u0dcf\u0d9a\u0dca\u200d\u0dc2\u0dab \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d91\u0db1\u0dca\u0db1\u0dad HPV \u0dc0\u0dbb\u0dca\u0d9c 16 \u0dc3\u0dc4 18 \u0db8\u0dd9\u0db1\u0dca\u0db8 6 \u0dc3\u0dc4 11 \u0dc3\u0db3\u0dc4\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf \u0d9a\u0dbb\u0db1 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\"\u0daf\u0dda\u0dc1\u0dd3\u0dba\u0dc0 \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0db1 \u0dbd\u0daf \u0d91\u0db1\u0dca\u0db1\u0dad \u0d9c\u0dd0\u0db6\u0dca\u0d9c\u0dd9\u0dbd \u0db4\u0dd2\u0dc5\u0dd2\u0d9a\u0dcf \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0db1 \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf \u0db8\u0dbb\u0dab \u0db8\u0dd0\u0da9\u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0db4 \u0dbb\u0da7 \u0dc3\u0dca\u0dc0\u0dba\u0d82\u0db4\u0ddd\u0dc2\u0dd2\u0dad \u0d9a\u0dbb\u0db1\u0dd4 \u0d87\u0dad\" \u0dba\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca SII \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0d85\u0daf\u0dcf\u0dbb\u0dca \u0db4\u0dd6\u0db1\u0dc0\u0dbd\u0dca\u0dbd\u0dcf \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda\u0dba.",
+        "\u0d94\u0dc4\u0dd4 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0d91\u0db1\u0dca\u0db1\u0dad \u0db8\u0dcf\u0dc3 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc5\u0db8\u0dd4\u0dc0 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5\u0da7 \u0dc3\u0dc4 \u0db4\u0dc3\u0dd4\u0dc0 \u0dbd\u0ddd\u0d9a\u0dba\u0da7 \u0dc0\u0dd2\u0d9a\u0dd2\u0dab\u0dd3\u0db8\u0da7 \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dba\u0dd2. \u0d91\u0dc4\u0dd2 \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 200 \u0dad\u0dca 400 \u0dad\u0dca \u0d85\u0dad\u0dbb ($2.51-$5.03) \u0dc0\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0d85\u0dad\u0dbb \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0dc0\u0dc3\u0dbb \u0daf\u0dd9\u0d9a\u0d9a\u0dd2\u0db1\u0dca \u0db8\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 200 \u0d9a\u0dca \u0db4\u0db8\u0dab \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dbb\u0db1 \u0db6\u0dc0 \u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca \u0dc3\u0dc4\u0d9a\u0dbb\u0dd4 ANI \u0d8b\u0db4\u0dd4\u0da7\u0dcf \u0daf\u0d9a\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dd4\u0db1\u0dc0\u0dbd\u0dca\u0dbd\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0db8\u0dd9\u0db8 \u0d91\u0db1\u0dca\u0db1\u0dad \u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 9-14 \u0d85\u0dad\u0dbb \u0dc5\u0db8\u0dd4\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf \u0daf\u0dd9\u0d9a\u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0dc4 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 15 \u0dad\u0dca 26 \u0dad\u0dca \u0d85\u0dad\u0dbb \u0d85\u0dba\u0da7 \u0db8\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf \u0dad\u0dd4\u0db1\u0d9a\u0dd2\u0db1\u0dca \u0d91\u0db1\u0dca\u0db1\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0db1\u0dd4 \u0d87\u0dad."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda Serum \u0d86\u0dba\u0dad\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "SII",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc4\u0dad\u0dbb\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d87\u0dc3\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0d9c\u0dad 604,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "342,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2020",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbd\u0ddd\u0d9a \u0dc3\u0dde\u0d9b\u0dca\u0dba \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "90% \u0db4\u0db8\u0dab",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0d91\u0db8 \u0dc0\u0dc3\u0dbb\u0dda",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "HPV",
+            "label": "ORG"
+          },
+          {
+            "text": "16",
+            "label": "DATE"
+          },
+          {
+            "text": "18",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0db8 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca 70%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da2\u0ddb\u0dc0 \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
+            "label": "NORP"
+          },
+          {
+            "text": "HPV",
+            "label": "ORG"
+          },
+          {
+            "text": "16",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "18",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "SII",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dcf\u0dc3 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 200 \u0d85\u0dad\u0dbb",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "400",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2.51-$5.03",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 200 \u0d9a\u0dca \u0db4\u0db8\u0dab \u0dc0\u0dda",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "ANI",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dd6\u0db1\u0dcf\u0dc0\u0dbd\u0dca\u0dbd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 9-14",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "15 \u0dc3\u0dc4 26 \u0d85\u0dad\u0dbb",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0ba4\u0ba9\u0ba4\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd \u0baa\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc2\u0b9a\u0bbf\u0baf\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b89\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc2\u0b9a\u0bbf \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bbe\u0ba9 \u0b9a\u0bc6\u0bb0\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0bbf\u0b9f\u0bbf\u0baf\u0bc2\u0b9f\u0bcd \u0b86\u0b83\u0baa\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe (\u0b8e\u0bb8\u0bcd\u0b90\u0b90) \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd \u0baa\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc2\u0b9a\u0bbf\u0baf\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9.",
+        "\u0b89\u0bb2\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0b95\u0bc2\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bbf, 2020 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd 604,000 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 342,000 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd, \u0b95\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd \u0baa\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bbe\u0ba9\u0ba4\u0bc1 \u0b89\u0bb2\u0b95\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bc8\u0baf\u0bc7 \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bbe\u0bb5\u0ba4\u0bc1 \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbe\u0ba9 \u0baa\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd. \u0b89\u0bb2\u0b95\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd 90% \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0ba9.",
+        "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0ba9\u0bbf\u0ba4 \u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcb\u0bae\u0bbe \u0bb5\u0bc8\u0bb0\u0bb8\u0bcd (HPV) \u0bb5\u0b95\u0bc8\u0b95\u0bb3\u0bcd, 16 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 18, \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 70% \u0b95\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd \u0baa\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0ba9\u0ba4\u0bc1 HPV \u0bb5\u0b95\u0bc8 16 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 18 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 6 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 11 \u0b87\u0bb2\u0bcd \u0bb5\u0bc7\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0bb1\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\"\u0b89\u0bb3\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bc7\u0baf\u0bc7 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc2\u0b9a\u0bbf \u0b95\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd \u0baa\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bbe\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0ba3\u0bcd \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0ba4\u0ba9\u0bcd\u0ba9\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0b85\u0b9f\u0bc8\u0baf\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 SII \u0ba4\u0bb2\u0bc8\u0bae\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bbf \u0b86\u0ba4\u0bbe\u0bb0\u0bcd \u0baa\u0bc2\u0ba9\u0bbe\u0bb5\u0bb2\u0bcd\u0bb2\u0bbe \u0b92\u0bb0\u0bc1 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b85\u0bb5\u0bb0\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0baf\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1, \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc2\u0b9a\u0bbf \u0b9a\u0bbf\u0bb2 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b89\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd. \u0b87\u0ba4\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 200 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 400 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd ($2.51-$5.03) \u0bb5\u0bb0\u0bc8 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 200 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bcb\u0bb8\u0bcd\u0b95\u0bb3\u0bc8 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0ba9\u0bb0\u0bcd ANI \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bcb\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bc2\u0ba9\u0bb5\u0bb2\u0bcd\u0bb2\u0bbe \u0b95\u0bc2\u0bb1\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc2\u0b9a\u0bbf 9-14 \u0bb5\u0baf\u0ba4\u0bc1\u0b9f\u0bc8\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9f\u0bcb\u0bb8\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd, 15 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 26 \u0bb5\u0baf\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9f\u0bcb\u0bb8\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b8a\u0b9a\u0bbf \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bc0\u0bb0\u0bae\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0b90\u0b90",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "604,000 \u0b8e\u0ba9 \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "342,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2020",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b89\u0bb2\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 90%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b85\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "HPV",
+            "label": "ORG"
+          },
+          {
+            "text": "16",
+            "label": "DATE"
+          },
+          {
+            "text": "18",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 70%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0baf\u0bcb\u0b9f\u0bc6\u0b95\u0bcd\u0ba9\u0bbe\u0bb2\u0b9c\u0bbf \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "HPV",
+            "label": "ORG"
+          },
+          {
+            "text": "16",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "18",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0b90\u0b90",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbf\u0bb2 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "200 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "400",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2.51-$5.03",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 200 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8f\u0b8e\u0ba9\u0bcd\u0b90",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bc2\u0ba9\u0bbe\u0bb5\u0bb2\u0bcd\u0bb2\u0bbe",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "9-14 \u0bb5\u0baf\u0ba4\u0bc1\u0b9f\u0bc8\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "15 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 26 \u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}

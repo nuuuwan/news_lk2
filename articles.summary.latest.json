@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0ba4\u0bbf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4-\u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0b89\u0b9f\u0bcd\u0baa\u0bc2\u0b9a\u0bb2\u0bcd-\u0b89\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0bcd/175-303496",
+    "time_ut": 1662207381,
+    "original_lang": "ta",
+    "original_title": "\u0b89\u0ba4\u0bbf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0bc2\u0b9a\u0bb2\u0bcd \u0b89\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/4b/4be8b74d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84728/india-develops-its-first-cervical-cancer-vaccine",
+    "time_ut": 1662207180,
+    "original_lang": "en",
+    "original_title": "India develops its first cervical cancer vaccine",
+    "file_name": "/tmp/news_lk2/articles/44/44823d18.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddd\u0da7\u0dd2-20-000\u0d9a-\u0dc4\u0dd2\u0d9f-\u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca-\u0db8\u0dc4\u0dcf-\u0db7\u0dcf\u0dab\u0dca\u0da9\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dda-\u0dc4\u0dd2\u0dbb-\u0dc0\u0dd9\u0dba\u0dd2/101-619244",
     "time_ut": 1662206362,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "SJB Leader and Leader of the Opposition Sajith Premadasa  Keeps Away from the  Tea Party Given by President Ranil Wickremesinghe after his policy speech in Parliament",
     "file_name": "/tmp/news_lk2/articles/39/395ee988.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78883",
-    "time_ut": 1659726360,
-    "original_lang": "en",
-    "original_title": "Majority of  recent shootings are  related to drug trade wars and  settling of old scores says Police Spokesman; mostly unidentified   bodies  washing up in beaches due to death by drowning  have no indication  of  murder or assault injuries.",
-    "file_name": "/tmp/news_lk2/articles/5b/5b915dee.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78885",
-    "time_ut": 1659725820,
-    "original_lang": "en",
-    "original_title": "\u201cThe law will be applied equally to the people who attacked the peaceful protesters on 9th May and those who are engaging in violence and terrorism under the guise of the struggle. I will ensure that there is no political intervention in this process,\u201d-President Ranil Wickremesinghe in  his Policy Speech",
-    "file_name": "/tmp/news_lk2/articles/2e/2e9e85f9.json"
   }
 ]
