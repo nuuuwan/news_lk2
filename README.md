@@ -1,18 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 22:27:21 (LK time)*
+*As of 2022-09-03 22:44:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Myanmar donates 1,000 tons of rice to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10b2a94c.json))
-
-## Last Hour (2 Articles)
-
-* **1** ada-derana-lk ([Myanmar donates 1,000 tons of rice to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10b2a94c.json))
-
-* **1** tamil-mirror-lk ([இலங்கைக்கு வெற்றியிலக்கு 176 ஓட்டங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9db01608.json))
 
 ## Last 3 Hours (10 Articles)
 
@@ -22,23 +16,23 @@
 
 * **1** ada-derana-lk ([Myanmar donates 1,000 tons of rice to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10b2a94c.json))
 
-## Last 24 Hours (154 Articles)
+## Last 24 Hours (150 Articles)
 
 * **29** news-first-lk ([Ex-President Rajapaka returns to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5dfbe33a.json))
 
 * **27** tamil-mirror-lk ([இலங்கைக்கு ஆதரவளிப்போம்: பொரிஸ் ஜோன்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7937743.json))
 
-* **23** ada-derana-lk ([UK ready to engage with international partners to support Sri Lanka: PM Johnson](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc0b6b3.json))
-
 * **23** lankadeepa-lk ([හිටපු ජනපති ගෝඨාභය යළි පැමිණෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7793224.json))
+
+* **22** ada-derana-lk ([Ex-President Gotabaya to return tonight?](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50bc96cb.json))
 
 * **21** ada-lk ([ගෝඨා පැමිණෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35251aa2.json))
 
-* **11** daily-mirror-lk ([UK PM pledges support to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c097eb8.json))
-
 * **10** daily-ft-lk ([Really real manner of managing Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81942de3.json))
 
-* **5** economy-next-com ([Sri Lanka stx at over 5-mth high after IMF statement: market sees foreign inflow for 14th session](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac35adf7.json))
+* **9** daily-mirror-lk ([Lankan envoy says IMF agreement gives much-needed confidence to lure investors](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb45622.json))
+
+* **4** economy-next-com ([Sri Lanka’s ousted president returns amid tight security](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30920761.json))
 
 * **4** island-lk ([Significant net foreign inflows to CSE](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2db6ef9c.json))
 
