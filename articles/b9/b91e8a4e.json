@@ -1,0 +1,354 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/09/03/sri-lanka-wins-preliminary-match-against-india-at-asian-netball-championships/",
+  "time_ut": 1662203400,
+  "original_lang": "en",
+  "original_title": "Sri Lanka wins preliminary match against India at Asian Netball Championships",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka wins preliminary match against India at Asian Netball Championships",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st); Sri Lanka won the match against the Indian team at the 2022 Asian Netball Championships by 102 to 14 goals.",
+        "The match between the current Asian Netball champions, Sri Lanka, and the Philippines is due to be held on Sunday (4).",
+        "The final match of the tournament is due to be held on 11th September.",
+        "Sri Lanka has won the Asian Netball Championships a total of five times.",
+        "Electricity, petroleum production, fuel supply, and health, declared as essential services.- PMD",
+        "Sri Lanka wins preliminary match against India at Asian Netball Championships"
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        },
+        {
+          "text": "India",
+          "label": "GPE"
+        },
+        {
+          "text": "Asian Netball Championships",
+          "label": "LOC"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Indian",
+            "label": "NORP"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "Asian Netball Championships",
+            "label": "EVENT"
+          },
+          {
+            "text": "102",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Asian Netball",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Philippines",
+            "label": "GPE"
+          },
+          {
+            "text": "Sunday",
+            "label": "DATE"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "11th September",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "the Asian Netball Championships",
+            "label": "ORG"
+          },
+          {
+            "text": "five",
+            "label": "CARDINAL"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "Asian Netball Championships",
+            "label": "LOC"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dd0\u0dbd\u0dca\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0dc3\u0db8\u0d9c \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dad\u0dbb\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0da2\u0dba \u0dbd\u0db6\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); 2022 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dd0\u0dbd\u0dca\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0dc3\u0db8\u0d9c \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0dad\u0dbb\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0d9c\u0ddd\u0dbd 102 \u0da7 14 \u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0da2\u0dba \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd2\u0dba.",
+        "\u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dd0\u0dbd\u0dca\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc1\u0dd6\u0dbb\u0dba\u0db1\u0dca \u0dc0\u0db1 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc3\u0dc4 \u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1\u0dba \u0d85\u0dad\u0dbb \u0dad\u0dbb\u0d9c\u0dba \u0dbd\u0db6\u0db1 \u0d89\u0dbb\u0dd2\u0daf\u0dcf (4) \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dba\u0dd2.",
+        "\u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0db8\u0dc4\u0dcf \u0dad\u0dbb\u0d9c\u0dba \u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 11 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dba.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dd0\u0dbd\u0dca\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0 \u0db4\u0dc3\u0dca \u0dc0\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0daf\u0dd2\u0db1\u0dcf \u0d87\u0dad.",
+        "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba, \u0d9b\u0db1\u0dd2\u0da2 \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba, \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc3\u0dd0\u0db4\u0dba\u0dd3\u0db8 \u0dc3\u0dc4 \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0dba \u0d85\u0dad\u0dca\u200d\u0dba\u0dc0\u0dc1\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf \u0dbd\u0dd9\u0dc3 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb \u0d87\u0dad.- PMD",
+        "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dd0\u0dbd\u0dca\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0dc3\u0db8\u0d9c \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dad\u0dbb\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0da2\u0dba \u0dbd\u0db6\u0dba\u0dd2"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dd0\u0dbd\u0dca\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0dd2\u0dba",
+          "label": "LOC"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
+            "label": "NORP"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dd0\u0dbd\u0dca\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0dd2\u0dba",
+            "label": "EVENT"
+          },
+          {
+            "text": "102",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db1\u0dd9\u0da7\u0dca\u0db6\u0ddd\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d89\u0dbb\u0dd2\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 11",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dd0\u0dbd\u0dca\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dc4",
+            "label": "CARDINAL"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dd0\u0dbd\u0dca\u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0dd2\u0dba",
+            "label": "LOC"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b86\u0b9a\u0bbf\u0baf \u0bb5\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb7\u0bbf\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0b86\u0bb0\u0bae\u0bcd\u0baa \u0b86\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); 2022 \u0b86\u0b9a\u0bbf\u0baf \u0bb5\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb7\u0bbf\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0b86\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 102\u0b95\u0bcd\u0b95\u0bc1 14 \u0b8e\u0ba9\u0bcd\u0bb1 \u0b95\u0bcb\u0bb2\u0bcd \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1.",
+        "\u0ba8\u0b9f\u0baa\u0bcd\u0baa\u0bc1 \u0b86\u0b9a\u0bbf\u0baf \u0bb5\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bbe\u0ba9 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd \u0b85\u0ba3\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (4) \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf \u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 11\u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0bae\u0bca\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0bb1\u0bc8 \u0b86\u0b9a\u0bbf\u0baf \u0bb5\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb7\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd, \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bbf\u0baf\u0bae\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf, \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bcd, \u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0b9a\u0bbf\u0baf \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.- PMD",
+        "\u0b86\u0b9a\u0bbf\u0baf \u0bb5\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb7\u0bbf\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0b86\u0bb0\u0bae\u0bcd\u0baa \u0b86\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0b86\u0b9a\u0bbf\u0baf \u0bb5\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb7\u0bbf\u0baa\u0bcd",
+          "label": "LOC"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf \u0bb5\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb7\u0bbf\u0baa\u0bcd",
+            "label": "EVENT"
+          },
+          {
+            "text": "102",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf \u0bb5\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "4",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 11",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf \u0bb5\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb7\u0bbf\u0baa\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf \u0bb5\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb7\u0bbf\u0baa\u0bcd",
+            "label": "LOC"
+          }
+        ]
+      ]
+    }
+  }
+}

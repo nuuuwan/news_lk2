@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd-\u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0ba4\u0bcd-\u0ba4\u0baf\u0bbe\u0bb0\u0bcd/175-303495",
+    "time_ut": 1662204016,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/2c/2ccfcdfb.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84727/special-gazette-issued-declaring-electricity-fuel-and-health-essential-services-",
+    "time_ut": 1662203760,
+    "original_lang": "en",
+    "original_title": "Special gazette issued declaring electricity, fuel and health essential services",
+    "file_name": "/tmp/news_lk2/articles/68/6832468e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/electricity-petroleum-production-fuel-supply-and-health-declared-as-essential-services-pmd/",
+    "time_ut": 1662203460,
+    "original_lang": "en",
+    "original_title": "Electricity, petroleum production, fuel supply, and health, declared as essential services.- PMD",
+    "file_name": "/tmp/news_lk2/articles/c5/c5bc45b6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/sri-lanka-wins-preliminary-match-against-india-at-asian-netball-championships/",
+    "time_ut": 1662203400,
+    "original_lang": "en",
+    "original_title": "Sri Lanka wins preliminary match against India at Asian Netball Championships",
+    "file_name": "/tmp/news_lk2/articles/b9/b91e8a4e.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/features/\u0d9a\u0d9a\u0dd4\u0dbd\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba-\u0dbd\u0dd2\u0dba\u0dcf-\u0d8b\u0dc3\u0dc3\u0dca-\u0db4\u0dd9\u0dc5-\u0d89\u0dc4\u0dbd\u0dd2\u0db1\u0dca\u0db8-\u0dc3\u0db8\u0dad\u0dca-\u0dc0\u0dd6-\u0daf\u0ddb\u0dc0\u0dba\u0da7-\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c-\u0d9a\u0dbd-\u0daf\u0dd2\u0dbb\u0dd2\u0dba-\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba/2-619235",
     "time_ut": 1662202418,
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lankan  President Ranil Wickremesinghe  affirms nation\u2019s commitment to the \u2018One China Policy\u2019 and asks  countries to \u201crefrain from provocations\u201d, in a message apparently directed to the United States",
     "file_name": "/tmp/news_lk2/articles/7f/7f5651bd.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba-\u0db4\u0dd2\u0da7\u0dd4\u0daf\u0d9a\u0dd2\u0db8\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba-\u0dbb\u0d9a\u0dd2\u0db8\u0dd4/117-617503",
-    "time_ut": 1659504950,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba \u0db4\u0dd2\u0da7\u0dd4\u0daf\u0d9a\u0dd2\u0db8\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba \u0dbb\u0d9a\u0dd2\u0db8\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/99/99186c0e.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78854",
-    "time_ut": 1659468240,
-    "original_lang": "en",
-    "original_title": "\u201cI took over a country that was in disaster.  I decided to accept this critical challenge, on behalf of my people and the country, based on the premise that it is my duty to light even one lamp for the country rather than cursing the darkness.\u201d \u2013 President Ranil Wickremesinghe\u2019s Policy Statement.",
-    "file_name": "/tmp/news_lk2/articles/bd/bdd88f85.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78849",
-    "time_ut": 1659467700,
-    "original_lang": "en",
-    "original_title": "The Government is labouring under the delusion that targeted repression of dissenters can bring about political stability. The Opposition seems to believe that ousting Ranil Wickremesinghe is Lankan people\u2019s current preoccupation",
-    "file_name": "/tmp/news_lk2/articles/76/761a3a7a.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78852",
-    "time_ut": 1659467160,
-    "original_lang": "en",
-    "original_title": "President Wickremesinghe will resist any call for him to quit and serve till November 2024 when the next presidential poll is due. As he enjoys majority support he will be in no hurry to call for a general election, as his detractors have demanded.",
-    "file_name": "/tmp/news_lk2/articles/10/10afe490.json"
   }
 ]
