@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0-\u0d91\u0db4\u0dcf-\u0dc0\u0dd6-\u0dad\u0dc0\u0dad\u0dca-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0da9\u0dbd\u0dc3\u0dca\u0dbd\u0dcf\u0da7-\u0d91\u0d9a\u0dad\u0dd4-\u0dc0\u0dd9\u0dad\u0dd2/1-619233",
+    "time_ut": 1662200633,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0 \u0d91\u0db4\u0dcf \u0dc0\u0dd6 \u0dad\u0dc0\u0dad\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0da9\u0dbd\u0dc3\u0dca\u0dbd\u0dcf\u0da7 \u0d91\u0d9a\u0dad\u0dd4 \u0dc0\u0dd9\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f8/f8564c60.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9a\u0b9f\u0bbf-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd-\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf/175-303492",
+    "time_ut": 1662200435,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bcb\u0b9a\u0b9f\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd: \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/2f/2f602124.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/india-now-world-s-fifth-largest-economy-overtakes-uk/",
+    "time_ut": 1662200280,
+    "original_lang": "en",
+    "original_title": "India Now World\u2019s Fifth Largest Economy, Overtakes UK",
+    "file_name": "/tmp/news_lk2/articles/b3/b357975c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/mps-visit-former-president-at-his-residence/",
+    "time_ut": 1662199860,
+    "original_lang": "en",
+    "original_title": "MPs visit former President at his residence",
+    "file_name": "/tmp/news_lk2/articles/a4/a471240f.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Telecommunication-providers-up-service-charges-VAT/108-244260",
     "time_ut": 1662198325,
@@ -102,6 +134,14 @@
     "original_lang": "en",
     "original_title": "EU welcomes IMF - Sri Lanka agreement",
     "file_name": "/tmp/news_lk2/articles/ca/ca636427.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad-\u0db4\u0dbb\u0dca-\u0da0\u0dc3\u0dba\u0d9a\u0dca-\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca-100-\u0db6\u0dd0\u0d9c\u0dd2\u0db1\u0dca-\u0dc0\u0dc3\u0dbb\u0d9a\u0da7-\u0db6\u0daf\u0dd4-\u0daf\u0dd9\u0dba\u0dd2/11-396860",
+    "time_ut": 1662192542,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0db4\u0dbb\u0dca \u0da0\u0dc3\u0dba\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 100 \u0db6\u0dd0\u0d9c\u0dd2\u0db1\u0dca \u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db6\u0daf\u0dd4 \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a3/a3e70cd7.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "National Movement for Social Justice Chairman Karu Jayasuriya  states  that a few inappropriate people who joined the \u201cAragalaya\u201d later disrupted the movement and caused violence;NMSJ cannot approve of the killing and harassing of people\u2019s representatives (MPs), burning their houses, and damaging other properties says Ex-speaker",
     "file_name": "/tmp/news_lk2/articles/3d/3dc09bb2.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78810",
-    "time_ut": 1659293280,
-    "original_lang": "en",
-    "original_title": "Sri Lankan President Wickremesinghe Tells \u201cWall Street Journal\u201d that Ex-president Gotabaya Rajapaksa has not  told him he planned to return to Sri Lanka soon; \u201cI don\u2019t believe it\u2019s the time for him to return,I have no indication of him returning soon.\u201d Says Ranil",
-    "file_name": "/tmp/news_lk2/articles/ba/ba304be8.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78818",
-    "time_ut": 1659292740,
-    "original_lang": "en",
-    "original_title": "India  raises the scheduled visit of Chinese research vessel \u2018Yuan Wang 5\u2019 to  Hambantota with President Ranil Wickremesinghe,the matter \u201cwas raised at the highest level by the Indian side,\u201d an official source in Colombo tells  \u201cThe Hindu\u201d",
-    "file_name": "/tmp/news_lk2/articles/4a/4aeb23e6.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/26-6-million-of-sri-lankan-taxpayers-money-spent-on-former-prime-minister-mahinda-rajapaksas-trip-to-italy/",
-    "time_ut": 1659239214,
-    "original_lang": "en",
-    "original_title": "26.6 Million Of Sri Lankan Taxpayers\u2019 Money Spent On Former Prime Minister Mahinda Rajapaksa\u2019s Trip To Italy",
-    "file_name": "/tmp/news_lk2/articles/d0/d099f422.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/twisting-the-aragalaya-into-what-it-is-not/",
-    "time_ut": 1659190560,
-    "original_lang": "en",
-    "original_title": "Twisting the aragalaya into what it is not",
-    "file_name": "/tmp/news_lk2/articles/c0/c0d455ef.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0db6\u0dd2\u0dc4\u0dd2\u0dc0\u0dd3\u0db8\u0dda-\u0dc4\u0dda\u0dad\u0dd4-\u0dc3\u0ddc\u0dba\u0dcf-\u0d8a\u0da7-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1/2-617224",
-    "time_ut": 1659072566,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0db6\u0dd2\u0dc4\u0dd2\u0dc0\u0dd3\u0db8\u0dda \u0dc4\u0dda\u0dad\u0dd4 \u0dc3\u0ddc\u0dba\u0dcf \u0d8a\u0da7 \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/c2/c299bfec.json"
   }
 ]
