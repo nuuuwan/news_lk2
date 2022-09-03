@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0daf\u0dd4-\u0dc4\u0ddc\u0dbb\u0dd4\u0db1\u0dca\u0da7-\u0d8b\u0daf\u0dc0\u0dca-\u0d9a\u0dbb\u0db1-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca-\u0dc4\u0dba\u0dc3\u0dd2\u0dba\u0dba\u0d9a\u0dca-\u0d9c\u0dd0\u0db1-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab/101-619232",
+    "time_ut": 1662196620,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0daf\u0dd4 \u0dc4\u0ddc\u0dbb\u0dd4\u0db1\u0dca\u0da7 \u0d8b\u0daf\u0dc0\u0dca \u0d9a\u0dbb\u0db1 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0dc4\u0dba\u0dc3\u0dd2\u0dba\u0dba\u0d9a\u0dca \u0d9c\u0dd0\u0db1 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab",
+    "file_name": "/tmp/news_lk2/articles/8e/8e1c4307.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0baa\u0bbf\u0bb0\u0b9c\u0bc8\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0baa\u0bbe\u0bb0\u0bbf\u0baf-\u0b95\u0b9f\u0ba9\u0bcd/175-303487",
+    "time_ut": 1662195835,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bbf\u0bb0\u0b9c\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0baa\u0bbe\u0bb0\u0bbf\u0baf \u0b95\u0b9f\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b9/b92e3410.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bbf\u0baf-\u0b9a\u0bbe\u0bae\u0bbf\u0baf\u0bbe\u0bb0\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd/175-303486",
     "time_ut": 1662195089,
@@ -25,11 +41,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d91\u0d9a\u0dca-\u0db4\u0dc0\u0dd4\u0dbd\u0d9a\u0dca-\u0dbd\u0d9a\u0dca\u0dc2-58\u0d9a\u0dca-\u0dab\u0dba\u0dba\u0dd2/1-619230",
+    "url": "https://www.lankadeepa.lk/news/\u0d91\u0d9a\u0dca-\u0db4\u0dc0\u0dd4\u0dbd\u0d9a\u0dca-\u0dbd\u0d9a\u0dca\u0dc2-58\u0d9a\u0dca-\u0dab\u0dba\u0dba\u0dd2/101-619230",
     "time_ut": 1662194025,
     "original_lang": "si",
     "original_title": "\u0d91\u0d9a\u0dca \u0db4\u0dc0\u0dd4\u0dbd\u0d9a\u0dca \u0dbd\u0d9a\u0dca\u0dc2 58\u0d9a\u0dca \u0dab\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/89/89d6d3d2.json"
+    "file_name": "/tmp/news_lk2/articles/c1/c18545c7.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "JR Jayewardene, the Kanatte Mass Funeral and the July 1983 Anti-Tamil Pogrom",
     "file_name": "/tmp/news_lk2/articles/b5/b5842d76.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78783",
-    "time_ut": 1658949840,
-    "original_lang": "en",
-    "original_title": "India sends \u201cclear message\u201d that it is monitoring the ship\u2019s progress \u201ccarefully\u201d of Chinese space and satellite tracking research vessel \u201cYuan Wang 5\u201d expected to dock in Sri Lanka\u2019s Hambantota port from August 11-17 for \u201creplenishment\u201d but  Sri Lanka Defence Ministry  Spolesman says \u201cWe have no confirmation of such a vessel calling at the Hambantota port,\u201d",
-    "file_name": "/tmp/news_lk2/articles/01/01e4622e.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78785",
-    "time_ut": 1658949300,
-    "original_lang": "en",
-    "original_title": "Full Text of Civil Society Statement on attacks and reprisals against peaceful protesters Signed by 165 Individuals and 10 Organizations",
-    "file_name": "/tmp/news_lk2/articles/f4/f4af35f3.json"
   }
 ]
