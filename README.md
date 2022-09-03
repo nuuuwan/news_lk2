@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 02:19:37 (LK time)*
+*As of 2022-09-04 02:37:45 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (7 Articles)
+## Last 3 Hours (6 Articles)
 
-* **3** tamil-mirror-lk ([ஆசியக் கிண்ணம்: ஆப்கானிஸ்தானை வீழ்த்திய இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/8535e383.json))
+* **2** tamil-mirror-lk ([பொலிஸாருக்கு ஜனாதிபதி புகழாரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/362ebc90.json))
 
 * **2** ada-derana-lk ([WFP Regional Director for Asia and Pacific calls on Foreign Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a952c21d.json))
 
