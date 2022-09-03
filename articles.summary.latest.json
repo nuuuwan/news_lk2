@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bbf\u0baf-\u0b9a\u0bbe\u0bae\u0bbf\u0baf\u0bbe\u0bb0\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd/175-303486",
+    "time_ut": 1662195089,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bbf\u0baf \u0b9a\u0bbe\u0bae\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd?",
+    "file_name": "/tmp/news_lk2/articles/20/20a493c3.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/03/positive-response-from-international-community-over-imf-mission-statement-on-sl/",
     "time_ut": 1662194460,
@@ -46,6 +54,14 @@
     "original_lang": "en",
     "original_title": "EU welcomes staff-level agreement between IMF, Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/5b/5b79a368.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84725/eu-welcomes-imf-sri-lanka-agreement",
+    "time_ut": 1662192660,
+    "original_lang": "en",
+    "original_title": "EU welcomes IMF - Sri Lanka agreement",
+    "file_name": "/tmp/news_lk2/articles/ca/ca636427.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Full Text of Civil Society Statement on attacks and reprisals against peaceful protesters Signed by 165 Individuals and 10 Organizations",
     "file_name": "/tmp/news_lk2/articles/f4/f4af35f3.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78781",
-    "time_ut": 1658948760,
-    "original_lang": "en",
-    "original_title": "India says it will protect its interests as Chinese research and survey vessel \u201cYuan Wang 5\u201d heads to  Hambantota Port in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/a1/a1236e6c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0d85\u0dc3\u0dca\u0dc3\u0dda-\u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca/2-617109",
-    "time_ut": 1658901532,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0d85\u0dc3\u0dca\u0dc3\u0dda \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/8a/8a1fa1d3.json"
   }
 ]
