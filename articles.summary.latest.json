@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/foreign-national-arrested-at-bia-with-gold-biscuits/",
+    "time_ut": 1662216120,
+    "original_lang": "en",
+    "original_title": "Foreign national arrested at BIA with gold biscuits",
+    "file_name": "/tmp/news_lk2/articles/cd/cd631fd0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/conspiracy-against-cbsl-governor-sajith-questions-ulterior-motives/",
+    "time_ut": 1662215940,
+    "original_lang": "en",
+    "original_title": "Conspiracy against CBSL Governor: Sajith questions ulterior motives",
+    "file_name": "/tmp/news_lk2/articles/a8/a83bf2e0.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbf\u0bb0\u0ba8\u0bcd\u0ba4\u0bb0-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8-\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd-\u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbe\u0b95\u0bc1\u0bae\u0bcd/175-303512",
     "time_ut": 1662215145,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ex- Sri Lankan President Gotabaya Rajapaksa  Likely to move from Singapore to Thailand for Temporary Stay; \u201cThe Sri Lankan side informs us that the former president has no intention for political asylum in Thailand and will travel to another country afterwards.\u201d Says Thai Foreign Ministry Spokesman Tanee Sangrat",
     "file_name": "/tmp/news_lk2/articles/7f/7f672d81.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78832",
-    "time_ut": 1659987660,
-    "original_lang": "en",
-    "original_title": "Indo-Lanka Accord 35th Anniversary: How the Tamils Messed up a Golden Opportunity.",
-    "file_name": "/tmp/news_lk2/articles/e0/e0866359.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78930",
-    "time_ut": 1659986640,
-    "original_lang": "en",
-    "original_title": "Any attempts to push through an IMF reform programme without clear articulation of its rationale, expected outcomes, and measures to protect the vulnerable will be met with resistance by politicians and the public.",
-    "file_name": "/tmp/news_lk2/articles/d8/d81b4f5c.json"
   }
 ]
