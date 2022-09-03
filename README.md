@@ -1,14 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 13:21:18 (LK time)*
+*As of 2022-09-03 13:40:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
-
-* **1** news-first-lk ([Gotabaya to receive entitlements provided to ex-President](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37c515a9.json))
-
-## Last Hour (5 Articles)
+## Last Hour (4 Articles)
 
 * **2** news-first-lk ([Tourist arrivals record rise in July](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/7587dc66.json))
 
@@ -16,13 +12,11 @@
 
 * **1** ada-derana-lk ([Veteran actor Anura Medagoda passes away](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32e2718c.json))
 
-* **1** economy-next-com ([Sri Lanka coconut prices fall at auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3748609.json))
+## Last 3 Hours (29 Articles)
 
-## Last 3 Hours (32 Articles)
+* **11** ada-lk ([නාසා සඳ රොකට්ටුව යළි දියත් කිරීමේ උත්සාහයක](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/8173f18c.json))
 
-* **12** ada-lk ([සංචාරක පැමිණීම්වල පහළ යෑමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d603694c.json))
-
-* **8** news-first-lk ([Mobile, Broadband, & Pay TV charges increased](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37b5826f.json))
+* **7** news-first-lk ([Associate of “Kudu Salindu” arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d15aef.json))
 
 * **3** lankadeepa-lk ([චීනයේ ස්ථාවරය කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd01bee1.json))
 
@@ -32,23 +26,23 @@
 
 * **2** ada-derana-lk ([TRCSL approves tariff hike for mobile, fixed, broadband & pay TV services](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02b7c7d2.json))
 
-* **2** economy-next-com ([Sri Lanka Parliament to meet again from September 06-09](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0aeecce7.json))
+* **1** economy-next-com ([Sri Lanka coconut prices fall at auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3748609.json))
 
-## Last 24 Hours (184 Articles)
+## Last 24 Hours (173 Articles)
 
-* **41** news-first-lk ([Policy makers should take note of harm caused by industrial agricultural practices](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d73d445c.json))
+* **37** news-first-lk ([SLFP to make key amendments to the party constitution](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/1256c1ec.json))
 
 * **32** lankadeepa-lk ([කොහාගෙ බිත්තර කන්න එන නයි පොළොඟුන්ට කොටනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ccce737.json))
 
-* **24** ada-lk ([නන්දලාල් වෙනුවට මම යන්නම් - සබ්‍රි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc0cf9fa.json))
+* **23** ada-lk ([සෞඛ්‍ය උපකරණ 43 ක මිල සංශෝධනය කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5a34d08.json))
 
-* **22** tamil-mirror-lk ([ஒரே பிரசவத்தில் நான்கு குழந்தைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/129c15fb.json))
+* **20** tamil-mirror-lk ([கடமையை தட்டிக்கழிக்க முடியாது](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31a123ae.json))
 
-* **21** ada-derana-lk ([Overseas travel ban on Basil temporarily lifted](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/028b6641.json))
-
-* **15** economy-next-com ([Sri Lanka’s state-run Litro Gas to drop cooking gas prices from Sep 05](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a3f9c1a.json))
+* **19** ada-derana-lk ([Court dismisses petition challenging amendments to SLFP constitution](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de245907.json))
 
 * **13** daily-mirror-lk ([Supreme Court allows Basil to travel USA for four months](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/138a84f0.json))
+
+* **13** economy-next-com ([Up to 6.3 million people face food insecurity in cash-strapped Sri Lanka: WFP](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56a8436e.json))
 
 * **10** daily-ft-lk ([Really real manner of managing Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81942de3.json))
 
