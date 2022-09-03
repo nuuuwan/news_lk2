@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0db1\u0dca-\u0db8\u0dd2\u0dbd-\u0db4\u0dcf-\u0dc0\u0dd9\u0dba\u0dd2/101-619248",
+    "time_ut": 1662212114,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0db1\u0dca \u0db8\u0dd2\u0dbd \u0db4\u0dcf \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/fa/fa373965.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84730/fuel-requirements-for-september-october-reviewed",
+    "time_ut": 1662211920,
+    "original_lang": "en",
+    "original_title": "Fuel requirements for September & October reviewed",
+    "file_name": "/tmp/news_lk2/articles/bb/bb804fce.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb0\u0bbf\u0bb8\u0bcd-\u0b95\u0bbf\u0bb3\u0baa\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-303499",
     "time_ut": 1662211909,
     "original_lang": "ta",
     "original_title": "\u0baa\u0bb0\u0bbf\u0bb8\u0bcd \u0b95\u0bbf\u0bb3\u0baa\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
     "file_name": "/tmp/news_lk2/articles/c8/c8bada8e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0daf\u0dd2\u0dbb\u0dd2-\u0db8\u0dcf\u0dc3-\u0daf\u0dd9\u0d9a\u0dda-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dad\u0dcf\u0dc0-\u0d9c\u0dd0\u0db1-\u0dc3\u0dcf\u0db8\u0dcf\u0dbd\u0ddd\u0da0\u0db1\u0dba\u0d9a\u0dca/11-396863",
+    "time_ut": 1662210592,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0db8\u0dcf\u0dc3 \u0daf\u0dd9\u0d9a\u0dda \u0d89\u0db1\u0dca\u0db0\u0db1 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dad\u0dcf\u0dc0 \u0d9c\u0dd0\u0db1 \u0dc3\u0dcf\u0db8\u0dcf\u0dbd\u0ddd\u0da0\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/4a/4ab2fb64.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -25,11 +49,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dca\u0dae\u0dd3\u0dbb-\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca\u0da7\u0dd4\u0dc0-\u0dad\u0dc0-\u0d9a\u0dbd\u0dca-\u0dba\u0db1-\u0dc4\u0dd0\u0da9/1-619246",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dca\u0dae\u0dd3\u0dbb-\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca\u0da7\u0dd4\u0dc0-\u0dad\u0dc0-\u0d9a\u0dbd\u0dca-\u0dba\u0db1-\u0dc4\u0dd0\u0da9/101-619246",
     "time_ut": 1662210052,
     "original_lang": "si",
     "original_title": "\u0dc3\u0dca\u0dae\u0dd3\u0dbb \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca\u0da7\u0dd4\u0dc0 \u0dad\u0dc0 \u0d9a\u0dbd\u0dca \u0dba\u0db1 \u0dc4\u0dd0\u0da9",
-    "file_name": "/tmp/news_lk2/articles/24/244f0c4d.json"
+    "file_name": "/tmp/news_lk2/articles/55/55ad689d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -86,6 +110,14 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 20,000\u0d9a \u0dc4\u0dd2\u0d9f \u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca \u0db8\u0dc4\u0dcf \u0db7\u0dcf\u0dab\u0dca\u0da9\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dda \u0dc4\u0dd2\u0dbb \u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/8e/8ebea194.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/world_news/\u0d9c\u0ddc\u0dbb\u0dca\u0db6\u0da0\u0ddc\u0dc0\u0dca-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0d9c\u0db8\u0db1\u0dca-\u0dba\u0dba\u0dd2/14-619241",
+    "time_ut": 1662204598,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddc\u0dbb\u0dca\u0db6\u0da0\u0ddc\u0dc0\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/7b/7b7141b7.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ranil Wickremesinghe  can be ranked as a  person endowed with intellectual elegance and excellence in statesmanship.  Ranil is one whose character has been deliberately destroyed by the media. However, If he is capable of redeeming and reforming  Sri Lanka his name will go down in history as the hero who saved Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/21/219b026b.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78927",
-    "time_ut": 1659900240,
-    "original_lang": "en",
-    "original_title": "Colombo Chief Magistrate Nandana Amarasinghe  rejects Application made by  Police to issue a restraining order against the  protest planned to be held  on August 9  by several political parties and civil organisation against President Ranil Wickremesinghe and the current Government.",
-    "file_name": "/tmp/news_lk2/articles/31/317f3251.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78925",
-    "time_ut": 1659899700,
-    "original_lang": "en",
-    "original_title": "Ceylon Teachers\u2019 Union (CTU) General Secretary Joseph Stalin released on One Million Rupee  bail after being remanded for allegedly violating a court order  Attends  immediately after his release  the Protest demanding his release  by  teachers and principals near the Lipton Circus Roundabout in Colombo",
-    "file_name": "/tmp/news_lk2/articles/c7/c70535f1.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78922",
-    "time_ut": 1659899160,
-    "original_lang": "en",
-    "original_title": "China  says it  is \u201csenseless and unreasonable\u201d to \u201cpressure\u201d Sri Lanka to defer the planned docking of Chinese space and satellite tracking research vessel Yuan Wang 5 at the Hambantota Port citing security concerns, in a thinly veiled reference to India, which has expressed strong objection to Sri Lanka over the planned docking.",
-    "file_name": "/tmp/news_lk2/articles/75/75ce1be7.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/MBSL-\u0d86\u0db1\u0dca\u0dad\u0dd2\u0d9a-\u0dab\u0dba-\u0dc4\u0dd2\u0db8\u0dd2-\u0d86\u0dba\u0ddd\u0da2\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-SEC-\u0dc4\u0dcf-CSE-\u0db6\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca/7-396100",
-    "time_ut": 1659872502,
-    "original_lang": "si",
-    "original_title": "MBSL \u0d86\u0db1\u0dca\u0dad\u0dd2\u0d9a \u0dab\u0dba \u0dc4\u0dd2\u0db8\u0dd2 \u0d86\u0dba\u0ddd\u0da2\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca SEC \u0dc4\u0dcf CSE \u0db6\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7 \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/b3/b3abaeb7.json"
   }
 ]
