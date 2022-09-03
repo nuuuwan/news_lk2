@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-03 05:43:50 (LK time)*
+*As of 2022-09-03 06:08:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (198 Articles)
+## Last 24 Hours (197 Articles)
 
 * **42** lankadeepa-lk ([වායුගෝලීය කැළඹිලි තත්වය ක්‍රමයෙන් ඉවත්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b0b1ca3.json))
 
@@ -20,7 +20,7 @@
 
 * **16** ada-lk ([බංග්ලාදේශය පරදවමින් ශ්‍රී ලංකාව සුපිරි 4 දෙනාගේ වටයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5cf8914.json))
 
-* **11** daily-ft-lk ([Trouble in tourism: Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56df5945.json))
+* **10** daily-ft-lk ([Really real manner of managing Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81942de3.json))
 
 * **5** island-lk ([Between the Prescriptive and Descriptive: The Challenge for Dictionary Makers](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b50447fa.json))
 
