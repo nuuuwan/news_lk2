@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0d85\u0db8\u0dd4\u0dad\u0dca\u0dad\u0db1\u0dca\u0d9c\u0dda-\u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca\u2019\u2019-306\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/101-619229",
+    "time_ut": 1662193579,
+    "original_lang": "si",
+    "original_title": "\u2019\u2019\u0d85\u0db8\u0dd4\u0dad\u0dca\u0dad\u0db1\u0dca\u0d9c\u0dda \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca\u2019\u2019 306\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/08/08bc3ade.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/sri-lanka-reviews-fuel-needs/",
+    "time_ut": 1662193380,
+    "original_lang": "en",
+    "original_title": "Sri Lanka reviews fuel needs",
+    "file_name": "/tmp/news_lk2/articles/7a/7ac16403.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84725/eu-welcomes-staff-level-agreement-between-imf-sri-lanka",
+    "time_ut": 1662192660,
+    "original_lang": "en",
+    "original_title": "EU welcomes staff-level agreement between IMF, Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/5b/5b79a368.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/eu-welcomes-imf-sl-deal/",
+    "time_ut": 1662192420,
+    "original_lang": "en",
+    "original_title": "EU welcomes IMF \u2013 SL deal",
+    "file_name": "/tmp/news_lk2/articles/19/193158cf.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/03/gotabaya-to-receive-entitlements-provided-to-ex-president/",
     "time_ut": 1662190320,
@@ -30,6 +62,14 @@
     "original_lang": "en",
     "original_title": "Tourist arrivals record rise in July",
     "file_name": "/tmp/news_lk2/articles/75/7587dc66.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/picture_story/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2-\u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0/10-396859",
+    "time_ut": 1662189015,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+    "file_name": "/tmp/news_lk2/articles/4a/4a8b27b8.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "The International Monetary Fund (IMF) says  Sri Lanka should Commence debt restructuring talks with its bilateral lender China,",
     "file_name": "/tmp/news_lk2/articles/6b/6b656c7c.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78751",
-    "time_ut": 1658861820,
-    "original_lang": "en",
-    "original_title": "Singapore extends  short-stay visa for Sri Lanka\u2019s deposed president Gotabaya Rajapaksa by a further Fourteen Days Until August 11 Reports  \u201cStraits Times\u201d",
-    "file_name": "/tmp/news_lk2/articles/d6/d673e59b.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78755",
-    "time_ut": 1658861280,
-    "original_lang": "en",
-    "original_title": "Following  dramatic arrest by CID officers aboard a flight to Dubai UAE on 26th, Dhaniz Ali remanded till 5 August by the Colombo Fort Magistrate\u2019s Court; Suspect allegedly entered the Sri Lanka Rupavahini (Television) Corporation (SLRC) premises in Colombo 7 and interfered with its broadcasting",
-    "file_name": "/tmp/news_lk2/articles/14/142c76bc.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78757",
-    "time_ut": 1658860740,
-    "original_lang": "en",
-    "original_title": "Wajira Abeywardana sworn in as the United National Party\u2019s (UNP) National List Parliamentarian in place of Ranil Wickremesinghe; Minister of Education Dr. Susil Premajayantha appointed as the new Leader of the House; Minister of Urban Development and Housing Prasanna Ranatunga  re-appointed Chief Government Whip",
-    "file_name": "/tmp/news_lk2/articles/6d/6de5362c.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78620",
-    "time_ut": 1658778060,
-    "original_lang": "en",
-    "original_title": "Tenacious \u201cAragalaya\u201d (Struggle) of FSP Leader Kumar Gunaratnam Alias Kumar/Kumara.",
-    "file_name": "/tmp/news_lk2/articles/03/038b709a.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78744",
-    "time_ut": 1658775960,
-    "original_lang": "en",
-    "original_title": "President Wickremesinghe said \u2013 and perhaps quite rightly \u2013 after assuming office that he will not permit unlawful occupation of State buildings.He also made a clear distinction between \u2018peaceful dissenters\u2019 and \u2018violent agitators.\u2019Those distinctions were thrown to the winds on Friday.",
-    "file_name": "/tmp/news_lk2/articles/cf/cf621289.json"
   }
 ]

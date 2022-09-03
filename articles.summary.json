@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0d85\u0db8\u0dd4\u0dad\u0dca\u0dad\u0db1\u0dca\u0d9c\u0dda-\u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca\u2019\u2019-306\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/101-619229",
+    "time_ut": 1662193579,
+    "original_lang": "si",
+    "original_title": "\u2019\u2019\u0d85\u0db8\u0dd4\u0dad\u0dca\u0dad\u0db1\u0dca\u0d9c\u0dda \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca\u2019\u2019 306\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/08/08bc3ade.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/sri-lanka-reviews-fuel-needs/",
+    "time_ut": 1662193380,
+    "original_lang": "en",
+    "original_title": "Sri Lanka reviews fuel needs",
+    "file_name": "/tmp/news_lk2/articles/7a/7ac16403.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84725/eu-welcomes-staff-level-agreement-between-imf-sri-lanka",
+    "time_ut": 1662192660,
+    "original_lang": "en",
+    "original_title": "EU welcomes staff-level agreement between IMF, Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/5b/5b79a368.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/eu-welcomes-imf-sl-deal/",
+    "time_ut": 1662192420,
+    "original_lang": "en",
+    "original_title": "EU welcomes IMF \u2013 SL deal",
+    "file_name": "/tmp/news_lk2/articles/19/193158cf.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/03/gotabaya-to-receive-entitlements-provided-to-ex-president/",
     "time_ut": 1662190320,
@@ -30,6 +62,14 @@
     "original_lang": "en",
     "original_title": "Tourist arrivals record rise in July",
     "file_name": "/tmp/news_lk2/articles/75/7587dc66.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/picture_story/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2-\u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0/10-396859",
+    "time_ut": 1662189015,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+    "file_name": "/tmp/news_lk2/articles/4a/4a8b27b8.json"
   },
   {
     "newspaper_id": "economy-next-com",
