@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/update-in-fuel-for-factories/",
+    "time_ut": 1662180300,
+    "original_lang": "en",
+    "original_title": "Update in fuel for factories",
+    "file_name": "/tmp/news_lk2/articles/f4/f424874a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/china-says-it-will-support-consultations-for-sl-debt-solution/",
+    "time_ut": 1662180120,
+    "original_lang": "en",
+    "original_title": "China says it will support consultations for SL debt solution",
+    "file_name": "/tmp/news_lk2/articles/d4/d45ab867.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/eggs-for-wholesale-traders-at-rs-46/",
+    "time_ut": 1662179760,
+    "original_lang": "en",
+    "original_title": "Eggs for wholesale traders at Rs. 46/-",
+    "file_name": "/tmp/news_lk2/articles/de/de59a513.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0db8\u0dd4\u0dc0\u0dcf-\u0dc0\u0dd3-\u0dc0\u0dd0\u0dbb\u0daf\u0dd2-\u0d9a\u0dc5-80\u0d9a\u0dca-\u0dbb\u0da7-\u0db4\u0dd0\u0db1\u0dbd\u0dcf/1-619225",
     "time_ut": 1662178837,
@@ -102,6 +126,14 @@
     "original_lang": "si",
     "original_title": "\u0db1\u0dd2\u0dbb\u0dd2\u0dad \u0daf\u0dd2\u0d9c \u0d9a\u0ddc\u0da7\u0dc3\u0da7 \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2",
     "file_name": "/tmp/news_lk2/articles/f1/f1b76f1e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da0\u0dd3\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0d9a\u0ddc\u0dc5-\u0d91\u0dc5\u0dd2\u0dba\u0d9a\u0dca/11-396846",
+    "time_ut": 1662173235,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1\u0dba\u0dd9\u0db1\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0d9a\u0ddc\u0dc5 \u0d91\u0dc5\u0dd2\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/3c/3c398028.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc3\u0db1\u0dca\u0dad\u0d9a\u0dba\u0dda \u0dad\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0db1\u0dc0\u0dad\u0db8 \u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0db1\u0dca",
     "file_name": "/tmp/news_lk2/articles/f1/f1627303.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0da2\u0db1\u0db4\u0daf-\u0daf\u0dd6\u0dad-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2\u0dba\u0dda-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0d87\u0dba\u0dd2-/7-394809",
-    "time_ut": 1656134603,
-    "original_lang": "si",
-    "original_title": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0daf\u0dd6\u0dad \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0dc4\u0daf\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1\u0dca\u0db1\u0dda \u0d87\u0dba\u0dd2?",
-    "file_name": "/tmp/news_lk2/articles/49/49299b86.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d9a\u0ddc\u0da7\u0dc3\u0dca-\u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5-\u0db1\u0dc0-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0daf\u0dd2\u0dbd\u0dca\u0dc1\u0dcf\u0db1\u0dca-\u0dc0\u0dd3\u0dbb\u0dc3\u0dda\u0d9a\u0dbb/7-394807",
-    "time_ut": 1656134174,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5 \u0db1\u0dc0 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0daf\u0dd2\u0dbd\u0dca\u0dc1\u0dcf\u0db1\u0dca \u0dc0\u0dd3\u0dbb\u0dc3\u0dda\u0d9a\u0dbb",
-    "file_name": "/tmp/news_lk2/articles/fe/fe1f9a6f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0d9a\u0dbb\u0dab-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba-\u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf-\u0daf\u0dd9\u0dba\u0dd2/7-394805",
-    "time_ut": 1656134012,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb\u0dab \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/57/57a2c8d2.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0daf\u0dd6\u0dad-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca-\u0d9a\u0dd3\u0dc0\u0dda-\u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf-/7-394770",
-    "time_ut": 1655987505,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0daf\u0dd6\u0dad \u0db4\u0dd2\u0dbb\u0dd2\u0dc3 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd3\u0dc0\u0dda \u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/f6/f6dad180.json"
   }
 ]

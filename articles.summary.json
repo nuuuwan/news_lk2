@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/update-in-fuel-for-factories/",
+    "time_ut": 1662180300,
+    "original_lang": "en",
+    "original_title": "Update in fuel for factories",
+    "file_name": "/tmp/news_lk2/articles/f4/f424874a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/china-says-it-will-support-consultations-for-sl-debt-solution/",
+    "time_ut": 1662180120,
+    "original_lang": "en",
+    "original_title": "China says it will support consultations for SL debt solution",
+    "file_name": "/tmp/news_lk2/articles/d4/d45ab867.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/eggs-for-wholesale-traders-at-rs-46/",
+    "time_ut": 1662179760,
+    "original_lang": "en",
+    "original_title": "Eggs for wholesale traders at Rs. 46/-",
+    "file_name": "/tmp/news_lk2/articles/de/de59a513.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0db8\u0dd4\u0dc0\u0dcf-\u0dc0\u0dd3-\u0dc0\u0dd0\u0dbb\u0daf\u0dd2-\u0d9a\u0dc5-80\u0d9a\u0dca-\u0dbb\u0da7-\u0db4\u0dd0\u0db1\u0dbd\u0dcf/1-619225",
     "time_ut": 1662178837,
@@ -102,6 +126,14 @@
     "original_lang": "si",
     "original_title": "\u0db1\u0dd2\u0dbb\u0dd2\u0dad \u0daf\u0dd2\u0d9c \u0d9a\u0ddc\u0da7\u0dc3\u0da7 \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2",
     "file_name": "/tmp/news_lk2/articles/f1/f1b76f1e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da0\u0dd3\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0d9a\u0ddc\u0dc5-\u0d91\u0dc5\u0dd2\u0dba\u0d9a\u0dca/11-396846",
+    "time_ut": 1662173235,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1\u0dba\u0dd9\u0db1\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0d9a\u0ddc\u0dc5 \u0d91\u0dc5\u0dd2\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/3c/3c398028.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
