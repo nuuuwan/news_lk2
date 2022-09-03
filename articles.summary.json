@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddd\u0da7\u0dd2-20-000\u0d9a-\u0dc4\u0dd2\u0d9f-\u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca-\u0db8\u0dc4\u0dcf-\u0db7\u0dcf\u0dab\u0dca\u0da9\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dda-\u0dc4\u0dd2\u0dbb-\u0dc0\u0dd9\u0dba\u0dd2/101-619244",
+    "time_ut": 1662206362,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 20,000\u0d9a \u0dc4\u0dd2\u0d9f \u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca \u0db8\u0dc4\u0dcf \u0db7\u0dcf\u0dab\u0dca\u0da9\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dda \u0dc4\u0dd2\u0dbb \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/35/352a394c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d87\u0dbd\u0dca\u0dbd-\u0d94\u0da9\u0dd9\u0dc3\u0dd2\u2019-\u0dad\u0dc0\u0dad\u0dca-\u0daf\u0dd2\u0db1-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba\u0da7/101-619240",
     "time_ut": 1662204489,
     "original_lang": "si",
@@ -158,6 +166,14 @@
     "original_lang": "en",
     "original_title": "Price of loaf of bread to increase further",
     "file_name": "/tmp/news_lk2/articles/d7/d7156d47.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84726/price-of-loaf-of-bread-increases-further",
+    "time_ut": 1662197340,
+    "original_lang": "en",
+    "original_title": "Price of loaf of bread increases further",
+    "file_name": "/tmp/news_lk2/articles/09/09cc6af8.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
