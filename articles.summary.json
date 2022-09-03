@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/GR-returns/110-244259",
+    "time_ut": 1662189388,
+    "original_lang": "en",
+    "original_title": "GR returns",
+    "file_name": "/tmp/news_lk2/articles/79/79323a68.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84724/veteran-actor-anura-medagoda-passes-away",
+    "time_ut": 1662189360,
+    "original_lang": "en",
+    "original_title": "Veteran actor Anura Medagoda passes away",
+    "file_name": "/tmp/news_lk2/articles/32/32e2718c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/tourist-arrivals-record-rise-in-july/",
+    "time_ut": 1662189240,
+    "original_lang": "en",
+    "original_title": "Tourist arrivals record rise in July",
+    "file_name": "/tmp/news_lk2/articles/75/7587dc66.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-coconut-prices-fall-at-auction-99405/",
+    "time_ut": 1662188160,
+    "original_lang": "en",
+    "original_title": "Sri Lanka coconut prices fall at auction",
+    "file_name": "/tmp/news_lk2/articles/e3/e3748609.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1--\u0db6\u0dca\u200d\u0dbb\u0ddd\u0da9\u0dca\u0db6\u0dd1\u0db1\u0dca\u0da9\u0dca-\u0dc4\u0dcf-\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4-\u0d89\u0dc4\u0dc5\u0da7/11-396858",
+    "time_ut": 1662187760,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1, \u0db6\u0dca\u200d\u0dbb\u0ddd\u0da9\u0dca\u0db6\u0dd1\u0db1\u0dca\u0da9\u0dca \u0dc4\u0dcf \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0d89\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/60/60acad0e.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/features/\u0d87\u0dad\u0dca\u0dad\u0da7-\u0db4\u0dd2\u0da7\u0dd4\u0db4\u0dcf\u0db1-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf/2-619228",
     "time_ut": 1662187502,
@@ -406,6 +446,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s ousted president returns amid tight security",
     "file_name": "/tmp/news_lk2/articles/30/30920761.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/end-casino-capitalism-sri-lanka-to-join-the-global-minimum-tax-agreement/",
+    "time_ut": 1662169645,
+    "original_lang": "en",
+    "original_title": "End Casino Capitalism: Sri Lanka To Join The Global Minimum Tax Agreement",
+    "file_name": "/tmp/news_lk2/articles/58/58501d74.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
