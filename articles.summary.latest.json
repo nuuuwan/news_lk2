@@ -1,5 +1,77 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84722/gotabaya-arrives-at-residence-in-colombo",
+    "time_ut": 1662176340,
+    "original_lang": "en",
+    "original_title": "Gotabaya arrives at residence in Colombo",
+    "file_name": "/tmp/news_lk2/articles/43/431d26e5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/over-11-000-dengue-cases-in-july/",
+    "time_ut": 1662176220,
+    "original_lang": "en",
+    "original_title": "Over 11,000 Dengue cases in July",
+    "file_name": "/tmp/news_lk2/articles/14/14edf9f0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/a-loaf-of-bread-is-now-rs-300/",
+    "time_ut": 1662175800,
+    "original_lang": "en",
+    "original_title": "A loaf of bread is now Rs. 300/-",
+    "file_name": "/tmp/news_lk2/articles/e2/e20f93b2.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-minister-seeks-parliament-panel-help-to-import-russian-crude-99400/",
+    "time_ut": 1662174780,
+    "original_lang": "en",
+    "original_title": "Sri Lanka minister seeks parliament panel help to import Russian crude",
+    "file_name": "/tmp/news_lk2/articles/ca/ca7993c6.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/156-\u0b86\u0bb5\u0ba4\u0bc1-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0ba4\u0bbf\u0ba9\u0bae\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1/175-303480",
+    "time_ut": 1662174631,
+    "original_lang": "ta",
+    "original_title": "156 \u0b86\u0bb5\u0ba4\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0ba4\u0bbf\u0ba9\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/00/004c2d93.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84721/18-hour-water-cut-in-colombo-and-suburbs",
+    "time_ut": 1662174600,
+    "original_lang": "en",
+    "original_title": "18-hour water cut in Colombo and suburbs",
+    "file_name": "/tmp/news_lk2/articles/06/06e4f2e9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/heavy-showers-expected-today-3/",
+    "time_ut": 1662174420,
+    "original_lang": "en",
+    "original_title": "Heavy showers expected today (3)",
+    "file_name": "/tmp/news_lk2/articles/58/589e2c6f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/ex-president-rajapaka-returns-to-sri-lanka/",
+    "time_ut": 1662173700,
+    "original_lang": "en",
+    "original_title": "Ex-President Rajapaka returns to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/5d/5dfbe33a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0bae\u0bbf\u0ba9\u0bcd-\u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc8-\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bc7-\u0ba4\u0bca\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd/175-303478",
+    "time_ut": 1662173599,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bbf\u0ba9\u0bcd \u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc8 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bc7 \u0ba4\u0bca\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/bb/bb7ef286.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95-\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0bae\u0bbf\u0ba9\u0bcd-\u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc8-\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bc7-\u0ba4\u0bca\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd/175-303478",
     "time_ut": 1662173599,
@@ -313,11 +385,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/front_page/Quadruplets-born-to-a-24-year-old-mother-in-Puttalam/238-244219",
+    "url": "https://www.dailymirror.lk/caption_story/Quadruplets-born-to-a-24-year-old-mother-in-Puttalam/110-244219",
     "time_ut": 1662138623,
     "original_lang": "en",
     "original_title": "Quadruplets born to a 24 year old mother in Puttalam",
-    "file_name": "/tmp/news_lk2/articles/d2/d22e06fc.json"
+    "file_name": "/tmp/news_lk2/articles/e1/e1a9de76.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7926,77 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba \u0d89\u0d82\u0da2\u0dd2\u0db1\u0dda\u0dbb\u0dd4 \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca E \u0dc0\u0dd3\u0dbd\u0dbb\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/91/91d255d7.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/politics/\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba-\u0d86\u0db0\u0dcf\u0dbb---\u0dc3\u0dc4\u0db1-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0d9a\u0db8\u0dd2\u0da7\u0dd4-3\u0d9a\u0dca/13-609523",
-    "time_ut": 1646842283,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0d86\u0db0\u0dcf\u0dbb - \u0dc3\u0dc4\u0db1 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0d9a\u0db8\u0dd2\u0da7\u0dd4 3\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/9c/9c0eaf02.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dd0\u0db6\u0dd2\u0db1\u0dd2-\u0d9a\u0dad\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0dad\u0dca\u200d\u0dbb\u0dd2\u0db4\u0ddc\u0dc2\u0dcf-\u0db4\u0dd0\u0d9a\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dad\u0dca-\u0db1\u0dd0\u0dad\u0dd2-\u0d9a\u0dbb\u0dbd\u0dcf/101-609522",
-    "time_ut": 1646841567,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0dd0\u0db6\u0dd2\u0db1\u0dd2 \u0d9a\u0dad\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dad\u0dca\u200d\u0dbb\u0dd2\u0db4\u0ddc\u0dc2\u0dcf \u0db4\u0dd0\u0d9a\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dad\u0dca \u0db1\u0dd0\u0dad\u0dd2 \u0d9a\u0dbb\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/0c/0c3821ba.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/graphics/\u0b92\u0bb0\u0bc7-\u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0ba9\u0bcd\u0b9f\u0ba9\u0bcb\u0bb5\u0bcd-\u0b8f-\u0b8e\u0ba9\u0bcd-225/148-292163",
-    "time_ut": 1646123570,
-    "original_lang": "ta",
-    "original_title": "\u0b92\u0bb0\u0bc7 \u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba9\u0bcd\u0b9f\u0ba9\u0bcb\u0bb5\u0bcd \u0b8f.\u0b8e\u0ba9\u0bcd 225",
-    "file_name": "/tmp/news_lk2/articles/ea/ea3da9ff.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1-\u0da2\u0d82\u0d9c\u0db8-\u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0d92\u0d9a\u0d9a-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-33\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/3-390532",
-    "time_ut": 1645412223,
-    "original_lang": "si",
-    "original_title": "\u0da0\u0dd3\u0db1 \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0d85\u0db4\u0db1\u0dba\u0db1 \u0d92\u0d9a\u0d9a \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 33\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/30/306a9911.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/technology/\u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb-\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab-\u0dbb\u0ddd\u0dc4\u0dbd\u0dda-\u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0d9a-\u0da2\u0ddb\u0dc0-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2/5-390527",
-    "time_ut": 1645366203,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb \u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd\u0dda \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0d9a \u0da2\u0ddb\u0dc0 \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/10/10b051ec.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0db1\u0dc0-\u0d9a\u0dca\u0dc0\u0ddc\u0db1\u0dca\u0da7\u0db8\u0dca-\u0db4\u0dbb\u0dd2\u0d9c\u0dab\u0d9a-\u0db8\u0dd8\u0daf\u0dd4\u0d9a\u0dcf\u0d82\u0d9c\u0dba\u0d9a\u0dca-\u0da0\u0dd3\u0db1\u0dba-\u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2/3-390446",
-    "time_ut": 1645156977,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dc0 \u0d9a\u0dca\u0dc0\u0ddc\u0db1\u0dca\u0da7\u0db8\u0dca \u0db4\u0dbb\u0dd2\u0d9c\u0dab\u0d9a \u0db8\u0dd8\u0daf\u0dd4\u0d9a\u0dcf\u0d82\u0d9c\u0dba\u0d9a\u0dca \u0da0\u0dd3\u0db1\u0dba \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/2a/2a886799.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/uncategorized/\u0da0\u0dd3\u0db1\u0dba-\u0d94\u0dbd\u0dd2\u0db8\u0dca\u0db4\u0dd2\u0d9a\u0dca-\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba-\u0dc0\u0dd9\u0db1\u0dc3\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-389935",
-    "time_ut": 1643883682,
-    "original_lang": "si",
-    "original_title": "\u0da0\u0dd3\u0db1\u0dba \u0d94\u0dbd\u0dd2\u0db8\u0dca\u0db4\u0dd2\u0d9a\u0dca \u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/d1/d1a96532.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/uncategorized/\u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab\u0dba\u0dd9\u0db1\u0dca\u0db8-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba-\u0dc0\u0db1-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dba-\u0dc3\u0dd0\u0db6\u0dd1\u0dc0\u0d9a\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/1-389842",
-    "time_ut": 1643688888,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab\u0dba\u0dd9\u0db1\u0dca\u0db8 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0dc0\u0db1 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba \u0dc3\u0dd0\u0db6\u0dd1\u0dc0\u0d9a\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/4f/4f67ef98.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/uncategorized/\u0dba\u0dd4\u0daf-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dad\u0dc0\u0dad\u0dca-\u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2-\u0dc0\u0dd0\u0da9\u0d9a\u0dca/1-389833",
-    "time_ut": 1643648093,
-    "original_lang": "si",
-    "original_title": "\u0dba\u0dd4\u0daf \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2 \u0dc0\u0dd0\u0da9\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/d1/d1b5fd4f.json"
   }
 ]

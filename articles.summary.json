@@ -1,5 +1,77 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84722/gotabaya-arrives-at-residence-in-colombo",
+    "time_ut": 1662176340,
+    "original_lang": "en",
+    "original_title": "Gotabaya arrives at residence in Colombo",
+    "file_name": "/tmp/news_lk2/articles/43/431d26e5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/over-11-000-dengue-cases-in-july/",
+    "time_ut": 1662176220,
+    "original_lang": "en",
+    "original_title": "Over 11,000 Dengue cases in July",
+    "file_name": "/tmp/news_lk2/articles/14/14edf9f0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/a-loaf-of-bread-is-now-rs-300/",
+    "time_ut": 1662175800,
+    "original_lang": "en",
+    "original_title": "A loaf of bread is now Rs. 300/-",
+    "file_name": "/tmp/news_lk2/articles/e2/e20f93b2.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-minister-seeks-parliament-panel-help-to-import-russian-crude-99400/",
+    "time_ut": 1662174780,
+    "original_lang": "en",
+    "original_title": "Sri Lanka minister seeks parliament panel help to import Russian crude",
+    "file_name": "/tmp/news_lk2/articles/ca/ca7993c6.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/156-\u0b86\u0bb5\u0ba4\u0bc1-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0ba4\u0bbf\u0ba9\u0bae\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1/175-303480",
+    "time_ut": 1662174631,
+    "original_lang": "ta",
+    "original_title": "156 \u0b86\u0bb5\u0ba4\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0ba4\u0bbf\u0ba9\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/00/004c2d93.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84721/18-hour-water-cut-in-colombo-and-suburbs",
+    "time_ut": 1662174600,
+    "original_lang": "en",
+    "original_title": "18-hour water cut in Colombo and suburbs",
+    "file_name": "/tmp/news_lk2/articles/06/06e4f2e9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/heavy-showers-expected-today-3/",
+    "time_ut": 1662174420,
+    "original_lang": "en",
+    "original_title": "Heavy showers expected today (3)",
+    "file_name": "/tmp/news_lk2/articles/58/589e2c6f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/03/ex-president-rajapaka-returns-to-sri-lanka/",
+    "time_ut": 1662173700,
+    "original_lang": "en",
+    "original_title": "Ex-President Rajapaka returns to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/5d/5dfbe33a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0bae\u0bbf\u0ba9\u0bcd-\u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc8-\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bc7-\u0ba4\u0bca\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd/175-303478",
+    "time_ut": 1662173599,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bbf\u0ba9\u0bcd \u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc8 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bc7 \u0ba4\u0bca\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/bb/bb7ef286.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95-\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0bae\u0bbf\u0ba9\u0bcd-\u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc8-\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bc7-\u0ba4\u0bca\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd/175-303478",
     "time_ut": 1662173599,
@@ -313,11 +385,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/front_page/Quadruplets-born-to-a-24-year-old-mother-in-Puttalam/238-244219",
+    "url": "https://www.dailymirror.lk/caption_story/Quadruplets-born-to-a-24-year-old-mother-in-Puttalam/110-244219",
     "time_ut": 1662138623,
     "original_lang": "en",
     "original_title": "Quadruplets born to a 24 year old mother in Puttalam",
-    "file_name": "/tmp/news_lk2/articles/d2/d22e06fc.json"
+    "file_name": "/tmp/news_lk2/articles/e1/e1a9de76.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
