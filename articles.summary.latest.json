@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf-\u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1/175-303514",
+    "time_ut": 1662219055,
+    "original_lang": "ta",
+    "original_title": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/6c/6c779570.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb2\u0bcd\u0bb2-\u0b93\u0b9f\u0bbf\u0b9a\u0bbf-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-303513",
     "time_ut": 1662217903,
     "original_lang": "ta",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka has become a country devoid of mature political leaders. We have only Ranil Wickremesinghe left among the leaders who can be considered an advanced political leader. In the absence of mature leaders, it should be the country\u2019s responsibility to make proper use of him at this critical juncture.",
     "file_name": "/tmp/news_lk2/articles/99/9971012a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0dc0\u0dd2\u0dc3\u0db8\u0dca\u0db8\u0dd4\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0db8\u0dca\u0db8\u0dd4\u0dad\u0dd2\u0dba\u0da7-\u0d87\u0dc0\u0dd2\u0dad\u0dca-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba-\u0db1\u0d82\u0dc0\u0db8\u0dd4/117-617872",
-    "time_ut": 1660110273,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0dc3\u0db8\u0dca\u0db8\u0dd4\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dca\u0db8\u0dd4\u0dad\u0dd2\u0dba\u0da7 \u0d87\u0dc0\u0dd2\u0dad\u0dca \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba \u0db1\u0d82\u0dc0\u0db8\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/17/17266770.json"
   }
 ]
