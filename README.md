@@ -1,34 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-05 00:46:50 (LK time)*
+*As of 2022-09-05 01:00:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Plans afoot to set up permanent office for ex-servicemen: Defence Secretary](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d55a4a06.json))
-
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
 * **1** ada-derana-lk ([Plans afoot to set up permanent office for ex-servicemen: Defence Secretary](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d55a4a06.json))
 
 * **1** tamil-mirror-lk ([மின்சார சபை மறுசீரமைப்பு யோசனை அமைச்சரவைக்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/399f3c65.json))
 
-* **1** daily-mirror-lk ([PAK beat IND by five wickets](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b323822.json))
-
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (13 Articles)
 
 * **4** ada-derana-lk ([Covid-19: four more deaths and 49 new cases reported](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4ea25d61.json))
 
 * **4** daily-ft-lk ([How can Sri Lanka escape crisis with IMF’s $ 2.9 b?](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68bd6e3e.json))
 
-* **3** lankadeepa-lk ([’’නිල් පාට ඇමති’’ කොළ කොඩියක් වනයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c8f981e.json))
-
 * **2** tamil-mirror-lk ([ஐ.எம்.எப். உடன்படிக்கை சபைக்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aaeab8e5.json))
 
-* **1** daily-mirror-lk ([PAK beat IND by five wickets](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b323822.json))
+* **2** lankadeepa-lk ([පොහොර නැවේ කෝටි 138 නිලධාරින්ට ගෙවන්න වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7acfdbd9.json))
 
-* **1** economy-next-com ([European biz chambers in Sri Lanka organise B2B organic food conference](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f856c0ae.json))
+* **1** daily-mirror-lk ([PAK beat IND by five wickets](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b323822.json))
 
 ## Last 24 Hours (136 Articles)
 
@@ -50,7 +42,7 @@
 
 * **1** colombo-telegraph-com ([RTI Act Used On Tear Gas And Litro Gas By ‘Aragalaya’ Protestors!](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d93a50e.json))
 
-## Last Week (965 Articles)
+## Last Week (964 Articles)
 
 * **166** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
@@ -70,7 +62,7 @@
 
 * **45** island-lk ([Corruption, irrationality, hilarity and pity](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b90fb2a.json))
 
-* **22** d-b-s-jeyaraj-com ([The ongoing crackdown on the protest movement needs to cease.  Its excessive nature is discrediting the government in the eyes of the international community as well as within the country. The blame  for this  is falling squarely on the president](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13237679.json))
+* **21** d-b-s-jeyaraj-com ([President cum Finance Minister Ranil Wickremesinghe Presents  Sri Lanka’s interim budget which is intended to lay the foundation for a progressive economy even as it provides a buffer to the poor who are bearing the brunt of the current unprecedented economic crisis.](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1790b1a.json))
 
 * **12** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
