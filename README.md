@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-05 03:27:12 (LK time)*
+*As of 2022-09-05 03:40:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (3 Articles)
-
-* **3** daily-ft-lk ([Weerawansa-led independent parties form new political alliance](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34de9c87.json))
 
 ## Last Hour (3 Articles)
 
