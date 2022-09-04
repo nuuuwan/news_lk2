@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84750/plans-afoot-to-set-up-permanent-office-for-ex-servicemen-defence-secretary",
+    "time_ut": 1662317400,
+    "original_lang": "en",
+    "original_title": "Plans afoot to set up permanent office for ex-servicemen: Defence Secretary",
+    "file_name": "/tmp/news_lk2/articles/d5/d55a4a06.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0-\u0b9a\u0baa\u0bc8-\u0bae\u0bb1\u0bc1\u0b9a\u0bc0\u0bb0\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1-\u0baf\u0bcb\u0b9a\u0ba9\u0bc8-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1/175-303562",
     "time_ut": 1662316824,
@@ -137,11 +145,27 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business/Wacoal-Europe-eyeing-further-expansion-of-manufacturing-base-in-Sri-Lanka/215-244292",
+    "time_ut": 1662305386,
+    "original_lang": "en",
+    "original_title": "Wacoal Europe eyeing further expansion of manufacturing base in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/fd/fd99fa8e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Table-IMF-staff-level-agreement-in-Parliament-Harsha-tells-President/342-244290",
     "time_ut": 1662305177,
     "original_lang": "en",
     "original_title": "Table IMF staff level agreement in Parliament: Harsha tells President",
     "file_name": "/tmp/news_lk2/articles/3b/3bb6ebe4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business/Colombo-ports-transshipment-volumes-decline-for-second-straight-month-in-July/215-244289",
+    "time_ut": 1662305156,
+    "original_lang": "en",
+    "original_title": "Colombo port\u2019s transshipment volumes decline for second straight month in July",
+    "file_name": "/tmp/news_lk2/articles/46/46c04d72.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "SLT-Mobitel demonstrates 5G experiences at One Galle Face mall",
     "file_name": "/tmp/news_lk2/articles/17/176f804f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/NDB-remittance-rewards-to-over-70-customers/34-739163",
-    "time_ut": 1661539303,
-    "original_lang": "en",
-    "original_title": "NDB remittance rewards to over 70 customers",
-    "file_name": "/tmp/news_lk2/articles/b4/b43cd0e1.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Dialog-s-Govi-MithuruNidhanaya-program-rewards-subscribers/34-739162",
-    "time_ut": 1661539244,
-    "original_lang": "en",
-    "original_title": "Dialog\u2019s \u2018Govi Mithuru\u00a0Nidhanaya\u2019 program rewards subscribers",
-    "file_name": "/tmp/news_lk2/articles/42/42c4179e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Lenovo-joins-Softlogic-Information-Technologies-in-providing-graphic-workstations/34-739161",
-    "time_ut": 1661539235,
-    "original_lang": "en",
-    "original_title": "Lenovo joins Softlogic Information Technologies in providing graphic workstations",
-    "file_name": "/tmp/news_lk2/articles/e7/e7b7230b.json"
   }
 ]
