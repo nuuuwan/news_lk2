@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84749/sajith-claims-president-has-become-a-hostage-of-the-slpp",
+    "time_ut": 1662314520,
+    "original_lang": "en",
+    "original_title": "Sajith claims President has become a hostage of the SLPP",
+    "file_name": "/tmp/news_lk2/articles/cc/cc965c8f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84748/controversial-godman-accused-of-rape-seeks-asylum-in-sri-lanka-report",
     "time_ut": 1662313440,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ranjan leaves prison",
     "file_name": "/tmp/news_lk2/articles/f1/f10481a7.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/friday/\u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca-\u0dc5\u0dd2\u0db4\u0da7-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u0daf-/122-618778",
-    "time_ut": 1661492832,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca \u0dc5\u0dd2\u0db4\u0da7 \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/47/4765e710.json"
   }
 ]
