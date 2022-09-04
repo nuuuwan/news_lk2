@@ -1,26 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 21:06:07 (LK time)*
+*As of 2022-09-04 21:20:54 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **1** daily-mirror-lk ([Table IMF staff level agreement in Parliament: Harsha tells President](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d37cee30.json))
+* **2** tamil-mirror-lk ([சம்பவ இடத்திலேயே சாரதி பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af8b7ee4.json))
 
-## Last Hour (6 Articles)
+* **1** daily-mirror-lk ([Table IMF staff level agreement in Parliament: Harsha tells President](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3bb6ebe4.json))
+
+## Last Hour (7 Articles)
+
+* **3** tamil-mirror-lk ([எரிவாயு முற்பதிவுக்கு செயலி அறிமுகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/040a757a.json))
 
 * **2** daily-mirror-lk ([GMOA submits report on pharmaceutical shortage to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16db9e15.json))
 
 * **2** lankadeepa-lk ([තිරිඟු පිටි මිල වැඩිවීමට හේතුවක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5ba7f66.json))
 
-* **1** tamil-mirror-lk ([எரிவாயு முற்பதிவுக்கு செயலி அறிமுகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/040a757a.json))
+## Last 3 Hours (20 Articles)
 
-* **1** news-first-lk ([Public Finance Committee Chief Harsha demands President publicize IMF conditions](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e10253bf.json))
-
-## Last 3 Hours (19 Articles)
-
-* **9** tamil-mirror-lk ([பத்திரமாக இருக்கிறது; பயமாகவும் இருக்கிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08009387.json))
+* **10** tamil-mirror-lk ([விமல் தலைமையில் புதிய கூட்டணி உதயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/092dd91b.json))
 
 * **3** news-first-lk ([Former President Gotabaya will not enter politics; but will share experiences with next generation: SLPP MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/180a2992.json))
 
@@ -32,9 +32,9 @@
 
 * **1** ada-lk ([සෞඛ්‍ය අංශයේ ප්‍රතිපත්තිවල වෙනසක් ඉක්මනින් අවශ්‍යයි - ජනපති](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bdf8a6d.json))
 
-## Last 24 Hours (125 Articles)
+## Last 24 Hours (126 Articles)
 
-* **29** tamil-mirror-lk ([இலங்கைக்கு வெற்றியிலக்கு 176 ஓட்டங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9db01608.json))
+* **31** tamil-mirror-lk ([இலங்கைக்கு வெற்றியிலக்கு 176 ஓட்டங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9db01608.json))
 
 * **23** lankadeepa-lk ([බූරුවා පොළේ සිද්ධියකට වෙඩි පත්තු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a71fa57.json))
 
@@ -42,7 +42,7 @@
 
 * **18** ada-derana-lk ([Myanmar donates 1,000 tons of rice to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10b2a94c.json))
 
-* **16** ada-lk ([ලක්ෂ 67ක රන් ඇමෙරිකාවට රැගෙන යන්න බැරිවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c482aac2.json))
+* **15** ada-lk ([ශ්‍රී ලංකාවට තවත් සුපිරි ජයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30270fc5.json))
 
 * **11** daily-mirror-lk ([Sri Lanka beat Afghanistan in first Super Four clash](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/873e65a4.json))
 
@@ -50,13 +50,13 @@
 
 * **1** colombo-telegraph-com ([RTI Act Used On Tear Gas And Litro Gas By ‘Aragalaya’ Protestors!](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d93a50e.json))
 
-## Last Week (949 Articles)
+## Last Week (951 Articles)
 
 * **163** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
 * **130** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
-* **123** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
+* **125** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
 * **116** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
@@ -74,7 +74,7 @@
 
 * **12** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
-## All Time (1,298 Articles)
+## All Time (1,300 Articles)
 
 * **228** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -84,7 +84,7 @@
 
 * **130** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
-* **124** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **126** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **121** d-b-s-jeyaraj-com ([The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f93260b.json))
 
