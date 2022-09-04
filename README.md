@@ -1,46 +1,42 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 18:52:05 (LK time)*
+*As of 2022-09-04 19:09:34 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (2 Articles)
 
-* **1** tamil-mirror-lk ([விமல் தலைமையில் புதிய கூட்டணி உதயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/092dd91b.json))
+* **2** tamil-mirror-lk ([புத்தகப் பை இல்லா நாள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b37bd8c.json))
+
+## Last Hour (4 Articles)
+
+* **3** tamil-mirror-lk ([விமல் தலைமையில் புதிய கூட்டணி உதயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/092dd91b.json))
 
 * **1** news-first-lk ([Former President Gotabaya will not enter politics; but will share experiences with next generation: SLPP MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/180a2992.json))
-
-## Last Hour (5 Articles)
-
-* **3** tamil-mirror-lk ([ஐ.எம்.எப் தலைவர்  வெளியிட்ட செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/0613cde4.json))
-
-* **1** news-first-lk ([Former President Gotabaya will not enter politics; but will share experiences with next generation: SLPP MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/180a2992.json))
-
-* **1** ada-derana-lk ([‘Supreme Lanka Coalition’: Independent parties form new alliance](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e532757b.json))
 
 ## Last 3 Hours (23 Articles)
 
-* **7** tamil-mirror-lk ([புத்தகங்களை அச்சிட ரூ.1648 கோடி செலவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/494d2f0b.json))
+* **9** tamil-mirror-lk ([புத்தகங்களை அச்சிட ரூ.1648 கோடி செலவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/494d2f0b.json))
 
 * **5** lankadeepa-lk ([ආර්ථික ඝාතකයන් මානව හිමිකම් කවුන්සිලයට ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1f1a7f4.json))
 
-* **4** news-first-lk ([Price of Kottu packet increased](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb4ddbf0.json))
+* **3** news-first-lk ([One dead & three injured in Saliyawewa accident](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32e44d89.json))
 
 * **3** ada-derana-lk ([Main framework for CEB reforms to Cabinet by month-end](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c4658c3.json))
 
-* **3** ada-lk ([දේශපාලනය කරනවද නැත්ද? තීන්දුව ගෝඨාභය අතේයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/828b7671.json))
+* **2** ada-lk ([රාජපක්ෂලාට මල් පාවඩ, ජනතාවට මල් වඩම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4316ee49.json))
 
 * **1** economy-next-com ([Sri Lanka airport agency says usually profitable, 2022 a currency loss](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd806554.json))
 
-## Last 24 Hours (120 Articles)
+## Last 24 Hours (119 Articles)
 
-* **26** tamil-mirror-lk ([பரிஸ் கிளப் வெளியிட்ட முக்கிய அறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8bada8e.json))
+* **27** tamil-mirror-lk ([நிரந்தர அமைச்சரவை  மேலும் தாமதமாகும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/42b786af.json))
 
 * **22** news-first-lk ([Legal action against 75 egg traders](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f2d0046.json))
 
-* **22** lankadeepa-lk ([පාන් මිල පා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa373965.json))
+* **21** lankadeepa-lk ([බූරුවා පොළේ සිද්ධියකට වෙඩි පත්තු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a71fa57.json))
 
-* **17** ada-derana-lk ([Fuel requirements for September & October reviewed](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb804fce.json))
+* **16** ada-derana-lk ([Myanmar donates 1,000 tons of rice to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10b2a94c.json))
 
 * **15** ada-lk ([පැරිස් සමාජයත් ණය සහන ක්‍රියාවලියකට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a6a0b16.json))
 
@@ -50,13 +46,13 @@
 
 * **1** colombo-telegraph-com ([RTI Act Used On Tear Gas And Litro Gas By ‘Aragalaya’ Protestors!](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d93a50e.json))
 
-## Last Week (932 Articles)
+## Last Week (934 Articles)
 
 * **161** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
 * **128** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
-* **116** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
+* **118** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
 * **114** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
@@ -74,7 +70,7 @@
 
 * **12** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
-## All Time (1,281 Articles)
+## All Time (1,283 Articles)
 
 * **226** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -86,7 +82,7 @@
 
 * **121** d-b-s-jeyaraj-com ([The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f93260b.json))
 
-* **117** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **119** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **106** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf4124c.json))
 

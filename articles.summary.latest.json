@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bbe-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0ba8\u0bae\u0bb2\u0bbf\u0ba9\u0bcd-\u0baa\u0ba4\u0bbf\u0bb2\u0bcd/175-303552",
+    "time_ut": 1662297722,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bbe \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe?; \u0ba8\u0bae\u0bb2\u0bbf\u0ba9\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/3a/3a4e3760.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0baa\u0bcd-\u0baa\u0bc8-\u0b87\u0bb2\u0bcd\u0bb2\u0bbe-\u0ba8\u0bbe\u0bb3\u0bcd/175-303551",
+    "time_ut": 1662297625,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0baa\u0bcd \u0baa\u0bc8 \u0b87\u0bb2\u0bcd\u0bb2\u0bbe \u0ba8\u0bbe\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/9b/9b37bd8c.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bae\u0bb2\u0bcd-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf-\u0b89\u0ba4\u0baf\u0bae\u0bcd/175-303550",
     "time_ut": 1662296863,
     "original_lang": "ta",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0dca \u0db1\u0dd0\u0dad\u0dca\u0db1\u0db8\u0dca \u0dad\u0dc4\u0db1\u0db8\u0d9a\u0dca \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0daf?",
     "file_name": "/tmp/news_lk2/articles/6a/6a25647d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/President-urges-China-to-change-tune-on-debt/108-243703",
-    "time_ut": 1661396019,
-    "original_lang": "en",
-    "original_title": "President urges China to change tune on debt",
-    "file_name": "/tmp/news_lk2/articles/46/46aaee35.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/sri-lankas-pta-the-anti-terrorism-law-that-promotes-terrorism/",
-    "time_ut": 1661394009,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s PTA: The Anti-Terrorism Law That Promotes Terrorism",
-    "file_name": "/tmp/news_lk2/articles/a1/a15ed447.json"
   }
 ]
