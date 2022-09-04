@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84736/seetha-arambepola-willing-to-give-up-mp-seat-for-former-president",
+    "time_ut": 1662270960,
+    "original_lang": "en",
+    "original_title": "Seetha Arambepola willing to give up MP seat for former President",
+    "file_name": "/tmp/news_lk2/articles/71/7164cdad.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dc0-\u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc0\u0dda\u0daf\u0dba-\u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dca-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a/11-396871",
+    "time_ut": 1662270243,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dc0 \u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0dca \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc0\u0dda\u0daf\u0dba \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dca \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a",
+    "file_name": "/tmp/news_lk2/articles/fb/fbf9ed44.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84735/sri-lanka-president-calls-pakistan-pm-extends-sympathy-over-flood-devastation",
     "time_ut": 1662270240,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "President contacts Gotabaya about his return",
     "file_name": "/tmp/news_lk2/articles/2d/2d0f3147.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Nine-Sri-Lankan-apparel-exporters-successfully-participate-in-Sourcing-at-Magic-Las-Vegas-USA/34-738955",
-    "time_ut": 1661114765,
-    "original_lang": "en",
-    "original_title": "Nine Sri Lankan apparel exporters successfully participate in \u2018Sourcing at Magic Las Vegas\u2019, USA",
-    "file_name": "/tmp/news_lk2/articles/ec/ecab6fdd.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Ken-Vijayakumar-elected-President-of-CIPM-SL/34-738954",
-    "time_ut": 1661113854,
-    "original_lang": "en",
-    "original_title": "Ken Vijayakumar elected President of CIPM SL",
-    "file_name": "/tmp/news_lk2/articles/37/3727b455.json"
   }
 ]
