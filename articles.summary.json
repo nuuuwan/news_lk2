@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/400-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1/175-303534",
+    "time_ut": 1662281586,
+    "original_lang": "ta",
+    "original_title": "400 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a0/a0b20325.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db6\u0dd9\u0dc4\u0dd9\u0dad\u0dca-\u0db1\u0dd0\u0dad\u0dd4\u0dc0-\u0db4\u0dd2\u0dc5\u0dd2\u0d9a\u0dcf-\u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca\u0d9c\u0dda-\u0da2\u0dd3\u0dc0\u0dd2\u0dad-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a/101-619268",
     "time_ut": 1662281239,
@@ -38,6 +46,14 @@
     "original_lang": "si",
     "original_title": "\u0d9c\u0dd4\u0dbb\u0dd4 \u0db8\u0dcf\u0dbb\u0dd4 \u0d85\u0dba\u0dd0\u0daf\u0dd4\u0db8\u0dca \u0db6\u0dcf\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0db1\u0dc0\u0dad\u0dd3",
     "file_name": "/tmp/news_lk2/articles/26/26fecd10.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd0\u0da7\u0dd9\u0db1\u0dca-\u0db1\u0ddc\u0dba\u0dc0\u0db1-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0d9c\u0dd0\u0db1-\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0d82\u0dc1\u0dba-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-619265",
+    "time_ut": 1662280194,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd0\u0da7\u0dd9\u0db1\u0dca \u0db1\u0ddc\u0dba\u0dc0\u0db1 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0d9c\u0dd0\u0db1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0d82\u0dc1\u0dba \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4c/4ce00479.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -94,6 +110,14 @@
     "original_lang": "en",
     "original_title": "40% rise in illicit liquor production: NATA",
     "file_name": "/tmp/news_lk2/articles/6f/6f0b2d35.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd-\u0dbd\u0dcf\u0db7-\u0dbd\u0db6\u0dba\u0dd2/11-396873",
+    "time_ut": 1662276243,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0dbd\u0dcf\u0db7 \u0dbd\u0db6\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/27/2703264b.json"
   },
   {
     "newspaper_id": "news-first-lk",
