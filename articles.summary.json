@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84742/main-framework-for-ceb-reforms-presented-to-cabinet-by-month-end",
+    "time_ut": 1662292920,
+    "original_lang": "en",
+    "original_title": "Main framework for CEB reforms presented to Cabinet by month-end",
+    "file_name": "/tmp/news_lk2/articles/fc/fc28be35.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/president-stresses-on-health-sector-policy-change/",
+    "time_ut": 1662292440,
+    "original_lang": "en",
+    "original_title": "President stresses on health sector policy change",
+    "file_name": "/tmp/news_lk2/articles/52/5207b9e9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/one-dead-three-injured-in-saliyawewa-accident/",
+    "time_ut": 1662292320,
+    "original_lang": "en",
+    "original_title": "One dead & three injured in Saliyawewa accident",
+    "file_name": "/tmp/news_lk2/articles/32/32e44d89.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d96\u0dc2\u0db0-\u0dc4\u0dd2\u0d9f\u0dba-\u0dc3\u0ddc\u0dba\u0dcf-\u0db6\u0dbd\u0db1\u0dca\u0db1\u0da7-\u0db4\u0dad\u0dca-\u0d9a\u0dc5-\u0d9a\u0db8\u0dd2\u0da7\u0dd4-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7/101-619280",
+    "time_ut": 1662292273,
+    "original_lang": "si",
+    "original_title": "\u0d96\u0dc2\u0db0 \u0dc4\u0dd2\u0d9f\u0dba \u0dc3\u0ddc\u0dba\u0dcf \u0db6\u0dbd\u0db1\u0dca\u0db1\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dc5 \u0d9a\u0db8\u0dd2\u0da7\u0dd4 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7",
+    "file_name": "/tmp/news_lk2/articles/2c/2c489c3f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-airport-agency-says-usually-profitable-2022-a-currency-loss-99423/",
+    "time_ut": 1662291960,
+    "original_lang": "en",
+    "original_title": "Sri Lanka airport agency says usually profitable, 2022 a currency loss",
+    "file_name": "/tmp/news_lk2/articles/fd/fd806554.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb0\u0bca\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc1\u0bae\u0bcd-\u0b8e\u0b95\u0bbf\u0bb1\u0bbf\u0baf\u0ba4\u0bc1/175-303547",
     "time_ut": 1662291363,
@@ -64,6 +104,14 @@
     "file_name": "/tmp/news_lk2/articles/49/494d2f0b.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0dbd\u0dcf\u0da7-\u0db8\u0dbd\u0dca-\u0db4\u0dcf\u0dc0\u0da9--\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u0db8\u0dbd\u0dca-\u0dc0\u0da9\u0db8\u0dca/11-396877",
+    "time_ut": 1662288088,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0dbd\u0dcf\u0da7 \u0db8\u0dbd\u0dca \u0db4\u0dcf\u0dc0\u0da9, \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0db8\u0dbd\u0dca \u0dc0\u0da9\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/43/4316ee49.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/04/price-of-kottu-packet-increased/",
     "time_ut": 1662287940,
@@ -86,6 +134,14 @@
     "original_lang": "en",
     "original_title": "President stresses need for immediate policy change in health sector",
     "file_name": "/tmp/news_lk2/articles/22/226f7cc0.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84741/president-stresses-urgent-need-for-policy-change-in-health-sector",
+    "time_ut": 1662286140,
+    "original_lang": "en",
+    "original_title": "President stresses urgent need for policy change in health sector",
+    "file_name": "/tmp/news_lk2/articles/62/62a87053.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",

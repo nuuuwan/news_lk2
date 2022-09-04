@@ -1,0 +1,231 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/09/04/one-dead-three-injured-in-saliyawewa-accident/",
+  "time_ut": 1662292320,
+  "original_lang": "en",
+  "original_title": "One dead & three injured in Saliyawewa accident",
+  "text_idx": {
+    "en": {
+      "title": "One dead & three injured in Saliyawewa accident",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st); An accident in Saliyawewa, 16th post area has caused for the death of one person and three others to be injured.",
+        "Police said that the accident occurred when a private bus and a van collided with each other on Sunday (4) afternoon.",
+        "The driver of the van, identified as a 65-year-old resident of Mannar, passed away in the accident.",
+        "Another person who was traveling in the van and two people who were in the bus were injured and taken to hospital, Police said."
+      ],
+      "title_ents": [
+        {
+          "text": "One",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "three",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Saliyawewa",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "Saliyawewa",
+            "label": "GPE"
+          },
+          {
+            "text": "16th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Sunday",
+            "label": "DATE"
+          },
+          {
+            "text": "4) afternoon",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "65-year-old",
+            "label": "DATE"
+          },
+          {
+            "text": "Mannar",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc3\u0dcf\u0dbd\u0dd2\u0dba\u0dc0\u0dd0\u0dc0 \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0d91\u0d9a\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dd4 \u0db8\u0dd2\u0dba \u0d9c\u0ddc\u0dc3\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0da7 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0dc3\u0dcf\u0dbd\u0dd2\u0dba\u0dc0\u0dd0\u0dc0, 16 \u0d9a\u0dab\u0dd4\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd6 \u0dbb\u0dd2\u0dba \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0dd2\u0db1\u0dca \u0d91\u0d9a\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dd4 \u0db8\u0dd2\u0dba \u0d9c\u0ddc\u0dc3\u0dca \u0dad\u0dc0\u0dad\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dbd\u0db6\u0dcf \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf.",
+        "\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda, \u0d89\u0dbb\u0dd2\u0daf\u0dcf (4) \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4\u0dc0\u0dda \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db6\u0dc3\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0dc3\u0dc4 \u0dc0\u0dd1\u0db1\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0d91\u0d9a\u0dd2\u0db1\u0dd9\u0d9a \u0d9c\u0dd0\u0da7\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db8\u0dd9\u0db8 \u0d85\u0db1\u0dad\u0dd4\u0dbb \u0dc3\u0dd2\u0daf\u0dd4\u0dc0 \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dba.",
+        "\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7 \u0db4\u0dad\u0dca\u0dc0 \u0d87\u0dad\u0dca\u0dad\u0dda \u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2 65 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2 \u0dc0\u0dd1\u0db1\u0dca \u0dbb\u0dae\u0dba\u0dda \u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4\u0dba\u0dd2.",
+        "\u0dc0\u0dd1\u0db1\u0dca \u0dbb\u0dae\u0dba\u0dda \u0d9c\u0db8\u0db1\u0dca \u0d9c\u0dad\u0dca \u0dad\u0dc0\u0dad\u0dca \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4 \u0dc3\u0dc4 \u0db6\u0dc3\u0dca \u0dbb\u0dae\u0dba\u0dda \u0dc3\u0dd2\u0da7\u0dd2 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd2\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dbd\u0db6\u0dcf \u0dbb\u0ddd\u0dc4\u0dbd\u0dca \u0d9c\u0dad \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dba\u0dd2 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d91\u0d9a",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0dad\u0dd4\u0db1\u0dca",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0dc3\u0dcf\u0dbd\u0dd2\u0dba\u0dc0\u0dd0\u0dc0",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dcf\u0dbd\u0dd2\u0dba\u0dc0\u0dd0\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "16 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0dbb\u0dd2\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "4) \u0daf\u0dc4\u0dc0\u0dbd\u0dca",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "65 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b9a\u0bbe\u0bb2\u0bbf\u0baf\u0bb5\u0bc6\u0bb5 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0b9a\u0bbe\u0bb2\u0bbf\u0baf\u0bb5\u0bc6\u0bb5, 16\u0b86\u0bae\u0bcd \u0ba4\u0baa\u0bbe\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (4) \u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bb8\u0bcd\u0bb8\u0bca\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0ba9\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bcb\u0ba4\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc7\u0ba9\u0bbf\u0ba9\u0bcd \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf \u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 65 \u0bb5\u0baf\u0ba4\u0bc1\u0b9f\u0bc8\u0baf\u0bb5\u0bb0\u0bcd \u0b8e\u0ba9 \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0bb5\u0bc7\u0ba9\u0bbf\u0bb2\u0bcd \u0baa\u0baf\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b9a\u0bbe\u0bb2\u0bbf\u0baf\u0bb5\u0bc6\u0bb5",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bb2\u0bbf\u0baf\u0bb5\u0bc6\u0bb5",
+            "label": "GPE"
+          },
+          {
+            "text": "16\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "4) \u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "65 \u0bb5\u0baf\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}

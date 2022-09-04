@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84742/main-framework-for-ceb-reforms-presented-to-cabinet-by-month-end",
+    "time_ut": 1662292920,
+    "original_lang": "en",
+    "original_title": "Main framework for CEB reforms presented to Cabinet by month-end",
+    "file_name": "/tmp/news_lk2/articles/fc/fc28be35.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/president-stresses-on-health-sector-policy-change/",
+    "time_ut": 1662292440,
+    "original_lang": "en",
+    "original_title": "President stresses on health sector policy change",
+    "file_name": "/tmp/news_lk2/articles/52/5207b9e9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/one-dead-three-injured-in-saliyawewa-accident/",
+    "time_ut": 1662292320,
+    "original_lang": "en",
+    "original_title": "One dead & three injured in Saliyawewa accident",
+    "file_name": "/tmp/news_lk2/articles/32/32e44d89.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d96\u0dc2\u0db0-\u0dc4\u0dd2\u0d9f\u0dba-\u0dc3\u0ddc\u0dba\u0dcf-\u0db6\u0dbd\u0db1\u0dca\u0db1\u0da7-\u0db4\u0dad\u0dca-\u0d9a\u0dc5-\u0d9a\u0db8\u0dd2\u0da7\u0dd4-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7/101-619280",
+    "time_ut": 1662292273,
+    "original_lang": "si",
+    "original_title": "\u0d96\u0dc2\u0db0 \u0dc4\u0dd2\u0d9f\u0dba \u0dc3\u0ddc\u0dba\u0dcf \u0db6\u0dbd\u0db1\u0dca\u0db1\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dc5 \u0d9a\u0db8\u0dd2\u0da7\u0dd4 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7",
+    "file_name": "/tmp/news_lk2/articles/2c/2c489c3f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-airport-agency-says-usually-profitable-2022-a-currency-loss-99423/",
+    "time_ut": 1662291960,
+    "original_lang": "en",
+    "original_title": "Sri Lanka airport agency says usually profitable, 2022 a currency loss",
+    "file_name": "/tmp/news_lk2/articles/fd/fd806554.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb0\u0bca\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc1\u0bae\u0bcd-\u0b8e\u0b95\u0bbf\u0bb1\u0bbf\u0baf\u0ba4\u0bc1/175-303547",
     "time_ut": 1662291363,
@@ -64,6 +104,14 @@
     "file_name": "/tmp/news_lk2/articles/49/494d2f0b.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0dbd\u0dcf\u0da7-\u0db8\u0dbd\u0dca-\u0db4\u0dcf\u0dc0\u0da9--\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u0db8\u0dbd\u0dca-\u0dc0\u0da9\u0db8\u0dca/11-396877",
+    "time_ut": 1662288088,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0dbd\u0dcf\u0da7 \u0db8\u0dbd\u0dca \u0db4\u0dcf\u0dc0\u0da9, \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0db8\u0dbd\u0dca \u0dc0\u0da9\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/43/4316ee49.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/04/price-of-kottu-packet-increased/",
     "time_ut": 1662287940,
@@ -86,6 +134,14 @@
     "original_lang": "en",
     "original_title": "President stresses need for immediate policy change in health sector",
     "file_name": "/tmp/news_lk2/articles/22/226f7cc0.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84741/president-stresses-urgent-need-for-policy-change-in-health-sector",
+    "time_ut": 1662286140,
+    "original_lang": "en",
+    "original_title": "President stresses urgent need for policy change in health sector",
+    "file_name": "/tmp/news_lk2/articles/62/62a87053.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Aussie Parliamentarian Ondarchie visits Port City Commission",
     "file_name": "/tmp/news_lk2/articles/ac/ac4a6aa0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/MAS-Holdings-finalist-in-Diversity-Equity-and-Inclusion-Category-at-Reuters-Events-Responsible-Business-Awards-2022/34-739074",
-    "time_ut": 1661370756,
-    "original_lang": "en",
-    "original_title": "MAS Holdings finalist in Diversity, Equity and Inclusion Category at Reuters Events: Responsible Business Awards 2022",
-    "file_name": "/tmp/news_lk2/articles/66/668a5481.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Unleash-excellence-in-the-new-normal-SLASSCOM-to-hold-6th-successive-Quality-Summit/34-739073",
-    "time_ut": 1661370423,
-    "original_lang": "en",
-    "original_title": "\u201cUnleash excellence in the new normal\u201d: SLASSCOM to hold 6th successive Quality Summit",
-    "file_name": "/tmp/news_lk2/articles/2f/2ff27689.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/tough-challenge-for-cb-chief/",
-    "time_ut": 1661362440,
-    "original_lang": "en",
-    "original_title": "Tough challenge for CB Chief",
-    "file_name": "/tmp/news_lk2/articles/2d/2d4efab9.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Deep-cuts-pain-and-PTA-President-Ranil-s-de-stabilising-dogma/4-739058",
-    "time_ut": 1661362331,
-    "original_lang": "en",
-    "original_title": "Deep cuts, pain and PTA: President Ranil\u2019s de-stabilising dogma",
-    "file_name": "/tmp/news_lk2/articles/bf/bf15c110.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/The-spirit-of-the-9-July-uprising-in-Sri-Lanka-remains-alive/4-739057",
-    "time_ut": 1661361539,
-    "original_lang": "en",
-    "original_title": "The spirit of the 9 July uprising in Sri Lanka remains alive",
-    "file_name": "/tmp/news_lk2/articles/87/874d8261.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Probe-reveals-Green-Eco-Lodge-owned-by-MRs-son/155-243642",
-    "time_ut": 1661325773,
-    "original_lang": "en",
-    "original_title": "Probe reveals \u2018Green Eco Lodge\u2019 owned by MR\u2019s son",
-    "file_name": "/tmp/news_lk2/articles/dd/dd78dd6d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/visheshanga/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0d86\u0dba\u0dad\u0db1-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0d86\u0dba\u0dad\u0db1-\u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0dbd-\u0dc0\u0dd9\u0db1\u0dc3/26-618662",
-    "time_ut": 1661317090,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d86\u0dba\u0dad\u0db1 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0d86\u0dba\u0dad\u0db1 \u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0dbd \u0dc0\u0dd9\u0db1\u0dc3",
-    "file_name": "/tmp/news_lk2/articles/0a/0a00b28a.json"
   }
 ]
