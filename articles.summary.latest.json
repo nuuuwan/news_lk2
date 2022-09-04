@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/price-of-kottu-packet-increased/",
+    "time_ut": 1662287940,
+    "original_lang": "en",
+    "original_title": "Price of Kottu packet increased",
+    "file_name": "/tmp/news_lk2/articles/eb/eb4ddbf0.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0dba-\u0d9a\u0dbb\u0db1\u0dc0\u0daf-\u0db1\u0dd0\u0dad\u0dca\u0daf--\u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4\u0dc0-\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba-\u0d85\u0dad\u0dda\u0dba\u0dd2/11-396876",
+    "time_ut": 1662287704,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0dba \u0d9a\u0dbb\u0db1\u0dc0\u0daf \u0db1\u0dd0\u0dad\u0dca\u0daf? \u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4\u0dc0 \u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0d85\u0dad\u0dda\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/82/828b7671.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84741/president-stresses-need-for-immediate-policy-change-in-health-sector",
     "time_ut": 1662286140,
@@ -54,6 +70,14 @@
     "original_lang": "en",
     "original_title": "Litro to reduce prices by Rs. 100-200 on Monday (5)",
     "file_name": "/tmp/news_lk2/articles/c3/c3c60b6b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0d86\u0db4\u0dd4-\u0d91\u0d9a\u0dda-\u0db1\u0dbb\u0d9a\u0d9a\u0dd4\u0dad\u0dca-\u0db1\u0dd0\u0dc4\u0dd0/11-396875",
+    "time_ut": 1662282727,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0d86\u0db4\u0dd4 \u0d91\u0d9a\u0dda \u0db1\u0dbb\u0d9a\u0d9a\u0dd4\u0dad\u0dca \u0db1\u0dd0\u0dc4\u0dd0",
+    "file_name": "/tmp/news_lk2/articles/c4/c4c1e86e.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "President Wickremesinghe must stop the crackdown to rebuild the nation",
     "file_name": "/tmp/news_lk2/articles/ba/ba681ed1.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Seven-more-GotaGoGama-protesters-released-on-Rs-500-000-bail/56-739029",
-    "time_ut": 1661300691,
-    "original_lang": "en",
-    "original_title": "Seven more GotaGoGama protesters released on Rs. 500,000 bail",
-    "file_name": "/tmp/news_lk2/articles/bf/bf59c47d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Dolawaththa-to-present-private-members-bill-to-amend-penal-code-to-protect-LGBTQI-community/56-739028",
-    "time_ut": 1661300660,
-    "original_lang": "en",
-    "original_title": "Dolawaththa to present private members bill to amend penal code to protect LGBTQI+ community",
-    "file_name": "/tmp/news_lk2/articles/82/82c7ff4a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Kanchana-updates-on-fuel-supplies/56-739018",
-    "time_ut": 1661299813,
-    "original_lang": "en",
-    "original_title": "Kanchana updates on fuel supplies",
-    "file_name": "/tmp/news_lk2/articles/7a/7a07887a.json"
   }
 ]
