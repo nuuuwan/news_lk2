@@ -240,6 +240,14 @@
     "file_name": "/tmp/news_lk2/articles/e1/e10253bf.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/the-fate-of-158-missing-persons-from-refugee-camp-at-eastern-university-on-september-5-1990-continues-to-be-unknown/",
+    "time_ut": 1662302759,
+    "original_lang": "en",
+    "original_title": "The Fate Of 158 Missing Persons From Refugee Camp At Eastern University On September 5, 1990 Continues To Be \u201cUnknown\u201d",
+    "file_name": "/tmp/news_lk2/articles/30/30062128.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bbf\u0ba9\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bc8-\u0b95\u0bc1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0bb2\u0bcd\u0b83\u0baa\u0bbf/175-303556",
     "time_ut": 1662301875,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "US donates 3,000 MT of food to feed Lankan school children",
     "file_name": "/tmp/news_lk2/articles/14/14548edc.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Marikkar-welcomes-release-of-Ranjan-calls-on-President-to-investigate-SLPP-MP-for-contempt/56-739167",
-    "time_ut": 1661539685,
-    "original_lang": "en",
-    "original_title": "Marikkar welcomes release of Ranjan; calls on President to investigate SLPP MP for contempt",
-    "file_name": "/tmp/news_lk2/articles/70/701ba81d.json"
   }
 ]
