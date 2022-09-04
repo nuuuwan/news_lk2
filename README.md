@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-05 04:20:37 (LK time)*
+*As of 2022-09-05 04:42:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -28,7 +28,7 @@
 
 * **3** colombo-telegraph-com ([RTI Act Used On Tear Gas And Litro Gas By ‘Aragalaya’ Protestors!](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d93a50e.json))
 
-## Last Week (968 Articles)
+## Last Week (967 Articles)
 
 * **166** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
@@ -44,7 +44,7 @@
 
 * **78** economy-next-com ([Sri Lanka tax revenues grow 29-pct up to May amid inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bddaddb2.json))
 
-* **59** daily-ft-lk ([Wisdom of ‘Nishkam Karma’: Much in demand for an authentic revival](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44cc6611.json))
+* **58** daily-ft-lk ([Economic crisis could be overcome with IMF interventions: Eran Wickramaratne expresses hope](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/229acbf3.json))
 
 * **45** island-lk ([Corruption, irrationality, hilarity and pity](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b90fb2a.json))
 
