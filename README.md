@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-05 03:40:29 (LK time)*
+*As of 2022-09-05 04:04:32 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
-* **3** daily-ft-lk ([Weerawansa-led independent parties form new political alliance](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34de9c87.json))
+* **2** daily-ft-lk ([CBK to open Nawa Lanka Nidahas Pakshaya HQ today](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8636c5bc.json))
 
-## Last 3 Hours (5 Articles)
+## Last 3 Hours (4 Articles)
 
-* **5** daily-ft-lk ([DIMO honoured with ISO 45001:2018 certification](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba071170.json))
+* **4** daily-ft-lk ([S-lon’s plastic pipe testing laboratory now ISO 17025 certified](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0010a06.json))
 
 ## Last 24 Hours (143 Articles)
 
