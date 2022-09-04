@@ -1,10 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 15:05:21 (LK time)*
+*As of 2022-09-04 15:19:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **1** ada-derana-lk ([Pakistan appeals for more aid as flood death toll rises](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e58e2772.json))
+
+* **1** daily-mirror-lk ([It’s up to GR if he wants to engage in politics or not: Namal](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7f8085f.json))
+
+* **1** economy-next-com ([Sri Lanka to develop power reform plan in a month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20e42965.json))
+
+## Last Hour (7 Articles)
 
 * **1** ada-derana-lk ([Pakistan appeals for more aid as flood death toll rises](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e58e2772.json))
 
@@ -16,31 +24,19 @@
 
 * **1** lankadeepa-lk ([ලංවීම ප්‍රතිව්‍යුහගත කිරීමේ යෝජනාව කැබිනට්ටුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0df917cb.json))
 
-## Last Hour (11 Articles)
-
-* **3** lankadeepa-lk ([එජාප නායකයෝ පක්ෂ උපන්දිනේට පෙර සිද්ධස්ථාන වලට යති](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3249081a.json))
-
-* **2** ada-derana-lk ([Litro Gas to slash prices tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd23b776.json))
-
-* **2** news-first-lk ([Minister reviews progress of CEB reforms committee](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ad9ac59.json))
-
-* **1** daily-mirror-lk ([It’s up to GR if he wants to engage in politics or not: Namal](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7f8085f.json))
-
-* **1** economy-next-com ([Sri Lanka to develop power reform plan in a month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20e42965.json))
-
 * **1** tamil-mirror-lk ([400 எரிபொருள் நிலையங்களுக்கு பூட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0b20325.json))
 
 * **1** ada-lk ([IMF ප්‍රධානී සතුටෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de5a8774.json))
 
-## Last 3 Hours (30 Articles)
+## Last 3 Hours (28 Articles)
 
-* **8** news-first-lk ([CBK to open Nawa Lanka Freedom Party Office](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/049508a9.json))
+* **7** news-first-lk ([President extends condolences to family of Gorbachev](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64ed36de.json))
 
 * **7** lankadeepa-lk ([ලබන වසරේ පාසල් පොත්වලට කෝටි 1648ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38cd3a92.json))
 
-* **4** ada-derana-lk ([Staff-level agreement an important step forward for Sri Lanka - IMF chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02628a7a.json))
-
 * **4** economy-next-com ([Sri Lanka telephone, data tariffs up by 20-pct](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65e9c8cb.json))
+
+* **3** ada-derana-lk ([Youth falls to his death while trying to take a selfie](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0503800.json))
 
 * **3** daily-mirror-lk ([Pettah vendors lament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b3610c4.json))
 
@@ -48,7 +44,7 @@
 
 * **2** ada-lk ([ලිට්‍රෝ ලාභ ලබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/2703264b.json))
 
-## Last 24 Hours (126 Articles)
+## Last 24 Hours (125 Articles)
 
 * **28** lankadeepa-lk ([පොහොට්ටුව එපා වූ තවත් පිරිසක් ඩලස්ලාට එකතු වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e7da999.json))
 
@@ -60,7 +56,7 @@
 
 * **14** ada-lk ([පාන් රාත්තලක මිල රු 300ට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91277d21.json))
 
-* **10** daily-mirror-lk ([Telecommunication providers up service charges, VAT](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f7ea8aa.json))
+* **9** daily-mirror-lk ([Sri Lanka beat Afghanistan in first Super Four clash](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/873e65a4.json))
 
 * **7** economy-next-com ([Sri Lanka’s Paris Club creditors ready to start debt talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/740c8fb7.json))
 
