@@ -1,48 +1,44 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 16:25:33 (LK time)*
+*As of 2022-09-04 16:43:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** tamil-mirror-lk ([பாடப்புத்தகங்களை அச்சிட  1648  கோடி ரூபாய் செலவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67866090.json))
+
+## Last Hour (3 Articles)
+
+* **1** tamil-mirror-lk ([பாடப்புத்தகங்களை அச்சிட  1648  கோடி ரூபாய் செலவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67866090.json))
 
 * **1** news-first-lk ([Price of Kottu packet increased](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb4ddbf0.json))
 
 * **1** ada-lk ([දේශපාලනය කරනවද නැත්ද? තීන්දුව ගෝඨාභය අතේයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/828b7671.json))
 
-## Last Hour (4 Articles)
-
-* **1** news-first-lk ([Price of Kottu packet increased](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb4ddbf0.json))
-
-* **1** ada-lk ([දේශපාලනය කරනවද නැත්ද? තීන්දුව ගෝඨාභය අතේයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/828b7671.json))
-
-* **1** ada-derana-lk ([President stresses need for immediate policy change in health sector](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/226f7cc0.json))
-
-* **1** tamil-mirror-lk ([புற்று நோயாளர்களுக்கான மருந்துகளுக்கு கடும் தட்டுபாடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/280a6b55.json))
-
-## Last 3 Hours (23 Articles)
+## Last 3 Hours (22 Articles)
 
 * **7** lankadeepa-lk ([ලබන වසරේ පාසල් පොත්වලට කෝටි 1648ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38cd3a92.json))
 
-* **4** ada-derana-lk ([Youth falls to his death while trying to take a selfie](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0503800.json))
+* **4** tamil-mirror-lk ([400 எரிபொருள் நிலையங்களுக்கு பூட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0b20325.json))
 
 * **3** news-first-lk ([Minister reviews progress of CEB reforms committee](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ad9ac59.json))
 
 * **3** ada-lk ([IMF ප්‍රධානී සතුටෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de5a8774.json))
 
-* **3** tamil-mirror-lk ([400 எரிபொருள் நிலையங்களுக்கு பூட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0b20325.json))
-
-* **2** economy-next-com ([IMF boss Georgieva comments on Sri Lanka deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba0bfc81.json))
+* **3** ada-derana-lk ([Litro Gas to slash prices tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd23b776.json))
 
 * **1** daily-mirror-lk ([It’s up to GR if he wants to engage in politics or not: Namal](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7f8085f.json))
 
-## Last 24 Hours (118 Articles)
+* **1** economy-next-com ([Sri Lanka to develop power reform plan in a month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20e42965.json))
+
+## Last 24 Hours (117 Articles)
 
 * **24** lankadeepa-lk ([ඇල්ල ඔඩෙසි’ තවත් දින දෙකක් ධාවනයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/312e1220.json))
 
-* **22** news-first-lk ([Sri Lanka wins preliminary match against India at Asian Netball Championships](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b91e8a4e.json))
+* **23** tamil-mirror-lk ([கோட்டா கேட்டால் கொடுக்கத் தயார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2ccfcdfb.json))
 
-* **22** tamil-mirror-lk ([கோட்டா கேட்டால் கொடுக்கத் தயார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2ccfcdfb.json))
+* **20** news-first-lk ([Paris Club to initiate debt relief program for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8b0668e.json))
 
 * **18** ada-derana-lk ([Special gazette issued declaring electricity, fuel supply and health essential services](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e7a8056.json))
 
@@ -54,7 +50,7 @@
 
 * **2** colombo-telegraph-com ([I Am Not Interested In Becoming A Minister For The Glamour](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f11176cf.json))
 
-## Last Week (910 Articles)
+## Last Week (911 Articles)
 
 * **156** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
@@ -62,7 +58,7 @@
 
 * **112** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
-* **109** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
+* **110** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
 * **101** daily-mirror-lk ([Chinese company refuses to budge](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab41ab08.json))
 
@@ -78,7 +74,7 @@
 
 * **12** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
-## All Time (1,259 Articles)
+## All Time (1,260 Articles)
 
 * **221** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -90,7 +86,7 @@
 
 * **121** d-b-s-jeyaraj-com ([The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f93260b.json))
 
-* **110** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **111** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **106** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf4124c.json))
 

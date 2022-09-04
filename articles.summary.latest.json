@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0b85\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f-1648-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0b9a\u0bc6\u0bb2\u0bb5\u0bc1/175-303544",
+    "time_ut": 1662288653,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0b9f\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f  1648  \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/67/67866090.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/04/price-of-kottu-packet-increased/",
     "time_ut": 1662287940,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Dilmah and Good Life X launch\u2018 Lost Ingredients Lab\u2019",
     "file_name": "/tmp/news_lk2/articles/cd/cd2ae236.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/President-Wickremesinghe-must-stop-the-crackdown-to-rebuild-the-nation/4-739031",
-    "time_ut": 1661300981,
-    "original_lang": "en",
-    "original_title": "President Wickremesinghe must stop the crackdown to rebuild the nation",
-    "file_name": "/tmp/news_lk2/articles/ba/ba681ed1.json"
   }
 ]
