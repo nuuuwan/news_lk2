@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84748/controversial-godman-accused-of-rape-seeks-asylum-in-sri-lanka-report",
+    "time_ut": 1662313440,
+    "original_lang": "en",
+    "original_title": "Controversial \u2018godman\u2019 accused of rape seeks asylum in Sri Lanka - report",
+    "file_name": "/tmp/news_lk2/articles/0b/0b178612.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84747/covid-19-four-more-deaths-and-49-new-cases-reported",
     "time_ut": 1662312420,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca \u0dc5\u0dd2\u0db4\u0da7 \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u0daf?",
     "file_name": "/tmp/news_lk2/articles/47/4765e710.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0da2\u0dd3\u0dc0\u0db1-\u0db6\u0dbb-\u0d85\u0da9\u0dd4-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u0dc3\u0dc4\u0db1-\u0dc3\u0dbd\u0dc3\u0db1\u0dd4/2-618773",
-    "time_ut": 1661492121,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dd3\u0dc0\u0db1 \u0db6\u0dbb \u0d85\u0da9\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0dc3\u0dc4\u0db1 \u0dc3\u0dbd\u0dc3\u0db1\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/d6/d6482c98.json"
   }
 ]
