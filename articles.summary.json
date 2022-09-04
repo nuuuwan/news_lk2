@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd2\u0da7\u0dd2\u0d9c\u0dbd-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4-\u0db8\u0dbb\u0dd4\u0da7/11-396867",
+    "time_ut": 1662260096,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd2\u0da7\u0dd2\u0d9c\u0dbd \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4 \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/a8/a8eb5815.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84733/fairly-heavy-rainfall-expected-in-parts-of-the-island",
+    "time_ut": 1662259920,
+    "original_lang": "en",
+    "original_title": "Fairly heavy rainfall expected in parts of the island",
+    "file_name": "/tmp/news_lk2/articles/ec/ec5ff7fa.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-shot-to-death-in-Pitigala/108-244264",
+    "time_ut": 1662259706,
+    "original_lang": "en",
+    "original_title": "Man shot to death in Pitigala",
+    "file_name": "/tmp/news_lk2/articles/26/26e80f87.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-303523",
+    "time_ut": 1662259369,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/56/56c98d68.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-president-declares-fuel-power-health-services-as-essential-99410/",
     "time_ut": 1662258000,
@@ -134,6 +166,14 @@
     "original_lang": "ta",
     "original_title": "\u0b86\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
     "file_name": "/tmp/news_lk2/articles/85/8535e383.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/sports/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0dad\u0dc0\u0dad\u0dca-\u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2-\u0da2\u0dba\u0d9a\u0dca/9-396866",
+    "time_ut": 1662227757,
+    "original_lang": "si",
+    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dad\u0dc0\u0dad\u0dca \u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2 \u0da2\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/30/30270fc5.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -1200,12 +1240,28 @@
     "file_name": "/tmp/news_lk2/articles/02/02d928e5.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79346",
+    "time_ut": 1662146640,
+    "original_lang": "en",
+    "original_title": "Life may have resumed as normal for many. But the poor are squeezed just that little bit more and worse is anticipated, all in the name of economic reforms to return Sri Lanka from bankruptcy.  On its part, the State has regrouped, predictably using all the formidable weapons in its arsenal.",
+    "file_name": "/tmp/news_lk2/articles/26/26af09cb.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bc1-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf/175-303474",
     "time_ut": 1662146384,
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bbe\u0b9f\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf",
     "file_name": "/tmp/news_lk2/articles/d6/d64a4a3a.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79343",
+    "time_ut": 1662146100,
+    "original_lang": "en",
+    "original_title": "President and Finance Minister Ranil Wickremesinghe Succeeds in Getting interim budget passed  with 115 Majority; 120 MPs from Different Parties Vote for while  5  from JVP and ACTC vote against.Most MPs Abstain or are Absent",
+    "file_name": "/tmp/news_lk2/articles/32/328e8291.json"
   },
   {
     "newspaper_id": "island-lk",
