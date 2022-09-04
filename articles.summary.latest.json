@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Main-framework-of-restructuring-CEB-to-be-presented-to-Cabinet/108-244269",
+    "time_ut": 1662277457,
+    "original_lang": "en",
+    "original_title": "Main framework of restructuring CEB to be presented to Cabinet",
+    "file_name": "/tmp/news_lk2/articles/e5/e580c15f.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/04/bangladesh-s-mushfiqur-retires-from-t20/",
     "time_ut": 1662276420,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Five ways to connect Sri Lanka\u2019s small businesses to global value chains",
     "file_name": "/tmp/news_lk2/articles/95/95ca79f0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/J-apura-Uni-Dept-of-BEC-Economic-Forum-on-Friday/34-738984",
-    "time_ut": 1661199147,
-    "original_lang": "en",
-    "original_title": "J\u2019apura Uni. Dept. of BEC Economic Forum on Friday",
-    "file_name": "/tmp/news_lk2/articles/43/430e620d.json"
   }
 ]
