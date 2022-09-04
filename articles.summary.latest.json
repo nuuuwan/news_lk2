@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84747/covid-19-four-more-deaths-and-49-new-cases-reported",
+    "time_ut": 1662312420,
+    "original_lang": "en",
+    "original_title": "Covid-19: four more deaths and 49 new cases reported",
+    "file_name": "/tmp/news_lk2/articles/4e/4ea25d61.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dd3\u0db8\u0dad\u0dd2\u0db1\u0dca-\u0d85\u0db4\u0dd4\u0dbb-\u0db1\u0d9c\u0dbb\u0dba\u0dda-\u0dc3\u0dd2\u0da7\u0dd2-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd2\u0dba\u0da7-\u0dc3\u0dc4-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf\u0da7-\u0d87\u0db4/1-619286",
     "time_ut": 1662309639,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0dd3\u0dc0\u0db1 \u0db6\u0dbb \u0d85\u0da9\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0dc3\u0dc4\u0db1 \u0dc3\u0dbd\u0dc3\u0db1\u0dd4",
     "file_name": "/tmp/news_lk2/articles/d6/d6482c98.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Ranil-s-perilous-authoritarian-alternative/4-739124",
-    "time_ut": 1661472075,
-    "original_lang": "en",
-    "original_title": "Ranil\u2019s perilous authoritarian alternative",
-    "file_name": "/tmp/news_lk2/articles/d6/d63620cb.json"
   }
 ]
