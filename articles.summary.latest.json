@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bbe\u0b95-\u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1-\u0baa\u0baf\u0bae\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd-\u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1/175-303549",
+    "time_ut": 1662295163,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1; \u0baa\u0baf\u0bae\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/08/08009387.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84743/supreme-lanka-coalition-independent-parties-form-new-alliance",
+    "time_ut": 1662294780,
+    "original_lang": "en",
+    "original_title": "\u2018Supreme Lanka Coalition\u2019: Independent parties form new alliance",
+    "file_name": "/tmp/news_lk2/articles/e5/e532757b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0b8e\u0bae\u0bcd-\u0b8e\u0baa\u0bcd-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/175-303548",
     "time_ut": 1662294256,
     "original_lang": "ta",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Plugging loopholes in Sri Lanka\u2019s  maritime security architecture",
     "file_name": "/tmp/news_lk2/articles/b7/b7a7742f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Free-health-care-debt-restructuring-and-subsidy-cuts/172-243666",
-    "time_ut": 1661378344,
-    "original_lang": "en",
-    "original_title": "Free health-care, debt restructuring and subsidy cuts",
-    "file_name": "/tmp/news_lk2/articles/22/220ec9f0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Beware-the-Neddas/172-243665",
-    "time_ut": 1661378228,
-    "original_lang": "en",
-    "original_title": "Beware the Neddas!",
-    "file_name": "/tmp/news_lk2/articles/48/48c54513.json"
   }
 ]
