@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-05 01:20:37 (LK time)*
+*As of 2022-09-05 01:42:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (2 Articles)
-
-* **2** daily-ft-lk ([DIMO honoured with ISO 45001:2018 certification](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba071170.json))
 
 ## Last Hour (2 Articles)
 
@@ -22,7 +18,7 @@
 
 * **1** daily-mirror-lk ([PAK beat IND by five wickets](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b323822.json))
 
-## Last 24 Hours (138 Articles)
+## Last 24 Hours (139 Articles)
 
 * **29** tamil-mirror-lk ([ஜனாதிபதியுடன் ரெலோ கட்சி சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/879880b9.json))
 
@@ -40,9 +36,9 @@
 
 * **6** daily-ft-lk ([How can Sri Lanka escape crisis with IMF’s $ 2.9 b?](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68bd6e3e.json))
 
-* **1** colombo-telegraph-com ([RTI Act Used On Tear Gas And Litro Gas By ‘Aragalaya’ Protestors!](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d93a50e.json))
+* **2** colombo-telegraph-com ([RTI Act Used On Tear Gas And Litro Gas By ‘Aragalaya’ Protestors!](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d93a50e.json))
 
-## Last Week (966 Articles)
+## Last Week (965 Articles)
 
 * **166** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
@@ -52,7 +48,7 @@
 
 * **116** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
-* **108** daily-mirror-lk ([Fascists, neo fascists, and SL’s future](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f196abda.json))
+* **106** daily-mirror-lk ([Govt. agrees to submit documents in Parliament over Ranjan’s release](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f8bcdbe.json))
 
 * **105** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
@@ -64,9 +60,9 @@
 
 * **21** d-b-s-jeyaraj-com ([President cum Finance Minister Ranil Wickremesinghe Presents  Sri Lanka’s interim budget which is intended to lay the foundation for a progressive economy even as it provides a buffer to the poor who are bearing the brunt of the current unprecedented economic crisis.](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1790b1a.json))
 
-* **12** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
+* **13** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
-## All Time (1,323 Articles)
+## All Time (1,324 Articles)
 
 * **231** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -88,4 +84,4 @@
 
 * **64** island-lk ([Gotabaya Rajapaksa, in retrospect](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/406a09fd.json))
 
-* **28** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))
+* **29** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))
