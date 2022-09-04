@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84741/president-stresses-need-for-immediate-policy-change-in-health-sector",
+    "time_ut": 1662286140,
+    "original_lang": "en",
+    "original_title": "President stresses need for immediate policy change in health sector",
+    "file_name": "/tmp/news_lk2/articles/22/226f7cc0.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1-\u0ba8\u0bcb\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0b9f\u0bc1\u0bae\u0bcd-\u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bbe\u0b9f\u0bc1/175-303541",
+    "time_ut": 1662286059,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba8\u0bcb\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bbe\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/28/280a6b55.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-303538",
     "time_ut": 1662284899,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Kanchana updates on fuel supplies",
     "file_name": "/tmp/news_lk2/articles/7a/7a07887a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Aragalaya-trio-moved-to-Tangalle-detention-centre/56-739017",
-    "time_ut": 1661293771,
-    "original_lang": "en",
-    "original_title": "Aragalaya trio moved to Tangalle detention centre",
-    "file_name": "/tmp/news_lk2/articles/ba/ba6116ed.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/First-tribal-woman-president-symbolises-India-s-pluralist-legacy/4-739016",
-    "time_ut": 1661293658,
-    "original_lang": "en",
-    "original_title": "First tribal woman president symbolises India\u2019s pluralist legacy",
-    "file_name": "/tmp/news_lk2/articles/c3/c3a998f7.json"
   }
 ]
