@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/S-lon-s-plastic-pipe-testing-laboratory-now-ISO-17025-certified/34-739473",
+    "time_ut": 1662320225,
+    "original_lang": "en",
+    "original_title": "S-lon\u2019s plastic pipe testing laboratory now ISO 17025 certified",
+    "file_name": "/tmp/news_lk2/articles/f0/f0010a06.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/DIMO-honoured-with-ISO-45001-2018-certification/34-739472",
+    "time_ut": 1662320031,
+    "original_lang": "en",
+    "original_title": "DIMO honoured with ISO 45001:2018 certification",
+    "file_name": "/tmp/news_lk2/articles/ba/ba071170.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84750/plans-afoot-to-set-up-permanent-office-for-ex-servicemen-defence-secretary",
     "time_ut": 1662317400,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Japanese Embassy Asks Jaffna Municipal Council to  Refund  Rs 14,329,446 Given in 2019 to Purchase four reconditioned waste-collection trucks ;\u201dgreatly regrettable that the project has already been three years late over the schedule and you were unable to implement the project,\u201d the embassy informs Mayor V. Manivannan on the cancellation of the project.",
     "file_name": "/tmp/news_lk2/articles/88/88429fbe.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/CIPM-Sri-Lanka-launches-first-ever-International-Study-Centre-at-Bangladesh/34-739165",
-    "time_ut": 1661539432,
-    "original_lang": "en",
-    "original_title": "CIPM Sri Lanka launches first-ever International Study Centre at Bangladesh",
-    "file_name": "/tmp/news_lk2/articles/2d/2d2658fe.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/SLT-Mobitel-demonstrates-5G-experiences-at-One-Galle-Face-mall/34-739164",
-    "time_ut": 1661539374,
-    "original_lang": "en",
-    "original_title": "SLT-Mobitel demonstrates 5G experiences at One Galle Face mall",
-    "file_name": "/tmp/news_lk2/articles/17/176f804f.json"
   }
 ]
