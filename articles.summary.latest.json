@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/public-finance-committee-chief-harsha-demands-president-publicize-imf-conditions/",
+    "time_ut": 1662302760,
+    "original_lang": "en",
+    "original_title": "Public Finance Committee Chief Harsha demands President publicize IMF conditions",
+    "file_name": "/tmp/news_lk2/articles/e1/e10253bf.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bbf\u0ba9\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bc8-\u0b95\u0bc1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0bb2\u0bcd\u0b83\u0baa\u0bbf/175-303556",
+    "time_ut": 1662301875,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bbf\u0ba9\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bc8 \u0b95\u0bc1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0b9a\u0bc6\u0bb2\u0bcd\u0b83\u0baa\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/69/694c7f74.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84745/one-dead-one-injured-in-van-bus-collision",
     "time_ut": 1662301260,
@@ -30,6 +46,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bb1\u0bc1\u0b9a\u0bc0\u0bb0\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/3f/3fb4154c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0d85\u0d82\u0dc1\u0dba\u0dda-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2\u0dc0\u0dbd-\u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca-\u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2---\u0da2\u0db1\u0db4\u0dad\u0dd2/11-396880",
+    "time_ut": 1662298918,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0d85\u0d82\u0dc1\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2\u0dc0\u0dbd \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca \u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2 - \u0da2\u0db1\u0db4\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/1b/1bdf8a6d.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ukraine war, Sri Lanka and IMF prescriptions",
     "file_name": "/tmp/news_lk2/articles/dd/dd0d7dde.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79194",
-    "time_ut": 1661454360,
-    "original_lang": "en",
-    "original_title": "Police explainin the reasons for arresting  Wasantha Mudalige, Hashan Jeewantha Gunathilaka and Galwewa Siridamma Thera under  the Prevention of Terrorism Act (PTA) No. 48 of 1979)",
-    "file_name": "/tmp/news_lk2/articles/62/62f377bf.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79189",
-    "time_ut": 1661453820,
-    "original_lang": "en",
-    "original_title": "Former MP and State Minister Ranjan Ramanayake walks out a free man after being released from a 4 year rigorous imprisonment sentence; President Wickremesinghe grants conditional  pardon stipulating that Ramanayake should not make any statement critical or derogatory of the entire judiciary in future.",
-    "file_name": "/tmp/news_lk2/articles/a7/a7610e37.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79190",
-    "time_ut": 1661453280,
-    "original_lang": "en",
-    "original_title": "China  always supports  Sri Lanka\u2019s  sovereignty, independence, and territorial integritywhile some countries,far or near, always make various groundless excuses to bully Sri Lanka and trample on Sri Lanka\u2019s sovereignty and independence repeatedly.",
-    "file_name": "/tmp/news_lk2/articles/db/dba51755.json"
   }
 ]
