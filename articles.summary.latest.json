@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/bangladesh-s-mushfiqur-retires-from-t20/",
+    "time_ut": 1662276420,
+    "original_lang": "en",
+    "original_title": "Bangladesh\u2019s Mushfiqur retires from T20",
+    "file_name": "/tmp/news_lk2/articles/c6/c6f37e37.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/40-rise-in-illicit-liquor-production-nata/",
+    "time_ut": 1662276300,
+    "original_lang": "en",
+    "original_title": "40% rise in illicit liquor production: NATA",
+    "file_name": "/tmp/news_lk2/articles/6f/6f0b2d35.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/litro-app-for-exapts-to-send-lp-gas-to-relatives/",
+    "time_ut": 1662276240,
+    "original_lang": "en",
+    "original_title": "Litro App for exapts to send LP Gas to relatives",
+    "file_name": "/tmp/news_lk2/articles/24/2423d280.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Pettah-vendors-lament/110-244268",
+    "time_ut": 1662276090,
+    "original_lang": "en",
+    "original_title": "Pettah vendors lament",
+    "file_name": "/tmp/news_lk2/articles/0b/0b3610c4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/president-extends-condolences-to-family-of-gorbachev/",
+    "time_ut": 1662276000,
+    "original_lang": "en",
+    "original_title": "President extends condolences to family of Gorbachev",
+    "file_name": "/tmp/news_lk2/articles/64/64ed36de.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb2\u0bcd\u0bb5\u0bbf-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-303532",
+    "time_ut": 1662275991,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/15/1500c48b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-red-hot-crop-closed-economy-get-rave-views-as-malnutrition-widens-99416/",
+    "time_ut": 1662275520,
+    "original_lang": "en",
+    "original_title": "Sri Lanka red hot crop, closed economy get rave views as malnutrition widens",
+    "file_name": "/tmp/news_lk2/articles/ec/ecdf86f0.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-telephone-data-tariffs-up-by-20-pct-99415/",
+    "time_ut": 1662274860,
+    "original_lang": "en",
+    "original_title": "Sri Lanka telephone, data tariffs up by 20-pct",
+    "file_name": "/tmp/news_lk2/articles/65/65e9c8cb.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84737/staff-level-agreement-an-important-step-forward-for-sri-lanka-imf-chief",
     "time_ut": 1662273960,
@@ -46,6 +110,14 @@
     "original_lang": "ta",
     "original_title": "21 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bbf \u0b93\u0bb0\u0bbf\u0ba9\u0b9a\u0bcd\u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc8:   \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 13 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0bb1\u0bc8",
     "file_name": "/tmp/news_lk2/articles/69/6912e7f1.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb-\u0d9c\u0dc4\u0dbd-\u0d85\u0db4\u0dd2\u0dc0-\u0db6\u0dba-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0db6\u0dd0\u0dc4\u0dd0---\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba-\u0dc0\u0dd2\u0daf\u0dd2\u0dba\u0da7-\u0dc0\u0dd9\u0db1\u0dc3\u0dca-\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd1/11-396872",
+    "time_ut": 1662271011,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb \u0d9c\u0dc4\u0dbd \u0d85\u0db4\u0dd2\u0dc0 \u0db6\u0dba \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0db6\u0dd0\u0dc4\u0dd0 - \u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0dc0\u0dd2\u0daf\u0dd2\u0dba\u0da7 \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/82/8267262f.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7926,77 +7998,5 @@
     "original_lang": "en",
     "original_title": "Kerosene price hike: Setting the rural and urban periphery on fire",
     "file_name": "/tmp/news_lk2/articles/c5/c5ac80b6.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/The-tough-guy-President-and-the-Aragalaya/4-738979",
-    "time_ut": 1661197918,
-    "original_lang": "en",
-    "original_title": "The \u2018tough guy\u2019 President and the Aragalaya",
-    "file_name": "/tmp/news_lk2/articles/8f/8f85bfc8.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Gone-with-the-wind-but-ill-winds-still-blow/4-738978",
-    "time_ut": 1661197798,
-    "original_lang": "en",
-    "original_title": "Gone with the wind but ill winds still blow",
-    "file_name": "/tmp/news_lk2/articles/a6/a628ed6c.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/Saying-no-to-authoritarian-governance/14-738977",
-    "time_ut": 1661197429,
-    "original_lang": "en",
-    "original_title": "Saying no to authoritarian governance",
-    "file_name": "/tmp/news_lk2/articles/8a/8a26c5c9.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79118",
-    "time_ut": 1661195160,
-    "original_lang": "en",
-    "original_title": "The use of the PTA after the government committed itself to discontinuing its use is a betrayal of trust that will not gain it the trust of the people but their antipathy.",
-    "file_name": "/tmp/news_lk2/articles/1e/1ed0153e.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79115",
-    "time_ut": 1661194620,
-    "original_lang": "en",
-    "original_title": "People\u2019s Alliance on Right to Land (PARL) demands the immediate and unconditional release of Activist Chinthaka  Rajapakse and all others arrested with him at the peaceful protests on 18th August.",
-    "file_name": "/tmp/news_lk2/articles/40/4098ca19.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79120",
-    "time_ut": 1661194080,
-    "original_lang": "en",
-    "original_title": "\u201cHow could a public protest campaign, dubbed as peaceful, destroy 70 houses and 600  other properties belonging to as many as 72 MPs, within a matter of 24 hours? Asks SLPP Gen Secy Sagara  Kariyawasam",
-    "file_name": "/tmp/news_lk2/articles/68/689df5af.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Sri-Lankas-lost-peoples-revolution/172-243534",
-    "time_ut": 1661190297,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s lost people\u2019s revolution",
-    "file_name": "/tmp/news_lk2/articles/51/519eca66.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Importance-of-looking-at-the-bigger-picture/172-243533",
-    "time_ut": 1661190087,
-    "original_lang": "en",
-    "original_title": "Importance of looking at the bigger picture",
-    "file_name": "/tmp/news_lk2/articles/70/70280c2a.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/wimps-heroes-and-litmus-test/",
-    "time_ut": 1661188440,
-    "original_lang": "en",
-    "original_title": "Wimps, heroes and litmus test",
-    "file_name": "/tmp/news_lk2/articles/16/16d3765e.json"
   }
 ]
