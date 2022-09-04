@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 05:23:13 (LK time)*
+*As of 2022-09-04 05:43:53 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (132 Articles)
+## Last 24 Hours (133 Articles)
 
 * **29** news-first-lk ([Ex-President Rajapaka returns to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5dfbe33a.json))
 
@@ -22,7 +22,9 @@
 
 * **2** colombo-telegraph-com ([End Casino Capitalism: Sri Lanka To Join The Global Minimum Tax Agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58501d74.json))
 
-## Last Week (829 Articles)
+* **1** island-lk ([Lanka Adrift in Tempestuous Seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef85deaa.json))
+
+## Last Week (834 Articles)
 
 * **140** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
@@ -40,13 +42,13 @@
 
 * **51** daily-ft-lk ([Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc758d4.json))
 
-* **44** island-lk ([Ditch the phone before bed! 16 tips for a good night’s sleep](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87ee4f90.json))
+* **49** island-lk ([Ditch the phone before bed! 16 tips for a good night’s sleep](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87ee4f90.json))
 
 * **18** d-b-s-jeyaraj-com ([Power and Energy Minister Kanchana Wijesekera  defends decision to increase electricity tariffs, citing spendthrift generation plans and unsuitable policies adopted by successive governments pushed for the inevitable upward adjustments.](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bafcb9f4.json))
 
 * **14** colombo-telegraph-com ([Let’s Have Fun Today](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3c2675e.json))
 
-## All Time (1,172 Articles)
+## All Time (1,178 Articles)
 
 * **205** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -66,6 +68,6 @@
 
 * **72** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
 
-* **58** island-lk ([Gotabaya Rajapaksa, in retrospect](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/406a09fd.json))
+* **64** island-lk ([Gotabaya Rajapaksa, in retrospect](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/406a09fd.json))
 
 * **27** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))

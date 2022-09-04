@@ -816,6 +816,14 @@
     "file_name": "/tmp/news_lk2/articles/39/39d15aef.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/lanka-adrift-in-tempestuous-seas/",
+    "time_ut": 1662181560,
+    "original_lang": "en",
+    "original_title": "Lanka Adrift in Tempestuous Seas",
+    "file_name": "/tmp/news_lk2/articles/ef/ef85deaa.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/03/mobile-broadband-pay-tv-charges-increased/",
     "time_ut": 1662181500,
@@ -1065,6 +1073,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/the-agony-and-the-ecstasy-of-the-drink-of-the-gods/",
+    "time_ut": 1662162000,
+    "original_lang": "en",
+    "original_title": "The agony and the ecstasy of the drink of the Gods",
+    "file_name": "/tmp/news_lk2/articles/e4/e41f9439.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/lanka-is-bankrupt-because-of-the-rajapaksas-says-chandrika-kumaratunga/",
     "time_ut": 1662161880,
     "original_lang": "en",
@@ -1081,11 +1097,27 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/cathay-pacific-cargo-introduces-fly-greener-the-carbon-offset-programme-for-air-freight/",
+    "time_ut": 1662160260,
+    "original_lang": "en",
+    "original_title": "Cathay Pacific Cargo introduces Fly Greener, the carbon-offset programme for air freight",
+    "file_name": "/tmp/news_lk2/articles/3a/3a1d2a9c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/anthony-anghie/",
     "time_ut": 1662160020,
     "original_lang": "en",
     "original_title": "Anthony Anghie",
     "file_name": "/tmp/news_lk2/articles/1d/1d63484b.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/wastage-in-sri-lanka-as-in-no-other-nation/",
+    "time_ut": 1662159960,
+    "original_lang": "en",
+    "original_title": "WASTAGE IN SRI LANKA AS IN NO OTHER NATION",
+    "file_name": "/tmp/news_lk2/articles/c3/c39db924.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -4545,6 +4577,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/what-a-world/",
+    "time_ut": 1661964300,
+    "original_lang": "en",
+    "original_title": "What a world!",
+    "file_name": "/tmp/news_lk2/articles/6b/6b3adda9.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/sysco-labs-strengthens-diversity-equity-and-inclusion-in-the-workplace/",
     "time_ut": 1661964120,
     "original_lang": "en",
@@ -7702,6 +7742,14 @@
     "original_lang": "en",
     "original_title": "204 Lankan flights stopped for refuelling at Thiruvananthapuram airport",
     "file_name": "/tmp/news_lk2/articles/86/86de61ba.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/resetting-sri-lanka-and-the-inadequacy-of-22a/",
+    "time_ut": 1660990980,
+    "original_lang": "en",
+    "original_title": "Resetting Sri Lanka and the inadequacy of 22A",
+    "file_name": "/tmp/news_lk2/articles/02/02406e14.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
