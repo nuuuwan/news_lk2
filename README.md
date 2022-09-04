@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 15:19:57 (LK time)*
+*As of 2022-09-04 15:43:46 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **1** ada-derana-lk ([Pakistan appeals for more aid as flood death toll rises](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e58e2772.json))
+* **1** tamil-mirror-lk ([விலையில் ஏற்படவுள்ள  மாற்றம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/2504f51d.json))
 
-* **1** daily-mirror-lk ([It’s up to GR if he wants to engage in politics or not: Namal](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7f8085f.json))
+## Last Hour (5 Articles)
 
-* **1** economy-next-com ([Sri Lanka to develop power reform plan in a month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20e42965.json))
-
-## Last Hour (7 Articles)
+* **1** tamil-mirror-lk ([விலையில் ஏற்படவுள்ள  மாற்றம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/2504f51d.json))
 
 * **1** ada-derana-lk ([Pakistan appeals for more aid as flood death toll rises](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e58e2772.json))
 
@@ -22,39 +20,33 @@
 
 * **1** news-first-lk ([Litro to reduce prices by Rs. 100-200 on Monday (5)](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3c60b6b.json))
 
-* **1** lankadeepa-lk ([ලංවීම ප්‍රතිව්‍යුහගත කිරීමේ යෝජනාව කැබිනට්ටුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0df917cb.json))
-
-* **1** tamil-mirror-lk ([400 எரிபொருள் நிலையங்களுக்கு பூட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0b20325.json))
-
-* **1** ada-lk ([IMF ප්‍රධානී සතුටෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de5a8774.json))
-
-## Last 3 Hours (28 Articles)
+## Last 3 Hours (27 Articles)
 
 * **7** news-first-lk ([President extends condolences to family of Gorbachev](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64ed36de.json))
 
 * **7** lankadeepa-lk ([ලබන වසරේ පාසල් පොත්වලට කෝටි 1648ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38cd3a92.json))
 
-* **4** economy-next-com ([Sri Lanka telephone, data tariffs up by 20-pct](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65e9c8cb.json))
+* **3** tamil-mirror-lk ([கல்வி அமைச்சு விடுத்துள்ள முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1500c48b.json))
 
 * **3** ada-derana-lk ([Youth falls to his death while trying to take a selfie](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0503800.json))
 
 * **3** daily-mirror-lk ([Pettah vendors lament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b3610c4.json))
 
-* **2** tamil-mirror-lk ([கல்வி அமைச்சு விடுத்துள்ள முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1500c48b.json))
+* **2** economy-next-com ([IMF boss Georgieva comments on Sri Lanka deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba0bfc81.json))
 
 * **2** ada-lk ([ලිට්‍රෝ ලාභ ලබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/2703264b.json))
 
-## Last 24 Hours (125 Articles)
+## Last 24 Hours (124 Articles)
 
 * **28** lankadeepa-lk ([පොහොට්ටුව එපා වූ තවත් පිරිසක් ඩලස්ලාට එකතු වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e7da999.json))
 
-* **24** news-first-lk ([MPs visit former President at his residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a471240f.json))
+* **25** tamil-mirror-lk ([மோசடி அதிகாரிகள்: அரசாங்கம் அதிரடி](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f602124.json))
 
-* **24** tamil-mirror-lk ([மோசடி அதிகாரிகள்: அரசாங்கம் அதிரடி](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f602124.json))
+* **23** news-first-lk ([India Now World’s Fifth Largest Economy, Overtakes UK](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b357975c.json))
 
 * **17** ada-derana-lk ([Special gazette issued declaring electricity, fuel supply and health essential services](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e7a8056.json))
 
-* **14** ada-lk ([පාන් රාත්තලක මිල රු 300ට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91277d21.json))
+* **13** ada-lk ([පොහොට්ටුවෙන් නායකත්ව ඇකඩමියක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe793a36.json))
 
 * **9** daily-mirror-lk ([Sri Lanka beat Afghanistan in first Super Four clash](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/873e65a4.json))
 
@@ -62,7 +54,7 @@
 
 * **2** colombo-telegraph-com ([I Am Not Interested In Becoming A Minister For The Glamour](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f11176cf.json))
 
-## Last Week (904 Articles)
+## Last Week (905 Articles)
 
 * **156** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
@@ -70,7 +62,7 @@
 
 * **110** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
-* **107** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
+* **108** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
 * **101** daily-mirror-lk ([Chinese company refuses to budge](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab41ab08.json))
 
@@ -86,7 +78,7 @@
 
 * **12** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
-## All Time (1,253 Articles)
+## All Time (1,254 Articles)
 
 * **221** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -98,7 +90,7 @@
 
 * **121** d-b-s-jeyaraj-com ([The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f93260b.json))
 
-* **108** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **109** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **106** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf4124c.json))
 

@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-303538",
+    "time_ut": 1662284899,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3  \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/25/2504f51d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84740/pakistan-appeals-for-more-aid-as-flood-death-toll-rises",
     "time_ut": 1662283440,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "First tribal woman president symbolises India\u2019s pluralist legacy",
     "file_name": "/tmp/news_lk2/articles/c3/c3a998f7.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79143",
-    "time_ut": 1661282640,
-    "original_lang": "en",
-    "original_title": "Four Suspects Arrested by Police for burning down on May 10 the \u2018Green Eco Lodge\u2019 Hotel in Kolonna  that was Owned by Mahinda Rajapaksa\u2019s Youngest son Rohitha  who is unemployed and whose sources of income Remain  a mystery",
-    "file_name": "/tmp/news_lk2/articles/4c/4c61505d.json"
   }
 ]
