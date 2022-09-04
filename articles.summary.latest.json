@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84737/staff-level-agreement-an-important-step-forward-for-sri-lanka-imf-chief",
+    "time_ut": 1662273960,
+    "original_lang": "en",
+    "original_title": "Staff-level agreement an important step forward for Sri Lanka - IMF chief",
+    "file_name": "/tmp/news_lk2/articles/02/02628a7a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/imf-chief-pleased-by-imf-staff-level-agreement/",
+    "time_ut": 1662273060,
+    "original_lang": "en",
+    "original_title": "IMF Chief pleased by IMF staff level agreement",
+    "file_name": "/tmp/news_lk2/articles/3e/3e9da1a6.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dcf\u0d9c\u0dda-\u0db8\u0dbb\u0dd4\u0dc0\u0dcf-\u0dc3\u0dd9\u0dbd\u0dca\u0dc6\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0d91\u0dba\u0dd2/1-619258",
     "time_ut": 1662272797,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Defence Ministry signs detention orders to detain IUSF convenor and two others for 90 days",
     "file_name": "/tmp/news_lk2/articles/21/21f1609b.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dad\u0db1\u0dd2\u0d9a\u0da9\u0dba\u0dcf\u0d9c\u0dda-\u0db1\u0dcf\u0dbb\u0dd2\u0dbd\u0dad\u0dcf-\u0dc3\u0dd2\u0dc4\u0dd2\u0db1\u0dba/2-618539",
-    "time_ut": 1661155313,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0db1\u0dd2\u0d9a\u0da9\u0dba\u0dcf\u0d9c\u0dda \u0db1\u0dcf\u0dbb\u0dd2\u0dbd\u0dad\u0dcf \u0dc3\u0dd2\u0dc4\u0dd2\u0db1\u0dba",
-    "file_name": "/tmp/news_lk2/articles/6c/6cf3693b.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0da2\u0dcf\u0dad\u0dd2\u0dba-\u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dda-\u0d87\u0dba\u0dd2-/2-618515",
-    "time_ut": 1661142363,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0dba \u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dda \u0d87\u0dba\u0dd2?",
-    "file_name": "/tmp/news_lk2/articles/2d/2d6e7601.json"
   }
 ]
