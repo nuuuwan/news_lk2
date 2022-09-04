@@ -1,26 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 22:26:42 (LK time)*
+*As of 2022-09-04 22:47:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
-
-* **3** lankadeepa-lk ([’’නිල් පාට ඇමති’’ කොළ කොඩියක් වනයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c8f981e.json))
-
-## Last Hour (5 Articles)
+## Last Hour (4 Articles)
 
 * **3** lankadeepa-lk ([’’නිල් පාට ඇමති’’ කොළ කොඩියක් වනයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c8f981e.json))
 
 * **1** economy-next-com ([European biz chambers in Sri Lanka organise B2B organic food conference](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f856c0ae.json))
 
-* **1** tamil-mirror-lk ([பாகிஸ்தானுக்கெதிராக 181 ஓட்டங்களைப் பெற்ற இந்தியா](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3bb2843.json))
-
-## Last 3 Hours (16 Articles)
-
-* **6** tamil-mirror-lk ([கொரோனா உயிரிழப்புகள் அதிகரித்தன](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f13eb5e.json))
+## Last 3 Hours (15 Articles)
 
 * **5** lankadeepa-lk ([තිරිඟු පිටි මිල වැඩිවීමට හේතුවක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8da4528d.json))
+
+* **5** tamil-mirror-lk ([இளைஞரின் உயிரை குடித்த செல்ஃபி](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/694c7f74.json))
 
 * **2** daily-mirror-lk ([GMOA submits report on pharmaceutical shortage to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16db9e15.json))
 
