@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bae\u0bb2\u0bcd-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf-\u0b89\u0ba4\u0baf\u0bae\u0bcd/175-303550",
+    "time_ut": 1662296863,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbf\u0bae\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf \u0b89\u0ba4\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/09/092dd91b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/former-president-gotabaya-will-not-enter-politics-but-will-share-experiences-with-next-generation-slpp-mp/",
+    "time_ut": 1662296040,
+    "original_lang": "en",
+    "original_title": "Former President Gotabaya will not enter politics; but will share experiences with next generation: SLPP MP",
+    "file_name": "/tmp/news_lk2/articles/18/180a2992.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bbe\u0b95-\u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1-\u0baa\u0baf\u0bae\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd-\u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1/175-303549",
     "time_ut": 1662295163,
     "original_lang": "ta",
