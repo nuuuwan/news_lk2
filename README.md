@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-05 02:04:44 (LK time)*
+*As of 2022-09-05 02:20:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last 3 Hours (7 Articles)
 
-* **1** daily-ft-lk ([S-lon’s plastic pipe testing laboratory now ISO 17025 certified](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0010a06.json))
+* **2** daily-ft-lk ([DIMO honoured with ISO 45001:2018 certification](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba071170.json))
 
-## Last 3 Hours (10 Articles)
-
-* **4** daily-ft-lk ([Climate change, risk finance, and innovative financial instruments](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e848132.json))
-
-* **3** ada-derana-lk ([Controversial ‘godman’ accused of rape seeks asylum in Sri Lanka - report](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b178612.json))
+* **2** ada-derana-lk ([Sajith claims President has become a hostage of the SLPP](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc965c8f.json))
 
 * **2** tamil-mirror-lk ([ஐ.எம்.எப். உடன்படிக்கை சபைக்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aaeab8e5.json))
 
