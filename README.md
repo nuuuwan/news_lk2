@@ -1,80 +1,86 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 14:40:37 (LK time)*
+*As of 2022-09-04 15:05:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (5 Articles)
 
-* **2** lankadeepa-lk ([එජාප නායකයෝ පක්ෂ උපන්දිනේට පෙර සිද්ධස්ථාන වලට යති](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3249081a.json))
+* **1** ada-derana-lk ([Pakistan appeals for more aid as flood death toll rises](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e58e2772.json))
 
-* **1** tamil-mirror-lk ([400 எரிபொருள் நிலையங்களுக்கு பூட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0b20325.json))
+* **1** daily-mirror-lk ([It’s up to GR if he wants to engage in politics or not: Namal](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7f8085f.json))
 
-* **1** ada-derana-lk ([Litro Gas to slash prices tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd23b776.json))
+* **1** economy-next-com ([Sri Lanka to develop power reform plan in a month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20e42965.json))
 
-* **1** news-first-lk ([Minister reviews progress of CEB reforms committee](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ad9ac59.json))
+* **1** news-first-lk ([Litro to reduce prices by Rs. 100-200 on Monday (5)](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3c60b6b.json))
+
+* **1** lankadeepa-lk ([ලංවීම ප්‍රතිව්‍යුහගත කිරීමේ යෝජනාව කැබිනට්ටුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0df917cb.json))
 
 ## Last Hour (11 Articles)
 
-* **6** lankadeepa-lk ([ලබන වසරේ පාසල් පොත්වලට කෝටි 1648ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38cd3a92.json))
+* **3** lankadeepa-lk ([එජාප නායකයෝ පක්ෂ උපන්දිනේට පෙර සිද්ධස්ථාන වලට යති](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3249081a.json))
 
-* **2** ada-derana-lk ([Youth falls to his death while trying to take a selfie](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0503800.json))
+* **2** ada-derana-lk ([Litro Gas to slash prices tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd23b776.json))
+
+* **2** news-first-lk ([Minister reviews progress of CEB reforms committee](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ad9ac59.json))
+
+* **1** daily-mirror-lk ([It’s up to GR if he wants to engage in politics or not: Namal](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7f8085f.json))
+
+* **1** economy-next-com ([Sri Lanka to develop power reform plan in a month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20e42965.json))
 
 * **1** tamil-mirror-lk ([400 எரிபொருள் நிலையங்களுக்கு பூட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0b20325.json))
 
-* **1** news-first-lk ([Minister reviews progress of CEB reforms committee](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ad9ac59.json))
+* **1** ada-lk ([IMF ප්‍රධානී සතුටෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de5a8774.json))
 
-* **1** economy-next-com ([IMF boss Georgieva comments on Sri Lanka deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba0bfc81.json))
+## Last 3 Hours (30 Articles)
 
-## Last 3 Hours (28 Articles)
+* **8** news-first-lk ([CBK to open Nawa Lanka Freedom Party Office](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/049508a9.json))
 
-* **8** lankadeepa-lk ([උයන්වත්ත වැවේ මළ සිරුරක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21e0d183.json))
+* **7** lankadeepa-lk ([ලබන වසරේ පාසල් පොත්වලට කෝටි 1648ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38cd3a92.json))
 
-* **8** news-first-lk ([IMF Chief pleased by IMF staff level agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e9da1a6.json))
+* **4** ada-derana-lk ([Staff-level agreement an important step forward for Sri Lanka - IMF chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02628a7a.json))
 
-* **3** tamil-mirror-lk ([21 சிறுவர்களை மிரட்டி ஓரினச்சேர்க்கை:   பத்திரிகையாளருக்கு 13 ஆண்டுகள் சிறை](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/6912e7f1.json))
+* **4** economy-next-com ([Sri Lanka telephone, data tariffs up by 20-pct](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65e9c8cb.json))
 
-* **3** ada-derana-lk ([Staff-level agreement an important step forward for Sri Lanka - IMF chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02628a7a.json))
+* **3** daily-mirror-lk ([Pettah vendors lament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b3610c4.json))
 
-* **3** economy-next-com ([Sri Lanka telephone, data tariffs up by 20-pct](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65e9c8cb.json))
+* **2** tamil-mirror-lk ([கல்வி அமைச்சு விடுத்துள்ள முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1500c48b.json))
 
-* **2** daily-mirror-lk ([Pettah vendors lament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b3610c4.json))
+* **2** ada-lk ([ලිට්‍රෝ ලාභ ලබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/2703264b.json))
 
-* **1** ada-lk ([ලිට්‍රෝ ලාභ ලබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/2703264b.json))
+## Last 24 Hours (126 Articles)
 
-## Last 24 Hours (124 Articles)
+* **28** lankadeepa-lk ([පොහොට්ටුව එපා වූ තවත් පිරිසක් ඩලස්ලාට එකතු වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e7da999.json))
 
-* **28** lankadeepa-lk ([බදු හොරුන්ට උදව් කරන නිලධාරීන් හයසියයක් ගැන පරීක්ෂණ](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c4307.json))
+* **24** news-first-lk ([MPs visit former President at his residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a471240f.json))
 
-* **25** tamil-mirror-lk ([நடுநிசியில் வரவேற்பு: நண்பகலில் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfc40e7e.json))
+* **24** tamil-mirror-lk ([மோசடி அதிகாரிகள்: அரசாங்கம் அதிரடி](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f602124.json))
 
-* **23** news-first-lk ([MPs visit former President at his residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a471240f.json))
+* **17** ada-derana-lk ([Special gazette issued declaring electricity, fuel supply and health essential services](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e7a8056.json))
 
-* **18** ada-derana-lk ([Price of loaf of bread increases further](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09cc6af8.json))
+* **14** ada-lk ([පාන් රාත්තලක මිල රු 300ට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91277d21.json))
 
-* **13** ada-lk ([පාන් රාත්තලක මිල රු 300ට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91277d21.json))
+* **10** daily-mirror-lk ([Telecommunication providers up service charges, VAT](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f7ea8aa.json))
 
-* **9** daily-mirror-lk ([Telecommunication providers up service charges, VAT](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f7ea8aa.json))
-
-* **6** economy-next-com ([Sri Lanka’s Paris Club creditors ready to start debt talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/740c8fb7.json))
+* **7** economy-next-com ([Sri Lanka’s Paris Club creditors ready to start debt talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/740c8fb7.json))
 
 * **2** colombo-telegraph-com ([I Am Not Interested In Becoming A Minister For The Glamour](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f11176cf.json))
 
-## Last Week (898 Articles)
+## Last Week (904 Articles)
 
-* **155** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
+* **156** lankadeepa-lk ([සුදුස්සාට-නුසුදුස්සාට සහනාධාර දිය යුතුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d47a102.json))
 
-* **123** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **124** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
-* **109** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
+* **110** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
 * **107** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
-* **100** daily-mirror-lk ([Chinese company refuses to budge](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab41ab08.json))
+* **101** daily-mirror-lk ([Chinese company refuses to budge](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab41ab08.json))
 
-* **93** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
+* **94** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
-* **75** economy-next-com ([Sri Lanka tax revenues grow 29-pct up to May amid inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bddaddb2.json))
+* **76** economy-next-com ([Sri Lanka tax revenues grow 29-pct up to May amid inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bddaddb2.json))
 
 * **51** daily-ft-lk ([Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc758d4.json))
 
@@ -84,15 +90,15 @@
 
 * **12** colombo-telegraph-com ([Central Bank Independence: Issue To The Fore Again, But Will The Government Have Foresight To Do It?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2eb81e.json))
 
-## All Time (1,247 Articles)
+## All Time (1,253 Articles)
 
-* **220** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **221** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **159** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **160** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **147** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
+* **148** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
 
-* **123** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **124** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **121** d-b-s-jeyaraj-com ([The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f93260b.json))
 
@@ -100,9 +106,9 @@
 
 * **106** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf4124c.json))
 
-* **93** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
+* **94** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
-* **78** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
+* **79** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
 
 * **64** island-lk ([Gotabaya Rajapaksa, in retrospect](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/406a09fd.json))
 
