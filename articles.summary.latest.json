@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Table-IMF-staff-level-agreement-in-Parliament-Harsha-tells-President/108-244290",
+    "time_ut": 1662305177,
+    "original_lang": "en",
+    "original_title": "Table IMF staff level agreement in Parliament: Harsha tells President",
+    "file_name": "/tmp/news_lk2/articles/d3/d37cee30.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d91\u0da2\u0dcf\u0db4-76-\u0dc0\u0db1-\u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba\u0da7-\u0d86\u0dc1\u0dd3\u0dbb\u0dca\u0dc0\u0dcf\u0daf-\u0db6\u0ddd\u0db0\u0dd2-\u0db4\u0dd6\u0da2\u0dcf\u0dc0\u0d9a\u0dca/101-619283",
     "time_ut": 1662303893,
@@ -17,11 +25,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/GMOA-submits-report-on-pharmaceutical-shortage-to-President/342-244279",
+    "url": "https://www.dailymirror.lk/breaking_news/GMOA-submits-report-on-pharmaceutical-shortage-to-President/108-244279",
     "time_ut": 1662303279,
     "original_lang": "en",
     "original_title": "GMOA submits report on pharmaceutical shortage to President",
-    "file_name": "/tmp/news_lk2/articles/c3/c33383fb.json"
+    "file_name": "/tmp/news_lk2/articles/16/16db9e15.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Police cites UN resolution as relevant for detention of activists under PTA",
     "file_name": "/tmp/news_lk2/articles/b5/b500ac95.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/President-Ramaphosa-keen-to-further-enhance-ties-with-Sri-Lanka/56-739106",
-    "time_ut": 1661469047,
-    "original_lang": "en",
-    "original_title": "President Ramaphosa keen to further enhance ties with Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/7e/7eb223bf.json"
   }
 ]
