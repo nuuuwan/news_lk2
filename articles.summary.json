@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/young-man-dies-after-falling-off-waterfall/",
+    "time_ut": 1662266280,
+    "original_lang": "en",
+    "original_title": "Young man dies after falling off waterfall",
+    "file_name": "/tmp/news_lk2/articles/30/30cbb931.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/money-dispute-leads-to-shooting-in-pitigala/",
+    "time_ut": 1662265980,
+    "original_lang": "en",
+    "original_title": "Money dispute leads to shooting in Pitigala",
+    "file_name": "/tmp/news_lk2/articles/7e/7eeb6528.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-exports-up-11-8-pct-up-to-july-2022-99412/",
+    "time_ut": 1662265380,
+    "original_lang": "en",
+    "original_title": "Sri Lanka exports up 11.8-pct up to July 2022",
+    "file_name": "/tmp/news_lk2/articles/01/0117661e.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf-\u0db4\u0ddc\u0dc4\u0dd9\u0dcf\u0dbb-\u0db6\u0dd9\u0daf\u0dd3\u0db8-\u0d85\u0dc0\u0dc3\u0db1\u0dca/101-619254",
     "time_ut": 1662263989,
