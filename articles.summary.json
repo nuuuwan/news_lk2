@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Kiriella-tells-Govt-to-release-political-detainees-before-HRC-sessions/56-739488",
+    "time_ut": 1662327393,
+    "original_lang": "en",
+    "original_title": "Kiriella tells Govt. to release political detainees before HRC sessions",
+    "file_name": "/tmp/news_lk2/articles/c4/c43ccacf.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/CBK-to-open-Nawa-Lanka-Nidahas-Pakshaya-HQ-today/56-739487",
+    "time_ut": 1662327328,
+    "original_lang": "en",
+    "original_title": "CBK to open Nawa Lanka Nidahas Pakshaya HQ today",
+    "file_name": "/tmp/news_lk2/articles/86/8636c5bc.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Weerawansa-led-independent-parties-form-new-political-alliance/56-739486",
+    "time_ut": 1662327270,
+    "original_lang": "en",
+    "original_title": "Weerawansa-led independent parties form new political alliance",
+    "file_name": "/tmp/news_lk2/articles/34/34de9c87.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/S-lon-s-plastic-pipe-testing-laboratory-now-ISO-17025-certified/34-739473",
     "time_ut": 1662320225,
     "original_lang": "en",
