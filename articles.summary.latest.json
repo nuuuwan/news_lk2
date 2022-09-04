@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/lrh-experiencing-shortage-of-30-medicines/",
+    "time_ut": 1662268440,
+    "original_lang": "en",
+    "original_title": "LRH experiencing shortage of 30 medicines",
+    "file_name": "/tmp/news_lk2/articles/09/09dc6c88.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/IMF-chief-pleased-over-SL-reaching-staff-level-pact-for-US-2-9bn/108-244267",
+    "time_ut": 1662267262,
+    "original_lang": "en",
+    "original_title": "IMF chief pleased over SL reaching staff-level pact for US $ 2.9bn",
+    "file_name": "/tmp/news_lk2/articles/dd/dd0e961f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ready-to-quit-as-MP-if-GR-wants-to-enter-Parliament-Seetha-Arambepola/108-244266",
+    "time_ut": 1662266853,
+    "original_lang": "en",
+    "original_title": "Ready to quit as MP if GR wants to enter Parliament: Seetha Arambepola",
+    "file_name": "/tmp/news_lk2/articles/b8/b869e4c7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/04/young-man-dies-after-falling-off-waterfall/",
     "time_ut": 1662266280,
     "original_lang": "en",
@@ -46,6 +70,14 @@
     "original_lang": "en",
     "original_title": "Selfie craze claims another life; youth falls from waterfall",
     "file_name": "/tmp/news_lk2/articles/fa/faf0d49e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dad\u0dd4\u0dbb\u0dca-\u0d9a\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0dc4\u0dcf-\u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0dad\u0dd2\u0dbb\u0dd2\u0d9f\u0dd4-\u0db4\u0dd2\u0da7\u0dd2-\u0d9c\u0dd9\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba/11-396869",
+    "time_ut": 1662263344,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dd4\u0dbb\u0dca \u0d9a\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc4\u0dcf \u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2 \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dad\u0dd2\u0dbb\u0dd2\u0d9f\u0dd4 \u0db4\u0dd2\u0da7\u0dd2 \u0d9c\u0dd9\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba",
+    "file_name": "/tmp/news_lk2/articles/6e/6e1be2c0.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "204 Lankan flights stopped for refuelling at Thiruvananthapuram airport",
     "file_name": "/tmp/news_lk2/articles/86/86de61ba.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/resetting-sri-lanka-and-the-inadequacy-of-22a/",
-    "time_ut": 1660990980,
-    "original_lang": "en",
-    "original_title": "Resetting Sri Lanka and the inadequacy of 22A",
-    "file_name": "/tmp/news_lk2/articles/02/02406e14.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dad\u0dc4\u0d82\u0da0\u0dd2-\u0d85\u0dc4\u0ddd\u0dc3\u0dd2\u0dba\u0dda-\u0dba\u0da7\u0dd2-\u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4/2-618447",
-    "time_ut": 1660977463,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dc4\u0d82\u0da0\u0dd2 \u0d85\u0dc4\u0ddd\u0dc3\u0dd2\u0dba\u0dda \u0dba\u0da7\u0dd2 \u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/a2/a2cbe6e7.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0dc4\u0dac\u0da7\u0dad\u0dca-\u0dc3\u0dc0\u0db1\u0dca\u0daf\u0dd3-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0dc0\u0dd2\u0dc3\u0db3\u0db1\u0dd4/2-618445",
-    "time_ut": 1660976385,
-    "original_lang": "si",
-    "original_title": "\u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc4\u0dac\u0da7\u0dad\u0dca \u0dc3\u0dc0\u0db1\u0dca\u0daf\u0dd3 \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0dc0\u0dd2\u0dc3\u0db3\u0db1\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/7d/7deffc4e.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/gtf-welcomes-the-delisting-of-diaspora-entities-calls-for-a-well-targeted-unhrc-resolution-on-sri-lanka/",
-    "time_ut": 1660963505,
-    "original_lang": "en",
-    "original_title": "GTF Welcomes The Delisting Of Diaspora Entities & Calls For A Well-Targeted UNHRC Resolution On Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/b1/b1a7ebc2.json"
   }
 ]

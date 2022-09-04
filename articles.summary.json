@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/lrh-experiencing-shortage-of-30-medicines/",
+    "time_ut": 1662268440,
+    "original_lang": "en",
+    "original_title": "LRH experiencing shortage of 30 medicines",
+    "file_name": "/tmp/news_lk2/articles/09/09dc6c88.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/IMF-chief-pleased-over-SL-reaching-staff-level-pact-for-US-2-9bn/108-244267",
+    "time_ut": 1662267262,
+    "original_lang": "en",
+    "original_title": "IMF chief pleased over SL reaching staff-level pact for US $ 2.9bn",
+    "file_name": "/tmp/news_lk2/articles/dd/dd0e961f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ready-to-quit-as-MP-if-GR-wants-to-enter-Parliament-Seetha-Arambepola/108-244266",
+    "time_ut": 1662266853,
+    "original_lang": "en",
+    "original_title": "Ready to quit as MP if GR wants to enter Parliament: Seetha Arambepola",
+    "file_name": "/tmp/news_lk2/articles/b8/b869e4c7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/04/young-man-dies-after-falling-off-waterfall/",
     "time_ut": 1662266280,
     "original_lang": "en",
@@ -46,6 +70,14 @@
     "original_lang": "en",
     "original_title": "Selfie craze claims another life; youth falls from waterfall",
     "file_name": "/tmp/news_lk2/articles/fa/faf0d49e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dad\u0dd4\u0dbb\u0dca-\u0d9a\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0dc4\u0dcf-\u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0dad\u0dd2\u0dbb\u0dd2\u0d9f\u0dd4-\u0db4\u0dd2\u0da7\u0dd2-\u0d9c\u0dd9\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba/11-396869",
+    "time_ut": 1662263344,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dd4\u0dbb\u0dca \u0d9a\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc4\u0dcf \u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2 \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dad\u0dd2\u0dbb\u0dd2\u0d9f\u0dd4 \u0db4\u0dd2\u0da7\u0dd2 \u0d9c\u0dd9\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba",
+    "file_name": "/tmp/news_lk2/articles/6e/6e1be2c0.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
