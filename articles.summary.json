@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84745/one-dead-one-injured-in-van-bus-collision",
+    "time_ut": 1662301260,
+    "original_lang": "en",
+    "original_title": "One dead, one injured in van-bus collision",
+    "file_name": "/tmp/news_lk2/articles/71/71b3ddef.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9/175-303555",
+    "time_ut": 1662300766,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9",
+    "file_name": "/tmp/news_lk2/articles/6f/6f13eb5e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84744/high-commissioner-reiterates-indias-commitment-to-sri-lanka",
     "time_ut": 1662299760,
     "original_lang": "en",
