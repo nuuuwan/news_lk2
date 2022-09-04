@@ -1,11 +1,51 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd-\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd-\u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd/175-303546",
+    "time_ut": 1662290380,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/3d/3dedb123.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd-\u0d9c\u0dab\u0db1\u0dca-\u0db6\u0dc4\u0dd3/1-619278",
+    "time_ut": 1662290106,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0d9c\u0dab\u0db1\u0dca \u0db6\u0dc4\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/63/633821a6.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2/1-619277",
+    "time_ut": 1662289780,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/7a/7af35e71.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a-\u0d9d\u0dcf\u0dad\u0d9a\u0dba\u0db1\u0dca-\u0db8\u0dcf\u0db1\u0dc0-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca-\u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba\u0da7--/1-619276",
+    "time_ut": 1662289567,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d9d\u0dcf\u0dad\u0d9a\u0dba\u0db1\u0dca \u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba\u0da7 ?",
+    "file_name": "/tmp/news_lk2/articles/eb/eb376c7c.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0b85\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f-1648-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0b9a\u0bc6\u0bb2\u0bb5\u0bc1/175-303544",
     "time_ut": 1662288653,
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbe\u0b9f\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f  1648  \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1",
     "file_name": "/tmp/news_lk2/articles/67/67866090.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0b85\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f-\u0bb0\u0bc2-1648-\u0b95\u0bcb\u0b9f\u0bbf-\u0b9a\u0bc6\u0bb2\u0bb5\u0bc1/175-303544",
+    "time_ut": 1662288653,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f \u0bb0\u0bc2.1648 \u0b95\u0bcb\u0b9f\u0bbf \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/49/494d2f0b.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Restructuring the domestic debt is a red line - EDITORIAL",
     "file_name": "/tmp/news_lk2/articles/e0/e0876e23.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Govt-slaps-import-ban-on-wide-range-of-goods/342-243589",
-    "time_ut": 1661309167,
-    "original_lang": "en",
-    "original_title": "Govt. slaps import ban on wide range of goods",
-    "file_name": "/tmp/news_lk2/articles/0f/0f44a11f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Indo-Lanka-Chamber-of-Commerce-AGM/34-739045",
-    "time_ut": 1661303225,
-    "original_lang": "en",
-    "original_title": "Indo \u2013 Lanka Chamber of Commerce AGM",
-    "file_name": "/tmp/news_lk2/articles/4e/4ec43f4e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Harsha-Amarasekera-to-meet-with-SLID-s-Young-Directors-Forum/34-739044",
-    "time_ut": 1661303134,
-    "original_lang": "en",
-    "original_title": "Harsha Amarasekera to meet with SLID\u2019s Young Directors Forum",
-    "file_name": "/tmp/news_lk2/articles/44/446ce5f7.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/16-key-private-sector-leaders-come-together-to-support-food-security-efforts/34-739043",
-    "time_ut": 1661303068,
-    "original_lang": "en",
-    "original_title": "16 key private sector leaders come together to support food security efforts",
-    "file_name": "/tmp/news_lk2/articles/2a/2ae847b8.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Dilmah-and-Good-Life-X-launch-Lost-Ingredients-Lab/34-739042",
-    "time_ut": 1661302978,
-    "original_lang": "en",
-    "original_title": "Dilmah and Good Life X launch\u2018 Lost Ingredients Lab\u2019",
-    "file_name": "/tmp/news_lk2/articles/cd/cd2ae236.json"
   }
 ]
