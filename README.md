@@ -1,32 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-04 21:20:54 (LK time)*
+*As of 2022-09-04 21:38:22 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last Hour (3 Articles)
 
 * **2** tamil-mirror-lk ([சம்பவ இடத்திலேயே சாரதி பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af8b7ee4.json))
 
 * **1** daily-mirror-lk ([Table IMF staff level agreement in Parliament: Harsha tells President](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3bb6ebe4.json))
 
-## Last Hour (7 Articles)
+## Last 3 Hours (18 Articles)
 
-* **3** tamil-mirror-lk ([எரிவாயு முற்பதிவுக்கு செயலி அறிமுகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/040a757a.json))
-
-* **2** daily-mirror-lk ([GMOA submits report on pharmaceutical shortage to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16db9e15.json))
-
-* **2** lankadeepa-lk ([තිරිඟු පිටි මිල වැඩිවීමට හේතුවක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5ba7f66.json))
-
-## Last 3 Hours (20 Articles)
-
-* **10** tamil-mirror-lk ([விமல் தலைமையில் புதிய கூட்டணி உதயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/092dd91b.json))
-
-* **3** news-first-lk ([Former President Gotabaya will not enter politics; but will share experiences with next generation: SLPP MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/180a2992.json))
+* **9** tamil-mirror-lk ([புத்தகப் பை இல்லா நாள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b37bd8c.json))
 
 * **2** daily-mirror-lk ([GMOA submits report on pharmaceutical shortage to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16db9e15.json))
 
 * **2** lankadeepa-lk ([තිරිඟු පිටි මිල වැඩිවීමට හේතුවක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5ba7f66.json))
+
+* **2** news-first-lk ([Sabry and Wijeyadasa to leave for UNHRC session on Monday (5)](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0cf6cd4.json))
 
 * **2** ada-derana-lk ([High Commissioner reiterates India’s commitment to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20c30e8c.json))
 
