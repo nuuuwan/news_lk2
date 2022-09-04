@@ -17,6 +17,14 @@
   },
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/04/litro-app-for-expats-to-send-lp-gas-to-relatives/",
+    "time_ut": 1662276240,
+    "original_lang": "en",
+    "original_title": "Litro App for expats to send LP Gas to relatives",
+    "file_name": "/tmp/news_lk2/articles/2a/2a33219a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/04/litro-app-for-exapts-to-send-lp-gas-to-relatives/",
     "time_ut": 1662276240,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "J\u2019apura Uni. Dept. of BEC Economic Forum on Friday",
     "file_name": "/tmp/news_lk2/articles/43/430e620d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Kerosene-price-hike-Setting-the-rural-and-urban-periphery-on-fire/4-738982",
-    "time_ut": 1661198314,
-    "original_lang": "en",
-    "original_title": "Kerosene price hike: Setting the rural and urban periphery on fire",
-    "file_name": "/tmp/news_lk2/articles/c5/c5ac80b6.json"
   }
 ]
