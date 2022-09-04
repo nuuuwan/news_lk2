@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84735/sri-lanka-president-calls-pakistan-pm-extends-sympathy-over-flood-devastation",
+    "time_ut": 1662270240,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President calls Pakistan PM, extends sympathy over flood devastation",
+    "file_name": "/tmp/news_lk2/articles/e4/e4728024.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd-\u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc8-\u0ba4\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0bc7\u0ba9\u0bcd/175-303530",
     "time_ut": 1662269428,
@@ -22,6 +30,14 @@
     "original_lang": "en",
     "original_title": "Digital birth certificates for babies born in August",
     "file_name": "/tmp/news_lk2/articles/e9/e9b97120.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dba\u0dbd-\u0d9a\u0db1\u0db1\u0dba\u0da7--\u0dba\u0dd4\u0dbb\u0dd2\u0dba\u0dcf-\u0daf\u0dd3-\u0d85\u0dc0\u0dc3\u0db1\u0dca/11-396870",
+    "time_ut": 1662268519,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dbd \u0d9a\u0db1\u0db1\u0dba\u0da7  \u0dba\u0dd4\u0dbb\u0dd2\u0dba\u0dcf \u0daf\u0dd3 \u0d85\u0dc0\u0dc3\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/d5/d50e1925.json"
   },
   {
     "newspaper_id": "news-first-lk",
