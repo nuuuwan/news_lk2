@@ -1184,6 +1184,14 @@
     "file_name": "/tmp/news_lk2/articles/7e/7e469396.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79334",
+    "time_ut": 1662145020,
+    "original_lang": "en",
+    "original_title": "Gotabaya Rajapaksa will be given a security detail from the Police and the Army in accordance with the privileges of an Executive President says Public Security Minister Tiran Alles",
+    "file_name": "/tmp/news_lk2/articles/68/68c5fdfe.json"
+  },
+  {
     "newspaper_id": "island-lk",
     "url": "http://island.lk/sec-cse-and-ca-sri-lanka-to-capitalize-on-synergies-to-encourage-and-advance-non-financial-reporting/",
     "time_ut": 1662145020,
@@ -1230,6 +1238,14 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb0\u0b9a \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/79/7935cc3c.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79332",
+    "time_ut": 1662143940,
+    "original_lang": "en",
+    "original_title": "Mikhail Gorbachev was a tender-minded tragic figure who by his inexplicable confusion and conversion  assisted the suicide of  the Soviet Union as a superpower.",
+    "file_name": "/tmp/news_lk2/articles/cb/cb534376.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Gotabaya set to return on August 24: Udayanga hints",
     "file_name": "/tmp/news_lk2/articles/22/228b61b9.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0d91\u0dad\u0dd9\u0dbb-\u0dba\u0db1-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-\u0d85\u0dad\u0dbb\u0db8\u0d82-\u0db1\u0ddc\u0d9a\u0dbb\u0db8\u0dd4/2-618254",
-    "time_ut": 1660713441,
-    "original_lang": "si",
-    "original_title": "\u0d91\u0dad\u0dd9\u0dbb \u0dba\u0db1 \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca \u0d85\u0dad\u0dbb\u0db8\u0d82 \u0db1\u0ddc\u0d9a\u0dbb\u0db8\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/f1/f12760d0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Chinese-vessel-Yuan-Wang-5-arrives/155-243149",
-    "time_ut": 1660622074,
-    "original_lang": "en",
-    "original_title": "Chinese vessel \u2019Yuan Wang 5\u2019 arrives",
-    "file_name": "/tmp/news_lk2/articles/20/203a4b50.json"
   }
 ]
