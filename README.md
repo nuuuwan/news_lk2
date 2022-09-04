@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-05 02:20:25 (LK time)*
+*As of 2022-09-05 02:39:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (7 Articles)
+## Last 3 Hours (6 Articles)
 
 * **2** daily-ft-lk ([DIMO honoured with ISO 45001:2018 certification](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba071170.json))
 
-* **2** ada-derana-lk ([Sajith claims President has become a hostage of the SLPP](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc965c8f.json))
-
 * **2** tamil-mirror-lk ([ஐ.எம்.எப். உடன்படிக்கை சபைக்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aaeab8e5.json))
+
+* **1** ada-derana-lk ([Plans afoot to set up permanent office for ex-servicemen: Defence Secretary](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d55a4a06.json))
 
 * **1** daily-mirror-lk ([PAK beat IND by five wickets](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b323822.json))
 
