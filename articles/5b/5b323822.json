@@ -1,0 +1,558 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/breaking_news/PAK-beat-IND-by-five-wickets/108-244296",
+  "time_ut": 1662315545,
+  "original_lang": "en",
+  "original_title": "PAK beat IND by five wickets",
+  "text_idx": {
+    "en": {
+      "title": "PAK beat IND by five wickets",
+      "author": "unknown",
+      "body_lines": [
+        "Pakistan beat India by five wickets in their Super 4 game of the Asia Cup here on Sunday. Chasing 182 for a win, Pakistan overhauled the target with one ball to spare.",
+        "Mohammad Rizwan top-scored with 71 off 51 balls while Mohammad Nawaz chipped in with 42 as Pakistan reached 182 for 5 in 19.5 overs.",
+        "For India, all the bowlers \u2014 Bhuvneshwar Kumar, Ravi Bishnoi, Hardik Pandya, Arshdeep Singh and Yuzvendra Chahal \u2014 took a wicket apiece. Invited to bat, India posted 181 for 7. Virat Kohli top-scored for India with 60 off 44 balls, while KL Rahul and captain Rohit Sharma contributed 28 apiece. For Pakistan, Shadab Khan picked up two wickets for 31 runs, while Mohammad Hasnain, Haris Rauf, Naseem Shah and Mohammad Nawaz took a wicket each."
+      ],
+      "title_ents": [
+        {
+          "text": "PAK",
+          "label": "ORG"
+        },
+        {
+          "text": "IND",
+          "label": "ORG"
+        },
+        {
+          "text": "five",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Pakistan",
+            "label": "GPE"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "five",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Super 4",
+            "label": "LAW"
+          },
+          {
+            "text": "the Asia Cup",
+            "label": "EVENT"
+          },
+          {
+            "text": "Sunday",
+            "label": "DATE"
+          },
+          {
+            "text": "182",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Pakistan",
+            "label": "GPE"
+          },
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Mohammad Rizwan",
+            "label": "PERSON"
+          },
+          {
+            "text": "71",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "51",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Mohammad Nawaz",
+            "label": "PERSON"
+          },
+          {
+            "text": "42",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Pakistan",
+            "label": "GPE"
+          },
+          {
+            "text": "182",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "19.5",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "Bhuvneshwar Kumar",
+            "label": "PERSON"
+          },
+          {
+            "text": "Bishnoi",
+            "label": "GPE"
+          },
+          {
+            "text": "Yuzvendra Chahal",
+            "label": "PERSON"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "181",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7",
+            "label": "DATE"
+          },
+          {
+            "text": "Virat Kohli",
+            "label": "ORG"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "60",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "44",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Rohit Sharma",
+            "label": "PERSON"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Pakistan",
+            "label": "GPE"
+          },
+          {
+            "text": "Shadab Khan",
+            "label": "PERSON"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "31",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Mohammad Hasnain",
+            "label": "PERSON"
+          },
+          {
+            "text": "Haris Rauf",
+            "label": "PERSON"
+          },
+          {
+            "text": "Mohammad Nawaz",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "PAK \u0d9a\u0da9\u0dd4\u0dbd\u0dd4 \u0db4\u0dc4\u0d9a\u0dd2\u0db1\u0dca IND \u0db4\u0dbb\u0dcf\u0da2\u0dba \u0d9a\u0dc5\u0dda\u0dba",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2 4 \u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dda \u0dad\u0dbb\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0db4\u0dbb\u0daf\u0dcf \u0d9a\u0da9\u0dd4\u0dbd\u0dd4 5\u0d9a \u0da2\u0dba\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0d8a\u0dba\u0dda (04\u0daf\u0dcf) \u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd2\u0dba. \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 182\u0d9a \u0d89\u0dbd\u0d9a\u0dca\u0d9a\u0dba\u0d9a\u0dca \u0dc4\u0db9\u0dcf\u0d9c\u0dd2\u0dba \u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba \u0dad\u0dc0\u0dad\u0dca \u0db4\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0d9a\u0dca \u0d89\u0dad\u0dd2\u0dbb\u0dd2\u0dc0 \u0dad\u0dd2\u0db6\u0dd2\u0dba\u0daf\u0dd3 \u0d91\u0db8 \u0d89\u0dbd\u0d9a\u0dca\u0d9a\u0dba \u0db4\u0dc3\u0dd4\u0d9a\u0dbb \u0d9c\u0dd2\u0dba\u0dda\u0dba.",
+        "\u0db8\u0ddc\u0dc4\u0ddc\u0db8\u0da9\u0dca \u0dbb\u0dd2\u0dc3\u0dca\u0dc0\u0dcf\u0db1\u0dca \u0db4\u0db1\u0dca\u0daf\u0dd4 51\u0d9a\u0daf\u0dd3 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 71\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca \u0d85\u0dad\u0dbb \u0db8\u0ddc\u0dc4\u0ddc\u0db8\u0da9\u0dca \u0db1\u0dc0\u0dcf\u0dc3\u0dca \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 42\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca \u0d85\u0dad\u0dbb \u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba \u0d95\u0dc0\u0dbb 19.5\u0d9a\u0daf\u0dd3 \u0d9a\u0da9\u0dd4\u0dbd\u0dd4 5\u0d9a\u0da7 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 182\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca\u0dad\u0dda\u0dba.",
+        "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db6\u0dd4\u0dc0\u0db1\u0dda\u0dc2\u0dca\u0dc0\u0dbb\u0dca \u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dca, \u0dbb\u0dc0\u0dd3 \u0db6\u0dd2\u0dc2\u0dca\u0db1\u0ddd\u0dba\u0dd2, \u0dc4\u0dbb\u0dca\u0daf\u0dd2\u0d9a\u0dca \u0db4\u0dcf\u0dab\u0dca\u0da9\u0dca\u200d\u0dba\u0dcf, \u0d85\u0dbb\u0dca\u0dc2\u0dca\u0daf\u0dd3\u0db4\u0dca \u0dc3\u0dd2\u0d82 \u0dc3\u0dc4 \u0dba\u0dd4\u0dc3\u0dca\u0dc0\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb \u0da0\u0dcf\u0dc4\u0dbd\u0dca \u0d9a\u0da9\u0dd4\u0dbd\u0dca\u0dbd \u0db6\u0dd0\u0d9c\u0dd2\u0db1\u0dca \u0daf\u0dc0\u0dcf \u0d9c\u0dad\u0dca\u0dc4. \u0db4\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8\u0da7 \u0d86\u0dbb\u0dcf\u0db0\u0db1\u0dcf \u0d9a\u0dc5 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0d9a\u0da9\u0dd4\u0dbd\u0dd4 7\u0d9a\u0dca \u0daf\u0dd0\u0dc0\u0dd3 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 181\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca\u0dad\u0dda\u0dba. \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0d89\u0db1\u0dd2\u0db8\u0dda \u0dc0\u0dd0\u0da9\u0dd2\u0db8 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0dbd\u0dcf\u0db7\u0dd2\u0dba\u0dcf \u0dc0\u0dd6 \u0dc0\u0dd2\u0dbb\u0dcf\u0dad\u0dca \u0d9a\u0ddd\u0dbd\u0dd2 \u0db4\u0db1\u0dca\u0daf\u0dd4 44\u0d9a\u0daf\u0dd3 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 60\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca \u0d85\u0dad\u0dbb KL \u0dbb\u0dcf\u0dc4\u0dd4\u0dbd\u0dca \u0dc3\u0dc4 \u0db1\u0dcf\u0dba\u0d9a \u0dbb\u0ddd\u0dc4\u0dd2\u0dad\u0dca \u0dc2\u0dbb\u0dca\u0db8\u0dcf \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 28 \u0db6\u0dd0\u0d9c\u0dd2\u0db1\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca\u0dc4. \u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc2\u0da9\u0dcf\u0db6\u0dca \u0d9b\u0dcf\u0db1\u0dca \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 31\u0d9a\u0da7 \u0d9a\u0da9\u0dd4\u0dbd\u0dd4 2\u0d9a\u0dca \u0daf, \u0db8\u0ddc\u0dc4\u0ddc\u0db8\u0da9\u0dca \u0dc4\u0dc3\u0dca\u0db1\u0dba\u0dd2\u0db1\u0dca, \u0dc4\u0dbb\u0dd2\u0dc3\u0dca \u0dbb\u0dc0\u0dd4\u0dc6\u0dca, \u200b\u200b\u0db1\u0dc3\u0dd3\u0db8\u0dca \u0dc2\u0dcf \u0dc3\u0dc4 \u0db8\u0ddc\u0dc4\u0ddc\u0db8\u0da9\u0dca \u0db1\u0dc0\u0dcf\u0dc3\u0dca \u0d9a\u0da9\u0dd4\u0dbd\u0dca\u0dbd \u0db6\u0dd0\u0d9c\u0dd2\u0db1\u0dca \u0daf \u0db6\u0dd2\u0db3 \u0daf\u0dd0\u0db8\u0dd6\u0dc4."
+      ],
+      "title_ents": [
+        {
+          "text": "PAK",
+          "label": "ORG"
+        },
+        {
+          "text": "IND",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0db4\u0dc4",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db4\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dc4",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2 4",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0d89\u0dbb\u0dd2\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "182",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0ddc\u0dc4\u0ddc\u0db8\u0da9\u0dca \u0dbb\u0dd2\u0dc3\u0dca\u0dc0\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "71",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "51",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0dc4\u0ddc\u0db8\u0da9\u0dca \u0db1\u0dc0\u0dcf\u0dc3\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "42",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "182",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "19.5",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0dd4\u0dc0\u0db1\u0dda\u0dc2\u0dca\u0dc0\u0dbb\u0dca \u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dc2\u0dca\u0db1\u0ddd\u0dba\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dc3\u0dca\u0dc0\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb \u0da0\u0dcf\u0dc4\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "181",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0dbb\u0dcf\u0dad\u0dca \u0d9a\u0ddd\u0dbd\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "60",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "44",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0ddd\u0dc4\u0dd2\u0dad\u0dca \u0dc2\u0dbb\u0dca\u0db8\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc2\u0da9\u0dcf\u0db6\u0dca \u0d9b\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "31",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0dc4\u0ddc\u0db8\u0da9\u0dca \u0dc4\u0dc3\u0dca\u0db1\u0dba\u0dd2\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc4\u0dbb\u0dd2\u0dc3\u0dca \u0dbb\u0dc0\u0dd4\u0dc6\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0dc4\u0ddc\u0db8\u0da9\u0dca \u0db1\u0dc0\u0dcf\u0dc3\u0dca",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "PAK \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bbf\u0baf\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b86\u0b9a\u0bbf\u0baf \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bc2\u0baa\u0bcd\u0baa\u0bb0\u0bcd 4 \u0bb2\u0bc0\u0b95\u0bcd \u0b86\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b86\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc8 \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd 5 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1. 182 \u0bb0\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0b8e\u0ba9\u0bcd\u0bb1 \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bb3\u0bae\u0bbf\u0bb1\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0b85\u0ba3\u0bbf, \u0b92\u0bb0\u0bc1 \u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc0\u0ba4\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bc8 \u0b8e\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\u0b85\u0ba4\u0bbf\u0b95\u0baa\u0b9f\u0bcd\u0b9a\u0bae\u0bbe\u0b95 \u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1 \u0bb0\u0bbf\u0bb8\u0bcd\u0bb5\u0bbe\u0ba9\u0bcd 51 \u0baa\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 71 \u0bb0\u0ba9\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd, \u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1 \u0ba8\u0bb5\u0bbe\u0bb8\u0bcd 42 \u0bb0\u0ba9\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95, \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd 19.5 \u0b93\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 5 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 182 \u0bb0\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0bb5\u0ba9\u0bc7\u0bb7\u0bcd\u0bb5\u0bb0\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd, \u0bb0\u0bb5\u0bbf \u0baa\u0bbf\u0bb7\u0bcd\u0ba9\u0bcb\u0baf\u0bcd, \u0bb9\u0bb0\u0bcd\u0ba4\u0bbf\u0b95\u0bcd \u0baa\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbe, \u0b85\u0bb0\u0bcd\u0bb7\u0bcd\u0ba4\u0bc0\u0baa\u0bcd \u0b9a\u0bbf\u0b99\u0bcd, \u0baf\u0bc1\u0bb8\u0bcd\u0bb5\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b9a\u0bbe\u0bb9\u0bb2\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0ba4\u0bb2\u0bbe \u0b92\u0bb0\u0bc1 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bcd. \u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bbf\u0b99\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b85\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe, 7 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 181 \u0bb0\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1. \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0baa\u0b9f\u0bcd\u0b9a\u0bae\u0bbe\u0b95 \u0bb5\u0bbf\u0bb0\u0bbe\u0b9f\u0bcd \u0b95\u0bcb\u0bb2\u0bbf 44 \u0baa\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 60 \u0bb0\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd, \u0b95\u0bc7\u0b8e\u0bb2\u0bcd \u0bb0\u0bbe\u0b95\u0bc1\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc7\u0baa\u0bcd\u0b9f\u0ba9\u0bcd \u0bb0\u0bcb\u0bb9\u0bbf\u0ba4\u0bcd \u0b9a\u0bb0\u0bcd\u0bae\u0bbe \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0ba4\u0bb2\u0bbe 28 \u0bb0\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd. \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bb7\u0ba4\u0bbe\u0baa\u0bcd \u0b95\u0bbe\u0ba9\u0bcd 31 \u0bb0\u0ba9\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 2 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd, \u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1 \u0bb9\u0bb8\u0bcd\u0ba9\u0bc8\u0ba9\u0bcd, \u0bb9\u0bb0\u0bbf\u0bb8\u0bcd \u0bb0\u0bb5\u0bc2\u0baa\u0bcd, \u0ba8\u0b9a\u0bc0\u0bae\u0bcd \u0bb7\u0bbe, \u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1 \u0ba8\u0bb5\u0bbe\u0bb8\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0ba4\u0bb2\u0bbe \u0b92\u0bb0\u0bc1 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "PAK",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0bc2\u0baa\u0bcd\u0baa\u0bb0\u0bcd 4",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "182",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1 \u0bb0\u0bbf\u0bb8\u0bcd\u0bb5\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "71",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "51",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1 \u0ba8\u0bb5\u0bbe\u0bb8\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "42",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "182",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "19.5",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bc1\u0bb5\u0ba9\u0bc7\u0bb7\u0bcd\u0bb5\u0bb0\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb7\u0bcd\u0ba9\u0bcb\u0baf\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baf\u0bc1\u0bb8\u0bcd\u0bb5\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b9a\u0bbe\u0bb9\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "181",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0bb0\u0bbe\u0b9f\u0bcd \u0b95\u0bcb\u0bb2\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "60",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "44",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb0\u0bcb\u0bb9\u0bbf\u0ba4\u0bcd \u0b9a\u0bb0\u0bcd\u0bae\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb7\u0ba4\u0bbe\u0baa\u0bcd \u0b95\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "31",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1 \u0bb9\u0bb8\u0bcd\u0ba9\u0bc8\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb9\u0bb0\u0bbf\u0bb8\u0bcd \u0bb0\u0bb5\u0bc2\u0baa\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1 \u0ba8\u0bb5\u0bbe\u0bb8\u0bcd",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
