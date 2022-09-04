@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d91\u0da2\u0dcf\u0db4-76-\u0dc0\u0db1-\u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba\u0da7-\u0d86\u0dc1\u0dd3\u0dbb\u0dca\u0dc0\u0dcf\u0daf-\u0db6\u0ddd\u0db0\u0dd2-\u0db4\u0dd6\u0da2\u0dcf\u0dc0\u0d9a\u0dca/101-619283",
+    "time_ut": 1662303893,
+    "original_lang": "si",
+    "original_title": "\u0d91\u0da2\u0dcf\u0db4 76 \u0dc0\u0db1 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba\u0da7 \u0d86\u0dc1\u0dd3\u0dbb\u0dca\u0dc0\u0dcf\u0daf \u0db6\u0ddd\u0db0\u0dd2 \u0db4\u0dd6\u0da2\u0dcf\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/e8/e83eab3a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1-\u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0ba4\u0bbf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bc6\u0baf\u0bb2\u0bbf-\u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0bae\u0bcd/175-303557",
+    "time_ut": 1662303532,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0ba4\u0bbf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0baf\u0bb2\u0bbf \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/04/040a757a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/GMOA-submits-report-on-pharmaceutical-shortage-to-President/342-244279",
+    "time_ut": 1662303279,
+    "original_lang": "en",
+    "original_title": "GMOA submits report on pharmaceutical shortage to President",
+    "file_name": "/tmp/news_lk2/articles/c3/c33383fb.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dd2\u0dbb\u0dd2\u0d9f\u0dd4-\u0db4\u0dd2\u0da7\u0dd2-\u0db8\u0dd2\u0dbd-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8\u0da7-\u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0d9a\u0dca-\u0db1\u0dd1/101-619282",
+    "time_ut": 1662303133,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dd2\u0dbb\u0dd2\u0d9f\u0dd4 \u0db4\u0dd2\u0da7\u0dd2 \u0db8\u0dd2\u0dbd \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8\u0da7 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0d9a\u0dca \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/b5/b5ba7f66.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/04/public-finance-committee-chief-harsha-demands-president-publicize-imf-conditions/",
     "time_ut": 1662302760,
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "President Ramaphosa keen to further enhance ties with Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/7e/7eb223bf.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Ranjan-apologises-profusely-to-CJ-SC-ahead-of-release/56-739105",
-    "time_ut": 1661469028,
-    "original_lang": "en",
-    "original_title": "Ranjan apologises \u2018profusely\u2019 to CJ, SC ahead of release",
-    "file_name": "/tmp/news_lk2/articles/8b/8bb198de.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/WHO-pledges-4-m-worth-medical-supplies-to-SL/56-739104",
-    "time_ut": 1661468946,
-    "original_lang": "en",
-    "original_title": "WHO pledges $ 4 m worth medical supplies to SL",
-    "file_name": "/tmp/news_lk2/articles/27/275f5e4c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/The-place-for-law-in-a-country-obsessed-WITH-peace-and-religion-EDITORIAL/231-243751",
-    "time_ut": 1661462025,
-    "original_lang": "en",
-    "original_title": "The place for law in a country obsessed WITH peace and religion - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/3e/3e18c902.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Ukraine-war-Sri-Lanka-and-IMF-prescriptions/172-243750",
-    "time_ut": 1661461946,
-    "original_lang": "en",
-    "original_title": "Ukraine war, Sri Lanka and IMF prescriptions",
-    "file_name": "/tmp/news_lk2/articles/dd/dd0d7dde.json"
   }
 ]
