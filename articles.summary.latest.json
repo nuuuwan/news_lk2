@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-declares-fuel-power-health-services-as-essential-99410/",
+    "time_ut": 1662258000,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President declares fuel, power, health services as essential",
+    "file_name": "/tmp/news_lk2/articles/e8/e8ceeed0.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0b85\u0b99\u0bcd\u0b95\u0bc1\u0bb0\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0ba3\u0bae\u0bcd/175-303522",
+    "time_ut": 1662257411,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0b99\u0bcd\u0b95\u0bc1\u0bb0\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0ba3\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/21/21ec3b7b.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0dbb\u0dd9\u0daf\u0dd2-\u0d85\u0dc4\u0dd4\u0dbd\u0dcf\u0d9c\u0dad\u0dca-\u0dbd\u0d9a\u0dca\u0dc2-\u0db4\u0dc4-\u0dc4\u0db8\u0dcf\u0dbb-\u0d85\u0dba\u0dd2\u0dad\u0dd2\u0d9a\u0dbb\u0dd4\u0da7-\u0db6\u0dcf\u0dbb\u0daf\u0dd9\u0dba\u0dd2/101-619252",
+    "time_ut": 1662257332,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dbb\u0dd9\u0daf\u0dd2 \u0d85\u0dc4\u0dd4\u0dbd\u0dcf\u0d9c\u0dad\u0dca \u0dbd\u0d9a\u0dca\u0dc2 \u0db4\u0dc4 \u0dc4\u0db8\u0dcf\u0dbb \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0d9a\u0dbb\u0dd4\u0da7 \u0db6\u0dcf\u0dbb\u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/fa/faced11f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1-\u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbe\u0b95-\u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd/175-303521",
+    "time_ut": 1662256922,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/60/602e92f1.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dba\u0dcf\u0db4\u0db1\u0dba-\u0d9c\u0db8\u0dca-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0d85\u0dad\u0dbb-\u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0d9a\u0dca/101-619251",
+    "time_ut": 1662256279,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dcf\u0db4\u0db1\u0dba \u0d9c\u0db8\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0d85\u0dad\u0dbb \u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/3b/3b5f8b90.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0bb0\u0bc6\u0bb2\u0bcb-\u0b95\u0b9f\u0bcd\u0b9a\u0bbf-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-303520",
+    "time_ut": 1662256038,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bb0\u0bc6\u0bb2\u0bcb \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/87/879880b9.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/main_picture/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0d87\u0dbd\u0dca\u0dbd\u0dd4\u0dc0\u0dcf-\u0db1\u0db8\u0dca-\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba\u0dad\u0dca-\u0d89\u0dc0\u0dbb\u0dba\u0dd2/11-619250",
+    "time_ut": 1662255897,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0d87\u0dbd\u0dca\u0dbd\u0dd4\u0dc0\u0dcf \u0db1\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba\u0dad\u0dca \u0d89\u0dc0\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4e/4efd6245.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db6\u0dd6\u0dbb\u0dd4\u0dc0\u0dcf-\u0db4\u0ddc\u0dc5\u0dda-\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0d9a\u0da7-\u0dc0\u0dd9\u0da9\u0dd2-\u0db4\u0dad\u0dca\u0dad\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/101-619249",
     "time_ut": 1662254898,
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "SLPP Delegation led by National Organizer Basil Rajapaksa Meets President Wickremesinghe and Requests him to Facilitate Former President Gotabaya Rajapaksa\u2019s safe Return to Sri Lanka :assures party\u2019s fullest support to Ranil\u2019s  endeavours to ensure the recovery of Sri Lanka\u2019s economy.",
     "file_name": "/tmp/news_lk2/articles/0e/0e6c31be.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business__main/CB-optimistic-of-wrapping-up-IMF-staff-level-deal-towards-end-of-this-month/245-243323",
-    "time_ut": 1660848080,
-    "original_lang": "en",
-    "original_title": "CB optimistic of wrapping up IMF staff-level deal towards end of this month",
-    "file_name": "/tmp/news_lk2/articles/ad/adf3b762.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0d9a\u0dc5\u0d9c\u0dd4\u0dab-\u0dc3\u0dd0\u0dbd\u0d9a\u0dd3\u0db8/2-618341",
-    "time_ut": 1660819751,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda \u0d9a\u0dc5\u0d9c\u0dd4\u0dab \u0dc3\u0dd0\u0dbd\u0d9a\u0dd3\u0db8",
-    "file_name": "/tmp/news_lk2/articles/0f/0fe08a24.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Power-consumption-reduced-by-more-than-20-during-past-two-months-PUCSL/108-243304",
-    "time_ut": 1660819681,
-    "original_lang": "en",
-    "original_title": "Power consumption reduced by more than 20% during past two months: PUCSL",
-    "file_name": "/tmp/news_lk2/articles/86/86c94c3c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/GR-applies-for-US-Green-Card-looks-to-settle-back-in-US/342-243265",
-    "time_ut": 1660784696,
-    "original_lang": "en",
-    "original_title": "GR applies for US Green Card, looks to settle back in US",
-    "file_name": "/tmp/news_lk2/articles/bf/bfceac11.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78950",
-    "time_ut": 1660769520,
-    "original_lang": "en",
-    "original_title": "From Lone MP to PM and President: Resilient Ranil\u2019s Three Stage  Return and Rise to the Top.",
-    "file_name": "/tmp/news_lk2/articles/4e/4ecf3f96.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Political-geographies-imagined-and-real/172-243263",
-    "time_ut": 1660765567,
-    "original_lang": "en",
-    "original_title": "Political geographies; imagined and real",
-    "file_name": "/tmp/news_lk2/articles/72/724d9f31.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79064",
-    "time_ut": 1660763700,
-    "original_lang": "en",
-    "original_title": "\u201cThe arrival of a Chinese ship in Sri Lanka raises hackles in India; flip-flopping  by Sri Lanka over Yuan Wang 5    irritates  both China and India. \u2018- The Economist",
-    "file_name": "/tmp/news_lk2/articles/26/2642f376.json"
   }
 ]
