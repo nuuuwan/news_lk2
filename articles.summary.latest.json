@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0b85\u0bb2\u0bbf-\u0b9a\u0baa\u0bcd\u0bb0\u0bbf-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/175-303630",
+    "time_ut": 1662391000,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b85\u0bb2\u0bbf \u0b9a\u0baa\u0bcd\u0bb0\u0bbf \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/48/481df6b1.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0baa\u0bc7\u0bb0\u0ba9\u0bcd\u0b9a\u0bbf-\u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd-\u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd/175-303629",
+    "time_ut": 1662390573,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0baa\u0bc7\u0bb0\u0ba9\u0bcd\u0b9a\u0bbf \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/cf/cfe95221.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/05/gotabaya-has-no-place-in-politics-again-says-welgama/",
+    "time_ut": 1662390360,
+    "original_lang": "en",
+    "original_title": "Gotabaya has no place in politics again, says Welgama",
+    "file_name": "/tmp/news_lk2/articles/56/56e08a96.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba-\u0dc3\u0dd4\u0d9a\u0dca\u0d9a\u0dcf\u0db1\u0db8-\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0da7/11-396907",
+    "time_ut": 1662390349,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0dc3\u0dd4\u0d9a\u0dca\u0d9a\u0dcf\u0db1\u0db8 \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0da7",
+    "file_name": "/tmp/news_lk2/articles/46/4660b75e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Seas-waves-to-rise-as-high-as-3-metres/342-244348",
     "time_ut": 1662389982,
@@ -110,6 +142,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka shares gain for 5th session amid strong foreign inflows",
     "file_name": "/tmp/news_lk2/articles/27/27d4ae6d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dbd\u0dba-\u0db4\u0dd2\u0dbb\u0dd4\u0dab\u0dd4-\u0db6\u0ddd\u0d9a\u0dca\u0d9a\u0dd4\u0dc0\u0d9a-\u0dc3\u0dd2\u0dbb\u0dc0\u0dd3-13-\u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-396906",
+    "time_ut": 1662384543,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dbd\u0dba \u0db4\u0dd2\u0dbb\u0dd4\u0dab\u0dd4 \u0db6\u0ddd\u0d9a\u0dca\u0d9a\u0dd4\u0dc0\u0d9a \u0dc3\u0dd2\u0dbb\u0dc0\u0dd3 13 \u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2 \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/4a/4a5a4b65.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0ba4\u0bbe\u0bae\u0bb0\u0bc8\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bc1\u0bb0\u0bae\u0bcd 15\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/f4/f4586cdb.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0dda-\u0dc3\u0dcf\u0db0\u0db1\u0dd3\u0dba-\u0dba\u0ddd\u0da2\u0db1\u0dcf-\u0db8\u0dd9\u0db1\u0dca\u0db8-\u0d85\u0da9\u0dd4\u0db4\u0dcf\u0da9\u0dd4\u0dad\u0dca-\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dc0\u0dcf\u2019\u2019/101-619067",
-    "time_ut": 1661935763,
-    "original_lang": "si",
-    "original_title": "\u2019\u2019\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0dda \u0dc3\u0dcf\u0db0\u0db1\u0dd3\u0dba \u0dba\u0ddd\u0da2\u0db1\u0dcf \u0db8\u0dd9\u0db1\u0dca\u0db8 \u0d85\u0da9\u0dd4\u0db4\u0dcf\u0da9\u0dd4\u0dad\u0dca \u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dc0\u0dcf\u2019\u2019",
-    "file_name": "/tmp/news_lk2/articles/8a/8ab920c1.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd9\u0dc5\u0dd4\u0db8\u0dca-\u0d9a\u0dd4\u0dc5\u0dd4\u0db1\u0dda-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca-\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca-15-\u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/1-619066",
-    "time_ut": 1661935537,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd9\u0dc5\u0dd4\u0db8\u0dca \u0d9a\u0dd4\u0dc5\u0dd4\u0db1\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca \u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 15 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/7f/7fb08be1.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84665/two-injured-in-shooting-near-negombo-court",
-    "time_ut": 1661935380,
-    "original_lang": "en",
-    "original_title": "Two injured in shooting near Negombo Court",
-    "file_name": "/tmp/news_lk2/articles/3d/3d43777a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd3\u0d9c\u0db8\u0dd4\u0dc0\u0dda-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0daf\u0dd9\u0d9a\u0d9a\u0da7-\u0dad\u0dd4\u0dc0\u0dcf\u0dbd\u0dba\u0dd2/1-619065",
-    "time_ut": 1661935377,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dd3\u0d9c\u0db8\u0dd4\u0dc0\u0dda \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0da7 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/3e/3ec65369.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-presidents-policy-direction-correct-but-could-be-a-cuckoo-egg-harsha-99283/",
-    "time_ut": 1661935260,
-    "original_lang": "en",
-    "original_title": "Sri Lanka President\u2019s policy direction correct, but could be a cuckoo egg: Harsha",
-    "file_name": "/tmp/news_lk2/articles/29/294e62ec.json"
   }
 ]
