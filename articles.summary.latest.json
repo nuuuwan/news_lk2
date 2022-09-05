@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/05/litro-to-drop-prices-from-midnight-5/",
+    "time_ut": 1662350400,
+    "original_lang": "en",
+    "original_title": "Litro to drop prices from midnight (5)",
+    "file_name": "/tmp/news_lk2/articles/33/337ad5d8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/05/cbk-to-open-nawa-lanka-freedom-party-office/",
+    "time_ut": 1662350280,
+    "original_lang": "en",
+    "original_title": "CBK to open Nawa Lanka Freedom Party Office",
+    "file_name": "/tmp/news_lk2/articles/3f/3f80f7fa.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/05/heavy-rains-and-strong-winds-today-5/",
+    "time_ut": 1662348600,
+    "original_lang": "en",
+    "original_title": "Heavy rains and strong winds today (5)",
+    "file_name": "/tmp/news_lk2/articles/de/de45b8d9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/05/ali-sabry-wijeyadasa-to-head-to-unhrc-today-5/",
+    "time_ut": 1662348240,
+    "original_lang": "en",
+    "original_title": "Ali Sabry, Wijeyadasa to head to UNHRC today (5)",
+    "file_name": "/tmp/news_lk2/articles/f1/f1fd1b6e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8-\u0bae\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bbe/175-303581",
+    "time_ut": 1662347542,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8 \u0bae\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bbe?",
+    "file_name": "/tmp/news_lk2/articles/2f/2f9f2a4b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd4-\u0db4\u0dad\u0dca\u0d9a\u0dc5\u0dad\u0dca-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dc0\u0dd9\u0db1\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca-\u0db1\u0dd1/11-396886",
+    "time_ut": 1662345925,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd4 \u0db4\u0dad\u0dca\u0d9a\u0dc5\u0dad\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/bf/bf04e4a7.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84752/canada-stabbing-attacks-leave-10-dead-15-injured",
     "time_ut": 1662344760,
@@ -33,11 +81,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dd9\u0dca\u0dbd\u0dba-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dd2\u0daf\u0dd4-\u0d9a\u0dc5-\u0d85\u0dba\u0d9a\u0dd4-\u0dad\u0da7\u0dca\u0da7\u0dd4-12-\u0db8\u0dc4\u0dbd\u0dd9\u0db1\u0dca-\u0db6\u0dd2\u0db8\u0da7-\u0dc0\u0dd0\u0da7\u0dd3-\u0db8\u0dbb\u0dd4\u0da7/101-619290",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dd9\u0dca\u0dbd\u0dba-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dd2\u0daf\u0dd4-\u0d9a\u0dc5-\u0d85\u0dba\u0d9a\u0dd4-\u0dad\u0da7\u0dca\u0da7\u0dd4-12-\u0db8\u0dc4\u0dbd\u0dd9\u0db1\u0dca-\u0db6\u0dd2\u0db8\u0da7-\u0dc0\u0dd0\u0da7\u0dd3-\u0db8\u0dbb\u0dd4\u0da7/1-619290",
     "time_ut": 1662344089,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0dd9\u0dca\u0dbd\u0dba \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dc5 \u0d85\u0dba\u0d9a\u0dd4 \u0dad\u0da7\u0dca\u0da7\u0dd4 12 \u0db8\u0dc4\u0dbd\u0dd9\u0db1\u0dca \u0db6\u0dd2\u0db8\u0da7 \u0dc0\u0dd0\u0da7\u0dd3 \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/e3/e3d07d9d.json"
+    "file_name": "/tmp/news_lk2/articles/95/9577bf6f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -377,19 +425,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/IMF-agreement-Chinese-loan-and-poverty-crisis-EDITORIAL/231-244281",
+    "url": "https://www.dailymirror.lk/opinion/IMF-agreement-Chinese-loan-and-poverty-crisis-EDITORIAL/172-244281",
     "time_ut": 1662303683,
     "original_lang": "en",
     "original_title": "IMF agreement, Chinese loan and poverty crisis - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/8c/8c0686e6.json"
+    "file_name": "/tmp/news_lk2/articles/53/534a77cb.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Budget-for-IMF-with-Fiscal-Waterboarding/231-244280",
+    "url": "https://www.dailymirror.lk/opinion/Budget-for-IMF-with-Fiscal-Waterboarding/172-244280",
     "time_ut": 1662303588,
     "original_lang": "en",
     "original_title": "Budget for IMF with Fiscal Waterboarding",
-    "file_name": "/tmp/news_lk2/articles/67/6798e047.json"
+    "file_name": "/tmp/news_lk2/articles/6d/6d63b3f3.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -457,11 +505,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Gotas-legacy-and-the-ecological-damage-This-disaster-is-environmental-as-well-as-economic/231-244275",
+    "url": "https://www.dailymirror.lk/opinion/Gotas-legacy-and-the-ecological-damage-This-disaster-is-environmental-as-well-as-economic/172-244275",
     "time_ut": 1662301329,
     "original_lang": "en",
     "original_title": "Gota\u2019s legacy and the ecological damage: This disaster is environmental as well as economic",
-    "file_name": "/tmp/news_lk2/articles/e9/e90b62d6.json"
+    "file_name": "/tmp/news_lk2/articles/e7/e7b4fc12.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -585,11 +633,11 @@
   },
   {
     "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/picture_story/\u0d8b\u0dad\u0dca\u0dad\u0dbb-\u0dbd\u0d82\u0d9a\u0dcf-\u0dc3\u0db7\u0dcf\u0d9c\u0dba\u0dda-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0dc0\u0dd2\u0db8\u0dbd\u0dca/10-396879",
+    "url": "https://www.ada.lk/uncategorized/\u0d8b\u0dad\u0dca\u0dad\u0dbb-\u0dbd\u0d82\u0d9a\u0dcf-\u0dc3\u0db7\u0dcf\u0d9c\u0dba\u0dda-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0dc0\u0dd2\u0db8\u0dbd\u0dca/1-396879",
     "time_ut": 1662293420,
     "original_lang": "si",
     "original_title": "\u0d8b\u0dad\u0dca\u0dad\u0dbb \u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0db7\u0dcf\u0d9c\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0dc0\u0dd2\u0db8\u0dbd\u0dca",
-    "file_name": "/tmp/news_lk2/articles/2e/2e5fadac.json"
+    "file_name": "/tmp/news_lk2/articles/0d/0d56f906.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -1006,14 +1054,6 @@
     "original_lang": "en",
     "original_title": "Staff-level agreement an important step forward for Sri Lanka - IMF chief",
     "file_name": "/tmp/news_lk2/articles/02/02628a7a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/09/04/cbk-to-open-nawa-lanka-freedom-party-office/",
-    "time_ut": 1662273900,
-    "original_lang": "en",
-    "original_title": "CBK to open Nawa Lanka Freedom Party Office",
-    "file_name": "/tmp/news_lk2/articles/04/049508a9.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -1985,11 +2025,11 @@
   },
   {
     "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1--\u0db6\u0dca\u200d\u0dbb\u0ddd\u0da9\u0dca\u0db6\u0dd1\u0db1\u0dca\u0da9\u0dca-\u0dc4\u0dcf-\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4-\u0d89\u0dc4\u0dc5\u0da7/11-396858",
+    "url": "https://www.ada.lk/technology/\u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1--\u0db6\u0dca\u200d\u0dbb\u0ddd\u0da9\u0dca\u0db6\u0dd1\u0db1\u0dca\u0da9\u0dca-\u0dc4\u0dcf-\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4-\u0d89\u0dc4\u0dc5\u0da7/5-396858",
     "time_ut": 1662187760,
     "original_lang": "si",
     "original_title": "\u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1, \u0db6\u0dca\u200d\u0dbb\u0ddd\u0da9\u0dca\u0db6\u0dd1\u0db1\u0dca\u0da9\u0dca \u0dc4\u0dcf \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0d89\u0dc4\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/60/60acad0e.json"
+    "file_name": "/tmp/news_lk2/articles/59/59ccb8c5.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Economic crisis could be overcome with IMF interventions: Eran Wickramaratne expresses hope",
     "file_name": "/tmp/news_lk2/articles/22/229acbf3.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Wisdom-of-Nishkam-Karma-Much-in-demand-for-an-authentic-revival/4-739207",
-    "time_ut": 1661727790,
-    "original_lang": "en",
-    "original_title": "Wisdom of \u2018Nishkam Karma\u2019: Much in demand for an authentic revival",
-    "file_name": "/tmp/news_lk2/articles/44/44cc6611.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Central-Bank-independence-Issue-to-the-fore-again-but-will-the-Government-have-foresight-to-do-it/4-739205",
-    "time_ut": 1661726584,
-    "original_lang": "en",
-    "original_title": "Central Bank independence: Issue to the fore again, but will the Government have foresight to do it?",
-    "file_name": "/tmp/news_lk2/articles/9d/9dc758d4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Will-Asia-go-the-way-of-Ukraine-in-Europe-EDITORIAL/172-243888",
-    "time_ut": 1661717202,
-    "original_lang": "en",
-    "original_title": "Will Asia go the way of Ukraine in Europe? - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/47/478c8bbf.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Fascists-neo-fascists-and-SLs-future/172-243887",
-    "time_ut": 1661717116,
-    "original_lang": "en",
-    "original_title": "Fascists, neo fascists, and SL\u2019s future",
-    "file_name": "/tmp/news_lk2/articles/f1/f196abda.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79256",
-    "time_ut": 1661714640,
-    "original_lang": "en",
-    "original_title": "The ongoing crackdown on the protest movement needs to cease.  Its excessive nature is discrediting the government in the eyes of the international community as well as within the country. The blame  for this  is falling squarely on the president",
-    "file_name": "/tmp/news_lk2/articles/13/13237679.json"
   }
 ]
