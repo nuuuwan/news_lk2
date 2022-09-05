@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Stabbings-in-Canada-leave-10-dead-a-dozen-injured/108-244298",
+    "time_ut": 1662343329,
+    "original_lang": "en",
+    "original_title": "Stabbings in Canada leave 10 dead, a dozen injured",
+    "file_name": "/tmp/news_lk2/articles/49/49a6679b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd-\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/175-303567",
+    "time_ut": 1662342867,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/30/30619e06.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0ba9\u0b9f\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1-10-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/50-303566",
+    "time_ut": 1662342308,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0ba9\u0b9f\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1: 10 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/b0/b0404d56.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-real-wages-down-as-inflation-races-ahead-99439/",
+    "time_ut": 1662342120,
+    "original_lang": "en",
+    "original_title": "Sri Lanka real wages down as inflation races ahead",
+    "file_name": "/tmp/news_lk2/articles/22/223e6a3f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-to-support-flood-hit-Pakistan/108-244297",
+    "time_ut": 1662340976,
+    "original_lang": "en",
+    "original_title": "SL to support flood hit Pakistan",
+    "file_name": "/tmp/news_lk2/articles/f7/f7895253.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd0\u0db1\u0da9\u0dcf\u0dc0\u0dda-\u0db4\u0dd2\u0dc4\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb-\u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dd2\u0db1\u0dca-10-\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/1-619289",
     "time_ut": 1662336787,
@@ -257,11 +297,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business/Wacoal-Europe-eyeing-further-expansion-of-manufacturing-base-in-Sri-Lanka/215-244292",
+    "url": "https://www.dailymirror.lk/breaking_news/Wacoal-Europe-eyeing-further-expansion-of-manufacturing-base-in-Sri-Lanka/108-244292",
     "time_ut": 1662305386,
     "original_lang": "en",
     "original_title": "Wacoal Europe eyeing further expansion of manufacturing base in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/fd/fd99fa8e.json"
+    "file_name": "/tmp/news_lk2/articles/ad/adbdb902.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -342,6 +382,14 @@
     "original_lang": "en",
     "original_title": "The Fate Of 158 Missing Persons From Refugee Camp At Eastern University On September 5, 1990 Continues To Be \u201cUnknown\u201d",
     "file_name": "/tmp/news_lk2/articles/30/30062128.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0dd2\u0dc4\u0dd2\u0dba\u0ddd-\u0db6\u0dab-\u0d9a\u0dd2\u0dba\u0db1\u0dc0\u0dcf-\u0dc4\u0dcf\u0db8\u0dd4\u0daf\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dd4-\u0dc0\u0dc0\u0db1\u0dc0\u0dcf/11-396881",
+    "time_ut": 1662301983,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dd2\u0dc4\u0dd2\u0dba\u0ddd \u0db6\u0dab \u0d9a\u0dd2\u0dba\u0db1\u0dc0\u0dcf \u0dc4\u0dcf\u0db8\u0dd4\u0daf\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dd4 \u0dc0\u0dc0\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/b1/b1768385.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ditch the phone before bed! 16 tips for a good night\u2019s sleep",
     "file_name": "/tmp/news_lk2/articles/87/87ee4f90.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-managing-without-bridging-finance-using-current-inflows-cb-governor-99104/",
-    "time_ut": 1661677260,
-    "original_lang": "en",
-    "original_title": "Sri Lanka managing without bridging finance using current inflows: CB Governor",
-    "file_name": "/tmp/news_lk2/articles/4c/4c4a1e7c.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/the-china-lanka-conundrum/",
-    "time_ut": 1661655762,
-    "original_lang": "en",
-    "original_title": "The China-Lanka Conundrum",
-    "file_name": "/tmp/news_lk2/articles/91/91665769.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-import-controls-are-temporary-cb-governor-99090/",
-    "time_ut": 1661655480,
-    "original_lang": "en",
-    "original_title": "Sri Lanka import controls are temporary: CB Governor",
-    "file_name": "/tmp/news_lk2/articles/72/7208ec6f.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/war-on-china-vi-india-the-us-forward-policy-the-brzezinskian-project/",
-    "time_ut": 1661651462,
-    "original_lang": "en",
-    "original_title": "War On China? \u2013 VI:\u00a0India & The US: Forward Policy & The Brzezinskian Project",
-    "file_name": "/tmp/news_lk2/articles/ae/aee73676.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/lets-have-fun-today/",
-    "time_ut": 1661649628,
-    "original_lang": "en",
-    "original_title": "Let\u2019s Have Fun Today",
-    "file_name": "/tmp/news_lk2/articles/f3/f3c2675e.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79166",
-    "time_ut": 1661637780,
-    "original_lang": "en",
-    "original_title": "India\u2019s Evolving Tradition of Electing Presidents Symbolizing  the Diversity of Her People",
-    "file_name": "/tmp/news_lk2/articles/d4/d409b1cb.json"
   }
 ]
