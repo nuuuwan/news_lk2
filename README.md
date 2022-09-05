@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-05 13:29:18 (LK time)*
+*As of 2022-09-05 13:41:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
-
-* **2** ada-derana-lk ([Bill to trim President’s powers likely to become law soon - Ali Sabry](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b1e6854.json))
+## Last 30 Minutes (1 Articles)
 
 * **1** daily-mirror-lk ([Dates for Scholarship, A/L Examination announced](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf940609.json))
 
-## Last Hour (7 Articles)
+## Last Hour (5 Articles)
 
 * **2** daily-mirror-lk ([Economic crisis: SJB requests not to expand cabinet](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d4713cd.json))
 
@@ -18,33 +16,29 @@
 
 * **1** lankadeepa-lk ([පානදුර සභාව දිවුලපිටිය සභාවෙන් ගත්ත පොල්වලට පොල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c467e4bf.json))
 
-* **1** ada-lk ([මෝටර් රථය ගසක හැපී තරුණයෙකු මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03b48803.json))
-
-* **1** tamil-mirror-lk ([கோட்டாவுக்கு வரப்பிரசாதங்கள் வேண்டாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4ab38c8.json))
-
-## Last 3 Hours (39 Articles)
+## Last 3 Hours (38 Articles)
 
 * **9** ada-derana-lk ([Mobile, fixed, broadband and pay-TV tariffs hiked from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22d66777.json))
 
 * **8** news-first-lk ([Daily Exchange Rate from CBSL](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/868f48aa.json))
 
-* **6** daily-mirror-lk ([German expertise to develop PPP model in energy secror](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7ba3ecbc.json))
-
 * **6** lankadeepa-lk ([අදත් තද වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa8082f1.json))
 
 * **6** ada-lk ([ශිෂ්‍යත්වය දෙසැම්බර් 04 - උපෙළ දෙසැම්බර් 05](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b069a764.json))
+
+* **5** daily-mirror-lk ([12.5Kg LITRO gas cylinder price reduced by Rs.113](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34d64086.json))
 
 * **2** tamil-mirror-lk ([பரீட்சை ஆணையாளர் நாயகத்தின் முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92cc6366.json))
 
 * **2** economy-next-com ([Sri Lanka ex president Kumaratunga declares open New Lanka Freedom Party HQ](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78324edd.json))
 
-## Last 24 Hours (175 Articles)
+## Last 24 Hours (174 Articles)
 
 * **32** tamil-mirror-lk ([400 எரிபொருள் நிலையங்களுக்கு பூட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0b20325.json))
 
 * **29** lankadeepa-lk ([ලබන වසරේ පාසල් පොත්වලට කෝටි 1648ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38cd3a92.json))
 
-* **26** ada-derana-lk ([Youth falls to his death while trying to take a selfie](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0503800.json))
+* **25** ada-derana-lk ([Litro Gas to slash prices tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd23b776.json))
 
 * **24** news-first-lk ([Minister reviews progress of CEB reforms committee](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ad9ac59.json))
 
