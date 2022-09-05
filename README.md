@@ -1,34 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-05 23:07:27 (LK time)*
+*As of 2022-09-05 23:27:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last 3 Hours (10 Articles)
 
-* **1** tamil-mirror-lk ([கோட்டாவை கைது செய்ய கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/8563423d.json))
-
-* **1** ada-derana-lk ([Flood warning as water levels rise in Maha Oya](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/310cb9bd.json))
-
-## Last 3 Hours (18 Articles)
-
-* **6** tamil-mirror-lk ([குமார வெல்கமவுக்கு சந்திரிக்காவின் நிபந்தனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b3c945f.json))
-
-* **5** daily-mirror-lk ([More than 1,000 people affected by inclement weather](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78fc47cd.json))
-
-* **3** news-first-lk ([Sri Lanka: Bakery owners decide against increasing bread prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93f1d827.json))
+* **4** tamil-mirror-lk ([ராஜபக்ஷக்களுக்குக் காலக்கெடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea7b81f0.json))
 
 * **2** ada-derana-lk ([Fitch warns of high risk that Sri Lanka may default on local bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c9784a8.json))
 
 * **2** ada-lk ([බ්‍රිතාන්‍ය සුක්කානම කාන්තාවකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/4660b75e.json))
 
-## Last 24 Hours (184 Articles)
+* **1** news-first-lk ([Gotabaya has no place in politics again, says Welgama](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56e08a96.json))
+
+* **1** daily-mirror-lk ([Seas waves to rise as high as 3 metres](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0357d4e8.json))
+
+## Last 24 Hours (182 Articles)
 
 * **37** lankadeepa-lk ([කැනඩාවේ පිහි ප්‍රහාර මාලාවකින් 10 ක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fe2b4b4.json))
 
 * **29** tamil-mirror-lk ([ஐ.எம்.எப். உடன்படிக்கை சபைக்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aaeab8e5.json))
 
-* **26** ada-derana-lk ([Controversial ‘godman’ accused of rape seeks asylum in Sri Lanka - report](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b178612.json))
+* **25** ada-derana-lk ([Sajith claims President has become a hostage of the SLPP](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc965c8f.json))
 
 * **25** ada-lk ([බිත්තර මිල ගැසට්ටුව ආපසු හරවන්නේ නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61d05c24.json))
 
@@ -38,11 +32,11 @@
 
 * **12** economy-next-com ([Sri Lanka real wages down as inflation races ahead](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/223e6a3f.json))
 
-* **6** daily-ft-lk ([Forest bathing to heal yourself](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f51dc84e.json))
+* **5** daily-ft-lk ([DIMO honoured with ISO 45001:2018 certification](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba071170.json))
 
 * **1** colombo-telegraph-com ([Evaluation Of Aragalaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/0702972b.json))
 
-## Last Week (1,133 Articles)
+## Last Week (1,130 Articles)
 
 * **201** lankadeepa-lk ([අලුත් අයවැයේ  නැවුම් බලාපොරොත්තු](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6be07769.json))
 
@@ -54,7 +48,7 @@
 
 * **128** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
-* **128** daily-mirror-lk ([Children, the most vulnerable group today](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25df5e2e.json))
+* **125** daily-mirror-lk ([Govt. to present interim budget today](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/ddf8ffdb.json))
 
 * **88** economy-next-com ([US to redouble efforts to support crisis-hit Sri Lanka: Ambassador](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/736dac40.json))
 
