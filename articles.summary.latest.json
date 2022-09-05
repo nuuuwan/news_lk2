@@ -1,11 +1,67 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca-\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda-\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba-\u0db8\u0dbb\u0dbd\u0dcf\u2019\u2019/101-619333",
+    "time_ut": 1662373229,
+    "original_lang": "si",
+    "original_title": "\u2019\u2019\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca \u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba \u0db8\u0dbb\u0dbd\u0dcf\u2019\u2019",
+    "file_name": "/tmp/news_lk2/articles/9a/9a227d64.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dcf\u0dbb\u0dd2\u0db8\u0dcf\u0dbb\u0dca\u0d9c-\u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0d9c\u0d82-\u0dc0\u0dad\u0dd4\u0dbb-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca/101-619332",
+    "time_ut": 1662372956,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dcf\u0dbb\u0dd2\u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d9c\u0d82 \u0dc0\u0dad\u0dd4\u0dbb \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/9f/9fd6681a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd4\u0dbb\u0dd4\u0dab\u0dd1\u0d9c\u0dbd-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0d9a\u0dd4-\u0db1\u0d9c\u0dbb\u0dba\u0dda-\u0d9a\u0dcf\u0dab\u0dd4\u0dc0\u0d9a-\u0dc4\u0dd2\u0dbb-\u0dc0\u0dd9\u0dba\u0dd2/101-619331",
+    "time_ut": 1662372839,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd4\u0dbb\u0dd4\u0dab\u0dd1\u0d9c\u0dbd \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0d9a\u0dd4 \u0db1\u0d9c\u0dbb\u0dba\u0dda \u0d9a\u0dcf\u0dab\u0dd4\u0dc0\u0d9a \u0dc4\u0dd2\u0dbb \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/6d/6d2697e7.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dba\u0dd4\u0daf-\u0dc3\u0db8\u0dba\u0dda-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0da7-\u0d9c\u0dd2\u0dba-\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca-\u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dd2\u0db1\u0dca-\u0d9c\u0dd9\u0db1\u0dca\u0dc0\u0dcf-\u0d9c\u0db1\u0dca\u0db1--\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca/101-619330",
+    "time_ut": 1662372708,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dd4\u0daf \u0dc3\u0db8\u0dba\u0dda \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0d9c\u0dd2\u0dba \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca \u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dd2\u0db1\u0dca \u0d9c\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0d9c\u0db1\u0dca\u0db1  \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/dd/dd785845.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u201cELLA-ODYSSEY\u201d-\u0db1\u0dc0-\u0d9c\u0db8\u0db1\u0dca\u0dc0\u0dcf\u0dbb-02\u0d9a\u0dca-\u0d85\u0dbb\u0db9\u0dba\u0dd2/11-396899",
+    "time_ut": 1662372463,
+    "original_lang": "si",
+    "original_title": "\u201cELLA ODYSSEY\u201d \u0db1\u0dc0 \u0d9c\u0db8\u0db1\u0dca\u0dc0\u0dcf\u0dbb 02\u0d9a\u0dca \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4e/4e2c6611.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1-\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3-\u0b85\u0baa\u0bbe\u0baf-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-303602",
+    "time_ut": 1662372066,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbf\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3 \u0b85\u0baa\u0bbe\u0baf \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/57/57f8f08c.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Presidents-Office-says-no-request-by-controversial-Hindu-guru-to-seek-asylum-in-SL/342-244334",
     "time_ut": 1662372043,
     "original_lang": "en",
     "original_title": "President\u2019s Office says no request by controversial Hindu guru to seek asylum in SL",
     "file_name": "/tmp/news_lk2/articles/49/49019460.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-does-not-want-confrontation-at-unhrc-but-will-oppose-anti-constitutional-moves-99454/",
+    "time_ut": 1662371940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka does not want confrontation at UNHRC, but will oppose anti-constitutional moves",
+    "file_name": "/tmp/news_lk2/articles/fc/fc89bbce.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -64,6 +120,14 @@
     "file_name": "/tmp/news_lk2/articles/10/1023e9a0.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/ICTA-\u0db1\u0dc0-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0db8\u0dc4\u0dcf\u0da0\u0dcf\u0dbb\u0dca\u0dba-\u0db8\u0dbd\u0dd2\u0d9a\u0dca-\u0dbb\u0dab\u0dc3\u0dd2\u0d82\u0dc4/11-396898",
+    "time_ut": 1662370155,
+    "original_lang": "si",
+    "original_title": "ICTA \u0db1\u0dc0 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0db8\u0dc4\u0dcf\u0da0\u0dcf\u0dbb\u0dca\u0dba \u0db8\u0dbd\u0dd2\u0d9a\u0dca \u0dbb\u0dab\u0dc3\u0dd2\u0d82\u0dc4",
+    "file_name": "/tmp/news_lk2/articles/62/62571a9b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84764/afghanistan-earthquake-kills-eight-more-casualties-feared",
     "time_ut": 1662369720,
@@ -86,6 +150,14 @@
     "original_lang": "ta",
     "original_title": "\u0b92\u0bb0\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1 \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe?",
     "file_name": "/tmp/news_lk2/articles/28/28aecb13.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/2015-\u0db8\u0dd2\u0dbd\u0da7-\u0d9c\u0dad\u0dca-\u0dc0\u0dd3-\u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca-\u0d85\u0dbb\u0dbd\u0d9c\u0d82\u0dc0\u0dd2\u0dbd-\u0d9c\u0db6\u0da9\u0dcf\u0dc0\u0d9a-\u0daf\u0dd2\u0dbb\u0dba\u0dd2/101-619327",
+    "time_ut": 1662369060,
+    "original_lang": "si",
+    "original_title": "2015 \u0db8\u0dd2\u0dbd\u0da7 \u0d9c\u0dad\u0dca \u0dc0\u0dd3 \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca \u0d85\u0dbb\u0dbd\u0d9c\u0d82\u0dc0\u0dd2\u0dbd \u0d9c\u0db6\u0da9\u0dcf\u0dc0\u0d9a \u0daf\u0dd2\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ab/abef0b49.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7926,77 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka President revises budget for stability in monetary meltdown",
     "file_name": "/tmp/news_lk2/articles/ab/ab8b538d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-to-allow-foreign-universities-to-start-branches-99222/",
-    "time_ut": 1661913900,
-    "original_lang": "en",
-    "original_title": "Sri Lanka to allow foreign universities to start branches",
-    "file_name": "/tmp/news_lk2/articles/99/99e56392.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0dd9\u0db1\u0dca-\u0dbb\u0dad\u0dd4-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/11-396766",
-    "time_ut": 1661912357,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0dd9\u0db1\u0dca \u0dbb\u0dad\u0dd4 \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/6e/6eadc48a.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84655/caa-imposes-several-conditions-on-48-items",
-    "time_ut": 1661911920,
-    "original_lang": "en",
-    "original_title": "CAA imposes several conditions on 48 items",
-    "file_name": "/tmp/news_lk2/articles/00/008c391d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/84654/last-soviet-leader-mikhail-gorbachev-dies-aged-91",
-    "time_ut": 1661910360,
-    "original_lang": "en",
-    "original_title": "Last Soviet leader Mikhail Gorbachev dies aged 91",
-    "file_name": "/tmp/news_lk2/articles/71/71faa08d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Last-Soviet-leader-Mikhail-Gorbachev-dies-at-91/342-244032",
-    "time_ut": 1661909837,
-    "original_lang": "en",
-    "original_title": "Last Soviet leader Mikhail Gorbachev dies at 91",
-    "file_name": "/tmp/news_lk2/articles/92/928ce9c5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Devastating-economic-crisis-and-the-interim-budget-EDITORIAL/172-244031",
-    "time_ut": 1661909709,
-    "original_lang": "en",
-    "original_title": "Devastating economic crisis and the interim budget - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/47/4700092e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Duty-free-worker-busted-with-gold-biscuits-worth-Rs-157mn/342-244030",
-    "time_ut": 1661909397,
-    "original_lang": "en",
-    "original_title": "Duty-free worker busted with gold biscuits worth Rs.157mn",
-    "file_name": "/tmp/news_lk2/articles/cb/cb4856ce.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/The-Tamil-factor-in-the-first-UNP-led-National-Govt/4-739304",
-    "time_ut": 1661907690,
-    "original_lang": "en",
-    "original_title": "The Tamil factor in the first UNP-led \u2018National\u2019 Govt.",
-    "file_name": "/tmp/news_lk2/articles/15/1550ea19.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Import-controls-are-required-but-do-it-smartly/4-739303",
-    "time_ut": 1661907318,
-    "original_lang": "en",
-    "original_title": "Import controls are required, but do it smartly",
-    "file_name": "/tmp/news_lk2/articles/bb/bb38725c.json"
   }
 ]
