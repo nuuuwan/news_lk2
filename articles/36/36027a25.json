@@ -1,0 +1,948 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/09/05/verstappen-wins-dramatic-dutch-gp/",
+  "time_ut": 1662355380,
+  "original_lang": "en",
+  "original_title": "Verstappen wins dramatic Dutch GP",
+  "text_idx": {
+    "en": {
+      "title": "Verstappen wins dramatic Dutch GP",
+      "author": "unknown",
+      "body_lines": [
+        "Max Verstappen held onto victory in a captivating 2022 Dutch Grand Prix amid a strong showing from the Mercedes and late Safety Car drama at Zandvoort, as George Russell and Charles Leclerc completed the podium.",
+        "Verstappen seemed to be assured of victory having taken a second pit stop during a Virtual Safety Car on Lap 48, with Hamilton second and Russell third as both had extended their opening stint on medium tyres (their rivals having started on softs) to pit for hards, on which they were rapid. The events after a Lap 55 Safety Car dashed any hopes of victory that Hamilton harboured, however.",
+        "The seven-time champion stayed out on mediums to inherit the lead while Verstappen came in for softs, followed by Russell and Leclerc, for the restart on Lap 61. In that restart, Verstappen swept past the Mercedes for the lead, with Russell and Leclerc following suit to pry Hamilton away from the podium.",
+        "Hamilton ended up fourth at the flag as Carlos Sainz and Sergio Perez \u2013 the former held back by a calamitous Ferrari pit stop earlier on, before a five-second penalty for an unsafe release in a later stop \u2013 battled late on for P5. That allowed Alonso and Norris to close in too, and when the penalty kicked in Sainz was dropped to eighth, promoting Perez to fifth, Alonso to sixth, and Norris to seventh.",
+        "Esteban Ocon finished ninth, just ahead of Lance Stroll \u2013 who started and finished 10th for Aston Martin. Pierre Gasly missed out on the points in P11 for AlphaTauri while Alex Albon finished 12th from 15th on the grid.",
+        "Sebastian Vettel started 19th and finished 14th, losing out to Mick Schumacher \u2013 who lost out due to a pair of slow pit stops. The four-time champion was given a five-second penalty for ignoring blue flags earlier in the race.",
+        "Kevin Magnussen hit the barriers on Lap 2 but continued to finish 15th, behind his Haas team mate. Daniel Ricciardo pitted first out of the pack and couldn\u2019t make up ground, finishing 17th for McLaren behind Zhou Guanyu, who served a five-second penalty for speeding in the pit lane.",
+        "Valtteri Bottas was classified 19th for Alfa Romeo, his car stopping on track to bring out the late Safety Car.",
+        "Yuki Tsunoda stopped on track on Lap 48 after reporting a driveshaft issue, the AlphaTauri driver having previously reported that his tyres were incorrectly fitted before a lengthy pit stop."
+      ],
+      "title_ents": [
+        {
+          "text": "Dutch",
+          "label": "NORP"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Max Verstappen",
+            "label": "PERSON"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "Dutch Grand Prix",
+            "label": "EVENT"
+          },
+          {
+            "text": "Mercedes",
+            "label": "ORG"
+          },
+          {
+            "text": "Safety Car",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "Zandvoort",
+            "label": "GPE"
+          },
+          {
+            "text": "George Russell",
+            "label": "PERSON"
+          },
+          {
+            "text": "Charles Leclerc",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "second",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "48",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Hamilton",
+            "label": "PERSON"
+          },
+          {
+            "text": "Russell",
+            "label": "PERSON"
+          },
+          {
+            "text": "a Lap 55 Safety Car",
+            "label": "LAW"
+          },
+          {
+            "text": "Hamilton",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "seven",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Russell",
+            "label": "PERSON"
+          },
+          {
+            "text": "Leclerc",
+            "label": "GPE"
+          },
+          {
+            "text": "Lap 61",
+            "label": "EVENT"
+          },
+          {
+            "text": "Mercedes",
+            "label": "ORG"
+          },
+          {
+            "text": "Russell",
+            "label": "PERSON"
+          },
+          {
+            "text": "Leclerc",
+            "label": "PERSON"
+          },
+          {
+            "text": "Hamilton",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Hamilton",
+            "label": "PERSON"
+          },
+          {
+            "text": "fourth",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Carlos Sainz",
+            "label": "PERSON"
+          },
+          {
+            "text": "Sergio Perez",
+            "label": "PERSON"
+          },
+          {
+            "text": "Ferrari",
+            "label": "ORG"
+          },
+          {
+            "text": "five-second",
+            "label": "TIME"
+          },
+          {
+            "text": "P5",
+            "label": "ORG"
+          },
+          {
+            "text": "Norris",
+            "label": "GPE"
+          },
+          {
+            "text": "Sainz",
+            "label": "ORG"
+          },
+          {
+            "text": "eighth",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Perez",
+            "label": "PERSON"
+          },
+          {
+            "text": "fifth",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Alonso",
+            "label": "ORG"
+          },
+          {
+            "text": "sixth",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Norris",
+            "label": "GPE"
+          },
+          {
+            "text": "seventh",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Esteban Ocon",
+            "label": "ORG"
+          },
+          {
+            "text": "ninth",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Lance Stroll",
+            "label": "PERSON"
+          },
+          {
+            "text": "10th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Aston Martin",
+            "label": "PERSON"
+          },
+          {
+            "text": "Pierre Gasly",
+            "label": "PERSON"
+          },
+          {
+            "text": "P11",
+            "label": "EVENT"
+          },
+          {
+            "text": "AlphaTauri",
+            "label": "ORG"
+          },
+          {
+            "text": "Alex Albon",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Sebastian Vettel",
+            "label": "PERSON"
+          },
+          {
+            "text": "19th and finished 14th",
+            "label": "DATE"
+          },
+          {
+            "text": "Mick Schumacher",
+            "label": "PERSON"
+          },
+          {
+            "text": "four",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "five-second",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "Kevin Magnussen",
+            "label": "PERSON"
+          },
+          {
+            "text": "Lap 2",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "finish 15th",
+            "label": "DATE"
+          },
+          {
+            "text": "Haas",
+            "label": "ORG"
+          },
+          {
+            "text": "Daniel Ricciardo",
+            "label": "PERSON"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "McLaren",
+            "label": "ORG"
+          },
+          {
+            "text": "Zhou Guanyu",
+            "label": "PERSON"
+          },
+          {
+            "text": "five-second",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "Valtteri Bottas",
+            "label": "ORG"
+          },
+          {
+            "text": "19th",
+            "label": "DATE"
+          },
+          {
+            "text": "Alfa Romeo",
+            "label": "PERSON"
+          },
+          {
+            "text": "Safety Car",
+            "label": "PRODUCT"
+          }
+        ],
+        [
+          {
+            "text": "Yuki Tsunoda",
+            "label": "PERSON"
+          },
+          {
+            "text": "Lap 48",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "AlphaTauri",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "Verstappen \u0db1\u0dcf\u0da7\u0dca\u200d\u0dba\u0db8\u0dba \u0dbd\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2 GP \u0daf\u0dd2\u0db1\u0dcf \u0d9c\u0db1\u0dd3",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0da2\u0ddd\u0dbb\u0dca\u0da2\u0dca \u0dbb\u0dc3\u0dbd\u0dca \u0dc3\u0dc4 \u0da0\u0dcf\u0dbd\u0dca\u0dc3\u0dca \u0dbd\u0dd9\u0d9a\u0dca\u0dbd\u0dbb\u0dca\u0d9a\u0dca \u0dc0\u0dda\u0daf\u0dd2\u0d9a\u0dcf\u0dc0 \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0d9a\u0dbb\u0db1 \u0dc0\u0dd2\u0da7, \u0dc3\u0dd0\u0db1\u0dca\u0da9\u0dca\u0dc0\u0ddd\u0dbb\u0dca\u0da7\u0dca \u0dc4\u0dd2 \u0db8\u0dbb\u0dca\u0dc3\u0dd2\u0da9\u0dd3\u0dc3\u0dca \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf \u0dc0\u0dd6 \u0dc3\u0dda\u0dc6\u0dca\u0da7\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca \u0db1\u0dcf\u0da7\u0dca\u200d\u0dba\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0db6\u0dbd \u0daf\u0dbb\u0dca\u0dc1\u0db1\u0dba\u0d9a\u0dca \u0db8\u0db0\u0dca\u200d\u0dba\u0dba\u0dda \u0db8\u0dd0\u0d9a\u0dca\u0dc3\u0dca \u0dc0\u0dbb\u0dca\u0dc3\u0dca\u0da7\u0dd0\u0db4\u0db1\u0dca \u0d86\u0d9a\u0dbb\u0dca\u0dc1\u0db1\u0dd3\u0dba 2022 \u0dbd\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2 \u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db1\u0dca\u0da9\u0dca \u0db4\u0dca\u200d\u0dbb\u0dd3 \u0dad\u0dbb\u0d9c\u0dba\u0dda \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba \u0d85\u0dad\u0dca\u0d9a\u0dbb \u0d9c\u0dad\u0dca\u0dad\u0dda\u0dba.",
+        "48 \u0dc0\u0db1 \u0dc0\u0da7\u0dba\u0dda \u0d85\u0dad\u0dae\u0dca\u200d\u0dba \u0d86\u0dbb\u0d9a\u0dca\u200d\u0dc2\u0dd2\u0dad \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0d85\u0dad\u0dbb\u0dad\u0dd4\u0dbb \u0daf\u0dd9\u0dc0\u0db1 \u0db4\u0dd2\u0da7 \u0db1\u0dd0\u0dc0\u0dad\u0dd4\u0db8\u0da7 \u0dba\u0dcf\u0db8\u0dd9\u0db1\u0dca Verstappen \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0d9a\u0dca \u0db4\u0dd9\u0db1\u0dd9\u0db1\u0dca\u0db1\u0da7 \u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dd2, \u0dc4\u0dd0\u0db8\u0dd2\u0dbd\u0dca\u0da7\u0db1\u0dca \u0daf\u0dd9\u0dc0\u0db1\u0dd4\u0dc0 \u0dc3\u0dc4 \u0dbb\u0dc3\u0dbd\u0dca \u0dad\u0dd9\u0dc0\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf\u0db8 \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0da7\u0dba\u0dbb\u0dca (\u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc0\u0dcf\u0daf\u0dd3\u0db1\u0dca \u0db8\u0dd8\u0daf\u0dd4 \u0db8\u0dad \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb \u0d87\u0dad) \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0d86\u0dbb\u0db8\u0dca\u0db7\u0d9a \u0d9a\u0dcf\u0dbd\u0dba \u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0d9a\u0dbb \u0d87\u0dad. , \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca \u0dc0\u0dd6 \u0db8\u0dad. \u0d9a\u0dd9\u0dc3\u0dda \u0dc0\u0dd9\u0dad\u0dad\u0dca, \u0dbd\u0dd0\u0db4\u0dca 55 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd3\u0db8\u0dca \u0dc4\u0dd0\u0db8\u0dd2\u0dbd\u0dca\u0da7\u0db1\u0dca\u0d9c\u0dda \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0db6\u0dbd\u0dcf\u0db4\u0ddc\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4 \u0db6\u0dd2\u0db3 \u0daf\u0dd0\u0db8\u0dd3\u0dba.",
+        "\u0dc4\u0dad\u0dca \u0dc0\u0dbb\u0d9a\u0dca \u0dc1\u0dd6\u0dbb\u0dba\u0dcf \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab\u0da7 \u0d8b\u0dbb\u0dd4\u0db8\u0d9a\u0db8\u0dca \u0d9a\u0dd2\u0dba\u0db1 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0d88\u0dad\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0dc0\u0dbb\u0dca\u0dc3\u0dca\u0da7\u0dd0\u0db4\u0db1\u0dca \u0db8\u0dd8\u0daf\u0dd4 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2 \u0d85\u0dad\u0dbb \u0db4\u0dc3\u0dd4\u0dc0 \u0dbb\u0dc3\u0dbd\u0dca \u0dc3\u0dc4 \u0dbd\u0dd9\u0d9a\u0dca\u0dbd\u0dbb\u0dca\u0d9a\u0dca 61 \u0dbd\u0dd0\u0db4\u0dca\u0dc4\u0dd2 \u0db1\u0dd0\u0dc0\u0dad \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dba\u0dc4. \u0d91\u0db8 \u0db1\u0dd0\u0dc0\u0dad \u0d86\u0dbb\u0db8\u0dca\u0db7\u0dba\u0dda\u0daf\u0dd3 \u0dc0\u0dbb\u0dca\u0dc3\u0dca\u0da7\u0dd0\u0db4\u0db1\u0dca \u0db8\u0dbb\u0dca\u0dc3\u0dd2\u0da9\u0dd3\u0dc3\u0dca \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2 \u0d85\u0dad\u0dbb \u0dbb\u0dc3\u0dbd\u0dca \u0dc3\u0dc4 \u0dbd\u0dd9\u0d9a\u0dca\u0dbd\u0dbb\u0dca\u0d9a\u0dca \u0dc3\u0db8\u0d9f\u0dd2\u0db1\u0dca \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab \u0d9c\u0dad\u0dca\u0dad\u0dda\u0dba. \u0dc4\u0dd0\u0db8\u0dd2\u0dbd\u0dca\u0da7\u0db1\u0dca \u0dc0\u0dda\u0daf\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0da7 \u0dad\u0dbd\u0dca\u0dbd\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0db1\u0dd4\u0d9c\u0db8\u0db1\u0dba",
+        "\u0d9a\u0dcf\u0dbd\u0ddd\u0dc3\u0dca \u0dc3\u0dba\u0dd2\u0db1\u0dca\u0dc3\u0dca \u0dc3\u0dc4 \u0dc3\u0dbb\u0dca\u0da2\u0dd2\u0dba\u0ddd \u0db4\u0dd9\u0dbb\u0dd9\u0dc3\u0dca \u0db0\u0da2\u0dba\u0dda \u0dc3\u0dd2\u0dc0\u0dd4\u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb, \u0db4\u0dd9\u0dbb \u0db1\u0dd0\u0dc0\u0dad\u0dd4\u0db8\u0d9a\u0daf\u0dd3 \u0d85\u0db1\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0dbd\u0dd9\u0dc3 \u0db8\u0dd4\u0daf\u0dcf \u0dc4\u0dd0\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dad\u0dad\u0dca\u0db4\u0dbb \u0db4\u0dc4\u0d9a \u0daf\u0da9\u0dd4\u0dc0\u0db8\u0d9a\u0da7 \u0db4\u0dd9\u0dbb \u0dc0\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2\u0daf\u0dcf\u0dba\u0d9a \u0dc6\u0dd9\u0dbb\u0dcf\u0dbb\u0dd2 \u0db1\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dd9\u0dbb\u0da7 \u0d9c\u0dd2\u0dba \u0dc4\u0dd0\u0db8\u0dd2\u0dbd\u0dca\u0da7\u0db1\u0dca P5 \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf \u0dc0\u0dd3 \u0dc3\u0da7\u0db1\u0dca \u0d9a\u0dc5\u0dda\u0dba. \u0d91\u0dba \u0d87\u0dbd\u0ddc\u0db1\u0dca\u0dc3\u0ddd \u0dc3\u0dc4 \u0db1\u0ddc\u0dbb\u0dd2\u0dc3\u0dca\u0da7 \u0daf \u0dc0\u0dc3\u0dcf \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd6 \u0d85\u0dad\u0dbb, \u0dc3\u0dba\u0dd2\u0db1\u0dca\u0dc3\u0dca \u0dc4\u0dd2 \u0db4\u0dba\u0dd2\u0db1\u0dca \u0d9c\u0dd0\u0dc3\u0dd6 \u0daf\u0da9\u0dd4\u0dc0\u0db8 \u0d85\u0da7\u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dd4 \u0dc0\u0dd2\u0da7, \u0db4\u0dd9\u0dbb\u0dd9\u0dc3\u0dca \u0db4\u0dc3\u0dca\u0dc0\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7, \u0d87\u0dbd\u0ddc\u0db1\u0dca\u0dc3\u0ddd \u0dc4\u0dba\u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0dc3\u0dc4 \u0db1\u0ddc\u0dbb\u0dd2\u0dc3\u0dca \u0dc4\u0dad\u0dca\u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0d8b\u0dc3\u0dc3\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "Esteban Ocon \u0db1\u0dc0\u0dc0\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0dc0\u0dd2\u0dba, \u0dbd\u0dcf\u0db1\u0dca\u0dc3\u0dca \u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0dbd\u0dca\u0da7 \u0dc0\u0da9\u0dcf \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca - \u0d87\u0dc3\u0dca\u0da7\u0db1\u0dca \u0db8\u0dcf\u0da7\u0dd2\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb 10 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dc5\u0dda\u0dba. AlphaTauri \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca Pierre Gasly \u0dc4\u0da7 P11 \u0dc4\u0dd2 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d85\u0dc4\u0dd2\u0db8\u0dd2 \u0dc0\u0dd6 \u0d85\u0dad\u0dbb Alex Albon 15 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0dc3\u0dd2\u0da7 12 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd2\u0dba.",
+        "\u0dc3\u0dd9\u0db6\u0dc3\u0dca\u0dad\u0dd2\u0dba\u0db1\u0dca \u0dc0\u0dd9\u0da7\u0dd9\u0dbd\u0dca 19 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb 14 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb, \u0db8\u0db1\u0dca\u0daf\u0d9c\u0dcf\u0db8\u0dd3 \u0db4\u0dd2\u0da7\u0dca \u0db1\u0dd0\u0dc0\u0dad\u0dd4\u0db8\u0dca \u0dba\u0dd4\u0d9c\u0dbd\u0dba\u0d9a\u0dca \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db8\u0dd2\u0d9a\u0dca \u0dc2\u0dd6\u0db8\u0dcf\u0d9a\u0dbb\u0dca\u0da7 \u0d85\u0dc4\u0dd2\u0db8\u0dd2 \u0dc0\u0dd2\u0dba. \u0dc3\u0dd2\u0dc0\u0dca \u0dc0\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0dc1\u0dd6\u0dbb\u0dba\u0dcf \u0dc0\u0dd6 \u0d94\u0dc4\u0dd4\u0da7 \u0dad\u0dbb\u0d9f\u0dba\u0dda \u0d9a\u0dbd\u0dd2\u0db1\u0dca \u0db1\u0dd2\u0dbd\u0dca \u0d9a\u0ddc\u0da9\u0dd2 \u0db1\u0ddc\u0dc3\u0dbd\u0d9a\u0dcf \u0dc4\u0dd0\u0dbb\u0dd3\u0db8 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dad\u0dca\u0db4\u0dbb \u0db4\u0dc4\u0d9a \u0daf\u0da9\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0db1 \u0dbd\u0daf\u0dd3.",
+        "Kevin Magnussen 2 \u0dc0\u0da7\u0dba\u0dda \u0db6\u0dcf\u0db0\u0d9a\u0dc0\u0dbd\u0da7 \u0db4\u0dc4\u0dbb \u0daf\u0dd4\u0db1\u0dca \u0db1\u0db8\u0dd4\u0dad\u0dca \u0d94\u0dc4\u0dd4\u0d9c\u0dda Haas \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dda \u0dc3\u0dc4\u0d9a\u0dbb\u0dd4\u0da7 \u0db4\u0dd2\u0da7\u0dd4\u0db4\u0dc3\u0dd2\u0db1\u0dca 15 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd2\u0dba. Daniel Ricciardo \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0db6\u0dd2\u0db8 \u0dc3\u0d9a\u0dc3\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0dd6 \u0d85\u0dad\u0dbb, \u0dc0\u0dc5\u0dda \u0db8\u0d82\u0dad\u0dd3\u0dbb\u0dd4\u0dc0\u0dda \u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dad\u0dad\u0dca\u0db4\u0dbb \u0db4\u0dc4\u0d9a \u0daf\u0dac\u0dd4\u0dc0\u0db8\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd4\u0db1\u0dca Zhou Guanyu \u0db4\u0dd2\u0da7\u0dd4\u0db4\u0dc3\u0dd2\u0db1\u0dca McLaren \u0dc3\u0db3\u0dc4\u0dcf 17 \u0dc0\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca\u0dad\u0dda\u0dba.",
+        "Valtteri Bottas Alfa Romeo \u0dc3\u0db3\u0dc4\u0dcf 19 \u0dc0\u0dd0\u0db1\u0dd2 \u0dbd\u0dd9\u0dc3 \u0dc0\u0dbb\u0dca\u0d9c \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3, \u0d94\u0dc4\u0dd4\u0d9c\u0dda \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf \u0dc0\u0dd6 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba \u0db4\u0dd2\u0da7\u0dad\u0da7 \u0d9c\u0dd9\u0db1 \u0d92\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda \u0db1\u0dad\u0dbb \u0dc0\u0dd2\u0dba.",
+        "\u0da9\u0dca\u200d\u0dbb\u0dba\u0dd2\u0dc0\u0dca \u0dc2\u0dcf\u0dc6\u0dca\u0da7\u0dca \u0d9c\u0dd0\u0da7\u0dc5\u0dd4\u0dc0\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0dba\u0dd4\u0d9a\u0dd3 \u0da7\u0dca\u0dc3\u0dd4\u0db1\u0ddd\u0da9\u0dcf 48 \u0dbd\u0dd0\u0db4\u0dca \u0d91\u0d9a\u0dda\u0daf\u0dd3 \u0db1\u0dad\u0dbb \u0dc0\u0dd2\u0dba, \u0d87\u0dbd\u0dca\u0dc6\u0dcf \u0da7\u0dc0\u0dd4\u0dbb\u0dd2 \u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4 \u0daf\u0dd2\u0d9c\u0dd4 \u0dc0\u0dc5\u0d9a\u0dca \u0db1\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db4\u0dd9\u0dbb \u0d94\u0dc4\u0dd4\u0d9c\u0dda \u0da7\u0dba\u0dbb\u0dca \u0dc0\u0dd0\u0dbb\u0daf\u0dd2 \u0dbd\u0dd9\u0dc3 \u0dc3\u0dc0\u0dd2 \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0d9a\u0dbd\u0dd2\u0db1\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dbd\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2",
+          "label": "NORP"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db8\u0dd0\u0d9a\u0dca\u0dc3\u0dca \u0dc0\u0dbb\u0dca\u0dc3\u0dca\u0da7\u0dd0\u0db4\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbd\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2 \u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db1\u0dca\u0da9\u0dca \u0db4\u0dca\u200d\u0dbb\u0dd3",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0db8\u0dbb\u0dca\u0dc3\u0dd2\u0da9\u0dd3\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "Zandvoort",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da2\u0ddd\u0dbb\u0dca\u0da2\u0dca \u0dbb\u0dc3\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da0\u0dcf\u0dbd\u0dca\u0dc3\u0dca \u0dbd\u0dd9\u0d9a\u0dca\u0dbd\u0dbb\u0dca\u0d9a\u0dca",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "48",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc4\u0dd0\u0db8\u0dd2\u0dbd\u0dca\u0da7\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbb\u0dc3\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "Lap 55 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0dc4\u0dd0\u0db8\u0dd2\u0dbd\u0dca\u0da7\u0db1\u0dca",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc4\u0dad",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dc3\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbd\u0dd9\u0d9a\u0dca\u0dbd\u0dbb\u0dca\u0d9a\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "61 \u0dc0\u0da7\u0dba",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0db8\u0dbb\u0dca\u0dc3\u0dd2\u0da9\u0dd3\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0dc3\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbd\u0dd9\u0d9a\u0dca\u0dbd\u0dbb\u0dca\u0d9a\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc4\u0dd0\u0db8\u0dd2\u0dbd\u0dca\u0da7\u0db1\u0dca",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc4\u0dd0\u0db8\u0dd2\u0dbd\u0dca\u0da7\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc4\u0dad\u0dbb\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Carlos Sainz",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0dbb\u0dca\u0da2\u0dd2\u0dba\u0ddd \u0db4\u0dd9\u0dbb\u0dd9\u0dc3\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc6\u0dd9\u0dbb\u0dcf\u0dbb\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dad\u0dad\u0dca\u0db4\u0dbb \u0db4\u0dc4\u0d9a\u0dca",
+            "label": "TIME"
+          },
+          {
+            "text": "P5",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0ddc\u0dbb\u0dd2\u0dc3\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dba\u0dd2\u0db1\u0dca\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0da7\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0dbb\u0dd9\u0dc3\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dc3\u0dca\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d87\u0dbd\u0ddc\u0db1\u0dca\u0dc3\u0ddd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc4\u0dba \u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db1\u0ddc\u0dbb\u0dd2\u0dc3\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc4\u0dad\u0dca\u0dc0\u0db1",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Esteban Ocon",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dc0\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dbd\u0dcf\u0db1\u0dca\u0dc3\u0dca \u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "10 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d87\u0dc3\u0dca\u0da7\u0db1\u0dca \u0db8\u0dcf\u0da7\u0dd2\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dd2\u0dba\u0dbb\u0dda \u0d9c\u0dd1\u0dc3\u0dca\u0dbd\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "P11",
+            "label": "EVENT"
+          },
+          {
+            "text": "AlphaTauri",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d87\u0dbd\u0dd9\u0d9a\u0dca\u0dc3\u0dca \u0d87\u0dbd\u0dca\u0db6\u0db1\u0dca",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd9\u0db6\u0dc3\u0dca\u0dad\u0dd2\u0dba\u0db1\u0dca \u0dc0\u0dd9\u0da7\u0dd9\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "19 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dc3\u0dc4 14 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0d9a\u0dca \u0dc2\u0dd6\u0db8\u0dcf\u0d9a\u0dbb\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc4\u0dad\u0dbb",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dad\u0dad\u0dca\u0db4\u0dbb \u0db4\u0dc4\u0d9a\u0dca",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd9\u0dc0\u0dd2\u0db1\u0dca \u0db8\u0dd0\u0d9c\u0dca\u0db1\u0dd4\u0dc3\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d8b\u0d9a\u0dd4\u0dbd 2",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "15 \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc4\u0dcf\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Daniel Ricciardo",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0d9a\u0dca\u0dbd\u0dbb\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Zhou Guanyu",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dad\u0dad\u0dca\u0db4\u0dbb \u0db4\u0dc4\u0d9a\u0dca",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "Valtteri Bottas",
+            "label": "ORG"
+          },
+          {
+            "text": "19 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d87\u0dbd\u0dca\u0dc6\u0dcf \u0dbb\u0ddd\u0db8\u0dd2\u0dba\u0ddd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba",
+            "label": "PRODUCT"
+          }
+        ],
+        [
+          {
+            "text": "Yuki Tsunoda",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc0\u0da7\u0dba 48",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "AlphaTauri",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bb5\u0bc6\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bbe\u0baa\u0bcd\u0baa\u0ba9\u0bcd \u0bb5\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0b95\u0bc1 \u0b9f\u0b9a\u0bcd\u0b9a\u0bc1 \u0b9c\u0bbf\u0baa\u0bbf\u0baf\u0bc8 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b9c\u0bbe\u0bb0\u0bcd\u0b9c\u0bcd \u0bb0\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd \u0bb2\u0bc6\u0b95\u0bcd\u0bb2\u0bc6\u0bb0\u0bcd\u0b95\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0bae\u0bc7\u0b9f\u0bc8\u0baf\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd, \u0bae\u0bc6\u0bb0\u0bcd\u0b9a\u0bbf\u0b9f\u0bbf\u0bb8\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9c\u0bbe\u0ba9\u0bcd\u0b9f\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbe\u0ba9 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb0\u0bcd \u0ba8\u0bbe\u0b9f\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bb2\u0bc1\u0bb5\u0bbe\u0ba9 \u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd, 2022 \u0b9f\u0b9a\u0bcd\u0b9a\u0bc1 \u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0bb8\u0bbf\u0bb2\u0bcd \u0bae\u0bc7\u0b95\u0bcd\u0bb8\u0bcd \u0bb5\u0bc6\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bbe\u0baa\u0bcd\u0baa\u0ba9\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc8\u0ba4\u0bcd \u0ba4\u0b95\u0bcd\u0b95 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd.",
+        "\u0bb2\u0bc7\u0baa\u0bcd 48 \u0b87\u0bb2\u0bcd \u0bb5\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc1\u0bb5\u0bb2\u0bcd \u0b9a\u0bc7\u0b83\u0baa\u0bcd\u0b9f\u0bbf \u0b95\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bbe\u0baa\u0bcd\u0baa\u0ba9\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0baa\u0bbf\u0b9f\u0bcd \u0bb8\u0bcd\u0b9f\u0bbe\u0baa\u0bcd \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bc1 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bcb\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bc1, \u0bb9\u0bbe\u0bae\u0bbf\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb0\u0b9a\u0bb2\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0bae\u0bcd, \u0ba8\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0 \u0b9f\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd (\u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0ba4\u0bc1 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bbe\u0b83\u0baa\u0bcd\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd) \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95 \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0b95\u0b9f\u0bbf\u0ba9\u0bae\u0bbe\u0ba9\u0ba4\u0bc1. , \u0b85\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd. \u0b8e\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bbe\u0baf\u0bbf\u0ba9\u0bc1\u0bae\u0bcd, \u0b92\u0bb0\u0bc1 \u0bb2\u0bc7\u0baa\u0bcd 55 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1\u0b95\u0bb3\u0bcd, \u0bb9\u0bbe\u0bae\u0bbf\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b8e\u0ba8\u0bcd\u0ba4 \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0ba4\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9.",
+        "\u0b8f\u0bb4\u0bc1 \u0bae\u0bc1\u0bb1\u0bc8 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bbe\u0ba9 \u0bae\u0bc0\u0b9f\u0bbf\u0baf\u0bae\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd, \u0b85\u0ba4\u0bc7 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bbe\u0baa\u0bcd\u0baa\u0ba9\u0bcd \u0b9a\u0bbe\u0b83\u0baa\u0bcd\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd, \u0b85\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb0\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb2\u0bc6\u0b95\u0bcd\u0bb2\u0bc6\u0bb0\u0bcd\u0b95\u0bcd, \u0bb2\u0bc7\u0baa\u0bcd 61 \u0b87\u0bb2\u0bcd \u0bae\u0bb1\u0bc1\u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0b85\u0ba8\u0bcd\u0ba4 \u0bae\u0bb1\u0bc1\u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd, \u0bb0\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb2\u0bc6\u0b95\u0bcd\u0bb2\u0bc6\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bc6\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bbe\u0baa\u0bcd\u0baa\u0ba9\u0bcd \u0bae\u0bc6\u0bb0\u0bcd\u0b9a\u0bbf\u0b9f\u0bb8\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0bb9\u0bbe\u0bae\u0bbf\u0bb2\u0bcd\u0b9f\u0ba9\u0bc8 \u0bae\u0bc7\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1.",
+        "\u0bb9\u0bbe\u0bae\u0bbf\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0bb2\u0bcb\u0bb8\u0bcd \u0b9a\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc6\u0bb0\u0bcd\u0b9c\u0bbf\u0baf\u0bcb \u0baa\u0bc6\u0bb0\u0bc6\u0bb8\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0b95\u0bca\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bbe\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd - \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b83\u0baa\u0bc6\u0bb0\u0bbe\u0bb0\u0bbf \u0baa\u0bbf\u0b9f\u0bcd \u0bb8\u0bcd\u0b9f\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1 \u0b92\u0bb0\u0bc1 \u0baa\u0bc7\u0bb0\u0bb4\u0bbf\u0bb5\u0bc1 \u0ba4\u0bb0\u0bc1\u0bae\u0bcd \u0b83\u0baa\u0bc6\u0bb0\u0bbe\u0bb0\u0bbf \u0baa\u0bbf\u0b9f\u0bcd \u0bb8\u0bcd\u0b9f\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd, \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1 \u0bb0\u0bbf\u0bb2\u0bc0\u0bb8\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0ba9\u0bbe\u0bb2\u0bcd\u0b9f\u0bbf - P5 \u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbe\u0b95\u0baa\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u0b85\u0ba4\u0bc1 \u0b85\u0bb2\u0bcb\u0ba9\u0bcd\u0b9a\u0bcb \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bcb\u0bb0\u0bbf\u0bb8\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b9a\u0bc8\u0ba9\u0bcd\u0bb8\u0bbf\u0bb2\u0bcd \u0b89\u0ba4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bc6\u0ba9\u0bbe\u0bb2\u0bcd\u0b9f\u0bbf \u0b8e\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bc8\u0bb5\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0baa\u0bc6\u0bb0\u0bc6\u0bb8\u0bc8 \u0b90\u0ba8\u0bcd\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd, \u0b85\u0bb2\u0bcb\u0ba9\u0bcd\u0b9a\u0bcb \u0b86\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd, \u0ba8\u0bcb\u0bb0\u0bbf\u0bb8\u0bc8 \u0b8f\u0bb4\u0bbe\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\u0b86\u0bb8\u0bcd\u0b9f\u0ba9\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 10\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0bb2\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd \u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bb1\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba4\u0bbe\u0b95 \u0b8e\u0bb8\u0bcd\u0b9f\u0bc6\u0baa\u0ba9\u0bcd \u0b93\u0b95\u0bbe\u0ba9\u0bcd \u0b92\u0ba9\u0bcd\u0baa\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. AlphaTauri\u0b95\u0bcd\u0b95\u0bbe\u0ba9 P11 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bc8 Pierre Gasly \u0ba4\u0bb5\u0bb1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd, \u0b85\u0ba4\u0bc7 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd Alex Albon 15\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 12\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b9a\u0bc6\u0baa\u0bbe\u0bb8\u0bcd\u0b9f\u0bbf\u0baf\u0ba9\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd 19\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 14\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd, \u0bae\u0bbf\u0b95\u0bcd \u0bb7\u0bc2\u0bae\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf\u0b9f\u0bae\u0bcd \u0ba4\u0bcb\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd - \u0b92\u0bb0\u0bc1 \u0b9c\u0bcb\u0b9f\u0bbf \u0bae\u0bc6\u0ba4\u0bc1\u0bb5\u0bbe\u0b95 \u0baa\u0bbf\u0b9f\u0bcd \u0bb8\u0bcd\u0b9f\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0ba4\u0bcb\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd. \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0bb1\u0bc8 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bbe\u0ba9\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba4\u0bbe\u0b95 \u0baa\u0ba8\u0bcd\u0ba4\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bc0\u0bb2\u0b95\u0bcd \u0b95\u0bca\u0b9f\u0bbf\u0b95\u0bb3\u0bc8 \u0baa\u0bc1\u0bb1\u0b95\u0bcd\u0b95\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0baa\u0bb0\u0bbe\u0ba4\u0bae\u0bcd \u0bb5\u0bbf\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b95\u0bc6\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc7\u0b95\u0bcd\u0ba9\u0bc1\u0b9a\u0bc6\u0ba9\u0bcd \u0bb2\u0bc7\u0baa\u0bcd 2 \u0b87\u0bb2\u0bcd \u0ba4\u0b9f\u0bc8\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd, \u0b86\u0ba9\u0bbe\u0bb2\u0bcd \u0b85\u0bb5\u0bb0\u0ba4\u0bc1 \u0bb9\u0bbe\u0bb8\u0bcd \u0b85\u0ba3\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bc1\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bbe\u0bb2\u0bcd 15 \u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. Daniel Ricciardo \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7 \u0b95\u0bb3\u0bae\u0bbf\u0bb1\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0bae\u0bc6\u0b95\u0bcd\u0bb2\u0bbe\u0bb0\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 17 \u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd, Zhou Guanyu \u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bbe\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd, \u0b85\u0bb5\u0bb0\u0bcd \u0baa\u0bbf\u0b9f\u0bcd \u0bb2\u0bc7\u0ba9\u0bbf\u0bb2\u0bcd \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b90\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf \u0baa\u0bc6\u0ba9\u0bbe\u0bb2\u0bcd\u0b9f\u0bbf\u0baf\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\u0bb5\u0bbe\u0bb2\u0bcd\u0b9f\u0bc7\u0bb0\u0bbf \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb8\u0bcd, \u0b86\u0bb2\u0bcd\u0b83\u0baa\u0bbe \u0bb0\u0bcb\u0bae\u0bbf\u0baf\u0bcb\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0b95 19\u0bb5\u0ba4\u0bc1 \u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd, \u0b85\u0bb5\u0bb0\u0ba4\u0bc1 \u0b95\u0bbe\u0bb0\u0bcd \u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbe\u0ba9 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb0\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0 \u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b9f\u0bbf\u0bb0\u0bc8\u0bb5\u0bcd\u0bb7\u0bbe\u0b83\u0baa\u0bcd\u0b9f\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0b95\u0bbe\u0bb0\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4 \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd, \u0baf\u0bc1\u0b95\u0bbf \u0b9a\u0bc1\u0ba9\u0bcb\u0b9f\u0bbe \u0bb2\u0bc7\u0baa\u0bcd 48 \u0b87\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd, \u0ba8\u0bc0\u0ba3\u0bcd\u0b9f \u0baa\u0bbf\u0b9f\u0bcd \u0bb8\u0bcd\u0b9f\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd \u0b85\u0bb5\u0bb0\u0ba4\u0bc1 \u0b9f\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bb5\u0bb1\u0bbe\u0b95\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95 \u0b86\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bbe\u0bb0\u0bbf \u0b9f\u0bbf\u0bb0\u0bc8\u0bb5\u0bb0\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b9f\u0b9a\u0bcd\u0b9a\u0bc1",
+          "label": "NORP"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0bae\u0bc7\u0b95\u0bcd\u0bb8\u0bcd \u0bb5\u0bc6\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bbe\u0baa\u0bcd\u0baa\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9f\u0b9a\u0bcd\u0b9a\u0bc1 \u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0bb8\u0bcd",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0bae\u0bc6\u0bb0\u0bcd\u0b9a\u0bbf\u0b9f\u0bbf\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb0\u0bcd",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0b9c\u0bbe\u0ba9\u0bcd\u0b9f\u0bcd\u0bb5\u0bc2\u0bb0\u0bcd\u0b9f\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9c\u0bbe\u0bb0\u0bcd\u0b9c\u0bcd \u0bb0\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd \u0bb2\u0bc6\u0b95\u0bcd\u0bb2\u0bc6\u0bb0\u0bcd\u0b95\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "48",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb9\u0bbe\u0bae\u0bbf\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb0\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bb2\u0bc7\u0baa\u0bcd 55 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb0\u0bcd",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0bb9\u0bbe\u0bae\u0bbf\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8f\u0bb4\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb0\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb2\u0bc6\u0b95\u0bcd\u0bb2\u0bc6\u0bb0\u0bcd\u0b95\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0b9f\u0bbf 61",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0bae\u0bc6\u0bb0\u0bcd\u0b9a\u0bbf\u0b9f\u0bbf\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb2\u0bc6\u0b95\u0bcd\u0bb2\u0bc6\u0bb0\u0bcd\u0b95\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb9\u0bbe\u0bae\u0bbf\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb9\u0bbe\u0bae\u0bbf\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb0\u0bcd\u0bb2\u0bcb\u0bb8\u0bcd \u0b9a\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0bb0\u0bcd\u0b9c\u0bbf\u0baf\u0bcb \u0baa\u0bc6\u0bb0\u0bc6\u0bb8\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bc6\u0bb0\u0bbe\u0bb0\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf",
+            "label": "TIME"
+          },
+          {
+            "text": "P5",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bcb\u0bb0\u0bbf\u0bb8\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bc6\u0bb0\u0bc6\u0bb8\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b85\u0bb2\u0bcb\u0ba9\u0bcd\u0b9a\u0bcb",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b86\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0ba8\u0bcb\u0bb0\u0bbf\u0bb8\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8f\u0bb4\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0b9f\u0bc6\u0baa\u0ba9\u0bcd \u0b93\u0b95\u0bbe\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0baa\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0bb2\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd \u0b89\u0bb2\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "10\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b86\u0bb8\u0bcd\u0b9f\u0ba9\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0baf\u0bb0\u0bcd \u0b95\u0bc7\u0bb8\u0bcd\u0bb2\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbf11",
+            "label": "EVENT"
+          },
+          {
+            "text": "AlphaTauri",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0bb2\u0bc6\u0b95\u0bcd\u0bb8\u0bcd \u0b85\u0bb2\u0bcd\u0baa\u0ba9\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc6\u0baa\u0bbe\u0bb8\u0bcd\u0b9f\u0bbf\u0baf\u0ba9\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "19\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd, 14\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bbf\u0b95\u0bcd \u0bb7\u0bc2\u0bae\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc6\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bcd\u0ba9\u0bc1\u0b9a\u0bc6\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0b9f\u0bbf 2",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "15 \u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0bae\u0bc1\u0b9f\u0bbf\u0b95\u0bcd\u0b95",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb9\u0bbe\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9f\u0bc7\u0ba9\u0bbf\u0baf\u0bb2\u0bcd \u0bb0\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb0\u0bcd\u0b9f\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc6\u0b95\u0bcd\u0bb2\u0bbe\u0bb0\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "Zhou Guanyu",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bbe\u0bb2\u0bcd\u0b9f\u0bc7\u0bb0\u0bbf \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "19\u0bb5\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b86\u0bb2\u0bcd\u0b83\u0baa\u0bbe \u0bb0\u0bcb\u0bae\u0bbf\u0baf\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb0\u0bcd",
+            "label": "PRODUCT"
+          }
+        ],
+        [
+          {
+            "text": "Yuki Tsunoda",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0b9f\u0bbf 48",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "AlphaTauri",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}

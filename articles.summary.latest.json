@@ -1,5 +1,93 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84759/met-department-issues-red-alert-for-heavy-rains",
+    "time_ut": 1662357060,
+    "original_lang": "en",
+    "original_title": "Met. Department issues red alert for heavy rains",
+    "file_name": "/tmp/news_lk2/articles/c6/c6bffc6d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84758/dates-for-al-and-scholarship-exams-announced",
+    "time_ut": 1662357000,
+    "original_lang": "en",
+    "original_title": "Dates for A/L and Scholarship exams announced",
+    "file_name": "/tmp/news_lk2/articles/0f/0f99ce40.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/05/9-000-narcotic-pills-seized/",
+    "time_ut": 1662356640,
+    "original_lang": "en",
+    "original_title": "9,000 Narcotic Pills seized",
+    "file_name": "/tmp/news_lk2/articles/a5/a5f6e445.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84757/jagath-pushpakumara-re-elected-chairman-to-committee-on-public-petitions",
+    "time_ut": 1662355800,
+    "original_lang": "en",
+    "original_title": "Jagath Pushpakumara re-elected Chairman to Committee on Public Petitions",
+    "file_name": "/tmp/news_lk2/articles/ed/edbb4806.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84756/cbk-attends-opening-of-new-lanka-freedom-partys-head-office-",
+    "time_ut": 1662355740,
+    "original_lang": "en",
+    "original_title": "CBK attends opening of New Lanka Freedom Party\u2019s head office",
+    "file_name": "/tmp/news_lk2/articles/10/10cd39e6.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db1\u0dd0\u0dc0\u0dda-\u0dc4\u0db6\u0dba\u0dda-\u0daf\u0dd3-\u2019\u2019\u0dba\u0dcf\u0dbd\u0dd4\u0d9a\u0db8\u2019\u2019-\u0dbb\u0d9a\u0dd2\u0db1-\u0dc0\u0d9c\u0d9a\u0dd3\u0db8-\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0da7/1-619311",
+    "time_ut": 1662355692,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db1\u0dd0\u0dc0\u0dda \u0dc4\u0db6\u0dba\u0dda \u0daf\u0dd3 \u2019\u2019\u0dba\u0dcf\u0dbd\u0dd4\u0d9a\u0db8\u2019\u2019 \u0dbb\u0d9a\u0dd2\u0db1 \u0dc0\u0d9c\u0d9a\u0dd3\u0db8 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/27/27cf1dfe.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/05/bagnaia-wins-san-marino-motogp-for-fourth-straight-victory/",
+    "time_ut": 1662355680,
+    "original_lang": "en",
+    "original_title": "Bagnaia wins San Marino MotoGP for fourth straight victory",
+    "file_name": "/tmp/news_lk2/articles/3d/3d2e5a9c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84755/person-falls-to-his-death-from-building-in-wellawatte",
+    "time_ut": 1662355560,
+    "original_lang": "en",
+    "original_title": "Person falls to his death from building in Wellawatte",
+    "file_name": "/tmp/news_lk2/articles/16/1677e160.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0daf\u0dad\u0dca-\u0dad\u0daf-\u0dc0\u0dd0\u0dc3\u0dd2/1-619310",
+    "time_ut": 1662355550,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0daf\u0dad\u0dca \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/aa/aa8082f1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84754/mobile-fixed-broadband-and-pay-tv-tariffs-hiked-from-today",
+    "time_ut": 1662355440,
+    "original_lang": "en",
+    "original_title": "Mobile, fixed, broadband and pay-TV tariffs hiked from today",
+    "file_name": "/tmp/news_lk2/articles/22/22d66777.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/05/verstappen-wins-dramatic-dutch-gp/",
+    "time_ut": 1662355380,
+    "original_lang": "en",
+    "original_title": "Verstappen wins dramatic Dutch GP",
+    "file_name": "/tmp/news_lk2/articles/36/36027a25.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/05/daily-exchange-rate-from-cbsl/",
     "time_ut": 1662354840,
@@ -57,11 +145,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba\u0da7-\u0d85\u0daf-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca/101-619297",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba\u0da7-\u0d85\u0daf-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca/1-619297",
     "time_ut": 1662353188,
     "original_lang": "si",
     "original_title": "\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba\u0da7 \u0d85\u0daf \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/1a/1a67ca68.json"
+    "file_name": "/tmp/news_lk2/articles/aa/aa7b8b49.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7910,93 +7998,5 @@
     "original_lang": "en",
     "original_title": "Govt. to present interim budget today",
     "file_name": "/tmp/news_lk2/articles/dd/ddf8ffdb.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79270",
-    "time_ut": 1661799420,
-    "original_lang": "en",
-    "original_title": "President Wickremesinghe rolls out sweeping reforms and relief via   mini-Budget to appease crisis-hit vulnerable groups;\u201cI am well aware of the difficulties faced by many due to the ongoing crisis.That\u2019s why I decided to cut some of the capital expenditure and find room to provide enhanced support for vulnerable communities,\u201d Ranil Tells Parliament.",
-    "file_name": "/tmp/news_lk2/articles/6f/6f96fcab.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79259",
-    "time_ut": 1661798880,
-    "original_lang": "en",
-    "original_title": "President cum Finance Minister Ranil Wickremesinghe Presents  Sri Lanka\u2019s interim budget which is intended to lay the foundation for a progressive economy even as it provides a buffer to the poor who are bearing the brunt of the current unprecedented economic crisis.",
-    "file_name": "/tmp/news_lk2/articles/f1/f1790b1a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Need-to-reform-PTA-ahead-of-UNHRC-session/172-243970",
-    "time_ut": 1661795818,
-    "original_lang": "en",
-    "original_title": "Need to reform PTA ahead of UNHRC session",
-    "file_name": "/tmp/news_lk2/articles/c7/c7d27bd2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Can-Lankans-make-politicians-pay-the-cost-of-economic-ruin/172-243969",
-    "time_ut": 1661795539,
-    "original_lang": "en",
-    "original_title": "Can Lankans make politicians pay the cost of economic ruin?",
-    "file_name": "/tmp/news_lk2/articles/68/6854c2cc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Children-the-most-vulnerable-group-today/172-243967",
-    "time_ut": 1661795316,
-    "original_lang": "en",
-    "original_title": "Children, the most vulnerable group today",
-    "file_name": "/tmp/news_lk2/articles/25/25df5e2e.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/entertainment-sceneopening-up/",
-    "time_ut": 1661792820,
-    "original_lang": "en",
-    "original_title": "Entertainment scene\u2026opening up",
-    "file_name": "/tmp/news_lk2/articles/47/47655987.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/dj-shawnn-padding-up/",
-    "time_ut": 1661792820,
-    "original_lang": "en",
-    "original_title": "DJ Shawnn padding up!",
-    "file_name": "/tmp/news_lk2/articles/d0/d0017cab.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/three-governmental-actions-to-be-prioritised/",
-    "time_ut": 1661792520,
-    "original_lang": "en",
-    "original_title": "Three governmental actions to be prioritised",
-    "file_name": "/tmp/news_lk2/articles/f8/f8f2ec02.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/free-education-is-the-canary-in-the-coalmine/",
-    "time_ut": 1661792400,
-    "original_lang": "en",
-    "original_title": "Free education is the canary in the coalmine",
-    "file_name": "/tmp/news_lk2/articles/09/09927bf3.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/corruption-irrationality-hilarity-and-pity/",
-    "time_ut": 1661792100,
-    "original_lang": "en",
-    "original_title": "Corruption, irrationality, hilarity and pity",
-    "file_name": "/tmp/news_lk2/articles/8b/8b90fb2a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-power-energy-minister-defends-necessary-electricity-tariff-hike-99142/",
-    "time_ut": 1661766900,
-    "original_lang": "en",
-    "original_title": "Sri Lanka power & energy minister defends \u201cnecessary\u201d electricity tariff hike",
-    "file_name": "/tmp/news_lk2/articles/24/2445bf03.json"
   }
 ]

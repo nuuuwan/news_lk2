@@ -1,0 +1,1326 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/09/05/bagnaia-wins-san-marino-motogp-for-fourth-straight-victory/",
+  "time_ut": 1662355680,
+  "original_lang": "en",
+  "original_title": "Bagnaia wins San Marino MotoGP for fourth straight victory",
+  "text_idx": {
+    "en": {
+      "title": "Bagnaia wins San Marino MotoGP for fourth straight victory",
+      "author": "unknown",
+      "body_lines": [
+        "In a thrilling 27-lap encounter at the Misano World Circuit Marco Simoncelli, Francesco Bagnaia (Lenovo Ducati) ignited his title chase with a minuscule 0.034-second victory over his 2023 factory Ducati teammate, Enea Bastianini (Gresini Ducati) as the two Italians asserted their dominance on home turf.",
+        "Bagnaia was bulletproof in Ducati\u2019s backyard as he took the lead from Bastianini on the third lap after polesitter and initial race leader, Jack Miller, crashed out of P1 on lap two. From there to the finish, Bagnaia was constantly hounded by the chasing pack, first from Aprilia\u2019s Maverick Vinales and finally by Bastianini, whose infamous late race pace was on full display as the two Italians left Vinales in their wake.",
+        "On the final lap, Bastianini made a lunge at turn four and very nearly clattered into the back of Bagnaia, running wide and giving what looked like a race-winning advantage to his future teammate. Yet \u201cThe Beast\u201d refused to give in and despite the mistake, produced the fastest lap of the race as he hunted Bagnaia down, coming up 0.034-seconds short in the closest MotoGP race finish for many years.",
+        "Bagnaia wrote two new records for himself at Misano. The win, his fourth in a row, is the first time an Italian has done so since Valentino Rossi in 2008 and the first time any Ducati rider has done so in the manufacturer\u2019s history, placing him ahead of Ducati\u2019s only World Champion, Casey Stoner.",
+        "Vinales eventually resigned himself to third place, his third podium in four races for the factory Aprilia team, as he headed Luca Marini (Mooney VR46 Ducati) in the Italian\u2019s best ride of the season.",
+        "Fifth was a despondent Fabio Quartararo (Monster Energy Yamaha) as the Frenchman lost another 14 points to the relentless Bagnaia in the title chase. Qualifying down in eighth, the World Champion eventually clawed his way up past Aleix Espargaro (Aprilia Racing) but couldn\u2019t close down Marini, admitting he was \u201con the limit\u201d for the entirety of the race.",
+        "Espargaro was sixth, losing more ground to Quartararo and Bagnaia in the title chase, ahead of Suzuki\u2019s Alex Rins.",
+        "Red Bull KTM\u2019s Brad Binder was eighth but was involved in a nasty first corner collision in which he tagged Prima Pramac Ducati\u2019s Johann Zarco, sending him crashing into Pol Espargaro (Repsol Honda) and Ducati wildcard, Michele Pirro, taking all three out of the race.",
+        "Ninth was Zarco\u2019s teammate Jorge Martin from Alex Marquez (LCR Castrol Honda) from Miguel Oliveira (Red Bull KTM) and Andrea Dovizioso, who signed off his MotoGP career with 12th place on the WithU RNF Yamaha.",
+        "Rounding out the points-scoring top 15 was Raul Fernandez (Tech3 KTM) in one of his best rides of the year, wildcard Stefan Bradl (Repsol Honda) and Takaaki Nakagami (LCR Idemitsu Honda).",
+        "The title race is now well and truly on as the series heads to one of Ducati\u2019s happy hunting grounds of Aragon in Spain with Bagnaia now leapfrogging Espargaro up to second place, 30 points behind Quartararo, 211 to 181. Espargaro\u2019s third on 178 with Bastianini fourth on 138."
+      ],
+      "title_ents": [
+        {
+          "text": "San Marino",
+          "label": "GPE"
+        },
+        {
+          "text": "fourth",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Misano World Circuit",
+            "label": "FAC"
+          },
+          {
+            "text": "Marco Simoncelli",
+            "label": "PERSON"
+          },
+          {
+            "text": "Francesco Bagnaia",
+            "label": "PERSON"
+          },
+          {
+            "text": "0.034-second",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2023",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Ducati",
+            "label": "GPE"
+          },
+          {
+            "text": "Enea Bastianini",
+            "label": "PERSON"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Italians",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "Ducati",
+            "label": "GPE"
+          },
+          {
+            "text": "Bastianini",
+            "label": "PERSON"
+          },
+          {
+            "text": "third",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Jack Miller",
+            "label": "PERSON"
+          },
+          {
+            "text": "P1",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Aprilia",
+            "label": "ORG"
+          },
+          {
+            "text": "Maverick Vinales",
+            "label": "GPE"
+          },
+          {
+            "text": "Bastianini",
+            "label": "PERSON"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Italians",
+            "label": "NORP"
+          },
+          {
+            "text": "Vinales",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Bastianini",
+            "label": "PERSON"
+          },
+          {
+            "text": "four",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "The Beast",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "0.034-seconds",
+            "label": "TIME"
+          },
+          {
+            "text": "many years",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Misano",
+            "label": "PERSON"
+          },
+          {
+            "text": "fourth",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Italian",
+            "label": "NORP"
+          },
+          {
+            "text": "Valentino Rossi",
+            "label": "PERSON"
+          },
+          {
+            "text": "2008",
+            "label": "DATE"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Ducati",
+            "label": "GPE"
+          },
+          {
+            "text": "Ducati\u2019s",
+            "label": "ORG"
+          },
+          {
+            "text": "Casey Stoner",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "third",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "third",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "four",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Aprilia",
+            "label": "ORG"
+          },
+          {
+            "text": "Luca Marini",
+            "label": "PERSON"
+          },
+          {
+            "text": "Mooney VR46 Ducati",
+            "label": "ORG"
+          },
+          {
+            "text": "Italian",
+            "label": "NORP"
+          },
+          {
+            "text": "the season",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Fifth",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Fabio Quartararo",
+            "label": "PERSON"
+          },
+          {
+            "text": "Frenchman",
+            "label": "NORP"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "eighth",
+            "label": "DATE"
+          },
+          {
+            "text": "World Champion",
+            "label": "ORG"
+          },
+          {
+            "text": "Aleix Espargaro",
+            "label": "PERSON"
+          },
+          {
+            "text": "Aprilia Racing",
+            "label": "PERSON"
+          },
+          {
+            "text": "Marini",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "Espargaro",
+            "label": "PERSON"
+          },
+          {
+            "text": "sixth",
+            "label": "DATE"
+          },
+          {
+            "text": "Suzuki\u2019s Alex Rins",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Red Bull KTM\u2019s",
+            "label": "PERSON"
+          },
+          {
+            "text": "Brad Binder",
+            "label": "PERSON"
+          },
+          {
+            "text": "eighth",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Prima Pramac Ducati\u2019s Johann Zarco",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Pol Espargaro",
+            "label": "PERSON"
+          },
+          {
+            "text": "Ducati",
+            "label": "GPE"
+          },
+          {
+            "text": "Michele Pirro",
+            "label": "PERSON"
+          },
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Zarco",
+            "label": "ORG"
+          },
+          {
+            "text": "Jorge Martin",
+            "label": "PERSON"
+          },
+          {
+            "text": "Alex Marquez",
+            "label": "PERSON"
+          },
+          {
+            "text": "Miguel Oliveira",
+            "label": "PERSON"
+          },
+          {
+            "text": "Andrea Dovizioso",
+            "label": "PERSON"
+          },
+          {
+            "text": "12th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "WithU",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Raul Fernandez",
+            "label": "PERSON"
+          },
+          {
+            "text": "Tech3 KTM",
+            "label": "PERSON"
+          },
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the year",
+            "label": "DATE"
+          },
+          {
+            "text": "Stefan Bradl",
+            "label": "PERSON"
+          },
+          {
+            "text": "Takaaki Nakagami",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Ducati",
+            "label": "GPE"
+          },
+          {
+            "text": "Aragon",
+            "label": "ORG"
+          },
+          {
+            "text": "Spain",
+            "label": "GPE"
+          },
+          {
+            "text": "Bagnaia",
+            "label": "PERSON"
+          },
+          {
+            "text": "Espargaro",
+            "label": "PERSON"
+          },
+          {
+            "text": "second",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Quartararo",
+            "label": "ORG"
+          },
+          {
+            "text": "211",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "181",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Espargaro",
+            "label": "PERSON"
+          },
+          {
+            "text": "third",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "178",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Bastianini",
+            "label": "PERSON"
+          },
+          {
+            "text": "fourth",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "138",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "Bagnaia \u0dc3\u0dd2\u0dc0\u0dca\u0dc0\u0db1 \u0d85\u0d9b\u0dab\u0dca\u0da9 \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba \u0dc3\u0db3\u0dc4\u0dcf San Marino MotoGP \u0daf\u0dd2\u0db1\u0dcf \u0d9c\u0db1\u0dd3",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "Misano World Circuit Marco Simoncelli \u0dc4\u0dd2 \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0dc0\u0da7 27 \u0d9a \u0d8b\u0daf\u0dca\u0dc0\u0dda\u0d9c\u0d9a\u0dbb \u0dad\u0dbb\u0d9c\u0dba\u0d9a\u0daf\u0dd3, Francesco Bagnaia (Lenovo Ducati) \u0d94\u0dc4\u0dd4\u0d9c\u0dda 2023 \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dc1\u0dcf\u0dbd\u0dcf\u0dc0\u0dda Ducati \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dda \u0dc3\u0d9c\u0dba\u0dcf \u0dc0\u0db1 Enea Bastianini (Gressiani) \u0dbd\u0dd9\u0dc3 2023 \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad \u0dc1\u0dcf\u0dbd\u0dcf\u0dc0\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dad\u0dad\u0dca\u0db4\u0dbb 0.034\u0d9a \u0dc3\u0dd4\u0dc5\u0dd4 \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0db1\u0dd2\u0db8\u0dd2\u0db1\u0dca \u0d94\u0dc4\u0dd4\u0d9c\u0dda \u0dc1\u0dd6\u0dbb\u0dad\u0dcf \u0dc4\u0db9\u0dcf\u0dba\u0dcf\u0db8 \u0d85\u0dc0\u0dd4\u0dbd\u0dd4\u0dc0\u0dcf \u0d9c\u0dad\u0dca\u0dad\u0dda\u0dba. \u0dad\u0dab\u0dad\u0dd2\u0dbd\u0dca\u0dbd\u0dda \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0d86\u0db0\u0dd2\u0db4\u0dad\u0dca\u200d\u0dba\u0dba.",
+        "\u0db6\u0d9c\u0dca\u0db1\u0dcf\u0dba\u0dcf \u0da9\u0dd4\u0d9a\u0dcf\u0da7\u0dd2\u0d9c\u0dda \u0d9c\u0dd9\u0dc0\u0dad\u0dca\u0dad\u0dda \u0dc0\u0dd9\u0da9\u0dd2 \u0db1\u0ddc\u0dc0\u0daf\u0dd2\u0db1 \u0dbd\u0dd9\u0dc3 \u0d94\u0dc4\u0dd4 \u0dad\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0da7\u0dba\u0dda \u0db6\u0dd0\u0dc3\u0dca\u0da7\u0dd2\u0dba\u0dcf\u0db1\u0dd2\u0db1\u0dd2 \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab \u0d9c\u0dad\u0dca \u0d85\u0dad\u0dbb, \u0db4\u0ddc\u0dbd\u0dd9\u0dc3\u0dd2\u0da7\u0dbb\u0dca \u0dc3\u0dc4 \u0d86\u0dbb\u0db8\u0dca\u0db7\u0d9a \u0db0\u0dcf\u0dc0\u0db1 \u0db1\u0dcf\u0dba\u0d9a \u0da2\u0dd0\u0d9a\u0dca \u0db8\u0dd2\u0dbd\u0dbb\u0dca \u0daf\u0dd9\u0dc0\u0db1 \u0dc0\u0da7\u0dba\u0dda \u0db4\u0dd3 1 \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0db6\u0dd2\u0db3 \u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0dc0\u0dba. \u0d91\u0dad\u0dd0\u0db1\u0dca \u0dc3\u0dd2\u0da7 \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dcf, Bagnaia \u0dc4\u0db9\u0dcf \u0dba\u0dcf\u0db8\u0dda \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db1\u0dd2\u0dbb\u0db1\u0dca\u0dad\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0dc4\u0ddc\u0dbd\u0dca\u0db8\u0db1\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3, \u0db4\u0dc5\u0db8\u0dd4\u0dc0 Aprilia's Maverick Vinales \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0dc3\u0dc4 \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0dda Bastianini \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca, \u0d89\u0dad\u0dcf\u0dbd\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf Vinales \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0 \u0dba\u0db1 \u0dc0\u0dd2\u0da7 \u0d94\u0dc4\u0dd4\u0d9c\u0dda \u0d9a\u0dd4\u0db4\u0dca\u200d\u0dbb\u0d9a\u0da7 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf \u0db0\u0dcf\u0dc0\u0db1 \u0dc0\u0dda\u0d9c\u0dba \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab\u0dba\u0dd9\u0db1\u0dca\u0db8 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dbb\u0dca\u0dc1\u0db1\u0dba \u0dc0\u0dd2\u0dba.",
+        "\u0d85\u0dc0\u0dc3\u0dcf\u0db1 \u0dc0\u0da7\u0dba\u0dda\u0daf\u0dd3, \u0db6\u0dc3\u0dca\u0dad\u0dd2\u0dba\u0dcf\u0db1\u0dd2\u0db1\u0dd2 \u0dc4\u0dad\u0dbb\u0dc0\u0db1 \u0dc0\u0dcf\u0dbb\u0dba\u0dda \u0daf\u0dd3 \u0db4\u0dd9\u0db1\u0dc4\u0dc5\u0dd4 \u0d9c\u0dc3\u0db8\u0dd2\u0db1\u0dca \u0db6\u0d9c\u0dca\u0db1\u0dd2\u0dba\u0dcf\u0d9c\u0dda \u0db4\u0dd2\u0da7\u0dd4\u0db4\u0dc3\u0da7 \u0db6\u0ddc\u0dc4\u0ddd \u0dc3\u0dd9\u0dba\u0dd2\u0db1\u0dca \u0d9d\u0ddd\u0dc2\u0dcf \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca, \u0db4\u0dc5\u0dbd\u0dd2\u0db1\u0dca \u0daf\u0dd2\u0dc0 \u0d9c\u0ddc\u0dc3\u0dca \u0dad\u0db8 \u0d85\u0db1\u0dcf\u0d9c\u0dad \u0dc3\u0d9c\u0dba\u0dcf\u0da7 \u0dad\u0dbb\u0d9f \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0dd3 \u0dc0\u0dcf\u0dc3\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0dda \u0db4\u0dd9\u0db1\u0dd9\u0db1 \u0daf\u0dd9\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dda\u0dba. \u0d91\u0dc4\u0dd9\u0dad\u0dca, \"The Beast\" \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4 \u0d9a\u0dc5 \u0d85\u0dad\u0dbb, \u0dc0\u0dd0\u0dbb\u0dd0\u0daf\u0dca\u0daf \u0db1\u0ddc\u0dad\u0d9a\u0dcf, \u0d94\u0dc4\u0dd4 Bagnaia \u0daf\u0da9\u0dba\u0db8\u0dca \u0d9a\u0dbb\u0db1 \u0dc0\u0dd2\u0da7, \u0dad\u0dbb\u0d9f\u0dba\u0dda \u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca\u0db8 \u0dc0\u0da7\u0dba \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dc5\u0dda\u0dba, \u0dc0\u0dc3\u0dbb \u0d9c\u0dab\u0db1\u0dcf\u0dc0\u0d9a\u0dca \u0dad\u0dd2\u0dc3\u0dca\u0dc3\u0dda \u0dc3\u0db8\u0dd3\u0db4\u0dad\u0db8 MotoGP \u0db0\u0dcf\u0dc0\u0db1 \u0dad\u0dbb\u0d9f\u0dba\u0dda \u0dad\u0dad\u0dca\u0db4\u0dbb 0.034 \u0d9a\u0dd9\u0da7\u0dd2 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dda.",
+        "\u0db6\u0d9c\u0dca\u0db1\u0dd2\u0dba\u0dcf \u0db8\u0dd2\u0dc3\u0dcf\u0db1\u0ddd\u0dc4\u0dd2\u0daf\u0dd3 \u0dad\u0db8\u0dcf \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dc0 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dbd\u0dd2\u0dc0\u0dd3\u0dba. \u0d94\u0dc4\u0dd4\u0d9c\u0dda \u0db4\u0dd2\u0da7 \u0db4\u0dd2\u0da7 \u0dc3\u0dd2\u0dc0\u0dd4\u0dc0\u0dd0\u0db1\u0dd2 \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba, 2008 Valentino Rossi \u0da7 \u0db4\u0dc3\u0dd4 \u0d89\u0dad\u0dcf\u0dbd\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0d9a\u0dd4 \u0d91\u0dc3\u0dda \u0d9a\u0dc5 \u0db4\u0dc5\u0db8\u0dd4 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0dc0\u0db1 \u0d85\u0dad\u0dbb, Ducati \u0dc4\u0dd2 \u0d91\u0d9a\u0db8 \u0dbd\u0ddd\u0d9a \u0dc1\u0dd6\u0dbb\u0dba\u0dcf \u0dc0\u0db1 Casey Stoneer \u0da7 \u0dc0\u0da9\u0dcf \u0d94\u0dc4\u0dd4 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dad\u0db6\u0db8\u0dd2\u0db1\u0dca \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0d9a \u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0dda \u0d95\u0db1\u0dd1\u0db8 Ducati \u0db0\u0dcf\u0dc0\u0d9a\u0dba\u0dd9\u0d9a\u0dd4 \u0d91\u0dc3\u0dda \u0d9a\u0dc5 \u0db4\u0dc5\u0db8\u0dd4 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0dc0\u0dda.",
+        "Vinales \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0dda \u0dad\u0dd4\u0db1\u0dca\u0dc0\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd2\u0dba, \u0d94\u0dc4\u0dd4 \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dc1\u0dcf\u0dbd\u0dcf \u0d85\u0db4\u0dca\u200d\u0dbb\u0dd2\u0dbd\u0dd2\u0dba\u0dcf \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dad\u0dbb\u0d9f \u0dc4\u0dad\u0dbb\u0d9a\u0daf\u0dd3 \u0d94\u0dc4\u0dd4\u0d9c\u0dda \u0dad\u0dd4\u0db1\u0dca\u0dc0\u0db1 \u0dc0\u0dda\u0daf\u0dd2\u0d9a\u0dcf\u0dc0, \u0d94\u0dc4\u0dd4 \u0db8\u0dd9\u0db8 \u0dc0\u0dcf\u0dbb\u0dba\u0dda \u0d89\u0dad\u0dcf\u0dbd\u0dd2\u0dba\u0dda \u0dc4\u0ddc\u0db3\u0db8 \u0dc3\u0dc0\u0dcf\u0dbb\u0dd2\u0dba\u0dda\u0daf\u0dd3 Luca Marini (Mooney VR46 Ducati) \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dd0\u0dbb\u0dd3\u0dba.",
+        "\u0db4\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dd2\u0dba\u0dcf \u0dc0\u0dd6\u0dba\u0dda \u0db6\u0dbd\u0dcf\u0db4\u0ddc\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4 \u0dc3\u0dd4\u0db1\u0dca \u0dc0\u0dd6 Fabio Quartararo (Monster Energy Yamaha) \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0db4\u0dca\u200d\u0dbb\u0d82\u0dc1 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a\u0dba\u0dcf\u0da7 \u0dc1\u0dd6\u0dbb\u0dad\u0dcf \u0dc4\u0db9\u0dcf \u0dba\u0dcf\u0db8\u0dda\u0daf\u0dd3 \u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dba Bagnaia \u0dc4\u0db8\u0dd4\u0dc0\u0dda \u0dad\u0dc0\u0dad\u0dca \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 14\u0d9a\u0dca \u0d85\u0dc4\u0dd2\u0db8\u0dd2 \u0dc0\u0dd2\u0dba. \u0d85\u0da7\u0dc0\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dbd\u0dd0\u0db6\u0dd3\u0db8\u0dd9\u0db1\u0dca, \u0dbd\u0ddd\u0d9a \u0dc1\u0dd6\u0dbb\u0dba\u0dcf \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0dda Aleix Espargaro (Aprilia Racing) \u0db4\u0dc3\u0dd4\u0d9a\u0dbb \u0d9c\u0dd2\u0dba \u0db1\u0db8\u0dd4\u0dad\u0dca Marini \u0dc0\u0dc3\u0dcf \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0da7 \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0dd6 \u0d85\u0dad\u0dbb, \u0d94\u0dc4\u0dd4 \u0db8\u0dd4\u0dc5\u0dd4 \u0dad\u0dbb\u0d9f\u0dba\u0da7\u0db8 \"\u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0dda\" \u0dc3\u0dd2\u0da7\u0dd2 \u0db6\u0dc0 \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dad\u0dca\u0dad\u0dda\u0dba.",
+        "\u0d91\u0dc3\u0dca\u0db4\u0dcf\u0dbb\u0dca\u0d9c\u0dcf\u0dbb\u0ddd \u0dc4\u0dba\u0dc0\u0dd0\u0db1\u0dd2\u0dba\u0dcf \u0dc0\u0dd6 \u0d85\u0dad\u0dbb, \u0dc3\u0dd4\u0dc3\u0dd4\u0d9a\u0dd2\u0d9c\u0dda \u0d87\u0dbd\u0dd9\u0d9a\u0dca\u0dc3\u0dca \u0dbb\u0dd2\u0db1\u0dca\u0dc3\u0dca\u0da7 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca, \u0dc1\u0dd6\u0dbb\u0dad\u0dcf \u0dc4\u0db9\u0dcf \u0dba\u0dcf\u0db8\u0dda\u0daf\u0dd3 \u0d9a\u0dca\u0dc0\u0dcf\u0da7\u0dbb\u0dcf\u0dbb\u0ddd \u0dc3\u0dc4 \u0db6\u0d9c\u0dca\u0db1\u0dcf\u0dba\u0dcf \u0dc0\u0dd9\u0dad \u0dc0\u0dd0\u0da9\u0dd2 \u0d89\u0da9\u0d9a\u0dca \u0d85\u0dc4\u0dd2\u0db8\u0dd2 \u0dc0\u0dd2\u0dba.",
+        "\u0dbb\u0dd9\u0da9\u0dca\u0db6\u0dd4\u0dbd\u0dca \u0d9a\u0dda\u0da7\u0dd3\u0d91\u0db8\u0dca \u0dc4\u0dd2 \u0db6\u0dca\u200d\u0dbb\u0dd0\u0da9\u0dca \u0db6\u0dba\u0dd2\u0db1\u0dca\u0da9\u0dbb\u0dca \u0d85\u0da7\u0dc0\u0dd0\u0db1\u0dd2\u0dba\u0dcf \u0dc0\u0dd6 \u0db1\u0db8\u0dd4\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dd3\u0db8\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dd0\u0db8\u0dcf\u0d9a\u0dca \u0da9\u0dd4\u0d9a\u0dcf\u0da7\u0dd2\u0d9c\u0dda \u0da2\u0ddc\u0dc4\u0dcf\u0db1\u0dca \u0dc3\u0dbb\u0dca\u0d9a\u0ddd\u0dc0 \u0da7\u0dd0\u0d9c\u0dca \u0d9a\u0dbb, \u0d94\u0dc4\u0dd4\u0dc0 \u0db4\u0ddc\u0dbd\u0dca \u0d91\u0dc3\u0dca\u0db4\u0dcf\u0dbb\u0dca\u0d9c\u0dcf\u0dbb\u0ddd (\u0dbb\u0dd9\u0db4\u0dca\u0dc3\u0ddd\u0dbd\u0dca \u0dc4\u0ddc\u0db1\u0dca\u0da9\u0dcf) \u0dc3\u0dc4 \u0da9\u0dd6\u0d9a\u0dcf\u0da7\u0dd2 \u0dc0\u0dba\u0dd2\u0dbd\u0dca\u0da9\u0dca\u0d9a\u0dcf\u0da9\u0dca, \u0db8\u0dd2\u0da0\u0dd9\u0dbd\u0dca \u0db4\u0dd2\u0dbb\u0ddd \u0dc0\u0dd9\u0dad\u0da7 \u0dba\u0dc0\u0dcf, \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dcf\u0db8 \u0dad\u0dbb\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dad\u0da7 \u0d9c\u0dd9\u0db1 \u0dba\u0db1 \u0dbd\u0daf \u0db1\u0db4\u0dd4\u0dbb\u0dd4 \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dd9\u0dc5\u0dc0\u0dbb\u0dda \u0d9c\u0dd0\u0da7\u0dd3\u0db8\u0d9a\u0da7 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0dc0\u0dd2\u0dba. .",
+        "\u0db1\u0dc0\u0dc0\u0dd0\u0db1\u0dd2\u0dba\u0dcf \u0dc0\u0dd6\u0dba\u0dda \u0db8\u0dd2\u0d9c\u0dd9\u0dbd\u0dca \u0d94\u0dbd\u0dd2\u0dc0\u0dda\u0dbb\u0dcf (\u0dbb\u0dd9\u0da9\u0dca \u0db6\u0dd4\u0dbd\u0dca \u0d9a\u0dda\u0da7\u0dd3\u0d91\u0db8\u0dca) \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0d87\u0dbd\u0dd9\u0d9a\u0dca\u0dc3\u0dca \u0db8\u0dcf\u0dbb\u0dca\u0d9a\u0dda\u0dc3\u0dca (\u0d91\u0dbd\u0dca\u0dc3\u0dd3\u0d86\u0dbb\u0dca \u0d9a\u0dd0\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddc\u0dbd\u0dca \u0dc4\u0ddc\u0db1\u0dca\u0da9\u0dcf) \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0dc3\u0dbb\u0dca\u0d9a\u0ddd\u0d9c\u0dda \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dda \u0dc3\u0d9c\u0dba\u0dcf \u0dc0\u0dd6 \u0da2\u0ddd\u0dbb\u0dca\u0da2\u0dca \u0db8\u0dcf\u0da7\u0dd2\u0db1\u0dca \u0dc3\u0dc4 WithU RNF Yamaha \u0dc4\u0dd2 12 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dc3\u0db8\u0d9f \u0d94\u0dc4\u0dd4\u0d9c\u0dda MotoGP \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2\u0dba\u0da7 \u0d85\u0dad\u0dca\u0dc3\u0db1\u0dca \u0dad\u0dd0\u0db6\u0dd6 Andrea Dovizioso \u0dba.",
+        "\u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca \u0d89\u0dc4\u0dc5\u0db8 15 \u0dc0\u0da7\u0dba \u0dc0\u0dd6\u0dba\u0dda Raul Fernandez (Tech3 KTM) \u0d94\u0dc4\u0dd4\u0d9c\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0dc4\u0ddc\u0db3\u0db8 \u0db0\u0dcf\u0dc0\u0db1 \u0db4\u0dae\u0dba\u0d9a\u0dca \u0dc0\u0db1 Wildcard Stefan Bradl (Repsol Honda) \u0dc3\u0dc4 Takaaki Nakagami (LCR Idemitsu Honda) \u0dba.",
+        "\u0dad\u0dbb\u0d9f\u0dcf\u0dc0\u0dbd\u0dd2\u0dba \u0dc3\u0dca\u0db4\u0dcf\u0da4\u0dca\u0da4\u0dba\u0dda Aragon \u0dc4\u0dd2 Ducati \u0dc4\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dd3\u0dad\u0dd2\u0db8\u0dad\u0dca \u0daf\u0da9\u0dba\u0db8\u0dca \u0db4\u0dd2\u0da7\u0dd2\u0dba\u0d9a\u0dca \u0dc0\u0dd9\u0dad \u0d9c\u0db8\u0db1\u0dca \u0d9a\u0dbb\u0db1 \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0dc1\u0dd6\u0dbb\u0dad\u0dcf \u0dad\u0dbb\u0d9f\u0dba \u0daf\u0dd0\u0db1\u0dca \u0dc4\u0ddc\u0db3\u0dd2\u0db1\u0dca \u0dc3\u0dc4 \u0dc3\u0dad\u0dca\u200d\u0dba \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca\u0db8 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0db1 \u0d85\u0dad\u0dbb Bagnaia \u0daf\u0dd0\u0db1\u0dca Espargaro \u0daf\u0dd9\u0dc0\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db8\u0dd2\u0db1\u0dca Quartararo \u0da7 \u0dc0\u0da9\u0dcf \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 30\u0d9a\u0dca \u0db4\u0dc3\u0dd4\u0db4\u0dc3\u0dd2\u0db1\u0dca, 211 \u0da7 181, 178. Espargaro \u0dad\u0dd4\u0db1\u0dca\u0dc0\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba Bastianini \u0dc3\u0db8\u0d9f 138 \u0db8\u0dad."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc3\u0dd0\u0db1\u0dca \u0db8\u0dbb\u0dd2\u0db1\u0ddd",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0dc4\u0dad\u0dbb\u0dc0\u0db1",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dc3\u0dcf\u0db1\u0ddd \u0dbd\u0ddd\u0d9a \u0db4\u0dbb\u0dd2\u0db4\u0dae\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dbb\u0dca\u0d9a\u0ddd \u0dc3\u0dd2\u0db8\u0ddc\u0db1\u0dca\u0dc3\u0dd9\u0dbd\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc6\u0dca\u0dbb\u0dd0\u0db1\u0dca\u0da0\u0dd9\u0dc3\u0dca\u0d9a\u0ddd \u0db6\u0d9c\u0dca\u0db1\u0dd2\u0dba\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "0.034-\u0dad\u0dad\u0dca\u0db4\u0dbb",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2023",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da9\u0dd4\u0d9a\u0dcf\u0da7\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d8a\u0db1\u0dd2\u0dba\u0dcf \u0db6\u0dd0\u0dc3\u0dca\u0da7\u0dd2\u0dba\u0dcf\u0db1\u0dd2\u0db1\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d89\u0dad\u0dcf\u0dbd\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0db1\u0dca",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0da9\u0dd4\u0d9a\u0dcf\u0da7\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0dc3\u0dca\u0dad\u0dd2\u0dba\u0dcf\u0db1\u0dd2\u0db1\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dad\u0dd9\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0da2\u0dd0\u0d9a\u0dca \u0db8\u0dd2\u0dbd\u0dbb\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "P1",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0db4\u0dca\u0dbb\u0dd2\u0dbd\u0dd2\u0dba\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "Maverick Vinales",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0dc3\u0dca\u0dad\u0dd2\u0dba\u0dcf\u0db1\u0dd2\u0db1\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d89\u0dad\u0dcf\u0dbd\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0db1\u0dca",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc0\u0dba\u0dd2\u0db1\u0dbd\u0dca\u0dc3\u0dca",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dc3\u0dca\u0dad\u0dd2\u0dba\u0dcf\u0db1\u0dd2\u0db1\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc4\u0dad\u0dbb",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd8\u0d9c\u0dba\u0dcf",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0dad\u0dad\u0dca\u0db4\u0dbb 0.034",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dc0\u0dbb\u0dca\u0dc2 \u0db6\u0ddc\u0dc4\u0ddd \u0d9c\u0dab\u0db1\u0d9a\u0dca",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dc3\u0dcf\u0db1\u0ddd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc4\u0dad\u0dbb\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d89\u0dad\u0dcf\u0dbd\u0dd2",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc0\u0dd0\u0dbd\u0db1\u0dca\u0da7\u0dd2\u0db1\u0ddd \u0dbb\u0ddc\u0dc3\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "2008",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0da9\u0dd4\u0d9a\u0dcf\u0da7\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "Ducati \u0d9c\u0dda",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dda\u0dc3\u0dd2 \u0dc3\u0dca\u0da7\u0ddd\u0db1\u0dbb\u0dca",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dad\u0dd9\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dad\u0dd9\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dc4\u0dad\u0dbb",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0db4\u0dca\u0dbb\u0dd2\u0dbd\u0dd2\u0dba\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbd\u0dd6\u0d9a\u0dcf \u0db8\u0dbb\u0dd2\u0db1\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "Mooney VR46 Ducati",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d89\u0dad\u0dcf\u0dbd\u0dd2",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dba",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc3\u0dca\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Fabio Quartararo",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dca\u0dbb\u0d82\u0dc1 \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dca",
+            "label": "NORP"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0da7\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbd\u0ddd\u0d9a \u0dc1\u0dd6\u0dbb",
+            "label": "ORG"
+          },
+          {
+            "text": "Aleix Espargaro",
+            "label": "PERSON"
+          },
+          {
+            "text": "Aprilia \u0dbb\u0dda\u0dc3\u0dd2\u0d82",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dbb\u0dd2\u0db1\u0dd2",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "Espargaro",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc4\u0dba \u0dc0\u0db1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd4\u0dc3\u0dd4\u0d9a\u0dd2\u0d9c\u0dda \u0d87\u0dbd\u0dd9\u0d9a\u0dca\u0dc3\u0dca \u0dbb\u0dd2\u0db1\u0dca\u0dc3\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Red Bull KTM's",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dd0\u0da9\u0dca \u0db6\u0dba\u0dd2\u0db1\u0dca\u0da9\u0dbb\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0da7\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Prima Pramac Ducati \u0d9c\u0dda Johann Zarco",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Pol Espargaro",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da9\u0dd4\u0d9a\u0dcf\u0da7\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0da0\u0dd9\u0dbd\u0dca \u0db4\u0dd2\u0dbb\u0ddd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dbb\u0dca\u0d9a\u0ddd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0ddd\u0dbb\u0dca\u0da2\u0dca \u0db8\u0dcf\u0da7\u0dd2\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d87\u0dbd\u0dd9\u0d9a\u0dca\u0dc3\u0dca \u0db8\u0dcf\u0d9a\u0dda\u0dc3\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0d9c\u0dd9\u0dbd\u0dca \u0d94\u0dbd\u0dd2\u0dc0\u0dda\u0dbb\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d87\u0db1\u0dca\u0da9\u0dca\u0dbb\u0dd2\u0dba\u0dcf \u0da9\u0ddc\u0dc0\u0dd2\u0dc3\u0dd2\u0dba\u0ddd\u0dc3\u0ddd",
+            "label": "PERSON"
+          },
+          {
+            "text": "12 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dba\u0dd6 \u0dc3\u0db8\u0d9f",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dcf\u0dc0\u0dd4\u0dbd\u0dca \u0dc6\u0dbb\u0dca\u0db1\u0dd0\u0db1\u0dca\u0da9\u0dc3\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "Tech3 KTM",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dca\u0da7\u0dd9\u0dc6\u0dcf\u0db1\u0dca \u0db6\u0dca\u200d\u0dbb\u0dd0\u0da9\u0dca\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "Takaaki Nakagami",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0da9\u0dd4\u0d9a\u0dcf\u0da7\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0dbb\u0d9c\u0ddc\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dca\u0db4\u0dcf\u0da4\u0dca\u0da4\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0d9c\u0dca\u0db1\u0dd2\u0dba\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "Espargaro",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dca\u0dc0\u0dcf\u0da7\u0dbb\u0dcf\u0dbb\u0ddd",
+            "label": "ORG"
+          },
+          {
+            "text": "211",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "181",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Espargaro",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dad\u0dd9\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "178",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db6\u0dc3\u0dca\u0dad\u0dd2\u0dba\u0dcf\u0db1\u0dd2\u0db1\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc4\u0dad\u0dbb\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "138",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0baa\u0bbe\u0b95\u0bcd\u0ba9\u0bbe\u0baf\u0bbe \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bbe\u0bb5\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b9a\u0bbe\u0ba9\u0bcd \u0bae\u0bb0\u0bbf\u0ba9\u0bcb \u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bcb\u0b9c\u0bbf\u0baa\u0bbf\u0baf\u0bc8 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0bae\u0bbf\u0b9a\u0bbe\u0ba9\u0bcb \u0bb5\u0bc7\u0bb0\u0bcd\u0bb2\u0bcd\u0b9f\u0bcd \u0b9a\u0bb0\u0bcd\u0b95\u0bcd\u0baf\u0bc2\u0b9f\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcb \u0b9a\u0bbf\u0bae\u0bcb\u0ba9\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4 \u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbe\u0ba9 27-\u0bb2\u0bc7\u0baa\u0bcd \u0b8e\u0ba9\u0bcd\u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bb0\u0bbf\u0bb2\u0bcd, \u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0b9a\u0bc6\u0bb8\u0bcd\u0b95\u0bcb \u0baa\u0bbe\u0b95\u0bcd\u0ba9\u0bbe\u0baf\u0bbe (\u0bb2\u0bc6\u0ba9\u0bcb\u0bb5\u0bbe \u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf) 2023 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba4\u0ba9\u0ba4\u0bc1 \u0b83\u0baa\u0bc7\u0b95\u0bcd\u0b9f\u0bb0\u0bbf \u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf \u0b85\u0ba3\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0b95 \u0bb5\u0bc0\u0bb0\u0bb0\u0bbe\u0ba9 \u0b8e\u0ba9\u0bc0\u0baf\u0bbe \u0baa\u0bbe\u0bb8\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0ba9\u0bbf\u0ba9\u0bbf (\u0b95\u0bbf\u0bb0\u0bc6\u0bb8\u0bcd\u0bb8\u0bbf\u0ba9\u0bbf) \u0b87\u0bb0\u0bc1 \u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf\u0baf \u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bbf\u0baf\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1 0.034-\u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bc1\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0bae\u0bc8\u0ba4\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b86\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bae\u0bcd.",
+        "\u0baa\u0bbe\u0b95\u0bcd\u0ba9\u0bbe\u0baf\u0bbe \u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bca\u0bb2\u0bcd\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba4\u0bc1\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bb5\u0bb0\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd, \u0b8f\u0ba9\u0bc6\u0ba9\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0bae\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb8\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0ba9\u0bbf\u0ba9\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd, \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0baa\u0bcb\u0bb2\u0bcd\u0b9a\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa \u0baa\u0ba8\u0bcd\u0ba4\u0baf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbe\u0ba9 \u0b9c\u0bbe\u0b95\u0bcd \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bb0\u0bcd, \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0bae\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbf1 \u0b87\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u0b85\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc8, \u0baa\u0bbe\u0b95\u0bcd\u0ba9\u0bbe\u0baf\u0bbe \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb8\u0bbf\u0b99\u0bcd \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bbe\u0bb2\u0bcd \u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbe\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd, \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b8f\u0baa\u0bcd\u0bb0\u0bbf\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc7\u0bb5\u0bb0\u0bbf\u0b95\u0bcd \u0bb5\u0bbf\u0ba9\u0bc7\u0bb2\u0bcd\u0bb8\u0bbf\u0b9f\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd, \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0baa\u0bbe\u0bb8\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0ba9\u0bbf\u0ba9\u0bbf\u0baf\u0bbe\u0bb2\u0bc1\u0bae\u0bcd, \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0ba9\u0bbe\u0bb2\u0bc7\u0bb8\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0baf\u0ba4\u0bbe\u0bb2\u0bcd, \u0b85\u0bb5\u0bb0\u0ba4\u0bc1 \u0baa\u0bbf\u0bb0\u0baa\u0bb2\u0bae\u0bb1\u0bcd\u0bb1 \u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbe\u0ba9 \u0baa\u0ba8\u0bcd\u0ba4\u0baf \u0bb5\u0bc7\u0b95\u0bae\u0bcd \u0bae\u0bc1\u0bb4\u0bc1\u0b95\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0bae\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd, \u0baa\u0bbe\u0bb8\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0ba9\u0bbf\u0ba9\u0bbf \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bbe\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0bb2\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0ba9\u0bbe\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0baa\u0bc1\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8f\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0baf \u0b9a\u0ba4\u0bcd\u0ba4\u0bae\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd, \u0b85\u0b95\u0bb2\u0bae\u0bbe\u0b95 \u0b93\u0b9f\u0bbf, \u0ba4\u0ba9\u0ba4\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bb2 \u0b85\u0ba3\u0bbf\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0ba8\u0bcd\u0ba4\u0baf\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0b95\u0bae\u0bbe\u0b95\u0ba4\u0bcd \u0ba4\u0bcb\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u0b87\u0ba9\u0bcd\u0ba9\u0bc1\u0bae\u0bcd \"\u0ba4\u0bbf \u0baa\u0bc0\u0bb8\u0bcd\u0b9f\u0bcd\" \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95 \u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0ba4\u0bb5\u0bb1\u0bc1 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0baa\u0bcb\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd, \u0baa\u0bbe\u0b95\u0bcd\u0ba9\u0bbe\u0baf\u0bbe\u0bb5\u0bc8 \u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbe\u0b9f\u0bbf\u0baf\u0ba4\u0bbe\u0bb2\u0bcd \u0baa\u0ba8\u0bcd\u0ba4\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0ba9 \u0bae\u0b9f\u0bbf\u0baf\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1, \u0baa\u0bb2 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95 \u0ba8\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bcb\u0b9c\u0bbf\u0baa\u0bbf \u0baa\u0ba8\u0bcd\u0ba4\u0baf \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd 0.034-\u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95 \u0bb5\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0baa\u0bbe\u0b95\u0bcd\u0ba9\u0bbe\u0baf\u0bbe \u0bae\u0bbf\u0b9a\u0bbe\u0ba9\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0ba9\u0b95\u0bcd\u0b95\u0bc6\u0ba9 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0ba4\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0b8e\u0bb4\u0bc1\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. 2008 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0bb2\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcb \u0bb0\u0bcb\u0bb8\u0bcd\u0bb8\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf\u0baf \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bc1 \u0b87\u0ba4\u0bc1\u0bb5\u0bc7 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b92\u0bb0\u0bc7 \u0b89\u0bb2\u0b95 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bbe\u0ba9 \u0b95\u0bc7\u0b9a\u0bbf \u0bb8\u0bcd\u0b9f\u0bcb\u0ba9\u0bb0\u0bc8 \u0bb5\u0bbf\u0b9f \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf \u0bb0\u0bc8\u0b9f\u0bb0\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd.",
+        "\u0bb5\u0bbf\u0ba9\u0bbe\u0bb2\u0bc7\u0bb8\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0ba9\u0bcd\u0ba9\u0bc8 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd, \u0b83\u0baa\u0bc7\u0b95\u0bcd\u0b9f\u0bb0\u0bbf \u0b85\u0baa\u0bcd\u0bb0\u0bbf\u0bb2\u0bbf\u0baf\u0bbe \u0b85\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0baa\u0ba8\u0bcd\u0ba4\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0bae\u0bc7\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0b85\u0bb5\u0bb0\u0bcd \u0bb2\u0bc2\u0b95\u0bbe \u0bae\u0bb0\u0bbf\u0ba9\u0bbf\u0baf\u0bc8 (\u0bae\u0bc2\u0ba9\u0bbf VR46 \u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf) \u0ba4\u0bb2\u0bc8\u0bae\u0bc8 \u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b90\u0ba8\u0bcd\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb0\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b83\u0baa\u0bc7\u0baa\u0bbf\u0baf\u0bcb \u0b95\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0b9f\u0bb0\u0bbe\u0bb0\u0bcb (\u0bae\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd \u0b8e\u0ba9\u0bb0\u0bcd\u0b9c\u0bbf \u0baf\u0bae\u0bb9\u0bbe) \u0b83\u0baa\u0bbf\u0bb0\u0bc6\u0b9e\u0bcd\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 14 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bc8 \u0b9f\u0bc8\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0bb0\u0ba4\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0b9f\u0bc8\u0bb5\u0bbf\u0b9f\u0bbe\u0ba4 \u0baa\u0bbe\u0b95\u0bcd\u0ba9\u0bbe\u0baf\u0bbe\u0bb5\u0bbf\u0b9f\u0bae\u0bcd \u0b87\u0bb4\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0b8e\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0b95\u0bc1\u0ba4\u0bbf\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1, \u0b89\u0bb2\u0b95 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb2\u0bc0\u0b95\u0bcd\u0bb8\u0bcd \u0b8e\u0bb8\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bb0\u0bcb\u0bb5\u0bc8 (\u0b8f\u0baa\u0bcd\u0bb0\u0bbf\u0bb2\u0bbf\u0baf\u0bbe \u0bb0\u0bc7\u0b9a\u0bbf\u0b99\u0bcd) \u0b95\u0b9f\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd, \u0b86\u0ba9\u0bbe\u0bb2\u0bcd \u0bae\u0bb0\u0bbf\u0ba9\u0bbf\u0baf\u0bc8 \u0bae\u0bc2\u0b9f \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8, \u0b85\u0bb5\u0bb0\u0bcd \u0baa\u0ba8\u0bcd\u0ba4\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \"\u0bb5\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd\" \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95 \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd.",
+        "\u0b8e\u0bb8\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bbe\u0bb0\u0bcb \u0b86\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd, \u0b9a\u0bc1\u0bb8\u0bc1\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b85\u0bb2\u0bc6\u0b95\u0bcd\u0bb8\u0bcd \u0bb0\u0bbf\u0ba9\u0bcd\u0bb8\u0bc8 \u0bb5\u0bbf\u0b9f, \u0ba4\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0b9f\u0bb0\u0bbe\u0bb0\u0bcb \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0ba9\u0bbe\u0baf\u0bbe\u0bb5\u0bbf\u0b9f\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0bb4\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0bb0\u0bc6\u0b9f\u0bcd\u0baa\u0bc1\u0bb2\u0bcd \u0b95\u0bc7\u0b9f\u0bbf\u0b8e\u0bae\u0bcd\u0bae\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0b9f\u0bcd \u0baa\u0bc8\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd \u0b8e\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd, \u0b86\u0ba9\u0bbe\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0bcb\u0b9a\u0bae\u0bbe\u0ba9 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bc2\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd, \u0b85\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0baa\u0bcd\u0bb0\u0bbf\u0bae\u0bbe \u0baa\u0bbf\u0bb0\u0bae\u0bbe\u0b95\u0bcd \u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9c\u0bcb\u0bb9\u0ba9\u0bcd \u0b9a\u0bb0\u0bcd\u0b95\u0bcb\u0bb5\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd, \u0b85\u0bb5\u0bb0\u0bc8 \u0baa\u0bcb\u0bb2\u0bcd \u0b8e\u0bb8\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bbe\u0bb0\u0bcb (\u0bb0\u0bc6\u0baa\u0bcd\u0b9a\u0bcb\u0bb2\u0bcd \u0bb9\u0bcb\u0ba3\u0bcd\u0b9f\u0bbe) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf \u0bb5\u0bc8\u0bb2\u0bcd\u0b9f\u0bc1 \u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bc1, \u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bcb \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0bcb\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0bb2\u0bcd, \u0bae\u0bc2\u0bb5\u0bb0\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0ba8\u0bcd\u0ba4\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. .",
+        "\u0bae\u0bbf\u0b95\u0bc1\u0bb5\u0bb2\u0bcd \u0b92\u0bb2\u0bbf\u0bb5\u0bc7\u0bb0\u0bbe (\u0bb0\u0bc6\u0b9f\u0bcd \u0baa\u0bc1\u0bb2\u0bcd \u0b95\u0bc7\u0b9f\u0bbf\u0b8e\u0bae\u0bcd) \u0b85\u0bb2\u0bc6\u0b95\u0bcd\u0bb8\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0bb5\u0bc6\u0bb8\u0bcd (\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf\u0b86\u0bb0\u0bcd \u0b95\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd \u0bb9\u0bcb\u0ba3\u0bcd\u0b9f\u0bbe) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0ba4\u0bcd\u0baf\u0bc2 \u0b86\u0bb0\u0bcd\u0b8e\u0ba9\u0bcd\u0b8e\u0b83\u0baa\u0bcd \u0baf\u0bae\u0bb9\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd 12\u0bb5\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bcb\u0b9c\u0bbf\u0baa\u0bbf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0baf\u0bc6\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f \u0b86\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbf\u0baf\u0bbe \u0b9f\u0bcb\u0bb5\u0bbf\u0b9a\u0bbf\u0baf\u0bcb\u0b9a\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd \u0b9c\u0bbe\u0bb0\u0bcd\u0b95\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd \u0b85\u0ba3\u0bbf \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd \u0b9c\u0bbe\u0bb0\u0bcd\u0b9c\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b92\u0ba9\u0bcd\u0baa\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1.",
+        "\u0bb0\u0bb5\u0bc1\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bb8\u0bcd (\u0b9f\u0bc6\u0b95\u0bcd3 \u0b95\u0bc7\u0b9f\u0bbf\u0b8e\u0bae\u0bcd), \u0bb5\u0bc8\u0bb2\u0bcd\u0b9f\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bc1 \u0bb8\u0bcd\u0b9f\u0bc0\u0baa\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0b9f\u0bcd\u0bb2\u0bcd (\u0bb0\u0bc6\u0baa\u0bcd\u0b9a\u0bcb\u0bb2\u0bcd \u0bb9\u0bcb\u0ba3\u0bcd\u0b9f\u0bbe) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9f\u0b95\u0bbe\u0b95\u0bbf \u0ba8\u0bbe\u0b95\u0b95\u0bbe\u0bae\u0bbf (\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf\u0b86\u0bb0\u0bcd \u0b90\u0b9f\u0bc6\u0bae\u0bbf\u0b9f\u0bcd\u0b9a\u0bc1 \u0bb9\u0bcb\u0ba3\u0bcd\u0b9f\u0bbe) \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0bb0\u0bb5\u0bc1\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bb8\u0bcd (\u0b9f\u0bc6\u0b95\u0bcd3 \u0b95\u0bc7\u0b9f\u0bbf\u0b8e\u0bae\u0bcd) \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 15 \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bbf\u0ba9\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b85\u0bb0\u0b95\u0bcb\u0ba9\u0bbf\u0ba9\u0bcd \u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0b95\u0bbf\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9 \u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bc8\u0ba4\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0ba9 \u0baa\u0bbe\u0b95\u0bcd\u0ba9\u0bbe\u0baf\u0bbe \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b95\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0b9f\u0bb0\u0bbe\u0bb0\u0bcb\u0bb5\u0bc8 \u0bb5\u0bbf\u0b9f 30 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bbf 30 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bbf 211 \u0b95\u0bcd\u0b95\u0bc1 181 \u0b8e\u0ba9 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bbf, 211 \u0b95\u0bcd\u0b95\u0bc1 181 \u0b8e\u0ba9\u0bcd\u0bb1 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0b95\u0bbf\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9 \u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bc8\u0ba4\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0ba9 \u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0b95\u0bbf\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9 \u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bc8\u0ba4\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0ba4\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0baa\u0bcd \u0baa\u0ba8\u0bcd\u0ba4\u0baf\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. 138 \u0b87\u0bb2\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b9a\u0bbe\u0ba9\u0bcd \u0bae\u0bb0\u0bbf\u0ba9\u0bcb",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bbe\u0bb5\u0ba4\u0bc1",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bbf\u0b9a\u0bbe\u0ba9\u0bcb \u0b89\u0bb2\u0b95 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcb \u0b9a\u0bbf\u0bae\u0bcb\u0ba9\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0b9a\u0bc6\u0bb8\u0bcd\u0b95\u0bcb \u0baa\u0bbe\u0b95\u0bcd\u0ba9\u0bbe\u0baf\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "0.034-\u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2023",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8e\u0ba9\u0bc7\u0baf\u0bbe \u0baa\u0bbe\u0bb8\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0ba9\u0bbf\u0ba9\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb8\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0ba9\u0bbf\u0ba9\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b9c\u0bbe\u0b95\u0bcd \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbf1",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b85\u0baa\u0bcd\u0bb0\u0bbf\u0bb2\u0bbf\u0baf\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc7\u0bb5\u0bb0\u0bbf\u0b95\u0bcd \u0bb5\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd\u0bb8\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb8\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0ba9\u0bbf\u0ba9\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0ba9\u0bbe\u0bb2\u0bc7\u0bb8\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbe\u0bb8\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0ba9\u0bbf\u0ba9\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bbf\u0bb0\u0bc1\u0b95\u0bae\u0bcd",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "0.034-\u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf\u0b95\u0bb3\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0baa\u0bb2 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bbf\u0b9a\u0bbe\u0ba9\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf\u0baf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0bb5\u0bbe\u0bb2\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcb \u0bb0\u0bcb\u0bb8\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "2008",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0b9a\u0bbf \u0bb8\u0bcd\u0b9f\u0bcb\u0ba9\u0bb0\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b85\u0baa\u0bcd\u0bb0\u0bbf\u0bb2\u0bbf\u0baf\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb2\u0bc2\u0b95\u0bbe \u0bae\u0bb0\u0bbf\u0ba9\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bbf \u0bb5\u0bbf\u0b86\u0bb0\u0bcd46 \u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf\u0baf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0baa\u0bb0\u0bc1\u0bb5\u0bae\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bc7\u0baa\u0bbf\u0baf\u0bcb \u0b95\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0b9f\u0bb0\u0bbe\u0bb0\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bc6\u0b9e\u0bcd\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "14",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b8e\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b89\u0bb2\u0b95 \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "Aleix Espargaro",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b85\u0baa\u0bcd\u0bb0\u0bbf\u0bb2\u0bbf\u0baf\u0bbe \u0bb0\u0bc7\u0b9a\u0bbf\u0b99\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bb0\u0bbf\u0ba9\u0bbf",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bbe\u0bb0\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b86\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0bb8\u0bc1\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b85\u0bb2\u0bc6\u0b95\u0bcd\u0bb8\u0bcd \u0bb0\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0\u0bc6\u0b9f\u0bcd \u0baa\u0bc1\u0bb2\u0bcd \u0b95\u0bc7\u0b9f\u0bbf\u0b8e\u0bae\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bbe\u0b9f\u0bcd \u0baa\u0bc8\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b8e\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0baa\u0bcd\u0bb0\u0bbf\u0bae\u0bbe \u0baa\u0bbf\u0bb0\u0bae\u0bbe\u0b95\u0bcd \u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9c\u0bcb\u0bb9\u0ba9\u0bcd \u0b9a\u0bb0\u0bcd\u0b95\u0bcb",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0baa\u0bcb\u0bb2\u0bcd \u0b8e\u0bb8\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bbe\u0bb0\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bb0\u0bcd\u0b95\u0bcb",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bbe\u0bb0\u0bcd\u0b9c\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b85\u0bb2\u0bc6\u0b95\u0bcd\u0bb8\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0bb5\u0bc6\u0bb8\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bbf\u0b95\u0bc1\u0bb5\u0bb2\u0bcd \u0b92\u0bb2\u0bbf\u0bb5\u0bc7\u0bb0\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbf\u0baf\u0bbe \u0b9f\u0bcb\u0bb5\u0bbf\u0b9a\u0bbf\u0baf\u0bcb\u0b9a\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "12\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b89\u0ba9\u0bcd\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bb8\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9f\u0bc6\u0b95\u0bcd3 \u0b95\u0bc7\u0b9f\u0bbf\u0b8e\u0bae\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0b9f\u0bc0\u0baa\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0b9f\u0bcd\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "Takaaki Nakagami",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9f\u0bc1\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0b95\u0bcb\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0b95\u0bcd\u0ba9\u0bbe\u0baf\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bbe\u0bb0\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0b9f\u0bb0\u0bbe\u0bb0\u0bcb",
+            "label": "ORG"
+          },
+          {
+            "text": "211",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "181",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bbe\u0bb0\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "178",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb8\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0ba9\u0bbf\u0ba9\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "138",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}
