@@ -1,0 +1,294 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0b95\u0bc1\u0bb4\u0bc1-\u0b9c\u0bc6\u0ba9\u0bbf\u0bb5\u0bbe-\u0baa\u0baf\u0ba3\u0bae\u0bcd/175-303568",
+  "time_ut": 1662344486,
+  "original_lang": "ta",
+  "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bc1\u0bb4\u0bc1 \u0b9c\u0bc6\u0ba9\u0bbf\u0bb5\u0bbe \u0baa\u0baf\u0ba3\u0bae\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka team visit to Geneva",
+      "author": "unknown",
+      "body_lines": [
+        "A delegation led by Minister Ali Sabri will travel to Geneva today to participate in the 51st session of the United Nations Human Rights Council.",
+        "According to this, it has been reported that the committee includes External Affairs Minister Ali Sabri, Nidhi Minister Vijayadasa Rajapaksa, Attorney General's Department and Ministry of External Affairs.",
+        "It is noteworthy that the 51st session of the United Nations Human Rights Council will be held in Geneva from the 12th to the 7th of October. (a)"
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        },
+        {
+          "text": "Geneva",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Ali Sabri",
+            "label": "PERSON"
+          },
+          {
+            "text": "Geneva",
+            "label": "GPE"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "the 51st",
+            "label": "DATE"
+          },
+          {
+            "text": "the United Nations Human Rights Council",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "External Affairs",
+            "label": "ORG"
+          },
+          {
+            "text": "Ali Sabri",
+            "label": "PERSON"
+          },
+          {
+            "text": "Nidhi",
+            "label": "PERSON"
+          },
+          {
+            "text": "Vijayadasa Rajapaksa",
+            "label": "PERSON"
+          },
+          {
+            "text": "General's",
+            "label": "ORG"
+          },
+          {
+            "text": "Department and Ministry of External Affairs",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "51st",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "the United Nations Human Rights Council",
+            "label": "ORG"
+          },
+          {
+            "text": "Geneva",
+            "label": "GPE"
+          },
+          {
+            "text": "the 12th",
+            "label": "DATE"
+          },
+          {
+            "text": "7th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "October",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0da2\u0dd2\u0db1\u0dd3\u0dc0\u0dcf \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba\u0d9a",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba\u0dda 51 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dd0\u0dc3\u0dd2\u0dc0\u0dcf\u0dbb\u0dba\u0da7 \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3 \u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0d85\u0dbd\u0dd2 \u0dc3\u0db6\u0dca\u0dbb\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b \u0daf\u0dd6\u0dad \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0d85\u0daf \u0da2\u0dd2\u0db1\u0dd3\u0dc0\u0dcf \u0db6\u0dbd\u0dcf \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0 \u0dba\u0dcf\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dba\u0dd2.",
+        "\u0db8\u0dda \u0d85\u0db1\u0dd4\u0dc0 \u0d91\u0db8 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0da7 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0d85\u0dbd\u0dd2 \u0dc3\u0db6\u0dca\u0dbb\u0dd2, \u0db1\u0dd2\u0db0\u0dd2 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0dc0\u0dd2\u0da2\u0dba\u0daf\u0dcf\u0dc3 \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2, \u0db1\u0dd3\u0dad\u0dd2\u0db4\u0dad\u0dd2 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc3\u0dc4 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0dc0\u0db1 \u0db6\u0dc0 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dda.",
+        "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba\u0dda 51 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dd0\u0dc3\u0dd2\u0dc0\u0dcf\u0dbb\u0dba \u0dbd\u0db6\u0db1 12 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0dc3\u0dd2\u0da7 \u0d94\u0d9a\u0dca\u0dad\u0ddd\u0db6\u0dbb\u0dca 7 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0da2\u0dd2\u0db1\u0dd3\u0dc0\u0dcf \u0db1\u0dd4\u0dc0\u0dbb\u0daf\u0dd3 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dc0 \u0dad\u0dd2\u0db6\u0dd3\u0db8 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dd2. (\u0d92)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0da2\u0dd2\u0db1\u0dd3\u0dc0\u0dcf",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d85\u0dbd\u0dd2 \u0dc3\u0db6\u0dca\u0dbb\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da2\u0dd2\u0db1\u0dd3\u0dc0\u0dcf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "51 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dbd\u0dd2 \u0dc3\u0db6\u0dca\u0dbb\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db1\u0dd2\u0db0\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0da2\u0dba\u0daf\u0dcf\u0dc3 \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da2\u0dd9\u0db1\u0dbb\u0dcf\u0dbd\u0dca\u0d9c\u0dda",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc3\u0dc4 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "51 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dd2\u0db1\u0dd3\u0dc0\u0dcf",
+            "label": "GPE"
+          },
+          {
+            "text": "12 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "7 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d94\u0d9a\u0dca\u0dad\u0ddd\u0db8\u0dca\u0db6\u0dbb\u0dca",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bc1\u0bb4\u0bc1 \u0b9c\u0bc6\u0ba9\u0bbf\u0bb5\u0bbe \u0baa\u0baf\u0ba3\u0bae\u0bcd",
+      "author": "unknown",
+      "body_lines": [
+        "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8\u0baf\u0bbf\u0ba9\u0bcd 51 \u0b86\u0bb5\u0ba4\u0bc1 \u0b85\u0bae\u0bb0\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b85\u0bb2\u0bbf \u0b9a\u0baa\u0bcd\u0bb0\u0bbf \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0b95\u0bc1\u0bb4\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9c\u0bc6\u0ba9\u0bbf\u0bb5\u0bbe \u0baa\u0baf\u0ba3\u0bae\u0bbe\u0b95\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b85\u0bb2\u0bbf \u0b9a\u0baa\u0bcd\u0bb0\u0bbf, \u0ba8\u0bbf\u0ba4\u0bc0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u200c\u0bb7, \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bbe\u0b95 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8\u0baf\u0bbf\u0ba9\u0bcd 51 \u0b86\u0bb5\u0ba4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bca\u0b9f\u0bb0\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd 12 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b92\u0b95\u0bcd\u0b9f\u0bcb\u0baa\u0bb0\u0bcd \u0bae\u0bbe\u0ba4\u0bae\u0bcd 7 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bb5\u0bb0\u0bc8 \u0b9c\u0bc6\u0ba9\u0bbf\u0bb5\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0bae\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95\u0ba4\u0bc1. (a)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0b9c\u0bc6\u0ba9\u0bc0\u0bb5\u0bbe",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b85\u0bb2\u0bbf \u0b9a\u0baa\u0bcd\u0bb0\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0ba9\u0bc0\u0bb5\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "51\u0bb5\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0bb2\u0bbf \u0b9a\u0baa\u0bcd\u0bb0\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0ba4\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0b9c\u0baf\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bbf\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bc1\u0bb1\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "51\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0ba9\u0bc0\u0bb5\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "12\u0bb5\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "7\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b85\u0b95\u0bcd\u0b9f\u0bcb\u0baa\u0bb0\u0bcd",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "newspaper_id": "economy-next-com",
+  "url": "https://economynext.com/german-biz-chamber-helps-sri-lanka-firms-enter-eu-organic-market-99437/",
+  "time_ut": 1662297720,
+  "original_lang": "en",
+  "original_title": "German biz chamber helps Sri Lanka firms enter EU organic market",
+  "text_idx": {
+    "en": {
+      "title": "German biz chamber helps Sri Lanka firms enter EU organic market",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 The Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka) with the European Chamber of Commerce of Sri Lanka (ECCSL) had brought together domestic organic food suppliers and European buyers.",
+        "Sri Lanka firms have been support European and German business chamber in Sri Lanka had organised a virtual interactive session",
+        "The \u2018Organic Food Production and Exports by SMEs in Sri Lanka\u2019 conference allowed small and medium enterprises meet buyers in the EU.",
+        "The online forum had drawn over 155 partipants such as SME traders, exporters, medium-scale farmers and other agri-food producers.",
+        "European importers and retailers (including Rewe Far East Limited, Biokorntakt Vertriebs GmbH, and",
+        "Herbaria Kr\u00e4uterparadies GmbH from Germany, Tradin Organic Agriculture B.V. from Netherlands, Renee",
+        "Voltaire from Sweden, JJM Group from Slovakia, and Greenest from Estonia) met Sri Lanka suppliers.",
+        "They were interested in organic coconut-based products, tropical fruits, vegetables, and spice products among others from Sri Lanka.",
+        "About 30 Sri Lankan SMEs who had the criteria of European Buyers for specific product portfolios, EU organic certified status, and other certifications and standards for special B2B matchmaking meetings with European importers were selected following the forum.",
+        "Country Director of GIZ Sri Lanka Petra Mutlu, Charge d\u2019Affaires, Delegation of the European Union, Thorsten Bargfrede, Chairman of Export Development Board \u2013 Suresh de Mel, and Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka), Marie Antonia von Sch\u00f6nburg and President of European Chamber of Commerce of Sri Lanka (ECCSL), Arnold Perera and Buddhi Marambe, Senior Professor in Agriculture, University of Peradeniya were in the forum. (Colombo/Sep04/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "German",
+          "label": "NORP"
+        },
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        },
+        {
+          "text": "EU",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "the European Chamber of Commerce of Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "ECCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "European",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "European",
+            "label": "NORP"
+          },
+          {
+            "text": "German",
+            "label": "NORP"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "The \u2018Organic Food Production and Exports",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "SME",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "European",
+            "label": "NORP"
+          },
+          {
+            "text": "Rewe Far East Limited",
+            "label": "ORG"
+          },
+          {
+            "text": "Biokorntakt Vertriebs GmbH",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Herbaria Kr\u00e4uterparadies GmbH",
+            "label": "ORG"
+          },
+          {
+            "text": "Germany",
+            "label": "GPE"
+          },
+          {
+            "text": "Tradin Organic Agriculture B.V.",
+            "label": "ORG"
+          },
+          {
+            "text": "Netherlands",
+            "label": "GPE"
+          },
+          {
+            "text": "Renee",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Sweden",
+            "label": "GPE"
+          },
+          {
+            "text": "JJM Group",
+            "label": "ORG"
+          },
+          {
+            "text": "Slovakia",
+            "label": "ORG"
+          },
+          {
+            "text": "Estonia",
+            "label": "GPE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "About 30",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lankan",
+            "label": "NORP"
+          },
+          {
+            "text": "European Buyers",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "European",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "GIZ Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "Petra Mutlu",
+            "label": "PERSON"
+          },
+          {
+            "text": "Delegation of the European Union",
+            "label": "ORG"
+          },
+          {
+            "text": "Thorsten Bargfrede",
+            "label": "PERSON"
+          },
+          {
+            "text": "Export Development Board",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Marie Antonia von Sch\u00f6nburg",
+            "label": "PERSON"
+          },
+          {
+            "text": "European Chamber of Commerce of Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "ECCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "Arnold Perera",
+            "label": "PERSON"
+          },
+          {
+            "text": "Buddhi Marambe",
+            "label": "PERSON"
+          },
+          {
+            "text": "University of Peradeniya",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4 \u0db6\u0dd2\u0dc3\u0dca \u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca\u0dc0\u0dbd\u0da7 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0d9a\u0dcf\u0db6\u0db1\u0dd2\u0d9a \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5\u0da7 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dc0\u0dd3\u0db8\u0da7 \u0d8b\u0db4\u0d9a\u0dcf\u0dbb \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4 \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad \u0dc3\u0dc4 \u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 (AHK Sri Lanka) \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba (ECCCSL) \u0dc3\u0db8\u0d9f \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0d9a\u0dcf\u0db6\u0db1\u0dd2\u0d9a \u0d86\u0dc4\u0dcf\u0dbb \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dc4 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9c\u0dd0\u0db1\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0d91\u0d9a\u0dca \u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0dc4 \u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d85\u0dad\u0dae\u0dca\u200d\u0dba \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dcf\u0dbb\u0dd3 \u0dc3\u0dd0\u0dc3\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba \u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dd2",
+        "\u2018\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc3\u0dd4\u0dc5\u0dd4 \u0dc4\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba \u0db4\u0dbb\u0dd2\u0db8\u0dcf\u0dab \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d9a\u0dcf\u0db6\u0db1\u0dd2\u0d9a \u0d86\u0dc4\u0dcf\u0dbb \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0dc3\u0dc4 \u0d85\u0db4\u0db1\u0dba\u0db1\u0dba\u2019 \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0 \u0d9a\u0dd4\u0da9\u0dcf \u0dc4\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba \u0db4\u0dbb\u0dd2\u0db8\u0dcf\u0dab \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0d9c\u0dd0\u0db1\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd3\u0dba.",
+        "\u0d9a\u0dd4\u0da9\u0dcf \u0dc4\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba \u0db4\u0dbb\u0dd2\u0db8\u0dcf\u0dab \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca, \u0d85\u0db4\u0db1\u0dba\u0db1\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca, \u0db8\u0db0\u0dca\u200d\u0dba \u0db4\u0dbb\u0dd2\u0db8\u0dcf\u0dab \u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca \u0dc3\u0dc4 \u0d85\u0db1\u0dd9\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dd8\u0dc2\u0dd2 \u0d86\u0dc4\u0dcf\u0dbb \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0db1\u0dd2 155 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0db8\u0dd9\u0db8 \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0da2\u0dcf\u0dbd \u0dc3\u0d82\u0dc3\u0daf\u0dba\u0da7 \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3 \u0dc0\u0dd3 \u0d87\u0dad.",
+        "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d86\u0db1\u0dba\u0db1\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dc4 \u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dbb \u0dc0\u0dd9\u0dc5\u0dd9\u0db1\u0dca\u0daf\u0db1\u0dca (Rewe Far East Limited, Biokorntakt Vertriebs GmbH, \u0dc3\u0dc4",
+        "\u0da2\u0dbb\u0dca\u0db8\u0db1\u0dd2\u0dba\u0dda Herbaria Kr\u00e4uterparadies GmbH, \u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dd9\u0db1\u0dca Tradin \u0d9a\u0dcf\u0db6\u0db1\u0dd2\u0d9a \u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 B.V., Renee",
+        "\u0dc3\u0dca\u0dc0\u0dd3\u0da9\u0db1\u0dba\u0dda \u0dc0\u0ddd\u0dbd\u0dca\u0da7\u0dd9\u0dba\u0dcf\u0dbb\u0dca, \u0dc3\u0dca\u0dbd\u0ddd\u0dc0\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0dda JJM \u0dc3\u0db8\u0dd6\u0dc4\u0dba \u0dc3\u0dc4 \u0d91\u0dc3\u0dca\u0dad\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dda Greenest) \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd2\u0dba.",
+        "\u0d94\u0dc0\u0dd4\u0db1\u0dca \u0d9a\u0dcf\u0db6\u0db1\u0dd2\u0d9a \u0db4\u0ddc\u0dbd\u0dca \u0d86\u0dc1\u0dca\u200d\u0dbb\u0dd2\u0dad \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1, \u0db1\u0dd2\u0dc0\u0dbb\u0dca\u0dad\u0db1 \u0d9a\u0dbd\u0dcf\u0db4\u0dd3\u0dba \u0db4\u0dbd\u0dad\u0dd4\u0dbb\u0dd4, \u0d91\u0dc5\u0dc0\u0dc5\u0dd4 \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dc0\u0dd9\u0db1\u0dad\u0dca \u0d9a\u0dd4\u0dc5\u0dd4\u0db6\u0da9\u0dd4 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0d9a\u0dd9\u0dbb\u0dd9\u0dc4\u0dd2 \u0d8b\u0db1\u0db1\u0dca\u0daf\u0dd4 \u0dc0\u0dd6\u0dc4.",
+        "\u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dd2\u0dad \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0d9a\u0dc5\u0db9 \u0dc3\u0db3\u0dc4\u0dcf \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9c\u0dd0\u0db1\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda \u0db1\u0dd2\u0dbb\u0dca\u0dab\u0dcf\u0dba\u0d9a, EU \u0d9a\u0dcf\u0db6\u0db1\u0dd2\u0d9a \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0d9a\u0dc5 \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dc3\u0dc4 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d86\u0db1\u0dba\u0db1\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0db8\u0d9f \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 B2B \u0d9c\u0dd0\u0dbd\u0db4\u0dd3\u0db8\u0dca \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd9\u0db1\u0dad\u0dca \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd2\u0dad\u0dd3\u0db1\u0dca \u0d87\u0dad\u0dd2 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a \u0d9a\u0dd4\u0da9\u0dcf \u0dc4\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba \u0db4\u0dbb\u0dd2\u0db8\u0dcf\u0dab \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca 30\u0d9a\u0dca \u0db4\u0db8\u0dab \u0dad\u0ddd\u0dbb\u0dcf \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0dbd\u0daf\u0dd3.",
+        "GIZ \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc4\u0dd2 \u0dbb\u0da7\u0dda \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 Petra Mutlu, \u0db7\u0dcf\u0dbb\u0d9a\u0dcf\u0dbb\u0dad\u0dca\u0dc0\u0dba, \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8, Thorsten Bargfrede, \u0d85\u0db4\u0db1\u0dba\u0db1 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 - \u0dc3\u0dd4\u0dbb\u0dda\u0dc2\u0dca \u0daf \u0db8\u0dd9\u0dbd\u0dca \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4 \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad \u0dc4\u0dcf \u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad (AHK \u0dc1\u0dca\u200d\u0dbb\u0dd3. \u0dbd\u0d82\u0d9a\u0dcf), Marie Antonia von Sch\u00f6nburg \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda (ECSCSL) \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0d86\u0dbb\u0dca\u0db1\u0ddd\u0dbd\u0dca\u0da9\u0dca \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf \u0dc3\u0dc4 \u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0da2\u0dca\u200d\u0dba\u0dd9\u0dc2\u0dca\u0da8 \u0db8\u0dc4\u0dcf\u0da0\u0dcf\u0dbb\u0dca\u0dba \u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2 \u0db8\u0dcf\u0dbb\u0db9\u0dda \u0dba\u0db1 \u0db8\u0dc4\u0dad\u0dca\u0db8 \u0db8\u0dc4\u0dad\u0dca\u0db8\u0dd3\u0dc4\u0dd4 \u0db8\u0dd9\u0db8 \u0dc3\u0d82\u0dc3\u0daf\u0dba\u0da7 \u0d91\u0d9a\u0dca\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dc4. (\u0d9a\u0ddc\u0dc5\u0db9/\u0dc3\u0dd0\u0db4\u0dca.04/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4",
+          "label": "NORP"
+        },
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "EU",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "ECCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dcf\u0db6\u0db1\u0dd2\u0d9a \u0d86\u0dc4\u0dcf\u0dbb \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0dc3\u0dc4 \u0d85\u0db4\u0db1\u0dba\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "SME",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf",
+            "label": "NORP"
+          },
+          {
+            "text": "Rewe Far East Limited",
+            "label": "ORG"
+          },
+          {
+            "text": "Biokorntakt Vertriebs GmbH",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Herbaria Kr\u00e4uterparadies GmbH",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dbb\u0dca\u0db8\u0db1\u0dd2\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "Tradin \u0d9a\u0dcf\u0db6\u0db1\u0dd2\u0d9a \u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 B.V.",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbb\u0dd9\u0db1\u0dd3",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dca\u0dc0\u0dd3\u0da9\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "JJM \u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dca\u0dbd\u0ddd\u0dc0\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0dc3\u0dca\u0dad\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "30 \u0d9a\u0dca \u0db4\u0db8\u0dab",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9c\u0dd0\u0db1\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "GIZ Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0da7\u0dca\u0dbb\u0dcf \u0db8\u0dd4\u0da7\u0dca\u0dbd\u0dd4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "Thorsten Bargfrede",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0db4\u0db1\u0dba\u0db1 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dbb\u0dd2 \u0d87\u0db1\u0dca\u0da7\u0ddd\u0db1\u0dd2\u0dba\u0dcf \u0dc0\u0ddc\u0db1\u0dca \u0dc2\u0ddc\u0db1\u0dca\u0db6\u0dbb\u0dca\u0d9c\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "ECCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d86\u0dbb\u0dca\u0db1\u0ddd\u0dbd\u0dca\u0da9\u0dca \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2 \u0db8\u0dcf\u0dbb\u0db9\u0dda",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b9c\u0bc7\u0bb0\u0bcd\u0bae\u0ba9\u0bcd \u0baa\u0bbf\u0bb8\u0bcd \u0b9a\u0bc7\u0bae\u0bcd\u0baa\u0bb0\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf \u0b95\u0bb0\u0bbf\u0bae \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bc1\u0bb4\u0bc8\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9c\u0bc7\u0bb0\u0bcd\u0bae\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bcd\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1 (AHK Sri Lanka) \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0b9a\u0bae\u0bcd\u0bae\u0bc7\u0bb3\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd (ECCCSL) \u0b89\u0bb3\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0bb0\u0bbf\u0bae \u0b89\u0ba3\u0bb5\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0baa\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9c\u0bc7\u0bb0\u0bcd\u0bae\u0ba9\u0bcd \u0bb5\u0ba3\u0bbf\u0b95 \u0b85\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0ba4\u0bb0\u0bb5\u0bbe\u0b95 \u0b92\u0bb0\u0bc1 \u0bae\u0bc6\u0baf\u0bcd\u0ba8\u0bbf\u0b95\u0bb0\u0bcd \u0b8a\u0b9f\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bb0\u0bcd\u0bb5\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9",
+        "\u2018\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd SME \u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bb0\u0bbf\u0bae \u0b89\u0ba3\u0bb5\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u2019 \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1 \u0b9a\u0bbf\u0bb1\u0bbf\u0baf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0baa\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "SME \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0ba8\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0 \u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bbe\u0ba9 \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb1 \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b89\u0ba3\u0bb5\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba9 155 \u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b86\u0ba9\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd \u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b88\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bb1\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd (Rewe Far East Limited, Biokorntakt Vertriebs GmbH, \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd",
+        "\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bbf\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0bb9\u0bc6\u0bb0\u0bcd\u0baa\u0bc7\u0bb0\u0bbf\u0baf\u0bbe \u0b95\u0bcd\u0bb0\u0bc1\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0b9f\u0bc0\u0bb8\u0bcd \u0b9c\u0bbf\u0b8e\u0bae\u0bcd\u0baa\u0bbf\u0bb9\u0bc6\u0b9a\u0bcd, \u0ba8\u0bc6\u0ba4\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9f\u0bbf\u0bb0\u0bc7\u0b9f\u0bbf\u0ba9\u0bcd \u0b86\u0bb0\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0b95\u0bcd \u0b85\u0b95\u0bcd\u0bb0\u0bbf\u0b95\u0bb2\u0bcd\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0baa\u0bbf.\u0bb5\u0bbf., \u0bb0\u0bc6\u0ba9\u0bc0",
+        "\u0bb8\u0bcd\u0bb5\u0bc0\u0b9f\u0ba9\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0bb5\u0bcb\u0bb2\u0bcd\u0b9f\u0bc7\u0bb0\u0bcd, \u0bb8\u0bcd\u0bb2\u0bcb\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9c\u0bc7\u0b9c\u0bc7\u0b8e\u0bae\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0bb8\u0bcd\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0b95\u0bbf\u0bb0\u0bc0\u0ba9\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd) \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0baa\u0bcd\u0bb3\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0bb0\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0b95\u0bcd \u0ba4\u0bc7\u0b99\u0bcd\u0b95\u0bbe\u0baf\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd, \u0bb5\u0bc6\u0baa\u0bcd\u0baa\u0bae\u0ba3\u0bcd\u0b9f\u0bb2 \u0baa\u0bb4\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0b9a\u0bbe\u0bb2\u0bbe \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b86\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f B2B \u0bae\u0bc7\u0b9f\u0bcd\u0b9a\u0bcd\u0bae\u0bc7\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd\u0b83\u0baa\u0bcb\u0bb2\u0bbf\u0baf\u0bcb\u0b95\u0bcd\u0b95\u0bb3\u0bcd, EU \u0b95\u0bb0\u0bbf\u0bae \u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b85\u0ba8\u0bcd\u0ba4\u0bb8\u0bcd\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb1 \u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bb0\u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0baa\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0bb3\u0bb5\u0bc1\u0b95\u0bcb\u0bb2\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 30 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 SME\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd.",
+        "GIZ \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd Petra Mutlu, \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd, \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1, Thorsten Bargfrede, \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u2013 \u0b9a\u0bc1\u0bb0\u0bc7\u0bb7\u0bcd \u0b9f\u0bbf \u0bae\u0bc6\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b9c\u0bc7\u0bb0\u0bcd\u0bae\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bcd\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf (AHK Sri) \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8), Marie Antonia von Sch\u00f6nburg \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0b9a\u0bae\u0bcd\u0bae\u0bc7\u0bb3\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd (ECCCSL) \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0bb0\u0bcd\u0ba9\u0bbe\u0bb2\u0bcd\u0b9f\u0bcd \u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8\u0baa\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bbf\u0bb0\u0bc7\u0bb7\u0bcd\u0b9f \u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bb0\u0bae\u0bcd\u0baa\u0bc7 \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd. (\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9a\u0bc6\u0baa\u0bcd04/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bcd",
+          "label": "NORP"
+        },
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        },
+        {
+          "text": "EU",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0b9a\u0baa\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "ECCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b86\u0bb0\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0b95\u0bcd \u0b89\u0ba3\u0bb5\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "SME",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0bb0\u0bc6\u0bb5\u0bcd \u0b83\u0baa\u0bbe\u0bb0\u0bcd \u0b88\u0bb8\u0bcd\u0b9f\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "Biokorntakt Vertriebs GmbH",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb9\u0bc6\u0bb0\u0bcd\u0baa\u0bc7\u0bb0\u0bbf\u0baf\u0bbe \u0b95\u0bcd\u0bb0\u0bc2\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0b9f\u0bc0\u0bb8\u0bcd \u0b9c\u0bbf\u0b8e\u0bae\u0bcd\u0baa\u0bbf\u0bb9\u0bc6\u0b9a\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9f\u0bbf\u0bb0\u0bc7\u0b9f\u0bbf\u0ba9\u0bcd \u0b86\u0bb0\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0b95\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0baa\u0bbf.\u0bb5\u0bbf.",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bc6\u0ba4\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb0\u0bc6\u0ba9\u0bbf",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb8\u0bcd\u0bb5\u0bc0\u0b9f\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9c\u0bc7\u0b9c\u0bc7\u0b8e\u0bae\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0bb2\u0bcb\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 30",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0baa\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "GIZ \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bbe \u0bae\u0bc1\u0b9f\u0bcd\u0bb2\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bcb\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0ba9\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b83\u0baa\u0bcd\u0bb0\u0bc6\u0b9f\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bc7\u0bb0\u0bbf \u0b85\u0ba9\u0bcd\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe \u0bb5\u0bbe\u0ba9\u0bcd \u0bb7\u0bbe\u0ba9\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0b9a\u0baa\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "ECCSL",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0bcd\u0ba9\u0bbe\u0bb2\u0bcd\u0b9f\u0bcd \u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bb0\u0bae\u0bcd\u0baa\u0bc7",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8 \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}

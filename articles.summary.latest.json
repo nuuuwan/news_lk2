@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84752/canada-stabbing-attacks-leave-10-dead-15-injured",
+    "time_ut": 1662344760,
+    "original_lang": "en",
+    "original_title": "Canada stabbing attacks leave 10 dead, 15 injured",
+    "file_name": "/tmp/news_lk2/articles/ce/ced0d443.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0b95\u0bc1\u0bb4\u0bc1-\u0b9c\u0bc6\u0ba9\u0bbf\u0bb5\u0bbe-\u0baa\u0baf\u0ba3\u0bae\u0bcd/175-303568",
+    "time_ut": 1662344486,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bc1\u0bb4\u0bc1 \u0b9c\u0bc6\u0ba9\u0bbf\u0bb5\u0bbe \u0baa\u0baf\u0ba3\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/70/70340368.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84751/heavy-rains-above-100mm-expected-in-several-areas",
+    "time_ut": 1662344340,
+    "original_lang": "en",
+    "original_title": "Heavy rains above 100mm expected in several areas",
+    "file_name": "/tmp/news_lk2/articles/1f/1f2ca7c3.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0dd9\u0db1\u0dca-\u0d85\u0dc0\u0dc0\u0dcf\u0daf\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/11-396885",
+    "time_ut": 1662344253,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0dd9\u0db1\u0dca \u0d85\u0dc0\u0dc0\u0dcf\u0daf\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/19/199db467.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dd9\u0dca\u0dbd\u0dba-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dd2\u0daf\u0dd4-\u0d9a\u0dc5-\u0d85\u0dba\u0d9a\u0dd4-\u0dad\u0da7\u0dca\u0da7\u0dd4-12-\u0db8\u0dc4\u0dbd\u0dd9\u0db1\u0dca-\u0db6\u0dd2\u0db8\u0da7-\u0dc0\u0dd0\u0da7\u0dd3-\u0db8\u0dbb\u0dd4\u0da7/101-619290",
+    "time_ut": 1662344089,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dd9\u0dca\u0dbd\u0dba \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dc5 \u0d85\u0dba\u0d9a\u0dd4 \u0dad\u0da7\u0dca\u0da7\u0dd4 12 \u0db8\u0dc4\u0dbd\u0dd9\u0db1\u0dca \u0db6\u0dd2\u0db8\u0da7 \u0dc0\u0dd0\u0da7\u0dd3 \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/e3/e3d07d9d.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Stabbings-in-Canada-leave-10-dead-a-dozen-injured/108-244298",
     "time_ut": 1662343329,
@@ -38,6 +78,14 @@
     "original_lang": "en",
     "original_title": "SL to support flood hit Pakistan",
     "file_name": "/tmp/news_lk2/articles/f7/f7895253.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb-\u0db8\u0dd2\u0dbd-\u0d9c\u0dd0\u0dc3\u0da7\u0dca\u0da7\u0dd4\u0dc0-\u0d86\u0db4\u0dc3\u0dd4-\u0dc4\u0dbb\u0dc0\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd1/11-396882",
+    "time_ut": 1662340003,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb \u0db8\u0dd2\u0dbd \u0d9c\u0dd0\u0dc3\u0da7\u0dca\u0da7\u0dd4\u0dc0 \u0d86\u0db4\u0dc3\u0dd4 \u0dc4\u0dbb\u0dc0\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/61/61d05c24.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -209,11 +257,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dd3\u0db8\u0dad\u0dd2\u0db1\u0dca-\u0d85\u0db4\u0dd4\u0dbb-\u0db1\u0d9c\u0dbb\u0dba\u0dda-\u0dc3\u0dd2\u0da7\u0dd2-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd2\u0dba\u0da7-\u0dc3\u0dc4-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf\u0da7-\u0d87\u0db4/1-619286",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dd3\u0db8\u0dad\u0dd2\u0db1\u0dca-\u0d85\u0db4\u0dd4\u0dbb-\u0db1\u0d9c\u0dbb\u0dba\u0dda-\u0dc3\u0dd2\u0da7\u0dd2-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd2\u0dba\u0da7-\u0dc3\u0dc4-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf\u0da7-\u0d87\u0db4/101-619286",
     "time_ut": 1662309639,
     "original_lang": "si",
     "original_title": "\u0db6\u0dd3\u0db8\u0dad\u0dd2\u0db1\u0dca \u0d85\u0db4\u0dd4\u0dbb \u0db1\u0d9c\u0dbb\u0dba\u0dda \u0dc3\u0dd2\u0da7\u0dd2 \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd2\u0dba\u0da7 \u0dc3\u0dc4 \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf\u0da7 \u0d87\u0db4",
-    "file_name": "/tmp/news_lk2/articles/da/da00d0f1.json"
+    "file_name": "/tmp/news_lk2/articles/2d/2d0f5ff2.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -478,6 +526,14 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bbe \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe?; \u0ba8\u0bae\u0bb2\u0bbf\u0ba9\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/3a/3a4e3760.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/german-biz-chamber-helps-sri-lanka-firms-enter-eu-organic-market-99437/",
+    "time_ut": 1662297720,
+    "original_lang": "en",
+    "original_title": "German biz chamber helps Sri Lanka firms enter EU organic market",
+    "file_name": "/tmp/news_lk2/articles/47/474f383d.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "The ongoing crackdown on the protest movement needs to cease.  Its excessive nature is discrediting the government in the eyes of the international community as well as within the country. The blame  for this  is falling squarely on the president",
     "file_name": "/tmp/news_lk2/articles/13/13237679.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79252",
-    "time_ut": 1661713020,
-    "original_lang": "en",
-    "original_title": "Sri Lankan Airlines Group  to be restructured  by inviting foreign operators to take up 49% equity stake and management;Govt Unable to fund Loss making National Carrier any longer",
-    "file_name": "/tmp/news_lk2/articles/ff/ffd61d17.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79254",
-    "time_ut": 1661711940,
-    "original_lang": "en",
-    "original_title": "Power and Energy Minister Kanchana Wijesekera  defends decision to increase electricity tariffs, citing spendthrift generation plans and unsuitable policies adopted by successive governments pushed for the inevitable upward adjustments.",
-    "file_name": "/tmp/news_lk2/articles/ba/bafcb9f4.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/pity-the-land/",
-    "time_ut": 1661711400,
-    "original_lang": "en",
-    "original_title": "Pity the land \u2026",
-    "file_name": "/tmp/news_lk2/articles/a8/a81f5eec.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Chinese-company-refuses-to-budge/108-243885",
-    "time_ut": 1661710600,
-    "original_lang": "en",
-    "original_title": "Chinese company refuses to budge",
-    "file_name": "/tmp/news_lk2/articles/ab/ab41ab08.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/first-sri-lankan-female-student-to-win-bronze-medal-at-imo/",
-    "time_ut": 1661710320,
-    "original_lang": "en",
-    "original_title": "First Sri Lankan female student to win Bronze medal at IMO",
-    "file_name": "/tmp/news_lk2/articles/f5/f56a836f.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/natural-blood-thinners-for-keeping-diseases-at-bay/",
-    "time_ut": 1661710260,
-    "original_lang": "en",
-    "original_title": "Natural blood thinners for keeping diseases at bay",
-    "file_name": "/tmp/news_lk2/articles/e1/e171a37f.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/ditch-the-phone-before-bed-16-tips-for-a-good-nights-sleep/",
-    "time_ut": 1661710140,
-    "original_lang": "en",
-    "original_title": "Ditch the phone before bed! 16 tips for a good night\u2019s sleep",
-    "file_name": "/tmp/news_lk2/articles/87/87ee4f90.json"
   }
 ]
