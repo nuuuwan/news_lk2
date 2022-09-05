@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84764/afghanistan-earthquake-kills-eight-more-casualties-feared",
+    "time_ut": 1662369720,
+    "original_lang": "en",
+    "original_title": "Afghanistan earthquake kills eight, more casualties feared",
+    "file_name": "/tmp/news_lk2/articles/00/00d0379f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/nearly-300-filling-stations-temporarily-closed-in-sri-lanka-after-new-payment-system-99456/",
+    "time_ut": 1662369720,
+    "original_lang": "en",
+    "original_title": "Nearly 300 filling stations temporarily closed in Sri Lanka after new payment system",
+    "file_name": "/tmp/news_lk2/articles/6c/6c35fad9.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bb0\u0bc1-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1-\u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe/175-303600",
+    "time_ut": 1662369387,
+    "original_lang": "ta",
+    "original_title": "\u0b92\u0bb0\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1 \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe?",
+    "file_name": "/tmp/news_lk2/articles/28/28aecb13.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0\u0dda-\u0dc0\u0dd3-\u0d85\u0db8\u0dca\u0db4\u0dcf\u0dbb\u0dda-\u0d9c\u0db6\u0da9\u0dcf\u0dc0\u0d9a-\u0daf\u0dd2\u0dbb\u0dba\u0dd2/101-619327",
+    "time_ut": 1662369060,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0\u0dda \u0dc0\u0dd3 \u0d85\u0db8\u0dca\u0db4\u0dcf\u0dbb\u0dda \u0d9c\u0db6\u0da9\u0dcf\u0dc0\u0d9a \u0daf\u0dd2\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/6d/6d522b32.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd9\u0dbb\u0da7-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda-\u0db8\u0db1\u0dca\u0daf\u0db4\u0ddd\u0dc2\u0dab\u0dba-\u0d9c\u0dd0\u0db1-\u0daf\u0dd2\u0db1-\u0daf\u0dd9\u0d9a\u0d9a-\u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0dca/101-619326",
+    "time_ut": 1662368922,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd9\u0dbb\u0da7 \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda \u0db8\u0db1\u0dca\u0daf\u0db4\u0ddd\u0dc2\u0dab\u0dba \u0d9c\u0dd0\u0db1 \u0daf\u0dd2\u0db1 \u0daf\u0dd9\u0d9a\u0d9a \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/c7/c71e8575.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/05/president-wants-full-implementation-of-19th-amendment-foreign-minister/",
     "time_ut": 1662367200,
@@ -33,11 +73,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dc0-\u0dbd\u0d82\u0d9a\u0dcf-\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca-\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda-\u0db8\u0dd6\u0dbd\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0d9a\u0dd9\u0dbb\u0dda/1-619325",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dc0-\u0dbd\u0d82\u0d9a\u0dcf-\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca-\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda-\u0db8\u0dd6\u0dbd\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0d9a\u0dd9\u0dbb\u0dda/101-619325",
     "time_ut": 1662366085,
     "original_lang": "si",
     "original_title": "\u0db1\u0dc0 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca \u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0db8\u0dd6\u0dbd\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dd9\u0dbb\u0dda",
-    "file_name": "/tmp/news_lk2/articles/94/94536d1a.json"
+    "file_name": "/tmp/news_lk2/articles/15/151b7b77.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -441,11 +481,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/No-discussion-on-appointing-Gotabaya-as-PM-Ruwan/155-244322",
+    "url": "https://www.dailymirror.lk/latest_news/No-discussion-on-appointing-Gotabaya-as-PM-Ruwan/342-244322",
     "time_ut": 1662353070,
     "original_lang": "en",
     "original_title": "No discussion on appointing Gotabaya as PM: Ruwan",
-    "file_name": "/tmp/news_lk2/articles/26/26c09b4e.json"
+    "file_name": "/tmp/news_lk2/articles/11/11e0cbe9.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Police use tear gas and water cannons to disperse IUSF protesters",
     "file_name": "/tmp/news_lk2/articles/e5/e587af79.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79211",
-    "time_ut": 1661896980,
-    "original_lang": "en",
-    "original_title": "Appapillai Amirthalingam: From Enfant Terrible of ITAK to TULF Elder Statesman",
-    "file_name": "/tmp/news_lk2/articles/23/23bc5767.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79295",
-    "time_ut": 1661888460,
-    "original_lang": "en",
-    "original_title": "Sri Lanka  has reached only a  preliminary agreement with the International Monetary Fund (IMF) prior to  a staff-level agreement for an Extended Fund Facility (EFF) and Rapid Financing Instrument (RFI)  states former Central Bank of Sri Lanka (CBSL) Deputy Governor Dr. W.A. Wijewardena",
-    "file_name": "/tmp/news_lk2/articles/6f/6f78a93d.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79277",
-    "time_ut": 1661887440,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Reaches  Preliminary Agreement with the International Monetary Fund(IMF); Formal Announcement likely to be made on Thursday Sep 1st",
-    "file_name": "/tmp/news_lk2/articles/25/253a43e7.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79290",
-    "time_ut": 1661887440,
-    "original_lang": "en",
-    "original_title": "\u201cSri Lanka will be a critical test of Chinese willingness to co-ordinate with other lenders. The hope now for Sri Lanka is that Zambia\u2019s deal has set a precedent for China to co-ordinate with other creditors\u201d- The Economist",
-    "file_name": "/tmp/news_lk2/articles/02/0248a2fd.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/79280",
-    "time_ut": 1661886360,
-    "original_lang": "en",
-    "original_title": "Jaffna University Students\u2019 Union Lashes out Against Chinese Ambassador Qi Zhenhong at Media briefing;signing of agreement between Jaffna Agriculture faculty and Chinese Agricultural institute indefinitely postponed;Chinese envoy\u2019s visit to Jaffna  cancelled.",
-    "file_name": "/tmp/news_lk2/articles/ba/ba343a83.json"
   }
 ]
