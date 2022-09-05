@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Uthara-Sabagaya-launched/342-244346",
+    "time_ut": 1662389193,
+    "original_lang": "en",
+    "original_title": "Uthara Sabagaya launched...",
+    "file_name": "/tmp/news_lk2/articles/7f/7fae930d.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bae\u0bbe\u0bb0-\u0bb5\u0bc6\u0bb2\u0bcd\u0b95\u0bae\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0ba8\u0bbf\u0baa\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8/175-303625",
+    "time_ut": 1662389116,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc1\u0bae\u0bbe\u0bb0 \u0bb5\u0bc6\u0bb2\u0bcd\u0b95\u0bae\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0baa\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/0b/0b3c945f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Seized/342-244345",
+    "time_ut": 1662388975,
+    "original_lang": "en",
+    "original_title": "Seized..",
+    "file_name": "/tmp/news_lk2/articles/45/45a43bef.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/05/sri-lanka-bakery-owners-decide-against-increasing-bread-prices/",
+    "time_ut": 1662388860,
+    "original_lang": "en",
+    "original_title": "Sri Lanka: Bakery owners decide against increasing bread prices",
+    "file_name": "/tmp/news_lk2/articles/93/93f1d827.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/More-than-1-000-people-affected-by-inclement-weather/342-244344",
+    "time_ut": 1662388677,
+    "original_lang": "en",
+    "original_title": "More than 1,000 people affected by inclement weather",
+    "file_name": "/tmp/news_lk2/articles/91/917f70a1.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d86\u0dbb\u0dca-\u0d91\u0db8\u0dca-\u0dc0\u0dd3--\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca-\u0d9a\u0dcf\u0da9\u0dca\u0db4\u0dad\u0dca-\u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf-\u0daf\u0dd9\u0dba\u0dd2/101-619350",
     "time_ut": 1662387343,
