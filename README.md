@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-06 00:29:03 (LK time)*
+*As of 2022-09-06 00:41:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Committee appointed to review progress of projects under ministries, departments, institutions](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/2020d123.json))
 
 ## Last Hour (2 Articles)
 
@@ -42,7 +38,7 @@
 
 * **1** colombo-telegraph-com ([Evaluation Of Aragalaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/0702972b.json))
 
-## Last Week (1,133 Articles)
+## Last Week (1,132 Articles)
 
 * **201** lankadeepa-lk ([අලුත් අයවැයේ  නැවුම් බලාපොරොත්තු](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6be07769.json))
 
@@ -54,7 +50,7 @@
 
 * **129** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
-* **128** daily-mirror-lk ([Govt. to present interim budget today](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/ddf8ffdb.json))
+* **127** daily-mirror-lk ([Tokyo will coordinate with other Sri Lanka creditors on debt: Japan Finance Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa6c7877.json))
 
 * **88** economy-next-com ([US to redouble efforts to support crisis-hit Sri Lanka: Ambassador](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/736dac40.json))
 
