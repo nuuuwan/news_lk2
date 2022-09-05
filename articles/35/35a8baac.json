@@ -1,0 +1,288 @@
+{
+  "newspaper_id": "ada-derana-lk",
+  "url": "http://www.adaderana.lk/news/84760/litro-gas-prices-reduced",
+  "time_ut": 1662358620,
+  "original_lang": "en",
+  "original_title": "Litro gas prices reduced",
+  "text_idx": {
+    "en": {
+      "title": "Litro gas prices reduced",
+      "author": "unknown",
+      "body_lines": [
+        "Litro Gas company says that the price of a 12.5 kg domestic LP gas cylinder will be reduced by Rs. 113 with effect from midnight today (05).",
+        "Meanwhile the price of a 5 kg cylinder will be reduced by Rs. 45 and the 2.3 kg cylinder by Rs. 21, Litro chairman Muditha Peiris said.",
+        "He said that as per the revised pricing formula, the domestic Litro Gas refill price will be revised with effect from midnight today.",
+        "Accordingly, the new price (Colombo) of a 12.5 kg Litro gas cylinder will be Rs. 4,551 while the 5 kg cylinder will be priced at Rs. 1,827. The new price of the 2.3 kg cylinder will be Rs. 848."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Litro Gas",
+            "label": "ORG"
+          },
+          {
+            "text": "12.5 kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "113",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "midnight today",
+            "label": "TIME"
+          },
+          {
+            "text": "05",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "5 kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "2.3 kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Litro",
+            "label": "ORG"
+          },
+          {
+            "text": "Muditha Peiris",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Litro Gas",
+            "label": "ORG"
+          },
+          {
+            "text": "midnight today",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "12.5 kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "4,551",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5 kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "1,827",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2.3 kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "848",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca \u0db8\u0dd2\u0dbd \u0d85\u0da9\u0dd4 \u0d9a\u0dd9\u0dbb\u0dda",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0db4\u0dc0\u0dc3\u0db1\u0dca\u0db1\u0dda \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 12.5 \u0d9c\u0dd8\u0dc4\u0dc3\u0dca\u0dae LP \u0d9c\u0dd1\u0dc3\u0dca \u0dc3\u0dd2\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dbb\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 113 \u0d85\u0daf (05) \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dda.",
+        "\u0db8\u0dda \u0d85\u0dad\u0dbb \u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 5\u0d9a \u0dc3\u0dd2\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dbb\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 45 \u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0dc4 \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 2.3 \u0dc3\u0dd2\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dbb\u0dba \u0dbb\u0dd4. 21, \u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0db8\u0dd4\u0daf\u0dd2\u0dad \u0db4\u0dd3\u0dbb\u0dd2\u0dc3\u0dca \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0d94\u0dc4\u0dd4 \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0dd2\u0dad \u0db8\u0dd2\u0dbd \u0dc3\u0dd6\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0d85\u0daf \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0db1 \u0db4\u0dbb\u0dd2\u0daf\u0dd2 \u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca \u0d9c\u0dd8\u0dc4\u0dc3\u0dca\u0dae \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca \u0db8\u0dd2\u0dbd \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba \u0dc0\u0db1 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 12.5 \u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca \u0dc3\u0dd2\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dbb\u0dba\u0d9a \u0db1\u0dc0 \u0db8\u0dd2\u0dbd (\u0d9a\u0ddc\u0dc5\u0db9) \u0dbb\u0dd4. 4,551 \u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 5 \u0dc3\u0dd2\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dbb\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 1,827 \u0d9a\u0dd2. \u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 2.3\u0d9a \u0dc3\u0dd2\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dbb\u0dba\u0d9a \u0db1\u0dc0 \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 848."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dbd\u0dd2\u0da7\u0dca\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 12.5 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "113",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0daf \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba",
+            "label": "TIME"
+          },
+          {
+            "text": "05",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 5 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 2.3 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbd\u0dd2\u0da7\u0dca\u0dbb\u0ddd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd4\u0daf\u0dd2\u0dad \u0db4\u0dd3\u0dbb\u0dd2\u0dc3\u0dca",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbd\u0dd2\u0da7\u0dca\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0daf \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 12.5 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "4,551 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 5 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "1,827 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 2.3 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "848",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "12.5 \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b8e\u0b9f\u0bc8 \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b89\u0bb3\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. 113 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (05) \u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0bae\u0bc1\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b87\u0ba4\u0bc7\u0bb5\u0bc7\u0bb3\u0bc8, 5 \u0b95\u0bbf\u0bb2\u0bcb \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. 45 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 2.3 \u0b95\u0bbf\u0bb2\u0bcb \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd \u0bb0\u0bc2. 21, \u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0bae\u0bc1\u0ba4\u0bbf\u0ba4 \u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb2\u0bc8\u0b9a\u0bcd\u0b9a\u0bc2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0b89\u0bb3\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0bae\u0bc1\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, 12.5 \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b8e\u0b9f\u0bc8\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0bb2\u0bc8 (\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1) \u0bb0\u0bc2. 4,551 \u0b86\u0b95\u0bb5\u0bc1\u0bae\u0bcd, 5 \u0b95\u0bbf\u0bb2\u0bcb \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb0\u0bc2. 1,827. 2.3 \u0b95\u0bbf\u0bb2\u0bcb \u0b8e\u0b9f\u0bc8 \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb0\u0bc2. 848."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "12.5 \u0b95\u0bbf.\u0b95\u0bbf",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "113",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1",
+            "label": "TIME"
+          },
+          {
+            "text": "05",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "5 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "2.3 \u0b95\u0bbf.\u0b95\u0bbf",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bbf\u0ba4 \u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "12.5 \u0b95\u0bbf.\u0b95\u0bbf",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "4,551",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "1,827",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2.3 \u0b95\u0bbf.\u0b95\u0bbf",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "848",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}
