@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84772/fitch-warns-of-high-risk-that-sri-lanka-may-default-on-local-bonds",
+    "time_ut": 1662394620,
+    "original_lang": "en",
+    "original_title": "Fitch warns of high risk that Sri Lanka may default on local bonds",
+    "file_name": "/tmp/news_lk2/articles/1c/1c9784a8.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0b85\u0bb2\u0bbf-\u0b9a\u0baa\u0bcd\u0bb0\u0bbf-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/175-303630",
     "time_ut": 1662391000,
@@ -65,11 +73,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Increase-petrol-quota-for-three-wheelers/342-244347",
+    "url": "https://www.dailymirror.lk/caption_story/Increase-petrol-quota-for-three-wheelers/110-244347",
     "time_ut": 1662389383,
     "original_lang": "en",
     "original_title": "Increase petrol quota for three-wheelers",
-    "file_name": "/tmp/news_lk2/articles/42/427a5f6b.json"
+    "file_name": "/tmp/news_lk2/articles/b1/b1eb73da.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -89,11 +97,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Seized/342-244345",
+    "url": "https://www.dailymirror.lk/caption_story/Seized/110-244345",
     "time_ut": 1662388975,
     "original_lang": "en",
     "original_title": "Seized..",
-    "file_name": "/tmp/news_lk2/articles/45/45a43bef.json"
+    "file_name": "/tmp/news_lk2/articles/f5/f562e809.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -105,11 +113,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/More-than-1-000-people-affected-by-inclement-weather/342-244344",
+    "url": "https://www.dailymirror.lk/breaking_news/More-than-1-000-people-affected-by-inclement-weather/108-244344",
     "time_ut": 1662388677,
     "original_lang": "en",
     "original_title": "More than 1,000 people affected by inclement weather",
-    "file_name": "/tmp/news_lk2/articles/91/917f70a1.json"
+    "file_name": "/tmp/news_lk2/articles/78/78fc47cd.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
