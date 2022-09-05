@@ -1,0 +1,234 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/09/05/one-hour-daily-power-cuts-from-6th-to-9th-september/",
+  "time_ut": 1662375120,
+  "original_lang": "en",
+  "original_title": "One-hour daily Power-Cuts from 6th to 9th September",
+  "text_idx": {
+    "en": {
+      "title": "One-hour daily Power-Cuts from 6th to 9th September",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st);\u00a0\u00a0Sri Lanka's Public Utilities Commission approved power cuts of 1 hour from 6th \u2013 9th September as follows;",
+        "Sri Lanka appoints committee to facilitate return of Refugees in India",
+        "President wants full implementation of 19th Amendment \u2013 Foreign Minister"
+      ],
+      "title_ents": [
+        {
+          "text": "One-hour",
+          "label": "TIME"
+        },
+        {
+          "text": "daily",
+          "label": "DATE"
+        },
+        {
+          "text": "Power-Cuts",
+          "label": "WORK_OF_ART"
+        },
+        {
+          "text": "9th",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "September",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "Sri Lanka's",
+            "label": "GPE"
+          },
+          {
+            "text": "Public Utilities Commission",
+            "label": "ORG"
+          },
+          {
+            "text": "1 hour",
+            "label": "TIME"
+          },
+          {
+            "text": "6th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "9th September",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "19th",
+            "label": "ORDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 6 \u0dc3\u0dd2\u0da7 9 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0daf\u0dd2\u0db1\u0d9a\u0da7 \u0db4\u0dd0\u0dba\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0dc0\u0dd2\u0dc3\u0db1\u0dca\u0db0\u0dd2 \u0dc0\u0dda",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 6 \u0dc3\u0dd2\u0da7 9 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dd0\u0dba 1 \u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca \u0db4\u0dc4\u0dad \u0db4\u0dbb\u0dd2\u0daf\u0dd2 \u0d85\u0db1\u0dd4\u0db8\u0dad \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0dc3\u0dbb\u0dab\u0dcf\u0d9c\u0dad\u0dba\u0dd2\u0db1\u0dca \u0d86\u0db4\u0dc3\u0dd4 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0da7 \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dc3\u0dd0\u0dbd\u0dc3\u0dd3\u0db8\u0da7 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+        "19 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab\u0dba\u0dd9\u0db1\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2 \u2013 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d87\u0db8\u0dd0\u0dad\u0dd2"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0db4\u0dd0\u0dba\u0d9a\u0dca",
+          "label": "TIME"
+        },
+        {
+          "text": "\u0daf\u0dd2\u0db1\u0db4\u0dad\u0dcf",
+          "label": "DATE"
+        },
+        {
+          "text": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0dc0\u0dd2\u0dc3\u0db1\u0dca\u0db0\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+          "label": "WORK_OF_ART"
+        },
+        {
+          "text": "9 \u0dc0\u0dd0\u0db1\u0dd2",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 1 \u0dba\u0dd2",
+            "label": "TIME"
+          },
+          {
+            "text": "6 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 9",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "19 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 6\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 9\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0bb5\u0bb0\u0bc8 \u0ba4\u0bbf\u0ba9\u0bae\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bc6\u0bae\u0bcd\u0baa\u0bb0\u0bcd 6\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 9\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bb5\u0bb0\u0bc8 1 \u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba9\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b85\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0b9a\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bc8 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+        "19\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0b95 \u0b85\u0bae\u0bc1\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u2013 \u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b92\u0bb0\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+          "label": "TIME"
+        },
+        {
+          "text": "\u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf",
+          "label": "DATE"
+        },
+        {
+          "text": "\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1",
+          "label": "WORK_OF_ART"
+        },
+        {
+          "text": "9\u0bb5\u0ba4\u0bc1",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bca\u0ba4\u0bc1 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "6\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 9",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "19\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}

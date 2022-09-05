@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-warned-of-floods-rough-seas-if-heavy-rains-continue-99471/",
+    "time_ut": 1662375420,
+    "original_lang": "en",
+    "original_title": "Sri Lanka warned of floods, rough seas if heavy rains continue",
+    "file_name": "/tmp/news_lk2/articles/45/45aecff4.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84767/committee-appointed-to-facilitate-repatriation-of-sri-lankan-refugees-from-india",
+    "time_ut": 1662375300,
+    "original_lang": "en",
+    "original_title": "Committee appointed to facilitate repatriation of Sri Lankan refugees from India",
+    "file_name": "/tmp/news_lk2/articles/4e/4e5e3174.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0db4\u0dd0\u0dba\u0d9a\u0da7-\u0d85\u0da9\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/101-619335",
+    "time_ut": 1662375139,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0db4\u0dd0\u0dba\u0d9a\u0da7 \u0d85\u0da9\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ee/eed32027.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/05/one-hour-daily-power-cuts-from-6th-to-9th-september/",
+    "time_ut": 1662375120,
+    "original_lang": "en",
+    "original_title": "One-hour daily Power-Cuts from 6th to 9th September",
+    "file_name": "/tmp/news_lk2/articles/35/35094adb.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84766/flood-early-warning-issued-for-several-areas",
     "time_ut": 1662374700,
