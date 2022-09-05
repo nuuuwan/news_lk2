@@ -10,7 +10,7 @@
       "author": "unknown",
       "body_lines": [
         "Heavy rain is likely to occur in some parts of the country during the next 24 hours from today (05) night.",
-        "According to this, the Irrigation Department has issued a flood warning that there is a risk of flooding in one or more of the said rivers in Attanagalu, Kalu, Kalani, King and Nilwala river basins.",
+        "According to this, the Irrigation Department has issued a flood warning that there is a risk of flooding in one or more of the said rivers in case of heavy rains as the land is filled with water in Attanagalu, Kalu, Kalani, King and Nilwala river basins.",
         "The public living in flood prone areas in the above river basins are requested to be cautious in this regard. (R)"
       ],
       "title_ents": [],
@@ -107,7 +107,7 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 24 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
             "label": "TIME"
           },
           {

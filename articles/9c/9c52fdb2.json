@@ -1,0 +1,153 @@
+{
+  "newspaper_id": "ada-lk",
+  "url": "https://www.ada.lk/breaking_news/\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda-\u0dc3\u0dc4-\u0db8\u0dc0\u0dd4\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0db8\u0db1\u0dca\u0daf\u0db4\u0ddd\u0dc2\u0dab\u0dba-\u0d9c\u0dd0\u0db1-\u0daf\u0dd2\u0db1-02\u0d9a-\u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0dca/11-396901",
+  "time_ut": 1662373202,
+  "original_lang": "si",
+  "original_title": "\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dc4 \u0db8\u0dc0\u0dd4\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0db8\u0db1\u0dca\u0daf\u0db4\u0ddd\u0dc2\u0dab\u0dba \u0d9c\u0dd0\u0db1 \u0daf\u0dd2\u0db1 02\u0d9a \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0dca",
+  "text_idx": {
+    "en": {
+      "title": "A 02-day debate on child and maternal malnutrition",
+      "author": "unknown",
+      "body_lines": [
+        "A two-day debate is scheduled to be held in Parliament tomorrow (6th) and the day after (7th) regarding the report issued by UNICEF regarding the malnutrition situation of children and mothers in this country.",
+        "The proposal for the debate is presented by the Samagi Jana Balawegaya Party."
+      ],
+      "title_ents": [
+        {
+          "text": "02-day",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "two-day",
+            "label": "DATE"
+          },
+          {
+            "text": "Parliament",
+            "label": "ORG"
+          },
+          {
+            "text": "tomorrow",
+            "label": "DATE"
+          },
+          {
+            "text": "6th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "the day",
+            "label": "DATE"
+          },
+          {
+            "text": "7th",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "the Samagi Jana Balawegaya Party",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dc4 \u0db8\u0dc0\u0dd4\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0db8\u0db1\u0dca\u0daf\u0db4\u0ddd\u0dc2\u0dab\u0dba \u0d9c\u0dd0\u0db1 \u0daf\u0dd2\u0db1 02\u0d9a \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0dca",
+      "author": "unknown",
+      "body_lines": [
+        "\u0db8\u0dd9\u0dbb\u0da7\u00a0 \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dc4 \u0db8\u0dc0\u0dd4\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda\u00a0 \u0db8\u0db1\u0dca\u0daf\u0db4\u0ddd\u0dc2\u0dab \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dc0 \u0dba\u0dd4\u0db1\u0dd2\u0dc3\u0dd9\u0dc6\u0dca \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dc5 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca\u00a0 \u0daf\u0dd2\u0db1 \u0daf\u0dd9\u0d9a\u0d9a \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0dca \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dc4\u0dd9\u0da7 (6\u0daf\u0dcf) \u0dc3\u0dc4 \u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf (7\u0daf\u0dcf) \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dba.",
+        "\u0d91\u0db8 \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dd4 \u0dbd\u0db6\u0db1\u0dca\u0db1\u0dda \u0dc3\u0db8\u0d9c\u0dd2 \u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba \u0db4\u0d9a\u0dca\u0dc2\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0daf\u0dd2\u0db1 02",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0daf\u0dd2\u0db1 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc4\u0dd9\u0da7",
+            "label": "DATE"
+          },
+          {
+            "text": "6 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0daf\u0dc0\u0dc3",
+            "label": "DATE"
+          },
+          {
+            "text": "7 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0db8\u0d9c\u0dd2 \u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba \u0db4\u0d9a\u0dca\u0dc2\u0dba",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bbe\u0baf\u0bcd\u0bb5\u0bb4\u0bbf \u0b8a\u0b9f\u0bcd\u0b9f\u0b9a\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bbe\u0b9f\u0bc1 \u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf 02 \u0ba8\u0bbe\u0bb3\u0bcd \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b87\u0ba8\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bbe\u0baf\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0b9a\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bbe\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0bae\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baf\u0bc1\u0ba9\u0bbf\u0b9a\u0bc6\u0baa\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 (6\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bb1\u0bc1\u0ba4\u0bbf\u0ba9\u0bae\u0bcd (7\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf) \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbe\u0bb3\u0bcd \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b9a\u0bae\u0b95\u0bbf \u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bbf\u0bb0\u0bc7\u0bb0\u0ba3\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "02-\u0ba8\u0bbe\u0bb3\u0bcd",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0bb3\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "6\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "7\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bae\u0b95\u0bbf \u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}

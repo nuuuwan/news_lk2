@@ -9,7 +9,7 @@
       "title": "\"ELLA ODYSSEY\" starts 02 new journeys",
       "author": "unknown",
       "body_lines": [
-        "\"ELLA ODYSSEY\" train running on weekends on Udada route will run two more times from 2022.09.08 in addition to the current train, Railway Deputy General Manager T.S. Mr. Polwattage announces.",
+        "\"ELLA ODYSSEY\" train running on Udarata route on weekends will run two more times from 08.09.2022, in addition to the current train, Railway Deputy General Manager T.S. Mr. Polwattage announces.",
         "Trains running on the demand of local tourists run every Thursday from Koloo to Badulla and every Friday from Badulla to Koloo.",
         "The Deputy General Manager further said that seat allocation will be done on 02.09.2022 from 03.00 pm and seats can be allocated within 14 days of the train's scheduled departure date."
       ],
@@ -30,15 +30,7 @@
             "label": "ORG"
           },
           {
-            "text": "Udada",
-            "label": "ORG"
-          },
-          {
             "text": "two",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "2022.09.08",
             "label": "CARDINAL"
           },
           {
@@ -117,15 +109,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0d8b\u0daf\u0dcf\u0daf",
-            "label": "ORG"
-          },
-          {
             "text": "\u0daf\u0dd9\u0d9a",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "2022.09.08",
             "label": "CARDINAL"
           },
           {
@@ -204,15 +188,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b89\u0b9f\u0b9f\u0bbe",
-            "label": "ORG"
-          },
-          {
             "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "2022.09.08",
             "label": "CARDINAL"
           },
           {
