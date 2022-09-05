@@ -1,6 +1,86 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/05/daily-exchange-rate-from-cbsl/",
+    "time_ut": 1662354840,
+    "original_lang": "en",
+    "original_title": "Daily Exchange Rate from CBSL",
+    "file_name": "/tmp/news_lk2/articles/86/868f48aa.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/German-expertise-to-develop-PPP-model-in-energy-secror/342-244323",
+    "time_ut": 1662354193,
+    "original_lang": "en",
+    "original_title": "German expertise to develop PPP model in energy secror",
+    "file_name": "/tmp/news_lk2/articles/7b/7ba3ecbc.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/05/over-200-filling-stations-closed-island-wide/",
+    "time_ut": 1662353820,
+    "original_lang": "en",
+    "original_title": "Over 200 filling stations closed island-wide",
+    "file_name": "/tmp/news_lk2/articles/a5/a54db91c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0db6\u0daf\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab-\u0d85\u0dba\u0dc0\u0dd0\u0dba-\u0db4\u0dd3\u0da9\u0db1\u0dba\u0d9a\u0dca\u0daf-/2-619299",
+    "time_ut": 1662353673,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0daf\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0db4\u0dd3\u0da9\u0db1\u0dba\u0d9a\u0dca\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/16/163c826a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0ba3\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-303593",
+    "time_ut": 1662353581,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0ba3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1; \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/2e/2e6d0485.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0db8\u0dbb\u0dab-\u0daf\u0dac\u0dd4\u0dc0\u0db8-\u0db1\u0ddc\u0daf\u0dd3\u0db8\u0da7-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dad\u0dd3\u0dbb\u0dab\u0dba-\u0d85\u0d9c\u0dba\u0db8\u0dd4/2-619298",
+    "time_ut": 1662353491,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dbb\u0dab \u0daf\u0dac\u0dd4\u0dc0\u0db8 \u0db1\u0ddc\u0daf\u0dd3\u0db8\u0da7 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d85\u0d9c\u0dba\u0db8\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/67/6776ab22.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bc6\u0b99\u0bcd\u0b95\u0bc1-\u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1/175-303592",
+    "time_ut": 1662353397,
+    "original_lang": "ta",
+    "original_title": "\u0b9f\u0bc6\u0b99\u0bcd\u0b95\u0bc1 \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/cb/cb46f935.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba\u0da7-\u0d85\u0daf-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca/101-619297",
+    "time_ut": 1662353188,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba\u0da7 \u0d85\u0daf \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/1a/1a67ca68.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/No-discussion-on-appointing-Gotabaya-as-PM-or-to-any-other-position-Ruwan/342-244322",
+    "time_ut": 1662353070,
+    "original_lang": "en",
+    "original_title": "No discussion on appointing Gotabaya as PM or to any other position: Ruwan",
+    "file_name": "/tmp/news_lk2/articles/6a/6a2ebf74.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84753/india-provided-nearly-4-billion-in-food-financial-assistance-to-sri-lanka",
+    "time_ut": 1662353040,
+    "original_lang": "en",
+    "original_title": "India provided nearly $4 billion in food, financial assistance to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/f4/f4126654.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/05/india-provided-4-billion-in-food-indian-rep-to-un/",
     "time_ut": 1662352260,
     "original_lang": "en",
@@ -46,6 +126,14 @@
     "original_lang": "en",
     "original_title": "CBK to open Nawa Lanka Freedom Party Office",
     "file_name": "/tmp/news_lk2/articles/3f/3f80f7fa.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/picture_story/\u0dc4\u0dcf\u0dbd\u0dca-\u0d9c\u0dd2\u0db1\u0dd2-\u0d9c\u0dcf\u0dab\u0da7-\u0dba\u0daf\u0dca\u0daf\u0dd3-PMB\u0dba\u0dda-\u0dbb\u0dd4--\u0dbd\u0d9a\u0dca\u0dc2-\u0d9c\u0dab\u0db1\u0d9a-\u0dc0\u0dd3-\u0db8\u0db1\u0db8\u0dca\u0db4\u0dd2\u0da7\u0dd2\u0dba\u0dda\u0daf\u0dd3-\u0daf\u0dd2\u0dbb\u0dba\u0dd2---\u0d9a\u0dd8\u0dc2\u0dd2-\u0d87\u0db8\u0dad\u0dd2\u0d9c\u0dda-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba\u0da7/10-396887",
+    "time_ut": 1662349708,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dcf\u0dbd\u0dca \u0d9c\u0dd2\u0db1\u0dd2 \u0d9c\u0dcf\u0dab\u0da7 \u0dba\u0daf\u0dca\u0daf\u0dd3 PMB\u0dba\u0dda \u0dbb\u0dd4. \u0dbd\u0d9a\u0dca\u0dc2 \u0d9c\u0dab\u0db1\u0d9a \u0dc0\u0dd3 \u0db8\u0db1\u0db8\u0dca\u0db4\u0dd2\u0da7\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0daf\u0dd2\u0dbb\u0dba\u0dd2 - \u0d9a\u0dd8\u0dc2\u0dd2 \u0d87\u0db8\u0dad\u0dd2\u0d9c\u0dda \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/1a/1afd0a31.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -5502,14 +5590,6 @@
     "original_lang": "en",
     "original_title": "IMF and Sri Lanka reaches staff-level agreement for US$2.9bn program",
     "file_name": "/tmp/news_lk2/articles/f1/f1d3a90f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/09/01/daily-exchange-rate-from-cbsl/",
-    "time_ut": 1662010020,
-    "original_lang": "en",
-    "original_title": "Daily Exchange Rate from CBSL",
-    "file_name": "/tmp/news_lk2/articles/f9/f992634e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
