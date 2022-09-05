@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Presidents-Office-says-no-request-by-controversial-Hindu-guru-to-seek-asylum-in-SL/342-244334",
+    "time_ut": 1662372043,
+    "original_lang": "en",
+    "original_title": "President\u2019s Office says no request by controversial Hindu guru to seek asylum in SL",
+    "file_name": "/tmp/news_lk2/articles/49/49019460.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd-\u0db7\u0dd6\u0db8\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0d87\u0dc4\u0dd2\u0dbd\u0dd6-\u0db6\u0dc0-\u0d9a\u0dd2\u0dba\u0db1-\u0d8b\u0dab\u0dca\u0da9-\u0dc3\u0db8\u0d9c-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/101-619329",
+    "time_ut": 1662371686,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd \u0db7\u0dd6\u0db8\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d87\u0dc4\u0dd2\u0dbd\u0dd6 \u0db6\u0dc0 \u0d9a\u0dd2\u0dba\u0db1 \u0d8b\u0dab\u0dca\u0da9 \u0dc3\u0db8\u0d9c \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7",
+    "file_name": "/tmp/news_lk2/articles/26/26ab2ce6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Committee-appointed-to-facilitate-repatriation-of-SL-refugees-from-India/342-244333",
+    "time_ut": 1662371620,
+    "original_lang": "en",
+    "original_title": "Committee appointed to facilitate repatriation of SL refugees from India",
+    "file_name": "/tmp/news_lk2/articles/66/663fd94b.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db8\u0dd0\u0db3\u0dd4\u0dbb\u0da7-\u0db4\u0dd0\u0db1\u0dca\u0db1-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-37-\u0d9a\u0dca-\u0db8\u0dda-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0dda/101-619328",
+    "time_ut": 1662371518,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0dd0\u0db3\u0dd4\u0dbb\u0da7 \u0db4\u0dd0\u0db1\u0dca\u0db1 \u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd 37 \u0d9a\u0dca \u0db8\u0dda \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/54/54abf194.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/05/sri-lanka-appoints-committee-to-facilitate-return-of-refugees-in-india/",
+    "time_ut": 1662371280,
+    "original_lang": "en",
+    "original_title": "Sri Lanka appoints committee to facilitate return of Refugees in India",
+    "file_name": "/tmp/news_lk2/articles/e7/e76b0222.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bcd-\u0ba8\u0bbe\u0b9f\u0bc1-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bc8-\u0b87\u0bb2\u0b95\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0b95\u0bc1\u0bb4\u0bc1/175-303601",
     "time_ut": 1662371088,
@@ -4081,11 +4121,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Supreme-Court-allows-Basil-to-travel-USA-for-four-months/155-244203",
+    "url": "https://www.dailymirror.lk/breaking_news/Supreme-Court-allows-Basil-to-travel-USA-for-four-months/108-244203",
     "time_ut": 1662106793,
     "original_lang": "en",
     "original_title": "Supreme Court allows Basil to travel USA for four months",
-    "file_name": "/tmp/news_lk2/articles/13/138a84f0.json"
+    "file_name": "/tmp/news_lk2/articles/ac/ac5d6eee.json"
   },
   {
     "newspaper_id": "news-first-lk",
