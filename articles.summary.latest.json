@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1-\u0b85\u0baa\u0bbe\u0baf-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-303633",
+    "time_ut": 1662402331,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1 \u0b85\u0baa\u0bbe\u0baf \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/ef/ef5e6f9c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Proposal-to-register-all-individuals-above-18-years-with-the-Tax-Authorities/172-244367",
+    "time_ut": 1662399316,
+    "original_lang": "en",
+    "original_title": "Proposal to register all individuals above 18 years with the Tax Authorities",
+    "file_name": "/tmp/news_lk2/articles/66/66c56381.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bc8-\u0b95\u0bc8\u0ba4\u0bc1-\u0b9a\u0bc6\u0baf\u0bcd\u0baf-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-303631",
     "time_ut": 1662396711,
     "original_lang": "ta",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s Chinese-built Lotus Tower to be commence operations on Sep 15",
     "file_name": "/tmp/news_lk2/articles/96/96fb4100.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/08/31/motorcycle-gunmen-open-fire-near-negombo-court/",
-    "time_ut": 1661938620,
-    "original_lang": "en",
-    "original_title": "Motorcycle gunmen open fire near Negombo Court",
-    "file_name": "/tmp/news_lk2/articles/9b/9ba65407.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dd3\u0d9c\u0db8\u0dd4\u0dc0-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba-\u0d85\u0dc3\u0dbd-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-02\u0d9a\u0dca-\u0dbb\u0ddc\u0dca\u0dc4\u0dbd\u0da7/11-396783",
-    "time_ut": 1661938297,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dd3\u0d9c\u0db8\u0dd4\u0dc0 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba \u0d85\u0dc3\u0dbd \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca 02\u0d9a\u0dca \u0dbb\u0ddc\u0dca\u0dc4\u0dbd\u0da7",
-    "file_name": "/tmp/news_lk2/articles/5f/5fc48a0b.json"
   }
 ]
