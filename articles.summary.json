@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Economic-crisis-SJB-requests-not-to-expand-cabinet/108-244327",
+    "time_ut": 1662361980,
+    "original_lang": "en",
+    "original_title": "Economic crisis: SJB requests not to expand cabinet",
+    "file_name": "/tmp/news_lk2/articles/2d/2d4713cd.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0b9a\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd/175-303599",
+    "time_ut": 1662361194,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0b9a\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/a4/a4ab38c8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Red-alert-issued-in-9-districts-over-150mm-rainfall-expected-Met-Dept/108-244325",
+    "time_ut": 1662361151,
+    "original_lang": "en",
+    "original_title": "Red alert issued in 9 districts; over 150mm rainfall expected: Met Dept",
+    "file_name": "/tmp/news_lk2/articles/00/00f3f664.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/09/05/weather-warning-heavy-rains-for-multiple-provinces/",
     "time_ut": 1662360660,
     "original_lang": "en",
     "original_title": "Weather Warning: Heavy rains for multiple provinces",
     "file_name": "/tmp/news_lk2/articles/fd/fdf2ed0a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0dca-\u0dc3\u0db7\u0dcf\u0dc0\u0dda-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0da2\u0d9c\u0dad\u0dca/11-396892",
+    "time_ut": 1662360575,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0dca \u0dc3\u0db7\u0dcf\u0dc0\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da2\u0d9c\u0dad\u0dca",
+    "file_name": "/tmp/news_lk2/articles/43/43c5c917.json"
   },
   {
     "newspaper_id": "news-first-lk",
