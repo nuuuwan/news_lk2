@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb-\u0dc3\u0db7\u0dcf\u0dc0-\u0daf\u0dd2\u0dc0\u0dd4\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba-\u0dc3\u0db7\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0d9c\u0dad\u0dca\u0dad-\u0db4\u0ddc\u0dbd\u0dca\u0dc0\u0dbd\u0da7-\u0db4\u0ddc\u0dbd\u0dca\u0dbd\u0d9a\u0dca/101-619323",
+    "time_ut": 1662362899,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb \u0dc3\u0db7\u0dcf\u0dc0 \u0daf\u0dd2\u0dc0\u0dd4\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0dc3\u0db7\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d9c\u0dad\u0dca\u0dad \u0db4\u0ddc\u0dbd\u0dca\u0dc0\u0dbd\u0da7 \u0db4\u0ddc\u0dbd\u0dca\u0dbd\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/c4/c467e4bf.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Economic-crisis-SJB-requests-not-to-expand-cabinet/108-244327",
     "time_ut": 1662361980,
     "original_lang": "en",
     "original_title": "Economic crisis: SJB requests not to expand cabinet",
     "file_name": "/tmp/news_lk2/articles/2d/2d4713cd.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae\u0dba-\u0d9c\u0dc3\u0d9a-\u0dc4\u0dd0\u0db4\u0dd3-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dd4-\u0db8\u0dbb\u0dd4\u0da7/11-396893",
+    "time_ut": 1662361474,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba \u0d9c\u0dc3\u0d9a \u0dc4\u0dd0\u0db4\u0dd3 \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dd4 \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/03/03b48803.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -17,11 +33,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Red-alert-issued-in-9-districts-over-150mm-rainfall-expected-Met-Dept/108-244325",
+    "url": "https://www.dailymirror.lk/latest_news/Red-alert-issued-in-9-districts-over-150mm-rainfall-expected-Met-Dept/342-244325",
     "time_ut": 1662361151,
     "original_lang": "en",
     "original_title": "Red alert issued in 9 districts; over 150mm rainfall expected: Met Dept",
-    "file_name": "/tmp/news_lk2/articles/00/00f3f664.json"
+    "file_name": "/tmp/news_lk2/articles/18/18824443.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -49,11 +65,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba\u0dad\u0dca\u0dc0\u0dba\u0da7---\u0d8b\u0dc3\u0dc3\u0dca-\u0db4\u0dd9\u0dc5\u0da7-\u0daf\u0dd2\u0db1-\u0db1\u0dd2\u0dba\u0db8-\u0dc0\u0dd9\u0dba\u0dd2/1-619320",
+    "url": "https://www.lankadeepa.lk/news/\u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba\u0dad\u0dca\u0dc0\u0dba\u0da7---\u0d8b\u0dc3\u0dc3\u0dca-\u0db4\u0dd9\u0dc5\u0da7-\u0daf\u0dd2\u0db1-\u0db1\u0dd2\u0dba\u0db8-\u0dc0\u0dd9\u0dba\u0dd2/101-619320",
     "time_ut": 1662360119,
     "original_lang": "si",
     "original_title": "\u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba\u0dad\u0dca\u0dc0\u0dba\u0da7 - \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5\u0da7 \u0daf\u0dd2\u0db1 \u0db1\u0dd2\u0dba\u0db8 \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/49/4953e299.json"
+    "file_name": "/tmp/news_lk2/articles/7e/7e3baabe.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -65,6 +81,14 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/12-5Kg-LITRO-gas-cylinder-price-down-by-Rs-113/342-244324",
+    "time_ut": 1662359131,
+    "original_lang": "en",
+    "original_title": "12.5Kg LITRO gas cylinder price down by Rs.113",
+    "file_name": "/tmp/news_lk2/articles/f2/f2986f0f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/12-5Kg-LITRO-gas-cylinder-price-reduced-by-Rs-113/108-244324",
     "time_ut": 1662359131,
     "original_lang": "en",
@@ -73,11 +97,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u2019\u2019\u0d85\u0daf-\u0d94\u0d9a\u0dca\u0d9a\u0ddc\u0db8-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda--\u0d9a\u0db4\u0dd4\u0da7\u0dcf\u2019\u2019/1-619317",
+    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0d85\u0daf-\u0d94\u0d9a\u0dca\u0d9a\u0ddc\u0db8-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda--\u0d9a\u0db4\u0dd4\u0da7\u0dcf\u2019\u2019/101-619317",
     "time_ut": 1662358827,
     "original_lang": "si",
     "original_title": "\u2019\u2019\u0d85\u0daf \u0d94\u0d9a\u0dca\u0d9a\u0ddc\u0db8 \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda  \u0d9a\u0db4\u0dd4\u0da7\u0dcf\u2019\u2019",
-    "file_name": "/tmp/news_lk2/articles/c0/c0dc4523.json"
+    "file_name": "/tmp/news_lk2/articles/4d/4d6f93d9.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -2105,19 +2129,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/main_image/\u0daf\u0ddb\u0dc0\u0dba\u0da7-\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c-\u0d9a\u0dbd-\u0daf\u0dd2\u0dbb\u0dd2\u0dba-\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba/51-619235",
-    "time_ut": 1662202418,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0ddb\u0dc0\u0dba\u0da7 \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c \u0d9a\u0dbd \u0daf\u0dd2\u0dbb\u0dd2\u0dba \u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba",
-    "file_name": "/tmp/news_lk2/articles/7c/7c1e6775.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/main_image/\u0d9a\u0d9a\u0dd4\u0dbd\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba-\u0dbd\u0dd2\u0dba\u0dcf-\u0d8b\u0dc3\u0dc3\u0dca-\u0db4\u0dd9\u0dc5-\u0d89\u0dc4\u0dbd\u0dd2\u0db1\u0dca\u0db8-\u0dc3\u0db8\u0dad\u0dca-\u0dc0\u0dd6-\u0daf\u0ddb\u0dc0\u0dba\u0da7-\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c-\u0d9a\u0dbd-\u0daf\u0dd2\u0dbb\u0dd2\u0dba-\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba/51-619235",
     "time_ut": 1662202418,
     "original_lang": "si",
     "original_title": "\u0d9a\u0d9a\u0dd4\u0dbd\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba \u0dbd\u0dd2\u0dba\u0dcf \u0d8b\u0dc3\u0dc3\u0dca \u0db4\u0dd9\u0dc5 \u0d89\u0dc4\u0dbd\u0dd2\u0db1\u0dca\u0db8 \u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd6 \u0daf\u0ddb\u0dc0\u0dba\u0da7 \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c \u0d9a\u0dbd \u0daf\u0dd2\u0dbb\u0dd2\u0dba \u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba",
     "file_name": "/tmp/news_lk2/articles/cc/cc939bae.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/main_image/\u0daf\u0ddb\u0dc0\u0dba\u0da7-\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c-\u0d9a\u0dbd-\u0daf\u0dd2\u0dbb\u0dd2\u0dba-\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba/51-619235",
+    "time_ut": 1662202418,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0ddb\u0dc0\u0dba\u0da7 \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c \u0d9a\u0dbd \u0daf\u0dd2\u0dbb\u0dd2\u0dba \u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba",
+    "file_name": "/tmp/news_lk2/articles/7c/7c1e6775.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka bakery owners shift price control drumbeat from eggs to wheat flour",
     "file_name": "/tmp/news_lk2/articles/00/00e66c9d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-reduces-retirement-age-among-measures-to-rationalize-state-sector-99200/",
-    "time_ut": 1661863380,
-    "original_lang": "en",
-    "original_title": "Sri Lanka reduces retirement age among measures to rationalize state-sector",
-    "file_name": "/tmp/news_lk2/articles/2d/2d352b32.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/crisis-hit-sri-lankas-interim-budget-aims-ambitious-revenue-debt-cut-targets-99193/",
-    "time_ut": 1661854980,
-    "original_lang": "en",
-    "original_title": "Crisis-hit Sri Lanka\u2019s interim budget aims ambitious revenue, debt cut targets",
-    "file_name": "/tmp/news_lk2/articles/50/50996edd.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-2022-interim-budget-proposes-new-targeted-welfare-system-99185/",
-    "time_ut": 1661853780,
-    "original_lang": "en",
-    "original_title": "Sri Lanka 2022 interim budget proposes new targeted welfare system",
-    "file_name": "/tmp/news_lk2/articles/d1/d1a7808d.json"
   }
 ]
