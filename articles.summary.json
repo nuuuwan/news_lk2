@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd0\u0db1\u0da9\u0dcf\u0dc0\u0dda-\u0db4\u0dd2\u0dc4\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb-\u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dd2\u0db1\u0dca-10-\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/1-619289",
+    "time_ut": 1662336787,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf\u0dc0\u0dda \u0db4\u0dd2\u0dc4\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb \u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dd2\u0db1\u0dca 10 \u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/2f/2fe2b4b4.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Kiriella-tells-Govt-to-release-political-detainees-before-HRC-sessions/56-739488",
     "time_ut": 1662327393,
@@ -38,6 +46,14 @@
     "original_lang": "en",
     "original_title": "DIMO honoured with ISO 45001:2018 certification",
     "file_name": "/tmp/news_lk2/articles/ba/ba071170.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb-\u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bbf\u0bb1\u0ba4\u0bc1/175-303563",
+    "time_ut": 1662317412,
+    "original_lang": "ta",
+    "original_title": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/af/af6fe40d.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -1198,6 +1214,22 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s Paris Club creditors ready to start debt talks",
     "file_name": "/tmp/news_lk2/articles/74/740c8fb7.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79358",
+    "time_ut": 1662233040,
+    "original_lang": "en",
+    "original_title": "Ranjan  Ramanayake\u2019s  release and the cases against him on Contempt of Court certainly raises many issues about how our legal system covers or addresses the subject of Contempt.",
+    "file_name": "/tmp/news_lk2/articles/d0/d0c6cd47.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/79361",
+    "time_ut": 1662231960,
+    "original_lang": "en",
+    "original_title": "Sri Lankans from different Walks of Live Gather in Large Numbers  in an Expression of Gratitude to Thank India for all of the support extended to Sri Lanka towards overcoming the economic obstacles the country has been facing in Recent Times",
+    "file_name": "/tmp/news_lk2/articles/1f/1f8c9252.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
