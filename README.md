@@ -1,42 +1,38 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-05 12:15:05 (LK time)*
+*As of 2022-09-05 12:35:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **2** lankadeepa-lk ([’’අද ඔක්කොම කරන්නේ  කපුටා’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0dc4523.json))
+* **2** news-first-lk ([Weather Warning: Strong winds for coastal areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2099974.json))
+
+* **1** lankadeepa-lk ([ශිෂ්‍යත්වයට - උසස් පෙළට දින නියම වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4953e299.json))
+
+## Last Hour (11 Articles)
+
+* **3** news-first-lk ([#PriceDrop: Litro announces revised LP Gas Prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85ecb779.json))
+
+* **3** lankadeepa-lk ([’’අද ඔක්කොම කරන්නේ  කපුටා’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0dc4523.json))
+
+* **2** ada-lk ([වෙල්ගමගේ නව පක්ෂ කාර්යාලය බත්තරමුල්ලේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/179af008.json))
 
 * **1** daily-mirror-lk ([12.5Kg LITRO gas cylinder price reduced by Rs.113](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34d64086.json))
 
 * **1** ada-derana-lk ([Litro gas prices reduced](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35a8baac.json))
 
-## Last Hour (13 Articles)
+* **1** economy-next-com ([Sri Lanka’s state-run Litro reduces cooking gas prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8b5bb6f.json))
 
-* **3** ada-derana-lk ([Dates for A/L and Scholarship exams announced](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f99ce40.json))
+## Last 3 Hours (41 Articles)
 
-* **2** lankadeepa-lk ([’’අද ඔක්කොම කරන්නේ  කපුටා’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0dc4523.json))
+* **12** news-first-lk ([Decision on Wheat Flour Prices today (5)](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a8efb6a.json))
 
-* **2** economy-next-com ([Sri Lanka ex president Kumaratunga declares open New Lanka Freedom Party HQ](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78324edd.json))
-
-* **2** ada-lk ([12 මහලෙන් වැටී අයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/dae2cf34.json))
-
-* **2** news-first-lk ([Cleaner dies after falling off high-rise in Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79b74899.json))
-
-* **1** daily-mirror-lk ([12.5Kg LITRO gas cylinder price reduced by Rs.113](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34d64086.json))
-
-* **1** tamil-mirror-lk ([பரீட்சை ஆணையாளர் நாயகத்தின் முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92cc6366.json))
-
-## Last 3 Hours (40 Articles)
-
-* **12** news-first-lk ([CBK to open Nawa Lanka Freedom Party Office](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f80f7fa.json))
+* **8** lankadeepa-lk ([බ්‍රිතාන්‍යයට අද අලුත් අගමැතිවරයෙක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/384f87af.json))
 
 * **8** ada-derana-lk ([India provided nearly $4 billion in food, financial assistance to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4126654.json))
 
-* **7** lankadeepa-lk ([බ්‍රිතාන්‍යයට අද අලුත් අගමැතිවරයෙක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/384f87af.json))
-
-* **4** ada-lk ([හාල් ගිනි ගාණට යද්දී PMBයේ රු. ලක්ෂ ගණනක වී මනම්පිටියේදී දිරයි - කෘෂි ඇමතිගේ අවධානයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1afd0a31.json))
+* **4** ada-lk ([ශිෂ්‍යත්වය දෙසැම්බර් 04 - උපෙළ දෙසැම්බර් 05](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b069a764.json))
 
 * **4** tamil-mirror-lk ([உணவு வகைகளின் விலையை குறைக்க முடியாது; அசேல சம்பத்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5cb7068.json))
 
@@ -44,21 +40,21 @@
 
 * **2** economy-next-com ([Sri Lanka ex president Kumaratunga declares open New Lanka Freedom Party HQ](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78324edd.json))
 
-## Last 24 Hours (171 Articles)
+## Last 24 Hours (173 Articles)
 
 * **32** tamil-mirror-lk ([கல்வி அமைச்சு விடுத்துள்ள முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1500c48b.json))
 
-* **27** lankadeepa-lk ([ලබන වසරේ පාසල් පොත්වලට කෝටි 1648ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38cd3a92.json))
+* **29** news-first-lk ([President extends condolences to family of Gorbachev](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64ed36de.json))
 
-* **27** news-first-lk ([President extends condolences to family of Gorbachev](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64ed36de.json))
+* **28** lankadeepa-lk ([ලබන වසරේ පාසල් පොත්වලට කෝටි 1648ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38cd3a92.json))
 
-* **25** ada-derana-lk ([Staff-level agreement an important step forward for Sri Lanka - IMF chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02628a7a.json))
+* **24** ada-derana-lk ([Youth falls to his death while trying to take a selfie](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0503800.json))
+
+* **17** ada-lk ([ලිට්‍රෝ ලාභ ලබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/2703264b.json))
 
 * **16** daily-mirror-lk ([Pettah vendors lament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b3610c4.json))
 
-* **16** ada-lk ([ලිට්‍රෝ ලාභ ලබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/2703264b.json))
-
-* **10** economy-next-com ([Sri Lanka telephone, data tariffs up by 20-pct](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65e9c8cb.json))
+* **9** economy-next-com ([Sri Lanka red hot crop, closed economy get rave views as malnutrition widens](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecdf86f0.json))
 
 * **9** daily-ft-lk ([How can Sri Lanka escape crisis with IMF’s $ 2.9 b?](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68bd6e3e.json))
 
@@ -66,15 +62,15 @@
 
 * **2** colombo-telegraph-com ([Child’s Guide To How Ranilnomics Should Be Designed & Implemented](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7f66a4f.json))
 
-## Last Week (1,026 Articles)
+## Last Week (1,030 Articles)
 
-* **174** lankadeepa-lk ([සාම්ප්‍රදායික නැට්ටුවාගේ අඳුරු වන්නම](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f3adc72.json))
+* **175** lankadeepa-lk ([සාම්ප්‍රදායික නැට්ටුවාගේ අඳුරු වන්නම](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f3adc72.json))
 
-* **142** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **144** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **137** tamil-mirror-lk ([’விருந்தினர்களின் இரவில்’  94 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60e5a4b.json))
 
-* **124** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
+* **125** ada-lk ([ව්‍යවසායක සහතික පත්‍ර පාඨමාලාවක් හඳුන්වා දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e206b6.json))
 
 * **115** ada-derana-lk ([Last Soviet leader Mikhail Gorbachev dies aged 91](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71faa08d.json))
 
@@ -90,15 +86,15 @@
 
 * **12** colombo-telegraph-com ([Gorbachev And Gotabaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/6129152c.json))
 
-## All Time (1,400 Articles)
+## All Time (1,404 Articles)
 
-* **241** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **242** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **175** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **176** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **161** daily-mirror-lk ([Children infected with Dengue, COVID-19 on the rise at LRH: Paediatrician](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f703d7c.json))
 
-* **142** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
+* **144** news-first-lk ([12 more arrests for 9th May violence](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0307cf2a.json))
 
 * **138** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
