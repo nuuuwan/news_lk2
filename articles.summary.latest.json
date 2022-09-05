@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bcd-\u0ba8\u0bbe\u0b9f\u0bc1-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bc8-\u0b87\u0bb2\u0b95\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0b95\u0bc1\u0bb4\u0bc1/175-303601",
+    "time_ut": 1662371088,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bc8 \u0b87\u0bb2\u0b95\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b95\u0bc1\u0bb4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/2f/2f42cb1b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84765/welfare-benefit-board-to-introduce-system-to-identify-those-in-need-of-financial-assistance",
+    "time_ut": 1662370860,
+    "original_lang": "en",
+    "original_title": "Welfare Benefit Board to introduce system to identify those in need of financial assistance",
+    "file_name": "/tmp/news_lk2/articles/78/78a3ff24.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/RW-govt-will-not-agree-on-external-mechanism-Foreign-Minister/342-244332",
+    "time_ut": 1662370789,
+    "original_lang": "en",
+    "original_title": "RW govt. will not agree on external mechanism: Foreign Minister",
+    "file_name": "/tmp/news_lk2/articles/10/1023e9a0.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84764/afghanistan-earthquake-kills-eight-more-casualties-feared",
     "time_ut": 1662369720,
@@ -25,11 +49,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0\u0dda-\u0dc0\u0dd3-\u0d85\u0db8\u0dca\u0db4\u0dcf\u0dbb\u0dda-\u0d9c\u0db6\u0da9\u0dcf\u0dc0\u0d9a-\u0daf\u0dd2\u0dbb\u0dba\u0dd2/101-619327",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0\u0dda-\u0dc0\u0dd3-\u0d85\u0db8\u0dca\u0db4\u0dcf\u0dbb\u0dda-\u0d9c\u0db6\u0da9\u0dcf\u0dc0\u0d9a-\u0daf\u0dd2\u0dbb\u0dba\u0dd2/1-619327",
     "time_ut": 1662369060,
     "original_lang": "si",
     "original_title": "\u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0\u0dda \u0dc0\u0dd3 \u0d85\u0db8\u0dca\u0db4\u0dcf\u0dbb\u0dda \u0d9c\u0db6\u0da9\u0dcf\u0dc0\u0d9a \u0daf\u0dd2\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/6d/6d522b32.json"
+    "file_name": "/tmp/news_lk2/articles/dc/dc7bb52d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -38,6 +62,14 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0dd9\u0dbb\u0da7 \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda \u0db8\u0db1\u0dca\u0daf\u0db4\u0ddd\u0dc2\u0dab\u0dba \u0d9c\u0dd0\u0db1 \u0daf\u0dd2\u0db1 \u0daf\u0dd9\u0d9a\u0d9a \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/c7/c71e8575.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae---\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2-\u0d9c\u0dd0\u0da7\u0dd3-03\u0d9a\u0da7-\u0db6\u0dbb\u0db4\u0dad\u0dbd\u0dba\u0dd2/11-396897",
+    "time_ut": 1662368112,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae - \u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2 \u0d9c\u0dd0\u0da7\u0dd3 03\u0d9a\u0da7 \u0db6\u0dbb\u0db4\u0dad\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/1b/1bc48ec6.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "President presents Interim Budget 2023, highlights proposals to create new economy",
     "file_name": "/tmp/news_lk2/articles/8e/8e4cbf2c.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Concerns-over-ban-of-import-of-raw-material-to-manufacture-hygienic-soft-tissue-paper-products/34-739292",
-    "time_ut": 1661900926,
-    "original_lang": "en",
-    "original_title": "Concerns over ban of import of raw material to manufacture hygienic soft tissue paper products",
-    "file_name": "/tmp/news_lk2/articles/14/14b396b6.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/UNDP-Govt-and-private-sector-partner-for-SDG-Investor-Map-for-Sri-Lanka/34-739291",
-    "time_ut": 1661900822,
-    "original_lang": "en",
-    "original_title": "UNDP, Govt. and private sector partner for SDG Investor Map for Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/a8/a814db38.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/UN-says-more-need-to-be-done-by-SL-to-win-confidence-of-families-of-victims-enforced-disappearances/56-739290",
-    "time_ut": 1661900530,
-    "original_lang": "en",
-    "original_title": "UN says more need to be done by SL to win confidence of families of victims enforced disappearances",
-    "file_name": "/tmp/news_lk2/articles/80/802f1533.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Police-use-tear-gas-and-water-cannons-to-disperse-IUSF-protesters/56-739289",
-    "time_ut": 1661900433,
-    "original_lang": "en",
-    "original_title": "Police use tear gas and water cannons to disperse IUSF protesters",
-    "file_name": "/tmp/news_lk2/articles/e5/e587af79.json"
   }
 ]
