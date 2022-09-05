@@ -1,30 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-05 23:27:14 (LK time)*
+*As of 2022-09-05 23:41:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (10 Articles)
+## Last 3 Hours (5 Articles)
 
-* **4** tamil-mirror-lk ([ராஜபக்ஷக்களுக்குக் காலக்கெடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea7b81f0.json))
+* **2** tamil-mirror-lk ([அமைச்சர் அலி சப்ரி விடுத்துள்ள செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/481df6b1.json))
 
 * **2** ada-derana-lk ([Fitch warns of high risk that Sri Lanka may default on local bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c9784a8.json))
 
-* **2** ada-lk ([බ්‍රිතාන්‍ය සුක්කානම කාන්තාවකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/4660b75e.json))
+* **1** ada-lk ([DMT මුදල් වෙනුවට කාඩ්පතුත් භාර ගනියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7eda7c7.json))
 
-* **1** news-first-lk ([Gotabaya has no place in politics again, says Welgama](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56e08a96.json))
-
-* **1** daily-mirror-lk ([Seas waves to rise as high as 3 metres](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0357d4e8.json))
-
-## Last 24 Hours (182 Articles)
+## Last 24 Hours (181 Articles)
 
 * **37** lankadeepa-lk ([කැනඩාවේ පිහි ප්‍රහාර මාලාවකින් 10 ක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fe2b4b4.json))
 
 * **29** tamil-mirror-lk ([ஐ.எம்.எப். உடன்படிக்கை சபைக்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aaeab8e5.json))
 
-* **25** ada-derana-lk ([Sajith claims President has become a hostage of the SLPP](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc965c8f.json))
-
 * **25** ada-lk ([බිත්තර මිල ගැසට්ටුව ආපසු හරවන්නේ නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61d05c24.json))
+
+* **24** ada-derana-lk ([Plans afoot to set up permanent office for ex-servicemen: Defence Secretary](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d55a4a06.json))
 
 * **24** news-first-lk ([Ali Sabry, Wijeyadasa to head to UNHRC today (5)](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1fd1b6e.json))
 
