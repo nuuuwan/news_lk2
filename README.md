@@ -1,28 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-05 19:31:52 (LK time)*
+*As of 2022-09-05 19:44:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** tamil-mirror-lk ([ரணில் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/dfaf915b.json))
+* **1** economy-next-com ([Sri Lanka shares gain for 5th session amid strong foreign inflows](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27d4ae6d.json))
 
-* **1** lankadeepa-lk ([සාපෙළ ප්‍රායෝගික පරික්ෂණ දින පහකින් පස්සට](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2cfb8980.json))
+## Last Hour (2 Articles)
 
-## Last 3 Hours (30 Articles)
+* **1** economy-next-com ([Sri Lanka shares gain for 5th session amid strong foreign inflows](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27d4ae6d.json))
+
+* **1** tamil-mirror-lk ([மகசீனை ஒப்படைக்க வந்தவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be4433b6.json))
+
+## Last 3 Hours (29 Articles)
 
 * **9** lankadeepa-lk ([පවුල් 61,000කට මසකට 10,000 දීමනාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57210531.json))
 
-* **7** tamil-mirror-lk ([குறைக்கப்பட்டது மின்வெட்டு நேரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/765b9f83.json))
+* **6** tamil-mirror-lk ([கொழும்புக்கு வருகிறது அமெரிக்க அன்பளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac53127f.json))
 
-* **4** economy-next-com ([Sri Lanka appoints committee to facilitate repatriation of refugees from India](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f25a72f1.json))
+* **5** economy-next-com ([Sri Lanka appoints committee to facilitate repatriation of refugees from India](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f25a72f1.json))
 
 * **4** daily-mirror-lk ([One-hour power cut until Friday: PUCSL](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a81f45a.json))
 
-* **3** ada-derana-lk ([One-hour power cuts scheduled for next four days](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71acec21.json))
-
 * **2** news-first-lk ([(VIDEO) School boy trapped in storm drain in Kurunegala, dies](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/dffafccc.json))
+
+* **2** ada-derana-lk ([Two more train journeys for ‘Ella Odyssey’](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac2d660b.json))
 
 * **1** ada-lk ([සරණාගතයින් ලෙස ඉන්දියාවට ගිය 58000න් 3800ක් යළි එන්න කැමැත්තෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4b1ef27.json))
 
@@ -30,7 +34,7 @@
 
 * **40** lankadeepa-lk ([තිරිඟු පිටි මිල වැඩිවීමට හේතුවක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8da4528d.json))
 
-* **28** tamil-mirror-lk ([கொரோனா உயிரிழப்புகள் அதிகரித்தன](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f13eb5e.json))
+* **27** tamil-mirror-lk ([இளைஞரின் உயிரை குடித்த செல்ஃபி](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/694c7f74.json))
 
 * **26** daily-mirror-lk ([Gota’s legacy and the ecological damage: This disaster is environmental as well as economic](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7b4fc12.json))
 
@@ -40,7 +44,7 @@
 
 * **22** news-first-lk ([Public Finance Committee Chief Harsha demands President publicize IMF conditions](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e10253bf.json))
 
-* **12** economy-next-com ([European biz chambers in Sri Lanka organise B2B organic food conference](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f856c0ae.json))
+* **13** economy-next-com ([European biz chambers in Sri Lanka organise B2B organic food conference](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f856c0ae.json))
 
 * **9** daily-ft-lk ([How can Sri Lanka escape crisis with IMF’s $ 2.9 b?](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68bd6e3e.json))
 
@@ -48,7 +52,7 @@
 
 * **3** colombo-telegraph-com ([Child’s Guide To How Ranilnomics Should Be Designed & Implemented](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7f66a4f.json))
 
-## Last Week (1,114 Articles)
+## Last Week (1,115 Articles)
 
 * **199** lankadeepa-lk ([අලුත් අයවැයේ  නැවුම් බලාපොරොත්තු](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6be07769.json))
 
@@ -62,7 +66,7 @@
 
 * **123** daily-mirror-lk ([Children, the most vulnerable group today](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25df5e2e.json))
 
-* **87** economy-next-com ([US to redouble efforts to support crisis-hit Sri Lanka: Ambassador](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/736dac40.json))
+* **88** economy-next-com ([US to redouble efforts to support crisis-hit Sri Lanka: Ambassador](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/736dac40.json))
 
 * **56** island-lk ([Corruption, irrationality, hilarity and pity](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b90fb2a.json))
 
@@ -72,7 +76,7 @@
 
 * **13** colombo-telegraph-com ([Gorbachev And Gotabaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/6129152c.json))
 
-## All Time (1,491 Articles)
+## All Time (1,492 Articles)
 
 * **267** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -90,7 +94,7 @@
 
 * **115** daily-ft-lk ([Immorality of attack on university students](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf4124c.json))
 
-* **93** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
+* **94** economy-next-com ([After rejecting for decades, Sri Lanka politicians now want SOE restructuring amid IMF deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cd338db.json))
 
 * **75** island-lk ([Gotabaya Rajapaksa, in retrospect](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/406a09fd.json))
 
