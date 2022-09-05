@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Dates-for-Scholarship-AL-Examination-announced/108-244329",
+    "time_ut": 1662364144,
+    "original_lang": "en",
+    "original_title": "Dates for Scholarship, A/L Examination announced",
+    "file_name": "/tmp/news_lk2/articles/cf/cf940609.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84761/400-fuel-stations-are-at-risk-of-closing-down-every-day",
+    "time_ut": 1662363660,
+    "original_lang": "en",
+    "original_title": "400 fuel stations are at risk of closing down every day",
+    "file_name": "/tmp/news_lk2/articles/55/55215cea.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84762/bill-to-trim-presidents-powers-likely-to-become-law-soon-ali-sabry",
+    "time_ut": 1662363660,
+    "original_lang": "en",
+    "original_title": "Bill to trim President\u2019s powers likely to become law soon - Ali Sabry",
+    "file_name": "/tmp/news_lk2/articles/2b/2b1e6854.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb-\u0dc3\u0db7\u0dcf\u0dc0-\u0daf\u0dd2\u0dc0\u0dd4\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba-\u0dc3\u0db7\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0d9c\u0dad\u0dca\u0dad-\u0db4\u0ddc\u0dbd\u0dca\u0dc0\u0dbd\u0da7-\u0db4\u0ddc\u0dbd\u0dca\u0dbd\u0d9a\u0dca/101-619323",
     "time_ut": 1662362899,
@@ -33,11 +57,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Red-alert-issued-in-9-districts-over-150mm-rainfall-expected-Met-Dept/342-244325",
+    "url": "https://www.dailymirror.lk/breaking_news/Red-alert-issued-in-9-districts-over-150mm-rainfall-expected-Met-Dept/108-244325",
     "time_ut": 1662361151,
     "original_lang": "en",
     "original_title": "Red alert issued in 9 districts; over 150mm rainfall expected: Met Dept",
-    "file_name": "/tmp/news_lk2/articles/18/18824443.json"
+    "file_name": "/tmp/news_lk2/articles/00/00f3f664.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -81,11 +105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/12-5Kg-LITRO-gas-cylinder-price-down-by-Rs-113/342-244324",
+    "url": "https://www.dailymirror.lk/breaking_news/12-5Kg-LITRO-gas-cylinder-price-down-by-Rs-113/108-244324",
     "time_ut": 1662359131,
     "original_lang": "en",
     "original_title": "12.5Kg LITRO gas cylinder price down by Rs.113",
-    "file_name": "/tmp/news_lk2/articles/f2/f2986f0f.json"
+    "file_name": "/tmp/news_lk2/articles/2c/2c4d54b3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -344,6 +368,14 @@
     "file_name": "/tmp/news_lk2/articles/7c/7c7c50d5.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/No-discussion-on-appointing-Gotabaya-as-PM-Ruwan/155-244322",
+    "time_ut": 1662353070,
+    "original_lang": "en",
+    "original_title": "No discussion on appointing Gotabaya as PM: Ruwan",
+    "file_name": "/tmp/news_lk2/articles/26/26c09b4e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84753/india-provided-nearly-4-billion-in-food-financial-assistance-to-sri-lanka",
     "time_ut": 1662353040,
@@ -478,6 +510,14 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0dd9\u0dca\u0dbd\u0dba \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dc5 \u0d85\u0dba\u0d9a\u0dd4 \u0dad\u0da7\u0dca\u0da7\u0dd4 12 \u0db8\u0dc4\u0dbd\u0dd9\u0db1\u0dca \u0db6\u0dd2\u0db8\u0da7 \u0dc0\u0dd0\u0da7\u0dd3 \u0db8\u0dbb\u0dd4\u0da7",
     "file_name": "/tmp/news_lk2/articles/95/9577bf6f.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/evaluation-of-aragalaya/",
+    "time_ut": 1662343973,
+    "original_lang": "en",
+    "original_title": "Evaluation Of Aragalaya",
+    "file_name": "/tmp/news_lk2/articles/07/0702972b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0db4\u0dad\u0dca\u200d\u0dbb \u0db4\u0dcf\u0da8\u0db8\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/60/60e206b6.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/fire-sale-on/",
-    "time_ut": 1661879820,
-    "original_lang": "en",
-    "original_title": "Fire sale on",
-    "file_name": "/tmp/news_lk2/articles/b2/b2953af1.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/hike-in-mental-health-related-issues-in-the-wake-of-lockdowns/",
-    "time_ut": 1661878680,
-    "original_lang": "en",
-    "original_title": "\u2018Hike in mental health related issues in the wake of lockdowns\u2019",
-    "file_name": "/tmp/news_lk2/articles/12/12fb0e52.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/phoenix-launch-2022-industrial-collection-of-crates-pallets-designed-for-handling/",
-    "time_ut": 1661878560,
-    "original_lang": "en",
-    "original_title": "Phoenix Launch 2022 Industrial Collection of Crates & Pallets \u2013 Designed for Handling",
-    "file_name": "/tmp/news_lk2/articles/6f/6f182520.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/prof-s-m-p-senanayake-he-was-always-a-simple-and-humble-man/",
-    "time_ut": 1661878500,
-    "original_lang": "en",
-    "original_title": "Prof. S. M. P. Senanayake \u2013 \u2018He was always a simple and humble man\u2019",
-    "file_name": "/tmp/news_lk2/articles/7c/7c89b917.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-bakery-owners-shift-price-control-drumbeat-from-eggs-to-wheat-flour-99205/",
-    "time_ut": 1661869680,
-    "original_lang": "en",
-    "original_title": "Sri Lanka bakery owners shift price control drumbeat from eggs to wheat flour",
-    "file_name": "/tmp/news_lk2/articles/00/00e66c9d.json"
   }
 ]
