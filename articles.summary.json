@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Seas-waves-to-rise-as-high-as-3-metres/342-244348",
+    "time_ut": 1662389982,
+    "original_lang": "en",
+    "original_title": "Seas waves to rise as high as 3 metres",
+    "file_name": "/tmp/news_lk2/articles/bc/bc651ff8.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bcd-\u0b95\u0bbe\u0bb2\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1/175-303627",
+    "time_ut": 1662389911,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bcd \u0b95\u0bbe\u0bb2\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ea/ea7b81f0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/09/05/unhrc-sri-lanka-will-not-accept-any-external-mechanism-foreign-minister/",
+    "time_ut": 1662389520,
+    "original_lang": "en",
+    "original_title": "UNHRC: Sri Lanka will not accept any external mechanism \u2013 Foreign Minister",
+    "file_name": "/tmp/news_lk2/articles/24/24cc5e82.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd-\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1-\u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-303626",
+    "time_ut": 1662389488,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/5b/5bfee3c6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Increase-petrol-quota-for-three-wheelers/342-244347",
+    "time_ut": 1662389383,
+    "original_lang": "en",
+    "original_title": "Increase petrol quota for three-wheelers",
+    "file_name": "/tmp/news_lk2/articles/42/427a5f6b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Uthara-Sabagaya-launched/342-244346",
     "time_ut": 1662389193,
     "original_lang": "en",
