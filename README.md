@@ -1,48 +1,40 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-05 19:15:45 (LK time)*
+*As of 2022-09-05 19:31:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
-
-* **1** tamil-mirror-lk ([மகசீனை ஒப்படைக்க வந்தவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be4433b6.json))
-
-## Last Hour (6 Articles)
+## Last Hour (3 Articles)
 
 * **2** tamil-mirror-lk ([ரணில் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/dfaf915b.json))
 
-* **2** lankadeepa-lk ([අය වැය යෝජනා හරියට වෙනවාදැයි ’’ඔත්තු’’ බලන්න කමිටුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00341883.json))
+* **1** lankadeepa-lk ([සාපෙළ ප්‍රායෝගික පරික්ෂණ දින පහකින් පස්සට](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2cfb8980.json))
 
-* **1** economy-next-com ([Sri Lanka expects less votes in upcoming UNHRC session, if resolution vote held](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebfec541.json))
+## Last 3 Hours (30 Articles)
 
-* **1** daily-mirror-lk ([Boy trapped in storm drain dies](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b6cc1d6.json))
-
-## Last 3 Hours (36 Articles)
-
-* **10** lankadeepa-lk ([විදුලි කප්පාදුව පැයකට අඩු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28b24a83.json))
+* **9** lankadeepa-lk ([පවුල් 61,000කට මසකට 10,000 දීමනාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57210531.json))
 
 * **7** tamil-mirror-lk ([குறைக்கப்பட்டது மின்வெட்டு நேரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/765b9f83.json))
 
-* **5** economy-next-com ([Sri Lanka warned of floods, rough seas if heavy rains continue](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45aecff4.json))
+* **4** economy-next-com ([Sri Lanka appoints committee to facilitate repatriation of refugees from India](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f25a72f1.json))
 
 * **4** daily-mirror-lk ([One-hour power cut until Friday: PUCSL](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a81f45a.json))
 
-* **4** ada-derana-lk ([Committee appointed to facilitate repatriation of Sri Lankan refugees from India](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e5e3174.json))
+* **3** ada-derana-lk ([One-hour power cuts scheduled for next four days](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71acec21.json))
 
-* **3** news-first-lk ([One-hour daily Power-Cuts from 6th to 9th September](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35094adb.json))
+* **2** news-first-lk ([(VIDEO) School boy trapped in storm drain in Kurunegala, dies](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/dffafccc.json))
 
-* **3** ada-lk ([විදෙස් ශ්‍රමිකයන්ට තවත් අවස්ථාවක් - ඩොලර් ගෙවා නිවාස මිලදී ගැනීමේදි වට්ටම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50f1d64b.json))
+* **1** ada-lk ([සරණාගතයින් ලෙස ඉන්දියාවට ගිය 58000න් 3800ක් යළි එන්න කැමැත්තෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4b1ef27.json))
 
-## Last 24 Hours (197 Articles)
+## Last 24 Hours (195 Articles)
 
 * **40** lankadeepa-lk ([තිරිඟු පිටි මිල වැඩිවීමට හේතුවක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8da4528d.json))
 
-* **29** tamil-mirror-lk ([இலங்கை மின்சார சபையில் மறுசீரமைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fb4154c.json))
+* **28** tamil-mirror-lk ([கொரோனா உயிரிழப்புகள் அதிகரித்தன](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f13eb5e.json))
 
 * **26** daily-mirror-lk ([Gota’s legacy and the ecological damage: This disaster is environmental as well as economic](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7b4fc12.json))
 
-* **26** ada-derana-lk ([High Commissioner reiterates India’s commitment to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20c30e8c.json))
+* **25** ada-derana-lk ([One dead, one injured in van-bus collision](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71b3ddef.json))
 
 * **23** ada-lk ([ගිහියෝ බණ කියනවා හාමුදුරුවරු වවනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1768385.json))
 
