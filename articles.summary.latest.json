@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84774/committee-appointed-to-review-progress-of-projects-under-ministries-departments-institutions",
+    "time_ut": 1662403140,
+    "original_lang": "en",
+    "original_title": "Committee appointed to review progress of projects under ministries, departments, institutions",
+    "file_name": "/tmp/news_lk2/articles/20/2020d123.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1-\u0b85\u0baa\u0bbe\u0baf-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-303633",
     "time_ut": 1662402331,
@@ -14,6 +22,22 @@
     "original_lang": "en",
     "original_title": "Proposal to register all individuals above 18 years with the Tax Authorities",
     "file_name": "/tmp/news_lk2/articles/66/66c56381.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Justice-for-Gotabaya-and-Justice-for-Sri-Lanka/172-244366",
+    "time_ut": 1662399177,
+    "original_lang": "en",
+    "original_title": "Justice for Gotabaya and Justice for Sri Lanka!",
+    "file_name": "/tmp/news_lk2/articles/36/36aba25b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/The-balancing-act-between-legitimacy-and-stability/172-244365",
+    "time_ut": 1662399060,
+    "original_lang": "en",
+    "original_title": "The balancing act between legitimacy and stability",
+    "file_name": "/tmp/news_lk2/articles/7f/7f6519f2.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "CCPI-based inflation climbs over 64% in August",
     "file_name": "/tmp/news_lk2/articles/9e/9eee55cb.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd2\u0dba\u0dcf-\u0d9a\u0dd0\u0da9\u0dd4-\u0db4\u0ddc\u0dbd\u0dca-\u0d9c\u0dd9\u0da9\u0dd2\u0dba-\u0dc4\u0dd2\u0dc3\u0da7-\u0dc0\u0dd0\u0da7\u0dd3-\u0db4\u0dd4\u0dad\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/11-396784",
-    "time_ut": 1661939639,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dd2\u0dba\u0dcf \u0d9a\u0dd0\u0da9\u0dd4 \u0db4\u0ddc\u0dbd\u0dca \u0d9c\u0dd9\u0da9\u0dd2\u0dba \u0dc4\u0dd2\u0dc3\u0da7 \u0dc0\u0dd0\u0da7\u0dd3 \u0db4\u0dd4\u0dad\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/09/09dae65b.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dbb\u0dab-\u0daf\u0dab\u0dca\u0da9\u0db1\u0dba\u0da7-\u0d85\u0dad\u0dca\u0dc3\u0db1\u0dca-\u0dad\u0dd0\u0db6\u0dd3\u0db8-\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4-\u0d9a\u0dbb\u0dba\u0dd2/101-619072",
-    "time_ut": 1661939591,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dbb\u0dab \u0daf\u0dab\u0dca\u0da9\u0db1\u0dba\u0da7 \u0d85\u0dad\u0dca\u0dc3\u0db1\u0dca \u0dad\u0dd0\u0db6\u0dd3\u0db8 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4 \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a8/a828e40c.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-chinese-built-lotus-tower-to-be-commence-operations-on-sep-15-99284/",
-    "time_ut": 1661939220,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s Chinese-built Lotus Tower to be commence operations on Sep 15",
-    "file_name": "/tmp/news_lk2/articles/96/96fb4100.json"
   }
 ]
