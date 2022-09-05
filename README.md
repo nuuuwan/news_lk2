@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-09-05 22:47:55 (LK time)*
+*As of 2022-09-05 23:07:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (2 Articles)
-
-* **1** tamil-mirror-lk ([கோட்டாவை கைது செய்ய கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/8563423d.json))
-
-* **1** ada-derana-lk ([Flood warning as water levels rise in Maha Oya](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/310cb9bd.json))
 
 ## Last Hour (2 Articles)
 
@@ -28,13 +22,13 @@
 
 * **2** ada-lk ([බ්‍රිතාන්‍ය සුක්කානම කාන්තාවකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/4660b75e.json))
 
-## Last 24 Hours (187 Articles)
+## Last 24 Hours (184 Articles)
 
 * **37** lankadeepa-lk ([කැනඩාවේ පිහි ප්‍රහාර මාලාවකින් 10 ක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fe2b4b4.json))
 
 * **29** tamil-mirror-lk ([ஐ.எம்.எப். உடன்படிக்கை சபைக்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aaeab8e5.json))
 
-* **27** ada-derana-lk ([Covid-19: four more deaths and 49 new cases reported](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4ea25d61.json))
+* **26** ada-derana-lk ([Controversial ‘godman’ accused of rape seeks asylum in Sri Lanka - report](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b178612.json))
 
 * **25** ada-lk ([බිත්තර මිල ගැසට්ටුව ආපසු හරවන්නේ නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61d05c24.json))
 
@@ -44,7 +38,7 @@
 
 * **12** economy-next-com ([Sri Lanka real wages down as inflation races ahead](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/223e6a3f.json))
 
-* **8** daily-ft-lk ([Child’s guide to how Ranilnomics should be designed and implemented: Part I](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7484ee6d.json))
+* **6** daily-ft-lk ([Forest bathing to heal yourself](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f51dc84e.json))
 
 * **1** colombo-telegraph-com ([Evaluation Of Aragalaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/0702972b.json))
 
