@@ -32,6 +32,14 @@
     "file_name": "/tmp/news_lk2/articles/48/481df6b1.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/DMT-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7-\u0d9a\u0dcf\u0da9\u0dca\u0db4\u0dad\u0dd4\u0dad\u0dca-\u0db7\u0dcf\u0dbb-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-396908",
+    "time_ut": 1662390879,
+    "original_lang": "si",
+    "original_title": "DMT \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7 \u0d9a\u0dcf\u0da9\u0dca\u0db4\u0dad\u0dd4\u0dad\u0dca \u0db7\u0dcf\u0dbb \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d7/d7eda7c7.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0baa\u0bc7\u0bb0\u0ba9\u0bcd\u0b9a\u0bbf-\u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd-\u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd/175-303629",
     "time_ut": 1662390573,
@@ -57,11 +65,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Seas-waves-to-rise-as-high-as-3-metres/342-244348",
+    "url": "https://www.dailymirror.lk/caption_story/Seas-waves-to-rise-as-high-as-3-metres/110-244348",
     "time_ut": 1662389982,
     "original_lang": "en",
     "original_title": "Seas waves to rise as high as 3 metres",
-    "file_name": "/tmp/news_lk2/articles/bc/bc651ff8.json"
+    "file_name": "/tmp/news_lk2/articles/03/0357d4e8.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
