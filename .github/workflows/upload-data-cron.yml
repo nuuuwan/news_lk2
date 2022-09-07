@@ -1,9 +1,9 @@
 name: Upload Data - Cron
 
-on:
- schedule:
-   - cron:  "*/20 * * * *"
-# on: workflow_dispatch
+# on:
+#  schedule:
+#    - cron:  "*/20 * * * *"
+on: workflow_dispatch
 
 jobs:
   upload-data:
